@@ -4,7 +4,7 @@ import requests
 from markdownify import markdownify
 from tqdm import tqdm
 from unidecode import unidecode
-import re
+import regex as re
 import shutil
 from bs4 import BeautifulSoup
 
@@ -49,7 +49,7 @@ def save_general_info(p, track_changes):
     write_with_tracking("WeitereHinweise.md", "Weitere Hinweise für Ihre Reise", "# Weitere Hinweise für Ihre Reise\n\n" + to_markdown(str(furtherInfo)), track_changes)
 
 def to_filename(n):
-    filesafe = re.sub("[^a-zäöüß ]", "", n.lower())
+    filesafe = re.sub(r"[^\p{L} ]", "", n.lower())
     camel_case = "".join(w.capitalize() for w in filesafe.split())
     return camel_case + ".md"
 
@@ -115,7 +115,7 @@ def save_all():
     print("Commit message:")
     print(cm)
 
-    if len(changes) > 0:
+    if not os.environ.get("NO_COMMIT") and len(changes) > 0:
         repo = Repo()
         actor = Actor("ReisehinweisBot", "reisehinweis.web@lbroe.de")
         repo.git.add(all=True)
