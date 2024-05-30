@@ -6,46 +6,36 @@ Dies ist ein gemeinsamer Reisehinweis für Israel und die Palästinensischen Geb
 
 **Vor Reisen nach Israel und in die Palästinensischen Gebiete wird gewarnt.** 
 
-**Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen und im Westjordanland aufhalten, wird empfohlen, auszureisen.**
+**Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen oder im Westjordanland aufhalten, wird empfohlen, auszureisen.**
 
-**In der Nacht auf den 14. April wurden von Iran mehrere hundert Projektile (darunter Drohnen, Marschflugkörper und ballistische Raketen) Richtung Israel verschossen, von denen die weit überwiegende Zahl noch außerhalb des israelischen Luftraums abgefangen werden konnte.** 
+**Israel befindet sich weiterhin formell im Kriegszustand.**
 
-**Im Westjordanland kam es zu massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten.**
+### Sicherheitslage
 
-**Die derzeitigen Spannungen in der Region, insbesondere zwischen Iran und Israel, bergen die Gefahr einer erheblichen, weiteren Eskalation. Die Sicherheitslage kann sich schnell und ohne Vorwarnung weiter verschärfen.** 
+Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Zuletzt kam es am 26. Mai 2024 in Tel Aviv und Umgebung zu Beschuss mit Raketen aus dem Gaza-Streifen. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
 
-**Aufgrund der Sicherheitslage haben einige Airlines ihre Flüge nach bzw. aus Tel Aviv suspendiert. Es ist damit zu rechnen, dass von einer weiteren Eskalation auch Luft- Land- und Seetransportwege stärker als bereits gegenwärtig betroffen wären, mit entsprechend deutlichen Beeinträchtigungen von Ein- und Ausreisemöglichkeiten.**
+Im Westjordanland kam es zu massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Die derzeitigen Spannungen in der Region, insbesondere zwischen Iran und Israel, bergen die Gefahr einer erheblichen weiteren Eskalation. Die Sicherheitslage, insbesondere an Feiertagen wie dem „Jerusalemtag“ am 5. Juni 2024 kann sich schnell und ohne Vorwarnung weiter verschärfen.
+
+**Beachten Sie die geltende Reisewarnung.**
+
+* Machen Sie sich mit den vorhandenen Schutzvorkehrungen (Lage der Schutzräume) und [Hinweisen des israelischen Zivilschutzes](https://tel-aviv.diplo.de/blob/1603264/a40f0816942d69c288b15f6216227142/hinweise-des-israelischen-heimatschutzes-data.pdf) vertraut.
+* Befolgen Sie ggf. die Anweisungen des israelischen Zivilschutzes [Home Front Command](https://www.oref.org.il/894-en/Pakar.aspx) (nur in Israel aufrufbar) oder erkundigen Sie sich telefonisch unter der Rufnummer 104 in englischer Sprache.
+* Befolgen Sie unbedingt die Anweisungen der lokalen Sicherheitskräfte, verfolgen Sie Meldungen in Medien aufmerksam, laden und nutzen Sie die App „Red Alert (Nofzam)“ vor Ort. Suchen Sie beim Ertönen von Alarmsirenen umgehend (innerhalb von 90 Sekunden) nahegelegene Schutzräume auf und verweilen sie dort für mindestens zehn Minuten nach Abklingen der Sirenen. Sollten keine Schutzräume zur Verfügung stehen, halten Sie sich im Inneren des Gebäudes auf und bleiben Sie Fenstern fern.
+* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Sollten Sie Israel und die Palästinensischen Gebiete inzwischen verlassen haben, vermerken Sie dies bitte dort ebenfalls.
+* Achten Sie vorsorglich auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).
+* Prüfen Sie, ob Überlandfahrten im Westjordanland zwingend notwendig sind, und meiden Sie die Straßen 60 und 458.
+* Verfolgen Sie die Lageentwicklung aufmerksam.
 
 [Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
-### Sicherheitslage Israel
+### Ausreisemöglichkeiten
 
-Israel befindet sich formell im Kriegszustand.
-
-Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Eine Ausweitung des Konflikts kann nicht ausgeschlossen werden. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
-
-Der internationale Flughafen Ben-Gurion ist weiterhin geöffnet. Allerdings haben einige Airlines ihre Flüge aufgrund der aktuellen Entwicklung der Sicherheitslage suspendiert. Bei einer Ausweitung des Konflikts wäre mit erheblichen zusätzlichen Einschränkungen des Flugverkehrs und Flugausfällen ohne Vorwarnzeit zu rechnen. Weiterhin möglich ist zudem die Ausreise über den Landweg *siehe* unten: *Einreise und Zoll - Grenzübergänge*).
-
-* **Beachten Sie die geltende [Reisewarnung](http://www.auswaertiges-amt.de/de/ReiseUndSicherheit/10.2.8Reisewarnungen).**
-* Machen Sie sich mit den vorhandenen Schutzvorkehrungen (Lage der Schutzräume) und [Hinweisen des israelischen Zivilschutzes](https://tel-aviv.diplo.de/blob/1603264/a40f0816942d69c288b15f6216227142/hinweise-des-israelischen-heimatschutzes-data.pdf) vertraut.
-* Befolgen Sie ggf. die Anweisungen des israelischen Zivilschutzes [Home Front Command](https://www.oref.org.il/894-en/Pakar.aspx) (nur in Israel aufrufbar) oder erkundigen Sie sich telefonisch unter der Rufnummer 104 in englischer Sprache.
-* Befolgen Sie unbedingt die Anweisungen der lokalen Sicherheitskräfte, verfolgen Sie Meldungen in Medien aufmerksam, laden und nutzen Sie die App „Red Alert (Nofzam)“ vor Ort.
-* Suchen Sie beim Erklingen von Alarmsirenen umgehend (innerhalb von 90 Sekunden) nahegelegene Schutzräume auf und verweilen sie dort für mindestens 10 Minuten nach Abklingen der Sirenen.
-* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Sollten Sie Israel und die Palästinensischen Gebiete inzwischen verlassen haben, so vermerken Sie dies bitte dort ebenfalls.
-* Achten Sie vorsorglich auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).
-* Meiden Sie Menschenansammlungen.
-
-Bei der Ausreise aus Israel beachten Sie bitte Folgendes:
-
-* Setzen Sie sich keinen zusätzlichen Risiken aus.
-* Informieren Sie sich im Rahmen der Möglichkeiten vorab über örtliche Gegebenheiten und den Fahrtweg von Ihrem aktuellen Aufenthaltsort.
-* Beachten Sie, dass sich die Lage schnell und unvorhersehbar ändern kann.
-* Prüfen Sie bei Flugausfällen und -verschiebungen immer wieder die Angebote der Fluglinien.
-* Nutzen Sie auch Angebote von weniger bekannten Fluglinien und Flüge in andere Länder als ihr endgültiges Zielland. Von dort lässt sich die Weiterreise an Ihren Zielort leichter organisieren.
+Aufgrund der Sicherheitslage haben einige Fluggesellschaften ihre Flüge nach bzw. aus Tel Aviv suspendiert. Es ist damit zu rechnen, dass von einer weiteren Eskalation auch Luft-, Land- und Seetransportwege stärker als bereits gegenwärtig betroffen sein könnten mit entsprechend deutlichen Beeinträchtigungen der Ein- und Ausreisemöglichkeiten.  
+Informationen zur Ausreise über den Landweg siehe unten: *Einreise und Zoll - Grenzübergänge*.
 
 ### **Ausreise aus dem Gazastreifen**
 
-Lediglich der Grenzübergang Rafah nach Ägypten ist zurzeit nutzbar. Dieser öffnet nur unregelmäßig und auch nur für wenige Stunden. Für die Ausreise über Rafah bedarf es zudem der Koordinierung und Zustimmung der zuständigen Grenzbehörden von Israel, Ägypten und der Defacto Behörden des Gazastreifens, die nach eigenem Ermessen entscheiden. Konsularische Hilfeleistungen in Gaza sind aufgrund der kriegerischen Handlungen zurzeit praktisch unmöglich.
+Der Grenzübergang Rafah nach Ägypten ist derzeit geschlossen. Für eine mögliche Ausreise über Rafah bedarf es auch nach Wiedereröffnung zudem der Koordinierung und Zustimmung der zuständigen Grenzbehörden von Israel, Ägypten und der De-facto-Behörden des Gazastreifens, die nach eigenem Ermessen entscheiden. Konsularische Hilfeleistungen in Gaza sind aufgrund der kriegerischen Handlungen zurzeit praktisch unmöglich.
 
 Deutsche, die sich trotz Reisewarnung derzeit im Gazastreifen aufhalten, beachten folgende Hinweise:
 
@@ -55,19 +45,19 @@ Deutsche, die sich trotz Reisewarnung derzeit im Gazastreifen aufhalten, beachte
 
 ## Sicherheit – Reisewarnung
 
+Siehe *Aktuelles*.
+
 **Vor Reisen nach Israel und in die Palästinensischen Gebiete wird gewarnt.** 
 
 **Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen oder im Westjordanland aufhalten, wird empfohlen, auszureisen.** 
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
-
 ### Terrorismus
 
-Israel bleibt das erklärte Ziel von islamistischen Terrorgruppen.
+Israel bleibt das erklärte Ziel islamistischer Terrorgruppen.
 
 Es kann in der aktuellen Situation zu terroristischen Angriffen im öffentlichen Raum kommen; das Risiko von Anschlägen besteht fort.
 
-* Seien Sie landesweit besonders vorsichtig, insbesondere in der Nähe von Bushaltestellen und Bahnhöfen.
+* Seien Sie landesweit besonders vorsichtig, insbesondere in der Nähe von Bushaltestellen und Bahnhöfen und bei besonderen Anlässen.
 * Meiden Sie möglichst Menschenansammlungen.
 * Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
@@ -75,58 +65,29 @@ Es kann in der aktuellen Situation zu terroristischen Angriffen im öffentlichen
 
 Siehe *Aktuelles*
 
-Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die großräumigen militärischen Operationen im Gaza-Streifen an.
-
-Mit Beschuss durch Raketen ist in allen Teilen Israels einschließlich der Großräume Tel Aviv und Jerusalem weiter zu rechnen. Regelmäßig kommt es zudem zu heftigen Auseinandersetzungen entlang der Grenze zum Libanon.
-
-Insbesondere im Westjordanland ist die Sicherheitslage angespannt. Es kann vor allem dort vermehrt zu Zusammenstößen zwischen Demonstranten und Sicherheitskräften kommen. Ein Wiederaufflammen der Zwischenfälle am Gazastreifen und im unmittelbar angrenzenden Gebiet - insbesondere im Abstand von etwa 40 Kilometern von der Gaza-Sperranlage - kann nicht ausgeschlossen werden.
-
-* Verfolgen Sie die Lageentwicklung aufmerksam.
-* Meiden Sie größere Menschenansammlungen.
-* Lassen Sie bei der Nutzung der öffentlichen Verkehrsmittel in Israel und den Palästinensischen Gebieten besondere Vorsicht walten.
-* Machen Sie sich mit den vorhandenen Schutzvorkehrungen (Lage der Schutzräume) und [Hinweisen des israelischen Zivilschutzes](https://tel-aviv.diplo.de/blob/1603264/a40f0816942d69c288b15f6216227142/hinweise-des-israelischen-heimatschutzes-data.pdf) vertraut.
-* Suchen Sie beim Erklingen von Alarmsirenen umgehend nahegelegene Schutzräume auf und verweilen sie dort für min. 10 Minuten nach Abklingen der Sirenen.
-* Befolgen Sie ggf. die Anweisungen des israelischen Zivilschutzes [Home Front Command](https://www.oref.org.il/894-en/Pakar.aspx) (nur in Israel aufrufbar) oder erkundigen Sie sich telefonisch unter der Rufnummer 104 in englischer Sprache.
-
-#### *Jerusalem (einschließlich Ost-Jerusalem)*
-
-Insbesondere an muslimischen und jüdischen Feiertagen sowie an Freitagen sind Auseinandersetzungen nicht auszuschließen. Besonders während des bevorstehenden Ramadans (10. März – 9. April 2024) muss mit Ausschreitungen und Protesten gerechnet werden.
-
-* Seien Sie jederzeit, aber vor allem bei Besuchen der Altstadt von Jerusalem, insbesondere an den Toren zum muslimischen Teil der Altstadt, den Zugängen zum Haram al-Sharif/Tempelberg und nahe der Klagemauer wachsam.
-* Meiden Sie Menschenansammlungen.
-* Suchen Sie Rat bei einer ortskundigen Begleitung.
-* Halten Sie sich über die aktuelle Lage informiert.
-
-#### *Grenzgebiet zu Syrien und Libanon*
-
-*Siehe Aktuelles*
-
-#### *Grenzgebiet zu Ägypten*
+###### ***Grenzgebiet zu Ägypten***
 
 Die südliche Hafenstadt Eilat ist in unregelmäßigen Abständen Ziel von Raketen und anderen Flugkörpern, die aus jemenitischem Gebiet gestartet werden. Die überwiegende Zahl wird auf offener See von Raketenabwehrsystemen abgefangen; vereinzelt waren Einschläge zu verzeichnen.
 
 In der Vergangenheit wurden vereinzelt Raketen aus dem Sinai auf Israel abgeschossen, die in unbewohntem Gebiet um Eilat eingeschlagen sind. Es kam nicht zu Personen- oder Sachschäden. Vereinzelte bewaffnete Zwischenfälle entlang der israelisch-ägyptischen Grenze können nicht ausgeschlossen werden. In der Vergangenheit kam es dabei auch zu Schusswechseln.
 
-* Vermeiden Sie Fahrten entlang der israelisch-ägyptischen Grenze und weichen Sie auf alternative Routen aus.
-* Beachten Sie auch die [Reise- und Sicherheitshinweise Ägypten](https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit/212622 "Ägypten: Reise- und Sicherheitshinweise") mit einer **Teilreisewarnung für den Nordsinai** **inklusive des Grenzgebiets** zu Israel (mit Ausnahme des an Eilat angrenzenden Ortes Taba).
+###### ***Palästinensische Gebiete: Gazastreifen***
 
-#### *Palästinensische Gebiete: Gazastreifen*
+Siehe *Aktuelles*.
 
-*Siehe Aktuelles*
+**Vor Reisen in den Gazastreifen wird gewarnt.**
 
-**Vor Reisen in den Gazastreifen wird gewarnt.**  
 **Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen aufhalten, wird empfohlen, auszureisen.**
 
-Die deutschen Auslandsvertretungen in Ramallah, Tel Aviv oder Kairo können im Gazastreifen praktisch keine konsularische Hilfe leisten. Die Ausreise aus dem Gazastreifen ist nur über den Grenzübergang Rafah und ausschließlich nach vorheriger Genehmigung der lokalen Behörden möglich.
+Die deutschen Auslandsvertretungen in Ramallah, Tel Aviv oder Kairo können im Gazastreifen praktisch keine konsularische Hilfe leisten.
 
-**Es besteht eine Reisewarnung für den Nordsinai.** Auf die erheblichen Gefahren eines Transits durch den Nord-Sinai wird hingewiesen, siehe [Reise- und Sicherheitshinweise - Teilreisewarnung - Ägypten](https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit/212622 "Ägypten: Reise- und Sicherheitshinweise").
+**Es besteht eine Reisewarnung für den Nordsinai.**
 
-#### *Palästinensische Gebiete: Westjordanland (Westbank)*
+Auf die erheblichen Gefahren eines Transits durch den Nordsinai wird hingewiesen, siehe [Reise- und Sicherheitshinweise - Teilreisewarnung - Ägypten](https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit/212622).
 
-*Siehe Aktuelles*
+###### ***Palästinensische Gebiete: Westjordanland (Westbank)***
 
-**Vor Reisen in das Westjordanland wird gewarnt.**
-
+**Vor Reisen in das Westjordanland wird gewarnt.**  
 **Deutschen Staatsangehörigen, die sich derzeit im Westjordanland aufhalten, wird empfohlen, auszureisen.**
 
 Das Westjordanland (Westbank) ist seit 1967 militärisch besetzt und in Gebiete mit verschiedenen Verwaltungsarrangements eingeteilt. Es gibt zahlreiche Checkpoints und gesperrte Straßen, zwischen Israel und Jerusalem sowie dem Westjordanland, aber auch innerhalb des Westjordanlands.
@@ -135,11 +96,11 @@ Es kommt derzeit verstärkt zu Auseinandersetzungen zwischen israelischen Sicher
 
 Die Sicherheitslage im Westjordanland ist ausgesprochen volatil und kann sich nach akuten Sicherheitsvorfällen schnell ändern. In solchen Fällen können einzelne Ortschaften durch das israelische Militär abgeriegelt oder sogenannte „fliegende“ Checkpoints eingerichtet werden. Reguläre Checkpoints können jederzeit vorübergehend geschlossen werden. Es kann jederzeit zu Einsätzen der israelischen Sicherheitskräfte in palästinensischen Städten und Dörfern oder Demonstrationen kommen.
 
-* **Achten Sie vorsorglich und soweit dies sicher möglich ist auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).**
-* **Laden Sie Mobiltelefone sowie andere Kommunikationsmittel und verfügbare externe Batterien immer voll auf, wenn Sie Zugang zu Strom haben.**
+* Prüfen Sie, ob Fahrten über Land zwingend erforderlich sind, und meiden Sie die in letzter Zeit besonders von Siedlergewalt betroffenen Straßen 60 und 458.
+* Achten Sie vorsorglich und soweit dies sicher möglich ist auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).
+* Laden Sie Mobiltelefone sowie andere Kommunikationsmittel und verfügbare externe Batterien immer voll auf, wenn Sie Zugang zu Strom haben.
 * Bewahren Sie unbedingt Ruhe, meiden Sie Menschenansammlungen und suchen Sie ggf. Zuflucht im Inneren von Geschäften und Wohnhäusern.
 * Befolgen Sie unbedingt die Anweisungen der israelischen und palästinensischen Sicherheitskräfte.
-* Vermeiden Sie die Benutzung der Straße 60 im Westjordanland insbesondere auf der Strecke zwischen Ramallah und Nablus, um die Stadt Hebron sowie generell in der Nähe von israelischen Siedlungen und Checkpoints.
 * Vermeiden Sie Fahrten nach Jericho, insbesondere aus dem Süden in Richtung Flüchtlingslager Aqabat Jaber.
 * Vermeiden Sie generell Fahrten in der Dunkelheit.
 * Beachten Sie unbedingt Zugangsbeschränkungen zu militärischen Sperrgebieten.
@@ -147,6 +108,8 @@ Die Sicherheitslage im Westjordanland ist ausgesprochen volatil und kann sich na
 * Bitte beachten Sie, dass die Nutzung israelischer Mietwagen im Westjordanland nicht gestattet ist.
 
 ### Kriminalität
+
+*Siehe Aktuelles*
 
 Die Kriminalitätsrate ist niedrig. Kleinkriminalität wie Taschendiebstähle kommt insbesondere an touristisch frequentierten Orten wie Flughäfen, Bahnhöfen und Stränden vor.
 
@@ -170,15 +133,15 @@ In Tel Aviv und Umgebung kommt es aufgrund von gefährlichen Strömungen immer w
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Verlassen Sie befestigte Straßen und Wege am Toten Meer nicht.
 * Halten Sie sich in Tel Aviv und Umgebung beim Baden im Meer immer in Strandnähe auf und schwimmen Sie nicht zu weit hinaus.
-* Achten Sie auf teilweise sehr starken Strömungen und meiden Sie diese frühzeitig.
-* Baden Sie nur an bewachten Küstenabschnitten und beachten Sie dort unbedingt die Beflaggung an den Stränden und die Durchsagen der Bademeister.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Achten Sie auf teilweise sehr starke Strömungen und meiden Sie diese frühzeitig.
+* Baden Sie nur an bewachten Küstenabschnitten und beachten Sie dort unbedingt die Beflaggung an den Stränden und die Durchsagen der Rettungsschwimmer.
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Infrastruktur/Verkehr
 
-Es gibt ein Inlandsflugnetz (Tel Aviv-Eilat), zahlreiche Busverbindungen und ein Eisenbahnnetz. Die Promillegrenze beträgt 0,5. Außerhalb von Ortschaften ist vom 1. November bis 31. März auch tagsüber Abblendlicht Pflicht.
+Es gibt ein Inlandsflugnetz (Tel Aviv - Eilat), zahlreiche Busverbindungen und ein Eisenbahnnetz. Die Promillegrenze beträgt 0,5. Außerhalb von Ortschaften ist vom 1. November bis 31. März auch tagsüber Abblendlichtpflicht.
 
 Am Schabbat verkehren viele öffentliche Verkehrsmittel nicht. Fahrten in ultra-orthodoxe Viertel am Schabbat sollten vermieden werden, am Yom-Kippur-Tag wird empfohlen, auf Fahrten zu verzichten.  
 Die Anmietung von Mietwagen in Israel ist problemlos möglich. Aus versicherungstechnischen Gründen dürfen damit aber grundsätzlich keine Straßen in den Palästinensischen Gebieten befahren werden. Ausgenommen sind die Straße 1 von Jerusalem zum Toten Meer und die Straße 90 im Jordantal.
@@ -204,7 +167,7 @@ Homosexuelle Handlungen zwischen Männern sind in den Palästinensischen Gebiete
 
 Für den Handel und Schmuggel von Drogen sind harte Strafen vorgesehen.
 
-Auch bei der unerlaubten Ein- und Ausfuhr von wilden Tieren drohen hohe Geld- oder gar Haftstrafen bis zu zwei Jahren. Informationen erteilt das [Israel Ministry of Environmental Protection](http://www.gov.il/en/Departments/Guides/biodiversity_international_arena?chapterIndex=5).
+Auch bei der unerlaubten Ein- und Ausfuhr wilder Tiere drohen hohe Geld- oder gar Haftstrafen bis zu zwei Jahren. Informationen erteilt das [Israel Ministry of Environmental Protection](http://www.gov.il/en/Departments/Guides/biodiversity_international_arena?chapterIndex=5).
 
 ### Geld/Kreditkarten
 
@@ -235,7 +198,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Reisedokumente müssen sechs Monate über die Reise hinaus gültig sein.
 
-Staatenlose Personen müssen (anstelle eines Reisepasses) im Besitz eines gültigen Fremdenpasses oder Reiseausweises sein, der für ein Jahr gültig ist.
+Staatenlose Personen müssen anstelle eines Reisepasses im Besitz eines gültigen Reiseausweises für Ausländer (früher: Fremdenpasses) sein, der für ein Jahr gültig ist.
 
 Für deutsche Staatsangehörige, die im palästinensischen Personenregister eingetragen sind bzw. über eine palästinensische Personenkennziffer (ID) verfügen sowie für Reisen, die ausschließlich in das Westjordanland führen, gelten besondere Vorschriften, siehe unten.
 
@@ -243,7 +206,10 @@ Minderjährige unter 16 Jahren, die allein oder in Begleitung eines Elternteils 
 
 ### Visum
 
-Deutsche Staatsangehörige, die nach dem 1. Januar 1928 geboren sind, benötigen bis zu einem Aufenthalt von drei Monaten kein Visum.
+Deutsche Staatsangehörige, die nach dem 1. Januar 1928 geboren sind, benötigen für einen Aufenthalt von max. drei Monaten kein Visum.
+
+Ab dem 1. August 2024 wird für die Einreise nach Israel eine vorherige elektronische Einreisebestätigung durch das elektronische System „ETA-IL“ verpflichtend sein. Fluglinien werden voraussichtlich bereits vor dem Abflug darauf achten, ob diese Bestätigung vorliegt, um einer späteren Zurückweisung bei der Einreise vorzubeugen.  
+Deutsche Staatsangehörige können das System freiwillig bereits ab dem 1. Juni 2024 nutzen. Alle Informationen und den Zugang zum Onlineportal der israelischen Regierung finden Sie auf der Website der Deutschen Botschaft Tel Aviv: <https://tel-aviv.diplo.de/il-de/service/-/2342900>
 
 Deutsche Staatsangehörige, die in der Vergangenheit aus Israel ausgewiesen wurden, sich illegal in Israel aufgehalten haben oder denen die Einreise nach Israel verweigert wurde, müssen vor ihrer Einreise bei einer israelischen Auslandsvertretung oder dem israelischen Innenministerium ihren Fall überprüfen lassen und ein Visum einholen.
 
@@ -251,15 +217,15 @@ Deutsche Staatsangehörige, die zudem Staatsangehörige Libanons, Syriens, Iraks
 
 ### Grenzübergänge
 
-Ein Großteil der Reisenden reist über den internationalen Flughafen Ben Gurion, knapp 20 Kilometer südöstlich von Tel Aviv, nach Israel ein. Dort sowie an den Grenzübergängen Taba (nach Ägypten) und Allenby-/(Sheikh Hussein)-Brücke (nach Jordanien) erhält jeder Reisende eine Einreisekarte (B2 Stay-Permit), die bis zur Ausreise aufbewahrt werden muss. Ein Einreisestempel im Pass wird dann nicht mehr angebracht. Bei der Überquerung von Kontrollpunkten, insbesondere im Westjordanland, sollte die Einreisekarte zur Vermeidung von Schwierigkeiten mitgeführt werden.
+Ein Großteil der Reisenden reist über den internationalen Flughafen Ben Gurion, knapp 20 Kilometer südöstlich von Tel Aviv, nach Israel ein. Dort sowie an den Grenzübergängen Taba (nach Ägypten) und Allenby-/Sheikh-Hussein-Brücke (nach Jordanien) erhält jeder Reisende eine Einreisekarte (B2 Stay-Permit), die bis zur Ausreise aufbewahrt werden muss. Ein Einreisestempel im Pass wird dann nicht mehr angebracht. Bei der Überquerung von Kontrollpunkten, insbesondere im Westjordanland, sollte die Einreisekarte zur Vermeidung von Schwierigkeiten mitgeführt werden.
 
-Bei den Landgrenzen von Israel nach Ägypten Eilat-Taba (Menachem Begin) und von Israel nach Jordanien Eilat-Aqaba (Yitzhak Rabbin) und Beit Shean-Sheikh Hussein (Jordan River) sowie Allenby-/(Sheikh Hussein)-Brücke vom Westjordanland nach Jordanien kann es immer wieder zu kurzzeitigen Schließungen bzw. einer Verkürzung der Öffnungszeiten kommen.
+Bei den Landgrenzen von Israel nach Ägypten Eilat-Taba (Menachem Begin) und von Israel nach Jordanien Eilat-Aqaba (Yitzhak Rabbin) und Beit Shean-Sheikh Hussein (Jordan River) sowie Allenby-/Sheikh-Hussein-Brücke vom Westjordanland nach Jordanien kann es immer wieder zu kurzzeitigen Schließungen bzw. einer Verkürzung der Öffnungszeiten kommen.
 
 Bitte prüfen Sie die tagesaktuellen Öffnungszeiten: 
 
 * [Beit Shean/King Hussein](https://www.iaa.gov.il/en/land-border-crossings/jordan-river/) (Jordan River) 08:30 bis 18:30 Uhr (Anmeldung bis 17:00 Uhr);  
 Tel: +972 (0) 4-609-3410
-* [Eilat/Aqaba (Yitzhak Rabin 08:00 bis 20:00 Uhr)](https://www.iaa.gov.il/en/land-border-crossings/yitzhak-rabin/)  
+* [Eilat/Aqaba (Yitzhak Rabin) 08:00 bis 20:00 Uhr](https://www.iaa.gov.il/en/land-border-crossings/yitzhak-rabin/)  
 Tel: +972 (0)8-630-0555
 * [Eilat/Taba (Menachem Begin)](https://www.iaa.gov.il/en/land-border-crossings/menachem-begin/)  
 Tel: +972 – (0)8-636-0999
@@ -268,9 +234,9 @@ Tel: +972 – (0)8-636-0999
 
 Vorherige Reisen in arabische Staaten oder nach Iran stellen per se kein Einreisehindernis dar.
 
-Sollten im Reisepass Visa arabischer Staaten oder von Iran vorhanden sein, so ist jedoch bei der Einreise mit einer Sicherheitsbefragung durch israelische Sicherheitskräfte zu rechnen (Ausnahme: Jordanien und Ägypten). Dies gilt ebenfalls bei Stempeln/Visa von Malaysia, Indonesien oder dem Sudan. Des Weiteren müssen deutsche Staatsangehörige mit auch nur vermuteter arabischer oder iranischer Abstammung oder islamischer Religionszugehörigkeit mit einer intensiven Sicherheitsbefragung und möglicher Verweigerung der Einreise rechnen. Bei Verweigerung der Einreise ist bis zum Zeitpunkt des Rückflugs eine Verbringung in ein Abschiebezentrum üblich.
+Sollten im Reisepass Visa arabischer Staaten oder von Iran vorhanden sein, ist jedoch bei der Einreise mit einer Sicherheitsbefragung durch israelische Sicherheitskräfte zu rechnen (Ausnahme: Jordanien und Ägypten). Dies gilt ebenfalls bei Stempeln/Visa von Malaysia, Indonesien oder Sudan. Des Weiteren müssen deutsche Staatsangehörige mit auch nur vermuteter arabischer oder iranischer Abstammung oder islamischer Religionszugehörigkeit mit einer intensiven Sicherheitsbefragung und möglicher Verweigerung der Einreise rechnen. Bei Verweigerung der Einreise ist bis zum Zeitpunkt des Rückflugs eine Verbringung in ein Abschiebezentrum üblich.
 
-Das israelische Parlament verabschiedete 2017 ein Gesetz, wonach nicht-israelischen Staatsangehörigen die Einreise nach Israel grundsätzlich verweigert wird, wenn sie öffentlich und wissentlich zum Boykott von Israel aufgerufen oder sich verpflichtet haben, sich an einem solchen Boykott zu beteiligen. Gleiches gilt, wenn sie einer Organisation angehören oder bei einer Einrichtung arbeiten, die zu einem solchen Boykott aufgerufen hat. Hierunter fällt auch der Boykott von Siedlungen im Westjordanland oder Ost-Jerusalem. Diese Regelung betrifft nicht Inhaber einer unbefristeten Aufenthaltserlaubnis für Israel.
+Das israelische Parlament verabschiedete ein Gesetz, wonach nicht-israelischen Staatsangehörigen die Einreise nach Israel grundsätzlich verweigert wird, wenn sie öffentlich und wissentlich zum Boykott Israels aufgerufen oder sich verpflichtet haben, sich an einem solchen Boykott zu beteiligen. Gleiches gilt, wenn sie einer Organisation angehören oder bei einer Einrichtung arbeiten, die zu einem solchen Boykott aufgerufen hat. Hierunter fällt auch der Boykott von Siedlungen im Westjordanland oder Ost-Jerusalem. Diese Regelung betrifft nicht Inhaber einer unbefristeten Aufenthaltserlaubnis für Israel.
 
 Auf die Möglichkeit der Ausstellung eines Zweitpasses durch die zuständige Passbehörde wird hingewiesen. Auch deutsche Staatsangehörige palästinensischer Herkunft müssen mit einer Sicherheitsbefragung und ggf. längeren Wartezeiten rechnen, insbesondere bei der Einreise von Ägypten und Jordanien aus. Eine mehrstündige Sicherheitsbefragung, die bis hin zur Verweigerung der Einreise unmittelbar am Grenzübergang führen kann, ist jederzeit ohne Angaben von Gründen möglich. Die deutsche Botschaft in Tel Aviv hat in diesen Fällen keine Möglichkeit der Unterstützung. 
 
@@ -293,24 +259,24 @@ Zum 20. Oktober 2022 sind neue Verfahrensregelungen zur Einreise in das Westjord
 
 Dabei gelten unterschiedliche Voraussetzungen für Kurzzeitaufenthalte von bis zu drei Monaten, für längerfristige Aufenthalte (Studium, Volontariat, Lehre, Forschung sowie andere berufliche und geschäftliche Tätigkeiten) sowie für den Aufenthalt von Ehepartnern von Inhabern palästinensischer IDs. [Ausführliche Informationen](https://www.gov.il/en/departments/policies/judeaentry2022) sowie die jeweiligen Antragsformulare bietet die israelische Regierung. Anträge sowie Einzelfragen müssen direkt an CoGAT gerichtet werden.
 
-Die Verfahrensregelungen sehen vor, dass die Einreise in das Westjordanland „generell“ auf dem Landweg von Jordanien aus über die [Allenby-/(Sheikh Hussein)-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) zu erfolgen hat, und nicht über den israelischen Flughafen Ben Gurion. Falsche Angaben sollten auf keinen Fall gemacht werden, da dies regelmäßig zu Einreiseverboten führt. Faktische Einschränkungen sind jedoch jederzeit auch kurzfristig möglich und sollten entsprechend eingeplant werden.
+Die Verfahrensregelungen sehen vor, dass die Einreise in das Westjordanland „generell“ auf dem Landweg von Jordanien aus über die [Allenby-/Sheikh-Hussein-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) zu erfolgen hat, und nicht über den israelischen Flughafen Ben Gurion. Falsche Angaben sollten auf keinen Fall gemacht werden, da dies regelmäßig zu Einreiseverboten führt. Faktische Einschränkungen sind jedoch jederzeit auch kurzfristig möglich und sollten entsprechend eingeplant werden.
 
 Die Verfahrensregelungen gelten ausdrücklich nicht für Aufenthalte in Israel, die mit einem kurzzeitigen Besuch im Westjordanland verbunden werden. Die Übergänge zu den Palästinensischen Gebieten zwischen Israel und dem Westjordanland werden von den israelischen Behörden kontrolliert und können ohne vorherige Ankündigung geschlossen werden.
 
-### Besondere Hinweise für deutsche Staatsangehörige, die im palästinensischen Personenregister eingetragen sind, bzw. über eine palästinensische Personenkennziffer (ID-Nummer) verfügen
+### Besondere Hinweise für deutsche Staatsangehörige, die im palästinensischen Personenregister eingetragen sind bzw. über eine palästinensische Personenkennziffer (ID-Nummer) verfügen
 
-Deutsche Staatsangehörige, die über eine palästinensische ID-Nummer verfügen, können nur über Jordanien [Allenby-/(Sheikh Hussein)-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) in das Westjordanland einreisen. Eine Einreise nach Israel, auch nach Jerusalem, ist nur mit einer Genehmigung (Permit) möglich. Deutsche Staatsangehörige, die aus dem Gazastreifen stammen und über eine palästinensische ID-Nummer verfügen, können weder nach Israel (z.B. Flughafen Ben Gurion) noch in das Westjordanland einreisen.
+Deutsche Staatsangehörige, die über eine palästinensische ID-Nummer verfügen, können nur über Jordanien [Allenby-/Sheikh-Hussein-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) in das Westjordanland einreisen. Eine Einreise nach Israel, auch nach Jerusalem, ist nur mit einer Genehmigung (Permit) möglich. Deutsche Staatsangehörige, die aus dem Gazastreifen stammen und über eine palästinensische ID-Nummer verfügen, können weder nach Israel (z.B. Flughafen Ben Gurion) noch in das Westjordanland einreisen.
 
 Deutsche Staatsangehörige mit palästinensischer ID-Nummer benötigen für die Ein- und Ausreise grundsätzlich einen palästinensischen Reisepass.
 
 ### Weiterreise von Israel nach Jordanien auf dem Landweg
 
-Deutsche Staatsangehörige, die auf dem Landweg von Israel aus durch das Westjordanland nach Jordanien reisen und dafür den Grenzübergang der [Allenby-/(Sheikh Hussein)-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) nutzen möchten, müssen ihr Visum vor Reiseantritt bei der jordanischen Botschaft in Berlin, der jordanischen Botschaft in Tel Aviv oder dem jordanischen Vertretungsbüro in Ramallah beantragen. Der Grenzübergang ist aktuell nicht für Doppelstaater geöffnet.
+Deutsche Staatsangehörige, die auf dem Landweg von Israel aus durch das Westjordanland nach Jordanien reisen und dafür den Grenzübergang der [Allenby-/Sheikh-Hussein-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) nutzen möchten, müssen ihr Visum vor Reiseantritt bei der jordanischen Botschaft in Berlin, der jordanischen Botschaft in Tel Aviv oder dem jordanischen Vertretungsbüro in Ramallah beantragen. Der Grenzübergang ist aktuell nicht für Doppelstaater geöffnet.
 
 Beachten Sie die tagesaktuellen Öffnungszeiten des Grenzübergangs:  
 
-* **[Allenby-/(Sheikh Hussein)-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/)**
-* und telefonisch: +072 (0) 2-548-2600
+* **[Allenby-/Sheikh-Hussein-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/)**  
+und telefonisch: +072 (0) 2-548-2600
 * Beachten Sie die Einreisebestimmungen für Jordanien, z.B. in den [Reise](http://www.auswaertiges-amt.de/sid_882AF4C5CDBC0E8C31FC81B703991775/DE/Laenderinformationen/00-SiHi/JordanienSicherheit.html?nn=555292?nnm=555292)[- und Sicherheitshinweisen für Jordanien](https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit/218008 "Jordanien: Reise- und Sicherheitshinweise").
 * Sollte eine Reise von Israel nach Jordanien auf dem Landweg geplant sein, sollten Sie im Zweifel vor Reiseantritt Kontakt mit der jordanischen Botschaft in Tel Aviv oder der [Botschaft des Königreichs Jordanien in Berlin](http://www.jordanischebotschaft.de/index.html) bzw. dem jordanischen Vertretungsbüro in Ramallah aufnehmen.
 
@@ -324,7 +290,7 @@ Die Ein- oder Ausfuhr von Geldmitteln (Bargeld, Barschecks, Reiseschecks) im Geg
 
 Besondere Vorschriften gelten für die Einfuhr von Geldmitteln in die Palästinensischen Gebiete.
 
-Deutsche Staatsangehörige, die über die [Allenby-/(Sheikh Hussein)-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) in das Westjordanland einreisen, müssen mitgeführte Geldmittel (Bargeld, Reiseschecks, Gold), die den Betrag von umgerechnet 2.000 JOD (ca. 2.580 EUR) erreichen oder übersteigen, beim israelischen Zoll anmelden. Anmeldeformulare sollen an den Übergängen erhältlich sein. Missachtung kann Geld- oder Gefängnisstrafe nach sich ziehen und das Geld eingezogen werden.
+Deutsche Staatsangehörige, die über die [Allenby-/Sheikh-Hussein-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) in das Westjordanland einreisen, müssen mitgeführte Geldmittel (Bargeld, Reiseschecks, Gold), die den Betrag von umgerechnet 2.000 JOD (ca. 2.580 EUR) erreichen oder übersteigen, beim israelischen Zoll anmelden. Anmeldeformulare sollen an den Übergängen erhältlich sein. Missachtung kann Geld- oder Gefängnisstrafe nach sich ziehen und zum Einbehalt des Geldes führen.
 
 #### *Einreise mit dem Fahrzeug*
 
@@ -342,9 +308,9 @@ Die Einreise mit Heimtieren ist nur am Ben Gurion International Airport sowie de
 
 Für die direkte Einreise aus Deutschland ist keine Impfung erforderlich. Bei Einreise aus einem Gelbfiebergebiet ist eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") bei Einreise nachzuweisen.
 
-* Bitte beachten Sie, dass Langzeitreisende über vier Wochen eine Impfung gegen Poliomyelitis (Kinderlähmung) vier Wochen bis 12 Monate vor Ausreise erhalten sollten [(siehe Poliomyelitis).](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") Die Durchführung von Kontrollen des Impfstatus bei Ausreise aus Israel ist derzeit nicht bekannt. Falls Sie kürzer als vier Wochen im Land sind, wird ein vollständiger Impfschutz gegen Poliomyelitis empfohlen. Liegt die letzte Impfung mehr als zehn Jahre zurück, sollten Sie eine Auffrischungsimpfung durchführen lassen.
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Es wird eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [(siehe Poliomyelitis).](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
-* Als Reiseimpfungen werden Hepatitis A bei Langzeitaufenthalt oder besonderer Exposition auch Hepatitis B und Tollwut empfohlen. Für einen Langzeitaufenthalt in den Palästinensischen Gebieten wird zudem noch eine Typhusimpfung empfohlen.
+* Als Reiseimpfungen werden Hepatitis A und Poliomyelitis, bei Langzeitaufenthalt oder besonderer Exposition auch Hepatitis B und Tollwut empfohlen. Für einen Langzeitaufenthalt in den Palästinensischen Gebieten wird zudem noch eine Typhusimpfung empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
@@ -384,9 +350,7 @@ Das Versorgungsniveau in Israel ist gut bis sehr gut, die Notfallversorgung und 
 
 * Lassen Sie sich vor einer Reise durch eine reisemedizinische Beratungsstelle, einen Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte sind z. B. über die [DTG](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG") zu finden.
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600)
 
 ## Länderinfos zu Ihrem Reiseland
 
