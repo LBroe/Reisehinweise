@@ -4,7 +4,7 @@
 
 **Vor Reisen in das Seegebiet zwischen den Süd-Philippinen und Sabah wird gewarnt**, siehe [Reise- und Sicherheitshinweise - Teilreisewarnung – Philippinen.](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/philippinen-node/philippinensicherheit/212492)
 
-**Von Reisen in den Osten des Bundesstaats Sabah und auf die angrenzenden Inseln wird dringend abgeraten.** 
+**Von Reisen an die Ostküste des Bundesstaats Sabah und auf die angrenzenden Inseln wird dringend abgeraten.** 
 
 **Von Reisen zwischen Malaysia und Thailand auf dem Landweg wird dringend abgeraten.** 
 
@@ -15,7 +15,7 @@ In Malaysia besteht weiterhin die Gefahr terroristischer Anschläge.
 Nach dem Eindringen philippinischer Rebellen in die östlichen Bezirke des auf Borneo gelegenen Bundesstaats Sabah und der Entführung von Touristen u. a. auf Semporna, Übergriffen auf Polizeikräfte u. a. auf Mabul und der Ermordung eines Touristen auf der Insel Pom-Pom wurde eine Sicherheitszone (Eastern Sabah Safety Zone –ESS ZONE-) eingerichtet, in der mit einem erhöhten Aufkommen von Polizei und Militär zu rechnen ist.  
 Die Zone umfasst die Ortschaften Sandakan, Lahad Datu, Tawau, Kunak und Semporna sowie die vor der Küste gelegenen Inseln einschließlich der Insel Sipadan.
 
-In der Vergangenheit waren Entführungen und Entführungsversuche zu beklagen. Eine akute Gefährdung der dortigen touristischen Ziele und somit das Risiko von Überfällen und Entführungen bleibt signifikant und betrifft auch das Umfeld der ESS ZONE, insbesondere nach Einbruch der Dunkelheit in Küstennähe und auf den Inseln.
+In der Vergangenheit gab es Entführungen und Entführungsversuche. Eine akute Gefährdung der dortigen touristischen Ziele und somit das Risiko von Überfällen und Entführungen bleibt signifikant und betrifft auch das Umfeld der ESS ZONE, insbesondere nach Einbruch der Dunkelheit in Küstennähe und auf den Inseln.
 
 Für Wasserfahrzeuge aller Art gilt für die an die ESS ZONE angrenzenden Küstengewässer bis drei Seemeilen Entfernung von der Küste ein nächtliches Fahrverbot von 18 Uhr bis 6 Uhr.
 
@@ -28,7 +28,7 @@ In den Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla im Süden
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Informieren Sie sich über Sicherheits- und Rettungseinrichtungen an Bord und die Seetüchtigkeit des Schiffes und unternehmen Sie keine individuellen Ausflüge in der Straße von Malakka.
-* Unternehmen Sie keine Reisen auf dem Landweg nach Thailand.
+* Unternehmen Sie keine Reisen auf dem Landweg zwischen Malaysia und Thailand.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage

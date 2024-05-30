@@ -28,7 +28,7 @@ Bei Tauwetter, aber auch bei Starkregenereignissen kommt es häufiger zu örtli
 
 ### Grenzkontrollen
 
-Auf der Grundlage von Artikel 28 der EU-Verordnung 2016/399 wurden am 16. Oktober 2023 vorübergehende Binnengrenzkontrollen an der deutsch-schweizerischen Landesgrenze angeordnet. Diese sind aktuell befristet bis 15. Juni 2024, können aber verlängert werden. Verzögerungen beim Passieren der Grenze und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
+Es sind derzeit vorübergehende Binnengrenzkontrollen an der deutsch-schweizerischen Landesgrenze angeordnet. Diese sind aktuell befristet bis 15. Dezember 2024, können aber verlängert werden. Verzögerungen beim Passieren der Grenze und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
 
 ### Infrastruktur/Verkehr
 
