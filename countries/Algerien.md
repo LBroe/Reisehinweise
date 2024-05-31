@@ -2,28 +2,25 @@
 
 ## Sicherheit - Teilreisewarnung
 
-**Vor Reisen in die Grenzgebiete zu Tunesien, Libyen, Niger, Mali, Mauretanien und zur Westsahara wird gewarnt.**
+**Vor Reisen in die Grenzgebiete zu Tunesien (Wilaya Tebessa und südlich davon), Libyen, Niger, Mali, Mauretanien und zur Westsahara wird gewarnt** **.**
 
-**Von touristischen Reisen in die sonstigen algerischen Saharagebiete, in die unmittelbare Grenzregion mit Marokko, und außerhalb der Bezirke der größeren Städte im nördlichen Landesteil, in ländliche Gebiete und Bergregionen**, sofern nicht von Polizeischutz begleitet, **wird dringend abgeraten.** 
+**Von touristischen Reisen in die sonstigen algerischen Saharagebiete, in die unmittelbare Grenzregion mit Marokko, in die Grenzregion mit Tunesien (nördlich des Wilaya Tebessa) und außerhalb der Bezirke der größeren Städte im nördlichen Landesteil, in ländliche Gebiete und Bergregionen**, sofern nicht von Polizeischutz begleitet, **wird abgeraten** **.** 
 
 ### Terrorismus
 
-In den Grenzgebieten mit Nachbarländern, den algerischen Saharagebieten und außerhalb der Bezirke der größeren Städte im nördlichen Landesteil von Algerien, in ländlichen Gebieten und Bergregionen besteht weiterhin eine hohe Gefahr durch terroristische Anschläge und Entführungen. Dies gilt insbesondere für Regionen mit andauernden terroristischen Aktivitäten, die Grenzgebiete im Osten und Süden des Landes.
+In den Grenzgebieten mit Nachbarländern, den algerischen Saharagebieten und außerhalb der Bezirke der größeren Städte im nördlichen Landesteil von Algerien, in ländlichen Gebieten und Bergregionen besteht weiterhin die Gefahr terroristischer Anschläge und Entführungen. Dies gilt insbesondere für die Grenzgebiete im Osten und Süden des Landes.
 
-Terroristische Aktivitäten richten sich in erster Linie gegen die staatlichen Sicherheitskräfte; in der Vergangenheit wurden Ausländer immer wieder Opfer von Entführungen und Attentaten. Die Sicherheitslage in der gesamten Region bleibt aufgrund anhaltender Drohungen von terroristischen Gruppen angespannt.
+Terroristische Aktivitäten richten sich in erster Linie gegen die staatlichen Sicherheitskräfte; in der Vergangenheit wurden aber auch Ausländer immer wieder Opfer von Entführungen und Attentaten.
 
-Menschenansammlungen, Demonstrationen, öffentliche Gebäude und Einrichtungen der Sicherheitskräfte sind bevorzugte Ziele von Terroranschlägen.  
 Die algerische Armee befindet sich in erhöhter Alarmbereitschaft und zeigt eine erhöhte Präsenz in den Grenzregionen.
 
 * Seien Sie bei allen Reisen besonders vorsichtig.
 * Informieren Sie sich über Medien und ortkundige Ansprechpartner über die aktuelle Sicherheitslage an den vorgesehenen Reise- und Aufenthaltsorten.
 * Reisen Sie nicht in unmittelbare Grenzregionen.
-* Führen Sie notwendige Reisen in die algerischen Saharagebiete und außerhalb der Bezirke der größeren Städte im nördlichen Landesteil von Algerien, in ländliche Gebiete und Bergregionen nur mit polizeilichem Begleitschutz durch.
-* Halten Sie sich dort nur an besonders geschützten Orten auf.
-* Vermeiden Sie möglichst Fahrten in die Wilayas von Tébessa, Bouira, Skikda und Jijel.
+* Vermeiden Sie möglichst Fahrten in den Wilaya Tébessa.
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
-* Meiden Sie größere Menschenansammlungen und öffentliche Gebäude möglichst.
-* Folgen Sie stets den Anweisungen lokaler Behörden.
+* Meiden Sie größere Menschenansammlungen und öffentliche Gebäude.
+* Folgen Sie stets den Anweisungen lokaler Behörden, insbesondere denen der Sicherheitskräfte.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### **Innenpolitische Lage**
@@ -31,18 +28,18 @@ Die algerische Armee befindet sich in erhöhter Alarmbereitschaft und zeigt eine
 Spontane Demonstrationen können trotz Verboten auch außerhalb der Hauptstadt Algier stattfinden, insbesondere nach den Freitagsgebeten. Auch bei friedlichem Verlauf können vereinzelt gewaltsame Auseinandersetzungen und Verkehrsbehinderungen nicht ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen und sozialen Medien. Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig und fotografieren oder filmen Sie diese nicht.
-* Folgen Sie stets den Anweisungen lokaler Sicherheitskräfte.
+* Folgen Sie unbedingt den Anweisungen lokaler Sicherheitskräfte.
 
 ### **Kriminalität**
 
-Insbesondere in den größeren Städten wie Algier, Constantine und Oran kommt es zu Kleinkriminalität wie Taschendiebstahl und Handtaschenraub. Auch Raubüberfälle und Gewaltakte stellen vor allem nach Einbruch der Dunkelheit und an Stränden ein Problem dar.
+Insbesondere in den größeren Städten wie Algier, Constantine und Oran kommt es zu Kleinkriminalität wie Taschendiebstahl und Handtaschenraub. Auch Raubüberfälle und Gewaltakte stellen vor allem nach Einbruch der Dunkelheit und an Stränden – in Algier u.a auch im Ben-Aknoun-Park - ein Problem dar.
 
 * Seien Sie in abgelegenen Gegenden und an Stränden besonders vorsichtig und meiden Sie diese nach Einbruch der Dunkelheit.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Halten Sie Fenster und Türen eines Fahrzeugs stets geschlossen und verriegelt und benutzen Sie bewachte Parkplätze.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -63,38 +60,38 @@ Die touristische Infrastruktur Algeriens ist außerhalb der Großstädte im Nord
 
 Flugbuchungen mit Air Algérie müssen häufig nochmals rückbestätigt werden, sonst erfolgt kein Transport.
 
-Der Zustand der Straßen ist generell gut. Viele Gebiete dürfen Ausländer nur in Begleitung einer Polizeieskorte bereisen.  
+Der Zustand der Straßen ist überwiegend gut. Viele Gebiete dürfen Ausländer nur in Begleitung einer Polizeieskorte bereisen.  
 Ausländische Mitarbeiter ausländischer Firmen sind gemäß den geltenden algerischen Sicherheitsbestimmungen verpflichtet, geschäftliche und touristische Reisen bzw. Aufenthalte außerhalb des Verwaltungsbezirks (Wilaya) von Algier mittels polizeilichem Begleitschutz (Eskorte) vorzunehmen und diese mindestens 48 Stunden vorher beim Delegierten für Sicherheit (délégué de sécurité) bei der für den Firmensitz zuständigen Behörde (Wali des Wilaya) anzuzeigen. In dringenden Fällen, die glaubhaft dargelegt werden müssen, sind Ausnahmen von der 48-Stunden-Regelung möglich.
 
-Insbesondere während der Dämmerung und in der Nachtzeit besteht bei Fahrten außerhalb der Stadtzentren die Gefahr von falschen Straßensperren und Anschlägen von kriminellen oder terroristischen Gruppen.
+Insbesondere während der Dämmerung und in der Nacht kam es in der Vergangenheit bei Fahrten außerhalb der Stadtzentren zu falschen Straßensperren und Anschlägen durch kriminelle oder terroristische Gruppen.
 
-Fahrzeuge sind häufig in schlechtem technischem Zustand und die Fahrweisen erscheinen oft unkalkulierbar. Es kommt häufig zu schweren Verkehrsunfällen mit Todesopfern.
+Fahrzeuge sind größtenteils in schlechtem technischen Zustand und die Fahrweisen erscheinen schwer kalkulierbar. Es kommt- insbesondere bei Überlandfahrten - häufig zu schweren Verkehrsunfällen mit Todesopfern.
 
 Bei Einreise mit dem Fahrzeug ist eine Versicherung vor Ort abzuschließen.
 
 * Planen Sie Ihre Reisen gründlich, am besten mit einem örtlichen Geschäftspartner bzw. Gastgeber oder mit Hilfe eines ortskundigen Reiseveranstalters.
 * Reisen Sie innerhalb des Landes vorzugsweise auf dem Luftweg.
-* Klären Sie mit Air Algérie immer vor Antritt der Weiter- bzw. Heimreise, ob der Flug rückbestätigt werden muss.
+* Klären Sie mit Air Algérie immer vor Antritt der Weiter- bzw. Heimreise, ob der Flug unverändert bleibt.
 * Kalkulieren Sie beim Umsteigen genügend Zeit ein, da Anschlussflüge mit knappen Umstiegszeiten nicht immer erreicht werden können.
 * Fahren Sie stets besonders vorsichtig und defensiv.
 * Vermeiden Sie Fahrten während der Dämmerung und in der Nachtzeit außerhalb der Stadtzentren.
-* Informieren Sie sich über mögliche Restriktionen und Auflagen zu Reiseroute und Aufenthaltsorte.
+* Informieren Sie sich über mögliche Restriktionen und Auflagen zu Reiseroute und Aufenthaltsorten.
 
 ### Führerschein
 
-Der Internationale Führerschein ist empfehlenswert. Er ist nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist empfehlenswert. Er ist nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### Besondere Verhaltenshinweise/Ramadan
 
-Die Amtssprachen Algeriens sind Arabisch und Tamazight (Berbersprache). Trotz vielfältiger westlicher Einflüsse und der weiten Verbreitung von Französisch als Verkehrssprache sollten Besucher in ihrem Verhalten bedenken, dass Algerien Teil der arabisch-islamischen Welt ist. Bei nicht verheirateten Paaren kann es bei Hotelbuchungen zu Schwierigkeiten kommen. In der algerischen Öffentlichkeit sind allein reisende Frauen äußerst selten; wo möglich, sollten allein reisende Frauen sich einer Gruppe anschließen.
+Die Amtssprachen Algeriens sind Arabisch und Tamazight (Berbersprache). Trotz vielfältiger westlicher Einflüsse und der weiten Verbreitung von Französisch als Verkehrssprache sollten Besucher in ihrem Verhalten bedenken, dass Algerien Teil der arabisch-islamischen Welt ist. Bei unverheirateten Paaren kann es bei Buchungen gemeinsamer Hotelzimmer zu Schwierigkeiten kommen. In der algerischen Öffentlichkeit sind alleinreisende Frauen äußerst selten; wo möglich, sollten alleinreisende Frauen sich einer Gruppe anschließen.
 
-Alkohol kann in bestimmten Geschäften gekauft werden. Er wird in Städten auch in einigen Hotels und Restaurants serviert. Allerdings ist es nicht erlaubt, Alkohol auf der Straße und an anderen Orten als in einem zugelassenen Restaurant oder einer Bar zu trinken. Ein Verstoß kann zur Verhaftung führen.
+Es ist nicht erlaubt, Alkohol auf der Straße und an anderen Orten als in zugelassenen Restaurants oder Bars zu trinken. Ein Verstoß kann zu Konflikten und zur Verhaftung führen.
 
 Während des Fastenmonats Ramadan ist außerhalb westlicher Hotels mit Einschränkungen im Alltag (z.B. tagsüber mit Schließungen von Restaurants oder reduzierten Arbeitszeiten bei Behörden) und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Fragen des Respekts islamischer Traditionen zu rechnen. Es wird empfohlen, nicht in der Öffentlichkeit zu essen, zu trinken oder zu rauchen. In Restaurants, die tagsüber Speisen anbieten, ist dies selbstverständlich möglich.
 
 ### LGBTIQ
 
-Homosexuelle Handlungen stehen unter Strafe.
+Homosexualität bzw. homosexuelle Handlungen stehen unter Strafe.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -102,7 +99,7 @@ Homosexuelle Handlungen stehen unter Strafe.
 
 Es ist strikt verboten, militärische und sicherheitsrelevante Einrichtungen und Sicherheitspersonal zu fotografieren.
 
-Drogeneinfuhr, -besitz und -handel werden mit empfindlichen Freiheitsstrafen geahndet. Gewerbeprostitution ist verboten; entsprechende Handlungen werden empfindlich bestraft.
+Drogeneinfuhr, -besitz und -handel werden mit empfindlichen Freiheitsstrafen geahndet. Prostitution ist verboten; entsprechende Handlungen werden empfindlich bestraft.
 
 Deutsch-algerische Doppelstaater werden von algerischen Behörden stets als Algerier behandelt. Gelegentlich treten Schwierigkeiten bei der Ausreise wegen Nichtableistung des algerischen Wehrdienstes auf.
 
@@ -139,19 +136,19 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate g
 ### **Visum**
 
 Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das rechtzeitig persönlich bei der algerischen Botschaft in Berlin oder beim algerischen Generalkonsulat in Frankfurt a.M. beantragt werden muss.  
-Der Antrag sollte mindestens vier Wochen vor Reiseantritt gestellt werden. Antragsformulare sind bei der [algerischen Botschaft in Berlin](http://www.algerische-botschaft.de/) bzw. dem [algerischen Generalkonsulat in Frankfurt am Main](http://www.konsulat-algerien.de/) erhältlich.
+Der Antrag sollte mindestens vier Wochen vor Reiseantritt gestellt werden. Antragsformulare sind bei der [Botschaft in Berlin](http://www.algerische-botschaft.de/) bzw. dem [Generalkonsulat in Frankfurt am Main](http://www.konsulat-algerien.de/) erhältlich.
 
 Für Reisen in den Süden Algeriens ist zwingend eine Einladung einer vom algerischen Ministerium für Tourismus und Handwerk anerkannten Reiseagentur erforderlich. Auf dieser müssen die Reisedauer sowie die genaue, von der Reiseagentur bestimmte, Route angegeben sein.
 
-An Flughäfen oder Grenzübergängen werden grundsätzlich keine Visa erteilt. Dies ist nur in absoluten Ausnahme- und Notfällen vorgesehen, ebenso im Falle einer Ankunft an Flughäfen in ausgewählten touristischen Destinationen im Süden des Landes, die über Reisebüros gebucht wurden. Nähere Informationen hierzu sollten unbedingt vorab bei den algerischen Behörden eingeholt werden.  
+An Flughäfen oder Grenzübergängen werden grundsätzlich keine Visa erteilt. Dies ist nur in absoluten Ausnahme- und Notfällen vorgesehen, ebenso im Falle einer Ankunft an Flughäfen an ausgewählten touristischen Destinationen im Süden des Landes, die über Reisebüros gebucht wurden. Nähere Informationen hierzu sollten unbedingt vorab bei den algerischen Behörden eingeholt werden.  
 Seeleuten kann die Grenzpolizei (PAF) am Hafen eine Genehmigung zum Landgang (permis d’escale) erteilen. Sie verfügt hierbei über einen breiten Ermessensspielraum und hat diese Genehmigung gelegentlich und insbesondere in Algier des Öfteren verweigert.
 
 ### **Minderjährige**
 
 Bei minderjährigen Doppelstaatern oder Kindern, bei denen aufgrund ihres Namens oder Aussehens auf eine algerische Staatsangehörigkeit oder Abstammung geschlossen werden könnte, kann das Aufenthaltsbestimmungsrecht nach dem von islamischen Grundsätzen geprägten algerischen Familienrecht ausschließlich dem Vater zustehen. Sofern der Vater aus Algerien oder einem anderen muslimischen Staat stammt, muss er daher der Ausreise seiner Kinder aus Algerien, sofern er diese nicht persönlich begleitet, unbedingt schriftlich auf einem bestimmten Formblatt zustimmen.  
-Gegebenenfalls müssen Urkunden auch in französischer Sprache mitgeführt werden, aus denen sich die Staatsangehörigkeit des Vaters ergibt, bzw. eine Erklärung des Vaters über dessen Zustimmung zur Ausreise, die sogenannte „Autorisation Paternelle de Voyage“, welche  von algerischen Botschaften oder Generalkonsulaten ausgestellt werden kann.
+Gegebenenfalls müssen Urkunden auch in französischer Sprache mitgeführt werden, aus denen sich die Staatsangehörigkeit des Vaters ergibt, bzw. eine Erklärung des Vaters über dessen Zustimmung zur Ausreise, die sogenannte „Autorisation Paternelle de Voyage“, die von algerischen Auslandsvertretungen ausgestellt werden kann.
 
-* Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige").
+* Beachten Sie ggf. die Hinweise zu einer [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige").
 * Bitte beachten Sie auch die Hinweise zu Fällen [grenzüberschreitender Kindesentziehung.](http://www.auswaertiges-amt.de/de/service/konsularinfo/kindesentziehung)
 
 ### Doppelstaater
@@ -166,7 +163,7 @@ Die Bargeldeinfuhr ist in ihrer Höhe durch algerische Zollvorschriften streng r
 
 Bei der Ausreise ist ein Verwendungs- bzw. Umtauschnachweis zu erbringen. Die Ausfuhr algerischer Dinar ist grundsätzlich untersagt. Weitere Zollvorschriften bzw. aktuelle Angaben über Freimengen und Regelungen bietet die [Direction Générale des Douanes](http://www.douane.gov.dz/).
 
-Die Einfuhr von Waffen und Drogen aller Art ist strikt verboten. Gleiches gilt für die unerlaubte Einfuhr von u.a. Ferngläsern, Satellitentelefonen, Navigationsgeräten (z.B. GPS-Empfänger) sowie Funkgeräten und Laserpointern. Für die Benutzung von Drohnen ist eine Lizenz der algerischen Regierung erforderlich.
+Die Einfuhr von Waffen und Drogen aller Art ist strikt verboten. Gleiches gilt für die unerlaubte Einfuhr von Ferngläsern, Satellitentelefonen, Navigationsgeräten (z.B. GPS-Empfänger) sowie Funkgeräten und Laserpointern. Für die Benutzung von Drohnen ist eine Lizenz der algerischen Regierung erforderlich.
 
 Wertvolle elektronische Geräte müssen bei der Einreise angemeldet werden.
 
@@ -176,7 +173,7 @@ Die vorübergehende Einfuhr eines in Deutschland zugelassenen privaten Pkws (mit
 
 ### **Heimtiere**
 
-Für die Einfuhr von Hunden und Katzen wird eine allgemeine Gesundheitsbescheinigung in französischer Sprache eines Amtstierarztes verlangt. Die Bestätigung muss enthalten, dass das Tier gegen Tollwut geimpft ist. Es wird der Zusatz empfohlen, dass das Tier aus einer Gegend komme, in er es in letzter Zeit keine Tollwutfälle gab. Die Tollwutimpfung darf nicht länger als ein Jahr zurückliegen. Die Bescheinigung sollte nicht älter als zehn Tage sein. Es wird empfohlen, einen EU-Heimtierausweis mitzuführen. Dieser enthält die Dokumentation über die Tollwut-Impfungen und ist für eine spätere Wiedereinreise in die EU hilfreich.
+Für die Einfuhr von Hunden und Katzen wird eine allgemeine Gesundheitsbescheinigung eines Amtstierarztes in französischer Sprache verlangt. Die Bestätigung muss enthalten, dass das Tier gegen Tollwut geimpft ist. Es wird der Zusatz empfohlen, dass das Tier aus einer Gegend kommt, in der es in letzter Zeit keine Tollwutfälle gab. Die Tollwutimpfung darf nicht länger als ein Jahr zurückliegen. Die Bescheinigung sollte nicht älter als zehn Tage sein. Es wird empfohlen, einen EU-Heimtierausweis mitzuführen. Dieser enthält die Dokumentation über die Tollwut-Impfungen und ist für eine spätere Wiedereinreise in die EU hilfreich.
 
 ## **Gesundheit**
 
@@ -240,9 +237,7 @@ Die medizinische Versorgung ist mit Europa nicht zu vergleichen und insbesondere
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://diplo.de/-/2519600)**
 
 ## Länderinfos zu Ihrem Reiseland
 
