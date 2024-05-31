@@ -16,11 +16,11 @@ Trotz erheblicher Sicherheitsmaßnahmen besteht das Risiko terroristischer Angri
 
 ### Innenpolitische Lage
 
-Die politische Lage in Marokko ist grundsätzlich stabil und ruhig. Vereinzelte, spontane und unerwartete Demonstrationen, auch im Zusammenhang mit öffentlichen Sportveranstaltungen, können nicht ausgeschlossen werden. Proteste entzünden sich meist an wirtschaftlichen und sozialen Missständen. Derzeit kommt es in Marokko immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Großdemonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, ist auch in den nächsten Wochen zu rechnen, dies vor allem freitags nach dem Mittagsgebet.
+Die politische Lage in Marokko ist stabil und ruhig. Vereinzelte, spontane und unerwartete Demonstrationen, können nicht ausgeschlossen werden. Proteste entzünden sich meist an wirtschaftlichen und sozialen Missständen. Mit pro–palästinensischen Demonstrationen muss weiterhin gerechnet werden. Die Demonstrationen verlaufen in aller Regel friedlich.
 
 * Informieren Sie sich über die lokalen Medien und verfolgen Sie aufmerksam die politische Lage.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig, wie z.B. nach dem Freitagsgebet vor Moscheen.
-* Seien Sie in der Öffentlichkeit zurückhaltend mit Meinungsäußerungen zum Konflikt.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen, wie z.B. nach dem Freitagsgebet vor Moscheen.
+* Seien Sie in der Öffentlichkeit zurückhaltend mit politischen Meinungsäußerungen.
 
 #### *Grenzregion zu Algerien*
 
@@ -78,12 +78,6 @@ Die Landesgrenze zu Algerien ist geschlossen, siehe *Sicherheit.*
 
 Verlässliche Informationen zu den Möglichkeiten eines Grenzübertritts auf dem Landweg von und nach Mauretanien liegen nicht vor. Die Deutsche Botschaft Rabat kann keine Bescheinigungen zur Vorlage bei marokkanischen Grenzstellen ausstellen.
 
-### *Zugang zu den Fährhäfen*
-
-Der Zugang zu den Fährhäfen soll derzeit nur mit vorab gebuchten Tickets möglich sein*.*
-
-* Setzen Sie sich für weitergehende Informationen und Konditionen mit der Transportgesellschaft in Verbindung.
-
 ### Infrastruktur/Verkehr
 
 Marokko verfügt in den größeren Städten und bei Überlandverbindungen über eine gute Verkehrsinfrastruktur.
@@ -100,9 +94,9 @@ Der nationale deutsche Führerschein ist für einen Aufenthalt bis zu einem Jahr
 
 ### Besondere Verhaltenshinweise/Ramadan
 
-Die große Mehrheit der Marokkaner ist wertkonservativ eingestellt und pflegt ein traditionelles Rollenverständnis. Allein reisende Frauen sollten zurückhaltend auftreten und gesundes Misstrauen zeigen.
+Die große Mehrheit der marokkanischen Gesellschaft ist wertkonservativ eingestellt und pflegt ein traditionelles Rollenverständnis. Allein reisende Frauen sollten zurückhaltend auftreten und gesundes Misstrauen zeigen.
 
-Außereheliche Beziehungen sind gesetzlich strafbar. Es ist nicht ungewöhnlich, dass Hotels Paare bitten, beim Check-in eine Heiratsurkunde vorzulegen, und wenn ein solcher Nachweis nicht vorgelegt werden kann, auf getrennte Zimmer bestehen.
+Außereheliche Beziehungen sind gesetzlich strafbar. Es ist nicht ungewöhnlich, dass Hotels Paare bitten, beim Check-in eine Heiratsurkunde vorzulegen, und auf getrennte Zimmer bestehen, wenn ein solcher nicht vorgelegt werden kann.
 
 Alkohol kann in bestimmten Geschäften gekauft werden. Er wird in Städten auch in einigen Hotels und Restaurants serviert. Allerdings ist es nicht erlaubt, Alkohol auf der Straße und an anderen Orten als in einem zugelassenen Restaurant oder einer Bar zu trinken. Ein Verstoß kann zur Verhaftung führen.
 
@@ -110,13 +104,13 @@ Während des Fastenmonats Ramadan ist außerhalb der Touristenzentren mit Einsch
 
 ### Streunende Hunde
 
-Es gibt vereinzelt Berichte über Angriffe streunender Hunde auf Menschen, die teilweise sogar tödlich enden können.
+Es gibt vereinzelt Berichte über Angriffe streunender Hunde auf Menschen, die teilweise sogar tödlich enden können. In jüngster Zeit gab es mehrere Todesfälle aufgrund von Tollwuterkrankungen nach Hundebissen.
 
-* Halten Sie stets Abstand zu einzelnen und v.a. Gruppen von streunenden Hunden und nähern Sie sich ihnen in keinem Fall.
+* Halten Sie stets Abstand zu einzelnen und v.a. Gruppen von streunender Hunde und nähern Sie sich ihnen in keinem Fall.
 
 ### LGBTIQ
 
-Gleichgeschlechtliche Sexualbeziehungen sind in Marokko strafbar; auch Ausländer können strafrechtlich verfolgt werden. Es drohen neben Geld- auch Gefängnisstrafen bis drei Jahre.  LGBTIQ-Reisende sollten sich in Marokko darauf einstellen, dass kulturelle Vorbehalte bezüglich des angemessenen Verhaltens im öffentlichen Raum und zum Teil starke Vorurteile bestehen können. Zu zurückhaltendem Verhalten in der Öffentlichkeit wird ausdrücklich geraten.
+Gleichgeschlechtliche Sexualbeziehungen sind in Marokko strafbar; auch Ausländer können strafrechtlich verfolgt werden. Es drohen neben Geld- auch Gefängnisstrafen bis zu drei Jahren.  LGBTIQ-Reisende sollten sich in Marokko darauf einstellen, dass kulturelle Vorbehalte bezüglich des angemessenen Verhaltens im öffentlichen Raum und zum Teil starke Vorurteile bestehen können. Zu zurückhaltendem Verhalten in der Öffentlichkeit wird ausdrücklich geraten.
 
 * Vermeiden Sie Zeichen der Zuneigung in der Öffentlichkeit.
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
@@ -129,9 +123,9 @@ Die Einfuhr, der Besitz und die Ausfuhr von Rauschgift werden in Marokko mit Haf
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der marokkanische Dirham (MAD). Kreditkarten werden weitgehend akzeptiert, insbesondere in Touristengebieten. In kleineren Hotels und Geschäften sowie in abgelegenen Regionen kann nur bar gezahlt werden. Bargeld kann mit Kreditkarte an den entsprechend gekennzeichneten Bankautomaten abgehoben werden. Bei einer Bankkarte hängt dies von den Vertragsbedingungen des Geldinstituts ab.
+Landeswährung ist der marokkanische Dirham (MAD). Kreditkarten werden weitgehend akzeptiert, insbesondere in Touristengebieten. In kleineren Hotels und Geschäften sowie in abgelegenen Regionen kann nur bar gezahlt werden. Bargeld kann mit Kreditkarte an den entsprechend gekennzeichneten Bankautomaten abgehoben werden. Bei einer Debitkarte (Girocard) hängt dies von den Vertragsbedingungen des Geldinstituts ab.
 
-* Bitte erfragen Sie bei Ihrem Geldinstitut, ob Ihre Bankkarte Sie zu Abhebungen im Ausland berechtigt.
+* Bitte erfragen Sie bei Ihrem Geldinstitut, ob Ihre Debitkarte Sie zu Abhebungen im Ausland berechtigt.
 
 ## Einreise und Zoll
 
@@ -197,7 +191,7 @@ Weitergehende Informationen zur Ein- und Ausfuhr persönlicher Gegenstände, ges
 
 #### *Einfuhr eines Fahrzeugs*
 
-Ein bei der Einreise eingeführtes Kraftfahrzeug muss bei der Ausreise wieder ausgeführt werden. Andernfalls wird die Ausreise verweigert und es drohen hohe Zollstrafen (auch bei Unfallwagen). Das Kraftfahrzeug darf Dritten nur mit ausdrücklicher Genehmigung des Zolls überlassen werden. Zusätzliche Informationen bietet [der marokkanische Zoll.](https://www.douane.gov.ma/web/guest/nos-publications) Eine für Marokko gültige „Grüne Versicherungskarte“ muss mitgeführt werden und wird gelegentlich, bei Unfallbeteiligung in jedem Fall, von der Polizei verlangt.
+Ein bei der Einreise eingeführtes Kfz muss bei der Ausreise wieder ausgeführt werden. Andernfalls wird die Ausreise verweigert und es drohen hohe Zollstrafen (auch bei Unfallwagen). Das Kfz darf Dritten nur mit ausdrücklicher Genehmigung des Zolls überlassen werden. Zusätzliche Informationen bietet [der marokkanische Zoll.](https://www.douane.gov.ma/web/guest/nos-publications) Eine für Marokko gültige „Grüne Versicherungskarte“ muss mitgeführt werden und wird gelegentlich, bei Unfallbeteiligung in jedem Fall, von der Polizei verlangt.
 
 Eingeführte Kfz, die nicht wieder ausgeführt werden (z. B. bei Verkauf, Unfall), müssen verzollt werden.
 
@@ -274,7 +268,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht ganz zu vergleichen. I
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Krankenversicherung ab, die Risiken abdeckt, die von den gesetzlichen Kassen nicht übernommen werden (z. B. notwendiger Rücktransport nach Deutschland im Krankheitsfall, Behandlung bei Privatärzten oder in Privatkliniken).
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
+##### [**Bitte beachten Sie neben dem generellen Haftungsausschluss:**](https://diplo.de/-/2519600)
 
 Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
 
