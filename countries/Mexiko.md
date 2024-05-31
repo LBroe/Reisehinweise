@@ -32,10 +32,11 @@
 
 ### Innenpolitische Lage
 
-Am 2. Juni 2024 stehen in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten an. Trotz des langen Vorlaufs bis zum Wahltag prägt der politische Wettbewerb bereits die mexikanische Innenpolitik, die sich im weitgehend friedlichen Vorwahlkampf-Modus befindet.
+Am 2. Juni 2024 stehen in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten an. In diesem Zusammenhang kann es vor, während und nach den Wahlen zu Demonstrationen und Menschenansammlungen sowie Reiseverzögerungen kommen.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+* Verfolgen Sie die lokale Medienberichterstattung
 
 ### Kriminalität
 
@@ -131,6 +132,8 @@ In Mexiko gibt es keine flächendeckende Versicherungspflicht für Pkw-Halter. I
 * Benutzen Sie für die Fahrt zur Ausgrabungsstätte in Teotihuacán, im Nordosten von Mexiko-Stadt keine Linien-, sondern Touristenbusse.
 * Unternehmen Sie Individualreisen in entlegene Gebiete nicht ohne professionelle Führung, und zwar möglichst nur mit offiziellem Ausweis von SECTUR, dem mexikanischen Tourismusministerium.
 * Achten Sie bei Mietwagen unbedingt auf einen ausreichenden Versicherungsschutz, insbesondere Haftpflicht.
+* Wenn Sie einen Pannendienst benötigen, kontaktieren Sie „Ángeles Verdes“ (Telefon: 078 oder App „[Ángeles Verdes](https://consulmex.sre.gob.mx/frankfurt/images/ONE_PAGE_Internacional_18052023_ING.pdf)“)
+* Lassen Sie keine Wertgegenstände im Mietwagen, auch nicht auf bewachten Parkplätzen.
 
 ### Führerschein
 
@@ -408,7 +411,7 @@ Private Krankenhäuser und Ärzte verlangen in aller Regel Vorkasse.
 * Schließen Sie unbedingt für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab, führen Sie den Nachweis ständig mit und achten Sie auf einen ausreichenden Kreditrahmen Ihrer Kreditkarte für notwendige Vorauszahlungen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
+##### **Bitte beachten Sie neben dem [generellen Haftungsausschluss](https://diplo.de/-/2519600):**
 
 Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
 
