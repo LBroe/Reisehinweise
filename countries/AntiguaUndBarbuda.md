@@ -1,11 +1,5 @@
 # Antigua und Barbuda: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Vom 27.-30. Mai 2024 findet auf Antigua die UN-SIDS-Konferenz (Small Islands Developing States) statt, siehe [Konferenzwebseite.](https://sdgs.un.org/conferences/sids2024) Alle verfügbaren personellen und materiellen Ressourcen der kleinen Insel werden in diesem Zeitraum für die Konferenzteilnehmer benötigt. Reisen mit anderem Zweck nach Antigua sollten möglichst mit zeitlichem Abstand zu der UN-SIDS-Konferenz geplant werden.
-
-* Reisen Sie möglichst im oben genannten Zeitraum nicht nach Antigua.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -182,9 +176,7 @@ In Antigua gibt es ein vergleichsweise modernes Krankenhaus der Regelversorgung.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 

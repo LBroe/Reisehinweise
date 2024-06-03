@@ -58,7 +58,7 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 ### LGBTIQ
 
-Homosexuelle Handlungen sind zwar strafbar; es sind jedoch keine Fälle bekannt, bei denen es zu einer strafrechtlichen Verfolgung gekommen ist.
+Homosexuelle Handlungen wurden in Bhutan entkriminalisiert.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
