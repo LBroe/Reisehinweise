@@ -13,7 +13,7 @@ Die Kriminalitätsrate ist im Vatikan äußerst niedrig. Kleinkriminalität wie 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -52,8 +52,7 @@ Zahlungsmittel ist der EUR. Die Bezahlung mit Kreditkarten ist möglich.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -81,7 +80,7 @@ Beachten Sie ansonsten die [Reise- und Sicherheitshinweise Italien](https://www.
 
 ### Einfuhrbestimmungen
 
-Zwischen dem Heiligen Stuhl / Vatikan und Italien gibt es keine Zollkontrollen. Es wird somit auf die [Reise- und Sicherheitshinweise Italien](https://www.auswaertiges-amt.de/de/service/laender/italien-node/italiensicherheit/211322 "Italien: Reise- und Sicherheitshinweise") verwiesen.
+Zwischen dem Heiligen Stuhl/Vatikan und Italien gibt es keine Zollkontrollen. Es wird somit auf die [Reise- und Sicherheitshinweise Italien](https://www.auswaertiges-amt.de/de/service/laender/italien-node/italiensicherheit/211322 "Italien: Reise- und Sicherheitshinweise") verwiesen.
 
 Die Ein- und Ausfuhr von Waren unterliegt damit den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz keiner Warenkontrollen schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus.
 
