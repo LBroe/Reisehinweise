@@ -18,7 +18,7 @@ Ausländer dürfen ohne staatliche Akkreditierung nicht über die aktuellen Entw
 
 ### Kriminalität
 
-Die ausgesprochen schwierige politische, wirtschaftliche und soziale Lage der Bevölkerung hat zu einem Anstieg der Kriminalität geführt. Vor allem in den Innenstädten von Harare und Bulawayo, aber auch in den kleineren Städten, sind verstärkt Taschendiebstähle und „smash and grab“-Überfälle zu verzeichnen.  
+Die ausgesprochen schwierige politische, wirtschaftliche und soziale Lage der Bevölkerung hat zu einem Anstieg der Kriminalität geführt. Vor allem in den Innenstädten von Harare und Bulawayo, aber auch in den kleineren Städten, sind verstärkt Taschendiebstähle und Schaufenstereinbrüche („smash and grab“) zu verzeichnen.  
 Nachts besteht ein erhöhtes Überfallrisiko, besonders in den Städten, an roten Ampeln und unbeleuchteten Kreuzungen.
 
 * Seien Sie nach Einbruch der Dunkelheit nicht zu Fuß unterwegs.
@@ -27,7 +27,7 @@ Nachts besteht ein erhöhtes Überfallrisiko, besonders in den Städten, an rote
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -54,7 +54,7 @@ Der Zustand der Mietwagen ist nicht mit dem in europäischen Ländern zu verglei
 
 Öffentliche Busse sind wegen fehlender Ersatzteile und mangelhafter Wartung oftmals in schlechtem technischen Zustand.
 
-Taxis stehen vor allem von den großen Hotels aus zu Verfügung, können aber auch per Telefon gerufen werden. Grundsätzlich sind lizensierte Taxis mit Taxametern ausgestattet.
+Taxis stehen vor allem von und vor den großen Hotels zur Verfügung, können aber auch per Telefon gerufen werden. Grundsätzlich sind lizensierte Taxis mit Taxametern ausgestattet.
 
 Die Versorgung mit elektrischem Strom, Trinkwasser und insbesondere auch mit Kraftstoffen (Benzin und Diesel, überwiegend lange Warteschlangen an den Tankstellen) ist nicht flächendeckend gesichert. Die schlechte Stromversorgung führt zudem zur Beeinträchtigung von Telekomunikation.
 
@@ -100,8 +100,7 @@ Bei Geldmangel oder Verlust der mitgebrachten Reisemittel besteht die Möglichke
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -153,7 +152,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 Die Freigrenze für die [zollfreie Einfuhr von Waren und Gütern](https://www.zimra.co.zw/news/22-taxmans-corner/2196-importation-and-exportation-of-currency-by-travellers-2) bei der Einreise wurde auf 2.000 USD reduziert.
 
-Die Einfuhr von Bargeld ist weiterhin in unbeschränkter Höhe möglich. Allerdings sollte die eingeführte Menge bei der Einreise unbedingt beim simbabwischen Zoll deklariert werden, damit der Restbetrag bei Ausreise wieder mitgeführt werden kann. Nach Angaben des simbabwischen Zolls beträgt die Höchstgrenze 10.000 USD. Weitere Informationen bietet der [simbabwische Zoll](https://www.zimra.co.zw/)  ([Importation and Exportation of Currency by Travellers](https://www.zimra.co.zw/news/22-taxmans-corner/2196-importation-and-exportation-of-currency-by-travellers-2))
+Die Einfuhr von Bargeld ist weiterhin in unbeschränkter Höhe möglich. Allerdings sollte die eingeführte Menge bei der Einreise unbedingt beim simbabwischen Zoll deklariert werden, damit der Restbetrag bei Ausreise wieder mitgeführt werden kann. Nach Angaben des simbabwischen Zolls beträgt die Höchstgrenze 10.000 USD. Weitere Informationen bietet der [simbabwische Zoll](https://www.zimra.co.zw/)  ([Importation and Exportation of Currency by Travellers](https://www.zimra.co.zw/news/22-taxmans-corner/2196-importation-and-exportation-of-currency-by-travellers-2)).
 
 Bei Ausfuhr einer größeren Menge an Kunsthandwerk und Shona-Skulpturen, die zum Verkauf bestimmt sind, muss eine Genehmigung der Zollbehörde vorgelegt werden. Die Vorschriften können sich ständig ändern, daher empfiehlt es sich, direkt beim Zoll in Harare nachzufragen.
 
@@ -234,9 +233,7 @@ Medizinische Evakuierungen bietet im Gastland Emergency Medical Rescue Services 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
