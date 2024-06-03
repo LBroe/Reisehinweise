@@ -18,7 +18,7 @@ Ausländer dürfen ohne staatliche Akkreditierung nicht über die aktuellen Entw
 
 ### Kriminalität
 
-Die ausgesprochen schwierige politische, wirtschaftliche und soziale Lage der Bevölkerung hat zu einem Anstieg der Kriminalität geführt. Vor allem in den Innenstädten von Harare und Bulawayo, aber auch in den kleineren Städten, sind verstärkt Taschendiebstähle und Schaufenstereinbrüche („smash and grab“) zu verzeichnen.  
+Die ausgesprochen schwierige politische, wirtschaftliche und soziale Lage der Bevölkerung hat zu einem Anstieg der Kriminalität geführt. Vor allem in den Innenstädten von Harare und Bulawayo, aber auch in den kleineren Städten, sind verstärkt Taschendiebstähle und Blitzeinbrüche (Überfälle, bei denen Autotüren geöffnet oder Scheiben eingeschlagen werden, um Wertgegenstände zu entwenden, sog. „smash and grab“) zu verzeichnen.  
 Nachts besteht ein erhöhtes Überfallrisiko, besonders in den Städten, an roten Ampeln und unbeleuchteten Kreuzungen.
 
 * Seien Sie nach Einbruch der Dunkelheit nicht zu Fuß unterwegs.
