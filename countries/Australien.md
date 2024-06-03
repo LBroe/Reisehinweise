@@ -1,5 +1,9 @@
 # Australien: Reise- und Sicherheitshinweise
 
+# Eilmeldung
+
+Die FTI Touristik GmbH hat nach eigenen Angaben am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 14 98 zu erreichen ist. Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
+
 ## Sicherheit
 
 ### Terrorismus
@@ -112,8 +116,7 @@ Landeswährung ist der australische Dollar (AUD). Das Abheben von Bargeld an Gel
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 

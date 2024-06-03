@@ -1,5 +1,9 @@
 # Dänemark: Reise- und Sicherheitshinweise
 
+# Eilmeldung
+
+Die FTI Touristik GmbH hat nach eigenen Angaben am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 14 98 zu erreichen ist. Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
+
 ## Sicherheit
 
 ### Terrorismus

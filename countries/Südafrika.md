@@ -1,15 +1,8 @@
 # Südafrika: Reise- und Sicherheitshinweise
 
-## Aktuelles
+# Eilmeldung
 
-### *Parlamentswahlen*
-
-Am 29. Mai 2024 finden auf nationaler und auf Provinz-Ebene Parlamentswahlen in Südafrika statt, in deren Umfeld es zu Kundgebungen und Demonstrationen kommen kann.
-
-* Tragen Sie sich, unabhängig von der Dauer Ihres Aufenthalts in Südafrika, in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
-* Informieren Sie sich über die lokalen Medien.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+Die FTI Touristik GmbH hat nach eigenen Angaben am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 14 98 zu erreichen ist. Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
 
 ## Sicherheit
 
