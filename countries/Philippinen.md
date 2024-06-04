@@ -1,5 +1,14 @@
 # Philippinen: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### Vulkanausbruch
+
+Am Abend des 3. Juni 2024 wurde am Vulkan Kanlaon auf der Insel Negros eine starke Eruption beobachtet. Die philippinische Vulkan- und Erdbebenwarte (PHIVOLCS) hat Warnstufe 2 (erhöhte Aktivität) ausgesprochen. Anwohner der unmittelbaren Gefahrenzone wurden vorsorglich evakuiert, die Bevölkerung wurde aufgerufen, Atemschutzmasken zu tragen. Einschränkungen auf den Flugverkehr in Bacolod sowie ggf. benachbarte Inseln sind nicht auszuschließen.
+
+* Meiden Sie den betroffenen Gefahrenbereich weiträumig.
+* Beachten Sie aktuelle Warnstufen der philippinischen Vulkan- und Erdbebenwarte (PHIVOLCS) und folgen Sie den Anweisungen der lokalen Behörden.
+
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in folgende Regionen oder Gebiete wird gewarnt:  
@@ -10,7 +19,7 @@
 - Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)  
 - Inseln des Sulu-Archipels**  
 
-**Von nicht erforderlichen Reisen in andere Regionen von Mindanao und in der Mindanao-See wird abgeraten,**​​​​​​​mit Ausnahme der Insel Siargao.
+**Von nicht erforderlichen Reisen in andere Regionen von Mindanao und in der Mindanao-See wird abgeraten,**mit Ausnahme der Insel Siargao.
 
 ### Terrorismus
 
@@ -288,9 +297,7 @@ In Manila wie in den anderen größeren Metropolen des Landes ist die ambulante 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
