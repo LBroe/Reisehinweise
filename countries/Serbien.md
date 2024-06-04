@@ -32,7 +32,7 @@ Fahrzeugaufbrüche kommen vor. Betrüger geben sich häufiger als falsche „ge
 
 Serbien liegt in einer seismisch aktiven Zone, weshalb es zu meist leichteren Erdbeben kommen kann.
 
-Das Klima ist gemäßigt kontinental mit heißen Sommern und kalten Wintern.  
+Das Klima ist gemäßigt-kontinental mit heißen Sommern und kalten Wintern.  
 Vor allem in den Sommermonaten kommt es in Serbien aufgrund der herrschenden klimatischen Bedingungen immer wieder zu Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -91,7 +91,7 @@ Vor dem Hintergrund der Flüchtlingsbewegungen auf dem Westbalkan kann die Mitna
 
 Das Fotografieren militärischer Einrichtungen ist verboten.
 
-Einfuhr, Erwerb, Verkauf oder Besitz von Drogen wird in Serbien grundsätzlich streng bestraft. Auch bei zum Eigenbedarf bestimmten kleineren Mengen drohen eine Geld- und Freiheitsstrafe von bis zu drei Jahren.
+Einfuhr, Erwerb, Verkauf oder Besitz von Drogen wird in Serbien grundsätzlich streng bestraft. Auch bei zum Eigenbedarf bestimmten kleineren Mengen drohen eine Geld- und Freiheitsstrafe bis zu drei Jahren.
 
 Sexuelle Handlungen mit Minderjährigen (Personen vor Vollendung des 14. Lebensjahres) sind strafbar. Sexuelle Handlungen mit Minderjährigen zwischen Vollendung des 14. und 18. Lebensjahrs sind strafbar, wenn sie unter Anwendung von Gewalt bzw. unter Missbrauch der dienstlichen Position begangen wurden.
 
@@ -128,7 +128,7 @@ Von der Einreise mit einem einmal als verloren oder gestohlen gemeldeten Ausweis
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt von bis zu 90 Tagen innerhalb von 180 Tagen zu touristischen Zwecken kein Visum.  
+Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen innerhalb von 180 Tagen zu touristischen Zwecken kein Visum.  
 Auf diese Dauer werden von den serbischen Behörden auch Aufenthalte in Kosovo angerechnet.
 
 Inhaber von deutschen Reisedokumenten für Ausländer, Flüchtlinge und Staatenlose benötigen ein Visum für die Einreise in die Republik Serbien.
@@ -137,7 +137,7 @@ Inhaber von deutschen Reisedokumenten für Ausländer, Flüchtlinge und Staatenl
 
 Bei beabsichtigtem Verbleib von mehr als 90 Tagen oder bei Aufnahme einer Erwerbstätigkeit kann der erforderliche Aufenthaltstitel entweder vor Reiseantritt online über die [Webseite der serbischen Regierung](https://welcometoserbia.gov.rs/home) (Englisch) oder persönlich bei einer serbischen Auslandsvertretung oder  nach Einreise bei der [zuständigen Ausländerpolizei in Serbien](http://www.mup.gov.rs/wps/wcm/connect/d944dc54-40c4-447f-9c03-0a61e9918285/Adrese+i+brojevi+telefona.pdf?MOD=AJPERES&CVID=nwWYHqW) beantragt werden. Die Verlängerung einer Aufenthaltserlaubnis ist online möglich – weitere Informationen bei der Ausländerpolizei in Belgrad (Omladinskih brigada 1, Tel. +381 11 3618956, +381113618972 – Terminvereinbarung, E-Mail: [upravazastrance@mup.gov.rs](mailto:upravazastrance@mup.gov.rs)).
 
-Für die Aufnahme einer Erwerbstätigkeit ist unabhängig von der Aufenthaltsdauer eine Aufenthaltserlaubnis erforderlich. Seit dem 1. Februar 2024 kann eine kombinierte Aufenthalts- und Arbeitserlaubnis ausgestellt werden. Die Beantragung ist ebenfalls über [die Webseite der serbischen Regierung](https://welcometoserbia.gov.rs/home) (Englisch), vor Einreise bei der zuständigen [serbischen Auslandsvertretung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungenserbien/207494) in Deutschland oder nach Einreise bei der zuständigen Ausländerbehörde in Serbien möglich.
+Für die Aufnahme einer Erwerbstätigkeit ist unabhängig von der Aufenthaltsdauer eine Aufenthaltserlaubnis erforderlich. Seit Februar 2024 kann eine kombinierte Aufenthalts- und Arbeitserlaubnis ausgestellt werden. Die Beantragung ist ebenfalls über [die Webseite der serbischen Regierung](https://welcometoserbia.gov.rs/home) (Englisch), vor Einreise bei der zuständigen [serbischen Auslandsvertretung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungenserbien/207494) in Deutschland oder nach Einreise bei der zuständigen Ausländerbehörde in Serbien möglich.
 
 Weitere Informationen bieten das [serbische Innenministerium](http://www.mup.gov.rs/wps/portal/en/information) und das [serbische Außenministerium](http://www.mfa.gov.rs/en/), auch bei beabsichtigter Übersiedlung nach Serbien.
 
@@ -152,7 +152,7 @@ Minderjährige, die das 16. Lebensjahr vollendet haben, dürfen alleine nach Ser
 ### Einreise über Kosovo
 
 Die Einreise nach Serbien aus Kosovo ist nur möglich, wenn die Einreise nach Kosovo zuvor auf dem Landweg aus Serbien erfolgt ist und die Gesamtreisedauer drei Monate nicht übersteigt (siehe *Visum*). Selbst dann kann es zu Schwierigkeiten, bis hin zur Einreiseverweigerung, kommen. Hintergrund ist, dass Serbien Kosovo als Teil seines staatlichen Territoriums und nicht als Ausland betrachtet.  
-Kosovarische Einreisestempel werden von den serbischen Behörden zumeist ungültig gestempelt. Reisende, die keinen kosovarischen Einreisestempel im Reisepass wünschen, können dies der kosovarischen Grenzpolizei bei Einreise mitteilen. Die Reise nach Serbien ist mit dem deutschen Personalausweis möglich, s. Abschnitt *Reisedokumente*.
+Kosovarische Einreisestempel werden von den serbischen Behörden zumeist ungültig gestempelt. Reisende, die keinen kosovarischen Einreisestempel im Reisepass wünschen, können dies der kosovarischen Grenzpolizei bei Einreise mitteilen. Die Reise nach Serbien ist mit dem deutschen Personalausweis möglich, siehe Abschnitt *Reisedokumente*.
 
 * Bitte beachten Sie die aktuellen Reise- und Sicherheitshinweise zu [Kosovo](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/kosovo-node/kosovosicherheit/207442).
 
@@ -195,7 +195,7 @@ Weitere Informationen bietet [die serbische Zollverwaltung](https://www.carina.r
 
 ### Heimtiere
 
-Für die Einfuhr von Heimtieren ist der EU-Heimtierausweis erforderlich, aus dem die Kennzeichnung des Tieres durch Mikrochip oder deutlich lesbare Tätowierung hervorgehen muss. Für nach dem 3. Juli 2011 zum ersten Mal gekennzeichnete Tiere ist ein Mikrochip Pflicht.  
+Für die Einfuhr von Heimtieren ist der EU-Heimtierausweis erforderlich, aus dem die Kennzeichnung des Tieres durch Mikrochip oder deutlich lesbare Tätowierung hervorgehen muss. Für zum ersten Mal gekennzeichnete Tiere ist ein Mikrochip Pflicht.  
 Im EU-Heimtierausweis muss eine gültige Tollwutimpfung eingetragen sein, deren Erstimpfung mindestens 21 Tage vor der Einreise erfolgt sein muss.  
 Weitere Informationen bietet die [serbische Zollverwaltung](https://www.carina.rs/en.html).
 
