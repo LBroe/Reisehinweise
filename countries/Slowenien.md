@@ -42,7 +42,7 @@ Slowenien liegt in einer seismisch leicht aktiven Zone, weshalb es zu Erdbeben k
 
 ### Grenzkontrollen
 
-Slowenien führt seit dem 21. Oktober 2023 Grenzkontrollen an der slowenisch-kroatischen und an der slowenisch-ungarischen Grenze durch. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.
+Slowenien führt seit Oktober 2023 Grenzkontrollen an der slowenisch-kroatischen und an der slowenisch-ungarischen Grenze durch. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.
 
 Reisende – auch Kinder – müssen in der Lage sein, sich durch Pässe oder Personalausweise auszuweisen; Führerscheine oder Geburtsurkunden für Kinder genügen nicht. Es droht ein Bußgeld oder die Festnahme zur Einleitung strafrechtlicher Ermittlungen.
 
@@ -115,6 +115,8 @@ Die Einreise nach Slowenien ist für deutsche Staatsangehörige mit folgenden Re
 
 **Anmerkungen/Mindestrestgültigkeit:**   
 Slowenien ist Vertragspartei des Europäischen Übereinkommens über die Regelung des Personenverkehrs zwischen den Mitgliedsstaaten des Europarates vom 13.12.1957. Reisedokumente außer dem vorläufigen Personalausweis dürfen seit höchstens einem Jahr abgelaufen sein.
+
+Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
 Bei einem Aufenthalt in Slowenien müssen deutsche Staatsangehörige in der Lage sein, sich durch einen gültigen amtlichen Lichtbildausweis (Pass; Personalausweis) zur Person ausweisen zu können. Kann die Identität einer Person gegenüber der slowenischen Polizei nicht durch ein Reisedokument nachgewiesen werden, droht ein hohes Bußgeld.
 

@@ -49,7 +49,7 @@ Die Kriminalitätsrate in Belarus ist niedrig. Es kommt in seltenen Fällen zu K
 * Vermeiden Sie das Zeigen größerer Bargeldmengen in der Öffentlichkeit.
 * Parken Sie wertvolle Fahrzeuge möglichst nur auf bewachten Parkplätzen und lassen Sie keine Wertsachen im Fahrzeug zurück.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine persönlichen Daten von sich mit, sondern vergewissern Sie sich ggf. selbst von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine persönlichen Daten von sich mit, sondern vergewissern Sie sich ggf. selbst der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 

@@ -136,6 +136,8 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Reisedokumente müssen für Aufenthalte von bis zu 90 Tagen im Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein. Die Grenzbehörden der VAE lassen eine Einreise ohne ausreichend gültigen Reisepass oder Kinderreisepass nicht zu.
 
+Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
+
 * Beantragen Sie rechtzeitig vor Reiseantritt (ggf. im Expressverfahren) einen regulären biometrischen Reisepass.
 
 Seit Januar 2024 werden keine [neuen Kinderreisepässe](https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise) mehr ausgestellt, bereits vorhandene behalten ihre angegebene Gültigkeit. Nach Einreise in die VAE mit Kinderreisepass und z. B. Verlust desselben kann in den VAE innerhalb weniger Tage nur ein Reiseausweis als Passersatz oder ein vorläufiger Reisepass ausgestellt werden. Beide ermöglichen die Ausreise aus den VAE, nicht aber die Wiedereinreise in die VAE (z. B. im Rahmen einer Kreuzfahrt durch mehrere Länder).
