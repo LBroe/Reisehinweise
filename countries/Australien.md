@@ -53,7 +53,7 @@ Australien liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben kommen 
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und verfolgen Sie die Wettervorhersage, z.B. des [Bureau of Meteorology.](http://www.bom.gov.au)
 * Informieren Sie sich über aktuelle Naturkatastrophen und anderen Großschadensereignissen bei der [australischen Regierung.](https://www.australia.gov.au/)
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 
 ## Reiseinfos
@@ -142,11 +142,11 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Australien ein Visu
 
 #### *eVisitor*
 
-Für Geschäftsreisende und Touristen aus Deutschland und den anderen EU-Mitgliedsländern wird das [eVisitor Visum](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) (Subclass 651) angeboten. Das Visum ist 12 Monate gültig und berechtigt innerhalb dieses einen Jahres zu beliebig vielen Aufenthalten in Australien von jeweils maximal drei Monaten. Es kann kostenlos online beantragt werden. Antragsteller werden über die erfolgreiche Ausstellung des eVisitor Visums per E-Mail benachrichtigt. Das eVisitor Visum wird bei den Grenzübergängen und anderen Stellen elektronisch gespeichert.
+Für Geschäftsreisende und Touristen aus Deutschland und den anderen EU-Mitgliedsländern wird das [eVisitor Visum](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) (Subclass 651) angeboten. Das Visum ist 12 Monate gültig und berechtigt innerhalb dieses einen Jahres zu beliebig vielen Aufenthalten in Australien von jeweils maximal drei Monaten. Es kann kostenlos online beantragt werden. Antragsteller werden über die erfolgreiche Ausstellung des eVisitor-Visums per E-Mail benachrichtigt. Das eVisitor-Visum wird bei den Grenzübergängen und anderen Stellen elektronisch gespeichert.
 
 #### *Electronic Travel Authority ETA*
 
-Das vor Einführung des eVisitor Visum bestehende [Electronic Travel Authority ETA](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601) (Subclass 601) kann weiterhin beantragt werden, die Einreiseberechtigungen entsprechen denen des eVisitor Visums. Das ETA kann über Reisebüros oder Fluggesellschaften beantragt werden und kostet 20 AUD plus eventuelle Gebühren des Dienstleisters.
+Das vor Einführung des eVisitor-Visums bestehende [Electronic Travel Authority ETA](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601) (Subclass 601) kann weiterhin beantragt werden, die Einreisegenehmigungen entsprechen denen des eVisitor-Visums. Das ETA kann über Reisebüros oder Fluggesellschaften beantragt werden und kostet 20 AUD plus eventuelle Gebühren des Dienstleisters.
 
 #### *Transit*
 
