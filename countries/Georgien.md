@@ -116,9 +116,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-Mit Wirkung vom 1. Juni 2024 ist die Vorlage eines Nachweises über eine in Georgien gültige Kranken- und Unfallversicherung für den geplanten Aufenthaltszeitraum erforderlich.  
-
-Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens bis zum Zeitpunkt der Ausreise gültig sein.
+​​​​​​​Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens bis zum Zeitpunkt der Ausreise gültig sein.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
@@ -166,10 +164,6 @@ Vorübergehend in Georgien genutzte und im Ausland zugelassene Fahrzeuge unterli
 Reisende sollten sich vor Reisebuchung über die georgischen Einzelbestimmungen bezüglich der Einfuhr, Leinen- und Maulkorbpflicht sowie über die Liste verbotener Hunderassen („Kampfhunde") informieren. Die jeweiligen diplomatischen oder konsularischen [Vertretungen Georgiens in Deutschland](http://botschaftgeorgien.de/) und die ansässigen Touristenauskünfte informieren darüber. Allgemeine Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/Tier/HausUndZootiere/_texte/ReiseplanungTiere.html) 
 
 ## Gesundheit
-
-### Aktuelles
-
-Mit Wirkung vom 1. Juni 2024 ist die Vorlage eines Nachweises über eine in Georgien gültige Kranken- und Unfallversicherung für den geplanten Aufenthaltszeitraum erforderlich, siehe auch *Einreise und Zoll – Reisedokumente.*
 
 ### Impfschutz
 
