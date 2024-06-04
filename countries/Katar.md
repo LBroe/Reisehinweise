@@ -15,7 +15,7 @@ Katar war bislang nicht Ziel terroristischer Anschläge, dennoch kann die Mögli
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage ist stabil. Im Konflikt zwischen Katar und den umliegenden Staaten Saudi-Arabien, Vereinigte Arabische Emirate, Bahrain und Ägypten kam es beim Gipfeltreffen des Golfkooperationsrats in Al-Ula 2021 zu einer Wiederannäherung, die zu einer sukzessiven Wiederaufnahme direkter Flug- und Schifffahrtsverbindungen.
+Die innenpolitische Lage ist stabil. Im Konflikt zwischen Katar und den umliegenden Staaten Saudi-Arabien, Vereinigte Arabische Emirate, Bahrain und Ägypten kam es beim Gipfeltreffen des Golfkooperationsrats in Al-Ula 2021 zu einer Wiederannäherung, die zu einer sukzessiven Wiederaufnahme direkter Flug- und Schifffahrtsverbindungen führte.
 
 * Informieren Sie sich über die lokalen Medien.
 * Berücksichtigen Sie bei politischen Äußerungen die sensible politische Lage zwischen Katar und den genannten Nachbarstaaten.
@@ -34,7 +34,7 @@ Die Kriminalitätsrate ist niedrig. Dennoch sind vereinzelt Taschendiebstähle, 
 
 Es herrscht teilweise feuchtheißes Tropenklima mit gelegentlichen Sandstürmen.
 
-In den Wintermonaten kommt es gelegentlich zu Starkregenereignissen, die zur Überschwemmung einzelner Straßenzüge und damit zu Einschränkungen im Verkehr führen können.
+In den Wintermonaten kommt es gelegentlich zu Starkregen, die zur Überschwemmung einzelner Straßenzüge und damit zu Einschränkungen im Verkehr führen können.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
@@ -63,14 +63,14 @@ Telefonieren während der Fahrt, Alkohol am Steuer und auch beleidigende Gesten 
 
 ### Führerschein
 
-Bei Einreise mit einem Besuchs- oder Touristenvisum, darf mit einem gültigen deutschen Führerschein für eine Dauer von bis zu sieben Tagen ab Einreise gefahren werden.
+Bei Einreise mit einem Besuchs- oder Touristenvisum darf mit einem gültigen deutschen Führerschein für eine Dauer von bis zu sieben Tagen ab Einreise gefahren werden.
 
 Bei längeren Zeiträumen muss eine katarische für drei Monate gültige, vorläufige Fahrerlaubnis beantragt werden. Diese vorläufige Fahrerlaubnis kann verlängert werden.
 
 Der internationale Führerschein berechtigt, ein Kfz binnen eines Zeitraums von maximal sechs Monaten ab Einreise zu führen. Ein Mietwagen kann mit dem internationalen Führerschein allein nicht gemietet werden; es ist zusätzlich die Vorlage des nationalen Führerscheins erforderlich.  
 Detaillierte Informationen des katarischen Straßenverkehrsamtes bietet [Hukoomi](https://hukoomi.gov.qa/en/).
 
-* Bitte denken Sie daran, Ihren Internationalen Führerschein vor der Ausreise nach Katar zu beantragen.
+* Bitte denken Sie daran, Ihren internationalen Führerschein vor der Ausreise nach Katar zu beantragen.
 
 ### Besondere Verhaltensweisen/Ramadan
 
@@ -78,17 +78,18 @@ Angesichts anhaltender Spannungen und Ereignisse in manchen Ländern des Nahen u
 
 Frauen unterliegen keinen besonderen Beschränkungen oder Verboten. Ihnen ist das Führen eines Kraftfahrzeuges ebenso erlaubt wie die Bewegung in der Öffentlichkeit auch ohne männliche Begleitung. Hinsichtlich der Kleidung ist jedoch Zurückhaltung geboten.
 
-Während des Fastenmonats Ramadan ist mit Einschränkungen im Alltag, z.B. tagsüber der Schließung von Restaurants außerhalb der Hotels, reduzierte Arbeitszeiten bei Behörden und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Bezug auf die Einhaltung islamischer Traditionen, zu rechnen. Auch wenn die Fastenregeln nur für Muslime gelten, sollten auch Nichtmuslime darauf achten, keine religiösen Gefühle zu verletzen. Es wird daher empfohlen, tagsüber vom Essen, Trinken und Rauchen in der Öffentlichkeit Abstand zu nehmen.
+Während des Fastenmonats Ramadan ist mit Einschränkungen im Alltag, z.B. tagsüber der Schließung von Restaurants außerhalb der Hotels, reduzierten Arbeitszeiten bei Behörden und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Bezug auf die Einhaltung islamischer Traditionen, zu rechnen. Auch wenn die Fastenregeln nur für Muslime gelten, sollten auch Nichtmuslime darauf achten, keine religiösen Gefühle zu verletzen. Es wird daher empfohlen, tagsüber vom Essen, Trinken und Rauchen in der Öffentlichkeit Abstand zu nehmen.
 
 ### LGBTIQ
 
 Das Strafrecht in Katar ist geprägt durch islamische Moralvorstellungen. Es sollte Reisenden bewusst sein, dass homosexuelle Handlungen und nichtehelicher Geschlechtsverkehr verboten sind und strafrechtlich geahndet werden.
 
+* Seien Sie besonders umsichtig, wenn Sie Kontakt zur lokalen Bevölkerung aufnehmen. In Katar überwacht die Polizei Webseiten, mobile Dating-Apps oder Treffpunkte bzw. nimmt LGBTIQ-Personen gezielt über Fake-Accounts/Dating-Apps ins Visier. Im Falle von Kontrollen muss mit dem Auslesen des Mobilgerätes und der Verwendung so gewonnener Erkenntnisse zur sexuellen Orientierung gerechnet werden.
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
 ### Rechtliche Besonderheiten
 
-Die Gebräuche und Gesetze von Katar sind stark durch den Islam und dessen Glaubensinhalte und Wertvorstellungen geprägt. Trunkenheit und der Konsum von Alkohol in der Öffentlichkeit sind verboten, ebenso wie die Einfuhr von Alkohol nach Katar. In lizenzierten Hotels wird Alkohol ausgeschenkt. Es sollte Reisenden bewusst sein, dass der Austausch von Zärtlichkeiten in der Öffentlichkeit und nichtehelicher Geschlechtsverkehr verboten sind und strafrechtlich geahndet werden können. Das kann im Extremfall bedeuten, dass es bei Anzeige einer Vergewaltigung zur strafrechtlichen Verfolgung des Opfers wegen „außerehelichen Geschlechtsverkehrs“ kommt. Auch nichteheliche Schwangerschaften können im Extremfall und bei Anzeige entsprechend strafrechtlich verfolgt werden.
+Die Gebräuche und Gesetze von Katar sind stark durch den Islam und dessen Glaubensinhalte und Wertvorstellungen geprägt. Trunkenheit und der Konsum von Alkohol in der Öffentlichkeit sind verboten ebenso wie die Einfuhr von Alkohol nach Katar. In lizenzierten Hotels wird Alkohol ausgeschenkt. Es sollte Reisenden bewusst sein, dass der Austausch von Zärtlichkeiten in der Öffentlichkeit und nichtehelicher Geschlechtsverkehr verboten sind und strafrechtlich geahndet werden können. Das kann im Extremfall bedeuten, dass es bei Anzeige einer Vergewaltigung zur strafrechtlichen Verfolgung des Opfers wegen „außerehelichen Geschlechtsverkehrs“ kommt. Auch nichteheliche Schwangerschaften können im Extremfall und bei Anzeige entsprechend strafrechtlich verfolgt werden.
 
 Schwangere Frauen können aufgefordert werden, eine Heiratsurkunde vorzulegen, wenn sie in Katar medizinisch versorgt werden. Unverheirateten schwangeren Frauen und Opfern sexueller Übergriffe bietet die Deutsche Botschaft Doha an, sich zuerst an sie zu wenden, bevor sie sich in Katar behandeln lassen oder Kontakt zu den katarischen Behörden aufnehmen.
 
@@ -102,12 +103,11 @@ Landeswährung ist der Katar Riyal (QAR). Das Abheben von Bargeld an Geldautomat
 
 ## Einreise und Zoll
 
-Einreise- und Einfuhrbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Die Zollbestimmungen für Deutschland können Sie auf der [Webseite des deutschen Zolls](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)  und per [App "Zoll und Reise"](https://www.zoll.de/DE/Privatpersonen/Reisen/Abgabenrecher-Zoll-und-Reise/abgabenrecher-zoll-und-reise_node.html "App Zoll und Reise") finden oder dort telefonisch erfragen.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Katars](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Katars sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
 
 ### *Obligatorische Krankenversicherung*
 
@@ -127,14 +127,14 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 Deutsche Staatsangehörige, die beabsichtigen, von Doha über Oman oder Kuwait nach Saudi-Arabien, Bahrain, Ägypten oder in die Vereinigten Arabischen Emirate (VAE) zu reisen, sollten sich vorab über die aktuellen Einreisebestimmungen dieser Länder informieren.  
-In Katar lebende deutsche Staatsangehörige können im Rahmen des Visa Waiver Agreements zwischen der EU und den VAE visumfrei in die VAE einreisen. Der katarische Aufenthaltstitel ist insofern unschädlich.  
+In Katar lebende deutsche Staatsangehörige können im Rahmen des Visa Waiver Agreements zwischen der EU und den VAE visumsfrei in die VAE einreisen. Der katarische Aufenthaltstitel ist insofern unschädlich.  
 Ungeachtet dessen ist zu beachten, dass jede Einreiseentscheidung der Souveränität des Gastlandes obliegt und im Einzelfall vom oben genannten Grundsatz abweichen kann.
 
 ### Visum
 
 Siehe auch *Einreise und Zoll - Obligatorische Krankenversicherung*
 
-Deutsche Staatsangehörige mit regulärem Reisepass können entweder ein „Visum-Waiver“ oder ein Visum bei Einreise beantragen. Inhaber von vorläufigen Pässen müssen ein Visum vor der Einreise bei der zuständigen Auslandsvertretung von Katar beantragen.
+Deutsche Staatsangehörige mit regulärem Reisepass können entweder ein „Visum-Waiver“ oder ein Visum bei Einreise beantragen. Inhaber vorläufiger Pässe müssen ein Visum vor der Einreise bei der zuständigen Auslandsvertretung von Katar beantragen.
 
 #### *Visum-Waiver bei Einreise*
 
@@ -155,7 +155,7 @@ Inhaber vorläufiger Reisepässe müssen vorab ein Visum bei der zuständigen Au
 
 In Einzelfällen wurde deutschen Staatsangehörigen mit Migrationshintergrund, in der Regel aus dem arabischen Raum, ohne Angabe von Gründen die Einreise nach Katar verweigert.
 
-* Wenn Sie zu diesem Personenkreis zählen und eine wichtige Reise nach Katar planen, erkundigen Sie sich bitte vorab bei der Botschaft des Staates Katar in Berlin, ob Sie dort ein Visum vor der Einreise beantragen können, um nicht Gefahr zu laufen, nicht nach Katar einreisen zu dürfen.
+* Wenn Sie zu diesem Personenkreis zählen und eine Reise nach Katar planen, erkundigen Sie sich bitte vorab bei der Botschaft des Staates Katar in Berlin, ob Sie dort ein Visum vor der Einreise beantragen können, um nicht Gefahr zu laufen, nicht nach Katar einreisen zu dürfen.
 
 #### *Längerfristiger Aufenthalt*
 
@@ -177,7 +177,7 @@ Für Kinder, die mit einem Kinderreisepass und nicht in der Begleitung mindesten
 
 Die Ein- oder Ausfuhr von Landes- oder Fremdwährung, Wertpapieren, Edelmetallen oder Edelsteinen im Wert über 50.000 QAR oder dem entsprechenden Betrag in Fremdwährung muss bei Ein- und Ausreise per Meldeformular der katarischen Generalzollbehörde angezeigt werden. Zuwiderhandlungen werden mit Haftstrafe, Geldstrafe oder der Beschlagnahmung geahndet.
 
-Die Einfuhr von Drogen, Alkohol, pornografischen Materials sowie religiöser Bücher und Materialen ist strengstens untersagt. Die Einfuhr von Schweinefleisch ist ebenfalls nicht gestattet.
+Die Einfuhr von Drogen, Alkohol, pornografischen Materials sowie religiöser Bücher und Materialien ist strengstens untersagt. Die Einfuhr von Schweinefleisch ist ebenfalls nicht gestattet.
 
 Reisende, die Medikamente einnehmen müssen, sollten folgende Unterlagen mitführen:
 
@@ -262,9 +262,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 

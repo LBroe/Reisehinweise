@@ -1,5 +1,14 @@
 # Nigeria: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### Generalstreik
+
+Der Nigeria Labour Congress (NLC) und der Trade Union Congress of Nigeria (TUC) haben am 3. Juni 2024, einen landesweiten Streik begonnen, der sich auf das öffentliche Leben in ganz Nigeria auswirkt. Auch Störungen an den Flughäfen sind nicht ausgeschlossen.
+
+* Erkundigen Sie sich vor Reiseantritt bei Ihrer Fluggesellschaft oder Reiseveranstalter ob die Reise wie geplant stattfindet.
+* Informieren Sie sich über die lokalen Medien und meiden Sie Demonstrationen und größere Menschenansammlungen.
+
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in den gesamten Bundesstaat Borno einschließlich der Hauptstadt Maiduguri,** auch auf dem Luftweg**, wird gewarnt.** 
