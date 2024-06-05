@@ -1,22 +1,5 @@
 # Taiwan*: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Erdbeben*
-
-Am Morgen des 3. April 2024 ereignete sich vor der Ostküste Taiwans nahe Hualien ein Erdbeben der Stärke 7,2. Es gab zahlreiche Verletzte und Todesopfer. Das Beben war auf der ganzen Insel zu spüren; vor allem im Landkreis Hualien gab es größere Schäden an der Infrastruktur. Von zahlreichen, teilweise auch recht starken Nachbeben geht weiterhin Gefahr aus.
-
-Weiterführende Informationen bietet das [taiwanische Wetteramt.](https://www.cwa.gov.tw/V8/E/E/index.html)
-
-Im Katastrophenfall können taiwanische Behörden ausländische SIM-Karten nicht ohne Weiteres orten. Daher wird der Kauf einer taiwanischen (Prepaid) SIM-Karte empfohlen. Diese gibt es gegen Vorlage des Reisepasses am Flughafen und allen Mobilfunkläden. Viele Prepaid SIM-Karten sind günstig und verfügen über unbegrenztes Datenvolumen.
-
-* Lassen Sie besondere Vorsicht walten.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Kaufen Sie eine taiwanische (Prepaid-)SIM-Karte und installieren sie auf Ihrem Mobilgerät.
-* Laden Sie danach die App der taiwanischen Feuerwehr (für [Android;](https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US&pli=1&fbclid=IwAR0l-UXdh2GGrKKrkoK-jR9HZwBfZeT2zV9FahB6I15rf9R0HpN69zEciks) für [iOS)](https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641) auf Ihr Mobilgerät, um aktuelle Warnhinweise, etc. zu erhalten.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028).
-* Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
-
 ## Sicherheit
 
 ### Terrorismus
@@ -41,8 +24,6 @@ Die Kriminalitätsrate ist niedrig. Insbesondere in den Großstädten kommt es z
 
 ## Natur und Klima
 
-Siehe *Aktuelles*
-
 #### *Erdbeben*
 
 Taiwan liegt in einer seismisch äußerst aktiven Zone. Im Jahresdurchschnitt werden Tausende von Beben zwischen Stärke drei und sechs registriert, von denen aber im Allgemeinen nur fünf bis sechs auch in Taipei deutlich wahrgenommen werden.
@@ -58,8 +39,6 @@ Taiwan wird insbesondere von Mai bis November regelmäßig von Tropenstürmen ge
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
-
-Siehe *Aktuelles*
 
 ### Infrastruktur/Verkehr
 
@@ -91,8 +70,7 @@ Landeswährung ist der New Taiwan-Dollar (NTD). Das Abheben von Bargeld an Gelda
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -214,9 +192,7 @@ Die medizinische Versorgung in Taiwan entspricht europäischem Niveau und ist in
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 \* Die Bezeichnung „Länder“ in der Auswahlliste umfasst Staaten, Provinzen und Territorien. Sie spiegelt nicht die Position der Bundesregierung hinsichtlich des Status eines Landes oder einer Region wider.
 
