@@ -36,7 +36,7 @@ Die FTI Touristik GmbH hat nach eigenen Angaben am 3. Juni 2024 einen Insolvenza
 
 ### Innenpolitische Lage
 
-Am 2. Juni 2024 stehen in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten an. In diesem Zusammenhang kann es vor, während und nach den Wahlen zu Demonstrationen und Menschenansammlungen sowie Reiseverzögerungen kommen.
+Am 2. Juni 2024 fanden in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten statt. In diesem Zusammenhang kann es nach den Wahlen zu Demonstrationen und Menschenansammlungen sowie Reiseverzögerungen kommen.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
