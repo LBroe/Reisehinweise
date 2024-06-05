@@ -2,12 +2,12 @@
 
 ## Aktuelles
 
-### Generalstreik
+### Streiks
 
-Der Nigeria Labour Congress (NLC) und der Trade Union Congress of Nigeria (TUC) haben am 3. Juni 2024, einen landesweiten Streik begonnen, der sich auf das öffentliche Leben in ganz Nigeria auswirkt. Auch Störungen an den Flughäfen sind nicht ausgeschlossen.
+Der Nigeria Labour Congress (NLC) und der Trade Union Congress of Nigeria (TUC) haben am 3. Juni 2024, einen landesweiten Streik ausgerufen, der sich auf das öffentliche Leben in ganz Nigeria auswirken kann. Auch Störungen an den Flughäfen sind nicht ausgeschlossen. Am 5. Juni 2024 wurde der Streik für weitere Gespräche zunächst ausgesetzt, eine Wiederaufnahme des Streiks ist jederzeit möglich.
 
-* Erkundigen Sie sich vor Reiseantritt bei Ihrer Fluggesellschaft oder Reiseveranstalter ob die Reise wie geplant stattfindet.
 * Informieren Sie sich über die lokalen Medien und meiden Sie Demonstrationen und größere Menschenansammlungen.
+* Erkundigen Sie sich vor Reiseantritt bei Ihrer Fluggesellschaft oder Reiseveranstalter ob die Reise wie geplant stattfindet.
 
 ## Sicherheit - Teilreisewarnung
 
@@ -56,6 +56,8 @@ Das Risiko von terroristisch oder kriminell motivierten Entführungen ist hoch, 
 * Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
 ### Innenpolitische Lage
+
+Siehe *Aktuelles*
 
 In Nigeria können in allen Regionen unvorhersehbare lokale Konflikte aufbrechen. Ursachen und Anlässe der Konflikte können politischer, wirtschaftlicher, religiöser, gesellschaftlicher und/oder ethnischer Art sein.
 
@@ -109,6 +111,8 @@ Während der Regenzeit von Mai bis November ist mit intensiven Regenfällen zu r
 ## Reiseinfos
 
 ### Infrastruktur/Verkehr
+
+Siehe *Aktuelles*
 
 Die Infrastruktur in Nigeria ist mangelhaft. Die Versorgungslage - insbesondere Benzin, Diesel, Strom- und Wasser - ist im gesamten Land häufig unzureichend. Kraftstoffe sind oft von mangelhafter Qualität.
 
