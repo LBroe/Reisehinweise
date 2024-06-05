@@ -26,7 +26,7 @@ Touristen sind aufgrund der mitgeführten Kameraausstattung, etc. bevorzugte Opf
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf und führen Sie Kopien von Pass und Visum an anderer Stelle Ihres Gepäcks mit sich, speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Verstauen Sie Ihr Gepäck in sicherer Umgebung in Ihrem Kofferraum.
 * Lassen Sie Ihre Wertsachen auch in Ihrer bewachten Unterkunft bzw. auf bewachten Campingplätzen nicht offen liegen.
-* Nutzen Sie keine Taxis, in denen sich weitere Fahrgäste befinden und lassen Sie keine unbekannten Fahrgäste in Taxis zusteigen.
+* Nutzen Sie keine Taxis, in denen sich weitere Fahrgäste befinden und lassen Sie keine unbekannten Fahrgäste ins Taxi zusteigen.
 * Nehmen Sie Wertsachen stets im Handgepäck mit und lassen Sie sich nicht überreden, es im aufzugebenden Gepäck zu befördern.
 * Geben Sie bei Kartenzahlungen Ihre Kreditkarte nicht aus der Hand.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
@@ -35,7 +35,7 @@ Touristen sind aufgrund der mitgeführten Kameraausstattung, etc. bevorzugte Opf
 
 Besonders in den Frühlingsmonaten der südlichen Hemisphäre kann es aufgrund der herrschenden klimatischen Bedingungen zu Buschbränden kommen. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
 
-Insbesondere Gebiete im Norden Namibias zwischen der „Etoscha-Pfanne“ und der angolanischen bzw. sambischen Grenze können in der Regenzeit von Januar bis April von Überschwemmungen betroffen sein. Straßen können dann nur eingeschränkt nutzbar sein.
+Insbesondere Gebiete im Norden Namibias zwischen der Etosha-Pfanne und der angolanischen bzw. sambischen Grenze können in der Regenzeit von Januar bis April von Überschwemmungen betroffen sein. Straßen können dann nur eingeschränkt nutzbar sein.
 
 Trockenflussbetten im ganzen Land können sich in der Regenzeit unter Umständen in kürzester Zeit zu reißenden Flüssen entwickeln.
 
@@ -92,19 +92,18 @@ Gleichgeschlechtliche Partnerschaften werden weder im Wege der eingetragenen Par
 
 ### **Rechtliche Besonderheiten**
 
-Es gibt besondere Bestimmungen für den Besitz von und Handel mit Edelsteinen, mit Waffen, Munition und dergleichen sowie den Handel mit Drogen.
+Es gibt besondere Bestimmungen für den Besitz von und Handel mit Edelsteinen, Waffen, Munition und dergleichen sowie den Handel mit Drogen.
 
 ### **Geld/Kreditkarten**
 
-Landeswährung ist der namibische Dollar (NAD). Daneben wird im Alltag auch der südafrikanische Rand (ZAR) als Zahlungsmittel akzeptiert. Beide Währungen sind im Verhältnis 1:1 aneinandergekoppelt. Geldabhebungen sind mit allen gängigen Kreditkarten sowie Debitkarten (Girocard, mit Maestro) möglich.
+Landeswährung ist der namibische Dollar (NAD). Daneben wird im Alltag auch der südafrikanische Rand (ZAR) als Zahlungsmittel akzeptiert. Beide Währungen sind im Verhältnis 1:1 aneinandergekoppelt. Geldabhebungen sind mit allen gängigen Kreditkarten sowie Debitkarten (Girocard, Maestro) möglich.
 
 * Lassen Sie sich Bankkarten für den Gebrauch im südlichen Afrika freischalten.
 * Behalten Sie aufgrund zahlreicher Betrugsfälle möglichst während des gesamten Zahlungsvorgangs Ihre Karte im Auge, verlangen Sie in Restaurants ein mobiles Kartenlesegerät oder begleiten Sie das Personal zur Kasse.
 
 ## **Einreise und Zoll**
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -126,6 +125,8 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate ü
 
 In der letzten Zeit kam es in Einzelfällen zu Problemen mit den Einreisebehörden am Flughafen und an den Grenzen auf dem Landweg, da die Gültigkeitsdauer von Einreisesichtvermerken willkürlich festgelegt wurde.
 
+Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
+
 * Achten Sie bei der Einreise auf die Übereinstimmung von erteilten Aufenthaltserlaubnissen mit dem Reisezeitraum, siehe auch *Visum*.
 
 #### *Weiterreise nach Südafrika mit Kinderreisepässen*
@@ -138,24 +139,24 @@ Bitte beachten Sie bei einer geplanten Weiterreise mit Kindern nach Südafrika u
 
 Deutsche können für kurzfristige Aufenthalte von bis zu 90 Tagen im Jahr zu ausschließlich touristischen Zwecken ohne Visum einreisen. Ein gebührenfreier Einreisestempel (Visitors‘ Entry Permit) wird bei Ankunft an allen offiziellen Grenzübergängen erteilt.
 
-Der „Visitors‘ Entry Permit“ kann für einen Zeitraum bis zu max. 90 Tagen erteilt werden. In der Regel wird er auf eine Einreise beschränkt, sowie auf den Zeitraum des tatsächlich beabsichtigten Aufenthalts, der sich aus dem Rückflugdatum ergibt. Eine Überziehung der Aufenthaltsgenehmigung kann zur Verhängung drastischer (Haft-) Strafen führen. Falls sich während des Aufenthalts die Notwendigkeit zur Verlängerung ergibt - z. B. im Krankheitsfall - sollte unbedingt rechtzeitig eine Verlängerung des Visums beim Innenministerium (Ministry of Home Affairs and Immigration) beantragt werden. Hier wird eine Gebühr erhoben.
+Ein „Visitors‘ Entry Permit“ kann für einen Zeitraum bis zu max. 90 Tagen erteilt werden. In der Regel wird er auf eine Einreise beschränkt, sowie auf den Zeitraum des tatsächlich beabsichtigten Aufenthalts, der sich aus dem Rückflugdatum ergibt. Eine Überziehung der Aufenthaltsgenehmigung kann zur Verhängung drastischer (Haft-) Strafen führen. Falls sich während des Aufenthalts die Notwendigkeit zur Verlängerung ergibt - z. B. im Krankheitsfall - sollte unbedingt rechtzeitig eine Verlängerung des Visums beim Innenministerium (Ministry of Home Affairs and Immigration) beantragt werden. Hier wird eine Gebühr erhoben.
 
-In allen anderen Fällen - auch für Geschäftsreisen oder unbezahlte Tätigkeiten wie Praktika, Studienaufenthalte, Freiwilligendienste, o. Ä. ist ein Visum erforderlich, das frühzeitig vor Einreise beantragt werden muss. Journalisten benötigen für eine Tätigkeit in Namibia ein Arbeitsvisum, sowie unter Umständen eine beim namibischen „Ministry of Information and Communication Technology“ nach der Einreise einzuholende Akkreditierung.
+In allen anderen Fällen - auch für Geschäftsreisen oder unbezahlte Tätigkeiten wie Praktika, Studienaufenthalte, Freiwilligendienste o. ä. ist ein Visum erforderlich, das frühzeitig vor Einreise beantragt werden muss. Journalisten benötigen für eine Tätigkeit in Namibia ein Arbeitsvisum, sowie unter Umständen eine beim namibischen „Ministry of Information and Communication Technology“ nach der Einreise einzuholende Akkreditierung.
 
 Ansprechpartner für diesbezügliche Fragen und Anträge ist die [Botschaft der Republik Namibia.](http://www.namibia-botschaft.de/)
 
 ### Einreise via Südafrika
 
-Bei der Einreise nach Namibia via Südafrika gelten seit 2015 besondere Einreisebestimmungen. Jedes Überziehen eines Visums führt zur Erklärung zur unerwünschten Person und zu einer Einreisesperre. Für die Ein- und Durchreise mit minderjährigen Kindern sind das Mitführen einer internationalen Geburtsurkunde, aus der die Eltern ersichtlich sind, sowie gegebenenfalls einer Einverständniserklärung des nicht begleitenden Elternteils oder eines Nachweises des alleinigen Sorgerechts erforderlich. Detaillierte und verbindliche Informationen bietet die [zuständige südafrikanische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/suedafrika-node/vertretungensuedafrika/208388?view=)
+Bei der Einreise nach Namibia von Südafrika aus gelten besondere Einreisebestimmungen. Jedes Überziehen eines Visums führt zur Erklärung zur unerwünschten Person und zu einer Einreisesperre. Für die Ein- und Durchreise mit minderjährigen Kindern sind das Mitführen einer internationalen Geburtsurkunde, aus der die Eltern ersichtlich sind, sowie gegebenenfalls einer Einverständniserklärung des nicht begleitenden Elternteils oder eines Nachweises des alleinigen Sorgerechts erforderlich. Detaillierte und verbindliche Informationen bietet die [zuständige südafrikanische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/suedafrika-node/vertretungensuedafrika/208388?view=)
 
 ### Minderjährige
 
 Unter Verweis auf die Einreisebestimmungen benachbarter Länder ist es derzeit gängige Praxis an namibischen Grenzkontrollstellen, bei der Ein- und Ausreise minderjähriger Kinder die Sorgerechtslage zu prüfen. Personen unter 18 Jahren müssen neben dem Reisepass eine Geburtsurkunde vorweisen können, in der die Eltern aufgeführt sind.
 
-Erforderlich ist eine internationale Geburtsurkunde, bzw. gegebenenfalls eine beglaubigte englische Übersetzung.
+Erforderlich ist eine internationale Geburtsurkunde bzw. gegebenenfalls eine beglaubigte englische Übersetzung.
 
 Unbegleitete minderjährige Kinder benötigen zur Ein- und Ausreise die Zustimmung beider Elternteile („Affidavit“ in englischer Sprache), dass das Kind alleine reisen darf. Die beglaubigten Kopien der Reisepässe beider Elternteile müssen dem Affidavit angeheftet werden.  
-Reist ein Minderjähriger nicht in Begleitung beider sorgeberechtigter Elternteile, muss außerdem nachgewiesen werden, dass der nicht anwesende Elternteil entweder mit der Reise einverstanden ist (eidesstattliche Versicherung "Affidavit", Passkopie und Kontaktdaten des nicht anwesenden Elternteils), bzw. dass die Einverständniserklärung nicht erforderlich ist (gerichtlicher Beschluss über alleiniges Sorgerecht oder Sterbeurkunde oder Negativbescheinigung des deutschen Jugendamts, wenn die minderjährige Person in Deutschland wohnhaft ist).
+Reist ein Minderjähriger nicht in Begleitung beider sorgeberechtigter Elternteile, muss außerdem nachgewiesen werden, dass der nicht anwesende Elternteil entweder mit der Reise einverstanden ist (eidesstattliche Versicherung "Affidavit", Passkopie und Kontaktdaten des nicht anwesenden Elternteils) bzw. dass die Einverständniserklärung nicht erforderlich ist (gerichtlicher Beschluss über alleiniges Sorgerecht oder Sterbeurkunde oder Negativbescheinigung des deutschen Jugendamts, wenn die minderjährige Person in Deutschland wohnhaft ist).
 
 Personen, die mit Minderjährigen reisen, welche nicht ihre eigenen Kinder sind, müssen neben der vollständigen Geburtsurkunde des Kindes eidesstattliche Versicherungen, Passkopien und die Kontaktdaten beider sorgeberechtigter Eltern bzw. des gesetzlichen Vertreters des Kindes vorlegen.
 
@@ -167,9 +168,9 @@ Es wird dringend empfohlen, englischsprachige Erklärungen, Urkunden bzw. Übers
 
 ### Einfuhrbestimmungen
 
-Die Einfuhr der Landeswährung ist bis zu einem Betrag von 50.000 USD möglich, muss ab einem Betrag von 5.000 NAD aber bei Einreise deklariert werden.  
+Die Einfuhr der Landeswährung ist bis zu einem Betrag von 50.000 USD möglich, muss ab einem Betrag von 5.000 NAD jedoch bei Einreise deklariert werden.  
 Die Ausfuhr ist für Touristen auf den Betrag begrenzt, der eingeführt wurde.  
-Für Reisen zwischen den Mitgliedern der Southern African Customs Union SACU (Botswana, Lesotho, Namibia und Swasiland) gibt es keine Beschränkungen. 
+Für Reisen zwischen den Mitgliedern der Southern African Customs Union SACU (Botsuana, Eswatini, Lesotho, Namibia und Südafrika) gibt es keine Beschränkungen. 
 
 Jagdwaffen müssen bei der Einreise an einem speziell eingerichteten Schalter im Gepäckabholbereich des Flughafens vorgezeigt werden. Die Nummer der Waffen wird in ein dort ausliegendes Antragsformular eingetragen. Aufgrund des Antrags wird dann sofort eine zeitlich begrenzte Waffenlizenz für Namibia erteilt. Die Einfuhr von Faustfeuerwaffen ist nicht gestattet.
 
@@ -280,7 +281,7 @@ Die UV-Strahlung in Namibia ist sehr hoch. Zum Schutz von Haut und Augen sind So
 
 ### **Luftverschmutzung**
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -290,9 +291,7 @@ Die medizinische Versorgung im Lande ist mit der in Europa nicht immer vergleich
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
