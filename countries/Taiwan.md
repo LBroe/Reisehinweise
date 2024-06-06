@@ -26,17 +26,21 @@ Die Kriminalitätsrate ist niedrig. Insbesondere in den Großstädten kommt es z
 
 #### *Erdbeben*
 
-Taiwan liegt in einer seismisch äußerst aktiven Zone. Im Jahresdurchschnitt werden Tausende von Beben zwischen Stärke drei und sechs registriert, von denen aber im Allgemeinen nur fünf bis sechs auch in Taipei deutlich wahrgenommen werden.
+Taiwan liegt in einer seismisch äußerst aktiven Zone. Im Jahresdurchschnitt werden Tausende von Beben zwischen Stärke drei und sechs registriert, von denen aber im Allgemeinen nur fünf bis sechs auch in Taipei deutlich wahrgenommen werden. Am 3. April 2024 ereignete sich vor der Ostküste Taiwans nahe Hualien ein schweres Erdbeben der Stärke 7,2.
 
 #### *Tropenstürme*
 
 Das Klima ist im Norden subtropisch und im Süden tropisch.  
-Taiwan wird insbesondere von Mai bis November regelmäßig von Tropenstürmen getroffen, die Überschwemmungen und gefährliche Erdrutsche  und in der Folge erhebliche Schäden in der Infrastruktur verursachen können. Bei Berg- und Radwanderungen bestehen entsprechende Gefahren.
+Taiwan wird insbesondere von Mai bis November regelmäßig von Tropenstürmen getroffen, die Überschwemmungen und gefährliche Erdrutsche und in der Folge erhebliche Schäden in der Infrastruktur verursachen können. Bei Berg- und Radwanderungen bestehen entsprechende Gefahren.
 
+Im Katastrophenfall können taiwanische Behörden ausländische SIM-Karten nicht ohne Weiteres orten. Daher wird der Kauf einer taiwanischen (Prepaid-)SIM-Karte empfohlen. Diese gibt es gegen Vorlage des Reisepasses am Flughafen und allen Mobilfunkläden.
+
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Kaufen Sie eine taiwanische (Prepaid-)SIM-Karte und installieren sie auf Ihrem Mobilgerät.
+* Laden Sie danach die App der taiwanischen Feuerwehr (für [Android;](https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US&pli=1&fbclid=IwAR0l-UXdh2GGrKKrkoK-jR9HZwBfZeT2zV9FahB6I15rf9R0HpN69zEciks) für [iOS)](https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641) auf Ihr Mobilgerät, um aktuelle Warnhinweise, etc. zu erhalten.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
 
@@ -127,7 +131,7 @@ Verboten ist die Einfuhr von gefälschten Münzen und Banknoten, pornographische
 Verboten ist auch die Einfuhr von Waren, die gegen urheberrechtliche Bestimmungen verstoßen.
 
 Die Einfuhr von landwirtschaftlichen Produkten (z.B. Obst) und Fleischprodukten (sowohl Frischfleisch als auch verarbeitete Produkte) wird mit Geldstrafen zwischen 80 und 400 EUR für landwirtschaftliche Produkte geahndet. Seit Ausbruch der Afrikanischen Schweinepest in China verschärft Taiwan seine Kontrollen bei der Einreise auf unerlaubte Fleischprodukte. Nachdem Deutschland einen Fall von Afrikanischer Schweinepest gemeldet hat, haben die taiwanischen Behörden angekündigt, dass bei Einreisenden aus Deutschland das Gepäck ausnahmslos auf das Mitführen von schweinefleischhaltigen Produkten geprüft wird. Die Strafen für die unerlaubte Einfuhr wurden empfindlich verschärft. Sie betragen bis zu etwa 28.000 EUR (1.000.000 TWD). Es ist damit zu rechnen, dass Kontrollen bei der Einreise aufgrund der Aktualität verschärft werden und bei Nichtbeachtung streng bestraft werden (Geldstrafe und/oder Einreiseverbot).  
-Weitere Informationen bietet die zuständige [Animal and Plant Health Inspection Agency](https://www.baphiq.gov.tw/en/). Reisende sollten mitgeführte Produkte entweder vor der Zollkontrolle in die dafür vorgesehenen Mülltonnen werfen oder die Zollbeamten entsprechend informieren.
+Weitere Informationen bietet die zuständige [Animal and Plant Health Inspection Agency](https://www.aphia.gov.tw/en/). Reisende sollten mitgeführte Produkte entweder vor der Zollkontrolle in die dafür vorgesehenen Mülltonnen werfen oder die Zollbeamten entsprechend informieren.
 
 Für verschreibungspflichtige Medikamente sollte ein ärztliches Rezept mit englischer Übersetzung mitgeführt werden. Verbindliche Auskünfte erteilt der [taiwanische Zoll](https://etaipei.customs.gov.tw/cp.aspx?n=07E6C230459CD820), bei dem auch [Vorabgenehmigungen zur Einfuhr](https://etaipei.customs.gov.tw/cp.aspx?n=07E6C230459CD820) beantragt werden können.
 

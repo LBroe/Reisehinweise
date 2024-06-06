@@ -123,8 +123,7 @@ Landeswährung ist der Ringgit (MYR). Die Bezahlung mit Kreditkarten ist vielero
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -191,7 +190,8 @@ Zur Einfuhr von Heimtieren nach Malaysia erkundigen Sie sich bitte bei den [zust
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Der Nachweis einer [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") ist für alle Personen zu erbringen, die älter als ein Jahr sind und aus einem Gelbfiebergebiet einreisen oder sich dort mehr als 12 Stunden im Transit aufhalten. Bei direkter Einreise aus Deutschland ist keine Gelbfieberimpfung notwendig.
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
-* Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Tollwut und Japanische Enzephalitis empfohlen.
+* Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Pertussis sichergestellt werden.
+* Als Reiseimpfungen werden Impfungen gegen Hepatitis A und insbesondere bei einfachem Reisestil auch gegen Typhus, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Tollwut und Japanische Enzephalitis empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
@@ -288,12 +288,18 @@ Es kommen Fälle von Sarkozystose auf der Insel Tioman vor. Die Übertragung der
 
 Weitere tropische Infektionskrankheiten (z.B. Hand-Fuß-Mundkrankheit, [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus"), [Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")) kommen vor, allerdings in unterschiedlicher Gefährdung für Reisende.
 
+### Schlangenbisse
+
+Vor allem in ländlichen Regionen kommen Giftschlangen vor.
+
+* Sollten Sie von einer Giftschlange gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung. Gegengifte sind u. U. nicht überall zeitnah erhältlich. Beachten Sie unsere [Hinweise zu Schlangenbissen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schlangenbisse/2519592 "Schlangenbisse")
+
 ### Luftverschmutzung
 
 Die Luftqualität in Malaysia insbesondere im Großraum Kuala Lumpur ist während des gesamten Jahres häufig eingeschränkt. In den Sommermonaten kommt es in Teilen Malaysias immer wieder zu Belastung durch den sogenannten "Haze", der in einzelnen Regionen punktuell ein gesundheitsbeeinträchtigendes Niveau erreicht.  
 Beim „Haze“ handelt es sich um periodisch auftretende, Smog-ähnliche Luftverunreinigungen, die durch Brandrodung und Schwelbrände in Malaysia und vor allem in Indonesien verursacht werden. Je nach Wetterlage können die Schadstoffwerte, die von malaysischen Stellen veröffentlicht werden, täglich und von Ort zu Ort schwanken. Dabei ist zu beachten, dass in Malaysia die gefährlicheren Feinpartikel (PM 2,5) nicht gemessen werden, sodass die Werte unabhängiger Messstationen und tatsächliche Belastung zumeist deutlich höher sind als die veröffentlichten Zahlen. Soweit dort stark erhöhte Schadstoffkonzentrationen vorliegen, können Reizungen der Augen und der Atemwegsorgane auftreten. Insbesondere Herz- und/oder Lungenkranke sowie alte Menschen und Kleinkinder sind stärker gefährdet, aber auch gesunde Erwachsene sollten dann eine körperliche Betätigung im Freien vermeiden und weitere Vorsichtsmaßnahmen treffen. Menschen mit den genannten oder anderen einschlägigen gesundheitlichen Problemen (Asthmatiker, Allergiker, u.a.) sollten vor Reisen in eventuell betroffene Gebiete einen Arzt konsultieren.
 
-* Informieren Sie sich über aktuelle Luftwerte (Air Pollutant Index – API) über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone-App [IQAir.](https://www.iqair.com/de/ "IQAir")
+* Informieren Sie sich über aktuelle Luftwerte (Air Pollutant Index – API) über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir.](https://www.iqair.com/de/ "IQAir")
 
 ### Medizinische Versorgung
 
@@ -303,9 +309,7 @@ In Großstädten besteht eine allgemein befriedigende Gesundheitsversorgung mit 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
