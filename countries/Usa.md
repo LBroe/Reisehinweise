@@ -56,8 +56,6 @@ Insbesondere im Mittleren Westen der USA besteht von März bis Juli eine erhöht
 
 #### *Busch- und Waldbrände*
 
-Siehe auch *Reiseinfos*
-
 Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
 Auch in anderen Bundesstaaten besteht erhöhte Busch- und Waldbrandgefahr, vor allem im Süden und Südwesten der USA.
 
@@ -99,13 +97,6 @@ In Teilen Floridas sowie am Golf von Mexiko kann es saisonal zu erhöhten Konzen
 * Folgen Sie stets den Hinweisen lokaler Behörden.
 
 ## Reiseinfos
-
-### *Reisen nach Maui*
-
-Seit dem 8. Oktober 2023 öffnen einzelne Beherbergungsbetriebe auf Maui. Aus Rücksicht auf die Einwohner bleibt die Stadt Lahaina bis auf Weiteres geschlossen.
-
-* Seien Sie während Ihres Besuchs auf Hawaii, angesichts der Betroffenheit und Not der Bevölkerung, besonders achtsam und respektvoll.
-* Befolgen Sie die Anweisungen der lokalen Behörden.
 
 ### Infrastruktur/Verkehr
 
