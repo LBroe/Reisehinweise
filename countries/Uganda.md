@@ -2,13 +2,15 @@
 
 ## Sicherheit
 
-**Von nicht notwendigen Reisen in den Queen-Elisabeth-Nationalpark oder den Semliki Nationalpark wird derzeit dringend abgeraten.** 
+**Von nicht notwendigen Reisen in den Semliki-Nationalpark wird derzeit dringend abgeraten.** 
 
 **Bei Reisen**
 
+* **in den Queen-Elisabeth-Nationalpark,**
 * **in die Nationalparks „Mgahinga Gorilla National Park“,  „Bwindi“ oder „Ruwenzori“,**
 * **zu den Vulkanen Sabyinyo, Gahinga und Muhavura,**
 * **in das sonstige grenznahe Gebiet zur DR Kongo (näher als 20 km) zwischen Albertsee/Ntoroko im Norden und ruandischer Grenze im Süden**,
+* **im nordöstlichen Grenzgebiet zu Kenia (Karamoja),**
 
 **sind Reisende dazu aufgefordert, besondere Vorsicht walten zu lassen, die Begleitung Ortskundiger in Betracht zu ziehen und sich zeitnah bei lokalen Sicherheitskräften über die aktuelle Sicherheitssituation vor Ort zu informieren.**
 
@@ -16,7 +18,7 @@
 
 Es besteht weiterhin die Gefahr terroristischer Anschläge in ganz Uganda, von denen auch Ausländer betroffen sein können. Zuletzt gab es in der Nacht zum 19. und 25. Dezember 2023 einen Angriff auf zwei Dörfer südlich des Kibale-Nationalparks.
 
-Im September und Oktober 2023 kam es zu mehreren Anschlägen in der Region Kasese und im Queen-Elizabeth-Nationalpark. Dabei kamen auch zwei ausländische Touristen ums Leben.
+Im September und Oktober 2023 kam es zu mehreren Anschlägen in der Region Kasese und im Queen-Elizabeth-Nationalpark. Dabei kamen auch zwei ausländische Touristen ums Leben. Die ugandischen Behörden haben ihre Sicherheitsvorkehrungen in der Region, insbesondere an der Grenze zur Demokratischen Republik Kongo, in der Folge ausgeweitet.
 
 2021 kam es zu mehreren Anschlägen in der Region Kampala. Hierbei ereigneten sich im Zentrum von Kampala (Nakasero) zwei Bombenanschläge mit Todesopfern und Verletzten.
 
@@ -30,7 +32,7 @@ Im September und Oktober 2023 kam es zu mehreren Anschlägen in der Region Kases
 
 Die innenpolitische Lage hat sich nach den Wahlen 2021 zwischenzeitlich wieder beruhigt, politische Spannungen und vereinzelt auftretende spontane Kundgebungen sowie ein hartes Einschreiten der Sicherheitskräfte können jedoch nicht ausgeschlossen werden.
 
-Unruhen in der Demokratischen Republik Kongo und im Südsudan wirken sich gelegentlich auf angrenzende Gebiete in Uganda aus, insbesondere durch Zustrom von Flüchtlingen. Damit verbunden ist eine starke Militärpräsenz in der Grenzregion. Gelegentliche Auseinandersetzungen kommen in unmittelbarer Grenznähe vor, so dass auch der Besuch der ugandischen Nationalparks in diesem Gebiet - insbesondere des Semliki-Nationalparks, des Rwenzori-Nationalparks und des südlichen Teils des Queen-Elizabeth-Nationalparks (Ishasha) - Gefahren bergen kann.
+Unruhen in der Demokratischen Republik Kongo und im Südsudan wirken sich gelegentlich auf angrenzende Gebiete in Uganda aus, insbesondere durch Zustrom von Flüchtlingen. Damit verbunden ist eine starke Militärpräsenz in der Grenzregion. Gelegentliche Auseinandersetzungen kommen in unmittelbarer Grenznähe vor, sodass auch der Besuch der ugandischen Nationalparks in diesem Gebiet - insbesondere des Semliki-Nationalparks, des Rwenzori-Nationalparks und des südlichen Teils des Queen-Elizabeth-Nationalparks (Ishasha) - Gefahren bergen kann.
 
 * Seien Sie bei Reisen innerhalb Ugandas stets vorsichtig und wachsam.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen grundsätzlich weiträumig und entfernen Sie sich umgehend, wenn Sie Auseinandersetzungen in Ihrer Nähe beobachten.
@@ -271,9 +273,7 @@ Insbesondere in großen Städten kann es durch Luftverschmutzung zu gesundheitli
 * Reisen in große Höhe, insbesondere im Ruwenzori-Gebirge, können mit besonderen Gefahren verbunden sein.
 * Beachten Sie unsere Informationen zur [Höhenkrankheit.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hoehenkrankheit/2519606 "Höhenkrankheit")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 

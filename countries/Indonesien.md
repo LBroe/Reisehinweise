@@ -4,11 +4,17 @@
 
 ### *Vulkanische Aktivität*
 
-Mehrere Vulkane in verschiedenen Landesteilen zeigen erhöhte Aktivität. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen großflächig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Mit Beeinträchtigungen im Flugverkehr bis zur Schließung von Flughäfen muss bei erhöhter vulkanischer Aktivität gerechnet werden. Siehe auch *Natur und Klima.*
+Im Osten Indonesiens ist erneut der Vulkan Ibu auf der Insel Halmahera ausgebrochen.
 
-* Beachten Sie unbedingt die entsprechenden [Hinweise der indonesischen Regierung](https://magma.vsi.esdm.go.id/).
+Anwohner und Touristen sind gehalten, einen Augenschutz und Atemmasken zu tragen und sich nicht in der Sperrzone von vier bis sieben Kilometern rund um den Vulkan aufzuhalten.
+
+Weitere Vulkane in verschiedenen Landesteilen Indonesiens zeigen erhöhte Aktivität. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen weiträumig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Mit Beeinträchtigungen im Flugverkehr bis zur Schließung von Flughäfen muss bei erhöhter vulkanischer Aktivität gerechnet werden. Siehe auch *Natur und Klima.*
+
+* Halten Sie sich nicht in der Sperrzone von vier bis sieben Kilometern rund um den Vulkan Ibu auf. Sollten Sie sich derzeit in der Region um den Vulkan Ibu aufhalten, tragen Sie einen Augenschutz und Atemmaske.
 * Bitte informieren Sie sich vor Reiseantritt über kurzfristige Schließungen, Flugausfälle und Verspätungen.
-* Machen Sie sich bei einem Aufenthalt in erdbeben- oder tsunamigefährdeten Gebieten und vor einer Wanderung oder Besteigung eines Vulkans mit den Gefahren und Verhaltenshinweisen vertraut. Entsprechende Merkblätter hält das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) bereit. Verhaltenshinweise zu einem Vulkanausbruch bietet zudem das [International Volcanic Health Hazard Network IVHHN.](https://www.ivhhn.org/)
+* Bitte informieren Sie sich über die Verhaltenshinweise bei Vulkanausbrüchen des [International Volcanic Health Hazard Network IVHHN.](https://www.ivhhn.org/)
+* Machen Sie sich bei einem Aufenthalt in erdbeben- oder tsunamigefährdeten Gebieten und vor einer Wanderung oder Besteigung eines Vulkans mit den Gefahren und Verhaltenshinweisen vertraut. Entsprechende Merkblätter hält das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) bereit.
+* Beachten Sie unbedingt die entsprechenden [Hinweise der indonesischen Regierung.](https://magma.vsi.esdm.go.id/)
 
 ## Sicherheit
 
@@ -71,9 +77,9 @@ Indonesien liegt in einer seismisch sehr aktiven Zone, dem pazifischen Feuerring
 
 #### *Vulkane*
 
-Das [Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum](https://www.gfz-potsdam.de) bietet umfangreiche Informationen und Verhaltenshinweise für Reisende, deren Reiseziel die Gefahr von Naturkatastrophen wie Erdbeben, Tsunamis oder Vulkanausbrüchen birgt.
+Siehe *Aktuelles*
 
-Mehrere Vulkane in verschiedenen Landesteilen zeigen erhöhte Aktivität. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen großflächig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Mit Beeinträchtigungen im Flugverkehr bis zur Schließung von Flughäfen muss bei erhöhter vulkanischer Aktivität gerechnet werden.
+Das [Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum](https://www.gfz-potsdam.de) bietet umfangreiche Informationen und Verhaltenshinweise für Reisende, deren Reiseziel die Gefahr von Naturkatastrophen wie Erdbeben, Tsunamis oder Vulkanausbrüchen birgt.  
 
 * Machen Sie sich bei einem Aufenthalt in erdbeben- oder tsunamigefährdeten Gebieten und vor einer Wanderung oder Besteigung eines Vulkans mit den Gefahren und Verhaltenshinweisen vertraut. Entsprechende Merkblätter hält das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) bereit. Verhaltenshinweise zu einem Vulkanausbruch bietet zudem das [International Volcanic Health Hazard Network IVHHN.](https://www.ivhhn.org/)
 * Beachten Sie unbedingt die entsprechenden [Hinweise der indonesischen Regierung](https://magma.vsi.esdm.go.id/).
@@ -92,7 +98,7 @@ Während der Trockenzeit kommt es besonders auf den Inseln Sumatra und Kalimanta
 
 ### *Einführung einer Tourismusgebühr für Reisende nach Bali*
 
-Seit dem 14. Februar 2024 wird eine Tourismusgebühr von Reisenden nach Bali erhoben. Die Gebühr von 150.000 IDR pro Person (ca. 10 EUR) kann bereits vor Reiseantritt nach Bali zur Vermeidung zusätzlicher Wartezeiten am Flughafen/Hafen, über das [Portal „Love Bali“](https://lovebali.baliprov.go.id/home) bargeldlos gezahlt werden; ein nach der Zahlung übersandter elektronischer QR-Code gilt als Zahlungsbeweis. Weitere Informationen und Hinweise zur Zahlung und [geltende Ausnahmen](https://lovebali.baliprov.go.id/gubernur/v3/love_bali_exemption.jpg) bietet der dortige [Frage-und-Antwort-Bereich](https://lovebali.baliprov.go.id/faq).
+Seit Februar 2024 wird eine Tourismusgebühr von Reisenden nach Bali erhoben. Die Gebühr von 150.000 IDR pro Person (ca. 10 EUR) kann bereits vor Reiseantritt nach Bali zur Vermeidung zusätzlicher Wartezeiten am Flughafen/Hafen, über das [Portal „Love Bali“](https://lovebali.baliprov.go.id/home) bargeldlos gezahlt werden; ein nach der Zahlung übersandter elektronischer QR-Code gilt als Zahlungsbeweis. Weitere Informationen und Hinweise zur Zahlung und [geltende Ausnahmen](https://lovebali.baliprov.go.id/gubernur/v3/love_bali_exemption.jpg) bietet der dortige [Frage-und-Antwort-Bereich](https://lovebali.baliprov.go.id/faq).
 
 ### Infrastruktur/Verkehr
 
@@ -158,8 +164,7 @@ Landeswährung ist Rupiah (IDR). Die Bezahlung mit Kreditkarten ist weit verbrei
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland. 
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -386,9 +391,7 @@ Außerhalb Jakartas kann die medizinische Versorgung deutlich eingeschränkt sei
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
