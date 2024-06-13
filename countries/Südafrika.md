@@ -26,7 +26,7 @@ Die Elektrizitätskrise mit häufigen und länger anhaltenden Stromabschaltungen
 
 * Tragen Sie sich, unabhängig von der Dauer Ihres Aufenthalts in Südafrika, in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
 * Berücksichtigen Sie die Stromabschaltungen und die oben genannten möglichen Einschränkungen bei Ihren Reiseplanungen.
-* Ermitteln Sie die voraussichtlichen Uhrzeiten der an Ihrem Aufenthaltsort vorgesehenen Stromabschaltungen auf der Webseite des Stromversorgers [Eskom](https://www.eskom.co.za/) oder über „loadshedding-Apps“.
+* Ermitteln Sie die voraussichtlichen Uhrzeiten der an Ihrem Aufenthaltsort vorgesehenen Stromabschaltungen auf der Webseite des Stromversorgers [Eskom](https://www.eskom.co.za) oder über „loadshedding-Apps“.
 * Erkundigen Sie sich bei Hotels und Unterkünften, ob dort Maßnahmen getroffen wurden, um Stromabschaltungen zu überbrücken (Generatoren, Solaranlagen).
 * Halten Sie Taschenlampen, Batterien und Ladegeräte einsatzbereit.
 
@@ -239,13 +239,16 @@ Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine C
 * Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
 * Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
 
-### HIV/AIDS
+### Sexuell übertragene Krankheiten
 
 Das größte Gesundheitsproblem in Südafrika ist HIV/AIDS mit einer sehr hohen Häufigkeit. Bis zu 20% der erwachsenen Bevölkerung (regionale Unterschiede) sind mit HIV infiziert. Eine durch die Immunschwäche bedingte Ko-Infektion mit Tuberkulose ist die Ursache der hohen Sterblichkeit, wobei gegen Tuberkulosemedikamente multiresistente Keime zum großen Teil mitverantwortlich sind.  
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.  
 Eine Gefahr der Tuberkuloseansteckung über Tröpfcheninfektion besteht nur in entsprechenden medizinischen Einrichtungen bzw. bei längerem Aufenthalt in beengten Wohnräumen Tuberkulosekranker.
 
+[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") und bestimmte Lebererkrankungen [(](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")[Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874)[)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
 ### Durchfallerkrankungen
 
