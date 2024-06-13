@@ -1,21 +1,39 @@
 # Mauretanien: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### Präsidentschaftswahl
+
+Am 29. Juni 2024 findet in Mauretanien der erste Wahlgang der Präsidentschaftswahl statt, ein möglicher zweiter Wahlgang fände am 13. Juli 2024 statt.
+
+* Verfolgen Sie die Nachrichten in den lokalen und sozialen Medien aufmerksam.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen
+* Leisten Sie den Anweisungen der Sicherheitskräfte Folge.
+
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in das unmittelbare Grenzgebiet zu Algerien und Mali wird gewarnt**.
 
-**Von Reisen in entlegene** oder nicht hinreichend durch wirksame Polizei- oder Militärpräsenz gesicherte **Gebiete der Sahara, ihrer Randbereiche und der Sahelzone**, insbesondere  
-- die **Region Tiris Zemmour** nördlich der Stadt Zouérate **und  
--** die östlich und nordöstlich der Stadt Ouadane gelegenen **Teile von Adrar**  
-**wird dringend abgeraten**.**   
-**Von unbegleiteten Reisen** ohne ausgearbeitetes Sicherheitskonzept in Abstimmung mit lokalen Sicherheitsbehörden **in die Regionen Hodh El Gharbi – insbesondere in das Grenzgebiet zu Mali - und Hodh El Charghi** (mit Oualata) sowie die östlich von Tidjikja gelegenen **Wüstengebiete in der Region Tagant** (Tichitt)**,**  
+**Von Reisen in entlegene** oder nicht hinreichend durch wirksame Polizei- oder Militärpräsenz gesicherte **Gebiete der Sahara, ihrer Randbereiche und der Sahelzone**, insbesondere
+
+* die **Region Tiris Zemmour** nördlich der Stadt Zouérate  
+**und**
+* die östlich und nordöstlich der Stadt Ouadane gelegenen **Teile von Adrar**
+
+**wird dringend abgeraten**.**
+
+**Von unbegleiteten Reisen** ohne ausgearbeitetes Sicherheitskonzept in Abstimmung mit lokalen Sicherheitsbehörden 
+
+* **in die Regionen Hodh El Gharbi und Hodh El Charghi** (mit Oualata), **insbesondere in das Grenzgebiet zu Mali in den Regionen Guidimaka und Assaba**
+* sowie die östlich von Tidjikja gelegenen **Wüstengebiete in der Region Tagant** (Tichitt)**,**
+
 **wird abgeraten**.
 
 ### Terrorismus
 
-In Mauretanien bestehen wie in der gesamten Sahel-Region grundsätzlich Anschlags- und Entführungsrisiken. Anschläge terroristischer Gruppen, die sich auch gegen ausländische Interessen richten können, sind in der gesamten Region und damit grundsätzlich auch in Mauretanien zu befürchten. Besonders gefährdet sind die Grenzgebiete zu Mali und Algerien.
+In Mauretanien bestehen wie in der gesamten Sahel-Region grundsätzlich Anschlags- und Entführungsrisiken. Anschläge terroristischer Gruppen, die sich auch gegen ausländische Personen und Einrichtungen richten können, sind in der gesamten Region und damit grundsätzlich auch in Mauretanien zu befürchten. Besonders gefährdet sind die Grenzgebiete zu Mali und Algerien.
 
-* Seien Sie an belebten Orten und bei besonderen Anlässen besonders aufmerksam.
+* Seien Sie an belebten Orten und bei unvorhergesehenen, plötzlich auftretenden Ereignissen besonders aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
@@ -35,6 +53,8 @@ Allgemeine Kriminalität wie Diebstahl und u.U. bewaffneter Raub kommen vor, auc
 
 Die Sicherheitslage, insbesondere in den Grenzgebieten zu Algerien und Mali, wird auch durch grenzüberschreitend operierende kriminelle Banden erheblich gefährdet. Zwischen diesen Banden und Sicherheitskräften kann es zu bewaffneten Auseinandersetzungen kommen.
 
+**Vor Versuchen, über das unmittelbare Grenzgebiet Algeriens oder Malis ein- oder auszureisen, wird gewarnt. Von Reisen auf dem Landweg durch die Westsahara wird u.a. aufgrund der Gefahr von Überfällen dringend abgeraten**, siehe *Sicherheit – Teilreisewarnung und siehe* [*Reise- und Sicherheitshinweise zu Marokko*](https://diplo.de/224080#content_0)*.*  
+
 * Seien Sie wachsam und beachten Sie die üblichen Vorsichtsmaßnahmen.
 * Meiden Sie abgelegene und dunkle Stadtteile und begeben Sie sich nicht alleine auf unbekanntes Terrain.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -53,9 +73,9 @@ Während der Regenzeit von Juli bis Anfang Oktober kann es insbesondere am Seneg
 
 ### Infrastruktur/Verkehr
 
-Auf Überlandstraßen besteht aufgrund undisziplinierter Fahrweise und unvermutet auftauchender Hindernisse wie Tiere und Menschen auf der Strecke eine erhöhte Unfallgefahr, insbesondere bei Dunkelheit. Im Winterhalbjahr und im Osten des Landes wird es teils schon zwischen 17 und 18 Uhr dunkel. Immer wieder kommt es zu schweren Verkehrsunfällen, wobei es auf dem Land in der Regel keine Möglichkeit der schnellen Erstversorgung bzw. des Transports in ein Krankenhaus gibt. Dies gilt besonders für die sogenannte „Route de l’Espoir“ von Nouakchott nach Néma, die vor allem auf der Strecke Nouakchott – Boutilimit zahlreiche Sanddünen überquert.
+Auf Überlandstraßen besteht aufgrund undisziplinierter Fahrweise und unvermutet auftauchender Hindernisse wie Tiere und Menschen auf der Strecke eine erhöhte Unfallgefahr, insbesondere bei Dunkelheit. Im Winterhalbjahr und im Osten des Landes wird es teils schon zwischen 17 und 18 Uhr dunkel. Immer wieder kommt es zu schweren Verkehrsunfällen, wobei es auf dem Land in der Regel keine Möglichkeit der schnellen Erstversorgung bzw. des Transports in ein Krankenhaus gibt. Dies gilt besonders für die sogenannte „Route de l’Espoir“ von Nouakchott nach Néma, die vor allem auf der Strecke Nouakchott - Boutilimit zahlreiche Sanddünen überquert.
 
-Die „Route de l’Espoir“ ist derzeit zwischen Boutilimit und Kiffa aufgrund von Bauarbeiten nur eingeschränkt befahrbar; ggf. muss das Gebiet sehr weiträumig südlich über Bogué, Kaédi und Kankossa umfahren werden. Auch dort sind Teile der Strecke in sehr schlechtem Zustand. Das gilt auch für Teile der Strecke zwischen Kiffa und Ayoun El-Atrous.
+Teile der Strecke zwischen Boutilimit, Kiffa und Ayoun El-Atrous (N3) sind in sehr schlechtem Zustand und nur eingeschränkt befahrbar, siehe auch Abschnitt *Sicherheit.*
 
 Bei Fahrten ins tiefe Land ist ausreichend Wasser und Treibstoff mitzuführen, da es keine Versorgungsmöglichkeiten gibt; Brunnen sind selten und häufig verunreinigt. Bei Reisen in Wüstengebiete bestehen erhebliche Risiken, auch durch das extreme Klima.
 
@@ -73,9 +93,7 @@ Es wird ein internationaler Führerschein benötigt, der stets nur in Verbindung
 
 ### Ein- und Ausreise von und nach Algerien, Senegal und Mali
 
-Von Versuchen, über Algerien oder Mali wie auch auf dem Landweg durch die Westsahara ein- oder auszureisen, wird u.a. aufgrund der Gefahr von Überfällen abgeraten.
-
-Die Einreise nach und von Senegal ist an den offiziellen Grenzübergängen in Diama und Rosso grundsätzlich möglich. In Diama gibt es einen Damm für Fußgänger und Fahrzeuge, in Rosso tagsüber eine Fährverbindung. Es gibt längere Wartezeiten. Der Grenzübertritt an anderen Stellen oder mit einem Boot ist verboten.
+Die Einreise nach und von Senegal ist an den offiziellen Grenzübergängen in Diama und Rosso grundsätzlich möglich. In Diama gibt es einen Damm für Fußgänger und Fahrzeuge, in Rosso tagsüber eine Fährverbindung. Es gibt längere Wartezeiten. Der Grenzübertritt an anderen Stellen oder mit einem Boot ist verboten, siehe *Sicherheit – Teilreisewarnung und Kriminalität.*
 
 ### Ein- und Ausreise in die Westsahara
 
@@ -85,11 +103,11 @@ Von einer Einreise und Ausreise auf dem Landweg durch die Westsahara wird grunds
 
 Mauretanien ist ein muslimisch geprägtes Land, Rechtsgrundlage ist die Scharia. Auf die religiösen, kulturellen und sozialen Traditionen ist Rücksicht zu nehmen.
 
-Der bewegliche Fastenmonat Ramadan beeinflusst in erheblichem Maße das öffentliche Leben. So sind z.B. Restaurants während des Ramadan, mit Ausnahme von größeren Hotels, tagsüber geschlossen.
+Der Fastenmonat Ramadan beeinflusst in erheblichem Maße das öffentliche Leben. So sind z.B. Restaurants während des Ramadans, mit Ausnahme größerer Hotels, tagsüber geschlossen.
 
 ### LGBTIQ
 
-Homosexualität ist im mauretanischen Strafrecht ein schweres Vergehen und mit Todesstrafe bedroht. In der Praxis werden homosexuelle Lebenspartnerschaften jedoch meist stillschweigend geduldet, sofern Diskretion gewahrt wird. Eine rechtliche Gleichstellung besteht nicht. Die öffentliche Zurschaustellung von Intimität, auch in heterosexuellen Partnerschaften, kann zu heftigen Reaktionen führen und sollte vermieden werden..
+Homosexuelle Handlungen sind im mauretanischen Strafrecht ein schweres Vergehen und mit Todesstrafe bedroht. In der Praxis werden homosexuelle Lebenspartnerschaften jedoch meist stillschweigend geduldet, sofern Diskretion gewahrt wird. Eine rechtliche Gleichstellung besteht nicht. Die öffentliche Zurschaustellung von Intimität, auch in heterosexuellen Partnerschaften, kann zu heftigen Reaktionen führen und sollte vermieden werden.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -107,12 +125,11 @@ In Nouakchott und einigen größeren Städten gibt es Möglichkeiten zum Geldtra
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Mauretaniens](https://m.facebook.com/story.php?story_fbid=295830962577501&id=100064517994061) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Mauretaniens sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -154,7 +171,7 @@ Die Einfuhr von alkoholischen Getränken und Schweinefleisch ist streng verboten
 
 Bei Ankunft am Flughafen von Nouakchott wird jedes Gepäckstück durchleuchtet.
 
-Bei Grenzübertritt werden vom Zoll grundsätzlich keine Gebühren verlangt. Jedoch kann nach Ermessen des Zollbeamten bei zusätzlichem Arbeitsaufwand eine Gebühr für „Travail supplémentaire TS“ erhoben werden. Hierüber wird eine Quittung ausgestellt. Diese sollte der Reisende verlangen.
+Bei Grenzübertritt werden vom Zoll grundsätzlich keine Gebühren verlangt. Jedoch kann nach Ermessen des Zollbeamten bei zusätzlichem Arbeitsaufwand eine Gebühr für „Travail supplémentaire TS“ erhoben werden. Hierüber wird eine Quittung ausgestellt. Diese sollten Reisende verlangen.
 
 #### *Einreise mit dem Fahrzeug*
 
@@ -168,7 +185,7 @@ Bei Verlust des Fahrzeugs (z.B. durch Unfall) sollte unbedingt der nächstgelege
 
 ### Heimtiere
 
-Bei Einfuhr von Hunden und Katzen sind ein veterinärärztliches Gesundheitszeugnis und ein Nachweis über Tollwutimpfung erforderlich. Das Gesundheitszeugnis soll nicht älter als eine Woche sein. Ein Mikrochip wie in der EU ist bei Einreise nicht erforderlich.
+Bei Einfuhr von Hunden und Katzen sind ein veterinärärztliches Gesundheitszeugnis und ein Nachweis über eine Tollwutimpfung erforderlich. Das Gesundheitszeugnis soll nicht älter als eine Woche sein. Ein Mikrochip ist bei Einreise nicht erforderlich.
 
 ## Gesundheit
 
@@ -265,9 +282,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalten vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
