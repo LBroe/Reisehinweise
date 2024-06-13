@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-Die Regierung von Singapur ist sich einer allgemeinen terroristischen Bedrohung bewusst. Anzeichen für eine konkrete Bedrohung gibt es derzeit nicht. Gleichwohl gibt es immer wieder Festnahmen von radikalisierten Verdächtigen.
+Die Regierung von Singapur ist sich einer allgemeinen terroristischen Bedrohung bewusst. Anzeichen für eine konkrete Bedrohung gibt es derzeit nicht. Gleichwohl gibt es immer wieder Festnahmen radikalisierter Verdächtiger.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
@@ -44,7 +44,7 @@ Singapur liegt zwar außerhalb des Erdbebengebiets, Erschütterungen, meist von 
 
 Singapur ist ein wirtschaftlich hoch entwickelter Stadtstaat mit einer sehr gut ausgebauten Infrastruktur. Ein dichtes Netz von Bus- und S-Bahn- bzw. U-Bahnlinien (MRT genannt) sorgt für einen effizienten Transport. Hinzu kommt eine Vielzahl von Taxis, die im Stadtzentrum an vorgesehenen Standorten stehen, aber auch außerhalb des Zentrums meist überall entlang der Straße herangewinkt werden können. Auch diverse Taxi-Apps stehen zur Verfügung.
 
-Es herrscht Linksverkehr. Autofahrer müssen mit hohen Kosten für Mietwagen, Treibstoff, Parkgebühren und elektronischen Mautsysteme rechnen.
+Es herrscht Linksverkehr. Autofahrer müssen mit hohen Kosten für Mietwagen, Treibstoff, Parkgebühren und elektronische Mautsysteme rechnen.
 
 Das öffentliche Verkehrssystem ist weitläufig mit Rampen, Aufzügen und barrierefreien Einrichtungen ausgestattet, um den Zugang auch älteren Menschen, Menschen mit Behinderungen und Familien mit kleinen Kindern zu ermöglichen. Systeme zur Hörverbesserung für Menschen mit Hörgeräten sowie eine Beschilderung in Blindenschrift und geprägtem Text stehen in U-Bahn-Stationen meist ebenfalls zur Verfügung.
 
@@ -71,7 +71,7 @@ Das Wegwerfen von Abfall, auch Zigarettenresten, ist strikt untersagt und wird m
 
 Auf bestimmte Delikte wie Mord, aber auch Drogendelikte steht die Todesstrafe. Auch ziehen verschiedene Delikte eine Prügelstrafe nach sich.
 
-Strafrechtliche Verbote werden konsequent durchgesetzt, insbesondere werden Drogenhandel und Drogenkonsum streng bestraft (z. B. Todesstrafe oder lebenslange Freiheitsstrafe für den Besitz von mehr als 15 g Heroin bzw. 500 g Marihuana. Bei diesen Mengen wird Drogenhandel unterstellt). Der Besitz und Konsum geringer Mengen aller Drogenarten (auch Marihuana!) wird in Singapur und auch beim Transit/Flughafen streng bestraft.
+Strafrechtliche Verbote werden konsequent durchgesetzt, insbesondere werden Drogenhandel und Drogenkonsum streng bestraft (z.B. Todesstrafe oder lebenslange Freiheitsstrafe für den Besitz von mehr als 15 g Heroin bzw. 500 g Marihuana. Bei diesen Mengen wird Drogenhandel unterstellt). Der Besitz und Konsum geringer Mengen aller Drogenarten (auch Marihuana!) werden in Singapur und auch beim Transit/Flughafen streng bestraft.
 
 Als unangemessen geltendes Verhalten von Männern gegenüber Frauen (*outrage of modesty* in etwa zu übersetzen mit „unsittlichem Verhalten“) kann auch in Bars, Diskotheken und anderen Lokalitäten zu Festnahme, Haftstrafe und im Extremfall zu Prügelstrafe führen. Bei Festnahmen kann die Beauftragung eines Anwaltes erforderlich werden. Dadurch können hohe Kosten entstehen. Der Pass wird bis Abschluss des Verfahrens einbehalten; ein Verlassen des Landes ist nicht möglich, solange das Verfahren andauert.
 
@@ -85,8 +85,7 @@ Landeswährung ist der Singapur-Dollar (SGD). Das Abheben von Bargeld ist mit Kr
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -127,7 +126,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 ### Erfassung biometrischer Daten
 
-Von jedem Reisenden, d. h. auch von nicht-visapflichtigen Besuchern, werden an der Passkontrolle bei jeder Ein- und/oder Ausreise Daumenabdrücke digital eingescannt. Ausgenommen sind Personen unter sechs Jahren. Weitere Informationen bietet die [Immigration & Checkpoint Authority (ICA)](http://www.ica.gov.sg/).
+Von allen Reisenden, d. h. auch von nicht-visumspflichtigen Besuchern, werden an der Passkontrolle bei jeder Ein- und/oder Ausreise Daumenabdrücke digital eingescannt. Ausgenommen sind Personen unter sechs Jahren. Weitere Informationen bietet die [Immigration & Checkpoint Authority (ICA)](http://www.ica.gov.sg/).
 
 ### Einfuhrbestimmungen
 
@@ -144,9 +143,14 @@ Für andere Waren sind behördliche Genehmigungen notwendig. Hierzu zählt z.B. 
 
 Verbotene und erlaubnispflichtige Waren sind hier ersichtlich: [Singapore Customs-Prohibited and Controlled Goods](https://www.customs.gov.sg/individuals/going-through-customs/arrivals/prohibited-and-controlled-goods).
 
-Alkohol darf nur unter bestimmten Voraussetzungen zollfrei eingeführt werden: Die Person muss über 18 Jahre alt sein und sich mind. 48 Stunden außerhalb Singapurs aufgehalten haben. Ferner darf die Einreise nicht aus Malaysia kommend erfolgen und die alkoholischen Getränke, die in Singapur nicht verboten sind, dürfen nur für den persönlichen Gebrauch bestimmt sein. Die Einfuhrmengen variieren, Informationen bietet [Singapore Customs](https://www.customs.gov.sg/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief).
+Alkohol darf nur unter bestimmten Voraussetzungen zollfrei eingeführt werden: 
 
-Tabakwaren dürfen nur gegen eine Einfuhrsteuer eingeführt werden; es gibt keine Freimengen. Raucher, die bei der Einreise mit undeklarierten Zigaretten angetroffen werden, müssen mit einer Strafe von mindestens 200 SGD pro Packung rechnen. Eine reguläre Packung mit 20 Zigaretten kostet in Singapur umgerechnet ca. 7,- EUR.
+* Die Person muss über 18 Jahre alt sein und sich mind. 48 Stunden außerhalb Singapurs aufgehalten haben.
+* Ferner darf die Einreise nicht aus Malaysia kommend erfolgen und die alkoholischen Getränke, die in Singapur nicht verboten sind, dürfen nur für den persönlichen Gebrauch bestimmt sein.
+
+Die Einfuhrmengen variieren, Informationen bietet [Singapore Customs](https://www.customs.gov.sg/individuals/going-through-customs/arrivals/duty-free-concession-and-gst-relief).
+
+Tabakwaren dürfen nur gegen eine Einfuhrsteuer eingeführt werden; es gibt keine Freimengen. Raucher, die bei der Einreise mit undeklarierten Zigaretten angetroffen werden, müssen mit einer Strafe von mindestens 200 SGD pro Packung rechnen. Eine reguläre Packung mit 20 Zigaretten kostet in Singapur umgerechnet ca. 7 EUR.
 
 Für die Mitnahme von Medikamenten für den persönlichen Gebrauch gelten besondere Bestimmungen, die wie auch die Liste der Substanzen, für die eine vorherige Genehmigung eingeholt werden muss, bei der [Health Science Authority](http://www.customs.gov.sg/) erhältlich sind.
 
@@ -215,11 +219,9 @@ Die medizinische Versorgung im Lande hat ein hohes, mit Europa vergleichbares Ni
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
-
-## Länderinfos zu Ihrem Reiseland
+Länderinfos zu Ihrem Reiseland
 
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 

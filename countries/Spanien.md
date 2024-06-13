@@ -20,7 +20,7 @@ Seit den terroristischen Anschlägen 2017 in Barcelona und Cambrils gilt weiterh
 Sowohl in größeren Städten als auch in den touristischen Zentren und Ausflugszielen auf den Balearen, entlang der Mittelmeerküste sowie auf den Kanaren ist Vorsicht vor Taschendiebstahl und Kleinkriminalität angebracht. In Barcelona hat es zuletzt eine Zunahme von Vorfällen mit Gewaltanwendung gegeben. Weiterhin sind Einbrüche in Ferienunterkünfte zu beobachten.  
 Aufgrund der hohen Kriminalitätsrate in Tourismuszentren und der Gefahren des Drogenmissbrauchs sollte bei Jugendreisen besonderer Wert auf professionelle Betreuung und Aufsicht gelegt werden.
 
-Entlang der spanischen Autobahnen (insbesondere auf der A 7 zwischen der französisch-spanischen Grenzstation La Jonquera und Barcelona, aber auch im weiteren Verlauf) kommt es öfter zu Überfällen auf Touristen. Die Betroffenen werden dabei von einem oder zwei auf gleicher Höhe fahrenden Fahrzeugen, häufig auch mit einem deutschen oder einem anderen ausländischen Kennzeichen, durch Hupen oder durch Werfen von Steinen auf vermeintliche oder tatsächliche Schäden am Fahrzeug (z. B. absichtlich herbeigeführte Reifenpanne) hingewiesen und es wird „Hilfeleistung“ angeboten.
+Entlang der spanischen Autobahnen (insbesondere auf der A7 zwischen der französisch-spanischen Grenzstation La Jonquera und Barcelona, aber auch im weiteren Verlauf) kommt es öfter zu Überfällen auf Touristen. Die Betroffenen werden dabei von einem oder zwei auf gleicher Höhe fahrenden Fahrzeugen, häufig auch mit einem deutschen oder einem anderen ausländischen Kennzeichen, durch Hupen oder durch Werfen von Steinen auf vermeintliche oder tatsächliche Schäden am Fahrzeug (z. B. absichtlich herbeigeführte Reifenpanne) hingewiesen und es wird „Hilfeleistung“ angeboten.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher und möglichst getrennt voneinander auf und fertigen Sie (elektronische) Kopien. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -32,12 +32,6 @@ Entlang der spanischen Autobahnen (insbesondere auf der A 7 zwischen der franzö
 * Seien Sie bei ungewöhnlichen Anrufen, E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch, teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
-
-#### *Trockenheit und Dürre*
-
-Aufgrund anhaltender Trockenheit gelten in den meisten Teilen Kataloniens Beschränkungen zur Wassernutzung; in einigen wenigen Gemeinden gilt der Wassernotstand.
-
-* Beachten Sie u.a. die Höchstgrenzen beim Wasserverbrauch pro Kopf sowie den eingeschränkten Betrieb von Strandduschen.
 
 #### *Busch- und Waldbrände*
 
@@ -55,7 +49,7 @@ Im Mittelmeer kann es zu vereinzelten schweren Herbst- und Winterstürmen bis hi
 
 Die Kanarischen Inseln sind Vulkaninseln. Zwar wird die vulkanische Aktivität intensiv wissenschaftlich überwacht, Naturkatastrophen aufgrund von Erd- bzw. Seebeben oder gar Vulkanausbrüche sind jedoch nicht verlässlich vorhersagbar. Neben den Kanaren liegen auch die Pyrenäen und der Süden Spaniens in einer seismisch aktiven Zone, weshalb es in diesen Regionen zu leichteren Erdbeben kommen kann.
 
-Der auf der Insel La Palma ausgebrochene Vulkan (2021) gilt seit Dezember 2021 offiziell als erloschen. Seither kann La Palma wie die anderen kanarischen Inseln wieder ohne Bedenken besucht werden. Ein Teil der Insel ist nach wie vor Sperrgebiet. Trotz reger Bautätigkeit sind noch immer mehrere Straßenverbindungen unterbrochen.
+Der im September 2021 auf der Insel La Palma ausgebrochene Vulkan gilt seit Dezember 2021 offiziell als erloschen. Seither kann La Palma wie die anderen kanarischen Inseln wieder ohne Bedenken besucht werden. Ein Teil der Insel ist nach wie vor Sperrgebiet. Trotz reger Bautätigkeit sind noch immer mehrere Straßenverbindungen unterbrochen.
 
 * Beachten Sie unbedingt das Betretungsverbot der Sperrzonen auf La Palma und befolgen Sie die Anweisungen der lokalen Behörden.
 * Informieren Sie sich über die Medien z.B. beim [staatlichen meteorologischen Institut AMET](http://www.aemet.es/es/portada).
