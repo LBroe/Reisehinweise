@@ -13,7 +13,7 @@ Die Kriminalitätsrate in Liechtenstein ist niedrig. Dennoch kann es an viel bes
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie an Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Naturkatastrophen
 
@@ -27,12 +27,18 @@ Im Gebirge kann es zu schwerem Schneefall, Lawinenabgängen und Erdrutschen komm
 
 ### Zuständige Auslandsvertretung
 
-In Liechtenstein gibt es keine berufskonsularische deutsche Auslandsvertretung. Zuständig ist die [Deutsche Botschaft in Bern](https://www.auswaertiges-amt.de/de/service/laender/schweiz-node/schweiz/206198 "Deutsche Vertretungen in der Schweiz"). In dringenden Notfällen können sich Reisende an den [Deutschen Honorarkonsul in Balzers](https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtenstein/222950 "Deutsche Vertretungen in Liechtenstein") wenden.
+In Liechtenstein gibt es keine berufskonsularische deutsche Auslandsvertretung. Zuständig ist die [Deutsche Botschaft Bern](https://www.auswaertiges-amt.de/de/service/laender/schweiz-node/schweiz/206198 "Deutsche Vertretungen in der Schweiz"). In dringenden Notfällen können sich Reisende an den [deutschen Honorarkonsul in Balzers](https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtenstein/222950 "Deutsche Vertretungen in Liechtenstein") wenden.
 
 ### Infrastruktur/Verkehr
 
-Autoreisende nach Liechtenstein benötigen eine Vignette für die Schweiz oder Österreich.  
-Es gilt eine 0,8 Promille-Grenze; es finden viele Kontrollen statt.  
+In Liechtenstein gibt es keine Autobahn und keine mautpflichtigen Straßen. Eine Vignette für die Schweiz oder Österreich ist zum Erreichen Liechtensteins aber quasi unerlässlich.
+
+Es gilt eine 0,8 Promille-Grenze; es finden viele Kontrollen statt.
+
+Es gilt ein Halteverbot bei gelben Linien am Fahrbahnrand. Gelbe Kreuze mit gelben Verbindungslinien am Fahrbahnrand bedeuten Parkverbot. Auf Bergstraßen muss erforderlichenfalls das abwärtsfahrende Fahrzeug rechtzeitig anhalten. An vielen Kreuzungen gilt rechts vor links, häufig auch für kleinere einmündende Straßen.
+
+Schnelle E-Bikes (S-Pedelecs) ab 25 km/h bzw. über 500 kW Leistung müssen registriert (gelbes Kontrollschild und E-Bike-Versicherungsvignette) und mit Rückspiegel ausgestattet sein; außerdem gilt eine Helmpflicht. Das Führen eines E-Bikes ist ab 14 Jahren gestattet; es gilt allerdings eine Führerscheinpflicht. Diese entfällt bei langsamen E-Bikes (bis 25 km/h) für Personen ab 16 Jahren.  
+Weitere Informationen für Radfahrende bietet die [Landesverwaltung des Fürstentums Liechtenstein](https://www.llv.li/de/landesverwaltung/amt-fuer-tiefbau-und-geoinformation/infrastruktur-bau/information-fuer-radfahrende).  
 Allgemeine touristische Auskünfte erteilt [Liechtenstein Marketing](http://www.liechtenstein.li).
 
 ### Führerschein
@@ -51,12 +57,11 @@ Verkehrsverstöße werden zum Teil mit hohen Strafen geahndet.
 
 ### Geld/Kreditkarten
 
-Zahlungsmittel ist der Schweizer Franken (CHF). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten ist überall möglich.
+Zahlungsmittel ist der Schweizer Franken (CHF), häufig wird auch der EUR als Zahlungsmittel akzeptiert. Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten ist überall möglich.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -87,7 +92,7 @@ Zwischen dem Fürstentum Liechtenstein und der Schweiz bestehen keine Zollgrenze
 
 ### Heimtiere
 
-Heimtiere können mit dem EU-Heimtierausweis als Nachweis entsprechender Identifizierung des Tieres mittels Mikrochip und gültiger Schutzimpfung gegen Tollwut eingeführt werden. Ausführliche Informationen bietet das [Amt für Lebensmittelkontrolle und Veterinärwesen](https://www.llv.li/inhalt/11831/amtsstellen/reisen-mit-heimtieren) des Fürstentums Liechtenstein.  
+Heimtiere können mit dem EU-Heimtierausweis als Nachweis entsprechender Identifizierung des Tieres mittels Mikrochip und gültiger Schutzimpfung gegen Tollwut eingeführt werden. Ausführliche Informationen bietet das [Amt für Lebensmittelkontrolle und Veterinärwesen](https://www.llv.li/de/privatpersonen/freizeit-umwelt-und-tierhaltung/tierhaltung//reisen-mit-heimtieren) des Fürstentums Liechtenstein.  
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
 
 ## Gesundheit
