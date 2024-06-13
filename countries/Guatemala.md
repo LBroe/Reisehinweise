@@ -2,12 +2,16 @@
 
 ## Aktuelles
 
-Im Großraum Guatemala-Stadt gibt es zurzeit zahlreiche Waldbrände. Außerdem steht eine große Mülldeponie mit Sondermüll in Flammen. Dadurch ist die Luftqualität in Guatemala-Stadt erheblich beeinträchtigt. Die Schulen sind bis auf Weiteres geschlossen, der Präsident hat für die betroffenen Gebiete den Notstand ausgerufen.
+### Vulkanische Aktivität
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.iqair.com/de/).
-* Meiden Sie Gebiete mit starker Rauchentwicklung soweit möglich. Halten Sie sich vorrangig bei geschlossenen Fenstern in Innenräumen auf.
-* Sprechen Sie sich bei vorhandenen Grunderkrankungen bzgl. individueller Schutzmaßnahmen mit Ihrer behandelnden Ärztin oder Arzt ab.
-* Stellen Sie sich bei gesundheitlichen Beschwerden nach Rauchinhalation ärztlich vor.
+Seit dem 10. Juni 2024 misst das Nationale Institut für Seismologie und Vulkanologie INSIVUMEH verstärkte Aktivität mehrerer Vulkane. Das Institut rät derzeit von der Besteigung der Vulkane Fuego und Santiaguito ab. Auch Aufenthalte in unmittelbarer Nähe der Vulkane Agua und Acatenango sowie im Kraterbereich des Vulkans Pacaya sollten aufgrund von Gesundheitsgefahren vermieden werden.
+
+Tourismusveranstalter werden dazu aufgefordert, derzeit keine Touren in die betroffenen Gebiete anzubieten.
+
+* Reisen Sie nicht in die oben genannten Gebiete. Dies gilt insbesondere, falls Sie an Atemwegserkrankungen leiden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
+* Informieren Sie sich bei der guatemaltekischen Katastrophenschutzbehörde [CONRED](https://conred.gob.gt) und des Instituts für Seismologie [INSIVUMEH](http://www.insivumeh.gob.gt/).
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028).
 
 ## Sicherheit
 
@@ -17,7 +21,7 @@ Im Großraum Guatemala-Stadt gibt es zurzeit zahlreiche Waldbrände. Außerdem s
 
 ### **Innenpolitische Lage**
 
-Aufgrund der politischen Lage nach den Präsidentschaftswahlen ist derzeit in Teilen des Landes mit politischen Kundgebungen und Straßenblockaden zu rechnen. Dabei können Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden nicht ausgeschlossen werden.
+Mit politischen Kundgebungen und Straßenblockaden muss gerechnet werden. Dabei können auch Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden nicht ausgeschlossen werden.
 
 In der Hauptstadt Guatemala-Stadt kommt es gelegentlich zu Akten von Vandalismus und Brandstiftung im Rahmen von Protesten.
 
@@ -33,27 +37,30 @@ In Guatemala-Stadt ist die Benutzung der roten Stadtbusse gefährlich, die grün
 
 Das Risiko von Überfällen und Übergriffen besteht grundsätzlich auch in Touristenzentren wie Antigua, Flores, Tikal und am Atitlán-See sowie beim Besuch von Vulkanen.
 
-Widerstand kann bei einem Überfall schwerwiegende Folgen haben, da Waffen (neben Schusswaffen auch andere Waffen wie Macheten) weit verbreitet sind und die Hemmschwelle für deren Einsatz niedrig ist. In letzter Zeit kommt es vermehrt bei Überfällen zu schweren Verletzungen, teilweise mit Todesfolge.  
+Widerstand kann bei einem Überfall schwerwiegende Folgen haben, da Waffen (neben Schusswaffen auch andere Waffen wie Macheten) weit verbreitet sind und die Hemmschwelle für deren Einsatz niedrig ist. Es kommt bei Überfällen vermehrt zu schweren Verletzungen, teilweise mit Todesfolge.  
 Willkürliche Maßnahmen durch Sicherheitskräfte können sich auch gegen Ausländer richten. Vom Erwerb von Pkws in Guatemala wird dringend abgeraten. In den letzten Monaten traten vermehrt Verkäufe gestohlener Fahrzeuge auf. An Grenzübergängen und bei Polizeikontrollen werden Fahrzeuge samt Unterlagen sehr genau überprüft. Die Interpoldatenbank wird abgefragt. Im Falle gestohlener Fahrzeuge drohen hohe Geldstrafen oder Gefängnisstrafen, das betreffende Fahrzeug kann sichergestellt werden.
 
 * Seien Sie in größeren Menschenmengen und auch bei Reisen in das Landesinnere besonders vorsichtig und verzichten Sie auf das Tragen oder Zeigen von Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Klären Sie Ihre Reiseroute vor Reiseantritt über die guatemaltekische Tourismusbehörde [INGUAT](http://www.inguat.gob.gt) ab und erbitten Sie ggf. Sicherheitsbegleitung.
-* Sehen Sie in Guatemala-Stadt von der Benutzung der roten Stadtbusse ab.
-* Meiden Sie einsame Straßen und unbelebte Gegenden nicht nur in der Nacht, sondern möglichst auch tagsüber.
-* Unternehmen Sie Ausflüge zu den Vulkanen nur in Begleitung der Polizei oder lizensierter Führer; auch sonstige Wanderungen oder Trekking-Touren sollten Sie nicht allein antreten. Unterschätzen Sie nicht die Gefahr, auch von markierten Wegen abzukommen. Wenn lizensierte Führer eine Führung ablehnen, sollten Sie dies als Hinweis auf ein erhöhtes Risiko werten und von Ihrem Vorhaben absehen.
+* Nutzen Sie in Guatemala-Stadt keine roten Stadtbusse.
+* Meiden Sie zu jeder Zeit einsame Straßen und unbelebte Gegenden.
 * Leisten Sie bei Überfällen keinen Widerstand und führen Sie möglichst einen kleineren Geldbetrag in einer getrennten Geldbörse und evtl. ein zweites Mobiltelefon mit sich.
+* Unternehmen Sie Ausflüge zu den Vulkanen nur in Begleitung der Polizei oder lizenzierter Führer; auch sonstige Wanderungen oder Trekking-Touren sollten Sie nicht allein antreten. Unterschätzen Sie nicht die Gefahr, auch von markierten Wegen abzukommen. Wenn lizenzierte Führer eine Führung ablehnen, sollten Sie dies als Hinweis auf ein erhöhtes Risiko werten und von Ihrem Vorhaben absehen.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
+Siehe *Aktuelles*  
+
 #### *Erdbeben und Vulkane*
 
 Guatemala liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und Vulkanausbrüchen kommen kann.  
-Die südwestlich von Guatemala-Stadt gelegenen Vulkane Fuego und Pacava zeigten im Laufe dieses Jahres wieder mehrfach stark erhöhte Aktivitäten. Im Mai 2023 kam es erneut zu einem stärkeren Ausbruch des „Fuego“, bei dem Lavaströme und Aschewolken ausgestoßen wurden. Eine Evakuierung aus den um den Vulkan herum gelegenen Gebieten kann kurzfristig von den Sicherheitskräften angeordnet werden. Durch Erdbeben und Vulkanausbrüche kann es immer wieder zu Straßensperren und Einschränkungen im Flugverkehr kommen.
+Die Sicherheitskräfte und zuständigen Behörden können kurzfristig eine Evakuierung aus den um aktive und als gefährlich eingestufte Vulkane herum gelegenen Gebieten anordnen. Durch Erdbeben und Vulkanausbrüche kann es immer wieder zu Straßensperren und Einschränkungen im Flugverkehr kommen.
 
-* Meiden Sie die Gebiete um den Vulkan Fuego. Dies gilt besonders, falls Sie an Atemwegserkrankungen leiden.
+* Beachten Sie die von der guatemaltekischen Katastrophenschutzbehörde [CONRED](https://conred.gob.gt) und des Instituts für Seismologie [INSIVUMEH](http://www.insivumeh.gob.gt/) aktiven und als gefährlich eingestuften Vulkane. Reisen Sie nicht in diese Gebiete und schützen Sie sich adäquat, falls Sie an Atemwegserkrankungen leiden.
+* Informieren Sie sich über mögliche Einschränkungen im Flugverkehr, falls Sie eine Reise nach Guatemala planen.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028).
 
@@ -70,8 +77,6 @@ Starke Regenfälle können neben Überschwemmungen zu Erdrutschen führen, die d
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
 
 ## **Reiseinfos**
-
-Siehe *Einreise und Zoll – Digitale Reiseerklärung*
 
 ### **Infrastruktur/Verkehr**​​​​​​​
 
@@ -248,9 +253,7 @@ Insgesamt ist die Gesundheitsversorgung gerade in ländlichen Gebieten Guatemala
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
