@@ -16,7 +16,7 @@ Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz
 
 ### Innenpolitische Lage
 
-Aus innenpolitischen Gründen kommt es immer wieder zu Demonstrationen, Protesten und Straßenblockaden. Gewaltsame Ausschreitungen sind nicht auszuschließen. Betroffen ist neben der Hauptstadt insbesondere die "Panamericana" im Landesinneren. (s. *Reiseinfos – Infrastruktur/Verkehr*).
+Die Lage im Land ist insgesamt ruhig. Aus innenpolitischen Gründen kann es aber immer wieder ohne oder mit sehr kurzfristigen Ankündigungen zu Demonstrationen, Protesten und Straßenblockaden kommen. Gewaltsame Ausschreitungen sind dabei nicht auszuschließen. Betroffen ist neben der Hauptstadt insbesondere die Panamericana im Landesinneren, siehe *Reiseinfos – Infrastruktur/Verkehr.*
 
 * Respektieren Sie polizeiliche Zugangssperren unbedingt.
 * Informieren Sie sich über die lokalen Medien.
@@ -148,7 +148,7 @@ Für die Ein- und Ausreise aus Panama auf Schiffen jeglicher Art (Segelschiffe, 
 Touristen erhalten bei Einreise per Schiff lediglich ein Visum für 72 Stunden. Wer länger als 72 Stunden in Panama bleiben möchten, sollte sich unmittelbar bei der zuständigen Migrationsbehörde am Anlandungshafen informieren, wie ein reguläres Touristenvisum erlangt werden kann. Ein Aufenthalt in Panama über die erlaubte Visumsdauer wird als Zuwiderhandlung gegen das Aufenthaltsgesetz mit empfindlichen Geldbußen sowie ggf. Ausweisung aus dem Land geahndet.
 
 Bei der Einreise auf dem Seeweg über das Territorium Guna Yala (San Blas Inseln) ist unbedingt auf die ordnungsmäße Stempelung des Passes durch die Einwanderungsbehörde (Migración) zu achten. Reisende können sonst als Illegal-Eingereiste behandelt werden.  
-Sollte bei Ankunft mit einem Schiff kein Beamter der Migrationsbehörde vor Ort sein, obliegt es dem Reisenden, nach dem Büro der Migrationsbehörde zu fragen und sich unverzüglich einen Einreisestempel geben zu lassen, auch bei Einreise mit einem privatem Schiff /zu sehr früher und später Stunde.  
+Sollte bei Ankunft mit einem Schiff kein Beamter der Migrationsbehörde vor Ort sein, obliegt es dem Reisenden, nach dem Büro der Migrationsbehörde zu fragen und sich unverzüglich einen Einreisestempel geben zu lassen, auch bei Einreise mit einem privaten Schiff/zu sehr früher und später Stunde.  
 Ist der Reisende erst einmal im Land (z.B. in Panama Stadt) kann diese Formalität nicht mehr nachgeholt werden und der Reisende gilt ausnahmslos als illegal.
 
 #### *Einreise von Costa Rica*
@@ -294,9 +294,7 @@ Die Kosten für eine medizinische Behandlung sowie Medikamente müssen in der Re
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 

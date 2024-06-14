@@ -42,11 +42,15 @@ Simbabwe liegt in einer latent seismisch aktiven Zone, weshalb es zu Erdbeben ko
 
 ## Reiseinfos
 
+### Aktuelles
+
+In Vorbereitung des 44. SADC Gipfels, der Mitte August 2024 in Harare stattfinden wird, unternimmt die Regierung Straßenreparaturen. Diese führen zu Straßensperrungen in diversen Stadtbezirken, in der Innenstadt auch zur Sperrung von Ausfallstraßen, die Verkehrsknotenpunkte betreffen (aktuell virulent Harare Drive von/nach Mazowe/Bindura Road bis 30. Juni 2024). In der Folge kommt es zu einer Zunahme von Staus und Gefahren im Straßenverkehr.
+
 ### Infrastruktur/Verkehr
 
 Flugverbindungen bestehen nach Harare, Victoria Falls und Bulawayo.
 
-Die europäische Kommission hat 2017 eine Betriebsuntersagung für den europäischen Luftraum gegen die Fluglinie Air Zimbabwe ausgesprochen, siehe [Liste unsicherer Fluggesellschaften der EU.](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en "unsichere Fluggesellschaften")
+Die europäische Kommission hat eine Betriebsuntersagung für den europäischen Luftraum gegen die Fluglinie Air Zimbabwe ausgesprochen, siehe [Liste unsicherer Fluggesellschaften der EU.](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en "unsichere Fluggesellschaften")
 
 In Simbabwe herrscht Linksverkehr. Meist schlechter Straßenzustand, nicht funktionierende Ampeln, Tiere auf Landstraßen, schlechte Straßenbeleuchtungen und Fahrzeuge mit überhöhter Geschwindigkeit stellen ein erhebliches Unfallrisiko dar.
 
