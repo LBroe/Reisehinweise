@@ -8,19 +8,23 @@
 
 ### Innenpolitische Lage
 
-Während eines Angriffs unbekannter Personen auf ein Waffenlager in der zentralen Wilberforce Kaserne im November 2023 konnten mehrere hundert Insassen zweier Haftanstalten in der Hauptstadt Freetown ausbrechen. Eine große Zahl der teilweise wegen schwerer Straftaten Verurteilten befindet sich weiterhin auf der Flucht. Die Sicherheitskräfte setzen die Suche nach ihnen fort und haben zu ihrer Ergreifung Belohnungen ausgesetzt. Daher können bewaffnete Auseinandersetzungen und ein Anstieg der Gewaltkriminalität, besonders im Großraum Freetown und der westlichen Region, nicht ausgeschlossen werden.
+Während eines Angriffs unbekannter Personen auf ein Waffenlager in der zentralen Wilberforce Kaserne im November 2023 wurden Waffen erbeutet; zeitgleich konnten mehrere hundert Insassen zweier Haftanstalten in der Hauptstadt Freetown ausbrechen. Viele dieser ausgebrochenen Häftlinge sind weiterhin auf der Flucht; ein Teil der im November entwendeten Waffen konnte bisher nicht sichergestellt werden. Daher können bewaffnete Auseinandersetzungen und ein Anstieg der Gewaltkriminalität nicht ausgeschlossen werden.
 
-Die hohe Inflation von zuletzt über 60% führt zu einer starken Erhöhung der allgemeinen Lebenshaltungskosten, insbesondere bei Lebensmitteln und Kraftstoffen. Dies setzt einen großen Teil der Bevölkerung unter wirtschaftlichen Druck. In diesem Zusammenhang kann es zu Protesten kommen, die von den Sicherheitskräften jederzeit, teils auch robust, unterbunden werden können. Spontane Gewaltausbrüche können nicht ausgeschlossen werden.
+Die hohe Inflation von teilweise über 50% führt zu einer starken Erhöhung der allgemeinen Lebenshaltungskosten, insbesondere bei Lebensmitteln und Kraftstoffen. Dies setzt einen großen Teil der Bevölkerung unter wirtschaftlichen Druck.
+
+Am 19. Juni 2024 soll das überparteiliche Komitee zur Wahlrechtsreform Staatspräsident Bio seinen Abschlussbericht vorlegen. In den (sozialen) Medien zirkulieren vereinzelt Aufrufe zu Protesten.
+
+Die Sicherheitskräfte haben deutlich gemacht, dass unangemeldete Demonstrationen nicht geduldet werden und haben ihre Präsenz, besonders in Freetown, in den vergangenen Tagen sichtbar verstärkt.
 
 * Informieren Sie sich bitte vor einer Reise bei der [Deutschen Botschaft Freetown](https://freetown.diplo.de/sl-de) über besondere, weitere Risiken.
-* Bitte tragen Sie sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) ein.
+* Bitte tragen Sie sich für den Zeitraum Ihres Aufenthalts in Sierra Leone in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) ein.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich über lokale Medien, einschließlich sozialer Medien.
 * Folgen Sie unbedingt den Anweisungen der Sicherheitskräfte.
 
 ### Kriminalität
 
-Kleinkriminalität wie Taschendiebstahl kommt vor, besonders rund um Feiertage und an stark frequentierten Orten. Auch Gewaltverbrechen gegen Ausländer, wie z.B. bewaffnete Überfälle an Stränden und Einbrüche in Wohnungen, treten auf.
+Kleinkriminalität wie Taschendiebstahl kommt vor, besonders rund um Feiertage und an stark frequentierten Orten. Auch werden vereinzelt Gewaltverbrechen gegen Ausländer verübt, wie z.B. bewaffnete Überfälle an Stränden und Einbrüche in Wohnungen.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld, Passkopien und keine unnötigen Wertsachen mit.
@@ -43,7 +47,7 @@ Bei der Ein- und Ausreise müssen alle Flugpassagiere (außer Inhaber von Diplom
 
 ### Infrastruktur/Verkehr
 
-Der internationale Flughafen Lungi liegt auf einer Halbinsel. Nach Freetown gelangt man üblicherweise mit einer Fähre. Die Nutzung des Landwegs nach Freetown ist möglich, nimmt jedoch drei bis vier Stunden Fahrt in Anspruch.
+Der internationale Flughafen Lungi liegt auf einer Halbinsel. Nach Freetown gelangt man üblicherweise mit einer Fähre oder einem Schnellboot. Die Abfahrtzeiten der Schnellboote richten sich nach den An- und Abflugzeiten internationaler Flüge. Tickets können bereits vorab online gebucht werden. Die Nutzung des Landwegs nach Freetown ist tagsüber möglich, nimmt jedoch drei bis vier Stunden Fahrt in Anspruch.
 
 Die Straßenqualität auf Überlandstrecken ist mit Ausnahme einiger Hauptverbindungsachsen schlecht.
 
@@ -67,7 +71,9 @@ Ein Gesetz aus der britischen Kolonialzeit, das formal nicht außer Kraft gesetz
 
 Das Fotografieren von Flughäfen, Regierungs- und anderen offiziellen Gebäuden sowie von Brücken ist verboten. Verstöße werden verfolgt.
 
-Alle polizeilichen Untersuchungen, die mit fehlenden Dokumenten, ausländischen Pässen oder von Ausländern gemeldeten Diebstählen zu tun haben, werden vom „Criminal Investigations Department Headquarters (CID HQ)“ bearbeitet. Die hierfür anfallende Gebühr in Höhe von 300 Leones (SLE) für die Erstellung des Polizeiberichts muss im Voraus entrichtet werden.
+Alle polizeilichen Untersuchungen, die mit fehlenden Dokumenten, ausländischen Pässen oder von Ausländern gemeldeten Diebstählen zu tun haben, werden vom „Criminal Investigations‘ Department Headquarters (CID HQ)“ bearbeitet. Die hierfür anfallende Gebühr in Höhe von 300 Leones (SLE) für die Erstellung des Polizeiberichts muss im Voraus entrichtet werden.
+
+Es kommt immer wieder zu Festnahmen; auch deutsche Staatsangehörige können davon betroffen sein. Teilweise haben nicht eindeutige oder sehr geringfügige Tatvorwürfe mehrwöchige Verhaftungen oder polizeiliche Inobhutnahmen, auch ohne richterlichen Beschluss, zur Folge gehabt. Der Rechtsweg ist nicht garantiert. Die Deutsche Botschaft Freetown hat in solchen Fällen keine Möglichkeiten, eine Freilassung zu erwirken.
 
 ### Geld/Kreditkarten
 
@@ -117,11 +123,13 @@ Die Einfuhr von Waffen und Drogen ist untersagt.
 
 Die Ein- und Ausfuhr von Landeswährung unterliegt engen Grenzen (derzeit Gegenwert von weniger als 50 EUR).
 
-Für die Ausfuhr von Mineralien, Metallen und auch Steinen ist eine behördliche Genehmigung erforderlich.
+Für die Ausfuhr von Mineralien, Metallen und auch Steinen ist eine behördliche Genehmigung erforderlich, [weitere Informationen dazu.](https://www.nma.gov.sl/directorate-of-precious-minerals-trading/)
 
 ### Heimtiere
 
-Die Einfuhr von Haustieren bedarf der vorherigen Genehmigung durch den Chief Veterinary Officer im sierra-leonischen Landwirtschaftsministerium, die normalerweise bei Vorlage amtlicher Impf- und Gesundheitszeugnisse deutscher Stellen ohne weiteres erteilt wird. Erkundigen Sie sich ggf. rechtzeitig bei der [Botschaft von Sierra Leone in Berlin.](http://www.slembassy-germany.org/)
+Die Einfuhr von Haustieren bedarf der vorherigen Genehmigung durch den Chief Veterinary Officer im sierra-leonischen Landwirtschaftsministerium, die normalerweise bei Vorlage amtlicher Impf- und Gesundheitszeugnisse deutscher Stellen ohne weiteres erteilt wird. 
+
+* Erkundigen Sie sich ggf. rechtzeitig bei der [Botschaft von Sierra Leone in Berlin.](http://www.slembassy-germany.org/)
 
 ## Gesundheit
 
@@ -202,9 +210,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
