@@ -157,6 +157,8 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
+Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
+
 Auf bolivianischen Flughäfen gibt es strenge Kontrollen durch die Drogenpolizei FELCN. Dies gilt insbesondere für den internationalen Flughafen Viru Viru in Santa Cruz de la Sierra, über den der größte Teil der internationalen Flüge abgewickelt wird.
 
 * Kontrollieren Sie den Inhalt Ihres Gepäcks am besten mehrfach persönlich und stellen Sie sicher, keine Ihnen unbekannten Gegenstände dabei zu haben.
