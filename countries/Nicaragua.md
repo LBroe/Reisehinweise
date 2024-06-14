@@ -20,7 +20,7 @@ Im Vergleich zu den meisten Ländern Lateinamerikas ist die Kriminalität in Nic
 
 In Überlandbussen im gesamten Land, gehäuft jedoch in der Pazifikregion (v. a. nahe Managua und Granada), kommt es häufiger zu Diebstählen von Wertsachen.
 
-In den Regionen Nueva Segovia, Madriz, Jinotega, Esteli´und Matagalpa besteht abseits der Städte für Reisende erhöhtes Sicherheitsrisiko. Insbesondere in den autonomen Gebieten „Region Autonoma del Atlantico Sur“ (RAAS) sowie und der „Region Autonoma del Atlantico Norte“ (RAAN)“ liegen Kapitalverbrechen weit über dem Landesdurchschnitt.
+In den Regionen Nueva Segovia, Madriz, Jinotega, Estelí und Matagalpa besteht abseits der Städte für Reisende erhöhtes Sicherheitsrisiko. Insbesondere in den autonomen Gebieten „Region Autónoma del Atlántico Sur“ (RAAS) sowie und der „Region Autónoma del Atlantico Norte“ (RAAN)“ liegen Kapitalverbrechen weit über dem Landesdurchschnitt.
 
 An der südlichen Atlantikküste (RAAS), zu der auch die Touristenziele Bluefields, Pearl Lagoon und die Corn Islands zählen, kam es auch zu sexuellen Übergriffen auf Reisende.
 
@@ -44,16 +44,16 @@ Nicaragua liegt in einer seismisch aktiven Zone, sodass es zu Erdbeben und vulka
 Alle sechs aktiven Vulkane in Nicaragua zeigen derzeit erhöhte Aktivität (moderate Eruptionen, mehrere kleinere vulkanische Beben, erhöhter Austritt von Schwefeldioxid, Anstieg der Lava im Vulkankessel, etc.).  
 Menschen kamen bisher nicht zu Schaden. Es ist mit weiteren vulkanischen Beben zu rechnen.
 
-Von der Besteigung des Vulkans Momotombo sowie vom Besuch der Laguna Xiloa am Vulkan Apoyeque wird aufgrund der aktuellen seismischen Aktivität ausdrücklich abgeraten. Auch bei allen anderen Vulkanen Nicaraguas kann es plötzlich zu vulkanischer und seismischer Aktivität kommen. Bei der Insel Ometepe ist zu berücksichtigen, dass durch die Insellage eine ggf. erforderliche Evakuierung erschwert wird.
+Vom Besuch des bei Managua liegenden Vulkans Masaya sowie der Besteigung des Vulkans Momotombo wird aufgrund der aktuellen seismischen Aktivität ausdrücklich abgeraten. Auch bei allen anderen Vulkanen Nicaraguas kann es plötzlich zu vulkanischer und seismischer Aktivität kommen. Bei der Insel Ometepe ist zu berücksichtigen, dass durch die Insellage eine ggf. erforderliche Evakuierung erschwert wird.
 
 #### *Tropenstürme*
 
-Es herrscht tropisches Klima. Von Mai bis November ist Hurrikan-Saison. In dieser Zeit ist mit Tropenstürmen und intensiven Regenfällen und in der Folge mit Überschwemmungen, Erdrutschen und Beeinträchtigungen im Reiseverkehr zu rechnen. Tropenstürme haben in der Vergangenheit (zuletzt 2020) zahlreiche Schäden im Land verursacht, besonders in der Region Nordkaribik. Einschränkungen durch Erdrutsche und nicht passierbare Verkehrswege sind nicht auszuschließen.
+Es herrscht tropisches Klima. Von Mai bis November ist Hurrikan-Saison. In dieser Zeit ist mit Tropenstürmen und intensiven Regenfällen und in der Folge mit Überschwemmungen, Erdrutschen und Beeinträchtigungen im Reiseverkehr zu rechnen. Tropenstürme haben in der Vergangenheit zahlreiche Schäden im Land verursacht, besonders in der Region Nordkaribik. Einschränkungen durch Erdrutsche und nicht passierbare Verkehrswege sind nicht auszuschließen.
 
 * Verfolgen Sie regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
@@ -101,14 +101,13 @@ Die Benutzung von Drohnen ist nicht gestattet und kann zur Beschlagnahme des Ger
 
 Landeswährung ist der Córdoba (NIO), USD sind jedoch landesweit ebenfalls als Zahlungsmittel akzeptiert. Manche Preise sind in USD ausgezeichnet. Geld in beiden Währungen kann mit Kreditkarten an Geldautomaten abgehoben werden.  
 EUR werden nicht akzeptiert, ihr Umtausch ist bei einzelnen Banken mit deutlichen Kursverlusten verbunden.  
-Kreditkarten (Visa und Mastercard) werden in den meisten Hotels, Supermärkten und Restaurants akzeptiert. EC-Karten können nicht verwendet werden.
+Kreditkarten (Visa und Mastercard) werden in den meisten Hotels, Supermärkten und Restaurants akzeptiert. Debitkarten können nicht verwendet werden.
 
 * Nehmen Sie für Reisen ins Landesinnere abseits der großen Städte Bargeld mit, da nicht immer Geldautomaten zur Verfügung stehen.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -136,11 +135,13 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente müssen bei Einreise noch mindestens sechs Monate gültig sein.
 
+Bei der Einreise verlangen einige Fluggesellschaften gelegentlich die Vorabregistrierung auf der Webseite des nicaraguanischen Innenministeriums. Diese Registrierung ist nicht zwingend erforderlich, dennoch bestehen einige Fluggesellschaften darauf.
+
 ### Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt zu touristischen Zwecken von bis zu 90 Tagen kein Visum.
 
-Bei der Einreise wird jedoch der Erwerb einer Touristenkarte verlangt. Diese kostet derzeit 10 USD, zuzüglich einer Einreisegebühr von 2 USD. Bei der Ausreise wird die Gebühr von 2 USD ebenfalls verlangt. Bei Flugreisen ist die Einreisegebühr in der Regel bereits im Preis des Flugtickets enthalten. Die Touristenkarte weist eine Gültigkeit von 30 Tagen auf, der Aufenthalt ist dennoch bis zu 90 Tage gestattet. Der tatsächliche Nachweis wird über die Stempel im Pass geführt.
+Bei der Einreise wird jedoch der Erwerb einer Touristenkarte verlangt. Diese kostet derzeit am Flughafen Managua 10 USD, an allen anderen Grenzübergängen, z.B. der Grenze nach Costa Rica Peñas Blancas 13 USD. Bei Ausreise ist eine weitere Gebühr in Höhe von 3 USD fällig (außer Ausreise über Flughafen Managua). Alle Gebühren können nur in bar gezahlt werden. Die Touristenkarte weist eine Gültigkeit von 30 Tagen auf, der Aufenthalt ist dennoch bis zu 90 Tage gestattet. Der tatsächliche Nachweis wird über die Stempel im Pass geführt.
 
 Die maximale visafreie Aufenthaltsdauer beträgt drei Monate. Eine Verlängerung kann bei der nicaraguanischen Einwanderungsbehörde (Migración) beantragt werden. Die bei Antragstellung vorzulegenden Unterlagen hängen vom Einzelfall ab. Bei Überziehung des Aufenthaltes fällt eine von der Dauer abhängige Geldbuße in erheblicher Höhe an.
 
@@ -165,14 +166,13 @@ Die Ein- und Ausfuhr und die Verwendung elektronischer Nikotinabgabesysteme, ele
 
 ### Heimtiere
 
-Für die Einfuhr von Heimtieren nach Nicaragua sind ein Gesundheitszeugnis eines im Herkunftsland registrierten Tierarztes erforderlich, dass das Tier keine ansteckenden Krankheiten hat und generell gesund ist sowie ein Impfzeugnis über eine Tollwutimpfung, die mindestens 25 Tage vor Einfuhr verabreicht wurde sowie ein Staupeimpfung.  
-Alle Unterlagen müssen in spanischer Sprache vorliegen.
+Für die Einfuhr von Heimtieren nach Nicaragua sind ein Gesundheitszeugnis eines im Herkunftsland registrierten Tierarztes erforderlich, dass das Tier keine ansteckenden Krankheiten hat und generell gesund ist sowie ein Impfzeugnis über eine Tollwutimpfung, die mindestens 25 Tage vor Einfuhr verabreicht wurde sowie ein Staupeimpfung. Bei Einreise auf dem Luftweg sollte vorab Kontakt mit der Fluggesellschaft aufgenommen werden, um sicherzustellen, ob eine Mitnahme grundsätzlich möglich ist. Alle Unterlagen müssen in spanischer Sprache vorliegen.
 
 ## Gesundheit
 
 ### *Aktuelles*
 
-Im Vergleich zu den Vorjahren werden im Jahr 2023 deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
+Im Vergleich zu den Vorjahren werden aktuell deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
 
 * Schützen Sie sich insbesondere tagsüber konsequent vor Mückenstichen. Lassen Sie sich bezüglich einer Impfung ärztlich beraten.
 * Beachten Sie die weiterführenden Informationen zu *Dengue-Fieber*, s. unten.
@@ -229,7 +229,7 @@ Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine C
 
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
 
-* Verwenden Sie stets Kondome.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 
 ### Durchfallerkrankungen
 
@@ -251,7 +251,7 @@ In Nicaragua kann durch Ausscheidungen von Raubwanzen, die in Ritzen einfacher B
 
 ### Tollwut
 
-Bei der Tollwut handelt es sich um eine tödlich verlaufende Infektionskrankheit, die durch Viren verursacht wird, welche mit dem Speichel infizierter Tiere oder Menschen übertragen werden.
+Bei der Tollwut handelt es sich um eine tödlich verlaufende Infektionskrankheit, die durch Viren verursacht wird, welche mit dem Speichel infizierter Tiere oder Menschen übertragen werden, siehe auch [Tollwut.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut")
 
 * Vermeiden Sie den Kontakt mit Tieren.
 * Lassen Sie sich hinsichtlich einer Tollwut-Impfung beraten und impfen. Die Impfserie sollte unbedingt vor Reiseantritt abgeschlossen sein.
@@ -286,9 +286,7 @@ Die Kosten für eine medizinische Behandlung sowie Medikamente müssen in der Re
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
