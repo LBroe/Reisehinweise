@@ -224,6 +224,12 @@ Dengue-Viren werden ganzjährig, insbesondere jedoch während der Regenzeit, dur
 * Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
 * Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
 
+### Oropouche-Fieber
+
+Oropouche-Fieber ist eine durch das gleichnamige Virus ausgelöste Infektionskrankheit, die ähnlich wie Dengue-Fieber mit plötzlichen Fieberanstieg, starken Kopfschmerzen, Übelkeit und Erbrechen, Gelenk- und Gliederschmerzen und selten einer Hirnhautentzündung verläuft. Die Erkrankung wird vorwiegend nachts über Stechgnitzen sowie Stechmücken übertragen. Eine Therapie oder Impfung existiert nicht.
+
+* Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen einer Expositionsprophylaxe insbesondere abends und nachts konsequent vor Mückenstichen.
+
 ### Chikungunya-Fieber
 
 Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen. Bislang werden, ausgehend von der Antillen-Insel St. Martin, nur importierte Fälle von Chikungunya-Virusinfektionen in Kuba gemeldet. Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu langanhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe auch [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
