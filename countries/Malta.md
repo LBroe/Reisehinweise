@@ -14,9 +14,9 @@ Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist niedrig. Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen vor, vereinzelt gibt es auch gewaltsame und sexuelle Übergriffe.  
-Diebstähle haben insbesondere in Paceville sowie in den öffentlichen Bussen auf den Routen Paceville - St. Julians - Sliema – Valletta und zum Flughafen zugenommen.  
-In von Reisenden frequentierten Bars werden manchmal K.-o.-Tropfen in Getränke gemischt.
+Im Vergleich der EU-Mitgliedsstaaten ist Malta relativ stark von organisierter Kriminalität im Bereich der Diebstahls- und Einbruchsdelikte betroffen. Örtliche Behörden warnen ausdrücklich vor organisierten Verbrecherbanden in touristisch geprägten Gebieten Betrugsdelikte und Taschendiebstähle häufen sich insbesondere in den von Touristen viel frequentierten Vierteln wie Paceville sowie in den öffentlichen Bussen auf den Routen Paceville - St. Julians - Sliema - Valletta und der Strecke zum Flughafen.
+
+In von Urlaubern frequentierten Bars besteht die Gefahr, dass K.-o.-Tropfen in Getränke gemischt werden; es kommt vereinzelt zu gewaltsamen und sexuellen Übergriffen.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -38,9 +38,7 @@ Es herrscht Mittelmeerklima. Insbesondere von August bis November kann es verein
 ### Infrastruktur/Verkehr
 
 In Malta herrscht Linksverkehr. Scheinwerfer müssen ggf. entsprechend dem Linksverkehr eingestellt oder mit Aufklebern versehen sein.  
-Die Straßenbeleuchtung ist zum Teil schlecht, Strecken können sehr eng sein, während das Verkehrsaufkommen hoch ist.
-
-Bei Rückgabe von Mietwagen wurden des Öfteren Schäden von Vormietern in Rechnung gestellt.
+Die Sichtverhältnisse, insbesondere bei tief stehender Sonne, können herausfordernd sein; der stetige Wechsel von hellem Licht und teilweise völliger Dunkelheit (beim Durchfahren einer Unterführung/eines längeren Tunnels) ist herausfordernd und birgt ein hohes Unfallrisiko. Das geltende Alkoholverbot wird nicht immer eingehalten, insbesondere am Abend und auf Landstraßen. Die Straßenbeleuchtung ist zum Teil schlecht. Strecken können sehr eng sein, während das Verkehrsaufkommen hoch ist. Bei Mietwagenrückgabe wurden des Öfteren Schäden von Vormietern in Rechnung gestellt.
 
 * Fahren Sie bei Dunkelheit besonders vorsichtig.
 * Klären Sie bei Buchung eines Mietwagens mit Versicherungsschutz im Voraus, ob der Abschluss einer zusätzlichen Versicherung oder die Hinterlegung einer Kaution verlangt wird.
@@ -48,7 +46,7 @@ Bei Rückgabe von Mietwagen wurden des Öfteren Schäden von Vormietern in Rechn
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -68,8 +66,7 @@ Zahlungsmittel ist der Euro (EUR). Debitkarten (Girocard) mit Maestro- oder V-Pa
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -151,7 +148,7 @@ Starke Sonnen- und UV-Strahlung insbesondere im Sommer und dadurch ebenfalls erh
 
 ### Medizinische Versorgung
 
-Das staatliche Gesundheitssystem funktioniert gut, zentrales Krankenhaus der Maximalversorgung ist das Mater Dei Hospital, das jedoch nicht deutschem Standard entspricht. Über die Insel verteilt gibt es kleine Polikliniken und vereinzelt private Krankenhäuser (z.B. Saint James Hospital). Die EU-Krankenversicherungskarte wird nur von den staatlichen Polikliniken und dem Krankenhaus Mater Dei akzeptiert. In allen Praxen und Kliniken müssen die Kosten vorgestreckt werden.
+Das staatliche Gesundheitssystem funktioniert gut, zentrales Krankenhaus der Maximalversorgung ist das Mater Dei Hospital, das jedoch nicht deutschem Standard entspricht. Über die Insel verteilt gibt es kleine Polikliniken und vereinzelt private Krankenhäuser (z.B. Saint James Hospital). Die EU-Krankenversicherungskarte wird nur von den staatlichen Polikliniken und dem Krankenhaus Mater Dei akzeptiert. In allen anderen Praxen und Kliniken müssen die Kosten vorgestreckt werden.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")

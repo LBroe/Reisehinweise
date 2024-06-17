@@ -60,7 +60,7 @@ Es sind im Fahrzeug ein Feuerlöscher und zwei Warndreiecke mitzuführen.
 Bei einem Unfall mit Personenschaden muss die Polizei zum Unfallort gerufen werden.  
 Geldstrafen bei Verkehrsverstößen sind sofort zu entrichten, eine Quittung muss ausgestellt werden. Auch kleinere Verkehrsverstöße können schnell zu einem [Führerscheinentzug](https://rumaenien.diplo.de/ro-de/service/-/2012860) und zur Verhängung eines nur für Rumänien geltenden Fahrverbotes führen.
 
-Taxis haben Preisaufkleber und sind verpflichtet, einen Taximeter zu benutzen. Kleinere Geldscheine sind empfehlenswert, da Taxifahrer häufig nicht wechseln können.  
+Taxis haben Preisaufkleber und sind verpflichtet, ein Taximeter zu benutzen. Kleinere Geldscheine sind empfehlenswert, da Taxifahrer häufig nicht wechseln können.  
 Am Flughafen Otopeni können Taxis über ein automatisiertes Terminal gerufen werden.
 
 ### Führerschein
@@ -127,7 +127,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt.
 
 Die Einfuhr von Devisen ist zwar in unbegrenzter Höhe möglich, jedoch besteht bei Ein- und Ausreise ab 10.000 EUR Meldepflicht. Diese Summe kann sich kurzfristig ändern.
 
-Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz keiner Warenkontrollen schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus.
+Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Stichprobenartige (Waren-)Kontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs sind dadurch nicht ausgeschlossen.
 
 Jagd- und Schusswaffen (zur Nutzung als Sportwaffen) sowie die dazugehörige Munition müssen beim Grenzübertritt deklariert werden. Dies gilt auch für Gaspistolen, die in Deutschland von Volljährigen genehmigungsfrei erworben und mitgeführt werden können. Die Einfuhr aller anderen Waffen und von Munition ist verboten. Die Nichtbeachtung wird strafrechtlich verfolgt.
 

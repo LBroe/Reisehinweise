@@ -38,11 +38,15 @@ Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz
 
 ### Innenpolitische Lage
 
-Am 2. Juni 2024 fanden in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten statt. In diesem Zusammenhang kann es nach den Wahlen zu Demonstrationen und Menschenansammlungen sowie Reiseverzögerungen kommen.
+Am 2. Juni 2024 fanden in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten statt. Claudia Sheinbaum wurde mit großer Mehrheit zur Staatspräsidentin gewählt. Planmäßig werden das neue Parlament am 1. September 2024 und die neue Präsidentin am 1. Oktober 2024 ihre Arbeit aufnehmen. Demonstrationen können nicht ausgeschlossen werden.
+
+Die größte Gefahr für die innere Sicherheit des Landes geht vom organisierten Verbrechen aus.
+
+Mexiko ist Transitland und zunehmend auch Empfängerland für eine wachsende Anzahl von Flüchtlingen und Migrantinnen und Migranten, die aus zentralamerikanischen Ländern in die USA gelangen wollen.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Verfolgen Sie die lokale Medienberichterstattung
+* Verfolgen Sie die lokale Medienberichterstattung.
 
 ### Kriminalität
 
@@ -83,7 +87,7 @@ Geldautomaten können manipuliert sein, um Daten zu kopieren, auch Kreditkartenm
 * Seien Sie an Geldautomaten vorsichtig, nutzen Sie Automaten vorzugsweise tagsüber und innerhalb gesicherter Gebäude (Malls) und achten Sie auf mögliche Manipulationen. Lassen Sie Ihre Kreditkarte beim Bezahlen nicht aus den Augen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Kontaktaufnahmen und Hilfsersuchen angeblicher Bekannter skeptisch, insbesondere bei angeblichen Entführungen von Angehörigen. Bewahren Sie Ruhe, teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei (sogenannte „virtuelle Entführung“).
 * Wenn Sie am Telefon bedroht werden, legen Sie sofort auf.
-* Seien Sie misstrauisch, wenn Ihnen vermeintlich verlockende Investitionsmöglichkeiten in Mexiko angetragen werden und halten Sie im Zweifelsfall Rücksprache mit einem [Anwalt](https://mexiko.diplo.de/blob/879368/5741a44894d46df2060c5891fbe82ac4/rechtsanwaelteliste-ddatei-data.pdf) und mexikanischen Behörden, z.B. der [mexikanischen Verbraucherschutzbehörde](https://www.gob.mx/profeco) (Procuraduría Federal del Consumidor, „PROFECO“).
+* Seien Sie misstrauisch, wenn Ihnen vermeintlich verlockende Investitionsmöglichkeiten in Mexiko angetragen werden und halten Sie im Zweifelsfall Rücksprache mit einem [Anwalt](https://mexiko.diplo.de/mx-de/service/-/2651842) und mexikanischen Behörden, z.B. der [mexikanischen Verbraucherschutzbehörde](https://www.gob.mx/profeco) (Procuraduría Federal del Consumidor, „PROFECO“).
 * Der Deutschen Botschaft Mexiko-Stadt liegen Berichte vor, wonach uniformierte Sicherheitskräfte, auch Polizisten, hohe Bußgelder verlangen oder mit Festnahme drohen. Bleiben Sie bei unklarer Rechtslage kritisch und nehmen Sie im Zweifel Kontakt zum mexikanischen Notruf 911 (auch Englisch) bzw. dem [Bereitschaftsdienst](https://mexiko.diplo.de/mx-de/service/-/1050806) der Botschaft auf. Leisten Sie keine Zahlungen, wenn Sie die vorgeworfene Tat nicht begangen haben, das geforderte Bußgeld unangemessen hoch erscheint oder wenn Ihnen keine Quittung/kein Protokoll ausgestellt werden kann. Notieren Sie sich die Personalien, Dienstnummern bzw. Kfz.-Kennzeichen der kontrollierenden Sicherheitskräfte.
 
 ## Natur und Klima
@@ -226,41 +230,43 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen sich in gutem Zustand befinden und im Zeitpunkt der Einreise noch mindestens für die Dauer des beabsichtigten Aufenthalts gültig sein.  
-Beschädigte Reisedokumente (z.B. ausgefranster Außeneinband, gelockerte Bindung der Seiten) können zur Einreiseverweigerung führen.
+Reisedokumente müssen sich in gutem Zustand befinden und im Zeitpunkt der Einreise noch mindestens für sechs Monate gültig sein.  
+Beschädigte Reisedokumente (z.B. ausgefranster Außeneinband, gelockerte Bindung der Seiten) können zur Einreiseverweigerung führen.  
 
 Ein deutscher Reisepass, der bei einer Passbehörde gestohlen gemeldet, aber später wiedergefunden wurde, sollte nicht mehr benutzt werden, da die Ausschreibung in der internationalen Sachfahndung nicht rückgängig gemacht werden kann. Dies kann bei der Weiterreise zu Schwierigkeiten führen.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise bei touristischen Aufenthalten kein Visum. Touristen dürfen keine weiteren Tätigkeiten ausüben. Es ist nicht möglich, nach Einreise einen Aufenthaltstitel für einen anderen Aufenthaltszweck (z.B. Erwerbstätigkeit) zu beantragen.
+Deutsche Staatsangehörige benötigen für die Einreise kein Visum, wenn der Reisezweck ein Urlaub, eine Durchreise oder geschäftlicher Natur ist, sofern der Aufenthalt nicht länger als 180 Tage dauert. Touristen dürfen keine bezahlten Tätigkeiten ausüben. Es ist nicht möglich, nach Einreise einen Aufenthaltstitel für einen anderen Aufenthaltszweck (z.B. Erwerbstätigkeit) zu beantragen.
 
-#### Neues Einreiseverfahren
+Nähere, detaillierte Auskünfte hierzu erteilen die [mexikanischen Auslandsvertretungen.](https://embamex.sre.gob.mx/alemania/index.php/de/konsularabteilung/visum)
+
+#### *Einreise auf dem Luftweg*
 
 Alle Reisenden, die auf dem Luftweg einreisen, benötigen keine Touristenkarte (Forma Migratoria Múltiple FMM) mehr.
 
-Eine Einreise über die automatisierte Grenzkontrolle (E-Gates) an den Flughäfen in Cancún und Mexiko-Stadt ist derzeit für deutsche Staatsangehörige nicht mehr möglich.
+Deutsche, volljährige **Touristen** mit biometrischen Pässen, die noch mindestens sechs Monate gültig sind, können bei Einreise über die Flughäfen Cancún und Mexiko-Stadt die automatisierte Grenzkontrolle (E-Gates) nutzen. Sie erhalten automatisch ein Einreiseticket mit Einreisetag und der erlaubten Aufenthaltsdauer.
 
-Bei allen Reisenden bestimmt der Grenzbeamte die Aufenthaltsdauer in Mexiko und stempelt die gewährte Aufenthaltsdauer sowie den letztmöglichen Aufenthaltstag in den Pass. Einreisende haben keinen Anspruch auf die für Touristen maximal mögliche Aufenthaltsdauer von 180 Tagen.
+Alle anderen Reisenden (Minderjährige, Personen ohne biometrischen Pass, andere Aufenthaltszwecke) müssen persönlich beim Grenzbeamten vorsprechen, der Einreisedatum und gewährte Aufenthaltsdauer in den Pass stempelt.
 
-Reisende mit Aufenthaltserlaubnis für Mexiko müssen diese bei Einreise vorzeigen.
+Einreisende haben keinen Anspruch auf die für Touristen maximal mögliche Aufenthaltsdauer von 180 Tagen. Nach den geltenden mexikanischen Bestimmungen sind die Einwanderungsbehörden in Mexiko befugt, über die Einreise von Ausländern an den Einreisestellen zu entscheiden, auch, wenn diese ein gültiges Visum mit sich führen.
+
+Reisende mit Aufenthaltserlaubnis für Mexiko müssen folgende Unterlagen bei Einreise vorzeigen.
 
 * Legen Sie bei der Einreise Pass, Bordkarte und – sofern vorhanden – Aufenthaltstitel vor. Der Reisezweck muss bei der Einreise schlüssig dargelegt werden, z.B. durch ausgedruckte Einladungsschreiben, Hotelreservierung, Nachweis finanzieller Mittel zur Bestreitung des geplanten Aufenthalts, Rück- oder Weiterflugticket.
 * Machen Sie bereits bei der Einreise konkrete Angaben zur Aufenthaltsdauer, legen Sie entsprechende Nachweise ausgedruckt vor und prüfen und respektieren Sie in jedem Fall die gewährte Aufenthaltsdauer. Mögliche Folgen des Überschreitens der gewährten Aufenthaltsdauer können eine Geldstrafe, die (vorübergehende) Festnahme oder Ausweisung aus Mexiko sein.
 * Nehmen Sie unmittelbar Kontakt zum [Instituto Nacional de Migración](https://www.gob.mx/inm) (INM) auf, falls die gewährte Aufenthaltsdauer auf dem Einreisestempel oder der Touristenkarte nicht eindeutig lesbar ist. Eine spätere Verlängerung auf bis zu 180 Tage kann zwar bei der zuständigen Behörde in Mexiko, dem [INM](https://www.gob.mx/inm), vor Ablauf der gewährten Aufenthaltsdauer beantragt werden. Es besteht jedoch kein Anspruch und ist erfahrungsgemäß nur in eng begrenzten Ausnahmefällen möglich.
 * Zeigen Sie den Verlust Ihres Reisepasses und/oder der Touristenkarte umgehend bei der mexikanischen Polizei an.
 
-#### *Touristenkarte FMM*
+#### *Einreise auf dem Landweg*
 
 Reisende, die auf dem Landweg nach Mexiko einreisen, müssen eine elektronische [Touristenkarte](https://www.inm.gob.mx/fmme/publico/en/solicitud.html) beantragen oder bei einem Büro des Nationalen Migrationsinstituts (INM) eine Einreisegenehmigung einholen, auch wenn sie von den mexikanischen Beamten nicht ausdrücklich dazu aufgefordert werden. Die Touristenkarte ist [online](https://www.inm.gob.mx/fmme/publico/en/solicitud.html) bzw. in bar in MXN gegen Quittung oder bei einer Bankfiliale zahlbar. Die Karte wird bei Grenzübertritt gestempelt und der Gültigkeitszeitraum eingetragen. Die beim Reisenden verbleibende Ausfertigung der Touristenkarte muss stets mitgeführt und bei der Ausreise aus Mexiko vorgelegt werden.
-
-Touristen dürfen keine weiteren Tätigkeiten ausüben. Es ist nicht möglich nach Einreise, beispielsweise als Tourist, einen Aufenthaltstitel für einen anderen Aufenthaltszweck (z.B. Erwerbstätigkeit) zu beantragen.
 
 #### *Visum vor der Einreise*
 
 Sofern ein längerer Aufenthalt bzw. Erwerbstätigkeit, Freiwilligendienst, Humanitäre Hilfe oder Menschenrechtstätigkeit in Mexiko beabsichtigt ist, sollte vor Reiseantritt die [mexikanische Botschaft](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/mexiko-node/vertretungenmexiko/213656) in Berlin oder das [mexikanische Generalkonsulat](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/mexiko-node/vertretungenmexiko/213656?openAccordionId=item-213702-1-panel) in Frankfurt (Main) hinsichtlich der Visavoraussetzungen kontaktiert werden.
 
-Working-Holiday“ ist in Mexiko visumsfrei nicht gestattet. Bei einem Praktikum in einem Hotel- oder Gastronomiebetrieb wird bereits die Annahme von Trinkgeldern als Einkommen/Erwerbstätigkeit interpretiert und kann ohne entsprechende Genehmigung zu Festnahme und Ausweisung führen.
+"Working-Holiday“ ist in Mexiko visumsfrei nicht gestattet. Bei einem Praktikum in einem Hotel- oder Gastronomiebetrieb wird bereits die Annahme von Trinkgeldern als Einkommen/Erwerbstätigkeit interpretiert und kann ohne entsprechende Genehmigung zu Festnahme und Ausweisung führen.
 
 Nähere, detaillierte Auskünfte hierzu erteilen die mexikanischen Auslandsvertretungen und das [Instituto Nacional de Migración](https://www.gob.mx/inm).
 
@@ -308,7 +314,7 @@ Zusätzliche Auskünfte finden Sie auch beim [mexikanischen Zoll](https://anam.g
 
 ### *Aktuelles*
 
-Im Vergleich zu den Vorjahren werden im Jahr 2023 deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
+Im Vergleich zu den Vorjahren werden aktuell deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
 
 * Schützen Sie sich insbesondere tagsüber konsequent vor Mückenstichen. Lassen Sie sich bezüglich einer Impfung ärztlich beraten.
 * Beachten Sie die weiterführenden Informationen zu *Dengue-Fieber*, s. unten.
@@ -417,9 +423,7 @@ Private Krankenhäuser und Ärzte verlangen in aller Regel Vorkasse.
 * Schließen Sie unbedingt für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab, führen Sie den Nachweis ständig mit und achten Sie auf einen ausreichenden Kreditrahmen Ihrer Kreditkarte für notwendige Vorauszahlungen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem [generellen Haftungsausschluss](https://diplo.de/-/2519600):**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
