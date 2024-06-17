@@ -82,7 +82,7 @@ Internet und Mobilfunknetz decken nicht alle Landesteile flächendeckend ab, ins
 
 ### Führerschein
 
-Für deutsche Kurzzeittouristen (Visum der Kategorie T) in Kambodscha ist gemäß der Auskunft der zuständigen kambodschanischen Behörden der Internationale Führerschein, der auf Grundlage des Genfer Abkommens über den Straßenverkehr von 1949 ausgestellt wird, ausreichend. Internationale Führerscheine, die gemäß Pariser Abkommen über Kraftfahrzeugverkehr von 1926 oder dem Wiener Übereinkommen über den Straßenverkehr von 1968 ausgestellt werden, werden nicht akzeptiert. Nur die im deutschen Führerschein erlaubten Fahrzeugklassen dürfen in Kambodscha gefahren werden. Die kambodschanischen Verkehrsregeln sind zu beachten.
+Für deutsche Kurzzeittouristen (Visum der Kategorie T) in Kambodscha ist gemäß der Auskunft der zuständigen kambodschanischen Behörden der internationale Führerschein, der auf Grundlage des Genfer Abkommens über den Straßenverkehr von 1949 ausgestellt wird, ausreichend. Internationale Führerscheine, die gemäß Pariser Abkommen über Kraftfahrzeugverkehr von 1926 oder dem Wiener Übereinkommen über den Straßenverkehr von 1968 ausgestellt werden, werden nicht akzeptiert. Nur die im deutschen Führerschein erlaubten Fahrzeugklassen dürfen in Kambodscha gefahren werden. Die kambodschanischen Verkehrsregeln sind zu beachten.
 
 Ab einer längeren Aufenthaltsdauer muss ein kambodschanischer Führerschein beantragt werden.
 
@@ -95,7 +95,7 @@ Das Land ist für den Tourismus offen; insbesondere der Kulturtourismus ist will
 
 ### LGBTIQ
 
-Homosexualität ist weder verboten noch strafbar. In der kambodschanischen Gesellschaft, vor allem in der Hauptstadt Phnom Penh und unter der jungen Bevölkerung, ist eine zunehmende, wenn auch verdeckte Akzeptanz festzustellen.
+Homosexuelle Handlungen sind weder verboten noch strafbar. In der kambodschanischen Gesellschaft, vor allem in der Hauptstadt Phnom Penh und unter der jungen Bevölkerung, ist eine zunehmende, wenn auch verdeckte Akzeptanz festzustellen.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -103,7 +103,7 @@ Homosexualität ist weder verboten noch strafbar. In der kambodschanischen Gesel
 
 Vor dem Erwerb, dem Besitz, der Verteilung sowie der Ein- und Ausfuhr von Rauschgiften aller Art wird gewarnt. Auch die Mitnahme bzw. der Transport von Gegenständen für Dritte ohne Kenntnis des Inhalts kann verhängnisvolle Folgen haben.
 
-Die Verwendung von Drohnen ist in Phnom Penh, Angkor Wat und anderen historischen Tempelanlagen ist verboten. Für einige Gebiete kann eine Genehmigung erworben werden. Die Regelung gilt besonders in der Umgebung von administrativen oder militärischen Gebäuden, sowie in Flughafennähe. Verstöße wurden in den letzten Jahren mit einer hohen Geldbuße bis hin zu mehrjährigen Haftstrafen unter dem Vorwurf von Spionage geahndet.
+Die Verwendung von Drohnen ist in Phnom Penh, Angkor Wat und anderen historischen Tempelanlagen verboten. Für einige Gebiete kann eine Genehmigung erworben werden. Die Regelung gilt besonders in der Umgebung administrativer oder militärischer Gebäude sowie in Flughafennähe. Verstöße wurden in den letzten Jahren mit einer hohen Geldbuße bis hin zu mehrjährigen Haftstrafen unter dem Vorwurf der Spionage geahndet.
 
 Die Entwendung von Kulturgütern, dazu gehören auch beschädigte Teile von Tempeln und Statuen, ist streng verboten und wird mit drastischen Geld- oder Haftstrafen belegt.
 
@@ -111,7 +111,7 @@ Der sexuelle Missbrauch von Minderjährigen wird in Kambodscha hart bestraft und
 
 Oft kann nicht mit einem Verfahren gerechnet werden, das einem rechtsstaatlichen Standard genügt (sehr lange Untersuchungshaft, teure und unzureichende anwaltliche Verteidigung, harte Haftbedingungen mit schwersten Gefahren und Schäden für die Gesundheit).
 
-Kambodscha ist eine konstitutionelle Monarchie. Das Königshaus genießt besonderen Respekt. Abfällige oder kritische Bemerkungen – auch in sozialen Medien – können als Majestätsbeleidigung aufgefasst werden. Dies steht seit Anfang 2018 unter Strafe. Verstöße werden mit einer ein- bis fünfjährigen Haftstrafe und Geldbußen zwischen 500 und 2500 USD geahndet. Ab wann von einer Beleidigung der Majestät gesprochen werden kann, hängt dabei von der Gesetzesauslegung des jeweiligen Richters ab. Reisende sollten sich daher nur zurückhaltend über die Königsfamilie äußern.
+Kambodscha ist eine konstitutionelle Monarchie. Das Königshaus genießt besonderen Respekt. Abfällige oder kritische Bemerkungen – auch in den sozialen Medien – können als Majestätsbeleidigung aufgefasst werden. Dies steht seit Anfang 2018 unter Strafe. Verstöße werden mit einer ein- bis fünfjährigen Haftstrafe und Geldbußen zwischen 500 und 2500 USD geahndet. Ab wann von einer Beleidigung der Majestät gesprochen werden kann, hängt dabei von der Gesetzesauslegung des jeweiligen Richters ab. Reisende sollten sich daher nur zurückhaltend über die Königsfamilie äußern.
 
 * Erwerben, verteilen und führen Sie keine Drogen ein oder aus und respektieren Sie Verbote der Benutzung.
 * Transportieren Sie keine Gegenstände, deren Inhalt Sie nicht kennen.
@@ -163,8 +163,7 @@ Bei der auf einem vor der Einreise eingeholten Visum angegebenen Gültigkeitsdau
 
 #### *Online-Visum (E-Visa)*
 
-E-Visa können wieder beantragt werden.  
-Das Visum der Kategorie T (Tourismus) sowie der Kategorie E (Geschäftsreise) kann online als [E-Visa](https://www.evisa.gov.kh/) beantragt werden. Es ist jedoch lediglich an einer begrenzten Anzahl von Grenzübergängen nutzbar. Der Antrag sollte mindestens zwei Wochen vor dem geplanten Reiseantritt gestellt werden, die Zahlung der Visumgebühr ist mit Bank- oder Kreditkarte, Paypal oder Überweisung möglich.
+Das Visum der Kategorie T (Tourismus) sowie der Kategorie E (Geschäftsreise) kann online als [E-Visa](https://www.evisa.gov.kh/) beantragt werden. Es ist jedoch lediglich an einer begrenzten Anzahl von Grenzübergängen nutzbar. Der Antrag sollte mindestens zwei Wochen vor dem geplanten Reiseantritt gestellt werden, die Zahlung der Visumgebühr ist mit Debit- (Girocard) oder Kreditkarte, Paypal oder Überweisung möglich.
 
 #### *Visum bei Einreise (Visa on arrival)*
 
@@ -175,7 +174,7 @@ Bei Einreise ist ein Ein-/Ausreiseformular zu nutzen, das gleichzeitig als Antra
 
 Vor Ablauf der 30-tägigen Frist kann ein Visum der Kategorien T und E bei der gegenüber dem Flughafen Phnom Penh gelegenen Einwanderungsbehörde des Innenministeriums verlängert werden. Visa der Kategorie T werden einmalig um weitere 30 Tage verlängert (bei einmaliger Ein- und Ausreise). Visa der Kategorie E können um bis zu 12 Monaten verlängert werden, wobei nach der Verlängerung eine mehrfache Ein- und Ausreise möglich ist. Bei Beantragung einer Verlängerung ist der Aufenthaltszweck anzugeben und zu belegen. Die Umschreibung eines Visums der Kategorie E in ein Visum der Kategorien B oder C (Daueraufenthalt) ist vor Ort nicht bzw. nur in Ausnahmefällen möglich.
 
-Bei Überziehung des zulässigen Aufenthalts wird eine „Overstay-Gebühr“ in Höhe von 10 USD pro Tag fällig, zusätzlich müssen Touristen ein kostenpflichtiges Exit-Visum beantragen, welches maximal für sieben Tage ausgestellt wird.
+Bei Überziehung des zulässigen Aufenthalts wird eine „Overstay"-Gebühr in Höhe von 10 USD pro Tag fällig, zusätzlich müssen Touristen ein kostenpflichtiges Exit-Visum beantragen, welches maximal für sieben Tage ausgestellt wird.
 
 Sollte der deutsche Pass mit dem kambodschanischen Visum verloren gehen oder gestohlen werden, ist neben dem deutschen Reisedokument ein kambodschanisches Exit-Visum zu beantragen. Das kambodschanische Exit-Visum ist maximal sieben Tage gültig, auch wenn das ursprüngliche Visum länger gültig gewesen wäre.
 
@@ -330,9 +329,7 @@ Besonders chronisch kranke und behandlungsbedürftige Menschen müssen sich des 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
