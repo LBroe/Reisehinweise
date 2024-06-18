@@ -74,9 +74,10 @@ Starkregenfälle können in der Regenzeit von Mai bis Oktober innerhalb kurzer Z
 
 Im Meer gibt es gefährliche Unterwasserströmungen, die bis dicht an den Strand heranreichen, sodass es zu häufigen folgenreichen Unfällen kommt. Rettungsschwimmer oder Rettungsboote gibt es normalerweise nicht. Wie vor allen Küstengewässern Amerikas besteht ferner die Möglichkeit, dass sich Haie in die Nähe der Küsten verirren.
 
+* Bitte informieren Sie sich über die [Webseite](https://www.ambiente.gob.sv/) und den [Social-Media-Kanal](https://x.com/MedioAmbienteSV) des salvadorianischen Umweltministeriums auf X, um rechtzeitig über Unwetter/Überschwemmungen, Schlechtwetterlagen informiert zu werden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden wie der [Direccion General de Proteccion Civil](http://proteccioncivil.gob.sv/).
 * Beachten Sie die [Wettervorhersagen für El Salvador](http://www.snet.gob.sv/) und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden wie der [Direccion General de Proteccion Civil](http://proteccioncivil.gob.sv/).
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Seien Sie beim Baden im Meer besonders vorsichtig und entfernen Sie sich nicht weit von der Küste.
 
@@ -192,7 +193,7 @@ Einen Musterausweis sowie weitergehende Informationen bietet das Bundesministeri
 
 ### *Aktuelles*
 
-Im Vergleich zu den Vorjahren werden im Jahr 2023 deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
+Im Vergleich zu den Vorjahren werden aktuell deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
 
 * Schützen Sie sich insbesondere tagsüber konsequent vor Mückenstichen. Lassen Sie sich bezüglich einer Impfung ärztlich beraten.
 * Beachten Sie die weiterführenden Informationen zu *Dengue-Fieber*, siehe unten.
