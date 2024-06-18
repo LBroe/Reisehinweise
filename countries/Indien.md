@@ -33,7 +33,7 @@ Im Unionsterritorium Jammu und Kaschmir wurden in den vergangenen Jahrzehnten un
 
 Siehe *Aktuelles*
 
-Im Unionsterritorium Jammu und Kaschmir kann es neben terroristischen Gewalttaten auch zu unvorhersehbaren Auseinandersetzungen zwischen Demonstranten und der Polizei bzw. der Armee kommen. Es können Auseinandersetzungen zwischen indischen und pakistanischen Truppen wie auch mit verschiedenen Separatistengruppen entlang der internationalen Grenze und der Waffenstillstandslinie (LoC) stattfinden.
+Im Unionsterritorium Jammu und Kaschmir kann es neben terroristischen Gewalttaten auch zu unvorhersehbaren Auseinandersetzungen zwischen Demonstranten und der Polizei bzw. der Armee kommen. Es können Auseinandersetzungen zwischen indischen und pakistanischen Truppen wie auch mit verschiedenen Separatistengruppen entlang der internationalen Grenze und der Waffenstillstandslinie (Line of Control) stattfinden.
 
 Im Landesteil Jammu ist die Sicherheitslage zwar grundsätzlich stabil, allerdings sind unvorhersehbare gewaltsame Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften auch dort möglich.
 
@@ -172,6 +172,8 @@ Auch der illegale Aufenthalt in Indien – ohne gültigen Pass und/oder Aufentha
 
 Der Besitz und die Nutzung von Satellitentelefonen ohne behördliche Genehmigung sind in Indien verboten und werden ebenfalls strafrechtlich geahndet. Darunter können auch Outdoor-Navigationsgeräte fallen, die sich mit Satellitentelefon-Netzwerken (z.B. Iridium®) verbinden können.
 
+Ebenso ist der Transport von GPS-Trackern aller Art auf dem Luftweg in Indien sowohl im Handgepäck als auch im aufgegebenen Gepäck verboten.
+
 ### Geld/Kreditkarten
 
 Landeswährung ist die Rupie (INR). Debit- (Girocard) und Kreditkarten werden von den meisten größeren Banken und in gehobenen Hotels, Restaurants und Einkaufszentren akzeptiert. Kreditkarten können Problemen der Bargeldversorgung insbesondere in ländlichen Bereichen entgegenwirken.
@@ -198,7 +200,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Deutsche Staatsangehörige benötigen für die Einreise nach Indien ein Visum.
 
-Das Visum muss vor der Einreise bei einer [indischen Auslandsvertretung](https://indianembassyberlin.gov.in/pages?id=eyJpdiI6IlBoYm5jdzJcL0NNck41T1Fsb1FiU1hRPT0iLCJ2YWx1ZSI6IjBOQ2dScVViRytybEJzUitGbDFTZXc9PSIsIm1hYyI6ImRjODU0NTI1MmIwNDk3ZWY3OTY2ODljZjY5YjJhZWQ0OWE5YzI0NDI5OTZiZmQzYzQ3ZDRjYmEyNWRjZjNkYTQifQ==&subid=eyJpdiI6IjBSczlTVU1ESmRoUnAzUFMrVVhZUXc9PSIsInZhbHVlIjoidXRzMXV6Z2VnV2IzTEJJaDFoV1RNUT09IiwibWFjIjoiMWQxYzc1YTMxMjlkZGZhMzA2MzJmYWE0N2FkNzYzY2I4OThjM2ZmYzlmZTBhYWFmNGI5NzM1ZWEyYjY0MTc5OCJ9) oder als [E-Visum](https://indianvisaonline.gov.in/evisa/tvoa.html) beantragt werden. Die Möglichkeit der Erteilung eines E-Visums ist jedoch für vorläufige Reisepässe ausgeschlossen.
+Das Visum muss vor der Einreise bei einer [indischen Auslandsvertretung](https://indianembassyberlin.gov.in/) oder als [E-Visum](https://indianvisaonline.gov.in/evisa/tvoa.html) beantragt werden. Die Möglichkeit der Erteilung eines E-Visums ist jedoch für vorläufige Reisepässe ausgeschlossen.
 
 Es gibt keine Erteilung von Visa bei Einreise (on arrival).
 
@@ -258,7 +260,7 @@ Die Einfuhr pornografischen Materials ist verboten.
 
 Die Ausfuhr geschützter Tierhäute und Pflanzen ist verboten.
 
-Der Besitz und die Nutzung von Satellitentelefonen ohne behördliche Genehmigung sind in Indien verboten und werden ebenfalls strafrechtlich geahndet, siehe auch *Reiseinfos – Rechtliche Besonderheiten.*
+Der Besitz und die Nutzung von Satellitentelefonen ohne behördliche Genehmigung und der Transport von GPS-Trackern auf dem Luftweg sind in Indien verboten und werden ebenfalls strafrechtlich geahndet, siehe auch *Reiseinfos – Rechtliche Besonderheiten.*
 
 ## Gesundheit
 
@@ -407,9 +409,7 @@ Informationen zur medizinischen Versorgung vor Ort bieten die [deutschen Vertret
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen. Patienten mit psychischen Erkrankungen wird geraten, ihre Medikamente vor und während einer Indienreise nicht abzusetzen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
