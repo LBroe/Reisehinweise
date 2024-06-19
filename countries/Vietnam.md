@@ -8,30 +8,38 @@
 
 ### Innenpolitische Lage
 
-Demonstrationen in der Öffentlichkeit sind verboten und wurden in der Vergangenheit von Sicherheitskräften aufgelöst. Die Teilnahme kann zu harten Strafen wie langen Haftstrafen führen.
+Demonstrationen in der Öffentlichkeit sind verboten und wurden in der Vergangenheit von den Sicherheitskräften aufgelöst. Die Teilnahme daran kann zu langer Untersuchungshaft und Verurteilung zu einer langen Freiheitsstrafe, unter harten Haftbedingungen führen, siehe Reiseinfos – *Rechtliche Besonderheiten, letzter Absatz*. Regierungskritische Posts in den sozialen Medien – auch wenn diese aus Deutschland heraus getätigt wurden - werden häufig strafrechtlich verfolgt.
 
-In den vergangenen Monaten gab es vereinzelte Fälle, in denen deutsche Staatsangehörige mit vietnamesischen Wurzeln vorübergehend an der Ausreise gehindert und polizeilich vernommen wurden. Hintergrund waren kritische Äußerungen über Vietnam/vietnamesische Politik in den Sozialen Medien, z.T. auch aus dem Umfeld der Betroffenen. Eine Information der zuständigen deutschen Auslandsvertretungen durch die vietnamesischen Behörden erfolgte nicht.
-
-Es gibt militärische Sperrgebiete, die nicht immer als solche gekennzeichnet sind, bzw. lediglich Schilder auf Vietnamesisch tragen, sowie das unmittelbare Grenzgebiet, das ebenfalls nicht immer ausreichend gekennzeichnet ist. Dessen Ausdehnung bzw. der Abstand vom tatsächlichen Grenzverlauf wird von den örtlichen Sicherheitsorganen oft willkürlich interpretiert. Bei beabsichtigten Besuchen in Grenznähe müssen gesondert zu beantragende Genehmigungen des Ministeriums für öffentliche Sicherheit mitgeführt werden. Gebiete können auch kurzfristig zu „restricted areas“ erklärt werden.
+In den vergangenen Monaten gab es vereinzelte Fälle, in denen deutsche Staatsangehörige mit vietnamesischen Wurzeln vorübergehend an der Ausreise gehindert und polizeilich vernommen wurden. Hintergrund waren kritische Äußerungen über Vietnam/vietnamesische Politik in den sozialen Medien, z.T. auch aus dem Umfeld der Betroffenen. Eine Information der zuständigen deutschen Auslandsvertretungen durch die vietnamesischen Behörden erfolgte nicht.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Seien Sie sich bewusst, dass in Deutschland getätigte Äußerungen in den Sozialen Medien in Vietnam wahrgenommen werden und aus Anlass von Vietnam-Reisen dort zu Konsequenzen (polizeiliche Verhöre, Ausreiseverweigerung oder –verzögerung) führen können.
-* Respektieren Sie Sperrgebiete bzw. beantragen Sie entsprechende Genehmigungen. Erkundigen Sie sich ggf. vor Reiseantritt abseits der Hauptstrecken bei den örtlichen Volkskomitees oder Polizeibehörden.
+* Seien Sie sich bewusst, dass in Deutschland getätigte Äußerungen in den sozialen Medien in Vietnam wahrgenommen werden und aus Anlass von Vietnam-Reisen dort zu Konsequenzen (polizeiliche Verhöre, Ausreiseverweigerung oder –verzögerung) führen können.
+
+#### *Militärische Sperrgebiete und Aufenthalte in Grenznähe*
+
+**Von Reisen in die unmittelbare Nähe militärischer Sperrgebiete wird dringend abgeraten.**
+
+Diese sind nicht immer als solche gekennzeichnet bzw. lediglich durch Schilder in vietnamesischer Sprache ausgewiesen. Gleiches gilt für Gebiete in unmittelbarer Nähe zu den Landesgrenzen. Der Abstand vom tatsächlichen Grenzverlauf wird von den örtlichen Sicherheitsorganen oft willkürlich interpretiert. Militärische Sperrgebiete (restricted areas) können auch kurzfristig und ohne Vorwarnung deklariert werden. Aufenthalte in militärischem Sperrgebiet können zu Verhaftung, polizeilichen Verhören unter dem Vorwurf der Spionagetätigkeit, Ausreiseverweigerung oder -verzögerung, etc. führen.
+
+Bei beabsichtigten Besuchen in Grenznähe müssen gesondert zu beantragende Genehmigungen des Ministeriums für öffentliche Sicherheit mitgeführt werden.
+
+* Reisen Sie nicht in militärische Sperrgebiete, halten Sie sich nicht in der Nähe auf und achten Sie auf entsprechende Beschilderung.
+* Beantragen Sie ggf. entsprechende Genehmigungen und führen diese mit sich. Erkundigen Sie sich ggf. vor Reiseantritt bei den örtlichen Volkskomitees oder Polizeibehörden, wenn Sie in Grenznähe und abseits der Hauptstrecken reisen möchten.
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist niedrig und es gibt wenig Gewaltkriminalität gegen Ausländer. Ein Anstieg von Kleinkriminalität wie Diebstahl, insbesondere in Touristengebieten, ist jedoch zu beobachten. Am Bahnhof von Hanoi wurden häufiger Touristen v.a. mit dem Nachtzug aus Hue oder Sapa ankommend bestohlen. Außerdem kommt es verstärkt zu Diebstählen von Bargeld aus Hotelzimmern, auch aus "besseren" Hotels. Für allein reisende Frauen besteht die Gefahr sexueller Belästigung und Übergriffe.
+Die Kriminalitätsrate ist niedrig und es gibt wenig Gewaltkriminalität gegen Ausländer. Ein Anstieg von Kleinkriminalität wie Diebstahl, insbesondere in Touristengebieten, ist jedoch zu beobachten. Am Bahnhof von Hanoi wurden häufiger Touristen v.a. mit dem Nachtzug aus Hue oder Sapa ankommend bestohlen. Außerdem kommt es verstärkt zu Diebstählen von Bargeld aus Hotelzimmern, auch aus Hotels der gehobenen Kategorie.
+
+Reisende sollten bei Fahrten in Überlandbussen, insbesondere bei Nacht, Vorsicht walten lassen. Vereinzelt wurde von sexuellen Übergriffen berichtet, insbesondere alleinreisende Frauen sind betroffen. In solchen Fällen sollten Reisende immer auf einer Anzeige bestehen. Zuständig hierfür ist die Polizeibehörde am Zielbusbahnhof.
+
+In von Touristen frequentierten Bars oder Clubs größerer Städte als auch auf der Insel Cat Ba kommt es vereinzelt zum Einsatz von K.-o-Tropfen und in der Folge zu sexuellen Übergriffen.
 
 In Hanoi, vor allem am Hoan Kiem See, gibt es immer wieder Betrugsversuche. Vereinzelt verlangen Straßenverkäufer für das Fotografieren „Gebühren“, in anderen Fällen werden Schuhe von Touristen beschmutzt oder mit Klebstoff beschmiert, entzogen und eine „Rückgabegebühr“ verlangt. Fälle von Kreditkartenbetrug wurden bekannt, in denen Karten kopiert und Abbuchungen vorgenommen worden sind.
 
 In Ho-Chi-Minh-Stadt, Nha Trang und Hanoi mehren sich Handtaschen- und Gepäckdiebstahl, sowohl von vorbeifahrenden Mopeds aus als auch nach Ablenkungsmanövern durch Kinderbanden, insbesondere bei Ankunft und Abreise vor dem Hotel.
 
-In Ho-Chi-Minh-Stadt werden vermehrt ausländische Touristen unter verschiedenen Vorwänden - beispielsweise mit Hinweisen auf eine Begegnung am Flughafen oder auf nahe Verwandte, die demnächst in Europa studieren oder arbeiten werden - angesprochen und in Privathäuser eingeladen. Nach Schaffung einer gastfreundlichen und geselligen Atmosphäre wird im weiteren Verlauf das Opfer in fingierte Karten- bzw. Glücksspiele verwickelt, an deren Ende das Opfer verliert und unter Drohungen zur Zahlung angeblicher Spielschulden veranlasst wird. Es ist nicht ausgeschlossen, dass Speisen oder Getränke mit Drogen versetzt werden.
-
-Es sind vereinzelt Fälle bekannt, in denen K.-o.-Tropfen in von Touristen frequentierten Bars oder Clubs in größeren Städten als auch auf der Insel Cat Ba eingesetzt wurden und es wurde von darauffolgenden sexuellen Übergriffen berichtet.
-
-Kommt es zu einem Diebstahl, protokollieren weder die Ausländerpolizei in Hanoi noch andere Polizeidienststellen nachträglich Verlustanzeigen. In der Vergangenheit hat sich die Polizei mehrfach geweigert, Protokolle aufzunehmen, vor allem dann, wenn Zweifel am Hergang der Tat oder an den Wertangaben bestanden.
+Ausländische Touristen werden in Ho-Chi-Minh-Stadt vermehrt unter verschiedenen Vorwänden angesprochen und in Privathäuser eingeladen beispielsweise mit Hinweisen auf eine Begegnung am Flughafen oder auf nahe Verwandte, die demnächst in Europa studieren oder arbeiten werden. Nach Schaffung einer gastfreundlichen und geselligen Atmosphäre werden die Opfer in fingierte Karten- bzw. Glücksspiele verwickelt, die sie verlieren, und unter Drohungen zur Zahlung angeblicher Spielschulden veranlasst werden. Der Einsatz von Drogen in Speisen oder Getränken kann nicht ausgeschlossen werden. Im Falle eines Diebstahls protokollieren weder die Ausländerpolizei in Hanoi noch andere Polizeidienststellen nachträglich Verlustanzeigen. In der Vergangenheit verweigerte die zuständige Polizeidienststelle mehrfach die Protokollaufnahme, vor allem dann, wenn Zweifel am Hergang der Tat oder an den Wertangaben bestanden.
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen und Bahnhöfen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf (z.B. im Safe); speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments. Denken Sie unbedingt daran, eine Kopie der Datenseite des Passes und des gültigen Einreisestempels mit sich zu führen, um sich bei einer Polizeikontrolle ausweisen zu können, siehe auch *Einreise und Zoll – Anmerkungen/Mindestrestgültigkeit.*
@@ -39,6 +47,7 @@ Kommt es zu einem Diebstahl, protokollieren weder die Ausländerpolizei in Hanoi
 * Verzichten Sie nach Einbruch der Dunkelheit auf Fahrradtaxis (Cyclos) oder Motorradtaxis (Xe Om).
 * Fragen Sie vor dem Fotografieren von Straßenverkäufern um Erlaubnis.
 * Weisen Sie Angebote ggf. mit lauter Stimme als Abschreckungseffekt zurück und halten Sie sich von Schuhputzern möglichst fern.
+* Nehmen Sie keine Einladungen Ihnen Unbekannter in Privathäuser an.
 * Sollten Reisedokumente, Bargeld oder sonstige Wertgegenstände abhandenkommen, zeigen Sie den Verlust sofort bei der Polizei am Tatort an.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, privaten Einladungen und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -49,7 +58,7 @@ Kommt es zu einem Diebstahl, protokollieren weder die Ausländerpolizei in Hanoi
 Es herrscht tropisches bis subtropisches Klima.  
 In den Provinzen von Mittelvietnam und dem Mekong-Delta, aber auch in einigen Provinzen im Süden Vietnams, kann es besonders zwischen Juni und November zu Taifunen kommen, die großflächige Überschwemmungen, Erdrutsche und Beeinträchtigungen der Infrastruktur verursachen können.
 
-Starke Regenfälle führen auch in der Regen- bzw. Monsunzeit von Juni bis September im Norden und Süden und von Oktober bis Dezember in Mittelvietnam zu Überschwemmungen und Erdrutschen. Hanoi, insbesondere entlang des Red River, und die Mekong-Flussdelta-Regionen im Süden sind regelmäßig betroffen.
+Starke Regenfälle führen auch in der Regen- bzw. Monsunzeit von Juni bis September im Norden und Süden und von Oktober bis Dezember in Mittelvietnam zu Überschwemmungen und Erdrutschen. Hanoi, insbesondere entlang des Red Rivers, und die Mekong-Flussdelta-Regionen im Süden sind regelmäßig betroffen.
 
 #### *Erdbeben und Tsunamis*
 
@@ -66,7 +75,7 @@ Vietnam liegt in einer nur leicht seismisch aktiven Zone, sodass die Erdbebengef
 
 Es gibt ein relativ gut ausgebautes Inlandsflugnetz, Eisenbahnen zwischen großen Städten, Reisebusse für Überlandfahrten und Taxis. Straßen in ländlichen Gebieten sind häufig nicht in gutem Zustand. In bergigen Gebieten können sie durch plötzliche Erdrutsche unpassierbar werden.
 
-Eine starke Gefährdung geht vom Straßenverkehr aus. Die Zahl der Verkehrstoten ist eine der höchsten im internationalen Vergleich, das Risiko, einem Unfall zum Opfer zu fallen, ist um ein Vielfaches höher als in Deutschland. Die meisten Unfälle passieren nach Einbruch der Dunkelheit. Auch die mittlerweile eingeführte Helmpflicht für Mopedfahrer hat daran nichts geändert, Grund ist eine oftmals rücksichtslose Fahrweise sowie die steigende Anzahl der Verkehrsteilnehmer, vor allem Pkw. Mehrfach kam es seit vergangenem Jahr zu schweren, teilweise tödlichen, Motorradunfällen ausländischer Reisenden auf Landstraßen in den Provinzen, vor allem in der bei Touristen beliebten Ha Giang Provinz. Die ärztliche Versorgung außerhalb der Ballungsgebiete ist nur unzureichend, notärztliche Versorgung und Rettungsflüge innerhalb des Landes gibt es nicht.
+Eine starke Gefährdung geht vom Straßenverkehr aus. Die Zahl der Verkehrstoten ist eine der höchsten im internationalen Vergleich. Das Unfallrisiko ist um ein Vielfaches höher als in Deutschland. Die meisten Unfälle passieren nach Einbruch der Dunkelheit. Auch die mittlerweile eingeführte Helmpflicht für Mopedfahrer hat daran nichts geändert; Grund dafür ist eine oft rücksichtslose Fahrweise sowie die steigende Anzahl an Verkehrsteilnehmern, vor allem Pkw. Mehrfach kam es zu schweren, teilweise tödlichen, Motorradunfällen ausländischer Reisender auf Landstraßen in den Provinzen, vor allem in der bei Touristen beliebten Ha-Giang-Provinz. Die ärztliche Versorgung außerhalb der Ballungsgebiete ist nur unzureichend; notärztliche Versorgung und Rettungsflüge innerhalb des Landes gibt es nicht.
 
 * Lassen Sie größtmögliche Vorsicht im Straßenverkehr walten und verzichten Sie während des Urlaubaufenthalts möglichst auf die individuelle Anmietung von Pkws oder Mopeds.
 * Beachten Sie, dass für alle Teilnehmer im Straßenverkehr (auch Fahrradfahrer) die strikte Alkoholgrenze von 0 Promille gilt.
@@ -75,7 +84,7 @@ Eine starke Gefährdung geht vom Straßenverkehr aus. Die Zahl der Verkehrstoten
 * Seien Sie bei der Anmietung vorsichtig und hinterlegen Sie nicht Ihren Reisepass als Pfand.
 * Die Diebstahlsrate von Zweirädern ist sehr hoch. Stellen Sie Ihr Moped/Ihren Motorroller nie unbeaufsichtigt ab.
 
-Die angeschriebenen Fahrpreise im Taxi gelten nicht pro Person, sondern pro Fahrt. Taxifahrer, die nicht einem als zuverlässig bekannten Unternehmen angehörten, haben des Öfteren das Taxameter manipuliert und bei Fahrtende den ungerechtfertigt hohen Fahrpreis unter Gewaltandrohung eingefordert. In Ho-Chi-Minh-Stadt kommt am offiziellen Taxistand des Flughafens vermehrt Taxibetrug vor. Manche Taxifahrer weigern sich, den Taxameter einzuschalten und verlangen Fantasiebeträge.
+Die angeschriebenen Fahrpreise im Taxi gelten nicht pro Person, sondern pro Fahrt. Es sind mehrere Fälle bekannt, in denen Taxifahrer, insbesondere von nicht als zuverlässig bekannten Unternehmen Taxameter manipuliert und bei Fahrtende den ungerechtfertigt hohen Fahrpreis unter Gewaltandrohung eingefordert haben. In Ho-Chi-Minh-Stadt kommt am offiziellen Taxistand des Flughafens vermehrt Taxibetrug vor. Manche Taxifahrer weigern sich, das Taxameter einzuschalten und verlangen Fantasiebeträge.
 
 * Bitten Sie in einem solchen Fall bei der Ankunft am Hotel das Hotelpersonal um Hilfe, bevor Sie zahlen.
 * Benutzen Sie am Flughafen nur offizielle Taxis und generell nur als zuverlässig geltende Anbieter.
@@ -84,9 +93,9 @@ Sogenannte Vermittler verkaufen verschiedentlich Transportdienstleistungen (Buss
 
 * Erwerben Sie Fahrscheine nur an offiziellen Verkaufsstellen.
 
-In den letzten Jahren gab es in der Ha Long Bucht wiederholt Schiffsunfälle, die zum Teil Todessopfer forderten. Schiffe sind häufig nicht mehr wirklich seetüchtig und verfügen nicht immer über ausreichend Rettungswesten.
+In den letzten Jahren gab es in der Ha-Long-Bucht wiederholt Schiffsunfälle, die zum Teil Todessopfer forderten. Schiffe sind häufig nicht seetüchtig und verfügen nicht immer über ausreichend Rettungswesten.
 
-* Buchen Sie Schifffahrten nur bei renommierten Unternehmen und vergewissern Sie sich selbst über die Seetüchtigkeit des Schiffs und das Vorhandensein ausreichender Rettungsmittel und Fluchtwege.
+* Buchen Sie Schifffahrten nur bei renommierten Unternehmen und vergewissern Sie sich selbst der Seetüchtigkeit des Schiffs und des Vorhandenseins ausreichender Rettungsmittel und Fluchtwege vor Reiseantritt.
 
 ### Führerschein
 
@@ -96,7 +105,7 @@ Der internationale Führerschein ist erforderlich und bei einem vorübergehenden
 
 ### LGBTIQ
 
-Das Verbot einer gleichgeschlechtlichen Ehe wurde aufgehoben. Homosexuelle Handlungen werden nicht strafrechtlich verfolgt. Allerdings wurde weder eine Lebenspartnerschaft noch die Ehe für gleichgeschlechtliche Paare eingeführt. Partei und Regierung Vietnams nehmen eine vorsichtig positive Haltung zur Gleichstellung der LGBTIQ-Gemeinschaft ein; die Gesellschaft Vietnams ist weiterhin von einem konservativen Frauen- und Familienbild geprägt. Es sind keine Fälle homophober Gewalt bekannt. Grundsätzlich ist in Vietnam zu beachten, dass öffentliche Zärtlichkeiten, auch zwischen verschieden geschlechtlichen Paaren, oft nicht gutgeheißen werden und insbesondere mit körperlichen Berührungen in der Öffentlichkeit sehr sparsam umgegangen wird.
+Homosexuelle Handlungen werden nicht strafrechtlich verfolgt. Die Schließung einer Lebenspartnerschaft oder Ehe für gleichgeschlechtliche Paare ist nicht möglich. Partei und Regierung Vietnams nehmen eine vorsichtig positive Haltung zur Gleichstellung der LGBTIQ-Gemeinschaft ein; die Gesellschaft Vietnams ist weiterhin von einem konservativen Frauen- und Familienbild geprägt. Es sind keine Fälle homophober Gewalt gegen Touristen bekannt.  Grundsätzlich ist in Vietnam zu beachten, dass öffentliche Zärtlichkeiten, auch zwischen verschieden geschlechtlichen Paaren, oft nicht gutgeheißen werden und insbesondere mit körperlichen Berührungen in der Öffentlichkeit sehr sparsam umgegangen wird.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -149,7 +158,7 @@ Zuständig und verantwortlich für die Gewährung der visafreien Einreise sind a
 
 Die visafreie Einreise gilt nicht für Journalisten und Filmemacher, die in Vietnam beruflich tätig werden, z.B. Dokumentarfilme und Reportagen erstellen wollen. Hinweise zur Beantragung eines Journalisten- und Filmemachervisums bieten die deutschen Vertretungen in Vietnam auf Anfrage.
 
-Für andere Zwecke und längere Aufenthalte ist ein Visum erforderlich, das vor der Einreise online oder als e-Visum sowie unter bestimmten Umständen bei Einreise („on arrival“) beantragt werden kann.in Vietnam.
+Für andere Zwecke und längere Aufenthalte ist ein Visum erforderlich, das vor der Einreise online oder als E-Visum sowie unter bestimmten Umständen bei Einreise („on arrival“) beantragt werden kann.
 
 Reisende sollten direkt bei Einreise kontrollieren, dass sie einen Einreisestempel mit Gültigkeitsdatum erhalten haben. Andernfalls droht bei Ausreise ein Bußgeld.
 
@@ -157,11 +166,11 @@ Ausländer, die bereits im Besitz eines gültigen Visums oder einer ständigen o
 
 #### *E-Visum*
 
-Bei Aufenthalten über 45 Tagen kann ein e-Visum beantragt werden; der Online-Antrag ist auf der [Webseite der vietnamesischen Einwanderungsbehörde](https://evisa.xuatnhapcanh.gov.vn/) abrufbar. Das e-Visum ist für max. 90 Tage und für eine mehrmalige Einreise (multiple entry) gültig. Die Bearbeitungszeit beträgt drei Tage. Eine Verlängerung des Aufenthalts ist nur möglich, wenn ein Folgevisum durch einen „Sponsor“ garantiert wird. Informationen hierzu stellt die [vietnamesische Einwanderungsbehörde](https://evisa.xuatnhapcanh.gov.vn/web/guest/faq) zur Verfügung.
+Bei Aufenthalten über 45 Tagen kann ein E-Visum beantragt werden; der Onlineantrag ist auf der [Webseite der vietnamesischen Einwanderungsbehörde](https://evisa.xuatnhapcanh.gov.vn/) abrufbar. Das E-Visum ist für max. 90 Tage und für eine mehrmalige Einreise (multiple entry) gültig. Die Bearbeitungszeit beträgt drei Tage. Eine Verlängerung des Aufenthalts ist nur möglich, wenn ein Folgevisum durch einen „Sponsor“ garantiert wird. Informationen hierzu stellt die [vietnamesische Einwanderungsbehörde](https://evisa.xuatnhapcanh.gov.vn/web/guest/faq) zur Verfügung.
 
-Hinweis: Die Einreise mit e-Visum ist nur über 13 Flughäfen und nicht an jedem Land- und Seeübergang möglich. Die vietnamesische Regierung stellt hierfür eine [Übersicht](https://evisa.xuatnhapcanh.gov.vn/en_US/web/guest/trang-chu-ttdt) zur Verfügung.
+Hinweis: Die Einreise mit E-Visum ist nur über 13 Flughäfen und nicht an jedem Land- und Seeübergang möglich. Die vietnamesische Regierung stellt hierfür eine [Übersicht](https://evisa.xuatnhapcanh.gov.vn/en_US/web/guest/trang-chu-ttdt) zur Verfügung.
 
-#### *Online-Visum*
+#### *Onlinevisum*
 
 Weitere Visaarten können online unter [Vietnam Visa Application](https://visa.mofa.gov.vn/Homepage.aspx) beantragt und zusammen mit den erforderlichen Unterlagen bei der zuständigen vietnamesischen Auslandsvertretung in Deutschland eingereicht werden.
 
@@ -181,7 +190,7 @@ Die Verlängerung oder Änderung der Gültigkeitsdauer eines Visums in Vietnam l
 
 ### Transit
 
-Deutsche Staatsangehörige benötigen kein Transitvisum, sofern sie den Transitbereich des Flughafens nicht verlassen. Erfolgt eine Einreise, d. h. wird der Transitbereich verlassen, um z. B. einen inländischen Weiterflug anzutreten, sind die o.g. Regelungen zur visafreien Einreise zu beachten.
+Deutsche Staatsangehörige benötigen kein Transitvisum, sofern sie den Transitbereich des Flughafens nicht verlassen. Erfolgt eine Einreise, d.h. wird der Transitbereich verlassen, um z. B. einen inländischen Weiterflug anzutreten, sind die o.g. Regelungen zur visafreien Einreise zu beachten.
 
 ### Familienangehörige von Vietnamesen und Personen vietnamesischer Abstammung
 
@@ -191,9 +200,9 @@ Familienangehörige von Vietnamesen und Personen vietnamesischer Abstammung, die
 
 Alleinreisende Minderjährige müssen eine offizielle Zustimmungserklärung des oder der Sorgeberechtigten mit sich führen.
 
-### Registrierung
+### Registrierungspflicht
 
-Es besteht Registrierungspflicht. Diese wird jedoch meist vom Hotel übernommen.
+Es besteht Registrierungspflicht. Diese wird jedoch meist vom Hotel/der Unterkunft übernommen.
 
 ### Einfuhrbestimmungen
 
@@ -214,7 +223,7 @@ Die Einfuhr von Heimtieren ist mit tierärztlichem Impfzeugnis (gültige Tollwut
 
 ### Drohnen
 
-Die Einfuhr von Drohnen für den privaten Gebrauch nach Vietnam ist zwar grundsätzlich erlaubt, für die Inbetriebnahme in Vietnam ist jedoch zwingend eine Genehmigung des Verteidigungsministeriums erforderlich. Bei Verstoß drohen hohe Bußgelder, in schweren Fällen gibt es sogar strafrechtliche Konsequenzen.
+Die Einfuhr von Drohnen für den privaten Gebrauch nach Vietnam ist zwar grundsätzlich erlaubt, für die Inbetriebnahme in Vietnam ist jedoch zwingend eine Genehmigung des Verteidigungsministeriums erforderlich. Bei Verstoß drohen hohe Bußgelder, in schweren Fällen drohen sogar strafrechtliche Konsequenzen.
 
 ## Gesundheit
 
@@ -242,7 +251,7 @@ Dengue-Viren werden in vielen Teilen des Landes durch tagaktive *Aedes*-Mücken 
 
 ### Chikungunya-Fieber
 
-Chikungunya-Viren werden von tagaktiven Aedes-Mücken übertragen. Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu lang anhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
+Chikungunya-Viren werden von tagaktiven Aedes-Mücken übertragen. Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu langanhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
 
 * Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
 
@@ -285,7 +294,7 @@ Jährlich kommt es in Vietnam während und nach den Regenzeiten zu vermehrtem Au
 
 ### Japanische Enzephalitis
 
-Bei der Japanischen Enzephalitis (JE) handelt es sich um eine Entzündung des Gehirns, die von Viren verursacht wird. Diese werden vor allem im Süden während der Regen- und der frühen Trockenzeit und im Norden im Spätsommer und Herbst von nachtaktiven Stechmücken übertragen. Vor allem Schweine und Wasservögel sind mit dem Virus infiziert, ohne dabei selber zu erkranken. Erkrankungen beim Menschen sind eher selten, verlaufen dann aber häufig schwer und hinterlassen oft bleibende Schäden oder enden tödlich. Es gibt keine wirksamen Medikamente gegen die JE-Viren. S. auch [Japanische Enzephalitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/japanische-enzephalitis/2519622 "Japanische Enzephalitis")
+Bei der Japanischen Enzephalitis (JE) handelt es sich um eine Entzündung des Gehirns, die von Viren verursacht wird. Diese werden vor allem im Süden während der Regen- und der frühen Trockenzeit und im Norden im Spätsommer und Herbst von nachtaktiven Stechmücken übertragen. Vor allem Schweine und Wasservögel sind mit dem Virus infiziert, ohne dabei selber zu erkranken. Erkrankungen beim Menschen sind eher selten, verlaufen dann aber häufig schwer und hinterlassen oft bleibende Schäden oder enden tödlich. Es gibt keine wirksamen Medikamente gegen die JE-Viren. Siehe auch [Japanische Enzephalitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/japanische-enzephalitis/2519622 "Japanische Enzephalitis")
 
 * Schützen Sie sich zur Vermeidung von Japanischer Enzephalitis im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere nachts konsequent vor Mückenstichen.
 * Lassen Sie sich hinsichtlich einer JE-Impfung beraten und ggf. impfen.
@@ -314,7 +323,7 @@ Von ganz wenigen Ausnahmen abgesehen, gilt als Übertragungsweg weiterhin der di
 
 ### Luftverschmutzung
 
-* Informieren Sie sich über aktuelle Luftwerte z.B über den [World Air Quality Index](https://waqi.info/de/) sowie die Smartphone App [AirVisual](https://www.airvisual.com/air-quality-app).
+* Informieren Sie sich über aktuelle Luftwerte z.B über den [World Air Quality Index](https://waqi.info/de/) sowie die App [IQAir](https://www.airvisual.com/air-quality-app).
 
 ### **Sonstige Gesundheitsgefahren**
 
@@ -330,9 +339,7 @@ Die medizinische Versorgung im Lande ist mit der in Europa nicht zu vergleichen.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
