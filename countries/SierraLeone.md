@@ -12,7 +12,7 @@ Während eines Angriffs unbekannter Personen auf ein Waffenlager in der zentrale
 
 Die hohe Inflation von teilweise über 50% führt zu einer starken Erhöhung der allgemeinen Lebenshaltungskosten, insbesondere bei Lebensmitteln und Kraftstoffen. Dies setzt einen großen Teil der Bevölkerung unter wirtschaftlichen Druck.
 
-Am 19. Juni 2024 soll das überparteiliche Komitee zur Wahlrechtsreform Staatspräsident Bio seinen Abschlussbericht vorlegen. In den (sozialen) Medien zirkulieren vereinzelt Aufrufe zu Protesten.
+In Kürze soll das überparteiliche Komitee zur Wahlrechtsreform Staatspräsident Bio seinen Abschlussbericht vorlegen. In den (sozialen) Medien zirkulieren vereinzelt Aufrufe zu Protesten.
 
 Die Sicherheitskräfte haben deutlich gemacht, dass unangemeldete Demonstrationen nicht geduldet werden und haben ihre Präsenz, besonders in Freetown, in den vergangenen Tagen sichtbar verstärkt.
 
@@ -210,7 +210,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

@@ -2,6 +2,14 @@
 
 ## Aktuelles
 
+### Überschwemmungen
+
+Seit dem16. Juni 2024 verzeichnet Guatemala außergewöhnlich starke Regenfälle, die zu Überschwemmungen, Schlammlawinen und Straßensperren führen. Die Regenfälle sollen noch bis mindestens zum 21. Juni 2024 anhalten. In den Regionen Huehuetenango, Alta Verapaz, Chiquimula, Jutiapa und Escuintla wird aufgrund eines erhöhten Überschwemmungsrisikos zu besonderer Vorsicht aufgerufen; Reisende sollten bereit sein, die betreffenden Regionen jederzeit kurzfristig zu verlassen.
+
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
+* Reisen Sie nicht in die oben genannten Gebiete.
+* Wenn Sie sich in den o.g. Regionen aufhalten, bereiten Sie sich vor, die betreffenden Regionen jederzeit kurzfristig zu verlassen.
+
 ### Vulkanische Aktivität
 
 Seit dem 10. Juni 2024 misst das Nationale Institut für Seismologie und Vulkanologie INSIVUMEH verstärkte Aktivität mehrerer Vulkane. Das Institut rät derzeit von der Besteigung der Vulkane Fuego und Santiaguito ab. Auch Aufenthalte in unmittelbarer Nähe der Vulkane Agua und Acatenango sowie im Kraterbereich des Vulkans Pacaya sollten aufgrund von Gesundheitsgefahren vermieden werden.
@@ -52,7 +60,7 @@ Willkürliche Maßnahmen durch Sicherheitskräfte können sich auch gegen Auslä
 
 ## Natur und Klima
 
-Siehe *Aktuelles*  
+Siehe *Aktuelles*
 
 #### *Erdbeben und Vulkane*
 
@@ -253,7 +261,7 @@ Insgesamt ist die Gesundheitsversorgung gerade in ländlichen Gebieten Guatemala
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
