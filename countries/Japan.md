@@ -198,7 +198,7 @@ Zur heißen Sommerzeit können die Fluggesellschaften sich gegen eine Mitnahme v
 
 ### Aktuelles
 
-Im Frühjahr 2024 wurde ein Anstieg der Fälle invasiver Streptokokken-Infektionen in Japan verzeichnet, insbesondere von Fällen des toxischen Schocksyndroms (TSS), das durch Gruppe-A-Streptokokken (GAS) verursacht wird. Infektionen mit GAS führen in der Regel zu milden Krankheitsverläufen mit Halsschmerzen, Kopfschmerzen und Fieber sowie einem leichten roten Ausschlag (Scharlach). In seltenen Fällen können GAS-Bakterien auch invasive Infektionen mit schweren Verläufen (z.B. TSS) hervorrufen. Das Risiko für Reisende wird als gering eingeschätzt.
+Seit Frühjahr 2024 wird ein Anstieg der Fälle invasiver Streptokokken-Infektionen in Japan verzeichnet, insbesondere von Fällen des toxischen Schocksyndroms (TSS), das durch Gruppe-A-Streptokokken (GAS) verursacht wird. Infektionen mit GAS führen in der Regel zu milden Krankheitsverläufen mit Halsschmerzen, Kopfschmerzen und Fieber sowie einem leichten roten Ausschlag (Scharlach). In seltenen Fällen können GAS-Bakterien auch invasive Infektionen mit schweren Verläufen (z.B. TSS) hervorrufen. Das Risiko für Reisende wird als gering eingeschätzt.
 
 * Beachten Sie allgemeine Hygieneregeln und halten Sie sich an generelle Hinweise zur Vermeidung von Atemwegserkrankungen (Abstand zu erkrankten Personen und insbesondere Kindern halten, regelmäßiges Händewaschen, ärztliche Vorstellung je nach medizinischer Notwendigkeit, insbesondere bei ausbleibender Besserung).
 
