@@ -45,7 +45,7 @@ Deutsch-russische Doppelstaater müssen beachten, dass sie von den russischen Be
 
 ### **Ein- und Ausreisen**
 
-Finnland hat die Schließung aller Grenzübergänge aus der und in die Russische Föderation bis zum 14. April 2024 verlängert, siehe auch [Reise- und Sicherheitshinweise Finnland](https://www.auswaertiges-amt.de/de/service/laender/finnland-node/finnlandsicherheit/211624).
+Finnland hat bis auf Weiteres alle Grenzübergänge aus der und in die Russische Föderation geschlossen, siehe auch [Reise- und Sicherheitshinweise Finnland](https://www.auswaertiges-amt.de/de/service/laender/finnland-node/finnlandsicherheit/211624).
 
 Auf dem Landweg sind Ein- und Ausreise noch über einige wenige Grenzübergänge via Polen und Litauen (Kaliningrad), Estland, Lettland und Norwegen mit PKW oder Bus (Tickets online) möglich.
 
@@ -357,6 +357,16 @@ Erforderliche Impfungen für Hunde sind Tollwut, Staupe, Hepatitis, virale Enter
 
 ### Aktuelles
 
+#### *Botulismus*
+
+Seit Juni 2024 berichten Gesundheitsbehörden in Moskau über einen Ausbruch von Lebensmittelbotulismus im Zusammenhang mit dem Verzehr von Thunfischprodukten in Moskau. Lebensmittelbotulismus ist eine seltene, jedoch schwere Erkrankung. In der Regel kommt es zu einer akuten Erkrankung, die mit neurologischen Beschwerden wie Lähmungen einhergeht. Mundtrockenheit sowie Lähmungen der Augenmuskulatur sind frühe Zeichen. Eine Übertragung von Mensch-zu-Mensch findet nicht statt. Das Risiko für Reisende wird als gering eingeschätzt.
+
+* Konsumieren Sie keine entsprechenden Produkte.
+* Beachten Sie allgemeine Hygienemaßnahmen.
+* Bei Auftreten von entsprechenden Symptomen stellen Sie sich ärztlich vor.
+
+#### *Transportschwierigkeiten*
+
 Aufgrund von Transportschwierigkeiten kommt es zu Einschränkungen in der Versorgung mit Medikamenten, medizinischen Verbrauchsmaterialien und Impfstoffen. Es wird empfohlen entsprechend Vorsorge zu treffen.
 
 ### Impfschutz
@@ -409,9 +419,7 @@ Das Mitbringen von Medikamenten ist außer einer auch in Deutschland üblichen H
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
