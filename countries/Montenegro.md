@@ -1,11 +1,5 @@
 # Montenegro: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Die FTI Touristik GmbH hat am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds (DRSF) gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 1409 zu erreichen ist. Reisegäste, die sich bereits am Urlaubsort befinden und dort Unterstützung benötigen, können sich auch direkt an die Servicenummer des DRSF wenden: +49 30 7895 4770. 
-
-Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
-
 ## Sicherheit
 
 ### Terrorismus
@@ -30,7 +24,7 @@ Fälle von Gewaltkriminalität werden in der Regel dem organisierten Verbrechen 
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, an Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie keine Wertsachen im Fahrzeug zurück.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -52,7 +46,7 @@ Die Straßen sind teilweise in schlechtem Zustand, ebenso kommt es aufgrund von 
 Tageszeitunabhängig gilt in Montenegro eine Lichtpflicht, sodass ganzjährig mit Abblendlicht gefahren werden muss. Bei winterlichen Verhältnissen besteht Winterreifenpflicht.  
 Die Promillegrenze beträgt 0,3 Promille.
 
-Seit 2021 ist die "grüne Versicherungskarte" für Montenegro nicht mehr erforderlich. Über Einzelheiten informiert das [Nationale Büro der Versicherer Montenegros.](https://www.nbocg.me/en/announcement/)
+Die "grüne Versicherungskarte" für Montenegro nicht erforderlich. Über Einzelheiten informiert das [Nationale Büro der Versicherer Montenegros.](https://www.nbocg.me/en/announcement/)
 
 Die Mitnahme von Anhaltern kann insbesondere beim Grenzübertritt den Straftatbestand der Schleusung erfüllen.
 
@@ -65,11 +59,11 @@ Die Mitnahme von Anhaltern kann insbesondere beim Grenzübertritt den Straftatbe
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### Wanderungen/Trekking-Touren
 
-Für die Grenzübertritte via „grüne Grenzen“ in den Bergen nach Montenegro bzw. in die Nachbarländer ist eine Genehmigung erforderlich ("Border Crossing Permits"). Bei Nichtbeachtung ist mit empfindlichen Geldstrafen zu rechnen. Verbindlich beraten hierzu die zuständigen montenegrinischen Stellen. Beachten Sie grundlegenden Verhaltensweisen bei Wanderungen:  
+Für die Grenzübertritte via „grüne Grenzen“ in den Bergen nach Montenegro bzw. in die Nachbarländer ist eine Genehmigung erforderlich ("Border Crossing Permits"). Bei Nichtbeachtung ist mit empfindlichen Geldstrafen zu rechnen. Verbindlich beraten hierzu die zuständigen montenegrinischen Stellen. Beachten Sie grundlegenden Verhaltensweisen bei Wanderungen:
 
 * Weichen Sie nicht von markierten Pfaden ab. Berücksichtigen Sie in Ihrer Planung, dass die Wegeführung zum Teil unzureichend ausgeschildert ist und den Wandernden mitunter sehr gute Kondition abverlangt.
 * Führen Sie insbesondere bei nicht von Veranstaltern organisierten Wanderungen ein ausreichend geladenes Mobiltelefon mit GPS-Funktion oder ein GPS-Gerät mit.
@@ -102,8 +96,7 @@ In Montenegro ist der EUR offizielle Währung. Gängige Kreditkarten werden land
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland").  
-Die Zollbestimmungen für Deutschland können Sie auf der [Webseite des deutschen Zolls](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)  und per [App "Zoll und Reise"](https://www.zoll.de/DE/Privatpersonen/Reisen/Abgabenrecher-Zoll-und-Reise/abgabenrecher-zoll-und-reise_node.html "App Zoll und Reise") finden oder dort telefonisch erfragen.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -204,9 +197,7 @@ Eine medizinische Versorgung nach deutschem Standard ist in Montenegro nicht imm
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

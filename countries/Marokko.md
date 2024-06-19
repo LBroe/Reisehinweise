@@ -1,11 +1,5 @@
 # Marokko: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Die FTI Touristik GmbH hat am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds (DRSF) gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 1409 zu erreichen ist. Reisegäste, die sich bereits am Urlaubsort befinden und dort Unterstützung benötigen, können sich auch direkt an die Servicenummer des DRSF wenden: +49 30 7895 4770. 
-
-Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
-
 ## Sicherheit
 
 **Von Reisen in das Gebiet der Westsahara sowie in die unmittelbare Grenzregion mit Algerien wird dringend abgeraten.**
@@ -274,9 +268,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht ganz zu vergleichen. I
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Krankenversicherung ab, die Risiken abdeckt, die von den gesetzlichen Kassen nicht übernommen werden (z. B. notwendiger Rücktransport nach Deutschland im Krankheitsfall, Behandlung bei Privatärzten oder in Privatkliniken).
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### [**Bitte beachten Sie neben dem generellen Haftungsausschluss:**](https://diplo.de/-/2519600)
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

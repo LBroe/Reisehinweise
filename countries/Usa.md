@@ -1,11 +1,5 @@
 # USA/Vereinigte Staaten: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Die FTI Touristik GmbH hat am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds (DRSF) gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 1409 zu erreichen ist. Reisegäste, die sich bereits am Urlaubsort befinden und dort Unterstützung benötigen, können sich auch direkt an die Servicenummer des DRSF wenden: +49 30 7895 4770. 
-
-Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
-
 ## Sicherheit
 
 ### Terrorismus
@@ -75,7 +69,7 @@ In den Wintermonaten kann es insbesondere im Mittleren Westen und Norden der USA
 Teile der USA liegen in seismisch sehr aktiven Zonen, in denen eine erhöhte Erbeben- und teilweise auch Tsunamigefahr besteht, wie in Alaska, Kalifornien, Nevada, Oklahoma, Oregon, Washington, Amerikanisch-Samoa, Guam, Hawaii, Puerto Rico, die amerikanischen Jungferninseln und die Nördlichen Mariannen.  
 Zuletzt kam es 2022 an der Nordküste Kaliforniens zu einem Erdbeben der Stärke 6,4.
 
-Im Südwesten von Puerto Rico kam es Ende 2019 und Anfang 2020 zu mehreren Erdbeben bis zur Stärke 6,4. Es gab einige Todesopfer und Verletzte. Es kam zu teils erheblichen Schäden an Gebäuden und Infrastruktur.
+Auch im Südwesten von Puerto Rico kam es zu mehreren Erdbeben bis zur Stärke 6,4. Es gab einige Todesopfer und Verletzte. Es kam zu teils erheblichen Schäden an Gebäuden und Infrastruktur.
 
 * Informieren Sie sich vor Antritt einer Reise in die betroffenen Gebiete.
 * Seien Sie dort besonders vorsichtig.
@@ -85,7 +79,7 @@ In den USA gibt es zahlreiche, noch aktive Vulkane, u.a. in Alaska, Hawaii und d
 
 * Seien Sie bei Ausflügen auf Vulkane besonders vorsichtig und unternehmen Sie diese nicht ohne ortskundigen Führer.
 * Betreten Sie keine Sperrzonen. Aktuelle Informationen zu Warnstufen bietet [U.S. Volcanoes and Current Activity Alerts.](https://www.usgs.gov/programs/VHP/volcano-updates)
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) und das [USGS Earthquake Hazards Program.](http://earthquake.usgs.gov/)
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) und das [USGS Earthquake Hazards Program.](http://earthquake.usgs.gov/)
 * Erkundigen Sie sich über aktuelle Beeinträchtigungen bei der [FEMA](https://www.fema.gov/) oder nutzen Sie die [FEMA-App,](https://www.fema.gov/mobile-app) die neben aktuellen Alarmmeldungen auch nächstgelegene Notunterkünfte anzeigt.
 
 #### *Algen*
@@ -289,7 +283,7 @@ Die einmal erteilte Reisegenehmigung gilt für beliebig viele Einreisen für die
 
 #### *Einreise über Kanada oder Mexiko*
 
-Die Einreise auf dem Landweg über Kanada und Mexiko ist nur mit gültigem ESTA möglich. Nähere Informationen bietet die [zuständige Grenzschutzbehörde.](https://cbp.gov/travel/international-visitors/esta)
+Die Einreise auf dem Landweg über Kanada und Mexiko ist nur mit gültigem ESTA oder US-Visum möglich. Nähere Informationen bietet die [zuständige Grenzschutzbehörde.](https://cbp.gov/travel/international-visitors/esta)
 
 #### *Einreise nach Amerikanisch-Samoa*
 
@@ -386,7 +380,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 
 ### Zika-Virus-Infektion
 
-Bis 2017 wurden in Texas und Florida Fälle lokal erworbener Zika-Virus-Infektionen nachgewiesen, siehe [CDC](https://www.cdc.gov/zika/geo/index.html). Auch in Puerto Rico, den amerikanischen Jungferninseln und Amerikanisch-Samoa wurden Zika-Viren übertragen. Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen.
+Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen.
 
 * Beachten Sie für Ihre Reise die Empfehlungen, siehe [Zika-Virus-Infektion](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen").
 
@@ -421,7 +415,7 @@ In den USA sind die ärztliche und apparative Versorgung sowie Hygiene und Medik
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine die USA einschließende Auslandsreise-Kranken- und Rückholversicherung ab und achten Sie auf einen ausreichenden Kreditrahmen Ihrer Kreditkarte für notwendige Vorkasse.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

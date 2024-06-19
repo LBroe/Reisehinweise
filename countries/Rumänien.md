@@ -1,11 +1,5 @@
 # Rumänien: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Die FTI Touristik GmbH hat am 3. Juni 2024 einen Insolvenzantrag gestellt. FTI ist über den Deutschen Reisesicherungsfonds (DRSF) gegen Zahlungsunfähigkeit abgesichert. Ansprechpartner für Reisegäste, die von der FTI-Insolvenz betroffen sind, ist die FTI-Hotline, die unter Tel. +49 89 710 45 1409 zu erreichen ist. Reisegäste, die sich bereits am Urlaubsort befinden und dort Unterstützung benötigen, können sich auch direkt an die Servicenummer des DRSF wenden: +49 30 7895 4770. 
-
-Daneben wurde eine Supportwebseite eingerichtet: [www.fti-group.com/de/insolvenz](http://www.fti-group.com/de/insolvenz)
-
 ## Sicherheit
 
 ### Terrorismus
