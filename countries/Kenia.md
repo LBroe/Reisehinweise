@@ -2,21 +2,24 @@
 
 ## Aktuelles
 
-### *Überschwemmungen und Erdrutschgefahr*
+### *Gewaltsame Auseinandersetzungen*
 
-Aufgrund heftiger Regenfälle kommt es derzeit in weiten Teilen Kenias zu Überschwemmungen, reißenden Flüssen, Erdrutschen, Schlammlawinen, umstürzenden Bäumen sowie gerissenen Stromleitungen. Auch die Hauptstadt Nairobi ist hiervon betroffen. Der Flughafen Jomo Kenyatta International Airport (JKIA) in Nairobi war zeitweise aufgrund der heftigen Regenfälle geschlossen, Flüge wurden umgeleitet. Erneute Schließungen sind aufgrund der instabilen Wetterlage jederzeit wieder möglich.
+Aufgrund geplanter Steuererhöhungen im kenianischen Haushaltsgesetz kommt es derzeit in Nairobi, Mombasa und anderen Städten Kenias immer wieder zu zum Teil gewaltsamen Demonstrationen und Auseinandersetzungen zwischen den Sicherheitskräften und Demonstranten. Dabei werden Wasserwerfer und Tränengas eingesetzt; es kommt zu Verhaftungen. Mit weiteren Demonstrationen und (gewaltsamen) Auseinandersetzungen muss gerechnet werden.
 
-* Seien Sie besonders umsichtig und verlassen Sie Ihre sichere Unterkunft bei schweren Regenfällen nicht. Meiden Sie gesperrte bzw. überflutete Straßen.
+Reisende sollten folgende Sicherheitsmaßnahmen treffen:
+
+* Seien Sie besonders achtsam und umsichtig.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Informieren Sie sich über die lokalen Medien über die aktuelle Lage.
+* Führen Sie stets funktionsfähige Kommunikationsmittel mit sich.
+
+### *Überschwemmungen*
+
+Die Überschwemmungen der letzten Monate haben zu Schäden an der Infrastruktur geführt; viele Straßen in Kenia sind derzeit beschädigt.
+
+* Fahren Sie deshalb besonders vorsichtig, insbesondere in Senken und in der Nähe von Wasserläufen.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Sollten Sie eine Reise nach Kenia planen, klären Sie ggf. mit Ihrem Reiseveranstalter, ob die eigene Reiseroute/der Aufenthaltsort von den Überschwemmungen betroffen ist.
-* Erkundigen Sie sich ggf. vor Ihrem Abflug bei Ihrer Fluggesellschaft, ob Ihr Flug nach und von Kenia wie geplant fliegen kann.
 * Informieren Sie sich ggf. bei internationalen Wetterdiensten über die aktuellen Wetterverhältnisse und Gefahrensituation.
-
-### *Einreisebestimmungen*
-
-Seit Januar 2024 benötigen alle Reisenden (Ausnahmen siehe [eTA-Webseite](https://www.etakenya.go.ke/en)) eine „Electronic Travel Authorization“ (sogenannte „eTA“; seit Einführung der eTA ist kein Visum mehr erforderlich) zur Einreise nach Kenia. Die Beantragung erfolgt [online](https://www.etakenya.go.ke/en) und kann frühestens drei Monate vor Abreise eingereicht werden; spätestens jedoch 72 Stunden vor Abreise. Die „eTA“ berechtigt nicht automatisch zur Einreise – dies liegt im Ermessen der Grenzbeamten bei der Einreise. Weitere Informationen in deutscher Sprache bietet die [Kenianische Botschaft.](http://kenyaembassyberlin.de/Visa.42.0.html?&L=1) Bereits erteilte (e)Visa behalten ihre Gültigkeit bis zum Abschluss der Reise.
-
-* Bitte beachten Sie die rechtzeitige Beantragung der „eTA“*.* Weitere Hinweise erteilen die [kenianischen Behörden.](https://www.etakenya.go.ke/en)
 
 ### *Gefahr terroristischer Anschläge*
 
@@ -87,14 +90,14 @@ Die kenianische Regierung hat Teile der North-Rift-Region als besonders gefährd
 Hintergrund sind vermehrte Angriffe durch Banden in diesem Bereich, die durch Streitigkeiten um Land und Ressourcen angeheizt werden.
 
 * Meiden Sie größere Menschenansammlungen weiträumig und verfolgen Sie die örtlichen Medien.
-* Suchen Sie nur gesicherte Unterkunfts-und Aufenthaltsorte auf.
+* Suchen Sie nur gesicherte Unterkunfts- und Aufenthaltsorte auf.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 Die Gefahr, Opfer von bewaffneten Überfällen zu werden, besteht in allen Landesteilen. Nicht ausgeschlossen sind Ausspähungen, die anschließend in sogenannte Blitz-Entführungen münden, bei denen auch westliche Ausländer über mehrere Stunden hinweg festgehalten werden, um mit ihren Bankkarten hohe Geldbeträge abzuheben.
 
 Bestimmte Stadtteile Nairobis wie Eastleigh, Pangani und Slum-Gebiete sind besonders gefährlich. In Nairobi ereigneten sich zudem in letzter Zeit mehrere Fälle von Trickbetrug, in denen die Betrüger den Reisenden, als Polizisten verkleidet, gegenübertraten. Es ist daher zu empfehlen, sich immer den Dienstausweis des vermeintlichen Polizisten zeigen zu lassen und diesem nicht ohne nachvollziehbaren Grund zu folgen.
 
-In Nairobi und in Mombasa besteht die erhöhte Gefahr von Raubüberfallen, auf Fußgänger wie auch Autofahrer einschließlich des „Car-Jackings“.  
+In Nairobi und in Mombasa besteht die erhöhte Gefahr von Raubüberfallen, auf Fußgänger wie auch auf Autofahrer einschließlich des „Car-Jackings“.  
 Auch bei organisierten „Slum-Touren“ ist es in der Vergangenheit zu gewalttätigen Übergriffen auf Besuchergruppen gekommen.
 
 Bei Spaziergängen an Stränden nach Einbruch der Dunkelheit und außerhalb der Hotelanlagen besteht eine erhöhte Gefahr, überfallen zu werden.
@@ -125,7 +128,7 @@ Seit Ende 2022 kam es bisher zu mindestens drei Raubüberfällen auf deutsche St
 * Meiden Sie daher entlegene Gegenden. Telefonieren Sie in der Öffentlichkeit nur falls unbedingt nötig, ansonsten verwahren Sie Ihr Mobiltelefon sicher. Falls Sie eine Tasche mitführen, tragen Sie diese auf der von der Straße abgewandten Seite. Führen Sie nur so viel Bargeld mit wie unbedingt notwendig. Tragen Sie die Wertsachen am Körper verteilt.
 * Achten Sie insbesondere auf „Boda Bodas“ (Motorradtaxis).
 * **Leisten Sie bei einem Raubüberfall keinesfalls Gegenwehr.** Informieren Sie unverzüglich die örtliche Polizei und die Deutsche Botschaft Nairobi.
-* Informieren Sie unverzüglich die örtliche Polizei und die deutsche Botschaft.
+* Informieren Sie unverzüglich die örtliche Polizei und die [Deutsche Botschaft Nairobi.](https://nairobi.diplo.de/ke-de/ueber-uns/adressenairobi/1510552?openAccordionId=item-203148-0-panel)
 
 ### Piraterie auf hoher See
 
@@ -220,7 +223,13 @@ Landeswährung ist der Kenya-Shilling (KES). Bargeld kann an Geldautomaten mit K
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
-### Mögliche Einreisebeschränkungen/COVID-19
+### Einreisebestimmungen
+
+Seit Januar 2024 benötigen alle Reisenden (Ausnahmen siehe [eTA-Webseite](https://www.etakenya.go.ke/en)) eine „Electronic Travel Authorization“ (sogenannte „eTA“; seit Einführung der eTA ist kein Visum mehr erforderlich) zur Einreise nach Kenia. Die Beantragung erfolgt [online](https://www.etakenya.go.ke/en) und kann frühestens drei Monate vor Abreise eingereicht werden; spätestens jedoch 72 Stunden vor Abreise. Die „eTA“ berechtigt nicht automatisch zur Einreise – dies liegt im Ermessen der Grenzbeamten bei der Einreise. Weitere Informationen in deutscher Sprache bietet die [Kenianische Botschaft.](http://kenyaembassyberlin.de/Visa.42.0.html?&L=1) Bereits erteilte (e)Visa behalten ihre Gültigkeit bis zum Abschluss der Reise.
+
+* Bitte beachten Sie die rechtzeitige Beantragung der „eTA“*.* Weitere Hinweise erteilen die [kenianischen Behörden.](https://www.etakenya.go.ke/en)
+
+#### *Mögliche Einreisebeschränkungen/COVID-19*
 
 Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei einer [offiziellen Stelle Kenias](https://www.kcaa.or.ke/covid-19/covid-19-travel-requirements) sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
@@ -240,17 +249,19 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate über das Aufenthaltsende hinaus gültig sein. Die Vorlage eines Rück- oder Weiterreisetickets ist notwendig. Vor Einreise ist eine elektronische Einreisegenehmigung „eTA“ notwendig, siehe *Aktuelles.*
+Siehe auch *Einreise und Zoll -* *Einreisebestimmungen.*
+
+Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate über das Aufenthaltsende hinaus gültig sein. Die Vorlage eines Rück- oder Weiterreisetickets ist notwendig. Vor Einreise ist eine elektronische Einreisegenehmigung „eTA“ notwendig.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
 ### ETA/Visum
 
-Siehe *Aktuelles - Einreisebestimmungen*
+Siehe *Einreise und Zoll - Einreisebestimmungen*
 
 Seit Einführung der elektronischen Einreisegenehmigung „eTA“ ist kein Visum zur Einreise nach Kenia mehr erforderlich.
 
-Bereits erteilte (e)Visa behalten ihre Gültigkeit bis zum Abschluss der Reise.
+Bereits erteilte (E-)Visa behalten ihre Gültigkeit bis zum Abschluss der Reise.
 
 #### *East African Tourist Visa*
 
@@ -379,9 +390,7 @@ Reisen in große Höhe können mit besonderen Gefahren verbunden sein.
 
 * Beachten Sie vor geplanten Aufstiegen auf den Mount Kenya unsere Informationen zur [Höhenkrankheit.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hoehenkrankheit/2519606 "Höhenkrankheit")
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 

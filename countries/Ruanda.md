@@ -6,8 +6,15 @@
 
 Die Sicherheitslage im Osten der Demokratischen Republik Kongo an der Grenze zu Ruanda ist weiterhin schlecht. Es kommt immer wieder zu Kämpfen zwischen der kongolesischen Armee und bewaffneten Gruppen, wie z.B. M23, im Grenzgebiet zu Ruanda.
 
-* **Lassen Sie im Grenzgebiet besondere Vorsicht walten.**
+* Lassen Sie im Grenzgebiet besondere Vorsicht walten.
 * **Beachten Sie die Teilreisewarnung für die [Demokratische Republik Kongo](https://www.auswaertiges-amt.de/de/service/laender/kongodemokratischerepublik-node/kongodemokratischerepubliksicherheit/203202).**
+
+### *Präsidentschaftswahlen am 15. Juli 2024*
+
+Am 15. Juli 2024 finden in Ruanda Präsidentschafts- und Parlamentswahlen statt. Der Wahlkampf startet bereits am 22. Juni 2023. Mit Menschenansammlungen und Großkundgebungen, die auch zu Verkehrsbehinderungen führen können, ist zu rechnen.
+
+* Informieren Sie sich über Zeitpunkt und Ort von Großkundgebungen und verhalten Sie sich situationsgerecht.
+* Folgen Sie unbedingt den Anweisungen lokaler Sicherheitskräfte.
 
 ## Sicherheit
 
@@ -98,8 +105,7 @@ Darüber hinaus ist das Abheben von RWF mit Kredit- bzw. Debitkarten (Girocard) 
 
 Bitte beachten Sie *Reiseinfos – Grenzschließung.*
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -115,8 +121,9 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Vorläufiger Personalausweis:** Nein
 * **Kinderreisepass:** Ja
 
-**Anmerkungen/Mindestrestgültigkeit:**   
-Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate über die Reise hinaus gültig sein.
+**Anmerkungen/Mindestrestgültigkeit:** 
+
+Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate über die Reise hinaus gültig sein.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab. Nähere Informationen können bei der jeweiligen Fluggesellschaft erfragt werden.
 
@@ -138,7 +145,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 ### Einfuhrbestimmungen
 
-Die Ein- und Ausfuhr der Landeswährung ist bis zu einem Betrag von 5.000 RWF, die Mitnahme von Fremdwährung unbegrenzt erlaubt, sie muss aber deklariert werden.
+Die Ein- und Ausfuhr von Fremdwährung ist unbegrenzt erlaubt, sie muss aber ab einem Betrag von 10.000 USD deklariert werden.
 
 Die Einfuhr von Waffen, Drogen und pornographischem Material aller Art ist nicht erlaubt. Gleiches gilt für Plastikverpackungen und –tüten.  Zuwiderhandlungen können mit Geld- und Haftstrafen geahndet werden.
 
@@ -232,9 +239,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG").
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
