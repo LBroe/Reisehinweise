@@ -1,22 +1,5 @@
 # Kolumbien: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Waldbrandgefahr*
-
-In Zusammenhang mit dem Klimaphänomen El Niño herrschen in Kolumbien aktuell extreme Trockenheit und Hitze. Im gesamten Land ist die Waldbrandgefahr hoch.
-
-Mitunter kann die Rauchentwicklung durch einzelne Waldbrände zu Einschränkungen im Flugverkehr führen.
-
-* Beachten Sie die Anweisungen lokaler Behörden.
-* Beachten Sie die Hinweise der [Unidad Nacional para la Gestión del Riesgo de Desastres.](https://portal.gestiondelriesgo.gov.co/)
-
-### *Einreise nach Ecuador auf dem Landweg*
-
-Seit dem 12. Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines polizeilichen Führungszeugnisses mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich. Weitere Informationen finden Sie in den Reise- und Sicherheitshinweisen für **[Ecuador](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232#content_4)**.
-
-* Bitte beachten Sie, dass ein [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) ggf. auch über die deutschen Auslandsvertretungen in der Region beantragt werden kann und erkundigen Sie sich vorab nach den Bearbeitungszeiten.
-
 ## Sicherheit
 
 **Von Reisen in folgende Departamentos bzw. Gebiete wird** – mit Ausnahme von Fahrten auf Hauptstraßen zwischen Großstädten bei Tageslicht - **dringend abgeraten:**
@@ -30,7 +13,8 @@ Seit dem 12. Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von 
 * **Östliche und südliche Teile von Meta** (mit Ausnahme der Tourismusregion Caño Cristales)
 * **Putumayo** (mit Ausnahme der Hauptstadt Mocoa)
 * **Nariño** (außer der Hauptstadt Pasto und dem Grenzübergang Ipiales)
-* **Cauca** (mit Ausnahme der Hauptstadt Popayán)
+* **Cauca**
+* **Westliche Teile des Valle del Cauca** (inklusive Buenaventura sowie Jamundí)
 * **Chocó** (außer dem Küstenstreifen zwischen Nationalpark Utría und Punta Arusi)
 * **Ländliche Regionen im Norden von Antioquia**
 * **Süd-Córdoba und**
@@ -83,7 +67,7 @@ Reisende werden zudem gegen ihren Willen und in Unkenntnis als „Drogenschmuggl
 * Stellen Sie Fahrzeuge stets auf bewachten Parkplätzen ab und lassen Sie keine Wertsachen oder Taschen sichtbar im Auto
 * Halten Sie keine Taxis am Straßenrand an, sondern bestellen Sie sie per Telefon- oder Internetservice (z.B. die Taxi-App [CABIFY](https://cabify.com/es)), nutzen Sie Taxis an den autorisierten Taxiständen oder nutzen Sie einen Limousinenservice.
 * Nehmen Sie keine Getränke oder Esswaren von Fremden an und lassen Sie diese auch im Restaurant nicht unbeaufsichtigt.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 * Nehmen Sie flüchtige Bekanntschaften, z.B. aus einem Online-Dating nicht direkt nach Hause/in Ihre Unterkunft mit. In diesem Kontext sind bereits mehrere Raubüberfälle bekannt geworden. Aufgrund von Überdosierungen täterseits gab es auch einige Todesfälle zu verzeichnen. Insbesondere hatten die Opfer vorherigen Kontakt mit „Lockvögeln“ auf sogenannten Dating-Seiten im Internet. Lassen Sie auch bei flüchtigen Bekanntschaften entsprechende Vorsicht walten. Seien Sie besonders vorsichtig bei Lockangeboten, z. B. über das Internet, um auf Kosten anderer eine Reise durchzuführen.
 * Seien Sie besonders vorsichtig bei Lockangeboten z.B. über das Internet, um auf Kosten anderer eine Reise durchzuführen.
 * Nehmen Sie kein Gepäck für Fremde mit und kontrollieren den Inhalt des eigenen Gepäcks.
@@ -99,10 +83,16 @@ An der Nordküste am karibischen Meer ist von Juni bis Dezember Wirbelsturmsaiso
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 * Beachten Sie die Hinweise zu vulkanischen und seismischen Aktivitäten des [Servicio Geológico Colombiano.](https://www2.sgc.gov.co)
-* Zu regionalen Überschwemmungen und Erdrutschen nach schweren Regenfällen finden Sie bei der [kolumbianischen Behörde für nationalen Katastrophenschutz UNGRD](http://portal.gestiondelriesgo.gov.co/Paginas/inicio.aspx) aktuelle Informationen.
+* Zu regionalen Überschwemmungen und Erdrutschen nach schweren Regenfällen sowie zum Thema Waldbrandgefahr finden Sie bei der [kolumbianischen Behörde für nationalen Katastrophenschutz UNGRD](http://portal.gestiondelriesgo.gov.co/Paginas/inicio.aspx) aktuelle Informationen.
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland")
 
 ## Reiseinfos
+
+### *Einreise nach Ecuador auf dem Landweg*
+
+Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines polizeilichen Führungszeugnisses mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich. Weitere Informationen finden Sie in den Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232#content_4)
+
+* Bitte beachten Sie, dass ein [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) ggf. auch über die deutschen Auslandsvertretungen in der Region beantragt werden kann und erkundigen Sie sich vorab nach den Bearbeitungszeiten.
 
 ### Infrastruktur/Verkehr
 
@@ -156,8 +146,7 @@ Landeswährung ist der kolumbianische Peso (COP). EUR können in Wechselstuben i
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -214,14 +203,6 @@ Für Minderjährige, die (auch) kolumbianische Staatsangehörige sind (z.B. deut
 ### Einreise aus/über Brasilien
 
 Reisende, die aus oder über Brasilien (und anderen Ländern) einreisen oder dort länger als 24 Stunden im Transit verbracht haben, müssen derzeit eine Gelbfieberimpfung nachweisen, ohne die oft bereits die Beförderung von Flughäfen in Brasilien abgelehnt wird, s. auch *Gesundheit - Impfschutz*.
-
-### Ausreise nach Ecuador
-
-Siehe auch *Aktuelles*
-
-Seit dem 12. Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines polizeilichen Führungszeugnisses mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich. Ohne das korrekte Führungszeugnis kann die Einreise verweigert werden. Von der Vorlage befreit sind Minderjährige in Begleitung von Familienangehörigen bis zum vierten Verwandtschaftsgrad. Das Erfordernis gilt nicht für Einreisen auf dem Luftweg.
-
-* Bitte beachten Sie, dass ein [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) ggf. auch über die deutschen Auslandsvertretungen in der Region beantragt werden kann und erkundigen Sie sich vorab nach den Bearbeitungszeiten.
 
 ### Einfuhrbestimmungen
 
@@ -315,9 +296,7 @@ Das medizinische Versorgungsangebot ist in den größeren Städten in der Regel 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen, siehe [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
