@@ -21,10 +21,11 @@ Es kann gelegentlich zu Demonstrationen, größeren Menschenansammlungen und Unr
 
 ### Kriminalität
 
-Eine erhöhte Kriminalität wie insbesondere Taschendiebstahl und Handtaschenraub sind insbesondere ab Einbruch der Dunkelheit in einigen Stadtteilen von Brazzaville wie Ouenze, Talangaï, Bakongo, Poto Poto, Makélékélé sowie in der Hafenstadt Pointe-Noire zu verzeichnen. Diebe sind dort vor allem an den Stränden aktiv. In Brazzaville und Pointe-Noire kommt es vermehrt zu Einbrüchen.
+Kriminalität, wie Taschendiebstahl und Handtaschenraub durch motorisierte Diebe (mit Kfz und Motorrad), kommen in erhöhtem Maße vor. Insbesondere ab Einbruch der Dunkelheit im Stadtzentraum von Brazzaville sowie in den Stadtteilen Ouenze, Talangaï, Bakongo, Poto Poto, Makélékélé sowie in der Hafenstadt Pointe-Noire muss damit gerechnet werden. Auch westliche Ausländer sind betroffen. In Pointe-Noire sollten Reisende insbesondere an den Stränden wachsam sein. Daneben kommt es in Brazzaville und Pointe-Noire vermehrt zu Einbrüchen.
 
 * Vermeiden Sie Spaziergänge und Aufenthalte an Stränden nach Einbruch der Dunkelheit.
-* Meiden Sie die erwähnten Stadtteile von Brazzaville und Pointe-Noire nachts.
+* Passen Sie Ihr Verhalten insbesondere in den erwähnten Stadtteilen von Brazzaville und Pointe-Noire und ab Einbruch der Dunkelheit an.
+* Leisten Sie keinen Widerstand, da die Hemmschwelle niedrig sein kann.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf.
 * Es wird empfohlen, stets ein gültiges Ausweisdokument mit sich zu führen.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -51,14 +52,16 @@ Konsularisch zuständig für die Republik Kongo ist ausschließlich die [deutsch
 
 Innerkongolesische Flugverbindungen gibt es vor allem zwischen Brazzaville/Kayi/Dolisie, Brazzaville/Ouesso und Brazzaville/Pointe-Noire. Alle in der Republik Kongo zugelassenen Fluggesellschaften haben teilweise alte, schlecht gewartete Flugzeuge und stehen auf der [gemeinschaftlichen Liste unsicherer Fluggesellschaften der EU.](https://ec.europa.eu/transport/modes/air/safety/air-ban/search_en) Von ihrer Nutzung wird abgeraten.
 
-Bei Nutzung der gebührenpflichtigen Nationalstraße Nr. 1 von Brazzaville über Dolisie bis Pointe-Noire besteht aufgrund leichtsinniger Verkehrsteilnehmer und zahlreicher unzureichend gesicherter defekter Lastwagen eine erhebliche Unfallgefahr. Gleiches gilt für die weniger befahrene Nationalstraße Nr. 2 von Brazzaville Richtung Norden. Stets muss mit Straßensperren und Kontrollen durch die kongolesischen Sicherheitsbehörden gerechnet werden.
+Stromausfälle auch in Großstädten sind keine Seltenheit.
+
+Bei Nutzung der gebührenpflichtigen Nationalstraße Nr. 1 von Brazzaville über Dolisie bis Pointe-Noire besteht aufgrund leichtsinniger Verkehrsteilnehmer und zahlreicher unzureichend gesicherter defekter Lastwagen eine nicht zu unterschätzende Unfallgefahr. Gleiches gilt für die weniger befahrene Nationalstraße Nr. 2 von Brazzaville Richtung Norden. Stets muss mit Straßensperren und Kontrollen durch die kongolesischen Sicherheitsbehörden gerechnet werden.
 
 Das Straßennetz einschließlich Nationalstraßen (Ausnahme: Nationalstraße 1) ist insgesamt in schlechtem Zustand, was Verkehrsunfälle begünstigt. Eine funktionierende medizinische Notfallversorgung existiert nicht.  
 Außerhalb der Hauptstadt Brazzaville und der Hafenstadt Pointe-Noire ist die touristische Infrastruktur nur schwach entwickelt.
 
 * Fahren Sie auf der Nationalstraße 1 besonders vorsichtig und rechnen Sie jederzeit mit Spurrillen oder Schlaglöchern. Reisen Sie möglichst im Konvoi von mindestens zwei Fahrzeugen.
 * Vermeiden Sie unbedingt Fahrten außerhalb von Ortschaften nach Einbruch der Dunkelheit.
-* Verzichten Sie auf Fahrten mit Taxis und Bussen auf Fernstrecken. Dies gilt insbesondere während der Regenzeit.
+* Verzichten Sie auf Fahrten mit Taxis und Bussen auf Fernstrecken. Dies gilt insbesondere während der Regenzeit. Starkregen kann Straßen unterspülen, sodass sich eine Weiterreise verzögern kann, bis die Straße wieder passierbar ist. Rechnen Sie auch mit nicht funktionierenden Ampeln.
 
 ### Führerschein
 
@@ -78,7 +81,7 @@ Drogenhandel wird streng bestraft.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der CFA Franc (XAF). Es empfiehlt sich die Mitnahme von EUR oder USD in bar, auch wenn Kreditkarten (Visa) inzwischen bei einigen Geschäften und Restaurants als Zahlungsmittel akzeptiert werden. Geldautomaten zur Beschaffung von Bargeld (mit Kreditkarte) sind in größeren Ortschaften vorhanden.
+Landeswährung ist der CFA-Franc (XAF). Es empfiehlt sich die Mitnahme von EUR oder USD in bar, auch wenn Kreditkarten (Visa) inzwischen bei einigen Geschäften und Restaurants als Zahlungsmittel akzeptiert werden. Geldautomaten zur Beschaffung von Bargeld (mit Kreditkarte) sind in größeren Ortschaften vorhanden.
 
 ## Einreise und Zoll
 
@@ -219,9 +222,7 @@ Die medizinische Versorgung im Lande (auch in Brazzaville und Pointe-Noire) ist 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
