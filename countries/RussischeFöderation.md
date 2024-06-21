@@ -45,7 +45,7 @@ Deutsch-russische Doppelstaater müssen beachten, dass sie von den russischen Be
 
 ### **Ein- und Ausreisen**
 
-Finnland hat bis auf Weiteres alle Grenzübergänge aus der und in die Russische Föderation geschlossen, siehe auch [Reise- und Sicherheitshinweise Finnland](https://www.auswaertiges-amt.de/de/service/laender/finnland-node/finnlandsicherheit/211624).
+Finnland hat bis auf Weiteres alle Grenzübergänge aus der und in die Russische Föderation geschlossen, siehe auch [Reise- und Sicherheitshinweise Finnland](https://www.auswaertiges-amt.de/de/service/laender/finnland-node/finnlandsicherheit/211624).
 
 Auf dem Landweg sind Ein- und Ausreise noch über einige wenige Grenzübergänge via Polen und Litauen (Kaliningrad), Estland, Lettland und Norwegen mit PKW oder Bus (Tickets online) möglich.
 
@@ -75,8 +75,9 @@ Zuletzt kam es am 22. März 2024 zu einem Terroranschlag auf das Veranstaltungs-
 #### *Nordkaukasus*
 
 Es besteht bei Reisen in den Föderalbezirk Nordkaukasus eine erhöhte Sicherheitsgefährdung durch mögliche Anschläge mit terroristischem Hintergrund, bewaffnete Auseinandersetzungen und Entführungen, v. a. in Inguschetien, Tschetschenien und Dagestan.  
-Zudem gilt für bestimmte Streckenabschnitte einiger Verkehrsstraßen im Nordkaukasus nur beschränkter Zutritt für Ausländer.  
-Personen, die trotz der Risiken in die oben genannten Regionen reisen, können bei einem Notfall nur mit eingeschränkten Hilfsmöglichkeiten der deutschen Botschaft in Moskau rechnen.
+Zudem gilt für bestimmte Streckenabschnitte einiger Verkehrsstraßen im Nordkaukasus nur beschränkter Zutritt für Ausländer.
+
+Personen, die trotz der Risiken in die oben genannten Regionen reisen, können bei einem Notfall nur mit eingeschränkten Hilfsmöglichkeiten der Deutschen Vertretungen in Russland rechnen.  
 
 Eine Einreise über die georgisch-russische Grenze in die georgischen Konfliktgebiete Abchasien und Südossetien wird von den georgischen Behörden weiterhin als illegaler Grenzübertritt geahndet, siehe [Reise- und Sicherheitshinweise Georgien](https://www.auswaertiges-amt.de/de/service/laender/georgien-node/georgiensicherheit/201918 "Georgien: Reise- und Sicherheitshinweise").
 
@@ -101,7 +102,7 @@ Wie auch in anderen Großstädten kann es in Bars und Clubs russischer Großstä
 
 In nur offiziell aussehenden, aber nicht lizensierten Taxis sind Touristen Opfer von Straftaten geworden.
 
-Aktuell gibt es vermehrt Fälle von Internetbetrug, indem Personen aus Westeuropa und den USA aufgefordert werden, beispielsweise im Rahmen vermeintlicher länger angebahnter Liebesbeziehungen Geldzahlungen zu veranlassen. In der Regel besteht keine Möglichkeit, einmal überwiesene Geldbeträge zurückzuerlangen, siehe auch [Merkblatt der deutschen Vertretungen in der Russischen Föderation](https://germania.diplo.de/ru-de/service/05-VisaEinreise/kurzfristigeAufenthalt).
+Aktuell gibt es vermehrt Fälle von Internetbetrug, indem Personen aus Westeuropa und den USA aufgefordert werden, beispielsweise im Rahmen vermeintlicher länger angebahnter Liebesbeziehungen Geldzahlungen zu veranlassen. In der Regel besteht keine Möglichkeit, einmal überwiesene Geldbeträge zurückzuerlangen, siehe auch [Merkblatt der Deutschen Vertretungen in der Russischen Föderation](https://germania.diplo.de/ru-de/service/05-VisaEinreise/kurzfristigeAufenthalt).
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in der Metro und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Wählen Sie Taxis sorgsam aus, nutzen Sie möglichst nur registrierte Taxiunternehmen, benutzen Apps oder bestellen Sie diese bereits im Hotel.
@@ -190,7 +191,7 @@ Bei der Ausreise aus Kaliningrad nach Polen sollten die [Reise- und Sicherheitsh
 
 ### Betretenserlaubnis für bestimmte Gebiete
 
-Es gibt in der Russischen Föderation immer noch Gemeinden und Gebiete, die nur mit einer besonderen Erlaubnis der zuständigen staatlichen Organe betreten werden dürfen. Dies ist insbesondere bei Reisen in Grenzgebiete der Russischen Föderation wie im Gebiet Kaliningrad (z.B. zum Angeln in grenznahen Bereichen, bei individuellen Schiffstouren in den Küstengewässern, zur Jagd oder sonstigen Aufenthalten) und in den Nordkaukasus oder Teile der Halbinsel Kamtschatka zu beachten. Hier sind ggf. gesonderte Berechtigungsscheine für den Aufenthalt bei den zuständigen Grenzdienst- oder Kreisverwaltungen zu beantragen, siehe auch [Informationen der deutschen Vertretungen in Russland](https://germania.diplo.de/ru-de/service/11-InformationenfuerTouristen/reglementierte-zonen/1588034).
+Es gibt in der Russischen Föderation immer noch Gemeinden und Gebiete, die nur mit einer besonderen Erlaubnis der zuständigen staatlichen Organe betreten werden dürfen. Dies ist insbesondere bei Reisen in Grenzgebiete der Russischen Föderation wie im Gebiet Kaliningrad (z.B. zum Angeln in grenznahen Bereichen, bei individuellen Schiffstouren in den Küstengewässern, zur Jagd oder sonstigen Aufenthalten) und in den Nordkaukasus oder Teile der Halbinsel Kamtschatka zu beachten. Hier sind ggf. gesonderte Berechtigungsscheine für den Aufenthalt bei den zuständigen Grenzdienst- oder Kreisverwaltungen zu beantragen, siehe auch [Informationen der Deutschen Vertretungen in Russland](https://germania.diplo.de/ru-de/service/11-InformationenfuerTouristen/reglementierte-zonen/1588034).
 
 * Erkundigen Sie sich vor Reisebeginn bei Ihren Einladern, Ihrem Reisebüro oder bei den russischen Vertretungen in Deutschland, ob Sonderregelungen im beabsichtigten Reisegebiet bestehen.
 * Vermeiden Sie Reisen in diese Gebiete ohne Erlaubnis.
@@ -236,8 +237,7 @@ Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -255,7 +255,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen in der Regel eine Gültigkeit von sechs Monaten über das Ausreisedatum hinaus haben und unbeschädigt sein; in der Praxis werden manchmal auch Pässe mit einer geringeren Restgültigkeit akzeptiert , auf jeden Fall aber muss der Pass noch mindestens drei Monategültig sein.
+Reisedokumente müssen in der Regel eine Gültigkeit von sechs Monaten über das Ausreisedatum hinaus haben und unbeschädigt sein; in der Praxis werden manchmal auch Pässe mit einer geringeren Restgültigkeit akzeptiert, auf jeden Fall aber muss der Pass noch mindestens drei Monategültig sein.
 
 Beschädigte Reisedokumente werden von den russischen Behörden und den Fluggesellschaften regelmäßig am Flughafen zurückgewiesen.
 
@@ -264,16 +264,17 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 ### Visum
 
 Deutsche Staatsangehörige benötigen zur Ein- und Ausreise sowie im Transit ein Visum oder eine Aufenthaltserlaubnis.  
-Das Visum muss grundsätzlich vor der Einreise bei der zuständigen russischen Auslandsvertretung beantragt werden.  
-Eine Visumerteilung durch russische Grenzstellen ist nicht möglich. Weitere Informationen bietet die [Botschaft der Russischen Föderation in Berlin](https://russische-botschaft.ru/de/information/fur-touristen/).
+Das Visum muss grundsätzlich vor der Einreise bei der zuständigen russischen Auslandsvertretung beantragt werden.
 
-#### *e-Visa*
+Eine Visumserteilung durch russische Grenzstellen ist nicht möglich. Weitere Informationen bietet die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).  
+
+#### *E-Visa*
 
 Seit August 2023 stellt Russland in einem vereinfachten Verfahren wieder [E-Visa](https://electronic-visa.kdmid.ru/index_en.html) für Staatsangehörige aus 55 Ländern, darunter auch Deutschland aus. Diese berechtigen zu einem Kurzaufenthalt in Russland bis zu 16 Tagen.
 
-Die Erteilung eines e-Visas durch die russischen Grenzstellen ist nicht möglich.
+Die Erteilung eines E-Visums durch die russischen Grenzstellen ist nicht möglich.
 
-Die Ein- und Ausreise mit e-Visa ist nur an [bestimmten Grenzübergangsstellen](https://electronic-visa.kdmid.ru/index_en.html) möglich. Nähere Auskünfte zum Verfahren sowie weitere Informationen zu den Einreisebedingungen erteilt die zuständige [russische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenrussischefoederation/201544?openAccordionId=item-201678-0-panel)
+Die Ein- und Ausreise mit E-Visa ist nur an [bestimmten Grenzübergangsstellen](https://electronic-visa.kdmid.ru/index_en.html) möglich. Nähere Auskünfte zum Verfahren sowie weitere Informationen zu den Einreisebedingungen erteilt die zuständige [russische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenrussischefoederation/201544?openAccordionId=item-201678-0-panel)
 
 Bereits kleinste Schreibfehler im elektronischen Visumantrag (Name, Geburtsdatum, Geburtsort, Passnummer – in deutschen Pässen gibt es nur die Null „0“ aber nicht den Buchstaben „O“, Gültigkeitsdaten des Passes) führen zur Zurückweisung bei der Einreise.  
 Es müssen auch alle (Vor-)Namen im Antrag aufgeführt werden, die im Reisepass genannt sind. Umlaute und andere Sonderzeichen im Namen sind wie in der maschinenlesbaren Zeile des Reisepasses anzugeben.
@@ -286,7 +287,7 @@ Beförderungsunternehmen können die Existenz und Gültigkeit elektronischer Vis
 
 #### *Überschreitung des Aufenthalts*
 
-Das Überziehen des russischen Visums, einschließlich des e-Visa, ist grundsätzlich strafbar und kann dazu führen, dass Hotels, Pensionen und Hostels sich weigern, die Betroffenen aufzunehmen. Ist das Visum abgelaufen, ist die Ausreise nicht ohne Weiteres möglich.
+Das Überziehen des russischen Visums, einschließlich des E-Visa, ist grundsätzlich strafbar und kann dazu führen, dass Hotels, Pensionen und Hostels sich weigern, die Betroffenen aufzunehmen. Ist das Visum abgelaufen, ist die Ausreise nicht ohne Weiteres möglich.
 
 Es müssen beim örtlich zuständigen Büro der Hauptverwaltung für Migrationsangelegenheiten des russischen Innenministeriums (GUWM) Formalitäten in die Wege geleitet werden. In der Regel schließt sich ein gerichtliches Verfahren an, mit der Folge einer Geldstrafe und der Pflicht zur Beantragung eines kostenpflichtigen speziellen russischen Ausreisevisums („Transit visa no. 1“) bei der zuständigen russischen regionalen Verwaltung des Innenministeriums, das bis zu zwei Wochen in Anspruch nimmt, oder gar einer Ausweisung. Die Ausweisung ist wiederum mit einer Wiedereinreisesperre von fünf Jahren verbunden.
 
@@ -295,28 +296,28 @@ Es müssen beim örtlich zuständigen Büro der Hauptverwaltung für Migrationsa
 
 #### *Krankenversicherungspflicht*
 
-Für Deutsche besteht bei Reisen nach Russland Krankenversicherungspflicht, ein Versicherungsschein muss bei Beantragung des Visums vorgelegt werden. Bei der [Botschaft der Russischen Föderation in Berlin](https://russische-botschaft.ru/de/consulate/visafragen/reiseversicherung/) ist eine Liste der akzeptierten Versicherungsunternehmen erhältlich.
+Für Deutsche besteht bei Reisen nach Russland Krankenversicherungspflicht, ein Versicherungsschein muss bei Beantragung des Visums vorgelegt werden. Weitere Informationen erteilt die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).
 
-#### *Visumfreier Transitaufenthalt im Flugverkehr*
+#### *Visumsfreier Transitaufenthalt im Flugverkehr*
 
 Für Transitaufenthalte bei Flugreisen, die ein einmaliges Umsteigen an einem Flughafen innerhalb von max. 24 Stunden erfordern, ist kein Visum erforderlich, sofern das Ticket für den Weiterflug vorgelegt wird, ein Transitbereich am Flughafen vorhanden ist und dieser nicht verlassen wird.
 
-#### *Visumfreier Aufenthalt im Schiffsverkehr*
+#### *Visumsfreier Aufenthalt im Schiffsverkehr*
 
-Passagiere auf Fähr- und Kreuzfahrtschiffen können im Rahmen touristischer Gruppenreisen bis zu 72 Stunden visumfrei einreisen und sich im Gebiet des Anlegehafens aufhalten. Die Reise- und Personendaten sind vor der Ankunft anzugeben, hierfür ist der Reiseveranstalter oder die Reederei zuständig. Weitere Details sollten vor der Abreise mit diesem geklärt werden. Derzeit ist der Schiffsverkehr und die visumfreie Einreise ausgesetzt.
+Passagiere auf Fähr- und Kreuzfahrtschiffen können im Rahmen touristischer Gruppenreisen bis zu 72 Stunden visumsfrei einreisen und sich im Gebiet des Anlegehafens aufhalten. Die Reise- und Personendaten sind vor der Ankunft anzugeben, hierfür ist der Reiseveranstalter oder die Reederei zuständig. Weitere Details sollten vor der Abreise mit diesem geklärt werden. Derzeit sind der Schiffsverkehr und die visumsfreie Einreise ausgesetzt.
 
 ### Ein- und Ausreisekontrolle/Einreisesperren
 
 Bei Überschreiten der Außengrenze wird eine eingehende Kontrolle durchgeführt, die die Überprüfung der Einreisevoraussetzungen, sowie gegebenenfalls der für den Aufenthalt und die Ausübung einer Erwerbstätigkeit erforderlichen Erlaubnisse umfasst.
 
-Reisende müssen  unter Umständen mit mehrstündigen Befragungen und der Durchsuchung mitgeführter elektronischer Kommunikationsmittel rechnen.  
+Reisende müssen unter Umständen mit mehrstündigen Befragungen und der Durchsuchung mitgeführter elektronischer Kommunikationsmittel rechnen.  
 Es werden keine elektronischen Bordkarten z.B. auf Mobiltelefonen, sondern nur als Papierausdruck akzeptiert. Ein Ausdruck ist am Check-In-Automat im Terminal möglich.
 
 Sind die Voraussetzungen nicht erfüllt oder wenn eine Einreisesperre besteht, wird die Einreise in die Russische Föderation verweigert. Einreisesperren können nach der russischen Migrationsgesetzgebung bereits dann verfügt werden, wenn innerhalb von drei Jahren zwei Ordnungswidrigkeiten, sog. „Administrative Strafen“, u.a. Verstöße gegen die russische Straßenverkehrsordnung, Rauchen außerhalb genehmigter Bereiche, begangen wurden, und zwar unabhängig davon, ob dafür fällige Geldbußen bereits entrichtet wurden.
 
 Die Ausreise aus der Russischen Föderation kann auch verweigert werden, wenn Verbindlichkeiten wie Steuern, Strafgebühren, Unterhaltszahlungen, Kredite bestehen – häufig ist ein Verlassen des Landes erst möglich, wenn ein dann einzuleitendes Gerichtsverfahren abgeschlossen ist.
 
-Die deutschen Vertretungen in der Russischen Föderation sind grundsätzlich nicht in der Lage, außerhalb der Dienstzeiten Passersatzdokumente zu erteilen oder bei Problemen mit Visa, deren Gültigkeit abgelaufen ist, zu helfen.
+Die Deutschen Vertretungen in der Russischen Föderation sind grundsätzlich nicht in der Lage, außerhalb der Dienstzeiten Passersatzdokumente zu erteilen oder bei Problemen mit Visa, deren Gültigkeit abgelaufen ist, zu helfen.
 
 ### Deutsch-russische Doppelstaater
 
@@ -336,22 +337,21 @@ Für Verletzungen der An- und Abmeldepflicht ist grundsätzlich der Einlader/Gas
 
 ### Einfuhrbestimmungen
 
-Regelungen können derzeit abweichen, *s. Aktuelles.*
+Regelungen können derzeit abweichen, *siehe Aktuelles.*
 
 Nach derzeit gültigen Devisenvorschriften müssen lediglich Beträge ab einer Höhe von 10.000 USD bei der Ein- und Ausreise deklariert werden. Die Ausfuhr von Währungen im Gegenwert von über 10.000 USD ist derzeit untersagt. Ggf. ist ein Zoll-Anmeldeformular auszufüllen, der rote Zollkorridor zu benutzen und dort eine Siegelung des Formulars durch den Zoll und für die Ausfuhr der Einfuhr- bzw. Herkunftsnachweis nötig.  
 Bei der Einfuhr von geringeren Beträgen kann jeweils der grüne Zollkorridor benutzt werden. Devisenschmuggel z.B. durch nicht deklarierte Ausfuhr von Devisen bleibt strafbar und kann neben der Konfiszierung des Devisenbetrages und einer Geldstrafe zu einer mehrmonatigen Untersuchungshaft führen.
 
 #### *Einreise mit dem Kfz*
 
-Besonderes Augenmerk sollte auf den Gültigkeitszeitraum der Zolleinfuhrbescheinigung für das Kfz gelegt werden. Wenn ein längerer Aufenthalt als in der Gültigkeit angegeben geplant ist, so muss die Zolleinfuhrerklärung vor Ablauf ihrer Gültigkeit bei der jeweils örtlich zuständigen Zollbehörde verlängert werden. Ohne gültige Einfuhrerklärung ist eine Kfz-Wiederausfuhr grundsätzlich nicht möglich. Fahren ohne gültige Zolldokumente kann zudem eine empfindliche Zollstrafe (Fahrzeugwert als grobe Richtlinie, dieser wird von den russischen Stellen ermittelt) nach sich ziehen. KfZ-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt, siehe *Reiseinfos – Infrastruktur/Verkehr*.
+Besonderes Augenmerk sollte auf den Gültigkeitszeitraum der Zolleinfuhrbescheinigung für das Kfz gelegt werden. Wenn ein längerer Aufenthalt als in der Gültigkeit angegeben geplant ist, so muss die Zolleinfuhrerklärung vor Ablauf ihrer Gültigkeit bei der jeweils örtlich zuständigen Zollbehörde verlängert werden. Ohne gültige Einfuhrerklärung ist eine Kfz-Wiederausfuhr grundsätzlich nicht möglich. Fahren ohne gültige Zolldokumente kann zudem eine empfindliche Zollstrafe (Fahrzeugwert als grobe Richtlinie, dieser wird von den russischen Stellen ermittelt) nach sich ziehen. Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt, siehe *Reiseinfos – Infrastruktur/Verkehr*.
 
 ### Heimtiere
 
-Bei der Einreise mit Heimtieren von Deutschland nach Russland muss eine amtstierärztliche Bescheinigung mit Übersetzung in die russische Sprache vorgelegt werden. Aus dieser muss hervorgehen, dass das Tier nicht an ansteckenden Krankheiten leidet, vorschriftsmäßig geimpft wurde und dass der Ausfuhrort frei von ansteckenden Tierkrankheiten (Tierseuchen) ist. Die Bescheinigung darf nicht älter als drei Tage sein.
+Weitere Informationen zur Einreise bietet die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).
 
-Bei max. zwei Hunden bzw. Katzen pro Reisenden ist die Einreise ohne Einfuhrerlaubnis und Quarantäne zulässig, wenn ein internationaler Heimtierausweis vorhanden ist, der einen Vermerk der zuständigen Behörde des Herkunftslandes über eine in den letzten fünf Tagen vor Abreise durchgeführte klinische Untersuchung des Tieres sowie einen Vermerk, dass das Tier spätestens 20 Tage vor der Reise geimpft worden ist, enthält.
-
-Erforderliche Impfungen für Hunde sind Tollwut, Staupe, Hepatitis, virale Enteritis, parvo- und adenovirale Infektionen, Leptospirose, für Katzen Tollwut und Panleukopenie.
+* Beachten Sie bitte die geänderten und mit Wirkung vom 16. September 2024 geltenden Vorschriften zur (Wieder-)Einfuhr von Heimtieren in die [EU,](https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm) siehe auch [Zoll](https://www.zoll.de/DE/Privatpersonen/Reisen/Reisen-nach-Deutschland-aus-einem-nicht-eu-Staat/Einschraenkungen/Tiere-und-Pflanzen/Schutz-Tierseuchen/Regelungen-Heimtiere/regelungen-heimtiere.html) und [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/haus-und-zootiere_node.html)
+* Informieren Sie sich auch bei den [Deutschen Vertretungen in Russland.](https://germania.diplo.de/ru-de/service/11-InformationenfuerTouristen/haustiere/1281854)
 
 ## Gesundheit
 
@@ -359,11 +359,12 @@ Erforderliche Impfungen für Hunde sind Tollwut, Staupe, Hepatitis, virale Enter
 
 #### *Botulismus*
 
-Seit Juni 2024 berichten Gesundheitsbehörden in Moskau über einen Ausbruch von Lebensmittelbotulismus im Zusammenhang mit dem Verzehr von Thunfischprodukten in Moskau. Lebensmittelbotulismus ist eine seltene, jedoch schwere Erkrankung. In der Regel kommt es zu einer akuten Erkrankung, die mit neurologischen Beschwerden wie Lähmungen einhergeht. Mundtrockenheit sowie Lähmungen der Augenmuskulatur sind frühe Zeichen. Eine Übertragung von Mensch-zu-Mensch findet nicht statt. Das Risiko für Reisende wird als gering eingeschätzt.
+Seit Juni 2024 berichten russische Gesundheitsbehörden in Moskau und anderen Regionen über einen Ausbruch von Lebensmittelbotulismus im Zusammenhang mit dem Verzehr von Thunfischprodukten in Moskau. Lebensmittelbotulismus ist eine seltene, jedoch schwere Erkrankung. In der Regel kommt es zu einer akuten Erkrankung, die mit neurologischen Beschwerden wie Lähmungen einhergeht. Mundtrockenheit sowie Lähmungen der Augenmuskulatur sind frühe Zeichen. Eine Übertragung von Mensch-zu-Mensch findet nicht statt. Das Risiko für Reisende wird als gering eingeschätzt.
 
 * Konsumieren Sie keine entsprechenden Produkte.
 * Beachten Sie allgemeine Hygienemaßnahmen.
 * Bei Auftreten von entsprechenden Symptomen stellen Sie sich ärztlich vor.
+* Folgen Sie den Anordnungen der lokalen Behörden.
 
 #### *Transportschwierigkeiten*
 
@@ -408,9 +409,11 @@ Es ist nicht auszuschließen, dass es in der Nähe der Stadt Tscheljabinsk (Atom
 
 ### Medizinische Versorgung
 
+Siehe *Gesundheit - Aktuelles*
+
 Die medizinische Versorgung insbesondere außerhalb der großen Städte entspricht oft nicht der Versorgung in Mitteleuropa. In aller Regel sind in medizinischen Versorgungseinrichtungen Kenntnisse der Landessprache notwendig. In Moskau, St. Petersburg und anderen Großstädten gibt es einige meist private Krankenhäuser, die hinsichtlich der Unterbringung und der technischen und fachlichen Ausstattung auch höheren Ansprüchen gerecht werden.
 
-Notfallbehandlungen in staatlichen Kliniken sind laut Gesetz grundsätzlich kostenlos, die staatlichen Kliniken entsprechen aber in Ausstattung und Kenntnisstand oft nicht dem deutschen Standard. Hilfe kann über die Notfall-Telefonnummer 03 (vom Mobiltelefon: 112) gerufen werden. In privaten Krankenhäusern, die bei Bedarf auch kostenpflichtige Notarztwagen schicken, können die Kosten einer medizinischen Behandlung um ein vielfaches höher sein als in Deutschland. Außerdem wird selbst in Notfällen eine ärztliche Behandlung oftmals nur gegen Vorkasse (derzeit nur bar) geleistet. Der Reisende sollte für den Krankheitsfall daher genügend Bargeld mit sich führen oder in Deutschland Vorkehrungen für eine schnelle Bargeldbeschaffung (über Blitzüberweisung) treffen. Aufschiebbare oder schwerere Operationen sollten nach ärztlicher Rücksprache in Mitteleuropa durchgeführt werden. Die Bargeldversorgung und die Zahlung mit Kreditkarte ist derzeit nur eingeschränkt möglich, siehe Aktuelles.
+Notfallbehandlungen in staatlichen Kliniken sind laut Gesetz grundsätzlich kostenlos, die staatlichen Kliniken entsprechen aber in Ausstattung und Kenntnisstand oft nicht dem deutschen Standard. Hilfe kann über die Notfall-Telefonnummer 03 (vom Mobiltelefon: 112) gerufen werden. In privaten Krankenhäusern, die bei Bedarf auch kostenpflichtige Notarztwagen schicken, können die Kosten einer medizinischen Behandlung um ein Vielfaches höher sein als in Deutschland. Außerdem wird selbst in Notfällen eine ärztliche Behandlung oftmals nur gegen Vorkasse (derzeit nur bar) geleistet. Der Reisende sollte für den Krankheitsfall daher genügend Bargeld mit sich führen oder in Deutschland Vorkehrungen für eine schnelle Bargeldbeschaffung (über Blitzüberweisung) treffen. Aufschiebbare oder schwerere Operationen sollten nach ärztlicher Rücksprache in Mitteleuropa durchgeführt werden. Die Bargeldversorgung und die Zahlung mit Kreditkarte sind derzeit nur eingeschränkt möglich, siehe *Aktuelles*.
 
 Gemäß den russischen Visavorschriften muss für eine Einreise in die Russische Föderation eine Krankenversicherung abgeschlossen werden. Im Krankheitsfalle sollte sofort mit dieser Versicherung Kontakt aufgenommen werden.
 
