@@ -44,7 +44,7 @@ Es gibt eine verbreitete organisierte Kriminalität, die für Reisende in der Re
 
 Kleinkriminalität wie Taschendiebstähle kommen insbesondere in der Hauptstadt Chișinău und bei der Benutzung öffentlicher Verkehrsmittel vor.
 
-Vermehrt werden Kfz-Kennzeichen gestohlen, zum Teil mit Erpressungsabsicht. Fahrzeuge ohne Kennzeichen dürfen auf öffentlichen Straßen nicht bewegt werden, so dass im Fall eines Diebstahls Anzeige bei der Polizei zu erstatten ist und mit dem Protokoll und Fahrzeugpapieren bei der Zulassungsstelle in Deutschland ggf. durch einen Bevollmächtigten ein Ersatzkennzeichen beschafft werden muss.
+Gelegentlich werden Kfz-Kennzeichen gestohlen, zum Teil mit Erpressungsabsicht. Fahrzeuge ohne Kennzeichen dürfen auf öffentlichen Straßen nicht bewegt werden, sodass im Fall eines Diebstahls Anzeige bei der Polizei zu erstatten ist und mit dem Protokoll und Fahrzeugpapieren bei der Zulassungsstelle in Deutschland ggf. durch einen Bevollmächtigten ein Ersatzkennzeichen beschafft werden muss.
 
 * Seien Sie vor allem in der Hauptstadt Chișinău und bei der Benutzung öffentlicher Verkehrsmittel besonders vorsichtig.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -73,9 +73,7 @@ Die „grüne Versicherungskarte“ ist vorgeschrieben. Es gilt ein absolutes Al
 
 Sammeltaxis dürfen Einbahnstraßen auch in verkehrter Richtung benutzen, sodass Vorsicht geboten ist.
 
-Bei Verkehrsunfällen wurden bereits in vielen Fällen Ausreiseverbote für meistens 30 Tage verhängt.
-
-Bei der Ein- und Ausreise mit dem Pkw ist an den Grenzübergangsstellen mit Wartezeiten zu rechnen. Fahrzeuge können Kontrollen unterzogen werden. Sollte der im Fahrzeugschein eingetragene Halter nicht zu den Insassen des Fahrzeugs gehören, muss eine notariell beglaubigte Vollmacht des Fahrzeughalters im Original mitgeführt werden.
+Bei Verkehrsunfällen wurden bereits in vielen Fällen Ausreiseverbote für meistens 30 Tage verhängt.  
 
 Es gibt keine behindertengerechte Infrastruktur, auch nicht in öffentlichen Einrichtungen.
 
@@ -161,17 +159,18 @@ Gegenstände des persönlichen Bedarfs dürfen zollfrei eingeführt werden. Die 
 
 #### *Einreise mit dem Fahrzeug*
 
+Bei der Ein- und Ausreise mit dem Pkw ist an den Grenzübergangsstellen mit Wartezeiten zu rechnen. Fahrzeuge können Kontrollen unterzogen werden. Sollte der im Fahrzeugschein (im Original mitzuführen) eingetragene Halter nicht zu den Insassen des Fahrzeugs gehören, muss eine notariell beglaubigte Vollmacht des Fahrzeughalters im Original mitgeführt werden.
+
 Bei Einreise mit dem eigenen Fahrzeug wird dieses registriert werden. Für Fahrzeuge, die nicht in der Republik Moldau zugelassen sind, ist eine Umweltgebühr zu entrichten, siehe *Infrastruktur/Verkehr*.
 
 Weitere Informationen sind beim [Customs Service of the Republic of Moldova](https://customs.gov.md/en) erhältlich.
 
 ### Heimtiere
 
-Für die Ein-, Weiter- und Rückreise mit bestimmten Heimtieren (Hunde, Katzen) ist ein EU-Heimtierausweis sowie ein Nachweis zur Tollwutimpfung erforderlich. Zudem muss das Heimtier durch einen Mikrochip gekennzeichnet sein.
+Für die Ein-, Weiter- und Rückreise mit bestimmten Heimtieren (Hunde, Katzen) ist ein EU-Heimtierausweis sowie ein Nachweis zur Tollwutimpfung (Eintragung der Impfungen im Heimtierausweis sowie Nachweis über Tollwut-Antikörper (Titertest)) und ggf. ein Gesundheitszeugnis des Amtstierarztes erforderlich. Zudem muss das Heimtier durch einen Mikrochip gekennzeichnet sein. Weiterführende Informationen bietet die [Veterinärstelle am Flughafen Chisinau.](https://airport.md/en/passenger/info-for-passengers/transportation-of-animals-plants-food) Bei Einreise auf dem Landweg sollte der [Zolldienst](https://customs.gov.md/en/articles/animale-de-companie-1919-ro) direkt kontaktiert werden.  
 
-Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
-
-Bei Flugreisen beachten Sie bitte auch die Informationen zur Reise mit Heimtieren auf der Internetseite der [moldauischen Fluggesellschaft Air Moldova](http://www.airmoldova.md/pets-transportation-en/). 
+* Beachten Sie, dass im Falle der beabsichtigten Wiedereinreise nach Deutschland das Tier die [Voraussetzungen für die Einreise in die EU](https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm) erfüllen muss. Einen Musterausweis, die Fristen sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/haus-und-zootiere_node.html)
+* Bei Flugreisen beachten Sie bitte auch die Informationen zur Reise mit Heimtieren auf der Internetseite der [moldauischen Fluggesellschaft Air Moldova](http://www.airmoldova.md/pets-transportation-en/).
 
 ## Gesundheit
 
@@ -198,9 +197,7 @@ Die medizinische Versorgung in der Republik Moldau entspricht nicht westlichen S
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
