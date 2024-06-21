@@ -16,9 +16,10 @@ Seit dem 10. Juni 2024 misst das Nationale Institut für Seismologie und Vulkano
 
 Tourismusveranstalter werden dazu aufgefordert, derzeit keine Touren in die betroffenen Gebiete anzubieten.
 
+* Beachten Sie die Hinweise der guatemaltekischen Katastrophenschutzbehörde [CONRED](https://conred.gob.gt) und des Instituts für Seismologie [INSIVUMEH](http://www.insivumeh.gob.gt/) aktiven und als gefährlich eingestuften Vulkane. Vermeiden Sie Überlandreisen, besonders in gefährdete Gebiete.
+* Informieren Sie sich über mögliche Einschränkungen im Flugverkehr, falls Sie eine Reise nach Guatemala planen.
 * Reisen Sie nicht in die oben genannten Gebiete. Dies gilt insbesondere, falls Sie an Atemwegserkrankungen leiden.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
-* Informieren Sie sich bei der guatemaltekischen Katastrophenschutzbehörde [CONRED](https://conred.gob.gt) und des Instituts für Seismologie [INSIVUMEH](http://www.insivumeh.gob.gt/).
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028).
 
 ## Sicherheit
