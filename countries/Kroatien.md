@@ -8,7 +8,7 @@
 
 ### Innenpolitische Lage
 
-Es kann vereinzelt zu Protesten und Demonstrationen kommen, die meistens friedlich verlaufen. Vereinzelte gewaltsame Auseinandersetzungen, insbesondere auch im Umfeld von Fußballspielen und anderen großen Sportveranstaltungen sowie hierdurch ausgelöste Verkehrsbehinderungen können nicht ausgeschlossen werden.
+Es kann vereinzelt zu Protesten und Demonstrationen kommen, die meistens friedlich verlaufen. Vereinzelte gewaltsame Auseinandersetzungen, insbesondere auch im Umfeld von Fußballspielen und anderer großer Sportveranstaltungen sowie hierdurch ausgelöste Verkehrsbehinderungen können nicht ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -32,16 +32,17 @@ Nähere Informationen bietet die [kroatische Direktion für Zivilschutz.](https:
 
 ### Kriminalität
 
-In Kroatien ist die Straßenkriminalität sehr gering, auch Gewaltdelikte sind selten. Kleinkriminalität wie Taschendiebstähle und Eigentumsdelikte kommen vor allem in Touristengebieten vor, ebenso in Zagreb in den Nachtstunden, am Hauptbahnhof und in einer nahe gelegenen unterirdischen Ladenpassage sowie am Busbahnhof.  
+In Kroatien ist die Straßenkriminalität sehr gering; Gewaltdelikte sind selten. Kleinkriminalität wie Taschendiebstähle und Eigentumsdelikte kommt vor allem in Touristengebieten vor, ebenso in Zagreb in den Nachtstunden, am Hauptbahnhof und in einer nahe gelegenen unterirdischen Ladenpassage sowie am Busbahnhof.  
 Diebstähle erfolgen meist durch Autoaufbrüche und am Strand. In Ferienwohnungen und bei Übernachtungen im Wohnmobil auf Autobahnrastplätzen an der Nord-Südroute kommt es im Sommer zu Einbruchdiebstählen unter Verwendung von Betäubungsmitteln. Vereinzelt werden in Bars und Nachtklubs stark überhöhte Preise verlangt, die teils unter Androhung von Gewalt eingefordert werden.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Zahlen Sie möglichst bargeldlose oder führen Sie nur das für den Tag benötigte Bargeld mit sich.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in Ladenpassagen in Zagreb sowie in den Küstenorten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Wenn Sie eine Reise mit dem KfZ durch Slowenien planen, informieren Sie sich bitte vor Reiseantritt im [Reise- und Sicherheitshinweis Slowenien.](https://www.auswaertiges-amt.de/de/service/laender/slowenien-node/sloweniensicherheit/210644#content_0)
 * Parken Sie möglichst auf bewachten Parkplätzen bzw. Campingplätzen und übernachten Sie nicht auf Autobahnraststätten und –Parkplätzen.
 * Lassen Sie keine Wertsachen und Dokumente im Auto oder an Strand zurück.
 * Vergewissern Sie sich in Lokalen der Preise vor einer Bestellung.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -63,7 +64,7 @@ Kroatien liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben kommen ka
 
 Kroatien ist seit 2023 Mitgliedstaat des Schengener Abkommens.
 
-Mit Wirkung vom 21. Oktober 2023 werden vorübergehende Grenz- und Passkontrollen an der Landgrenze zu Slowenien eingeführt. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.
+Seit Oktober 2023 werden vorübergehende Grenz- und Passkontrollen an der Landgrenze zu Slowenien eingeführt. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.
 
 Für die übrigen Grenzen zu den benachbarten Drittstaaten gilt weiterhin:
 
@@ -75,7 +76,7 @@ Beim Überschreiten der Schengen-Außengrenzen wird nicht nur die Gültigkeit vo
 
 Es gibt ein Eisenbahn- und ein gut ausgebautes Autobahn- und Schnellstraßennetz, sowie Schiffsverkehr zu den Inseln.
 
-Auf den Autobahnen wird eine streckenabhängige Mautgebühr erhoben, die an den Mautstationen in EUR in bar oder per Kredit- bzw. Bankkarte zu entrichten ist.
+Auf den Autobahnen wird eine streckenabhängige Mautgebühr erhoben, die an den Mautstationen in EUR in bar oder per Kredit- bzw. Debitkarte (Girocard) zu entrichten ist.
 
 Es gilt eine Promillegrenze von 0,5 und für Fahrer unter 25 Jahren eine Grenze von 0,0 Promille.
 
@@ -91,7 +92,7 @@ Der deutsche Führerschein gilt für die darin aufgeführten Fahrzeugklassen in 
 
 ### LGBTIQ
 
-In Kroatien wird Homosexualität gesetzlich respektiert, ist in Teilen der Gesellschaft jedoch nicht akzeptiert, insbesondere außerhalb der größeren Städte und der Tourismusgebiete. Seit 2014 gibt es gleichgeschlechtliche Eingetragene Partnerschaften. LGBTIQ-Aktivisten berichten von Diskriminierungen in der Gesellschaft, vereinzelt auch durch Behörden.
+In Kroatien wird Homosexualität gesetzlich respektiert. In Teilen der Gesellschaft wird sie jedoch nicht akzeptiert, insbesondere außerhalb der größeren Städte und der Tourismusgebiete. Gleichgeschlechtliche Eingetragene Partnerschaften sind rechtlich möglich und werden anerkannt. LGBTIQ-Aktivisten berichten von Diskriminierungen in der Gesellschaft, vereinzelt auch durch Behörden.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -101,19 +102,18 @@ Der Handel mit Drogen wird hart bestraft, die Mindeststrafe beträgt drei Jahre 
 
 In Kroatien als unangemessen angesehenes Verhalten (wie Alkoholkonsum z.B. in der Nähe von Schulen, Schlägereien, lautstarke Auseinandersetzungen usw.) kann durch die [Ordnungsbehörden](https://gov.hr/en/public-disorder/1192) mit Bußgeldern in erheblicher Höhe geahndet werden. Entsprechende Beschilderung sollte beachtet werden.
 
-Das Sammeln von fossilen Fundstücken und archäologischen Gegenständen, aber auch von geschützten und wertvollen Muscheln wie der Großen Steckmuschel ist verboten und kann hohe Strafen nach sich ziehen.
+Das Sammeln fossiler Fundstücke und archäologischer Gegenstände, aber auch geschützter und wertvoller Muscheln wie der Großen Steckmuschel ist verboten und kann hohe Strafen nach sich ziehen.
 
 Die Nutzung von Drohnen in der Republik Kroatien unterliegt der Kontrolle der [Croatian Civil Aviation Agency.](http://www.ccaa.hr/english/novosti_7/flying-a-drone-have-fun-but-fly-responsibly-_807/) Sie hält englischsprachige Hinweise auf die vorgeschriebenen Kontrollverfahren vor, die bei der Nutzung einer Drohne auf kroatischem Gebiet und zum Gebrauch von Foto- und Videoaufnahmen zu beachten sind.  
 Verstöße können, soweit bekannt, ggf. strafrechtliche Konsequenzen und/oder Bußgelder nach sich ziehen.
 
 ### Geld/Kreditkarten
 
-Die bisherige Landeswährung Kuna (HRK) ist im Januar 2023 durch den EUR abgelöst worden. Kreditkarten werden in den meisten Hotels, Restaurants, Tankstellen und in Geschäften akzeptiert. Bargeldabhebungen sind an den meisten Bankautomaten mit der deutschen Bank- oder Kreditkarte möglich.
+Die bisherige Landeswährung Kuna (HRK) ist im Januar 2023 durch den EUR abgelöst worden. Kreditkarten werden in den meisten Hotels, Restaurants, Tankstellen und in Geschäften akzeptiert. Bargeldabhebungen sind an den meisten Bankautomaten mit der deutschen Debit- (Girocard) oder Kreditkarte möglich.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -133,11 +133,11 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Reisedokumente müssen für die Dauer des Aufenthalts gültig sein.
 
-Kroatien ist seit 2023 Mitgliedstaat des Schengener Abkommens. Bei der Einreise aus/der Ausreise in ein anderes Land des Schengenraums entfällt seither die Grenz- und Passkontrolle.
+Kroatien ist seit 2023 Mitgliedstaat des Schengener Abkommens. Bei der Einreise aus/der Ausreise in ein anderes Land des Schengenraums entfallen seither die Grenz- und Passkontrolle.
 
 Das Mitführen eines Ausweisdokuments ist weiterhin Pflicht, u.a., um gegenüber Beförderungsunternehmen, Polizei, Behörden, etc. die Identität der Reisenden nachzuweisen.
 
-Die kroatische Grenzpolizei besitzt Zugriff auf das Schengener Informationssystem und hat damit Einblick in die Sachfahndung nach gestohlen oder verloren gemeldeten Ausweisdokumenten. Auch wenn die örtliche deutsche Polizei bzw. Passbehörde die Fahndung nach einem Dokument aufgehoben hat, zeigt die Erfahrung,  dass diese Information meist erst mit großer zeitlicher Verzögerung auch an der ausländischen Grenzkontrollstelle vorliegt. Solche Dokumente werden von der kroatischen Polizei im Zuge der Grenzkontrollen bei der Ausreise in einen Nicht-Schengenstaat konsequent eingezogen.
+Die kroatische Grenzpolizei besitzt Zugriff auf das Schengener Informationssystem und hat damit Einblick in die Sachfahndung nach gestohlen oder verloren gemeldeten Ausweisdokumenten. Auch wenn die örtliche deutsche Polizei bzw. Passbehörde die Fahndung nach einem Dokument aufgehoben hat, zeigt die Erfahrung, dass diese Information meist erst mit großer zeitlicher Verzögerung auch an der ausländischen Grenzkontrollstelle vorliegt. Solche Dokumente werden von der kroatischen Polizei im Zuge der Grenzkontrollen bei der Ausreise in einen Nicht-Schengenstaat konsequent eingezogen.
 
 Seit dem EU-Beitritt Kroatiens gelten grundsätzlich die Aufenthaltsbestimmungen der EU.
 
@@ -210,7 +210,7 @@ Des Weiteren werden durch Zeckenstiche auch Erkrankungen wie Borreliose und das 
 
 ### Luftverschmutzung
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 

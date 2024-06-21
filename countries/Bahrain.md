@@ -131,12 +131,13 @@ Bahrain plant in nächster Zeit alle Visaangelegenheiten nur noch in elektronisc
 
 #### *Visum für Journalisten*
 
-Visa für Journalisten müssen vor Einreise bei der zuständigen "Bahrain Information Agency" beantragt werden. Informationen und eine "Media Visa Application Form" sind online beim [Ministry of Information](https://www.mia.gov.bh/media-visa-application-form/?lang=en) verfügbar.  
+Visa für Journalisten müssen vor Einreise beim zuständigen „National Communication Centre“ beantragt werden. Die Beantragung erfolgt unter [medialogistics@info.gov.bh](mailto:medialogistics@info.gov.bh) bzw. [mediavisas@info.gov.bh](mailto:mediavisas@info.gov.bh).
+
 Journalisten wird dringend davon abgeraten, mit einem nicht dem Aufenthaltszweck entsprechenden Visum (z.B. touristisches Visum) einzureisen und dennoch einer journalistischen Tätigkeit nachzugehen. Die örtlichen Zensurbestimmungen sind zu beachten.
 
 #### *Verlängerung des Aufenthalts*
 
-Es besteht die Möglichkeit, ein Visum durch die örtliche Passbehörde [General Directorate of Nationality, Passports & Residence](https://www.npra.gov.bh/en/services/visas-residence-permit/) gebührenpflichtig verlängern zu lassen. Weitere Verlängerungen sind grundsätzlich gegen Gebühr möglich. Die Verlängerung bedarf der Zustimmung eines einheimischen Sponsors (Hotelbestätigungen werden u. a. akzeptiert).
+Es besteht die Möglichkeit, ein Visum durch die örtliche Passbehörde [General Directorate of Nationality, Passports & Residence](https://services.bahrain.bh/wps/portal/rpinq_en) gebührenpflichtig verlängern zu lassen. Weitere Verlängerungen sind grundsätzlich gegen Gebühr möglich. Die Verlängerung bedarf der Zustimmung eines einheimischen Sponsors (Hotelbestätigungen werden u. a. akzeptiert).
 
 Ein längerfristiger Aufenthaltstitel (in der Regel sog. „*sponsored visa*“) wird vom GDNPR erteilt, sofern eine Bürgschaft einer Einzelperson bzw. des Arbeitgebers vorgelegt wird. Gelegentlich wird der Reisepass während der Dauer des Aufenthalts von Arbeitgebern einbehalten.
 
@@ -229,9 +230,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

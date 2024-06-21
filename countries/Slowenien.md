@@ -10,8 +10,14 @@
 
 In den Urlaubsgebieten Sloweniens kommt es bisweilen zu Fällen von Kleinkriminalität wie Taschendiebstählen, Autoaufbrüchen und Eigentumsdelikten. Beim Anhalten an Autobahnraststätten besteht zuweilen die Gefahr von Überfällen. Gewaltdelikte sind ansonsten sehr selten.
 
+Vereinzelt gibt es Berichte gestohlener Kfz-Kennzeichen. Fahrzeuge ohne Kennzeichen dürfen auf öffentlichen Straßen nicht bewegt werden, sodass im Fall eines Diebstahls Anzeige bei der Polizei zu erstatten ist und mit dem Polizeiprotokoll und den Fahrzeugpapieren bei der Zulassungsstelle in Deutschland ggf. durch einen Bevollmächtigten ein Ersatzkennzeichen beschafft werden muss.
+
+Zudem sind Fälle bekannt, in denen bei Autopannen überhöhte Abschleppgebühren verlangt und teils unnötige oder mangelhaft ausgeführte Werkstattleistungen durchgeführt wurden.
+
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Parken Sie Fahrzeuge bei längerem Aufenthalt in verschlossenen Garagen oder auf (bewachten) Hotelparkplätzen.
+* Seien Sie zurückhaltend, wenn kurz nach einer Panne ein Abschleppunternehmen zeitnah und ungefragt seine Hilfe anbietet. Lassen Sie sich stichprobenartig und zur eigenen Absicherung die eigenen Daten, Fahrzeugdaten, etc., die nur dem jeweiligen Automobilclub bekannt sind und so an das Abschleppunternehmen übermittelt worden sein müssen, durch das Abschleppunternehmen vor Ort bestätigen. Nur so können Sie sicher sein, dass es sich um das vom jeweiligen Automobilclub beauftragte Abschleppunternehmen handelt. Bleiben Sie ständig mit dem AMZS-Betreiber in Kontakt.
+* Geben Sie Ihr Telefon nicht aus der Hand und kommunizieren Sie selbst mit dem zuständigen Automobilclub, auch wenn Ihnen Hilfe angeboten wird.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Busbahnhöfen, auf Märkten aber auch an Autobahnraststätten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
