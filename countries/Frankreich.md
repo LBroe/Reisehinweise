@@ -8,11 +8,11 @@ Einschließlich **Französische Überseegebiete**
 
 ### *Auseinandersetzungen in Neukaledonien*
 
-Im französischen Überseegebiet Neukaledonien ist es im Zusammenhang mit einer geplanten Verfassungsänderung zu gewalttätigen Auseinandersetzungen von Befürwortern einer Unabhängigkeit von Frankreich mit den Sicherheitskräften gekommen.
+Im französischen Überseegebiet Neukaledonien kam es im Mai 2024 im Zusammenhang mit einer geplanten Verfassungsänderung zu gewalttätigen Auseinandersetzungen von Befürwortern einer Unabhängigkeit von Frankreich mit den Sicherheitskräften.
 
-Der am 15. Mai 2024 verhängte Ausnahmezustand dauert an; bereits bestehende Ausgangssperren und ein Versammlungsverbot bleiben bestehen. Der Flughafen Nouméa ist für den kommerziellen Flugverkehr geschlossen.
+Die Lage vor Ort ist instabil; zahlreiche Straßensperren beschränken weiterhin die Mobilität zwischen der Hauptstadt Nouméa und dem Umland. Der am 13. Mai 2024 verhängte Ausnahmezustand wurde mittlerweile aufgehoben; dennoch bleiben Ausgangssperren, ein Versammlungs- und teilweises Alkoholverbot bestehen. Der kommerzielle Flugverkehr des internationalen Flughafens in Nouméa wurde wieder aufgenommen.
 
-* Bitte informieren Sie sich bei der [Präfektur von Neukaledonien](https://www.nouvelle-caledonie.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
+* Bitte informieren Sie sich beim [Hochkommissariat von Neukaledonien](https://www.nouvelle-caledonie.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
 * Befolgen Sie Anweisungen der lokalen Sicherheitskräfte.
 
@@ -144,7 +144,7 @@ Die Weiterreise von den französischen Antillen auf andere Karibikinseln oder z.
 
 Siehe *Aktuelles*
 
-Seit dem 15. Februar 2024 gelten bei den Zugverbindungen des TGV INOUI der französischen Bahngesellschaft SNCF [Gepäckbeschränkungen hinsichtlich Größe und Umfang.](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/tgv-inoui/vos-bagages-et-consignes/) Weitere Informationen bietet die Bahngesellschaft [SNCF.](https://www.sncf-connect.com/de-ch/hilfe/transport-gepack)
+Seit Februar 2024 gelten bei den Zugverbindungen des TGV INOUI der französischen Bahngesellschaft SNCF [Gepäckbeschränkungen hinsichtlich Größe und Umfang.](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/tgv-inoui/vos-bagages-et-consignes/) Weitere Informationen bietet die Bahngesellschaft [SNCF.](https://www.sncf-connect.com/de-ch/hilfe/transport-gepack)
 
 Nach Ablauf der Übergangsfrist am 15. September 2024 sind bei Verstößen gegen die Gepäckvorschriften Bußgelder zu zahlen.
 
@@ -166,7 +166,7 @@ Das Fahren mit elektrischen Kleinstfahrzeugen (E-Roller) ist auf Gehwegen grunds
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -184,7 +184,7 @@ Es ist in Frankreich nicht erlaubt, an öffentlichen Orten das Gesicht zu verhü
 
 ### Geld/Kreditkarten
 
-Zahlungsmittel ist der Euro. Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
+Zahlungsmittel ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
 
 ## Einreise und Zoll
 
