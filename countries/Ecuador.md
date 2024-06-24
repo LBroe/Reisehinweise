@@ -12,8 +12,6 @@
 
 ### Innenpolitische Lage
 
-Der ecuadorianische Präsident hat am 19. April 2024 erneut den Ausnahmezustand für 60 Tage ausgerufen.
-
 Aktuell kommt es landesweit zu mehrstündiger Stromrationierung. Weitere Informationen bietet das [zuständige Ministerium.](https://www.recursosyenergia.gob.ec)
 
 Im ganzen Land kommt es immer wieder zu Demonstrationen - meist aus politischen und/oder wirtschaftlichen Gründen. Demonstranten blockieren routinemäßig lokale Straßen und Hauptautobahnen, oft ohne vorherige Ankündigung. Demonstrationen können mehrere Tage oder Wochen andauern. Straßenblockaden können den Zugang zu öffentlichen Verkehrsmitteln, Gesundheitsdiensten und Flughäfen erheblich einschränken und den Reiseverkehr sowohl innerhalb als auch zwischen Städten beeinträchtigen. Verkehrsbehinderungen durch Demonstrationen, Straßenblockaden oder Streiks zwingen Reisende, sich lokal über alternative Reisemöglichkeiten zu erkundigen und gegebenenfalls die Normalisierung der Lage abzuwarten. Informationen über aktuell geltende Ausnahmezustände erteilt die ecuadorianische Regierung.
@@ -87,11 +85,12 @@ Vor allem in den Sommermonaten kommt es aufgrund der herrschenden klimatischen 
 
 ## Reiseinfos
 
-### *Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien*
+### *Einreise nach Ecuador auf dem Landweg aus Peru oder Kolumbien*
 
 Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines [polizeilichen Führungszeugnisses](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich. Ohne das korrekte Führungszeugnis kann die Einreise verweigert werden. Von der Vorlage befreit sind Minderjährige in Begleitung von Familienangehörigen bis zum vierten Verwandtschaftsgrad bzw. Touristen auf der Durchreise (Aufenthaltsdauer max. zehn Tage, Nachweise darüber sind erforderlich). Das Erfordernis gilt nicht für Einreisen auf dem Luftweg.
 
 * Bitte beachten Sie, dass ein [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) ggf. auch über die deutschen Auslandsvertretungen in der Region beantragt werden kann und erkundigen Sie sich vorab nach den Bearbeitungszeiten.
+* Sollte kein aktuelles polizeiliches Führungszeugnis vorliegen, kann seitens der ecuadorianischen Behörden direkt bei der Einreise durch Abfrage der Datenbanken geprüft werden, ob Einreisehindernisse nach Ecuador bestehen. Es wird keine Gewähr übernommen, dass Abfragen jederzeit und an jedem Grenzübergang möglich sind.
 
 ### Infrastruktur/Verkehr
 

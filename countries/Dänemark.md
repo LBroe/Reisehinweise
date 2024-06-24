@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-In Kopenhagen kam es 2023 mehrfach zu Fällen von Koranverbrennungen. Die dänische Regierung sieht u.a. in diesem Zusammenhang eine erhöhte Bedrohungslage. Das zuständige dänische Zentrum für Terroranalyse stuft die terroristische Bedrohung für Dänemark als „signifikant“ ein.
+In Kopenhagen kam es mehrfach zu Fällen von Koranverbrennungen. Die dänische Regierung sieht u.a. in diesem Zusammenhang eine erhöhte Bedrohungslage. Das zuständige dänische Zentrum für Terroranalyse stuft die terroristische Bedrohung für Dänemark als „signifikant“ ein.
 
 * Seien Sie insbesondere an belebten Orten und bei ungewöhnlichen, nicht alltäglichen Ereignissen aufmerksam.
 * Beachten Sie stets aktuelle Hinweise und Anweisungen lokaler Behörden.
