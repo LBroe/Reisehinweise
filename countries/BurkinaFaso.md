@@ -4,23 +4,11 @@
 
 #### *Kontrollposten in Ouagadougou*
 
-In der Innenstadt von Ouagadougou kommt es sporadisch zur Einrichtung von improvisierten Kontrollposten. Diese werden von der Zivilbevölkerung errichtet, nicht durch die Sicherheitskräfte.
-
-* **Beachten Sie weiterhin die geltenden Teilreisewarnungen.**
-
-Die Regierung hat den Ausnahmezustand in 22 Provinzen bisher formell nicht verlängert; er kommt in einzelnen Regionen aber weiterhin zur Anwendung siehe *Sicherheit – Innenpolitische Lage.* 
-
-Weiterhin bestehen nächtliche Ausgangssperren in einigen Regionen und Provinzen:
-
-* Region Sahel, dort speziell von 0 bis 4 Uhr für die Stadt Djibo,
-* Region Nord, dort speziell 22 bis 5 Uhr für die Provinz Yatenga,
-* die Provinz Koulpelogo in der Region Centre-Est; 23 bis 4 Uhr,
-* die Provinzen Bam und Sanmatenga in der Region Centre-Nord; 22 bis 5 Uhr,
-* die Region Est, 0 bis 4 Uhr.
+In der Innenstadt von Ouagadougou kommt es wiederholt zur Einrichtung von Kontrollposten. Diese werden von der Zivilbevölkerung errichtet, vereinzelt auch durch Sicherheitskräfte. Nach wiederholten Zwischenfällen am Sicherungsperimeter um das Premierministeramt (Primature) in der Innenstadt wird empfohlen, den Bereich von 21 bis 5 Uhr weiträumig zu umfahren.   
 
 ## Sicherheit - Teilreisewarnung
 
-**Vor Reisen in folgende Landesteile wird gewarnt**
+**Vor Reisen in folgende Landesteile**
 
 -          **im Norden alle Provinzen der Regionen Sahel, Nord und Centre-Nord,** 
 
@@ -32,6 +20,8 @@ Weiterhin bestehen nächtliche Ausgangssperren in einigen Regionen und Provinzen
 
 -          **im Westen alle Provinzen der Regionen Boucle du Mouhoun, Cascades, Sud-Ouest, Centre-Ouest und Hauts-Bassins außer der Regionalhauptstadt Bobo-Dioulasso.** 
 
+**wird gewarnt.**
+
 **Von** 
 
 -          **der Nutzung der Straßenverbindung N 1 zwischen Ouagadougou und Bobo-Dioulasso** 
@@ -42,46 +32,35 @@ Weiterhin bestehen nächtliche Ausgangssperren in einigen Regionen und Provinzen
 
 Außerhalb Ouagadougous und Bobo-Dioulassos besteht erhöhte Terrorgefahr. Sicherheitsrelevante Vorfälle haben zuletzt weiter zugenommen.  
 
-Es besteht eine hohe Gefahr terroristischer Gewaltakte und Entführungen. Davon sind auch touristische Ziele betroffen, wie z.B. die Nationalparks „W“ und Arly im Südosten (siehe *Sicherheit - Innenpolitische Lage)*, der geschützte Wald von Nazinga im Süden an der Grenze zu Ghana und die Wasserfälle von Banfora im Südosten oder die Stadt Pô im Süden (siehe *Sicherheit - Teilreisewarnung*).
+Es besteht eine hohe Gefahr terroristischer Gewaltakte und Entführungen. Davon sind auch touristische Ziele betroffen, wie z.B. die Nationalparks „W“ und Arly im Südosten (siehe *Sicherheit - Innenpolitische Lage)*, der geschützte Wald von Nazinga im Süden an der Grenze zu Ghana, die Wasserfälle von Banfora im Südosten und die Stadt Pô im Süden (siehe *Sicherheit - Teilreisewarnung*).
 
-Es kommt im Land vermehrt zu Entführungsfällen. In der Vergangenheit sind auch westliche Ausländer Opfer gezielter Entführungen, wie 2018 und 2019 im Pendjari-Nationalpark auf beninischer Seite im Grenzgebiet mit anschließender Verschleppung nach Burkina Faso. Zuletzt wurden im April 2021 in der Nähe von Pama im Südosten drei europäische Staatsangehörige bei einem Entführungsversuch getötet.
+Es kommt im Land vermehrt zu Entführungsfällen. In der Vergangenheit waren auch westliche Ausländer Opfer gezielter Entführungen, wie 2018 und 2019 im Pendjari-Nationalpark auf beninischer Seite im Grenzgebiet mit anschließender Verschleppung nach Burkina Faso. Zuletzt wurden im April 2021 in der Nähe von Pama im Südosten drei europäische Staatsangehörige bei einem Entführungsversuch getötet.
 
-Sport- und Kulturveranstaltungen wie Wüsten-Rallyes oder Musikfestivals außerhalb Ouagadougous und Bobo-Dioulassos sind mit erheblichen Anschlags- und Entführungsrisiken verbunden. Von westlichen Ausländern frequentierte Hotels und Restaurants in der Hauptstadt Ouagadougou waren 2016 Ziel von Anschlägen mit zahlreichen Opfern. 2018 wurden die französische Botschaft und das Hauptquartier der burkinischen Armee in Ouagadougou von Terroristen angegriffen.
+Sport- und Kulturveranstaltungen wie Wüsten-Rallyes oder Musikfestivals außerhalb Ouagadougous und Bobo-Dioulassos sind mit erheblichen Anschlags- und Entführungsrisiken verbunden.
 
 * Reisen Sie nur auf dem Luftweg und nicht auf dem Landweg nach Burkina Faso ein. Führen Sie unbedingt notwendige, längere Reisen auf dem Landweg außerhalb des unmittelbaren Stadtgebiets Ouagadougous nur mit einem tragfähigen Sicherheitskonzept und nur tagsüber durch.
-* Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen und in der Innenstadt von Ouagadougou besonders vorsichtig.
+* Seien Sie insbesondere an belebten Orten, bei besonderen Anlässen und in der Innenstadt von Ouagadougou besonders vorsichtig.
 * Beachten Sie auch den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
-Siehe *Aktuelles*
-
-Im September 2022 kam es in Burkina Faso zu einem erneuten Militärputsch. Die Lage in Ouagadougou und Bobo-Dioulasso ist weitgehend stabil. Sie kann sich jedoch auch kurzfristig wieder verschlechtern.
+Im September 2022 kam es in Burkina Faso zu einem erneuten Militärputsch. Die Lage in Ouagadougou und Bobo-Dioulasso ist weitgehend stabil. Demonstrationen verliefen in den letzten Monaten meist friedlich. Eine, auch kurzfristige, Verschlechterung der Lage kann nicht ausgeschlossen werden.
 
 * **Beachten Sie die geltenden Teilreisewarnungen.**
 * Seien Sie besonders vorsichtig, auch in städtischen Gebieten wie der Hauptstadt Ouagadougou oder Bobo-Dioulasso. Dies gilt explizit auch für Veranstaltungen wie Festivals und weitere Orte, die von Ausländern frequentiert werden.
-* Meiden Sie alle Menschenansammlungen und Demonstrationen weiträumig.
+* Meiden Sie Menschenansammlungen und Demonstrationen weiträumig.
 * Beschränken sie Fahrten auf ein notwendiges Minimum.
 * Verlassen sie nach Möglichkeit in den Abend-und Nachtstunden nicht die Wohnung.
 * Informieren Sie sich über die lokalen Medien.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+* Halten Sie ihre Kommunikationsmittel stets einsatzbereit und verfolgen Sie aktiv die Lageentwicklung.
+* Folgen Sie den Anweisungen der Behörden und Sicherheitskräfte.
 * Halten Sie ihre Kommunikationsmittel bereit und verfolgen Sie aktiv die Lageentwicklungen.
 * Folgen Sie den Anweisungen der Behörden und Sicherheitskräfte.
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Burkina Faso aufhalten. Wenn Sie bereits registriert sind, kontrollieren Sie, ob Ihre Daten noch aktuell sind.
 
-Die Regierung hat den Ausnahmezustand für die u.s. Regionen bisher formell nicht verlängert, er kommt aber weiterhin vereinzelt zur Anwendung, d.h. Reisebeschränkungen, nächtliche Ausgangssperren und erleichterte Hausdurchsuchungen sind möglich.
+Die Sicherheitslage außerhalb der großen Städte bleibt sehr angespannt. Die Sicherheitskräfte gehen landesweit gegen terroristische Gruppen vor. In diesem Zusammenhang kann es zur Verhängung von Reisebeschränkungen, nächtlichen Ausgangssperren, spontanen Hausdurchsuchungen und Abriegelung bestimmter Zonen kommen.  
 
-* Region Boucle du Mouhoun: Provinzen Banwa, Kossi, Nayala und Sourou,
-* Region Centre-Est: Provinz Koulpélogo,
-* Region Est: Provinzen Gnagna, Gourma, Komandjari, Kompienga und Tapoa,
-* Region Hauts Bassins: Provinzen Kénédougou und Tuy,
-* Region Nord: Provinzen Loroum und Yatenga,
-* Region Cascades: Provinz Comoé,
-* Region Centre-Nord: Provinzen Bam, Namentenga, und Sanmatenga,
-* Region Sahel: Provinzen Oudalan, Séno, Soum und Yagha.
-
-Die Regierung hat **große Teile der Nationalparks im Südosten des Landes** **zu militärischen Sperrzonen erklärt. Jeder Aufenthalt in diesen Gebieten ist Zivilisten untersagt.**
+Die Regierung hat **folgende Zonen und Gebiete** **zu militärischen Sperrzonen erklärt. Jeder Aufenthalt in diesen Gebieten ist Zivilisten untersagt:**  
 
 * Parc National du „W“,
 * Réserve Totale de Faune de Singou,
@@ -90,26 +69,25 @@ Die Regierung hat **große Teile der Nationalparks im Südosten des Landes** **z
 * Réserve Partielle de Faune de Kourtiagou,
 * Réserve Totale de Faune d´Arly,
 * Réserve Partielle de Faune d´Arly
-
-**Militärisches Sperrgebiet sind auch** **Teile der Region Sahel**, für die **auch die Teilreisewarnung gilt (***s. Sicherheit – Teilreisewarnung***):** 
-
-* Provinz Soum (das Gebiet, das durch die Grenze zu Mali im Norden, durch die Orte Soum Bella, Gaskindé, Oka und Souma im Osten, die Orte Souma, Filio und Damba im Süden und die Orte Damba, Tem und Pogol Djambe im Westen begrenzt wird).
+* Gebiet, das durch die Grenze zu Mali im Norden, durch die Orte Soum Bella, Gaskindé, Oka und Souma im Osten, die Orte Souma, Filio und Damba im Süden und die Orte Damba, Tem und Pogol Djambe im Westen begrenzt wird.
 
 ### Kriminalität
 
-Landesweit besteht die erhebliche Gefahr von Entführungen, siehe *Terrorismus*, und krimineller Übergriffe. Die räuberische Kriminalität ist in den letzten Jahren angestiegen, auch in der Hauptstadt Ouagadougou. Es kommt gelegentlich zu Überfällen an vielbesuchten öffentlichen Orten wie dem beliebten Stadtpark „Parc Urbain Bangr-Weogo“ oder  den bei westlichen Staatsangehörigen beliebten Wohngegenden „Zone du Bois“ und „Ouaga 2000“.
+Landesweit besteht die erhebliche Gefahr von Entführungen, siehe *Terrorismus*, und krimineller Übergriffe. Die räuberische Kriminalität ist in letzter Zeit stark angestiegen, auch in der Hauptstadt Ouagadougou. Durch die Bewaffnung Freiwilliger zum Kampf gegen den Terrorismus hat sich die Verfügbarkeit von Waffen erhöht. Bei Überfällen und Einbrüchen kam es zuletzt wiederholt zum Einsatz von Schusswaffen.
 
-Seit mehreren Jahren kommt es in Burkina Faso auf Überlandstraßen immer wieder zu bewaffneten Überfällen und Entführungen von Personen. Der Osten und Südosten des Landes waren in den vergangenen Jahren besonders betroffen. Mehrere derartige Vorfälle kamen auch im Südwesten vor. Bei Überlandreisen bestehen besonders in vorgenannten Regionen erhebliche Gefahren. Selbst Fahrten bei Tageslicht und im Konvoi bieten nur einen begrenzten Schutz.
+Es kommt gelegentlich zu Überfällen an vielbesuchten öffentlichen Orten wie dem beliebten Stadtpark „Parc Urbain Bangr-Weogo“ oder den bei westlichen Staatsangehörigen beliebten Wohngegenden „Zone du Bois“ und „Ouaga 2000“.
 
-Bei auch zunächst harmlosen Unfällen, insbesondere mit Personenschäden, entstehen häufig sofort Menschenansammlungen und nachfolgend teilweise gewalttätige Ausschreitungen.
+Seit mehreren Jahren kommt es in Burkina Faso auf Überlandstraßen immer wieder zu bewaffneten Überfällen und Entführungen. Der Osten und Südosten des Landes waren in den vergangenen Jahren besonders betroffen. Mehrere derartige Vorfälle kamen auch im Südwesten vor. Bei Überlandreisen bestehen besonders in vorgenannten Regionen erhebliche Gefahren. Selbst Fahrten bei Tageslicht und im Konvoi bieten nur einen begrenzten Schutz.
 
-* Vermeiden Sie Fahrten über Land möglichst und unbedingt Nachtfahrten.
+Bei Unfällen, insbesondere solchen mit Personenschäden, entstehen häufig sofort Menschenansammlungen und in der Folge teilweise gewalttätige Ausschreitungen.
+
+* Vermeiden Sie möglichst Fahrten über Land und unbedingt Nachtfahrten.
 * Führen Sie auch am Tag unausweichliche Reisen über Land ausschließlich mit bewaffneter Eskorte und nach Anmeldung bei der Polizei und/oder Gendarmerie durch.
 * Ziehen Sie bei Verkehrsunfällen immer Polizei oder Gendarmerie hinzu (Tel. 17 und 18) und bewahren Sie Ruhe.
 * Seien Sie auch während des Tages und an stark frequentierten Orten grundsätzlich vorsichtig und wachsam und führen Sie möglichst keine Wertgegenstände mit.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld mit.
-* Seien Sie insbesondere an Flughäfen, Bahnhöfen, im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Seien Sie insbesondere an Flughäfen, Bahnhöfen und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -132,28 +110,27 @@ Der internationale Führerschein wird empfohlen und ist nur in Verbindung mit de
 
 ### LGBTIQ
 
-Gleichgeschlechtliche Lebenspartnerschaften stoßen in Burkina Faso auf heftige gesellschaftliche Ablehnung. Homosexualität findet im Strafgesetzbuch als Straftatbestand keine explizite Erwähnung, kann aber als „Störung der öffentlichen Ordnung“ oder „Verstoß gegen die guten Sitten“ strafrechtlich verfolgt und mit bis zu drei Jahren Gefängnis bestraft werden.
+Gleichgeschlechtliche Lebenspartnerschaften stoßen in Burkina Faso auf heftige gesellschaftliche Ablehnung. Homosexuelle Handlungen finden im Strafgesetzbuch als Straftatbestand keine explizite Erwähnung, können aber als „Störung der öffentlichen Ordnung“ oder „Verstoß gegen die guten Sitten“ strafrechtlich verfolgt und mit bis zu drei Jahren Gefängnis bestraft werden.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
 ### Rechtliche Besonderheiten
 
-Die Einfuhr, der Besitz (darunter fällt auch der Besitz zum eigenen Konsum) und Verkauf von Rauschmitteln ist verboten und wird mit Haftstrafen von bis zu 20 Jahren und hohen Geldstrafen geahndet.
+Die Einfuhr, der Besitz (auch zum eigenen Konsum) und Verkauf von Rauschmitteln ist verboten und wird mit Haftstrafen bis zu 20 Jahren und hohen Geldstrafen geahndet.
 
 Das Fotografieren bestimmter Einrichtungen ist untersagt. Nicht-Beachtung dieses Verbots kann unangenehme Situationen verursachen (z.B. Handgreiflichkeiten). Mit der Konfiszierung des Fotoapparates ist in jedem Fall zu rechnen.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der in der Parität an den EUR gekoppelte Franc CFA (1 EUR = 656 FCFA). Kreditkarten werden nur in größeren Hotels akzeptiert, weshalb sich die Mitnahme von Bargeld in USD oder EUR empfiehlt.
+Landeswährung ist der in der Parität an den EUR gekoppelte westafrikanische Franc CFA (1 EUR = 656 FCFA). Kreditkarten werden nur in größeren Hotels akzeptiert. An Geldautomaten kann mit internationalen Kreditkarten, ggf. gegen eine Gebühr, Geld abgehoben werden.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbinliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten)  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbinliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen der [burkinischen Regierung](https://www.sante.gov.bf/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen der burkinischen Regierung sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -167,11 +144,11 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen zum Zeitpunkt der Visumantragsstellung noch mindestens sechs Monate nach Ende des geplanten Aufenthaltes in Burkina Faso gültig sein.
+Reisedokumente müssen zum Zeitpunkt der Visumsantragsstellung noch mindestens sechs Monate nach Ende des geplanten Aufenthaltes in Burkina Faso gültig sein.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen ein Visum zur Einreise nach Burkina Faso. Das Visum soll seit Februar 2023 vor Reiseantritt [online](http://www.visaburkina.bf) beantragt werden. Eine Visumbeantragung bei der [Botschaft von Burkina Faso](http://www.embassy-bf.org/) bleibt jedoch weiterhin möglich, wenn Antragsteller bei der Einreichung der Unterlagen persönlich vorsprechen.
+Deutsche Staatsangehörige benötigen ein Visum zur Einreise nach Burkina Faso. Das Visum soll seit Februar 2023 vor Reiseantritt [online](http://www.visaburkina.bf) beantragt werden. Eine Visumsbeantragung bei der [Botschaft von Burkina Faso](http://www.embassy-bf.org/) bleibt jedoch weiterhin möglich, wenn Antragsteller bei der Einreichung der Unterlagen persönlich vorsprechen.
 
 ### Minderjährige
 
@@ -216,13 +193,13 @@ Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die landeswei
 * Eine Impfung gegen Gelbfieber ist vorgeschrieben. Es gibt eine Impfung gegen Denguefieber; lassen Sie sich bzgl. Ihres persönlichen Risikos beraten.
 * Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
-Die in Burkino Faso vorkommende Erkrankung [Krim-Kongo-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/krim-kongo-fieber/2628722 "Krim-Kongo-Fieber") wird durch Zecken übertragen. Die in Burkina Faso inzwischen seltene [afrikanische Schlafkrankheit](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/afrikanische-schlafkrankheit/2628724 "Afrikanische Schlafkrankheit") wird von Tsetsefliegen übertragen.
+Die in Burkina Faso vorkommende Erkrankung [Krim-Kongo-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/krim-kongo-fieber/2628722 "Krim-Kongo-Fieber") wird durch Zecken übertragen. Die in Burkina Faso inzwischen seltene [afrikanische Schlafkrankheit](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/afrikanische-schlafkrankheit/2628724 "Afrikanische Schlafkrankheit") wird von Tsetsefliegen übertragen.
 
 * Schützen Sie sich bei Aufenthalten im Freien vor Zecken und Tsetsefliegen. Suchen Sie Ihren Körper nach dem Aufenthalt im Freien sorgfältig ab, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
 
 ### Erkrankungen im Zusammenhang mit mangelnder Hygiene
 
-Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle und auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")), [Shigellose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/shigellose/2628936 "Shigellose") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") können auch Reisende betreffen. In Burkino Faso wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") (cVDPV2) nachgewiesen.
+Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle und auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")), [Shigellose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/shigellose/2628936 "Shigellose") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") können auch Reisende betreffen. In Burkina Faso wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") (cVDPV2) nachgewiesen.
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise")
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
@@ -231,13 +208,13 @@ Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können 
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
 
-In Burkino Faso besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/meningokokken-erkrankungen/2553652 "Meningokokken-Erkrankungen") [Lassafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") und [Tuberkulose.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tbc/2562914 "Tuberkulose") Diese Erkrankungen werden durch den engen Kontakt mit infizierten Menschen übertragen. Die höchsten Erkrankungszahlen von Meningokokken-Erkrankungen und Lassafieber treten in der Trockenzeit von Dezember bis April auf.
+In Burkina Faso besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/meningokokken-erkrankungen/2553652 "Meningokokken-Erkrankungen") [Lassafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") und [Tuberkulose.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tbc/2562914 "Tuberkulose") Diese Erkrankungen werden durch den engen Kontakt mit infizierten Menschen übertragen. Die höchsten Erkrankungszahlen von Meningokokken-Erkrankungen und Lassafieber treten in der Trockenzeit von Dezember bis April auf.
 
 * Halten Sie sich grundsätzlich von krank wirkenden Personen fern. Besuchen Sie keine Beerdigungen oder Krankenhäuser.
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY- Impfung ärztlich beraten.
 
-Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syphillis oder Gonorrhoe in Burkino Faso insbesondere Erkrankungen wie [AIDS](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") oder bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syphillis oder Gonorrhoe in Burkina Faso insbesondere Erkrankungen wie [AIDS](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") oder bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich hinsichtlich einer Hepatitis B-Impfung beraten.
@@ -250,25 +227,23 @@ Es ist davon auszugehen, dass [Hantavirus-Infektionen](https://www.auswaertiges-
 * Sollten Sie von einem Hund, Affen, Flughund oder einer Giftschlange gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung. Gegengifte sind in Burkina Faso nur begrenzt erhältlich.
 * Meiden Sie den Kontakt zu stehenden oder langsam fließenden Gewässern, da diese mit Urin von Nagetieren verunreinigt sein können.
 * Vermeiden Sie Verzehr von Fleischgerichten unklaren Ursprungs.
-* Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Beachten Sie, dass eine passive Impfung nach Biss oder Kontakt in Burkino Faso nicht oder nur sehr begrenzt erhältlich ist.
+* Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Beachten Sie, dass eine passive Impfung nach Biss oder Kontakt in Burkina Faso nicht oder nur sehr begrenzt erhältlich ist.
 
 ### Weitere Gesundheitsgefahren
 
-[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosoma übertragen werden.
+[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosomiasis übertragen werden.
 
 * Sehen Sie vom Baden und Schwimmen in Binnengewässern ab.
 
 Insbesondere in großen Städten kann es durch Luftverschmutzung zu gesundheitlichen Beschwerden kommen. Durch die Müllverbrennung besteht eine kontinuierliche Belastung. In der Harmattan-Saison kommt es im ersten Jahresquartal zur besonderen Luftverschmutzung.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 Intensive Sonneneinstrahlung kann zu kurz- und langfristigen Haut- und Augenschäden führen.
 
 * Informieren Sie sich z.B. über die App [SunSmart](https://www.who.int/news/item/21-06-2022-sunsmart-global-uv-app-helps-protect-you-from-the-dangers-of-the-sun-and-promotes-public-health "App SunSmart") über notwendige Sonnenschutzmaßnahmen.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

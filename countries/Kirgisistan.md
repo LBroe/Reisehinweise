@@ -69,7 +69,7 @@ Der internationale Führerschein gilt nur in Verbindung mit dem nationalen deuts
 
 ### Wanderungen und Trekking-Touren
 
-Es gibt in Kirgisistan keine organisierte Bergrettung. Wildes Campen birgt zahlreiche Gefahren, insbesondere wenn eine Kommunikation in kirgisischer oder russischer Sprache nicht möglich ist.
+Es gibt in Kirgisistan keine organisierte Bergrettung. Wildes Campen birgt zahlreiche Gefahren, insbesondere, wenn eine Kommunikation in kirgisischer oder russischer Sprache nicht möglich ist.
 
 * Unternehmen Sie Wandertouren in unbekanntem Gelände nur mit ortskundiger Begleitung.
 * Verzichten Sie auf „wildes Campen“ ohne ortskundige Begleitung durch einen Reiseveranstalter.
@@ -78,7 +78,7 @@ Es gibt in Kirgisistan keine organisierte Bergrettung. Wildes Campen birgt zahlr
 
 ### Grenzgebiete
 
-In den Grenzgebieten (zu Usbekistan, Tadschikistan, Kasachstan und China) gelten besondere Regeln (z.B. Fotografierverbote); es besteht zudem Minengefahr. Der Grenzverlauf ist an vielen Stellen nicht klar ausgeschildert. Im Falle von Grenzübertritten abseits offizieller Grenzkontrollpunkte drohen längere Haftstrafen.  
+In den Grenzgebieten (zu Usbekistan, Tadschikistan, Kasachstan und China) gelten besondere Regeln (z.B. Fotografierverbote), es besteht zudem Minengefahr. Der Grenzverlauf ist an vielen Stellen nicht klar ausgeschildert. Bei Grenzübertritten abseits offizieller Grenzkontrollpunkte drohen längere Haftstrafen.  
 Grenzübergänge können kurzfristig geschlossen werden. Eine verlässliche Auskunft kann hierzu nicht gegeben werden. Nach bewaffneten Auseinandersetzungen an der kirgisisch-tadschikischen Grenze wurden die Landgrenzen nach Tadschikistan geschlossen. Laut Auskunft der kirgisischen Behörden ist die Überquerung der kirgisisch-tadschikischen Grenze jedoch für Touristen an ausgewählten Grenzübergängen möglich. Dazu ist eine Genehmigung der Grenzbehörden erforderlich, die über ortsansässige Reiseveranstalter eingeholt werden kann.
 
 * Bereisen Sie die Grenzregionen nicht ohne ortskundige Reiseführer.
@@ -150,8 +150,10 @@ Alternativ kann online ein [E-Visum](http://www.evisa.e-gov.kg/) für Aufenthal
 
 ### Registrierung
 
-Deutsche Staatsangehörige, die sich länger als 60 Tage in Kirgisistan aufhalten, müssen sich innerhalb von fünf Tagen nach Einreise bei der zuständigen Behörde registrieren. Zuständig ist der [Staatliche Registrierungsdienst](http://grs.gov.kg/ru/).  
+Deutsche Staatsangehörige, die sich länger als 60 Tage in Kirgisistan aufhalten, müssen sich innerhalb von fünf Tagen nach Einreise bei der zuständigen Behörde registrieren. Zuständig ist der [Staatliche Registrierungsdienst](https://mfa.gov.kg/ru/dks-mid-kr-ru/konsulskie-uslugi/vizovye-voprosy/voprosy-prodleniya-viz-inostrannym-grazhdanam/poryadok-registracii-inostrannyh-grazhdan-polzuyushchihsya-specialnoy-mezhdunarodnoy-zashchitoy).  
 Die Registrierungspflicht gilt auch für Inhaber von E-Visa.
+
+Seit dem 25. Juni 2024 gilt bei einem Aufenthalt in Kirgisistan von mehr als 30 Tagen eine Registrierungspflicht für Mobilfunkgeräte, wenn diese mit einer kirgisischen SIM-Karte verwendet werden. Internationales Roaming ist davon nicht betroffen. Weitere Informationen in englischer Sprache bieten die [kirgisischen Behörden.](https://www.imei.kg)
 
 ### Ein- und Ausreise über Tadschikistan
 
@@ -167,7 +169,7 @@ Die Ein- und Ausfuhr ausländischer Währungen unterliegt keinen Beschränkungen
 
 ### Einreise mit dem Pkw
 
-Bei der Einfuhr von Kraftfahrzeugen und Motorrädern sollten Reisende, die eine Fahrt durch mehrere Länder mit dem eigenen Kfz unternehmen, bspw. über Kirgisistan, Kasachstan, Russland, Belarus und von dort über Polen zurück nach Deutschland, darauf achten, dass die bei der Einreise in die Eurasische Wirtschaftsunion an der kirgisischen Grenze erteilte temporäre Einfuhrgenehmigung für das Fahrzeug die für die Strecke notwendige Fahrtzeit abdeckt. Die Erteilung einer Einfuhrgenehmigung ist mit ausreichend langer Gültigkeitsdauer grundsätzlich möglich. Ohne Genehmigung ist mit erheblichen Problemen und Strafen bei der Ausreise aus der Eurasischen Wirtschaftsunion zu rechnen.
+Bei der Einfuhr von Kraftfahrzeugen und Motorrädern sollten Reisende, die eine Fahrt durch mehrere Länder mit dem eigenen Kfz unternehmen, bspw. über Kirgisistan, Kasachstan, etc. und von dort über Polen zurück nach Deutschland, darauf achten, dass die bei der Einreise in die Eurasische Wirtschaftsunion an der kirgisischen Grenze erteilte temporäre Einfuhrgenehmigung für das Fahrzeug die für die Strecke notwendige Fahrtzeit abdeckt. Die Erteilung einer Einfuhrgenehmigung ist mit ausreichend langer Gültigkeitsdauer grundsätzlich möglich. Ohne Genehmigung ist mit erheblichen Problemen und Strafen bei der Ausreise aus der Eurasischen Wirtschaftsunion zu rechnen.
 
 ### Heimtiere
 

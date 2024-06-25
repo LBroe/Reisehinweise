@@ -10,18 +10,18 @@
 
 ### Innenpolitische Lage
 
-Die schwierige wirtschaftliche Lage in Sambia kann zu Protesten der Bevölkerung gegen die erhöhten Lebenshaltungskosten undzu politisch aufgeheizten Demonstrationen führen. Gewalttätige Ausschreitungen zwischen den Sicherheitskräften und Demonstrierenden können derzeit nicht ausgeschlossen werden. Besonders betroffen sind erfahrungsgemäß städtische Ballungsgebiete (bevölkerungsreiche Stadtviertel, sog. „Compounds“), die Ausfallstraßen sowie die Umgebung von Hochschulen und Einkaufszentren.
+Die schwierige wirtschaftliche Lage in Sambia kann zu Protesten der Bevölkerung gegen die erhöhten Lebenshaltungskosten und zu politisch aufgeheizten Demonstrationen führen. Gewalttätige Ausschreitungen zwischen den Sicherheitskräften und Demonstrierenden können derzeit nicht ausgeschlossen werden. Besonders betroffen sind erfahrungsgemäß städtische Ballungsgebiete (bevölkerungsreiche Stadtviertel, sog. „Compounds“), die Ausfallstraßen sowie die Umgebung von Hochschulen und Einkaufszentren. In Lusaka gab es zuletzt Versammlungen Anhänger verschiedener Parteien, bei denen es zu gewaltsamen Übergriffen und Plünderungen kam. Weitere ähnliche Vorfälle können nicht ausgeschlossen werden.
 
 In der unmittelbaren Grenzregion zur Demokratischen Republik Kongo gibt es gelegentliche Übergriffe über die Grenze hinweg und weiterhin nicht gekennzeichnete Minenfelder. Diese bestehen weiterhin in den Grenzgebieten zu Angola und Mosambik.
 
 * Meiden Sie das unmittelbare Grenzgebiet zur Demokratischen Republik Kongo und seien Sie auch in anderen Grenzgebieten besonders vorsichtig.
 * Informieren Sie sich über die lokalen Medien.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig. Dies gilt insbesondere für Versammlungen gewaltbereiter Anhänger aller Parteien.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
 
-Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in den Städten, touristischen Zentren und in öffentlichen Verkehrsmitteln und Bahnhöfen vor. Bewaffnete Raubüberfälle kommen vereinzelt vor, konzentrieren sich hauptsächlich auf Lusaka, die Städte des sogenannten „Kupfergürtels“, können sich aber auch in anderen Tourismuszentren ereignen. Einbrüche kommen auch in Hotelzimmern der gehobenen Klasse sowie zunehmend in guten Wohngegenden vor.
+Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in den Städten, touristischen Zentren und in öffentlichen Verkehrsmitteln und Bahnhöfen vor. Im Zuge der sich weiter verschlechternden wirtschaftlichen Lage und der aktuellen Dürre ist derzeit ein Anstieg der Kleinkriminalität zu beobachten. Bewaffnete Raubüberfälle kommen vereinzelt vor, konzentrieren sich hauptsächlich auf Lusaka, die Städte des sogenannten „Kupfergürtels“, können sich aber auch in anderen Tourismuszentren ereignen. Einbrüche kommen auch in Hotelzimmern der gehobenen Kategorie sowie zunehmend in guten Wohngegenden vor. Aufgrund der aktuell täglichen Stromabschaltungen („Loadshedding“) funktionieren teilweise Alarmsysteme und Elektrozäune nicht ordnungsgemäß.
 
 Insbesondere in Lusaka werden Gewalttaten tendenziell in den frühen Morgenstunden verübt. Es wird davon abgeraten, sich nach Einbruch der Dunkelheit zu Fuß auf den Straßen der Hauptstadt zu bewegen.
 
@@ -51,11 +51,11 @@ In der Regenzeit von Dezember bis April kommt es jedoch zu Erdrutschen und Über
 
 ### Infrastruktur/Verkehr
 
-In Sambia herrscht Linksverkehr. Insbesondere in der Regenzeit sind viele Straßen unpassierbar. Vorsicht gilt bei plötzlich auftretenden Fluten, insbesondere bei Brücken. Straßenkontrollen der Polizei, die über reine Verkehrskontrollen hinausgehen, sind nicht nur auf den Überlandstraßen, sondern auch im innerstädtischen Bereich an der Tagesordnung. Es wird dringend geraten, stets alle Personal- und Fahrzeugpapiere mit sich zu führen. Mobile Radarkontrollen auf den großen Überlandstraßen sind sehr häufig, die Beschilderung zur erlaubten Geschwindigkeit jedoch oft nicht vorhanden oder widersprüchlich.
+Gerade in entlegenen Gebieten kommt es derzeit zu Kraftstoffknappheit, dies betrifft insbesondere Diesel. Bei Überlandfahrten ist es daher ratsam, genug Kraftstoffreserven mitzuführen.
 
-Nächtliche Überlandfahrten sind aufgrund von auf den Fahrbahnen laufenden Personen, ungesichert liegen gebliebenen und/oder unbeleuchteten Fahrzeugen, anderen Hindernissen und des Straßenzustands sowie vereinzelt bekannt gewordener Überfälle mit Straßenblockaden mit großen Risiken verbunden und sollten unbedingt vermieden werden. Außerhalb der Städte gibt es in der Regel keine Straßenbeleuchtung.
+Aufgrund der aktuellen Dürre und der dadurch gestörten, von Wasserkraft abhängigen Stromversorgung, kommt es seit April 2024 zu täglichen Stromabschaltungen von 12 und mehr Stunden in allen Landesteilen („Loadshedding“). Der staatliche Stromversorger ZESCO ist nicht in der Lage, sich bei den Stromabschaltungen an die eigenen öffentlich kommunizierten Zeitpläne zu halten, was die negativen Auswirkungen zusätzlich verstärkt. Weitere unplanmäßige Stromausfälle („Blackouts“) können aufgrund der fortdauernden Dürre nicht ausgeschlossen werden. Daher ist die Funktionsfähigkeit in vielen Bereichen eingeschränkt (z. B. fehlende Beleuchtung, nicht vorhandene Kochmöglichkeit, keine Internetnutzung und keine Möglichkeit der Kartenzahlung, Mobiltelefone funktionieren jedoch meistens, eine Powerbank kann hier für ausreichende Ladung sorgen).
 
-In Sambia kommt es regelmäßig zu mehrstündigen Stromausfällen in allen Landesteilen. Entsprechend ist die Funktionsfähigkeit in vielen Bereichen eingeschränkt (z. B. fehlende Beleuchtung, nicht vorhandene Kochmöglichkeit, keine Internetnutzung und keine Möglichkeit der Kartenzahlung, Mobiltelefone funktionieren jedoch meistens, eine Powerbank kann hier für ausreichende Ladung sorgen).
+Gehobene Hotels von den Stromabschaltungen weniger stark betroffen, da sie in der Regel über Generatoren verfügen. Gleiches gilt für Einkaufszentren und viele Restaurants.  
 
 ### Sportliche Aktivitäten/Safaris
 
@@ -63,7 +63,7 @@ Die vorwiegend an den Viktoriafällen rund um die Städte Livingstone (Sambia) u
 
 Die sambischen Nationalparks sind keine Zoos mit Absperrung, sondern Lebensraum wilder Tiere, die sich auch in den Camps aufhalten können und von denen einige dem Menschen gefährlich werden können. Aufgrund der mangelnden bis nicht vorhanden Gesundheits- und Rettungsstruktur sowie den weiten Entfernungen können auch weniger schwere Verletzungen lebensgefährliche Folgen haben.
 
-* Folgen Sie unbedingt den Anweisungen der Veranstalter,wie Tourguides oder  Lodgebetreibern.
+* Folgen Sie unbedingt den Anweisungen der Veranstalter, wie Tourguides oder Lodgebetreibern.
 
 ### Führerschein
 
@@ -95,8 +95,7 @@ Gängige Kreditkarten werden von größeren Unternehmen zunehmend, aber nicht du
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -117,7 +116,7 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate g�
 
 ### Visum
 
-Deutsche Staatsangehörige können seit Januar 2023 unabhängig vom Reisezweck visumfrei nach Sambia einreisen. Bei Einreise muss ein gültiges Rückflugticket, sowie Nachweis einer ausreichenden Finanzierung des Aufenthalts in Sambia mitgeführt werden. Für die ersten 30 Tage des Aufenthalts wird bei Einreise kostenfrei ein Stempel im Reisepass ausgestellt. Dieser kann vor Ort für touristische oder Besuchszwecke maximal zwei Mal für jeweils 30 Tage kostenfrei verlängert werden. Vor Ablauf der ersten 30 Tage des Aufenthaltes ist jedoch vor Ort eine entsprechende Genehmigung je nach Aufenthaltszweck zu beantragen. Informationen dazu bietet die Webseite der [Zambia Immigration](https://www.zambiaimmigration.gov.zm/permit-types).
+Deutsche Staatsangehörige können unabhängig vom Reisezweck visumfrei nach Sambia einreisen. Bei Einreise muss ein gültiges Rückflugticket, sowie Nachweis einer ausreichenden Finanzierung des Aufenthalts in Sambia mitgeführt werden. Für die ersten 30 Tage des Aufenthalts wird bei Einreise kostenfrei ein Stempel im Reisepass ausgestellt. Dieser kann vor Ort für touristische oder Besuchszwecke maximal zwei Mal für jeweils 30 Tage kostenfrei verlängert werden. Vor Ablauf der ersten 30 Tage des Aufenthaltes ist jedoch vor Ort eine entsprechende Genehmigung je nach Aufenthaltszweck zu beantragen. Informationen dazu bietet die Webseite der [Zambia Immigration](https://www.zambiaimmigration.gov.zm/permit-types).
 
 An den Landgrenzen ist das Visum in Form eines Einreisestempels möglicherweise nicht erhältlich; bei Einreisen, die nicht über einen internationalen Flughafen stattfinden, wird geraten, sich vorab an die zuständige sambische Botschaft zu wenden. Mehrfacheinreisen (Multiple Entry) werden am Flughafen nicht ausgestellt, können aber nach Einreise bei den örtlichen Büros der Einwanderungsbehörde beantragt werden.
 
@@ -125,7 +124,7 @@ An den Landgrenzen ist das Visum in Form eines Einreisestempels möglicherweise 
 
 Visa für längerfristige Aufenthalte und/oder Reisezwecke, die über einen reinen Aufenthalt als Tourist oder zu Besuchszwecken hinausgehen, können vor Einreise bei der [Botschaft von Sambia in Berlin](http://www.zambiaembassy.de/visumantrag/) beantragt werden. In der Regel wird allerdings auf die Möglichkeit der visumsfreien Einreise und die Beantragung der entsprechenden Genehmigungen vor Ort verwiesen.
 
-#### *Online-Visum (e-Visa) vor der Einreise*
+#### *Online-Visum (E-Visa) vor der Einreise*
 
 Siehe auch „*Visum für längerfristige Aufenthalte“*.
 
@@ -135,14 +134,14 @@ Besonders interessant ist das sog. KAZA-Visum für 50 USD, das zur Einreise nach
 Im Internet bieten auch private Firmen diesen Service an und verschleiern dabei häufig geschickt die von ihnen verlangten erheblichen Zusatzgebühren von bis zu 100 EUR pro Visum.  
 Es sind zudem vereinzelte Fälle bekannt geworden, in denen Fluggesellschaften bereits vor Abflug auf Vorlage eines Visums bestanden haben.
 
-* Achten Sie unbedingt darauf, eVisa nur auf der offiziellen Seite der sambischen Einreisebehörde zu beantragen.
-* Erkundigen Sie sich ggf. bei Ihrer Fluggesellschaft, ob das eVisa anerkannt wird.
+* Achten Sie unbedingt darauf, E-Visa nur auf der offiziellen Seite der sambischen Einreisebehörde zu beantragen.
+* Erkundigen Sie sich ggf. bei Ihrer Fluggesellschaft, ob das E-Visa anerkannt wird.
 
 #### *Aufenthaltsdauer*
 
 Bei der auf einem vor der Einreise eingeholten Visum angegebenen Gültigkeitsdauer handelt es sich um die Nutzungsfrist des Visums. Das bedeutet, dass die (ggf. erste) Einreise innerhalb der angegebenen Frist, im Regelfall drei Monate, erfolgen muss.  
 Die Dauer des zulässigen Aufenthalts von im Regelfall 30 Tage wird erst bei Einreise durch die Einwanderungsbehörden festgelegt und durch Stempel im Reisepass dokumentiert.  
-Die Dauer, für die sich Besucher innerhalb von 12 Monaten in Sambia aufhalten können, darf nach den maßgebenden sambischen Bestimmungen 90 Tage (Reisezweck Tourismus oder Besuch)/30 Tage (Geschäftsreisende) grundsätzlich nicht überschreiten.  
+Besucher (Reisezweck Tourismus oder Besuch) dürfen sich binnen 12 Monaten max. 90 Tage in Sambia aufhalten; Geschäftsreisende max. 30 Tage innerhalb von 12 Monaten.  
 Es sind Fälle bekannt geworden, in denen ausländischen Staatsangehörigen trotz Besitzes eines für diese Reise ausgestellten Visums einer sambischen Botschaft die Einreise mit der Begründung verweigert worden ist, die 90 Tage seien überschritten.  
 Eine Aufenthaltserlaubnis für längere Aufenthalte kann je nach Einzelfall von den örtlich zuständigen Büros der Einwanderungsbehörde erteilt werden.
 
@@ -258,15 +257,15 @@ In Sambia leben eine Reihe gefährlicher, teils nachtaktiver Giftschlangen, gift
 
 ### Medizinische Versorgung
 
+Kleinere Krankenhäuser, insbesondere in ländlichen Gebieten, verfügen häufig nur über eine unzureichende Notstromversorgung, siehe *Reiseinfos – Infrastruktur/Verkehr.*
+
 Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist personell, technisch, apparativ und/oder hygienisch hoch problematisch.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
