@@ -4,18 +4,13 @@
 
 **Vor Reisen nach Libanon wird gewarnt.**
 
-**Deutsche Staatsangehörige werden aufgefordert, Libanon zu verlassen.**  
+**Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**  
 
 ### *Sicherheitslage*
 
-In der Nacht auf den 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Libanon hat deshalb vorübergehend den eigenen Luftraum geschlossen. Der internationale Flughafen Beirut ist inzwischen wieder in Betrieb. Es kann jedoch jederzeit erneut zu Einschränkungen kommen, insbesondere bei einer Lageverschärfung.
+Die Sicherheitslage in der Region ist hoch volatil; die militärischen Auseinandersetzungen im Grenzgebiet zwischen Libanon und Israel haben in den letzten Wochen noch einmal an Intensität zugenommen. Nachdem die palästinensische Hamas am 7. Oktober 2023 einen Großangriff auf Israel gestartet hatte, werden seit dem 8. Oktober 2023 auch von libanesischem Gebiet durch Hisbollah und andere bewaffnete Gruppen unter anderem Mörsergranaten, Panzerabwehrwaffen und Raketen auf Israel verschossen.
 
-* Informieren Sie sich über die aktuelle Lage in den Medien.
-* Setzen Sie sich bei Fragen zu Flugeinschränkungen mit Ihrem Reiseveranstalter oder Ihrer Fluggesellschaft in Verbindung.
-
-Die Sicherheitslage in der Region ist hoch volatil; es kommt derzeit immer wieder zu militärischen Auseinandersetzungen im Grenzgebiet zwischen Libanon und Israel, die jederzeit weiter eskalieren können. Nachdem die palästinensische Hamas am 7. Oktober 2023 einen Großangriff auf Israel gestartet hatte, wurden seit dem 8. Oktober 2023 auch von libanesischem Gebiet durch Hisbollah und andere bewaffnete Gruppen unter anderem Mörsergranaten, Panzerabwehrwaffen und Raketen auf Israel verschossen.
-
-**Eine weitere Verschärfung der Lage und Ausweitung des Konflikts kann nicht ausgeschlossen werden. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel.**
+**Eine weitere Verschärfung der Lage und Ausweitung des Konflikts kann nicht ausgeschlossen werden. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel. Eine weitere Eskalation könnte auch dazu führen, dass der Flugverkehr ab dem Rafiq-Hariri-Flughafen komplett eingestellt wird. Die Ausreise aus Libanon auf dem Luftweg wäre dann nicht mehr möglich.**
 
 Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen und Protestkundgebungen gerechnet werden. Im Umfeld solcher Aktionen kann es zu Ausschreitungen kommen.
 
@@ -31,7 +26,7 @@ Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen 
 
 **Vor Reise nach Libanon wird gewarnt.**
 
-**Deutsche Staatsangehörige werden aufgefordert, Libanon zu verlassen.**
+**Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**  
 
 ### Terrorismus
 
@@ -306,9 +301,7 @@ Das Versorgungsniveau ist in Beirut gut. Besonders die beiden großen Krankenhä
 * Nehmen Sie eine individuelle Reiseapotheke, einschließlich einer ausreichenden Menge Ihrer regelmäßig benötigten Medikamente (sofern relevant), mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
