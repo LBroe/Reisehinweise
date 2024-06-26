@@ -4,14 +4,16 @@
 
 ### *Gewaltsame Auseinandersetzungen*
 
-Aufgrund geplanter Steuererhöhungen im kenianischen Haushaltsgesetz kommt es derzeit in Nairobi, Mombasa und anderen Städten Kenias immer wieder zu zum Teil gewaltsamen Demonstrationen und Auseinandersetzungen zwischen den Sicherheitskräften und Demonstranten. Dabei werden Wasserwerfer und Tränengas eingesetzt; es kommt zu Verhaftungen. Mit weiteren Demonstrationen und (gewaltsamen) Auseinandersetzungen muss gerechnet werden.
+Aufgrund geplanter Steuererhöhungen im kenianischen Haushaltsgesetz kommt es derzeit in Nairobi, Mombasa und anderen Städten Kenias immer wieder zu zum Teil gewaltsamen Demonstrationen und Auseinandersetzungen zwischen den Sicherheitskräften und Demonstranten. Dabei werden auch Schusswaffen gegen die Demonstranten eingesetzt, ebenso Wasserwerfer und Tränengas; es kommt zu Verhaftungen. Es gab in den vergangenen Tagen Tote und Verletzte. Weitere Demonstrationen und (gewaltsame) Auseinandersetzungen sind angekündigt.
 
-Reisende sollten folgende Sicherheitsmaßnahmen treffen:
+Reisende sollten folgende Vorsichtsmaßnahmen treffen:
 
+* Vermeiden Sie nicht notwendige Fahrten in Städten, in denen es zu gewaltsamen Protesten kommt. Bleiben Sie an einem sicheren Ort.
+* Halten Sie sich von Regierungsgebäuden fern, auch außerhalb von Nairobi.
 * Seien Sie besonders achtsam und umsichtig.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Informieren Sie sich über die lokalen Medien über die aktuelle Lage.
-* Führen Sie stets funktionsfähige Kommunikationsmittel mit sich.
+* Informieren Sie sich über die lokalen Medien.
+* Führen Sie stets funktionsfähige Kommunikationsmittel mit sich. Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
 
 ### *Überschwemmungen*
 
@@ -67,6 +69,8 @@ Bei Aufenthalten und Reisen in abgelegene Orte oder Nebenstrecken der Küstenreg
 * Beachten Sie auch den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
+
+Siehe *Aktuelles*
 
 Demonstrationen aus politischen oder sozialen Gründen kommen vor, bei denen gewaltsame Auseinandersetzungen nicht ausgeschlossen werden können.
 
