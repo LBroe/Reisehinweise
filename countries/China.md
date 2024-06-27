@@ -6,7 +6,7 @@
 
 Im Norden der Provinz Guangdong, insbesondere entlang der Flussläufe in den Gebieten der bezirksfreien Städte Qingyuan und Shaoguan, in der Nähe des Flusses Guijiang (Provinz Guangxi) sowie an den oberen Zuläufen des Flusses Ganjiang (Provinz Jiangxi) kam es durch starke Niederschläge bereits zu Überschwemmungen. Im gesamten Einzugsgebiet des Perlflusses wird vor erhöhtem Hochwasser- und Erdrutschrisiko gewarnt.
 
-Es werden weitere starke Regenfälle in nächsten Wochen erwartet.
+Es werden weitere starke Regenfälle in den nächsten Wochen erwartet.
 
 Auch Flug- und Zugverbindungen sowie der Zugang zu touristischen Attraktionen können wetterbedingt beeinträchtigt sein.
 
@@ -18,7 +18,7 @@ Auch Flug- und Zugverbindungen sowie der Zugang zu touristischen Attraktionen k�
 
 ### Visumsfreie Einreise
 
-Vom 1. Dezember 2023 bis voraussichtlich 31. Dezember 2025 können deutsche Staatsangehörige unter bestimmten Bedingungen visumsfrei für Aufenthalte von bis zu 15 Tagen in die VR China einreisen. Bei privater Unterkunft ist insbesondere die Registrierungspflicht zu beachten, siehe *Einreise und Zoll -* *Visum*.
+Bis voraussichtlich 31. Dezember 2025 können deutsche Staatsangehörige unter bestimmten Bedingungen visumsfrei für Aufenthalte von bis zu 15 Tagen in die VR China einreisen. Bei privater Unterkunft ist insbesondere die Registrierungspflicht zu beachten, siehe *Einreise und Zoll -* *Visum*.
 
 * Erkundigen Sie sich rechtzeitig vor Reiseantritt bei der zuständigen chinesischen Vertretung zu den aktuellen Einreisevorschriften. Nur diese kann verbindlich Auskunft erteilen.
 
@@ -36,7 +36,7 @@ Ausreisesperren gegen in China wohnhafte Ausländer (auch deutsche Staatsangehö
 
 #### *Region Xinjiang*
 
-Die chinesische Regierung hat die Sicherheitsmaßnamen in der Region im Rahmen einer Anti-Terror-Kampagne seit 2014 deutlich verschärft. Bei der Benutzung öffentlicher Verkehrsmittel (Busse, Züge) gelten grundsätzlich die gleichen Sicherheitsvorschriften wie an Flughäfen. Die Mitnahme von Flüssigkeiten (auch Trinkwasser, Speiseöl, Joghurt) sowie Feuerzeugen und Feuerwerkskörpern ist untersagt. Die Polizeipräsenz wurde massiv erhöht.
+Die chinesische Regierung hat die Sicherheitsmaßnamen in der Region deutlich verschärft. Bei der Benutzung öffentlicher Verkehrsmittel (Busse, Züge) gelten grundsätzlich die gleichen Sicherheitsvorschriften wie an Flughäfen. Die Mitnahme von Flüssigkeiten (auch Trinkwasser, Speiseöl, Joghurt) sowie Feuerzeugen und Feuerwerkskörpern ist untersagt. Die Polizeipräsenz wurde massiv erhöht.
 
 Verschärfte Kontrollen finden insbesondere in Städten bzw. an deren Zugangspunkten und Hauptverkehrsadern statt. Die Bewegungsfreiheit ist eingeschränkt. Personen-, Pass- und Gepäckkontrollen an Zugangspunkten zu u.a. Märkten, Parks und öffentlichen Plätzen sind die Regel. Ausländische Reisende müssen bei Polizeikontrollen ihren Pass vorzeigen, ihre Telefonnummer angeben und sich fotografieren lassen. Mit eingehenden Befragungen durch Sicherheitskräfte, auch nach Einchecken in Hotels, muss gerechnet werden. Beim Fotografieren und Filmen, auch mit dem Smartphone, ist darauf zu achten, dass keine Polizei- oder Sicherheitskräfte bzw. -installationen abgelichtet werden. Bei Zuwiderhandlung kann es zu einer vorübergehenden Festnahme kommen. In Xinjiang kam es in den letzten Jahren vermehrt zu Verhaftungen und Passentzug. Betroffen sind insbesondere Personen uigurischer Abstammung.
 
@@ -50,7 +50,7 @@ Verschärfte Kontrollen finden insbesondere in Städten bzw. an deren Zugangspun
 
 Demonstrationen sind ohne vorherige Genehmigung der Regierung illegal, finden gleichwohl gelegentlich statt. Teilnehmer müssen ggf. mit ernsten rechtlichen Maßnahmen gegen sie rechnen.
 
-Der Zugang zum Internet wird staatlich kontrolliert. Der Zugriff auf verschiedene Online-Angebote ist blockiert, darunter die von Google, Facebook, Twitter, Whatsapp und weiteren. Die Nutzung von VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist verboten, siehe auch *Rechtliche Besonderheiten*.
+Der Zugang zum Internet wird staatlich kontrolliert. Der Zugriff auf verschiedene Online-Angebote ist blockiert, darunter die von Google, Facebook, X, Whatsapp und weiteren. Die Nutzung von VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist verboten, siehe auch *Rechtliche Besonderheiten*.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -61,8 +61,7 @@ Der Zugang zum Internet wird staatlich kontrolliert. Der Zugriff auf verschieden
 Die Kriminalitätsrate ist insgesamt gering und Gewaltakte sind sehr selten.  
 Kleinkriminalität wie Taschendiebstahl und Raub z.B. von Smartphones sowie insbesondere verschiedenste Formen von Trickbetrügereien, Scams und überhöhte Kreditkartenabrechnungen und Preise für Dienstleistungen kommen jedoch vor
 
-Überfälle auf Ausländer werden selten bekannt, sind aber auch an gut bewachten Plätzen nicht auszuschließen.
-
+Überfälle auf Ausländer werden selten bekannt, sind aber auch an gut bewachten Plätzen nicht auszuschließen. Seit Herbst 2023 wurden aus unterschiedlichen Städten Messerangriffe auf Ausländer bekannt, bei denen es auch immer Verletzte gab.  
 Betrugsversuche erfolgen auch über das Telefon, wobei sich Anrufer teilweise als Polizei ausgeben.
 
 * Bewahren Sie Geld, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -74,9 +73,9 @@ Betrugsversuche erfolgen auch über das Telefon, wobei sich Anrufer teilweise al
 
 ## Natur und Klima
 
-#### *Erdbeben und Vulkane*
+#### *Erdbeben und Vulkanausbrüche*
 
-Weite Teile Chinas liegen in einer seismisch aktiven Zone, so dass es zu Erdbeben und vulkanischen Aktivitäten kommen kann. In den letzten Jahren ereigneten sich im Südwesten Chinas, insbesondere in der Provinz Sichuan, mehrere starke Erdbeben.
+Weite Teile Chinas liegen in einer seismisch aktiven Zone, sodass es zu Erdbeben und vulkanischen Aktivitäten kommen kann. In den letzten Jahren ereigneten sich im Südwesten Chinas, insbesondere in der Provinz Sichuan, mehrere starke Erdbeben.
 
 #### *Starkregen und Tropenstürme*
 
@@ -126,9 +125,9 @@ Sofern Handelsgesellschaften oder andere Organisationen an einem Verfahren betei
 Polizeidienststellen können bei über 200 (teilweise weit interpretierbaren) Tatbeständen nicht nur Bußgelder bis zu 5.000 RMB (ca. 600 EUR), sondern auch bis zu 15 Tage Arrest ohne richterliches Urteil anordnen. Zu den Tatbeständen gehören u.a. die Störung der öffentlichen Ordnung, sittenwidriges Verhalten, Prostitution (strafbar sind sowohl Prostituierte wie auch Freier), Drogenkonsum (auch der Konsum außerhalb Chinas kann verfolgt werden, wenn dieser z. B. noch anhand einer Haarprobe nachgewiesen wird), illegaler Aufenthalt usw. Das Gesetz wird auch gegen Ausländer angewandt**.** Auch Verstöße gegen sehr weit auslegbare Gesetzgebung zu nationaler Sicherheit und Spionage werden streng verfolgt.
 
 Fotografieren ist - von Ausnahmen wie z.B. militärischen Objekten abgesehen - nicht beschränkt. Bei Aufnahmen von Personen sollte erst um Erlaubnis gefragt werden. In Zweifelsfällen sollte man sich an die Reisebegleitung wenden. Videokameras und Smartphones sind ohne besondere Genehmigung erlaubt, sollten jedoch in der Zollerklärung angegeben werden.  
-Mobiltelefonverträge können vor Ort seit Dezember 2019 nur noch gegen Ausweis und Gesichtsscan abgeschlossen werden, von einer Auswertung vieler Nutzerdaten ist auszugehen.
+Mobiltelefonverträge können vor Ort nur gegen Ausweis und Gesichtsscan abgeschlossen werden; von einer Auswertung vieler Nutzerdaten ist auszugehen.
 
-Die Nutzung von sog. VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist seit Inkrafttreten des neuen Cybersicherheitsgesetzes 2017 verboten. Eine dauerhafte Sperrung der kommerziellen, auch nicht-chinesischen VPN-Anbieter zur Umgehung der Zensur ist bisher nicht erfolgt. Ein konkretes Datum, zu dem eine solche Sperre in Kraft treten soll, ist bisher nicht kommuniziert worden.  
+Die Nutzung von sog. VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist seit Inkrafttreten Cybersicherheitsgesetzes verboten. Eine dauerhafte Sperrung der kommerziellen, auch nicht-chinesischen VPN-Anbieter zur Umgehung der Zensur ist bisher nicht erfolgt. Ein konkretes Datum, zu dem eine solche Sperre in Kraft treten soll, ist bisher nicht kommuniziert worden.  
 Auch wenn bislang keine Fälle bekannt geworden sind, in denen Ausländer wegen der Nutzung von VPN-Diensten strafrechtlich verfolgt wurden, besteht dennoch potentiell jederzeit das Risiko einer Strafverfolgung auch mit vorläufiger Inhaftierung.
 
 * Führen Sie keine Gegenstände unbekannten Inhalts für Dritte mit sich.
@@ -177,7 +176,7 @@ Nach geltendem chinesischen Einreiserecht muss der Visumsantrag im Land der Staa
 
 #### *Visumsfreie Einreise*
 
-Seit dem 1. Dezember 2023 können deutsche Staatsangehörige für Aufenthalte bis zu 15 Tagen für geschäftliche und touristische Reisen sowie für Besuchsreisen und zum Transit ohne Visum in die Volksrepublik China einreisen. Die Ausnahme von der Visumspflicht gilt nicht für Reisende mit deutschen Dienstpässen, vorläufigen Reisepässen oder Reiseausweisen als Passersatz (RaP). Diese Regelung wird vorerst bis zum 31. Mai 2025 gelten. Die chinesische Botschaft in Berlin stellt auf ihrer [Internetseite ein FAQ](http://de.china-embassy.gov.cn/det/sgyw/202401/t20240118_11228847.htm) zur visafreien Einreise bereit.
+Deutsche Staatsangehörige können für Aufenthalte bis zu 15 Tagen für geschäftliche und touristische Reisen sowie für Besuchsreisen und zum Transit ohne Visum in die Volksrepublik China einreisen. Die Ausnahme von der Visumspflicht gilt nicht für Reisende mit deutschen Dienstpässen, vorläufigen Reisepässen oder Reiseausweisen als Passersatz (RaP). Diese Regelung wird vorerst bis zum 31. Dezember 2025 gelten. Die chinesische Botschaft in Berlin stellt auf ihrer [Internetseite ein FAQ](http://de.china-embassy.gov.cn/det/sgyw/202401/t20240118_11228847.htm) zur visafreien Einreise bereit.
 
 * Für Fragen zur Visumsfreiheit kontaktieren Sie bitte die [chinesische Botschaft in Berlin](http://de.china-embassy.gov.cn/det/).
 
@@ -208,7 +207,7 @@ Obwohl Hongkong und Macau Teil der VR China sind, genießen beide als sogenannte
 Dabei ist zu beachten, dass Hongkong und Macau nach dem chinesischen Ein- und Ausreisegesetz als „Ausland“ gelten. Sofern die Einreise von Festlandchina aus erfolgt, bedeutet dies in Bezug auf das Visum eine Ausreise aus der VR China.  
 Eine Wiedereinreise nach Festlandchina ist daher nur möglich, wenn das chinesische Visum für zwei- bzw. mehrfache Einreisen ausgestellt ist.
 
-* Achten Sie bei geplanten Reisen bzw. Ausflügen nach Hongkong und Macau unbedingt bereits bei Beantragung des Visums für die VR China darauf, dass es zu mehrfachen Einreise berechtigt.
+* Achten Sie bei geplanten Reisen bzw. Ausflügen nach Hongkong und Macau unbedingt bereits bei Beantragung des Visums für die VR China darauf, dass es zur mehrfachen Einreise berechtigt.
 
 #### *Visumsbeantragung*
 

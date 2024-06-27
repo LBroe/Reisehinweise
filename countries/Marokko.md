@@ -16,7 +16,7 @@ Trotz erheblicher Sicherheitsmaßnahmen besteht das Risiko terroristischer Angri
 
 ### Innenpolitische Lage
 
-Die politische Lage in Marokko ist stabil und ruhig. Vereinzelte, spontane und unerwartete Demonstrationen, können nicht ausgeschlossen werden. Proteste entzünden sich meist an wirtschaftlichen und sozialen Missständen. Mit pro–palästinensischen Demonstrationen muss weiterhin gerechnet werden. Die Demonstrationen verlaufen in aller Regel friedlich.
+Die politische Lage in Marokko ist grundsätzlich stabil und ruhig. Vereinzelte, spontane und unerwartete Demonstrationen können nicht ausgeschlossen werden. Proteste entzünden sich meist an wirtschaftlichen und sozialen Missständen. Mit pro–palästinensischen Demonstrationen muss weiterhin gerechnet werden. Die Demonstrationen verlaufen in aller Regel friedlich.
 
 * Informieren Sie sich über die lokalen Medien und verfolgen Sie aufmerksam die politische Lage.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen, wie z.B. nach dem Freitagsgebet vor Moscheen.
@@ -38,7 +38,7 @@ Wüstentouren in die Dünenlandschaften Südmarokkos (Erg Chebbi südlich von Me
 
 **Von Reisen in das Gebiet der Westsahara wird dringend abgeraten.** 
 
-Eine konsularische Betreuung ist dort nicht möglich. Die Botschaft kann keine Bescheinigungen zum Grenzübertritt o.Ä. ausstellen. Eventuell erforderliche Genehmigungen müssen vor Reisebeginn bei den zuständigen marokkanischen Behörden eingeholt werden. Abseits befestigter Straßen und insbesondere in den Grenzregionen zu Mauretanien besteht zudem eine Bedrohung durch Minen und nicht-detonierte Kampfmittel.
+Eine konsularische Betreuung ist dort nicht möglich. Die Botschaft kann keine Bescheinigungen zum Grenzübertritt o.ä. ausstellen. Eventuell erforderliche Genehmigungen müssen vor Reisebeginn bei den zuständigen marokkanischen Behörden eingeholt werden. Abseits befestigter Straßen und insbesondere in den Grenzregionen zu Mauretanien besteht zudem eine Bedrohung durch Minen und nicht-detonierte Kampfmittel.
 
 Der Grenzwall zwischen dem von Marokko und dem von der Frente Polisario kontrollierten Teil der Westsahara ist Sperrgebiet.
 
@@ -59,7 +59,7 @@ Insbesondere in der Nähe von touristischen Attraktionen und historischen Stadtz
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen und vom Reisepass nur eine Farbkopie mit.
 * Seien Sie wachsam, wenn Sie nach dem Weg fragen und Geldautomaten benutzen -  besonders, wenn sich jemand als ortskundiger Führer ausgibt und Ihnen seine Dienste anbietet.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -94,9 +94,9 @@ Der nationale deutsche Führerschein ist für einen Aufenthalt bis zu einem Jahr
 
 ### Besondere Verhaltenshinweise/Ramadan
 
-Die große Mehrheit der marokkanischen Gesellschaft ist wertkonservativ eingestellt und pflegt ein traditionelles Rollenverständnis. Allein reisende Frauen sollten zurückhaltend auftreten und gesundes Misstrauen zeigen.
+Die große Mehrheit der marokkanischen Gesellschaft ist wertkonservativ eingestellt und pflegt ein traditionelles Rollenverständnis. Alleinreisende Frauen sollten zurückhaltend auftreten und gesundes Misstrauen zeigen.
 
-Außereheliche Beziehungen sind gesetzlich strafbar. Es ist nicht ungewöhnlich, dass Hotels Paare bitten, beim Check-in eine Heiratsurkunde vorzulegen, und auf getrennte Zimmer bestehen, wenn ein solcher nicht vorgelegt werden kann.
+Außereheliche Beziehungen sind gesetzlich strafbar. Es ist nicht ungewöhnlich, dass Hotels Paare bitten, beim Check-in eine Heiratsurkunde vorzulegen, und auf getrennten Zimmern bestehen, wenn ein solcher Nachweis nicht vorgelegt werden kann.
 
 Alkohol kann in bestimmten Geschäften gekauft werden. Er wird in Städten auch in einigen Hotels und Restaurants serviert. Allerdings ist es nicht erlaubt, Alkohol auf der Straße und an anderen Orten als in einem zugelassenen Restaurant oder einer Bar zu trinken. Ein Verstoß kann zur Verhaftung führen.
 
@@ -104,13 +104,13 @@ Während des Fastenmonats Ramadan ist außerhalb der Touristenzentren mit Einsch
 
 ### Streunende Hunde
 
-Es gibt vereinzelt Berichte über Angriffe streunender Hunde auf Menschen, die teilweise sogar tödlich enden können. In jüngster Zeit gab es mehrere Todesfälle aufgrund von Tollwuterkrankungen nach Hundebissen.
+Es gibt vereinzelt Berichte über Angriffe streunender Hunde auf Menschen, die teilweise sogar tödlich enden können. In jüngster Zeit gab es mehrere Todesfälle aufgrund von Tollwuterkrankungen nach Hundebissen.
 
-* Halten Sie stets Abstand zu einzelnen und v.a. Gruppen von streunender Hunde und nähern Sie sich ihnen in keinem Fall.
+* Halten Sie stets Abstand zu einzelnen und v.a. Gruppen streunender Hunde und nähern Sie sich ihnen in keinem Fall.
 
 ### LGBTIQ
 
-Gleichgeschlechtliche Sexualbeziehungen sind in Marokko strafbar; auch Ausländer können strafrechtlich verfolgt werden. Es drohen neben Geld- auch Gefängnisstrafen bis zu drei Jahren.  LGBTIQ-Reisende sollten sich in Marokko darauf einstellen, dass kulturelle Vorbehalte bezüglich des angemessenen Verhaltens im öffentlichen Raum und zum Teil starke Vorurteile bestehen können. Zu zurückhaltendem Verhalten in der Öffentlichkeit wird ausdrücklich geraten.
+Gleichgeschlechtliche Sexualbeziehungen sind in Marokko strafbar; auch Ausländer können strafrechtlich verfolgt werden. Es drohen neben Geld- auch Gefängnisstrafen bis zu drei Jahren. LGBTIQ-Reisende sollten sich in Marokko darauf einstellen, dass kulturelle Vorbehalte bezüglich des angemessenen Verhaltens im öffentlichen Raum und zum Teil starke Vorurteile bestehen können. Zu zurückhaltendem Verhalten in der Öffentlichkeit wird ausdrücklich geraten.
 
 * Vermeiden Sie Zeichen der Zuneigung in der Öffentlichkeit.
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
@@ -123,14 +123,13 @@ Die Einfuhr, der Besitz und die Ausfuhr von Rauschgift werden in Marokko mit Haf
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der marokkanische Dirham (MAD). Kreditkarten werden weitgehend akzeptiert, insbesondere in Touristengebieten. In kleineren Hotels und Geschäften sowie in abgelegenen Regionen kann nur bar gezahlt werden. Bargeld kann mit Kreditkarte an den entsprechend gekennzeichneten Bankautomaten abgehoben werden. Bei einer Debitkarte (Girocard) hängt dies von den Vertragsbedingungen des Geldinstituts ab.
+Landeswährung ist der marokkanische Dirham (MAD). Kreditkarten werden weitgehend akzeptiert, insbesondere in Touristengebieten. In kleineren Hotels und Geschäften sowie in abgelegenen Regionen kann nur bar gezahlt werden. Bargeld kann mit Kreditkarte an den entsprechend gekennzeichneten Bankautomaten abgehoben werden. Bei einer Debitkarte (Girocard) hängt dies von den Vertragsbedingungen des Geldinstituts ab.
 
 * Bitte erfragen Sie bei Ihrem Geldinstitut, ob Ihre Debitkarte Sie zu Abhebungen im Ausland berechtigt.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -148,17 +147,17 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen zum Zeitpunkt der Einreise mindestens für die Dauer des Aufenthalts in Marokko gültig sein (Auskunft des marokkanischen Außenministeriums vom 26.10.2020). Die Ausreise mit einem abgelaufenen Reisepass ist nicht möglich.
+Reisedokumente müssen nach einer Auskunft des marokkanischen Außenministeriums vom 18. Juni 2024 zum Zeitpunkt der Einreise noch sechs Monate gültig sein. Einzelfallentscheidungen sind möglich, begründen aber keinen Anspruch auf Einreise mit einem Reisedokument kürzerem Ablaufdatums. Die Ausreise mit einem abgelaufenen Reisepass ist nicht möglich.
 
-Die Einreise mit einem deutschen Personalausweis ist **nicht** möglich. Reisende, die nur über einen Personalausweis verfügen (auch im Rahmen von Touristengruppen oder Charterflügen), können nicht nach Marokko einreisen und müssen den nächstmöglichen Flug zurück nehmen. Die Ausstellung eines Passersatzpapiers durch die Deutsche Botschaft Rabat ist in diesen Fällen nicht möglich.
+Die Einreise mit einem deutschen Personalausweis ist **nicht** möglich. Reisende, die nur über einen Personalausweis verfügen (auch im Rahmen von Touristengruppen oder Charterflügen), können nicht nach Marokko einreisen und müssen den nächstmöglichen Flug zurücknehmen. Die Ausstellung eines Passersatzpapiers durch die Deutsche Botschaft Rabat ist in diesen Fällen nicht möglich.
 
 ### Visum
 
 Deutsche Staatsangehörige benötigen für touristische und geschäftliche Zwecke bis zu 90 Tagen kein Visum.
 
-Ein längerer Aufenthalt stellt einen Verstoß gegen das Aufenthaltsrecht dar und wird strafrechtlich geahndet. Personen, die den visumfreien Aufenthalt überzogen haben, werden an der Ausreise gehindert und müssen das weitere Verfahren mit der Grenzpolizei abklären. Die Deutsche Botschaft Rabat kann auf die Entscheidung keinen Einfluss nehmen.
+Ein längerer Aufenthalt stellt einen Verstoß gegen das Aufenthaltsrecht dar und wird strafrechtlich geahndet. Personen, die den visumsfreien Aufenthalt überzogen haben, werden an der Ausreise gehindert und müssen das weitere Verfahren mit der Grenzpolizei abklären. Die Deutsche Botschaft Rabat kann auf die Entscheidung keinen Einfluss nehmen.
 
-Über eine vor Ablauf des visumfreien Zeitraumes beantragte Verlängerung des Aufenthalts entscheidet die Ausländerpolizei, wobei in der Regel ein vollständiger Antrag mit Nachweis über finanzielle Mittel, ggf. Arbeitsvertrag in Marokko, aktuellem polizeilichem Führungszeugnis und Begründung, warum ein längerer Aufenthalt erforderlich ist, vorgelegt werden muss.
+Über eine vor Ablauf des visumsfreien Zeitraumes beantragte Verlängerung des Aufenthalts entscheidet die Ausländerpolizei, wobei in der Regel ein vollständiger Antrag mit Nachweis über finanzielle Mittel, ggf. Arbeitsvertrag in Marokko, aktuellem polizeilichen Führungszeugnis und Begründung, warum ein längerer Aufenthalt erforderlich ist, vorgelegt werden muss.
 
 Ausführliche Informationen zur Einreise und konsularischen Angelegenheiten in deutscher Sprache bietet das [marokkanische Außenministerium](http://www.botschaft-marokko.de).
 
@@ -172,18 +171,17 @@ Für Minderjährige, die ohne Begleitung des gesetzlichen Vertreters verreisen, 
 
 Personen, die neben der deutschen auch die marokkanische Staatsangehörigkeit besitzen, können in der Regel mit dem deutschen Reisepass ein- und ausreisen, müssen dann aber in den meisten Fällen auch den marokkanischen Personalausweis (CNIE = Carte national d’identité éléctronique) vorlegen. Der Besitz der marokkanischen Identitätskarte ist für marokkanische Staatsangehörige ab 16 Jahren gesetzlich vorgeschrieben. 
 
-Achtung: Die Rückgabe des marokkanischen Passes an eine marokkanische Auslandsvertretung aus Anlass der Einbürgerung in den deutschen Staatsverband führt nicht zum Verlust der marokkanischen Staatsangehörigkeit, sodass es sich bei diesem Personenkreis für die marokkanischen Behörden weiterhin um marokkanische Staatsbürger handelt.
+Achtung: Die Rückgabe des marokkanischen Passes an eine marokkanische Auslandsvertretung aus Anlass der Einbürgerung in den deutschen Staatsverband führt nicht zum Verlust der marokkanischen Staatsangehörigkeit, sodass es sich bei diesem Personenkreis für die marokkanischen Behörden weiterhin um marokkanische Staatsangehörige handelt.
 
 ### Einfuhrbestimmungen
 
-In Marokko gelten strenge Devisenbestimmungen: Ab einem Gegenwert von 100.000 MAD sind Devisen deklarationspflichtig.  
-Es dürfen max. 2.000 MAD in bar ein- oder ausgeführt werden.
+In Marokko gelten strenge Devisenbestimmungen: Ab einem Gegenwert von 100.000 MAD sind Devisen deklarationspflichtig. Es dürfen max. 2.000 MAD in bar ein- oder ausgeführt werden.
 
 Der Besitz von Falschgeld ist strafbar und kann mit mehrjährigen Haftstrafen geahndet werden.
 
-Bei Einreise dürfen Waren für nicht-kommerzielle Zwecke bis zu einem Gegenwert von max. 2.000 MAD zoll- und steuerfrei eingeführt werden. Sämtliche über den Freibetrag hinaus gehenden Waren müssen deklariert und verzollt werden. Ausnahmen sind nicht bekannt.
+Bei Einreise dürfen Waren für nicht-kommerzielle Zwecke bis zu einem Gegenwert von max. 2.000 MAD zoll- und steuerfrei eingeführt werden. Sämtliche über den Freibetrag hinausgehenden Waren müssen deklariert und verzollt werden. Ausnahmen sind nicht bekannt.
 
-Die Einfuhr von Pflanzen und Sämereien ist verboten. Auskünfte zu Ausnahmegenehmigungen erteilt die [ONSSA](https://www.onssa.gov.ma) [(Office National des Sécurité sanitaire des produits alimentaires).](mailto:contact@onssa.gov.ma)
+Die Einfuhr von Pflanzen und Sämereien ist verboten. Auskünfte zu Ausnahmegenehmigungen erteilt das [ONSSA](https://www.onssa.gov.ma) [(Office National de Sécurité sanitaire des produits alimentaires).](mailto:contact@onssa.gov.ma)
 
 Die Einfuhr von Flugdrohnen aller Art ist streng verboten. Zuwiderhandlungen werden strafrechtlich verfolgt; das Gerät wird vom Zoll beschlagnahmt.
 
@@ -191,7 +189,7 @@ Weitergehende Informationen zur Ein- und Ausfuhr persönlicher Gegenstände, ges
 
 #### *Einfuhr eines Fahrzeugs*
 
-Ein bei der Einreise eingeführtes Kfz muss bei der Ausreise wieder ausgeführt werden. Andernfalls wird die Ausreise verweigert und es drohen hohe Zollstrafen (auch bei Unfallwagen). Das Kfz darf Dritten nur mit ausdrücklicher Genehmigung des Zolls überlassen werden. Zusätzliche Informationen bietet [der marokkanische Zoll.](https://www.douane.gov.ma/web/guest/nos-publications) Eine für Marokko gültige „Grüne Versicherungskarte“ muss mitgeführt werden und wird gelegentlich, bei Unfallbeteiligung in jedem Fall, von der Polizei verlangt.
+Ein bei der Einreise eingeführtes Kfz muss bei der Ausreise wieder ausgeführt werden. Andernfalls wird die Ausreise verweigert, und es drohen hohe Zollstrafen (auch bei Unfallwagen). Das Kfz darf Dritten nur mit ausdrücklicher Genehmigung des Zolls überlassen werden. Zusätzliche Informationen bietet [der marokkanische Zoll.](https://www.douane.gov.ma/web/guest/nos-publications) Eine für Marokko gültige „Grüne Versicherungskarte“ muss mitgeführt werden und wird gelegentlich, bei Unfallbeteiligung in jedem Fall, von der Polizei verlangt.
 
 Eingeführte Kfz, die nicht wieder ausgeführt werden (z. B. bei Verkauf, Unfall), müssen verzollt werden.
 
@@ -262,7 +260,7 @@ Tuberkulose, Brucellose (nach Konsum von nicht pasteurisierten Milchprodukten) k
 
 ### Medizinische Versorgung
 
-Die medizinische Versorgung im Lande ist mit Europa nicht ganz zu vergleichen. In Rabat und Casablanca finden sich allerdings gute Privatkliniken von hohem Standard. Auf dem Lande hingegen kann die medizinische Versorgung bezüglich der apparativen Ausstattung bzw. Hygiene problematisch sein. Hier fehlen z.T. europäisch ausgebildete, Englisch oder gut Französisch sprechende Ärzte.
+Die medizinische Versorgung im Lande ist mit Europa nicht ganz zu vergleichen. In Rabat und Casablanca finden sich allerdings gute Privatkliniken von hohem Standard. Auf dem Lande hingegen kann die medizinische Versorgung bezüglich der apparativen Ausstattung bzw. Hygiene problematisch sein. Hier fehlen z.T. auf vergleichbarem Niveau wie in Europa ausgebildete, Englisch oder gut Französisch sprechende Ärzte.
 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Krankenversicherung ab, die Risiken abdeckt, die von den gesetzlichen Kassen nicht übernommen werden (z. B. notwendiger Rücktransport nach Deutschland im Krankheitsfall, Behandlung bei Privatärzten oder in Privatkliniken).
