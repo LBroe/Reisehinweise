@@ -73,8 +73,7 @@ Landeswährung ist der Hong Kong Dollar (HKD). Das Abheben von Bargeld an Geldau
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -102,7 +101,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 ### Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt von bis zu 90 Tagen kein Visum.  
-Nach Ausreise (z.B. nach Macau oder mit einem vorher in Deutschland eingeholten Visum für die Volksrepublik China) kann unmittelbar im Anschluss erneut ein visafreier Aufenthalt von 90 Tagen in Hongkong gewährt werden, sofern bei Einreise ein noch mindestens sechs Monate gültiger deutscher Reisepass vorgelegt wird.
+Nach Ausreise (z.B. nach Macau oder mit einem vorher in Deutschland eingeholten Visum für die Volksrepublik China) wurde in Einzelfällen im Anschluss erneut ein visumsfreier Aufenthalt von 90 Tagen in Hongkong gewährt, sofern bei Einreise ein noch mindestens sechs Monate gültiger deutscher Reisepass vorgelegt wird und nicht von vornherein ein langfristiger Aufenthalt geplant war. Ein Anspruch auf diese Art der Visumverlängerung besteht jedoch nicht.
 
 Informationen zur zeitlich befristeten visumsfreien Einreise in die Volksrepublik China bieten die [Reise- und Sicherheitshinweise China](https://www.auswaertiges-amt.de/de/service/laender/china-node/chinasicherheit/200466).
 
@@ -175,20 +174,12 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [
 * Waschen Sie sich so oft wie möglich mit Seife die Hände, stets jedoch vor der Essenszubereitung und vor dem Essen.
 * Wenn möglich, desinfizieren Sie Ihre Hände mit Flüssigdesinfektionsmittel.
 
-### MERS (Middle East Respiratory Syndrome)
-
-Diese Infektionskrankheit löst seit 2012 vorrangig in Ländern der Arabischen Halbinsel vereinzelt schwere Atemwegserkrankungen aus. Ursache ist ein Coronavirus (MERS-CoV), dessen Biologie nicht abschließend geklärt ist. Kamele scheinen an der Übertragung auf den Menschen beteiligt zu sein. Zu Übertragungen von Mensch zu Mensch kam es nur bei sehr engem Kontakt zu Kranken, siehe [MERS.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/2562906 "MERS (Middle East Respiratory Syndrome)")
-
-Im November 2018 ist MERS-CoV in einem Fall in China (Provinz Guangdong) aufgetreten. Hierbei handelte es sich um einen aus Korea eingereisten Infizierten, der über Hongkong und Shenzhen nach Huizhou reiste. Der Patient wurde medizinisch behandelt, mehr als 30 Menschen wurden in Quarantäne genommen, weitere Infektionen wurden nicht berichtet.  
-Das Gesundheitsministerium in Hongkong hat hinsichtlich MERS-CoV ein erhöhtes [Alert Response Level](https://www.chp.gov.hk/en/features/26511.html) aktiviert. Jeder Reisende, der am Baiyun Flughafen in Hongkong einreist, wird gezielt mit der Wärmekamera untersucht. Weitere Informationen und eine aktuelle Risikobewertung bietet das [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/M/MERS_Coronavirus/MERS_Coronavirus.html).  
-Die [Weltgesundheitsorganisation WHO](https://www.who.int/) sieht keinen Grund für Einschränkungen im Reiseverkehr oder Handel.
-
 ### Aviäre Influenza (Vogelgrippe)
 
-Seit 2013 wurden Erkrankungen beim Menschen mit einem bisher nur bei Vögeln aufgetretenen Influenzavirus H7N9 in China bekannt. Einzelne Fälle wurden von China aus nach Hongkong importiert. Eine Mensch-zu-Mensch-Übertragung wurde bisher nicht nachgewiesen. Wie bisher haben die Empfehlungen für Länder mit Vorkommen von Vogelgrippe-Einzelerkrankungen beim Menschen ihre Gültigkeit, siehe [Aviäre Influenza](https://www.auswaertiges-amt.de/blob/254348/7a71975bb8eb85b7c95551b7e9024859/vogelgrippe-data.pdf "Vogelgrippe - Aviäre Influenza").  
-Die Klassische Geflügelpest (hochpathogene Form der Aviären Influenza, Vogelgrippe) ist in der Volksrepublik China endemisch und gelangt über den regen Personen- und Warenverkehr gelegentlich auch nach Hongkong. Wie auch in anderen Ländern Asiens sind in den letzten Jahren nur selten vereinzelte Erkrankungen beim Menschen mit engem Kontakt zu Geflügel aufgetreten.
+Die Klassische Geflügelpest (hochpathogene Form der Aviären Influenza, Vogelgrippe) ist in der Volksrepublik China endemisch und gelangt über den regen Personen- und Warenverkehr gelegentlich auch nach Hongkong. Wie auch in anderen Ländern Asiens sind in den letzten Jahren nur selten vereinzelte Erkrankungen beim Menschen mit engem Kontakt zu Geflügel aufgetreten, siehe [Aviäre Influenza](https://www.auswaertiges-amt.de/blob/254348/7a71975bb8eb85b7c95551b7e9024859/vogelgrippe-data.pdf).
 
-* Bitte beachten Sie die vom Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz veröffentlichte Information [Hinweise an Reisende zur Vogelgrippe.](https://www.auswaertiges-amt.de/blob/254348/7a71975bb8eb85b7c95551b7e9024859/vogelgrippe-data.pdf "Vogelgrippe - Aviäre Influenza")
+* Vermeiden Sie den Besuch von Geflügelmärkten, den Kontakt zu lebendem Geflügel und deren Ausscheidungen und die eigene Zubereitung von frischen Geflügelprodukten. Entsprechende Produkte sollten nur gut durchgegart gegessen werden.
+* Suchen Sie einen Arzt/eine Ärztin auf und weisen Sie auf den Aufenthalt in Hongkong hin, falls Sie bei Reisen aus betroffenen Gebieten innerhalb von zehn Tagen nach Rückkehr Atemwegsbeschwerden und Fieber entwickeln.
 
 ### Japanische Enzephalitis
 
@@ -196,7 +187,7 @@ Diese durch nachtaktive Stechmücken übertragene Virusinfektion des Gehirns tra
 
 * Schützen Sie sich zur Vermeidung von Japanischer Enzephalitis im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere nachts konsequent vor Mückenstichen und lassen Sie sich ggf. impfen.
 
-### Tsutsugamushi Fieber (Scrub Typhus)
+### Tsutsugamushi-Fieber (Scrub Typhus)
 
 Diese durch Milben übertragene Fiebererkrankung stellt nur bei Wanderungen in den umgebenden Hügeln ein geringes Infektionsrisiko dar.
 
@@ -206,7 +197,7 @@ Diese durch Milben übertragene Fiebererkrankung stellt nur bei Wanderungen in d
 
 Durch Luftverschmutzung kann es in Hongkong insbesondere für Menschen mit Vorerkrankungen zu medizinischen Problemen kommen.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -216,9 +207,7 @@ Die medizinische Versorgung in Hongkong ist ausgezeichnet und entspricht europä
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
