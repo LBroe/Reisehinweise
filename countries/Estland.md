@@ -4,7 +4,7 @@
 
 ### *Einreise aus der Russischen Föderation nach Estland*
 
-Mit Wirkung vom 1. Mai 2024 werden die Öffnungszeiten des Grenzübergangs Narva-Ivangorod bis auf Weiteres eingeschränkt. Der Grenzübertritt ist dann nur zwischen 7 und 22 Uhr möglich.
+Grenzübertritte am Grenzübergang Narva-Ivangorod sind bis auf Weiteres nur zwischen 7 und 22 Uhr möglich.
 
 Fahrzeuge können den Grenzübergang Narva-Ivangorod aufgrund von Bauarbeiten auf der russischen Seite nicht überqueren. Ein Grenzübertritt ist hier nur zu Fuß möglich. Die Bauarbeiten sollen voraussichtlich Ende 2025 abgeschlossen sein.
 
@@ -96,8 +96,7 @@ Zahlungsmittel ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und 
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -167,7 +166,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 
 ### FSME
 
-Landesweit kommt es von April – Oktober zur Übertragung der Frühsommer Meningoenzephalitis (FSME) durch Zeckenbisse. Bei Aufenthalten in dieser Zeit ist eine Impfung gegen FSME empfohlen. Auch an die Möglichkeit einer Erkrankung an *Borreliose* muss nach einem Zeckenbiss gedacht werden.
+Landesweit kommt es von April – Oktober zur Übertragung der Frühsommer Meningoenzephalitis (FSME) durch Zeckenbisse. Bei Aufenthalten in dieser Zeit ist eine Impfung gegen FSME empfohlen. Auch an die Möglichkeit weiterer durch Zecken übertragenen Erkrankungen wie beispielsweise *Borreliose* oder *Babesiosis* muss nach einem Zeckenbiss gedacht werden.
 
 ### HIV/AIDS
 
