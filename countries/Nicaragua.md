@@ -8,7 +8,7 @@
 
 ### Innenpolitische Lage
 
-2018 wurden im gesamten Land bei massiven Demonstrationen gegen die Regierung und gewalttätigen Auseinandersetzungen Hunderte Menschen getötet. Seitdem unterbinden Sicherheitskräfte weitere Demonstrationen frühzeitig. Die Lage ist derzeit ruhig. Ein Wiederaufflammen der Proteste und Gewalt ist jedoch nicht ausgeschlossen. Sicherheitsbehörden nehmen nicht selten aus politischen Motiven, Personen wegen des angeblichen Verdachts der Geldwäsche, des Terrorismus, des Landesverrats oder der organisierten Kriminalität fest oder hindern diese an der Ausreise aus Nicaragua.
+Seit den Demonstrationen im Jahr 2018 unterbinden die Sicherheitskräfte Demonstrationen frühzeitig. Die Lage ist derzeit ruhig. Ein Wiederaufflammen der Proteste und Gewalt ist jedoch nicht ausgeschlossen. Die Sicherheitsbehörden nehmen, nicht selten aus politischen Motiven, Personen wegen des angeblichen Verdachts der Geldwäsche, des Terrorismus, des Landesverrats oder der organisierten Kriminalität fest oder hindern diese an der Ausreise aus Nicaragua.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -31,7 +31,7 @@ An der südlichen Atlantikküste (RAAS), zu der auch die Touristenziele Bluefiel
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, an Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Leisten Sie im Falle eines Überfalls keinen Widerstand.
 * Lassen Sie Ihr Gepäck nie aus den Augen und Getränke nie unbeaufsichtigt.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -44,7 +44,7 @@ Nicaragua liegt in einer seismisch aktiven Zone, sodass es zu Erdbeben und vulka
 Alle sechs aktiven Vulkane in Nicaragua zeigen derzeit erhöhte Aktivität (moderate Eruptionen, mehrere kleinere vulkanische Beben, erhöhter Austritt von Schwefeldioxid, Anstieg der Lava im Vulkankessel, etc.).  
 Menschen kamen bisher nicht zu Schaden. Es ist mit weiteren vulkanischen Beben zu rechnen.
 
-Vom Besuch des bei Managua liegenden Vulkans Masaya sowie der Besteigung des Vulkans Momotombo wird aufgrund der aktuellen seismischen Aktivität ausdrücklich abgeraten. Auch bei allen anderen Vulkanen Nicaraguas kann es plötzlich zu vulkanischer und seismischer Aktivität kommen. Bei der Insel Ometepe ist zu berücksichtigen, dass durch die Insellage eine ggf. erforderliche Evakuierung erschwert wird.
+Vom Besuch des Kraters des Vulkans Masaya sowie der Besteigung des Vulkans Momotombo wird aufgrund der aktuellen seismischen Aktivität ausdrücklich abgeraten. Auch bei allen anderen Vulkanen Nicaraguas kann es plötzlich zu vulkanischer und seismischer Aktivität kommen. Bei der Insel Ometepe ist zu berücksichtigen, dass durch die Insellage eine ggf. erforderliche Evakuierung erschwert wird.
 
 #### *Tropenstürme*
 

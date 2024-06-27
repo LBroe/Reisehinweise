@@ -1,5 +1,16 @@
 # USA/Vereinigte Staaten: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### *Busch- und Waldbrände*
+
+Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
+Auch in anderen Bundesstaaten besteht erhöhte Busch- und Waldbrandgefahr, vor allem im Süden und Südwesten der USA.
+
+* Achten Sie in Bezug auf Busch- und Waldbrände auf Meldungen in den Medien und Hinweise der lokalen Behörden.
+* Informieren Sie sich über aktuelle Lagen beim [Department of Forestry and Fire Protection](https://www.fire.ca.gov/incidents/) und zur Luftqualität in betroffenen Gebieten über [AirNow](https://www.airnow.gov/).
+* Erkundigen Sie sich über aktuelle Beeinträchtigungen bei der [FEMA](https://www.fema.gov/) oder nutzen Sie die [FEMA-App](https://www.fema.gov/mobile-app), die neben aktuellen Alarmmeldungen auch nächstgelegene Notunterkünfte anzeigt.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -64,7 +75,7 @@ In den Wintermonaten kann es insbesondere im Mittleren Westen und Norden der USA
 * Stellen Sie sich auf erhebliche Verkehrsbehinderungen, inklusive Einschränkungen im Flugverkehr, ein und informieren Sie sich z.B. bei der [Federal Aviation Administration](http://www.fly.faa.gov/flyfaa/usmap.jsp).
 * Achten Sie auf Meldungen in den Medien und Hinweise der lokalen Behörden, z.B. der [FEMA](https://www.fema.gov/) (Federal Emergency Management Agency) oder nutzen Sie die die [FEMA-App](https://www.fema.gov/mobile-app), die neben aktuellen Alarmmeldungen auch nächstgelegene Notunterkünfte anzeigt.
 
-#### *Erdbeben, Vulkane und Tsunamis*
+#### *Erdbeben, Vulkanausbrüche und Tsunamis*
 
 Teile der USA liegen in seismisch sehr aktiven Zonen, in denen eine erhöhte Erbeben- und teilweise auch Tsunamigefahr besteht, wie in Alaska, Kalifornien, Nevada, Oklahoma, Oregon, Washington, Amerikanisch-Samoa, Guam, Hawaii, Puerto Rico, die amerikanischen Jungferninseln und die Nördlichen Mariannen.  
 Zuletzt kam es 2022 an der Nordküste Kaliforniens zu einem Erdbeben der Stärke 6,4.
@@ -160,7 +171,7 @@ Zahlreiche kubanische Staatsfirmen, darunter auch des Touristiksektors, wurden v
 * Sammeln Sie entsprechende Belege.
 * Legen Sie Ihre Notizen auf Verlangen den US-Behörden vor.
 * Machen Sie keine Geschäfte mit Firmen, die auf der entsprechenden Liste der US-amerikanischen Behörden stehen.
-* Informieren Sie sich über weitere Details bei den zuständigen US-amerikanischen Behörden [Customs and Border Protection (CBP)](https://help.cbp.gov/), das [Department of the Treasury – Office of Foreign Assets Control (OFAC)](https://www.treasury.gov/resource-center/sanctions/Programs/Documents/guidance_cuba_travel.pdf) (nur in den USA aufrufbar) und der [US-Botschaft in Havanna](https://cu.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/traveling-to-cuba/) oder auch direkt bei den US-amerikanischen Fluglinien wie z. B. [American Airlines](https://www.aa.com/i18n/travel-info/international-travel/cuba.jsp).
+* Informieren Sie sich über weitere Details bei den zuständigen US-amerikanischen Behörden [Customs and Border Protection (CBP)](https://help.cbp.gov/), das [Department of the Treasury – Office of Foreign Assets Control (OFAC)](https://www.treasury.gov/resource-center/sanctions/Programs/Documents/guidance_cuba_travel.pdf) (nur in den USA aufrufbar) und der [US-Botschaft in Havanna](https://cu.usembassy.gov/services/traveling-to-cuba/) oder auch direkt bei den US-amerikanischen Fluglinien wie z. B. [American Airlines](https://www.aa.com/i18n/travel-info/international-travel/cuba.jsp).
 
 ### LGBTIQ
 
@@ -393,7 +404,7 @@ Dengue-Viren können durch tagaktive *Aedes*-Mücken in den südlichen Bundessta
 
 ### West-Nil-Fieber
 
-Beim West-Nil-Fieber handelt es sich um eine durch Zugvögel verbreitete, von tagaktiven Mücken auf den Menschen übertragene Viruserkrankung. In den Sommermonaten kann es in den USA zu saisonalen Ausbrüchen kommen; aktuelle Fallzahlen bietet das [CDC](https://www.cdc.gov/westnile/statsmaps/index.html). Die Infektion verläuft überwiegend klinisch unauffällig,  in seltenen Fällen können jedoch schwere neurologische Symptome auftreten. Eine Schutzimpfung oder spezifische Behandlung existiert nicht, siehe [West-Nil-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber")
+Beim West-Nil-Fieber handelt es sich um eine durch Zugvögel verbreitete, von tagaktiven Mücken auf den Menschen übertragene Viruserkrankung. In den Sommermonaten kann es in den USA zu saisonalen Ausbrüchen kommen; aktuelle Fallzahlen bietet das [CDC](https://www.cdc.gov/dengue/data-research/facts-stats/index.html). Die Infektion verläuft überwiegend klinisch unauffällig,  in seltenen Fällen können jedoch schwere neurologische Symptome auftreten. Eine Schutzimpfung oder spezifische Behandlung existiert nicht, siehe [West-Nil-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber")
 
 * Schützen Sie sich zur Vermeidung von West-Nil-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
 
