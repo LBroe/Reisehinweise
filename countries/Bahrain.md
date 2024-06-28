@@ -135,11 +135,9 @@ Visa für Journalisten müssen vor Einreise beim zuständigen „National Commun
 
 Journalisten wird dringend davon abgeraten, mit einem nicht dem Aufenthaltszweck entsprechenden Visum (z.B. touristisches Visum) einzureisen und dennoch einer journalistischen Tätigkeit nachzugehen. Die örtlichen Zensurbestimmungen sind zu beachten.
 
-#### *Verlängerung des Aufenthalts*
+#### *Verlängerung des Aufenthalts/"residency"*
 
-Es besteht die Möglichkeit, ein Visum durch die örtliche Passbehörde [General Directorate of Nationality, Passports & Residence](https://services.bahrain.bh/wps/portal/rpinq_en) gebührenpflichtig verlängern zu lassen. Weitere Verlängerungen sind grundsätzlich gegen Gebühr möglich. Die Verlängerung bedarf der Zustimmung eines einheimischen Sponsors (Hotelbestätigungen werden u. a. akzeptiert).
-
-Ein längerfristiger Aufenthaltstitel (in der Regel sog. „*sponsored visa*“) wird vom GDNPR erteilt, sofern eine Bürgschaft einer Einzelperson bzw. des Arbeitgebers vorgelegt wird. Gelegentlich wird der Reisepass während der Dauer des Aufenthalts von Arbeitgebern einbehalten.
+Weitere Informationen zum Thema Aufenthaltstitel/„residency“ in Bahrain bietet das [zuständige Behördenportal.](https://services.bahrain.bh/wps/portal/rpinq_en)  
 
 #### *Ausreiseverweigerung/“Travel Ban“*
 

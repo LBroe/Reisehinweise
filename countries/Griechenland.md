@@ -10,7 +10,7 @@
 
 Es kommt immer wieder zu Protesten und Demonstrationen. Vereinzelte gewaltsame Auseinandersetzungen und Verkehrsbehinderungen können nicht ausgeschlossen werden.
 
-Aufgrund der geografischen Lage ist Griechenland ein bedeutsames Einreiseland für Migranten in die EU bzw. in den Schengenraum. Von Griechenland aus versuchen viele Personen, insbesondere über die Fährhäfen Patras und Igoumenitsa, ohne erforderliche Dokumente weiter nach Italien und andere Schengenländer zu reisen.
+Aufgrund der geografischen Lage ist Griechenland ein bedeutsames Einreiseland für Flüchtlinge und Migranten in die EU bzw. in den Schengenraum. Von Griechenland aus versuchen viele Personen, unter anderem über die Fährhäfen Patras und Igoumenitsa, ohne erforderliche Dokumente weiter nach Italien und in andere Schengenländer zu reisen.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -41,11 +41,14 @@ Im Mittelmeer kann es insbesondere von August bis November vereinzelt zu schwere
 
 #### *Hitze*
 
-In den Sommermonaten kommt es häufig zu Hitzewellen mit Temperaturen über 40 Grad Celsius. Insbesondere für Säuglinge, Kinder, Senioren sowie Menschen, die an chronischen Erkrankungen der Atemwege, des Herz-Kreislaufs etc. leiden, ist besondere Vorsicht geboten. Aufenthalte in der Sonne sowie überfüllte öffentliche Bereiche sollten möglichst gemieden werden. Empfohlen wird das Tragen leichter, heller Kleidung aus natürlichem Material sowie eine ausreichende Aufnahme von Flüssigkeit.
+In den Sommermonaten kommt es häufig zu Hitzewellen mit Temperaturen über 40 Grad Celsius. Insbesondere für Säuglinge, Kinder, Senioren sowie Menschen, die an chronischen Erkrankungen der Atemwege, des Herz-Kreislaufs etc. leiden, ist besondere Vorsicht geboten. Aufenthalte in der Sonne und überfüllte öffentliche Bereiche sollten möglichst gemieden werden. Gleiches gilt für körperliche Anstrengung in der Mittagshitze. Empfohlen wird das Tragen leichter, heller Kleidung aus natürlichem Material sowie eine ausreichende Aufnahme von Flüssigkeit.
+
+* Nehmen Sie bei Spaziergängen und Wanderungen Sonnenschutz und große Mengen Trinkwasser mit.
+* Achten Sie darauf, nur sehr gut ausgeschilderte Wanderrouten zu nutzen.
 
 #### *Busch- und Waldbrände*
 
-Vor allem in den Sommermonaten kommt es in Griechenland aufgrund der herrschenden klimatischen Bedingungen immer wieder zu Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
+Vor allem in den Sommermonaten kommt es in Griechenland aufgrund der herrschenden klimatischen Bedingungen zu zahlreichen Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
 
 * Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein. Aktivieren Sie auf Ihrem Mobiltelefon die Option, Notfallbenachrichtigungen (Cell Broadcast Alerts) zu erhalten, die in griechischer und englischer Sprache versandt werden, und nehmen Sie im Zweifel eine Powerbank mit, damit Ihr Telefon möglichst lange in Betrieb bleiben kann.
 * Wenn Sie sich in einer Notlage befinden und die europäische Notfallnummer 112 wählen, können Sie sofort geortet werden, sodass Rettungsmaßnahmen eingeleitet werden können. Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
@@ -110,13 +113,13 @@ Das Fotografieren militärischer und wichtiger ziviler Anlagen (Flughäfen/Häfe
 
 * Achten Sie bei Wanderungen auf Schilder, die ein militärisches Sperrgebiet bezeichnen und vermeiden Sie das Betreten solcher Bereiche.
 
-Bei Diebstahl, vorsätzlicher oder fahrlässiger Beschädigung, illegaler Ausgrabung und Entfernung archäologischer Fundstücke vom Fundort (d.h. ohne Genehmigung bzw. Anzeige gegenüber den Behörden) können auch gegen Ausländer je nach Schwere der Tat mehrjährige Haftstrafen verhängt werden.
+Bei Diebstahl, vorsätzlicher oder fahrlässiger Beschädigung, illegaler Ausgrabung und Entfernung archäologischer Fundstücke vom Fundort (d.h. ohne Genehmigung bzw. Anzeige gegenüber den Behörden) können auch gegen Ausländer je nach Schwere der Tat mehrjährige Haftstrafen verhängt werden.
 
 Schleusungsdelikte können in Griechenland mit hohen Haft- und Geldstrafen geahndet werden, siehe *Infrastruktur/Verkehr*.
 
 ### Geld/Kreditkarten
 
-Zahlungsmittel ist der EUR. Für von ausländischen Geldinstituten ausgegebene Debitkarten (Girocard) gelten nach Angaben der griechischen Behörden keine besonderen Beschränkungen im Hinblick auf die Höhe von Geldabhebungen. Die Bezahlung mit Kreditkarten und das Abheben an Geldautomaten sind weit verbreitet.
+Zahlungsmittel ist der Euro (EUR). Für von ausländischen Geldinstituten ausgegebene Debitkarten (Girocard) gelten nach Angaben der griechischen Behörden keine besonderen Beschränkungen im Hinblick auf die Höhe von Geldabhebungen. Die Bezahlung mit Kreditkarten und das Abheben an Geldautomaten sind weit verbreitet.
 
 ## Einreise und Zoll
 
