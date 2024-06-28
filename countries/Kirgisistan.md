@@ -150,7 +150,7 @@ Alternativ kann online ein [E-Visum](http://www.evisa.e-gov.kg/) für Aufenthal
 
 ### Registrierung
 
-Deutsche Staatsangehörige, die sich länger als 60 Tage in Kirgisistan aufhalten, müssen sich innerhalb von fünf Tagen nach Einreise bei der zuständigen Behörde registrieren. Zuständig ist der [Staatliche Registrierungsdienst](https://mfa.gov.kg/ru/dks-mid-kr-ru/konsulskie-uslugi/vizovye-voprosy/voprosy-prodleniya-viz-inostrannym-grazhdanam/poryadok-registracii-inostrannyh-grazhdan-polzuyushchihsya-specialnoy-mezhdunarodnoy-zashchitoy).  
+Deutsche Staatsangehörige, die sich länger als 60 Tage in Kirgisistan aufhalten wollen, müssen innerhalb von fünf Tagen nach Einreise bei der zuständigen Behörde durch den Vermieter registriert werden.  
 Die Registrierungspflicht gilt auch für Inhaber von E-Visa.
 
 Seit dem 25. Juni 2024 gilt bei einem Aufenthalt in Kirgisistan von mehr als 30 Tagen eine Registrierungspflicht für Mobilfunkgeräte, wenn diese mit einer kirgisischen SIM-Karte verwendet werden. Internationales Roaming ist davon nicht betroffen. Weitere Informationen in englischer Sprache bieten die [kirgisischen Behörden.](https://www.imei.kg)
