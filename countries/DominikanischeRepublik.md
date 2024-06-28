@@ -110,8 +110,7 @@ Landeswährung ist der Dominikanische Peso (DOP). In fast allen Hotels, Geschäf
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -133,7 +132,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Bei Einreise zu touristischen Aufenthalten müssen ausländische Reisepässe der EU, Großbritanniens, Kanadas, USA, etc. lediglich eine Mindestgültigkeit für die Dauer des Aufenthalts in der Dominikanischen Republik vorweisen. [Diese Regelung](https://www.godominicanrepublic.com/travel/entry-requirements/) ist zunächst bis zum 30. Mai 2024 befristet. Zudem muss ein gültiges [Rückflugticket](https://www.godominicanrepublic.com/de/travel-to-dr/anreise/) vorgelegt werden können.
+Bei Einreise zu touristischen Aufenthalten müssen ausländische Reisepässe der EU, Großbritanniens, Kanadas, USA, etc. lediglich eine Mindestgültigkeit für die Dauer des Aufenthalts in der Dominikanischen Republik vorweisen. [Diese Regelung](https://www.godominicanrepublic.com/travel/entry-requirements/) ist zunächst bis zum 30. November 2024 befristet. Zudem muss ein gültiges [Rückflugticket](https://www.godominicanrepublic.com/de/travel-to-dr/anreise/) vorgelegt werden können.
 
 Die Praxis und die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
