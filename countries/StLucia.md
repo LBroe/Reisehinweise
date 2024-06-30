@@ -1,5 +1,13 @@
 # St. Lucia: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Ein Hurrikan der Stärke vier (Hurrikan „Beryl“) nähert sich den ostkaribischen Inseln und wird diese voraussichtlich im Laufe der Nacht zum 01.07.2024 bzw. am Vormittag des 01.07.2024 erreichen.  
+
+- Beachten Sie die örtlichen Nachrichten und beobachten Sie die Situation.  
+- Folgen Sie den Anweisungen der örtlichen Behörden.  
+- Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.  
+
 ## Sicherheit
 
 ### Terrorismus
