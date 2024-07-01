@@ -2,13 +2,6 @@
 
 ## Aktuelles
 
-### *Protest und Blockadeaktionen polnischer Landwirte*
-
-Derzeit kommt es zu Protest- und Blockadeaktionen polnischer Landwirte, dies kann auch die Grenzübergänge nach Deutschland betreffen.
-
-* Berücksichtigen Sie die Verkehrseinschränkungen bei Ihrer Reiseplanung und umfahren Sie den Bereich weiträumig.
-* Informieren Sie sich über die aktuelle Lage in den Medien.
-
 ### *Verbot der Einreise für Kfz mit Zulassung in der Russischen Föderation*
 
 Seit 2023 dürfen Kfz mit Zulassung in der Russischen Föderation grundsätzlich nicht mehr die Grenze nach Polen überqueren. Weitergehende Informationen (auch zu ggf. möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der zuständigen Zollbehörde erhältlich.
@@ -69,13 +62,13 @@ Wanderungen in Mittelgebirgsregionen können im Winter bei ungünstigen Wetterve
 
 ## Reiseinfos
 
+Siehe *Aktuelles*  
+
 ### Grenzkontrollen
 
 Mit dem Beitritt Polens zum Schengen-Raum sind die Personenkontrollen an der deutsch-polnischen Grenze entfallen, stichprobenartige Kontrollen oder die temporäre Wiedereinführung von Grenzkontrollen sind jedoch möglich. Infolgedessen kann es immer zu Verzögerungen beim Grenzübertritt kommen. Ein Reisedokument (Reisepass oder Personalausweis) muss beim Grenzübertritt immer mitgeführt werden.
 
 ### Infrastruktur/Verkehr
-
-Siehe *Aktuelles*
 
 Als öffentliche Verkehrsmittel stehen Inlandsflüge, ein dichtes Eisenbahnnetz sowie Überlandbusse, in den Städten Busse und Bahnen sowie Taxis zur Verfügung.
 
