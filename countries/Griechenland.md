@@ -1,5 +1,22 @@
 # Griechenland: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+#### *Waldbrände*
+
+In Teilen Griechenlands, derzeit in Attika, auf Kos und Kreta, kommt es zu Waldbränden. Auf der Insel Kos wurden seit dem 1. Juli 2024 Hotelanlagen in Kardamena evakuiert. Betroffene Touristen wurden evakuiert, in Notunterkünften untergebracht oder durch Reiseveranstalter in andere Hotels verlegt. Die Rettung menschlichen Lebens hat für die griechischen Behörden absolute Priorität.
+
+Am 2. Juli 2024 durfte bereits ein Teil der Touristen in ihre gebuchten Hotels zurückkehren.
+
+Siehe auch *Natur und Klima – Busch- und Waldbrände.*
+
+* Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein. Aktivieren Sie auf Ihrem Mobiltelefon die Option, Notfallbenachrichtigungen (Cell Broadcast Alerts) zu erhalten, die regional und aktuell per SMS in griechischer und englischer Sprache versandt werden.
+* Stellen Sie sicher, dass Ihr Telefon stets einsatzbereit ist, ggf. mittels einer Powerbank.
+* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. So können Sie sofort geortet werden, sodass Rettungsmaßnahmen eingeleitet werden können. Über die Telefonzentrale des Notrufs 112 können Sie Ihr Anliegen in englischer oder griechischer Sprache vortragen. Die Telefonzentrale kann mit allen relevanten Stellen Kontakt aufnehmen und die notwendigen Maßnahmen unverzüglich einleiten.
+* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden auch in Bezug auf Ihr Gepäck.
+* Sollten Sie aktuell von Evakuierungsmaßnahmen betroffen sein, wenden Sie sich bitte für Fragen der Unterbringung, der Verpflegung, des Transports und ggf. des Verbleibs Ihres Gepäcks an Ihren Reiseveranstalter.
+* Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter/-veranstalter über von Naturkatastrophen betroffene Gebiete und meiden Sie diese. Buchen Sie ggf. mithilfe Ihres Reiseveranstalters eine geplante Reise um.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -31,35 +48,34 @@ Autoaufbrüche und Trickdiebstähle gegenüber Autotouristen kommen vor.
 
 ## Natur und Klima
 
-#### *Erdbeben und Vulkane*
+Siehe *Aktuelles*  
 
-Das Festland und die Inseln Griechenlands liegen in einer seismisch aktiven Zone, weshalb es häufiger zu Erdbeben und seltener zu vulkanischen Aktivitäten kommen kann.
+#### *Busch- und Waldbrände*
 
-#### *Stürme und Überschwemmungen*
+Vor allem in den Sommermonaten kommt es in Griechenland aufgrund der herrschenden klimatischen Bedingungen zu zahlreichen Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden. Die Feuer können sich abhängig von wechselnden Windrichtungen schnell ausbreiten oder wieder neu entfachen. Dabei kann es jederzeit zu Straßensperren und weiteren Einschränkungen kommen. Es kann nicht ausgeschlossen werden, dass sich aufgrund der herrschenden Wetterbedingungen neue Brandherde entwickeln.
 
-Im Mittelmeer kann es insbesondere von August bis November vereinzelt zu schweren Herbststürmen bis hin zu sogenannten Medicanes kommen. Diese führen häufig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.
+* Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter/-veranstalter über von Naturkatastrophen betroffene Gebiete und meiden Sie diese. Buchen Sie ggfs. mit Hilfe Ihres Reiseveranstalters eine geplante Reise um.
 
 #### *Hitze*
 
 In den Sommermonaten kommt es häufig zu Hitzewellen mit Temperaturen über 40 Grad Celsius. Insbesondere für Säuglinge, Kinder, Senioren sowie Menschen, die an chronischen Erkrankungen der Atemwege, des Herz-Kreislaufs etc. leiden, ist besondere Vorsicht geboten. Aufenthalte in der Sonne und überfüllte öffentliche Bereiche sollten möglichst gemieden werden. Gleiches gilt für körperliche Anstrengung in der Mittagshitze. Empfohlen wird das Tragen leichter, heller Kleidung aus natürlichem Material sowie eine ausreichende Aufnahme von Flüssigkeit.
 
-* Nehmen Sie bei Spaziergängen und Wanderungen Sonnenschutz und große Mengen Trinkwasser mit.
+* Nehmen Sie bei Spaziergängen und Wanderungen Sonnenschutz und große Mengen Trinkwasser sowie ein aufgeladenes Mobiltelefon mit aufgeladener Powerbank mit.
 * Achten Sie darauf, nur sehr gut ausgeschilderte Wanderrouten zu nutzen.
+* Rufen Sie im Notfall die europäische Notrufnummer 112 an. Dadurch können Sie sofort geortet werden, solange Ihr Akku funktioniert.
 
-#### *Busch- und Waldbrände*
+#### *Erdbeben und Vulkanausbrüche*
 
-Vor allem in den Sommermonaten kommt es in Griechenland aufgrund der herrschenden klimatischen Bedingungen zu zahlreichen Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
+Das Festland und die Inseln Griechenlands liegen in einer seismisch aktiven Zone, weshalb es häufiger zu Erdbeben und seltener zu vulkanischen Aktivitäten kommen kann.
 
-* Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein. Aktivieren Sie auf Ihrem Mobiltelefon die Option, Notfallbenachrichtigungen (Cell Broadcast Alerts) zu erhalten, die in griechischer und englischer Sprache versandt werden, und nehmen Sie im Zweifel eine Powerbank mit, damit Ihr Telefon möglichst lange in Betrieb bleiben kann.
-* Wenn Sie sich in einer Notlage befinden und die europäische Notfallnummer 112 wählen, können Sie sofort geortet werden, sodass Rettungsmaßnahmen eingeleitet werden können. Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
-* Trinken Sie in den von Überschwemmungen betroffenen Gebieten kein Leitungswasser.
-* Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter/-veranstalter über von Naturkatastrophen betroffene Gebiete und meiden Sie diese.
-* Achten Sie darauf, ob Sie eine SMS des griechischen Katastrophenschutzes (112) erhalten haben und halten Sie sich an die [Warnhinweise des griechischen Katastrophenschutzministeriums](https://civilprotection.gov.gr/odigies-prostasias/genikes-odigies?lang=de).
-* Sie erreichen den griechischen Katastrophenschutz unter +30 210 368 1259 oder +30 210 368 1350.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter über von Bränden betroffene Gebiete und meiden Sie diese.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+
+#### *Stürme und Überschwemmungen*
+
+Im Mittelmeer kann es insbesondere von August bis November vereinzelt zu schweren Herbststürmen bis hin zu sogenannten Medicanes kommen. Diese führen häufig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.  
+
+* Trinken Sie in den von Überschwemmungen betroffenen Gebieten kein Leitungswasser.
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 
 ## Reiseinfos
 
