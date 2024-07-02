@@ -21,7 +21,7 @@ Kleinkriminalität wie Taschendiebstähle kommen insbesondere in den an von Tour
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf, z. B. im Safe; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in Menschenmengen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -44,7 +44,7 @@ Das Klima ist tropisch. Die Regenzeit erstreckt sich von November bis April, von
 
 ### Zuständige Auslandsvertretung
 
-In Samoa gibt es keine deutsche Botschaft. Zuständig ist die [deutsche Botschaft in Wellington/Neuseeland](https://www.auswaertiges-amt.de/de/service/laender/neuseeland-node/neuseeland/220150 "Deutsche Vertretungen"). 
+In Samoa gibt es keine deutsche Botschaft. Zuständig ist die [Deutsche Botschaft Wellington/Neuseeland](https://www.auswaertiges-amt.de/de/service/laender/neuseeland-node/neuseeland/220150 "Deutsche Vertretungen"). 
 
 In Notfällen kann die [Deutsche Botschaft Wellington](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/neuseeland-node/neuseeland/220150?openAccordionId=item-213792-0-panel) um Unterstützung gebeten werden. In Apia gibt es ein deutsches Honorarkonsulat.  
 Samoa hat keine diplomatische Vertretung in Deutschland. Zuständig auch für Deutschland ist die [Botschaft von Samoa in Brüssel/Belgien](https://www.auswaertiges-amt.de/de/vertretungensamoa/213766). Anfragen können ferner gerichtet werden an die [Honorarkonsuln von Samoa](https://www.auswaertiges-amt.de/de/vertretungensamoa/213766) in Hamburg und Berlin.
@@ -74,8 +74,7 @@ Landeswährung in Samoa ist der Samoa Tala (WST). Geldautomaten sind in städtis
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -92,7 +91,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-Reisedokumente müssen noch mindestens sechs Monate über den beabsichtigten Aufenthalt  hinaus gültig sein.
+Reisedokumente müssen noch mindestens sechs Monate über den beabsichtigten Aufenthalt hinaus gültig sein.
 
 ### Visum
 
@@ -177,9 +176,7 @@ Eine ärztliche Grundversorgung ist neben dem staatlichen Krankenhaus in Apia au
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

@@ -2,22 +2,9 @@
 
 ## Aktuelles
 
-Aufgrund starker Regenfälle kam es insbesondere in den nördlichen Regionen Lori und Tawusch zu Überschwemmungen und Beschädigungen an Straßen und Brücken. Infolgedessen ist bis auf weiteres der folgende Straßenabschnitt im Norden des Landes gesperrt:
+Die aufgrund starker Regenfälle seit Ende Mai 2024 gesperrte Hauptstraße M6 von Wanadsor über Alawerdi bis Bagrataschen (armenisch-georgische Grenze) ist für Pkw wieder befahrbar.
 
-* M6 von Wanadsor über Alawerdi bis Bagrataschen (armenisch-georgische Grenze).
-
-Die armenischen Behörden empfehlen als Ausweichrouten zur armenisch-georgischen Grenze die Straßenverbindungen:
-
-* M3 Wanadsor-Stepanawan-Gogawan
-* oder M1 Eriwan – Gjumri - Bawra
-
-Auf diesen Strecken muss mit erhöhtem Verkehrsaufkommen gerechnet werden.
-
-Auch die Zugverbindung Eriwan - Tiflis ist unterbrochen.
-
-* Vermeiden Sie Reisen in die von Überschwemmungen betroffenen Gebiete.
-* Informieren Sie sich über öffentlich zugängliche Quellen über kurzfristige Änderungen der Situation.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+Auch die unterbrochene Zugverbindung Eriwan - Tiflis wurde wieder aufgenommen.
 
 ## Sicherheit - Teilreisewarnung
 
