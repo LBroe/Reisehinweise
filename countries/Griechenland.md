@@ -13,7 +13,7 @@ Siehe auch *Natur und Klima – Busch- und Waldbrände.*
 * Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein. Aktivieren Sie auf Ihrem Mobiltelefon die Option, Notfallbenachrichtigungen (Cell Broadcast Alerts) zu erhalten, die regional und aktuell per SMS in griechischer und englischer Sprache versandt werden.
 * Stellen Sie sicher, dass Ihr Telefon stets einsatzbereit ist, ggf. mittels einer Powerbank.
 * Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. So können Sie sofort geortet werden, sodass Rettungsmaßnahmen eingeleitet werden können. Über die Telefonzentrale des Notrufs 112 können Sie Ihr Anliegen in englischer oder griechischer Sprache vortragen. Die Telefonzentrale kann mit allen relevanten Stellen Kontakt aufnehmen und die notwendigen Maßnahmen unverzüglich einleiten.
-* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden auch in Bezug auf Ihr Gepäck.
+* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte. Dies gilt auch für Anweisungen mit Blick auf Rettung bzw. Zurücklassen von Gepäck o.ä..
 * Sollten Sie aktuell von Evakuierungsmaßnahmen betroffen sein, wenden Sie sich bitte für Fragen der Unterbringung, der Verpflegung, des Transports und ggf. des Verbleibs Ihres Gepäcks an Ihren Reiseveranstalter.
 * Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter/-veranstalter über von Naturkatastrophen betroffene Gebiete und meiden Sie diese. Buchen Sie ggf. mithilfe Ihres Reiseveranstalters eine geplante Reise um.
 
