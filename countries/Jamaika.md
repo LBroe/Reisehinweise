@@ -1,5 +1,17 @@
 # Jamaika: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### **Hurrikan-Warnung**
+
+Hurrikan „Beryl“ wird voraussichtlich am Morgen des 3. Juli 2024 auf Jamaika treffen. „Beryl“ ist gegenwärtig ein Hurrikan der höchsten Kategorie 5.
+
+Mit Extremwetter, Winden in Orkanstärke, Starkregen, Überschwemmungen und ggf. Sturmfluten ist zu rechnen.
+
+* Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
+* Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden unbedingt Folge.
+* Wenn Sie sich in Jamaika aufhalten, registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -39,6 +51,8 @@ Fahrzeugdiebstähle und -aufbrüche sind insbesondere auf unbewachten Parkplätz
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 Das Klima ist tropisch-maritim.  
 Von Juni bis Ende November ist Wirbelsturmsaison. In dieser Zeit ist insbesondere an den Küsten mit Tropenstürmen und intensiven Regenfällen zu rechnen, die zu Überschwemmungen und Erdrutschen führen können.
