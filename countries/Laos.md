@@ -12,7 +12,7 @@ Die politische Lage ist insgesamt stabil.
 
 #### *Nicht explodierte Sprengkörper – Unexploded Ordnances (UXO)*
 
-Im zweiten Indochina-Krieg (1964-1973) wurden mehr als zwei Millionen Tonnen Streumunition über Laos abgeworfen. Von den 270 Millionen abgeworfenen Sprengsätzen sind nach Schätzungen 80 Millionen nicht explodiert (unexploded ordnances“, UXO). Diese kontaminieren große Flächen des Landes. Insbesondere in den östlichen Landesteilen lagern abseits der markierten Wege noch zahllose nicht explodierte Sprengkörper.
+Im zweiten Indochina-Krieg (1964-1973) wurden mehr als zwei Millionen Tonnen Streumunition über Laos abgeworfen. Von den 270 Millionen abgeworfenen Sprengsätzen sind nach Schätzungen 80 Millionen nicht explodiert ("unexploded ordnances“, UXO). Diese kontaminieren große Flächen des Landes. Insbesondere in den östlichen Landesteilen lagern abseits der markierten Wege noch zahllose nicht explodierte Sprengkörper.
 
 #### *Provinz Attapeu*
 
@@ -105,7 +105,7 @@ Rauschgiftdelikte wie der Erwerb, die Verteilung und die Ein- und Ausfuhr von Dr
 
 Bei schweren Drogenvergehen drohen lebenslängliche Haftstrafen oder sogar die Todesstrafe (Besitz oder Handel von mehr als 500 g Heroin, 3 kg Amphetamine und/oder 10 kg Chemikalien für die Drogenherstellung). Todesurteile wurden bereits verhängt, wenn auch bisher nicht vollstreckt. Die steigende Zahl der Todesfälle ausländischer Drogenkonsumenten weist darauf hin, dass die Qualität der Drogen offenbar falsch eingeschätzt wird.
 
-Auch der Besitz geringer Mengen ,auch im Transitbereich von Flughäfen, kann zu mehrjährigen Freiheitsstrafen führen. Die Strafverfahren entsprechen nicht rechtsstaatlichen Vorstellungen (jahrelange Untersuchungshaft, teure und unzureichende anwaltliche Vertretung, harte Haftbedingungen). Bereits das Rauchen eines Joints kann zur Festnahme und in der Regel zur Zahlung einer erheblichen Geldstrafe führen. Zunehmend wird Drogenerwerb, -konsum und mittlerweile sogar der Aufenthalt in unmittelbarer Nähe eines Konsumenten wie eine Art Mittäterschaft von interessierten Kreisen zur Erpressung der Betroffenen genutzt.
+Auch der Besitz geringer Mengen, auch im Transitbereich von Flughäfen, kann zu mehrjährigen Freiheitsstrafen führen. Die Strafverfahren entsprechen nicht rechtsstaatlichen Vorstellungen (jahrelange Untersuchungshaft, teure und unzureichende anwaltliche Vertretung, harte Haftbedingungen). Bereits das Rauchen eines Joints kann zur Festnahme und in der Regel zur Zahlung einer erheblichen Geldstrafe führen. Zunehmend wird Drogenerwerb, -konsum und mittlerweile sogar der Aufenthalt in unmittelbarer Nähe eines Konsumenten wie eine Art Mittäterschaft von interessierten Kreisen zur Erpressung der Betroffenen genutzt.
 
 Außereheliche sexuelle Kontakte sind in Laos traditionell nicht gestattet. Dies gilt im Besonderen für intime Beziehungen zwischen Ausländern und Laoten. Bereits vermutete Verstöße wurden in der Vergangenheit in Einzelfällen mit mehr als symbolischen Geld- oder Haftstrafen geahndet (offizielles Strafmaß liegt bei 500 bis 5.000 USD). Fälle von Erpressung, nächtliche Razzien in Hotels und Privatunterkünften sind keine Seltenheit.
 
@@ -129,8 +129,7 @@ An den meisten Geldautomaten kann Geld gegen Zahlung einer Gebühr mit Kreditkar
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -153,15 +152,23 @@ Reisedokumente müssen bei Einreise noch mindestens sechs Monate gültig sein un
 
 Deutsche Staatsangehörige benötigen für die Einreise nach Laos ein Visum, das vor der Einreise bei einer laotischen Auslandsvertretung, online oder bei Einreise beantragt werden kann.
 
-#### *Visum vor Einreise*
+#### *Visum vor der Einreise*
 
-Grundsätzlich ist das Einreisevisum vor Einreise bei einer laotischen Auslandsvertretung zu beantragen. Zuständig für die Visumerteilung sind die [Botschaft der Demokratischen Volksrepublik Laos in Berlin](http://www.laos-botschaft.de/), die laotische Botschaft in Bangkok (520.502/1-3 Soi Sahakarnpramoon, Phacha-Uthit Road, Wangthonglang, Bangkok 10310, Tel.: (+662) 539 3642, (+662) 539 3827, [E-Mail](mailto:laoembassyinbkk@gmail.com): laoembassyinbkk@gmail.com) oder das laotische Konsulat in Khon Kaen (512/2 Tombon Sila Amphae Mueang Khonkaen 4000, Tel.: (+6643) 393 402, [E-Mail:](mailto:Ckklao@hotmail.com) Ckklao@hotmail.com).
+Grundsätzlich ist das Visum vor der Einreise bei einer laotischen Auslandsvertretung zu beantragen. Zuständig für die Visumerteilung sind die [Botschaft der Demokratischen Volksrepublik Laos in Berlin](http://www.laos-botschaft.de/), die laotische Botschaft in Bangkok (520.502/1-3 Soi Sahakarnpramoon, Phacha-Uthit Road, Wangthonglang, Bangkok 10310, Tel.: (+662) 539 3642, (+662) 539 3827, [E-Mail](mailto:laoembassyinbkk@gmail.com): laoembassyinbkk@gmail.com) oder das laotische Konsulat in Khon Kaen (512/2 Tombon Sila Amphae Mueang Khonkaen 4000, Tel.: (+6643) 393 402, [E-Mail:](mailto:Ckklao@hotmail.com) Ckklao@hotmail.com).
 
-#### *Online-Visum (eVisa)*
+Im Rahmen des laotischen [Tourismusjahres "Visit Laos 2024"](https://www.tourismlaos.org/updates/) kann über die [Botschaft von Laos in Berlin](https://www.laos-botschaft.de/) ein Mehrfachreisevisum für Laos beantragt und die Dauer des Aufenthalts von 30 Tagen auf 60 Tage verlängert werden. Diese Regelung gilt noch bis 31. Dezember 2024.
 
-Für Touristen ist es ebenfalls möglich, für einen Aufenthalt von 30 Tagen vor Einreise ein elektronisches [e-Visa](https://laoevisa.gov.la/) zu erhalten. Derzeit berechtigt das elektronische Visum nur zur Einreise an den Grenzstellen Wattay International Airport, Lao-Thai Friendship Bridge in Vientiane, Luang Prabang International Airport, Pakse International Airport und Lao-Thai Friendship Bridge II in Savannakhet. Eine Ausweitung auf andere Grenzstellen ist geplant. Das elektronische Visum ist für 30 Tage gültig. Die Visumgebühr beträgt 50 USD. Die Bearbeitungszeit beträgt drei Arbeitstage.
+Beim Visum bei Einreise oder E-Visa bleibt es bei einer einzigen Einreise mit der Möglichkeit, die Dauer des Aufenthalts von 30 Tagen auf 60 Tage verlängern.
+
+#### *Online-Visum (E-Visa)*
+
+Siehe auch *Visum vor der Einreise*
+
+Für Touristen ist es ebenfalls möglich, für einen Aufenthalt von 30 Tagen vor Einreise ein elektronisches [E-Visa](https://laoevisa.gov.la/) zu erhalten. Derzeit berechtigt das elektronische Visum nur zur Einreise an den Grenzstellen Wattay International Airport, Lao-Thai Friendship Bridge in Vientiane, Luang Prabang International Airport, Pakse International Airport und Lao-Thai Friendship Bridge II in Savannakhet. Eine Ausweitung auf andere Grenzstellen ist geplant. Das elektronische Visum ist für 30 Tage gültig. Die Visumgebühr beträgt 50 USD. Die Bearbeitungszeit beträgt drei Arbeitstage.
 
 #### *Visum bei Einreise (Visa on Arrival)*
+
+Siehe auch *Visum vor der Einreise*
 
 Sogenannte „Visa on Arrival“ mit einmaliger Einreise können für einen Aufenthalt von 30 Tagen bei der Einreise an den internationalen Flughäfen Vientiane, Luang Prabang, Paksé und Savannakhet sowie an einigen internationalen Grenzübergängen zum Preis von 40 USD gegen Vorlage des noch mindestens sechs Monate gültigen Reisepasses und von zwei aktuellen Lichtbildern beantragt werden. Da es vorkommen kann, dass das Verfahren an einem Landgrenzübergang auch vorübergehend nicht verfügbar ist, sollten sich Reisende vor Anreise vergewissern, dass an dem Grenzübergang Visa bei Einreise erteilt werden. Die laotische Einwanderungsbehörde veröffentlicht eine Liste von [Checkpoints](https://immigration.gov.la/checkpoints/) mit Informationen zu Visa bei Einreise.
 
@@ -256,7 +263,7 @@ Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel 
 
 ### Schistosomiasis (Bilharziose)
 
-Entlang des Mekong und seiner Seitenarme besteht bei Süßwasserkontakt ein Infektionsrisiko mit dem Pärchenegel Schistosoma, der das chronische Krankheitsbild der Bilharziose, eine Entzündung von Harnblase oder Darm, hervorrufen kann. Süßwasserkontakt sollte daher gemieden werden. Ungefährlich sind Pools in den Hotels. Weitere Infos im [Schistosomiasis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")
+Entlang des Mekong und seiner Seitenarme besteht bei Süßwasserkontakt ein Infektionsrisiko mit dem Pärchenegel Schistosomiasis, der das chronische Krankheitsbild der Bilharziose, eine Entzündung von Harnblase oder Darm, hervorrufen kann. Süßwasserkontakt sollte daher gemieden werden. Ungefährlich sind Pools in den Hotels. Weitere Infos im [Schistosomiasis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")
 
 ### Influenza
 
@@ -270,7 +277,7 @@ Tollwut (vorwiegend in ländlichen Gebieten, Impfstoffe und Immunglobulin sind i
 
 Insbesondere in der trockenen Jahreszeit (November bis April) ist in ländlichen Gebieten aufgrund von Bränden eine stärkere Belastung durch Rauch und Staub möglich. Der Höhepunkt der Luftverschmutzung liegt in der Regel zwischen Mitte März und Mitte April.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### **Medizinische Versorgung**
 
@@ -280,9 +287,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und vie
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

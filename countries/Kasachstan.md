@@ -1,15 +1,5 @@
 # Kasachstan: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Überschwemmungen*
-
-Aufgrund von Überschwemmungen wurde in einigen Regionen der Notstand ausgerufen. Insbesondere die Regionen Atyrau, Aktobe, Akmola, Kostanay, Westkasachstan, Nordkasachstan und Pawlodar sind betroffen. Kritisch ist die Situation vor allem an den Flüssen Ural und Esil. Vereinzelt wurden von den Behörden Evakuierungen angeordnet.
-
-* Halten Sie sich zu den aktuellen Entwicklungen über die lokalen und sozialen Medien informiert.
-* Folgen Sie stets den Anweisungen der lokalen Behörden und Sicherheitskräfte.
-* Reisen Sie nicht in die von den Überschwemmungen betroffenen Gebiete.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -29,18 +19,20 @@ Die Sicherheitslage im gesamten Land ist stabil.
 
 ### Kriminalität
 
-In Almaty und der Hauptstadt Astana (ehem. Nur-Sultan) muss mit der üblichen Großstadtkriminalität wie Taschendiebstahl, Raub, Trickbetrügerei und angeblichen Polizeikontrollen gerechnet werden.
+In Almaty und der Hauptstadt Astana (ehemals Nur-Sultan) muss mit der üblichen Großstadtkriminalität wie Taschendiebstahl, Raub, Trickbetrügerei und angeblichen Polizeikontrollen gerechnet werden.
+
+Darüber hinaus wird Internetbetrug wie „Love Scamming“ oder „Romance Scamming“ auch mit (gefälschten) kasachischen Identitäten in den sozialen Netzwerken und in Online-Partnerbörsen betrieben. Bei dieser häufigen Form des Internet- oder Vorauszahlungsbetruges gaukeln „Liebesbetrüger“ ihren potentiellen Opfern eine Liebesbeziehung vor und versuchen ihnen unter Vorwänden (z.B. zur Visumerteilung) Geld aus der Tasche zu ziehen.  
 
 * Seien Sie nachts besonders vorsichtig und nicht ohne Begleitung unterwegs.
 * Seien Sie beim Besuch von Orten mit großer Menschenansammlung besonders vorsichtig.
 * Nutzen Sie keine inoffiziellen Taxis.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Seien Sie insbesondere vor Liebesbetrug („Love Scamming“/“Romance Scamming“) auf der Hut. Werden Sie insbesondere hellhörig, wenn Ihre Bekanntschaft Geld von Ihnen verlangt, bevor Sie sich überhaupt real getroffen haben.
+* Informieren Sie sich über einschlägige Webseiten, wie z.B. bei der [Verbraucherzentrale.](https://www.verbraucherzentrale.de/wissen/digitale-welt/love-scamming-so-schuetzen-sie-sich-vor-liebesbetrug-93503)
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufe, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 Kasachstan liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und im Gebirge zu Erdrutschen kommen kann.
 
@@ -76,9 +68,9 @@ Homosexuelle Handlungen sind in Kasachstan kein Straftatbestand. Für Personen 
 
 #### *Aufenthaltsrecht*
 
-Bei Verletzung des Aufenthaltsrechts muss in jedem Fall mit strafrechtlichen Konsequenzen wie Haft- oder Geldstrafe gerechnet werden. Dabei wäre der Grund der verspäteten Ausreise grundsätzlich unerheblich (z.B. auch bei Ausfall/Verspätung des Flugs). Ein entsprechendes strafrechtliches Verfahren kann mehrere Wochen in Anspruch nehmen. In dieser Zeit dürfen Betroffene das Land nicht verlassen.
+Bei Verletzung des Aufenthaltsrechts muss in jedem Fall mit strafrechtlichen Konsequenzen wie Haft- oder Geldstrafe gerechnet werden. Dabei ist der Grund der verspäteten Ausreise grundsätzlich unerheblich (z.B. auch bei Ausfall/Verspätung des Flugs). Ein entsprechendes strafrechtliches Verfahren kann mehrere Wochen in Anspruch nehmen. In dieser Zeit dürfen Betroffene das Land nicht verlassen.
 
-* Planen Sie bei den Reise- und Flugdaten großzügig Zeit ein.
+* Planen Sie bei Ihren Reise- und Flugdaten großzügig Zeit ein.
 
 #### *Drogenbesitz*
 
@@ -167,7 +159,7 @@ Für bestimmte Waren existieren Einfuhrbeschränkungen und -verbote.
 
 Informationen über die Einfuhr von Heimtieren nach Kasachstan können vorab bei den kasachischen Auslandsvertretungen bzw. beim kasachischen Zoll erfragt werden. Nur dort können rechtsverbindliche Auskünfte gegeben werden.
 
-Ein aktuelles internationales Gesundheitszertifikat und eine amtsärztliche Bestätigung mit russischer Übersetzung, dass das Tier gesund ist und nicht unter einer ansteckenden Krankheit leidet, müssen bei der Einreise mindestens vorgelegt werden.
+Ein aktuelles internationales Gesundheitszertifikat und eine amtsärztliche Bestätigung mit russischer Übersetzung, dass das Tier gesund ist und nicht unter einer ansteckenden Krankheit leidet, müssen mindestens bei der Einreise vorgelegt werden.
 
 ## Gesundheit
 
@@ -221,9 +213,7 @@ Die ärztliche und zahnärztliche Versorgung in Kasachstan entspricht nicht euro
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
