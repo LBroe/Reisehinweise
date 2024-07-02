@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Ein Hurrikan der Stärke vier (Hurrikan „Beryl“) nähert sich den ostkaribischen Inseln und wird diese voraussichtlich im Laufe der Nacht zum 1. Juli 2024 bzw. am Vormittag des 1. Juli 2024 erreichen.
+In der südlichen Ostkaribik muss nach Hurrikan „Beryl“ mit Zerstörungen und Verwüstungen gerechnet werden. Es gibt Schäden an der Infrastruktur und Verzögerungen/Ausfälle insbesondere im  Schiffsverkehr sowie teilweise auch noch im Flug- und Straßenverkehr. Besonders stark betroffen sind die Inseln Carriacou/Grenada und Union Island/St. Vincent and the Grenadines. Weniger schwer, aber ebenfalls betroffen sind die Inseln Barbados, St.Vincent und die Grenadinen sowie Tobago.
 
 * Beachten Sie die örtlichen Nachrichten und beobachten Sie die Situation.
 * Folgen Sie den Anweisungen der örtlichen Behörden.
