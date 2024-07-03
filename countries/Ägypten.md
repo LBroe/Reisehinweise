@@ -5,7 +5,7 @@
 **Vor Reisen in den Norden der Sinai-Halbinsel, das ägyptisch-israelische Grenzgebiet** (mit Ausnahme von Taba) **und entlegene Gebiete der Sahara wird gewarnt.  
 Von unbegleiteten, individuellen Ausflügen und Überlandfahrten im Süden der Sinai-Halbinsel wird abgeraten.**
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 Derzeit kommt es in Ägypten immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Großdemonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, ist auch in den nächsten Wochen zu rechnen, dies vor allem freitags nach dem Mittagsgebet.
 
@@ -23,7 +23,7 @@ Die Sicherheitslage in Ägypten ist dennoch insgesamt weiterhin stabil und ruhig
 **Vor Reisen in den Norden der Sinai-Halbinsel, das ägyptisch-israelische Grenzgebiet** (mit Ausnahme von Taba) **und entlegene Gebiete der Sahara wird gewarnt.  
 Von unbegleiteten, individuellen Ausflügen und Überlandfahrten im Süden der Sinai-Halbinsel wird abgeraten.**
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### Terrorismus
 
@@ -271,7 +271,7 @@ Der Nachweis einer [Polioimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSic
 
 ### Dengue-Fieber
 
-Dengue-Viren werden an der Küste zum Roten Meer (Al-Qusair und Hurghada) durch tagaktive *Aedes*-Mücken  übertragen. Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
+Dengue-Viren werden an der Küste zum Roten Meer (überwiegend Hurghada, vereinzelt El Gouna und Al-Qusair) durch tagaktive *Aedes*-Mücken übertragen. Berichte über aktuelle Infektionen gibt es auch im Gouvernement Südsinai (Scharm El-Scheich und Umgebung). Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
 * Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
 * Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
