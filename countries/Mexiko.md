@@ -1,5 +1,15 @@
 # Mexiko: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### Hurrikan „Beryl“
+
+In der Karibik tobt derzeit der Hurrikan „Beryl“. Er wird nach aktuellen Prognosen voraussichtlich am Donnerstag, den 4. Juli 2024 auf die mexikanische Halbinsel Yucatán und anschließend die mexikanische Westküste treffen. Betroffen sind die Bundesstaaten Quintana Roo, Yucatán, Campeche und Veracruz.
+
+* Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
+* Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden und Ihres Hotel- bzw. Reiseanbieters unbedingt Folge.
+* Wenn Sie sich in Mexiko aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
+
 ## Sicherheit
 
 **Von Reisen in folgende Regionen wird dringend abgeraten:**
@@ -85,6 +95,8 @@ Geldautomaten können manipuliert sein, um Daten zu kopieren, auch Kreditkartenm
 * Der Deutschen Botschaft Mexiko-Stadt liegen Berichte vor, wonach uniformierte Sicherheitskräfte, auch Polizisten, hohe Bußgelder verlangen oder mit Festnahme drohen. Bleiben Sie bei unklarer Rechtslage kritisch und nehmen Sie im Zweifel Kontakt zum mexikanischen Notruf 911 (auch Englisch) bzw. dem [Bereitschaftsdienst](https://mexiko.diplo.de/mx-de/service/-/1050806) der Botschaft auf. Leisten Sie keine Zahlungen, wenn Sie die vorgeworfene Tat nicht begangen haben, das geforderte Bußgeld unangemessen hoch erscheint oder wenn Ihnen keine Quittung/kein Protokoll ausgestellt werden kann. Notieren Sie sich die Personalien, Dienstnummern bzw. Kfz.-Kennzeichen der kontrollierenden Sicherheitskräfte.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 #### *Tropenstürme und Überschwemmungen*
 
@@ -225,7 +237,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:** 
 
 Reisedokumente müssen sich in gutem Zustand befinden und im Zeitpunkt der Einreise noch mindestens für sechs Monate gültig sein.  
-Beschädigte Reisedokumente (z.B. ausgefranster Außeneinband, gelockerte Bindung der Seiten) können zur Einreiseverweigerung führen.  
+Beschädigte Reisedokumente (z.B. ausgefranster Außeneinband, gelockerte Bindung der Seiten) können zur Einreiseverweigerung führen.
 
 Ein deutscher Reisepass, der bei einer Passbehörde gestohlen gemeldet, aber später wiedergefunden wurde, sollte nicht mehr benutzt werden, da die Ausschreibung in der internationalen Sachfahndung nicht rückgängig gemacht werden kann. Dies kann bei der Weiterreise zu Schwierigkeiten führen.
 
