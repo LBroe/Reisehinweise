@@ -4,7 +4,7 @@
 
 ### **Hurrikan-Warnung**
 
-Hurrikan „Beryl“ wird voraussichtlich am Morgen des 3. Juli 2024 auf Jamaika treffen. „Beryl“ ist gegenwärtig ein Hurrikan der höchsten Kategorie 5.
+Hurrikan „Beryl“ wird voraussichtlich im Laufe des 3. Juli 2024 auf Jamaika treffen. „Beryl“ ist gegenwärtig ein Hurrikan der Kategorie 4.
 
 Mit Extremwetter, Winden in Orkanstärke, Starkregen, Überschwemmungen und ggf. Sturmfluten ist zu rechnen.
 
