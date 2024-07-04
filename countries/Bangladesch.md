@@ -1,15 +1,5 @@
 # Bangladesch: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Im Zusammenhang mit der Situation in Gaza kommt es immer wieder zu Demonstrationen im ganzen Land, auch in von Ausländern frequentierten Gegenden. Die Stimmung ist hierbei aufgeheizt und richtet sich teils auch gegen die Rolle, die bestimmte Länder, darunter Deutschland, in der Wahrnehmung der bangladeschischen Bevölkerung im Konflikt vermeintlich einnehmen, siehe auch *Sicherheit – Innenpolitische Lage.*
-
-* Informieren Sie sich über die lokalen Medien.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Planen Sie Ihre Reisebewegungen umsichtig und vermeiden Sie unnötige Fahrten im Umfeld absehbarer Demonstrationen und sonstiger potentiell gewalttätiger Zusammenkünfte.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Tragen Sie immer Ihr aufgeladenes Mobiltelefon für die Notfallkommunikation bei sich.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -26,10 +16,15 @@ Die Gefahr terroristischer Anschläge, insbesondere gegen Ausländer bzw. an Ort
 
 ### Innenpolitische Lage
 
-*Siehe Aktuelles.*
+Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar verschlechtert sich weiter. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
 
-Im gesamten Gebiet der Chittagong Hill Tracts kann es zu Demonstrationen und bewaffneten Übergriffen kommen, insbesondere in den Bezirken Rangamati, Khagrachari und Bandarban. Reisen in der Region sind nur mit vorheriger Genehmigung der Behörden möglich, s. *Reiseinfos – Infrastruktur/Verkehr*.
+Durch die intensiven Auseinandersetzungen zwischen dem Militär und den Aufständischen in Myanmar kommt es immer wieder auch zu Auswirkungen auf der bangladeschischen Seite der Grenze. Das Grenzgebiet zu Myanmar sollte, wenn möglich, grundsätzlich weiträumig gemieden werden.
 
+Im Zusammenhang mit der Situation in Gaza kommt es immer wieder zu Demonstrationen im ganzen Land, auch in von Ausländern frequentierten Gegenden. Die Stimmung ist hierbei aufgeheizt und richtet sich teils auch gegen die Rolle, die bestimmte Länder, darunter Deutschland, in der Wahrnehmung der bangladeschischen Bevölkerung im Konflikt vermeintlich einnehmen.
+
+Im gesamten Gebiet der Chittagong Hill Tracts kann es zu Demonstrationen und bewaffneten Übergriffen kommen, insbesondere in den Bezirken Rangamati, Khagrachari und Bandarban. Reisen in der Region sind nur mit vorheriger Genehmigung der Behörden möglich, siehe *Reiseinfos – Infrastruktur/Verkehr*.
+
+* Besuchen Sie die Aufnahmelager ausschließlich in Begleitung internationaler Organisationen (UNHCR/IOM).
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Planen Sie Ihre Reisebewegungen umsichtig und vermeiden Sie unnötige Fahrten im Umfeld absehbarer Demonstrationen und sonstiger potentiell gewalttätiger Zusammenkünfte.
@@ -38,28 +33,28 @@ Im gesamten Gebiet der Chittagong Hill Tracts kann es zu Demonstrationen und bew
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist hoch. Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in den Großstädten an von Touristen sehr frequentierten Orten, auch unter Gewaltanwendung vor. Die Benutzung öffentlicher Verkehrsmittel birgt eine erhöhte Gefahr von Diebstählen und auch Überfällen.
+Die Kriminalitätsrate ist hoch. Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in den Großstädten an von Touristen sehr frequentierten Orten, vereinzelt auch unter Gewaltanwendung vor. Die Benutzung öffentlicher Verkehrsmittel birgt eine erhöhte Gefahr von Diebstählen und auch Überfällen.
 
-Bettler und fliegende Händler an größeren Kreuzungen stellen ein Risiko dar. Insbesondere wenn diese in Gruppen auftreten, wird versucht, durch offene Autofenster bzw. nicht abgeschlossene Türen Gegenstände aus dem Auto zu entwenden.
+Bettler und fliegende Händler an größeren Kreuzungen stellen ein Risiko dar und können mitunter recht aggressiv auftreten.
 
-Im Cox’s Bazar Distrikt und insbesondere in der Gegend um Teknaf kam es in der Vergangenheit immer wieder zu kriminellen Überfällen, teilweise mit Waffengebrauch.
+In Cox’s Bazar und insbesondere in der Gegend um Teknaf kam es in der Vergangenheit immer wieder zu kriminellen Überfällen, teilweise mit Waffengebrauch.
 
 * Verzichten Sie auch in von Ausländern bevorzugten Wohngegenden auf Spaziergänge und die Nutzung von Rikschas und dreirädrigen motorisierten Taxis (CNG) nach Einbruch der Dunkelheit.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie insbesondere in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie im Cox’s Bazar Distrikt und insbesondere in der Gegend um Teknaf besonders vorsichtig und meiden Sie dort Menschenansammlungen.
+* Seien Sie im gesamten Grenzgebiet zu Myanmar, auch in Cox’s Bazar und insbesondere in und um Teknaf besonders vorsichtig und meiden Sie dort Menschenansammlungen.
 * Halten Sie im Stadtverkehr Fenster und Türen von Fahrzeugen verschlossen und verriegelt.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
-## Natur und Klimakatastrophen
+## Natur und Klima
 
 Bangladesch liegt in einer seismisch aktiven Zone, sodass es zu Erdbeben kommen kann.
 
 Es herrscht subtropisches Monsunklima. Die Trockenzeit geht von November bis März.  
 In der Monsunzeit von Mitte Juni bis Mitte Oktober muss mit Überschwemmungen gerechnet werden, im südlichen Landesdrittel von Oktober bis November und Mitte April bis Mitte Mai grundsätzlich auch mit tropischen Wirbelstürmen.
 
-Vor allem in den Wintermonaten November bis Februar ist die Luftverschmutzung sehr hoch.
+Vor allem in den Wintermonaten November bis Februar ist die Luftverschmutzung sehr hoch. Vermehrt kommt es zwischen April und Juni zu längeren Hitzeperioden mit Werten über 40° Celsius.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
@@ -76,6 +71,7 @@ Reisen in die Chittagong Hill Tracts (CHT) sind mit hohen administrativen Hürde
 
 Es herrscht Linksverkehr. Auch tagsüber ist der Verkehr wegen des schlechten Zustandes von Straßen und Fahrzeugen und wegen riskanten Fahrverhaltens von Bussen sowie Lkw gefährlich. Wegen des Mangels an Ärzten und Rettungsfahrzeugen kann bei Unfällen nicht mit schneller Hilfe gerechnet werden.
 
+* Vermeiden Sie selbst zu fahren; weisen Sie auch Fahrer auf defensive und vorsichtige Fahrweise hin.
 * Fahren Sie stets vorsichtig und defensiv.
 * Vermeiden Sie Überlandfahrten nach Einbruch der Dunkelheit.
 * Verzichten Sie möglichst auf die Benutzung von Schiffs- und Fährverbindungen in den sturmgefährdeten Jahreszeiten.
@@ -86,10 +82,11 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 ### Besondere Verhaltenshinweise/Ramadan
 
-Bangladesch hat eine tolerante islamische Tradition. Kleidung und Verhalten sollte jedoch den Landessitten angepasst sein.  
+Bangladesch hat eine tolerante islamische Tradition, wobei der Trend zu konservativeren Wertvorstellungen auch im Straßenbild sichtbarer wird. Kleidung und Verhalten sollten auch bei Ausländern den Landessitten angepasst sein.  
+Frauen sollten möglichst dezente, langärmelige Kleidung tragen; Männer auf das Tragen kurzer Freizeitkleidung verzichten.
+
 Während des Fastenmonats Ramadan ist mit Einschränkungen im Alltag (z.B. tagsüber Schließung von Restaurants außerhalb der Hotels, reduzierte Arbeitszeiten bei Behörden) und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Fragen der Respektierung islamischer Traditionen zu rechnen.  
-Öffentliches Essen, Trinken, Rauchen, auch in Fahrzeugen, – selbst das Kauen von Kaugummi – ist von Sonnenaufgang bis Sonnenuntergang auch für Nichtmuslime bei Strafe verboten.  
-Frauen sollten insbesondere während dieser Zeit möglichst dezente, langärmelige Kleidung tragen, Männer auf das Tragen kurzer Freizeitkleidung verzichten.
+Öffentliches Essen, Trinken, Rauchen, auch in Fahrzeugen, – selbst das Kauen von Kaugummi – ist von Sonnenaufgang bis Sonnenuntergang auch für Nichtmuslime bei Strafe verboten.
 
 ### LGBTIQ
 
@@ -99,7 +96,7 @@ Gleichgeschlechtliche Beziehungen sind illegal.
 
 ### Rechtliche Besonderheiten
 
-Die Mindeststrafe für Drogenbesitz beträgt zwei Jahre Gefängnis, ab 25 g Heroin/Kokain oder zwei Kilogramm Marihuana-Besitz kann die Todesstrafe verhängt werden. Besonders hinzuweisen ist auf das noch geltende Sonderermächtigungsgesetz von 1974, wonach für Schmuggel jeder Art auch die Todesstrafe verhängt werden kann.
+Die Mindeststrafe für Drogenbesitz beträgt zwei Jahre Gefängnis, ab 25 g Heroin/Kokain oder zwei kg Marihuana-Besitz kann die Todesstrafe verhängt werden. Besonders hinzuweisen ist auf das noch geltende Sonderermächtigungsgesetz von 1974, wonach für Schmuggel jeder Art auch die Todesstrafe verhängt werden kann.
 
 Das Fotografieren militärischer Anlagen, Flughäfen, Gebäuden öffentlicher Institutionen, Ministerien und Behörden sowie Angehöriger der Sicherheitskräfte und der Polizei ist verboten und wird streng geahndet. Es drohen Inhaftierung und andere strafrechtliche Folgen.
 
@@ -109,8 +106,7 @@ Landeswährung ist der Taka (BDT). Kreditkarten werden vorwiegend von Hotels ab 
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -185,15 +181,6 @@ Für die Einfuhr von Hunden und Katzen müssen diese einen Mikrochip besitzen un
 
 ## Gesundheit
 
-### Aktuelles
-
-#### *Dengue-Fieber*
-
-Seit Mai 2023 treten in Bangladesch deutlich mehr Dengue-Fälle als in den Vorjahren. Laut [WHO](https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON481) ist DENV-2 der vorherrschende Dengue-Subtyp.
-
-* Schützen Sie sich insbesondere tagsüber wie auch in der Dämmerung konsequent vor Mückenstichen und lassen Sie sich bezüglich einer Impfung ärztlich beraten.
-* Beachten Sie auch den Abschnitt *Dengue-Fieber* sowie die weiterführenden Hinweise zu [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") und der Impfung.
-
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet oder Transit im Flughafen eines Gelbfiebergebiets müssen alle Personen ab einem Alter von einem Jahr eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachweisen. Bangladesch selbst ist kein Gelbfieberinfektionsgebiet.
@@ -211,7 +198,9 @@ Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Vi
 
 ### Dengue-Fieber
 
-Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen. Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In den Monsunmonaten kommt es zu einem z.T. stark erhöhten Auftreten von Dengue-Fieber. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
+Nach dem bisher größten Dengue-Fieber-Ausbruch 2023 sind die Fallzahlen jetzt rückläufig. Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen.
+
+Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In den Monsunmonaten kommt es zu einem z.T. stark erhöhten Auftreten von Dengue-Fieber. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inklusive möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
 * Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen
 * Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
@@ -285,7 +274,7 @@ Seit 2007 gibt es Ausbrüche von aviärer Influenza („Vogelgrippe“) in Bangl
 
 Die Luftverschmutzung in den Städten hat in den letzten Jahren erheblich zugenommen. Chronische Atemwegserkrankungen wie Asthma oder COPD können sich dadurch erheblich verschlechtern.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -295,9 +284,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
