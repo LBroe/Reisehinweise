@@ -4,7 +4,7 @@
 
 ### Hurrikan „Beryl“
 
-In der Karibik tobt derzeit der Hurrikan „Beryl“. Er wird nach aktuellen Prognosen voraussichtlich am Donnerstag, den 4. Juli 2024 auf die mexikanische Halbinsel Yucatán und anschließend die mexikanische Westküste treffen. Betroffen sind die Bundesstaaten Quintana Roo, Yucatán, Campeche und Veracruz.
+In der Karibik tobt derzeit der Hurrikan „Beryl“. Er wird nach aktuellen Prognosen voraussichtlich ab Freitag, den 5. Juli 2024 auf die mexikanische Halbinsel Yucatán und anschließend die mexikanische Westküste treffen. Betroffen sind die Bundesstaaten Quintana Roo, Yucatán, Campeche und Veracruz.
 
 * Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden und Ihres Hotel- bzw. Reiseanbieters unbedingt Folge.
