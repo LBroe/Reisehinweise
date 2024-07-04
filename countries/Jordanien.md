@@ -8,20 +8,18 @@
 
 ### Sicherheitslage Jordanien
 
-In der Nacht auf den 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Jordanien hat deshalb vorübergehend den eigenen Luftraum geschlossen. Inzwischen ist der Luftraum wieder geöffnet, der zivile Flugverkehr wurde wieder aufgenommen. Es ist jedoch nicht auszuschließen, dass es zu Verzögerungen oder Flugstreichungen kommt.
+Derzeit kommt es in Jordanien immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Demonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, im Westjordanland oder auch in Libanon, ist auch in näherer Zukunft zu rechnen, dies vor allem freitags nach dem Mittagsgebet. Dabei kommt es vermehrt zu antiwestlicher Stimmung.
 
-**Von Reisen in das syrisch-jordanische Grenzgebiet sowie in den Nordosten des Landes und in die Grenzregion zu Irak wird dringend abgeraten.**
-
-* Informieren Sie sich über die aktuelle Lage in den Medien.
-* Setzen Sie sich bei Fragen zu Flugeinschränkungen mit Ihrem Reiseveranstalter oder Ihrer Fluggesellschaft in Verbindung.
-
-Derzeit kommt es in Jordanien immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Demonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, ist auch in näherer Zukunft zu rechnen, dies vor allem freitags nach dem Mittagsgebet. Dabei kommt es vermehrt zu antiwestlicher Stimmung.
+In Jordanien besteht insbesondere aufgrund der Lage in Syrien und in Irak landesweit die Gefahr von Terroranschlägen, auch an Orten, die von Ausländern besucht werden. Die jordanischen Behörden haben daher ihre Sicherheitsvorkehrungen erhöht.
 
 Aufgrund der Lage in Gaza und der angespannten Situation in Israel und den Palästinensischen Gebieten kann es immer wieder zu kurzfristigen Änderungen der Öffnungszeiten sowie auch der zeitweisen Schließung der Grenzübergänge zwischen Israel und Jordanien kommen, insbesondere auch am Grenzübergang King-Hussein-Brücke (Allenby-Brücke) bei Ausreise aus dem Westjordanland, siehe *Einreise und Zoll – Einreise von Israel.*
 
 In grenznahen Regionen (insbesondere auch auf dem Dead Sea Highway) kann es zu Sperrungen und/oder zusätzlichen Kontrollstellen kommen.
 
 * **Beachten Sie die Reise- und Sicherheitshinweise zu** [**Israel**](https://www.auswaertiges-amt.de/de/service/laender/israel-node/israelsicherheit/203814) **und** [**den Palästinensischen Gebieten.**](https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit/203674)
+* **Von Reisen in das syrisch-jordanische Grenzgebiet sowie in den Nordosten des Landes und in die Grenzregion zu Irak wird dringend abgeraten.**
+* Informieren Sie sich über die aktuelle Lage in den Medien.
+* Setzen Sie sich bei Fragen zu Flugeinschränkungen mit Ihrem Reiseveranstalter oder Ihrer Fluggesellschaft in Verbindung
 * Es wird dringend geraten, sich von größeren Menschenansammlungen fernzuhalten.
 * Bitte informieren Sie sich bei geplantem Grenzübertritt aktuell darüber, ob der jeweilige Grenzübergang geöffnet ist.
 * Folgen Sie unbedingt den Anweisungen der Sicherheitskräfte.
@@ -41,7 +39,7 @@ In Jordanien besteht insbesondere aufgrund der Lage in Syrien und im Irak landes
 
 ### Innenpolitische Lage
 
-Siehe *Aktuelles*  
+Siehe *Aktuelles*
 
 Sowohl das syrisch-jordanische als auch das irakisch-jordanische Grenzgebiet sind militärisches Sperrgebiet, in dem besondere Bestimmungen gelten.  
 Aufgrund der geographischen Nähe zu den Nachbarstaaten Syrien und Irak und dem hohen Aufkommen an Flüchtlingen in der Region mit vereinzelten Auseinandersetzungen sollte die weitere Entwicklung vor Ort stets aufmerksam verfolgt werden.
@@ -70,7 +68,7 @@ Die Kriminalitätsrate in Jordanien ist niedrig. Straftaten wie Taschendiebstäh
 
 ## Natur und Klima
 
-In den östlichen und südlichen Landesteilen herrscht Wüstenklima, im Bergland am Rand des Jordangrabens ist es mediterran, an der Rotmeerküste subtropisch.  
+In den östlichen und südlichen Landesteilen herrscht Wüstenklima, im Bergland am Rand des Jordangrabens ist es mediterran, an der Rotmeerküste subtropisch.
 
 In den Herbst- und Wintermonaten kann es insbesondere bei Niederschlägen nach Dürreperioden zu plötzlich auftretenden Überschwemmungen und Sturzfluten kommen. Zuletzt mussten Ende 2022 zahlreiche Touristen aus Petra evakuiert werden.
 
@@ -126,7 +124,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Jordaniens](https://www.visitjordan.gov.jo/index.html) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Jordaniens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 Mit HIV infizierte Personen dürfen nicht nach Jordanien einreisen und sich nicht in Jordanien aufhalten, siehe auch *Gesundheit – HIV.*
 
@@ -154,17 +152,17 @@ Ein Visum kann vor der Reise online beim [jordanischen Innenministerium](https:/
 
 Die zuständige jordanische Botschaft stellt keine Visa mehr aus. Visa werden nicht mehr in Reisepässe eingetragen. Bei Einreise muss das elektronisch ausgestellte Visum mitgeführt werden.
 
-Die Visumbeantragung vor der Einreise ist für deutsche Staatsangehörige nicht verpflichtend, die Möglichkeit der Visumbeantragung bei Einreise besteht weiterhin.
+Die Visumsbeantragung vor der Einreise ist für deutsche Staatsangehörige nicht verpflichtend, die Möglichkeit der Visumsbeantragung bei Einreise besteht weiterhin.
 
 #### *Visum bei Einreise („on arrival“)*
 
-Das Visum kann bei Einreise an den Flughäfen Queen Alia International und Aqaba auch „on arrival“ beantragt werden. Die Visumgebühr in Höhe von derzeit 40 JOD muss an den Flughäfen sofort in jordanischen Dinar bezahlt werden (Wechselstuben/Geldautomat vorhanden). Eine Kreditkartenzahlung ist in der Regel möglich.
+Das Visum kann bei Einreise an den Flughäfen Queen Alia International und Aqaba auch „on arrival“ beantragt werden. Die Visumgebühr in Höhe von derzeit 40 JOD muss an den Flughäfen sofort in JOD bezahlt werden (Wechselstuben/Geldautomat vorhanden). Eine Kreditkartenzahlung ist in der Regel möglich.
 
 #### *Einreise aus Israel*
 
 Siehe *Aktuelles*
 
-Das Visum kann bei Einreise über die Grenzübergänge Aqaba/Yitzhak Rabin (Nähe Eilat) und Sheikh-Hussein-Brücke (nördliche Grenze) beantragt werden. Reiseveranstalter bieten Ausflüge unter Vermittlung der Grenzabfertigung (gegen Gebühren) an, sodass keine vorherige Visumerteilung, aber die vorherige Übermittlung von Passkopien erforderlich ist.
+Das Visum kann bei Einreise über die Grenzübergänge Aqaba/Yitzhak Rabin (Nähe Eilat) und Sheikh-Hussein-Brücke (nördliche Grenze) beantragt werden. Reiseveranstalter bieten Ausflüge unter Vermittlung der Grenzabfertigung (gegen Gebühren) an, sodass keine vorherige Visumserteilung, aber die vorherige Übermittlung von Passkopien erforderlich ist.
 
 Bei Einreise über die King-Hussein-Brücke aus dem Westjordanland(Palästinensische Gebiete) kommend werden keine Visa ausgestellt. Bei einer erstmaligen Einreise nach Jordanien über die King-Hussein-Brücke muss daher in jedem Fall vorher ein Visum bei der zuständigen jordanischen Auslandsvertretung in Tel Aviv oder online beantragt werden.
 
@@ -176,7 +174,7 @@ Sollte der ein Aufenthalt von mehr als vier Wochen in Jordanien beabsichtigt w
 
 ### Einreisekontrolle
 
-Deutsche, die in der Region (aber nicht in Jordanien) geboren wurden, insbesondere bei irakischer, syrischer oder palästinensischer Abstammung, müssen damit rechnen, bei der Einreise zurückgewiesen oder durch die jordanischen Sicherheitsbehörden befragt zu werden. In Einzelfällen können Reisende auch zu einem Gespräch am folgenden Tag geladen werden. Dieser Aufforderung sollte unbedingt Folge geleistet werden, da ansonsten die Ausreise verweigert wird. Betroffenen wird daher geraten, Visa nicht erst am Flughafen, sondern schon vorab elektronisch zu beantragen (s. *Visum*)
+Deutsche, die in der Region (aber nicht in Jordanien) geboren wurden, insbesondere bei irakischer, syrischer oder palästinensischer Abstammung, müssen damit rechnen, bei der Einreise zurückgewiesen oder durch die jordanischen Sicherheitsbehörden befragt zu werden. In Einzelfällen können Reisende auch zu einem Gespräch am folgenden Tag geladen werden. Dieser Aufforderung sollte unbedingt Folge geleistet werden, da ansonsten die Ausreise verweigert wird. Betroffenen wird daher geraten, Visa nicht erst am Flughafen, sondern schon vorab elektronisch zu beantragen (siehe *Einreise und Zoll - Visum*)
 
 Israelische Stempel oder Stempel der jordanischen Grenzübergangsstellen zu Israel im Pass können zur Zurückweisung bei der Weiterreise in arabische Nachbarstaaten (außer Ägypten) führen.
 
@@ -256,9 +254,7 @@ Das Versorgungsniveau ist in Amman sehr gut. Hier sind besonders die beiden gro�
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

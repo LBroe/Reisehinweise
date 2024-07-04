@@ -44,7 +44,7 @@ St. Kitts und Nevis liegen in einer seismisch aktiven Zone, weshalb es zu Erdbeb
 
 ### Zuständige Auslandsvertretung
 
-In St. Kitts und Nevis gibt es keine deutsche Botschaft. Zuständig für St. Kitts und Nevis ist die [deutsche Botschaft in Port-of-Spain, Trinidad und Tobago](https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadtobago/220470 "Deutsche Vertretungen in Trinidad und Tobago"). In Notfällen kann die [deutsche Honorarkonsulin in St. Kitts](https://www.auswaertiges-amt.de/de/service/laender/stkittsundnevis-node/stkittsnevis/226584 "Deutsche Vertretungen zuständig für St. Kitts und Nevis") kontaktiert werden.
+In St. Kitts und Nevis gibt es keine deutsche Botschaft. Zuständig für St. Kitts und Nevis ist die [deutsche Botschaft in Port-of-Spain, Trinidad und Tobago](https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadtobago/220470 "Deutsche Vertretungen in Trinidad und Tobago"). In Notfällen kann die [deutsche Honorarkonsulin in St. Kitts](https://port-of-spain.diplo.de/tt-de/ueber-uns/honorarkonsuln?openAccordionId=item-288644-4-panel) kontaktiert werden.
 
 ### Infrastruktur/Verkehr
 
@@ -56,7 +56,7 @@ In St. Kitts und Nevis herrscht Linksverkehr. Das Straßennetz ist relativ gut a
 
 ### Führerschein
 
-Der deutsche Führerschein ist für die Anmietung eines Wagens und für das Führen dieses Fahrzeugs während des Urlaubsaufenthaltes nicht ausreichend. Für ca. 62,50 XCD (ca. 22 EUR) erhält man einen Urlaubsführerschein von der zuständigen Stelle (Traffic Department) oder meist direkt von der Mietwagenfirma bei Anmietung des Fahrzeuges.
+Der deutsche Führerschein ist für die Anmietung eines Wagens und für das Führen dieses Fahrzeugs während des Urlaubsaufenthaltes nicht ausreichend. Einen lokalen Urlaubsführerschein erhält man entweder bei der zuständigen Stelle (Traffic Department) oder bei Anmietung eines Fahrzeuges direkt über die Mietwagenfirma.
 
 ### LGBTIQ
 
@@ -78,12 +78,11 @@ Landeswährung ist der Ostkaribische Dollar (XCD). In St. Kitts und Nevis könne
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei der [Regierung von St. Kitts und Nevis](https://www.visitstkitts.com/plan-your-trip) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich jederzeit ändern. Bitte informieren Sie sich zusätzlich bei der [Regierung von St. Kitts und Nevis](https://www.visitstkitts.com/plan-your-trip) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 #### Einreise
 
@@ -187,9 +186,7 @@ Das Angebot zur Gesundheits- und Notfallversorgung ist flächendeckend insbesond
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
