@@ -1,13 +1,5 @@
 # Trinidad und Tobago: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-In der südlichen Ostkaribik muss nach Hurrikan „Beryl“ mit Zerstörungen und Verwüstungen gerechnet werden. Es gibt Schäden an der Infrastruktur und Verzögerungen/Ausfälle insbesondere im  Schiffsverkehr sowie teilweise auch noch im Flug- und Straßenverkehr. Besonders stark betroffen sind die Inseln Carriacou/Grenada und Union Island/St. Vincent and the Grenadines. Weniger schwer, aber ebenfalls betroffen sind die Inseln Barbados, St.Vincent und die Grenadinen.
-
-* Beachten Sie die örtlichen Nachrichten und beobachten Sie die Situation.
-* Folgen Sie den Anweisungen der örtlichen Behörden.
-* Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -35,7 +27,7 @@ In Trinidad gelten besonders folgende Stadtteile als sog. No-go-Zone unter dem E
 * der Stadtteil Enterprise und die Umgebung von Movietown in Chaguanas sowie der  
 Stadtteil Carapo in Arima.
 
-Aber auch in anderen Gegenden, Einkaufszentren und Ausgehmeilen wie der Ariapita Avenue in Port-of-Spain haben in letzter Zeit Raubüberfälle und Einbruchdiebstähle unter Gewaltanwendung, sowie Bandenauseinandersetzungen unter Einsatz von Schusswaffen zugenommen.  
+Aber auch in anderen Gegenden, Einkaufszentren und Ausgehmeilen wie der Ariapita Avenue in Port-of-Spain haben in letzter Zeit Raubüberfälle und Einbruchdiebstähle unter Gewaltanwendung sowie Bandenauseinandersetzungen unter Einsatz von Schusswaffen zugenommen.  
 
 Auf Tobago ist dies in geringerem Maße in Charlotteville, in Minister Bay/Bacolet und im Südwesten Tobagos (z.B. in Buccoo, Bon Accord, der Gegend von Black Rock und Lambeau) der Fall. Taschendiebstähle häufen sich dort, auch Diebstähle und Übergriffe unter Einsatz von K.-o.-Tropfen kamen dort vor.
 
@@ -45,15 +37,15 @@ Die hohe Mordrate ist vorrangig auf Bandenkämpfe zurückzuführen, in letzter Z
 
 Einbrüche und Überfälle hat es außerdem wiederholt in Gästehäusern, alleinstehenden Villen und Hotelanlagen gegeben, bei denen auch deutsche Touristen betroffen waren. Alleinreisende Frauen sind besonders gefährdet.
 
-Bei der Nutzung von Taxis und Maxitaxis (Kleinbusse) drohen Gefahren, insbesondere bei Nutzung nicht registrierter privater Sammeltaxis (sogenannte PH-Taxis mit P...-Kennzeichen) kommt es immer wieder zu Gewaltverbrechen an den Fahrgästen.
+Bei der Nutzung von Taxis und Maxitaxis (Kleinbusse) drohen Gefahren, insbesondere bei Nutzung nicht-registrierter privater Sammeltaxis (sogenannte PH-Taxis mit P...-Kennzeichen) kommt es immer wieder zu Gewaltverbrechen an den Fahrgästen.
 
 Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe bzw. Fälle von Piraterie in der Ostkaribik kommen sporadisch vor. Notrufe an die Polizei/Küstenwache über 999 (Mobiltelefon) sind häufig zuverlässiger als Dringlichkeitsrufe über mobilen Seefunk.
 
-* Seien Sie bei allen Besuchen insbesondere auf Trinidad besonders vorsichtig, auch in Wohngebieten, in Einkaufszentren, Ausgehvierteln (z.B. Ariapita Avenue) und den Ausflugszielen Fort George und Lady Young Lookout, und achten Sie auf Ihre Wertsachen.
+* Seien Sie bei allen Besuchen vor allem auf Trinidad besonders vorsichtig, auch in Wohngebieten, in Einkaufszentren, Ausgehvierteln (z.B. Ariapita Avenue) und den Ausflugszielen Fort George und Lady Young Lookout, und achten Sie auf Ihre Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Achten Sie bei Bargeldabhebungen am Schalter oder an Geldautomaten (ATMs) darauf, auf dem Weg dorthin nicht gezielt beobachtet bzw. auf dem Rückweg verfolgt zu werden. Achten Sie beim Verlassen der Bank auf Ihre Umgebung und benutzen Sie vorzugsweise ein Kfz (z.B. ein Hoteltaxi).
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Achten Sie bei allen Unterkünften auf einen Sicherheitsstandard wie z.B. Einzäunung, Sicherheitsdienst.
+* Achten Sie bei allen Unterkünften auf einen Sicherheitsstandard wie z.B. Einzäunung und Sicherheitsdienst.
 * Meiden Sie die oben genannten No-go-Gebiete.
 * Seien Sie auf Tobago in Charlotteville und in Minister Bay/Bacolet, aber auch im Südwesten besonders vorsichtig.
 * Meiden Sie einsame Strände und Spaziergänge nach Einbruch der Dunkelheit.
@@ -70,7 +62,11 @@ Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe bzw. F
 ## Natur und Klima
 
 Es herrscht tropisches Klima.  
-Von Juni bis Ende November ist in der Karibik Wirbelsturmsaison. Trinidad und Tobago liegen zwar außerhalb der direkten Hurricane-Zone, trotzdem erreichen Ausläufer beide Inseln mit Stürmen und intensiven Regenfällen. Überflutete Straßen, Erdrutsche und umgestürzte Bäume führen dann ggf. zu erheblichen Verkehrsbehinderungen und können entlegenere Landesteile für Tage unzugänglich machen. Trinidad und Tobago liegen in einer seismisch aktiven Zone, es gibt hin und wieder kleinere Erdbeben.
+Hurrikan „Beryl“ hat auf der Insel Tobago einige Schäden an der Infrastruktur verursacht. Es muss mit Einschränkungen im Straßenverkehr sowie punktuell mit Ausfall der Strom- und Wasserversorgung gerechnet werden. Fähr- und Flugverkehr operieren wieder weitgehend normal.
+
+Von Juni bis Ende November ist in der Karibik Wirbelsturmsaison. Trinidad und Tobago liegen zwar außerhalb der direkten Hurricane-Zone, trotzdem erreichen Ausläufer beide Inseln mit Stürmen und intensiven Regenfällen. Überflutete Straßen, Erdrutsche und umgestürzte Bäume führen dann ggf. zu erheblichen Verkehrsbehinderungen und können entlegene Landesteile für Tage unzugänglich machen.
+
+Trinidad und Tobago liegen in einer seismisch aktiven Zone, es gibt hin und wieder Erdbeben. Ein Beben der Stärke 6,2 erschütterte Trinidad im Juni 2024, jedoch ohne ernsthafte Schäden zu verursachen.  
 
 * Informieren Sie sich über die aktuelle Lage in den lokalen und internationalen Medien.
 * Beachten Sie stets Verbote, Strandsperrungen, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
@@ -111,7 +107,7 @@ Homosexuelle Handlungen sind nicht strafbar, sofern sie einvernehmlich und unter
 
 ### Rechtliche Besonderheiten
 
-Drogenbesitz bis 30 g Cannabis oder 5 g Haschisch (Canabisharz) sind [erlaubt](https://www.ttparliament.org/publication/the-cannabis-control-act-2022/); diese dürfen jedoch nicht in der Öffentlichkeit und nicht als Autofahrer konsumiert werden. Darüber hinaus werden Drogenkonsum und -handel,  von den Polizeibehörden streng verfolgt; dies gilt auch für Ausländer. Bei Verstößen gegen die Drogengesetze werden hohe Geld- und Gefängnisstrafen verhängt; eine Freilassung gegen Kaution ist in der Regel nicht möglich. Inhaftierte bleiben wegen Überlastung der Justiz oft jahrelang in Untersuchungshaft.
+Drogenbesitz bis 30 g Cannabis oder 5 g Haschisch (Canabisharz) sind [erlaubt](https://www.ttparliament.org/publication/the-cannabis-control-act-2022/); diese dürfen jedoch nicht in der Öffentlichkeit und nicht als Autofahrer konsumiert werden. Darüber hinaus werden Drogenkonsum und -handel von den Polizeibehörden streng verfolgt; dies gilt auch für Ausländer. Bei Verstößen gegen die Drogengesetze werden hohe Geld- und Gefängnisstrafen verhängt; eine Freilassung gegen Kaution ist in der Regel nicht möglich. Inhaftierte bleiben wegen Überlastung der Justiz oft jahrelang in Untersuchungshaft.
 
 Der Import frischer Lebensmittel und Honig ist nicht [erlaubt](http://www.customs.gov.tt/content/C&E%20-%20FAQs%20Brochure%20Design%20Low%20Res.pdf).
 
@@ -262,9 +258,7 @@ Die Kosten für eine medizinische Behandlung in privaten Arztpraxen bzw. Privatk
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

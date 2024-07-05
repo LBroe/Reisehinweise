@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-In der südlichen Ostkaribik muss nach Hurrikan „Beryl“ mit Zerstörungen und Verwüstungen gerechnet werden. Es gibt Schäden an der Infrastruktur und Verzögerungen/Ausfälle insbesondere im  Schiffsverkehr sowie teilweise auch noch im Flug- und Straßenverkehr. Besonders stark betroffen sind die Inseln Carriacou/Grenada und Union Island. Weniger schwer, aber ebenfalls betroffen sind die Inseln Barbados, Grenanda sowie Tobago.
+Hurrikan „Beryl“ hat in Teilen des Landes schwere Zerstörungen und Verwüstungen verursacht. Es gibt Schäden an Gebäuden, der Infrastruktur und Verzögerungen/Ausfälle im Schiffs-, Flug- und Straßenverkehr. Besonders stark betroffen sind die südlichen Grenadinen-Inseln Union Island, Mayreau und Canouan, wo nahezu alle Gebäude beschädigt oder zerstört sind. Weniger schwer, aber ebenfalls betroffen sind die übrigen Inseln einschließlich der Hauptinsel St. Vincent. Die Kommunikation und Stromversorgung funktionieren derzeit nur eingeschränkt. Der Flughafen Argyle International Airport ist wieder geöffnet.
 
 * Beachten Sie die örtlichen Nachrichten und beobachten Sie die Situation.
 * Folgen Sie den Anweisungen der örtlichen Behörden.
@@ -24,39 +24,42 @@ Es kann vereinzelt zu Protesten und Demonstrationen kommen, bei denen gewaltsame
 
 ### Kriminalität
 
-Gewaltkriminalität wie bewaffnete Überfälle kommen auch auf St. Vincent und den Grenadinen vor.  
-Kleinkriminalität wie Taschendiebstähle und Handtaschenraub kommen insbesondere an von Touristen sehr frequentierten Orten und vermehrt zu Zeiten von Festen und besonderen Anlässen vor.
+Gewaltkriminalität wie bewaffnete Überfälle kommen auch in St. Vincent und den Grenadinen vor.  
+Kleinkriminalität wie Taschendiebstähle und Handtaschenraub kommen insbesondere an von Touristen stark frequentierten Orten und vermehrt zu Zeiten von Festen und besonderen Anlässen vor.
 
-Kriminalitätsschwerpunkte sind die Viertel Sharpes und Ottley Hall im Westen der Hauptstadt Kingstown sowie die Leeward-Seite von St. Vincent.
+Kriminalitätsschwerpunkte sind die Viertel Sharpes und Ottley Hall im Westen der Hauptstadt Kingstown sowie die dem Wind abgewandte Seite von St. Vincent.
 
-Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe sowie Fälle von Piraterie in der Ostkaribik kommen vor. Notrufe an die Polizei/Küstenwache über 911 (Mobiltelefon) sind häufig zuverlässiger als Dringlichkeitsrufe über mobilen Seefunk.
+Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe sowie Fälle von Piraterie in der Ostkaribik kommen vor. Notrufe an die Polizei/Küstenwache über 911 (Mobiltelefon) sind häufig zuverlässiger als Dringlichkeitsrufe über mobilen Seefunk, mit einer Wartezeit muss aber in jedem Fall gerechnet werden.
 
-* Seien Sie aufmerksam und vorsichtig bei Spaziergängen in, Parks, an einsamen Stränden oder durch wenig belebte Viertel größerer Städte und Siedlungen nach Einbruch der Dunkelheit.
+* Seien Sie aufmerksam und vorsichtig bei Spaziergängen in Parks, an einsamen Stränden oder durch wenig belebte Viertel größerer Städte und Siedlungen nach Einbruch der Dunkelheit.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, an Busbahnhöfen, auf Märkten, in öffentlichen Verkehrsmitteln und Bars besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Treffen Sie geeignete Vorsichtsmaßnahmen und sprechen Sie mit Mitreisenden Verhaltensmaßnahmen für einen eventuellen Überfall ab, wenn Sie mit dem eigenem Boot unterwegs sind.
 * Ankern Sie nur in sicheren Häfen (ggf. vor Ankunft anmelden) und verschließen Sie Ihr Boot.
 * Leisten Sie bei Raubüberfällen zu Wasser oder an Land keine Gegenwehr.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 Es herrscht tropisches Klima.  
 Von Juni bis Ende November ist Hurrikan-Saison. In dieser Zeit ist insbesondere an den Küsten mit Tropenstürmen und intensiven Regenfällen zu rechnen.
 
-St. Vincent und die Grenadinen liegen in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann. Der Vulkan La Soufrière auf der Hauptinsel St. Vincent hat 2021 in einem großen Ausbruch die Hauptinsel St. Vincent mit einer Ascheschicht überzogen. Der Vulkan ist nach wie vor leicht aktiv, die Warnstufe wurde jedoch aufgehoben. Die nationale Notfallorganisation [NEMO](http://www.nemo.gov.vc/nemo/) (National Emergency Management Organisation) veröffentlicht die im Gefahrenfall Vulkan-, Hurricane- und Hochwasserwarnungen sowie Schutzempfehlungen.
+St. Vincent und die Grenadinen liegen in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann. Der Vulkan La Soufrière auf der Hauptinsel St. Vincent hat 2021 in einem großen Ausbruch die Hauptinsel St. Vincent mit einer Ascheschicht überzogen. Der Vulkan ist nach wie vor leicht aktiv, die Warnstufe wurde jedoch aufgehoben. Die nationale Notfallorganisation [NEMO](https://nemo.gov.vc/nemo/) (National Emergency Management Organisation) veröffentlicht die im Gefahrenfall Vulkan-, Hurricane- und Hochwasserwarnungen sowie Schutzempfehlungen.
 
+* Informieren Sie sich über aktuelle Warnmeldungen und Wetterverhältnisse und beachten Sie die Anweisungen und Empfehlungen der lokalen Behörden.
 * Verfolgen Sie regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut, z. B. in den Merkblättern des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut, z. B. in den Merkblättern des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Zuständige Auslandsvertretung
 
-In St. Vincent und die Grenadinen gibt es keine deutsche Botschaft. Zuständig für St. Vincent und die Grenadinen ist die [deutsche Botschaft in Port-of-Spain, Trinidad und Tobago](https://port-of-spain.diplo.de/tt-de). In Notfällen kann vor Ort die [deutsche Honorarkonsulin](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/stvincentgrenadinen/226270) kontaktiert werden.
+In St. Vincent und die Grenadinen gibt es keine deutsche Botschaft. Zuständig für das Land ist die [deutsche Botschaft in Port-of-Spain, Trinidad und Tobago](https://port-of-spain.diplo.de/tt-de). In Notfällen kann vor Ort die [deutsche Honorarkonsulin](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/stvincentgrenadinen/226270) kontaktiert werden.
 
 ### Infrastruktur/Verkehr
 
@@ -65,7 +68,7 @@ In St. Vincent und die Grenadinen herrscht Linksverkehr. Das Straßennetz ist re
 Relativ preisgünstige Taxis stehen zur Verfügung.
 
 * Fahren Sie stets vorsichtig und defensiv.
-* Nutzen Sie Motorräder und –roller trotz tropischer Temperaturen nur mit entsprechender Schutzkleidung.
+* Nutzen Sie Motorräder und -roller trotz tropischer Temperaturen nur mit entsprechender Schutzkleidung.
 * Verhandeln Sie Fahrpreise für Taxis stets vor Fahrtantritt.
 * Seien Sie bei Ausreise auf dem Luftweg zum Einchecken mindestens zwei Stunden vor dem planmäßigen Abflug am Flughafen, um sicherzugehen, dass eine Reservierung nicht wegen einer eventuellen Überbuchung gestrichen wird.
 
@@ -75,7 +78,7 @@ Das Fahren von Kfz ist nur mit einem lokalen Führerschein gestattet, der gegen
 
 ### LGBTIQ
 
-Einige homosexuelle Handlungen sind strafbar, es sind jedoch keine Fälle bekannt, bei denen es zu einer strafrechtlichen Verfolgung gekommen ist.
+Einige homosexuelle Handlungen sind strafbar; es sind jedoch keine Fälle bekannt, bei denen es zu einer strafrechtlichen Verfolgung gekommen ist.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -89,12 +92,11 @@ Das Tragen von Tarnkleidung (Camouflage) ist verboten, dies gilt auch für Kinde
 
 ### Geld/Kreditkarten
 
-Landeswährung in St. Vincent und die Grenadinen ist der ostkaribische Dollar (XCD). Gängige Fremdwährungen können in Hotels und in den meisten Banken getauscht werden. Einige Banken wechseln nur US-Dollar, (der Euro--Kurs ist meist sehr ungünstig.) Die Zahlung mit gängigen Kreditkarten ist relativ weit verbreitet. Bankautomaten (ATM) zur Bargeldabhebung sind auf den größeren Inseln vorhanden.
+Landeswährung in St. Vincent und die Grenadinen ist der ostkaribische Dollar (XCD). Gängige Fremdwährungen können in Hotels und in den meisten Banken getauscht werden. Einige Banken wechseln nur US-Dollar, der Euro--Kurs ist meist sehr ungünstig. Die Zahlung mit gängigen Kreditkarten ist relativ weit verbreitet. Bankautomaten (ATM) zur Bargeldabhebung sind auf den größeren Inseln vorhanden.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -196,9 +198,7 @@ Im örtlichen Krankenhaus in Kingstown in St. Vincent sowie bei niedergelassenen
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

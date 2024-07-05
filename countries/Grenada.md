@@ -1,13 +1,5 @@
 # Grenada: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-In der südlichen Ostkaribik muss nach Hurrikan „Beryl“ mit Zerstörungen und Verwüstungen gerechnet werden. Es gibt Schäden an der Infrastruktur und Verzögerungen/Ausfälle insbesondere im  Schiffsverkehr sowie teilweise auch noch im Flug- und Straßenverkehr. Besonders stark betroffen sind die Inseln Carriacou/Grenada und Union Island/St. Vincent and the Grenadines. Weniger schwer, aber ebenfalls betroffen sind die Inseln Barbados, St.Vincent und die Grenadinen sowie Tobago.
-
-* Beachten Sie die örtlichen Nachrichten und beobachten Sie die Situation.
-* Folgen Sie den Anweisungen der örtlichen Behörden.
-* Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -24,7 +16,7 @@ Es kann vereinzelt zu Protesten und Demonstrationen kommen, bei denen gewaltsame
 
 ### Kriminalität
 
-Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in der Hauptstadt St. George’s und in von Touristen frequentierten Orten sporadisch vor. Gewaltkriminalität ist selten, kommt jedoch z.B. an unbewachten und einsamen Stränden auch vor.
+Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in der Hauptstadt St. George’s und in von Touristen frequentierten Orten gelegentlich vor. Gewaltkriminalität ist selten, kommt jedoch z.B. an unbewachten und einsamen Stränden vor.
 
 Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe bzw. Fälle von Piraterie in der Ostkaribik kommen sporadisch vor. Notrufe an die Polizei/Küstenwache über 911 (Mobiltelefon) sind häufig zuverlässiger als Dringlichkeitsrufe über mobilen Seefunk.
 
@@ -38,20 +30,22 @@ Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe bzw. F
 
 ## Natur und Klima
 
-Das Klima ist tropisch-mild und maritim. Von Juni bis Ende November ist Hurrikan-Saison. In dieser Zeit ist insbesondere an den Küsten mit Tropenstürmen und intensiven Regenfällen zu rechnen.
+Das Klima ist tropisch-mild und maritim. Von Juni bis Ende November ist Hurrikan-Saison. In dieser Zeit ist mit Tropenstürmen und intensiven Regenfällen zu rechnen.
+
+Hurrikan „Beryl“ hat in Teilen des Landes schwere Zerstörungen und Verwüstungen verursacht. Auf den Grenadinen-Inseln Carriacou und Petit Martinique ist ein Großteil der Gebäude und Infrastruktur beschädigt oder zerstört. Auf der Hauptinsel Grenada gab es nur geringe Schäden. Der internationale Flughafen Maurice Bishop ist geöffnet.
 
 Grenada liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann.
 
 * Verfolgen Sie regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Zuständige Auslandsvertretung
 
-In Grenada gibt es keine deutsche Botschaft. Zuständig für Grenada ist die [deutsche Botschaft in Port-of-Spain, Trinidad und Tobago](https://port-of-spain.diplo.de/). In Notfällen kann vor Ort der [deutsche Honorarkonsul in Grenada](https://port-of-spain.diplo.de/tt-en/embassy/honoraryconsuls) kontaktiert werden.
+In Grenada gibt es keine deutsche Botschaft. Zuständig für Grenada ist die [deutsche Botschaft in Port-of-Spain, Trinidad und Tobago](https://port-of-spain.diplo.de/). In Notfällen kann vor Ort der [deutsche Honorarkonsul in Grenada](https://port-of-spain.diplo.de/tt-de/ueber-uns/honorarkonsuln) kontaktiert werden.
 
 ### Infrastruktur/Verkehr
 
@@ -82,7 +76,7 @@ Vorsicht ist deshalb auch geboten bei Entgegennahme von Paketen von Fremden.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Ostkaribische Dollar (XCD). Gängige Währungen können in Hotels und in den meisten Banken getauscht werden. Die Zahlung mit gängigen Kreditkarten ist relativ weit verbreitet. Bargeld kann mit deutschen Kreditkarte aus Bankautomaten (ATMs) gezogen werden.
+Landeswährung ist der Ostkaribische Dollar (XCD). Gängige Währungen können in Hotels und in den meisten Banken getauscht werden. Die Zahlung mit gängigen Kreditkarten ist relativ weit verbreitet. Bargeld kann mit deutscher Kreditkarte aus Bankautomaten (ATMs) gezogen werden.
 
 ## Einreise und Zoll
 
@@ -164,24 +158,6 @@ Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen. Die Erkrank
 
 * Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
 
-### Malaria
-
-Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche *Malaria tropica* bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria](https://www.auswaertiges-amt.de/blob/200176/2118770c95ac9a07dab343e6cb3ebed9/malariamerkblatt-data.pdf "Malaria").
-
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
-
-Aktuell gibt es zwar keine dokumentierten Fälle von einer autochthonen, d.h. im Land selber erworbenen Malaria. Allerdings ist als Krankheitsüberträger die dämmerungs- und nachtaktive Anopheles-Mücke weiterhin vertreten, sodass auch künftige Ausbrüche prinzipiell nicht vollkommen auszuschließen sind.  
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
-
-* Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
-* Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
-
-Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
-
-* Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
-* Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
-
 ### HIV/AIDS
 
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
@@ -206,9 +182,7 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
