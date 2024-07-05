@@ -1,17 +1,5 @@
 # Jamaika: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### **Hurrikan-Warnung**
-
-Hurrikan „Beryl“ wird voraussichtlich im Laufe des 3. Juli 2024 auf Jamaika treffen. „Beryl“ ist gegenwärtig ein Hurrikan der Kategorie 4.
-
-Mit Extremwetter, Winden in Orkanstärke, Starkregen, Überschwemmungen und ggf. Sturmfluten ist zu rechnen.
-
-* Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
-* Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden unbedingt Folge.
-* Wenn Sie sich in Jamaika aufhalten, registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -51,8 +39,6 @@ Fahrzeugdiebstähle und -aufbrüche sind insbesondere auf unbewachten Parkplätz
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 Das Klima ist tropisch-maritim.  
 Von Juni bis Ende November ist Wirbelsturmsaison. In dieser Zeit ist insbesondere an den Küsten mit Tropenstürmen und intensiven Regenfällen zu rechnen, die zu Überschwemmungen und Erdrutschen führen können.
@@ -169,7 +155,7 @@ Die Einfuhr von Haustieren ist unter strengen und umfangreichen Auflagen grunds�
 
 ### *Aktuelles*
 
-Im Vergleich zu den Vorjahren werden im Jahr 2023 deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
+Im Vergleich zu den Vorjahren wurden im Jahr 2023 deutlich mehr Fälle von [Dengue-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") gemeldet.
 
 * Schützen Sie sich insbesondere tagsüber konsequent vor Mückenstichen. Lassen Sie sich bezüglich einer Impfung ärztlich beraten.
 * Beachten Sie die weiterführenden Informationen zu *Dengue-Fieber*, s. unten.
@@ -240,9 +226,7 @@ Die Kosten für eine medizinische Behandlung (prinzipiell auch bei Notfällen) s
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
