@@ -9,6 +9,7 @@ In der Karibik tobt derzeit der Hurrikan „Beryl“. Er wird nach aktuellen Pro
 * Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden und Ihres Hotel- bzw. Reiseanbieters unbedingt Folge.
 * Wenn Sie sich in Mexiko aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
+* Wenn Sie sich im Bundesstaat Quintana Roo aufhalten, machen Sie sich bitte mit den [dortigen Schutzorten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/2666048 "Refugien in Quintana Roo") vertraut.
 
 ## Sicherheit
 
