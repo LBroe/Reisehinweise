@@ -1,13 +1,5 @@
 # Barbados: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-In der südlichen Ostkaribik muss nach Hurrikan „Beryl“ mit Zerstörungen und Verwüstungen gerechnet werden. Es gibt Schäden an der Infrastruktur und Verzögerungen/Ausfälle insbesondere im  Schiffsverkehr sowie teilweise auch noch im Flug- und Straßenverkehr. Besonders stark betroffen sind die Inseln Carriacou/Grenada und Union Island/St. Vincent and the Grenadines. Weniger schwer, aber ebenfalls betroffen sind die Inseln Grenada, St.Vincent und die Grenadinen sowie Tobago.
-
-* Beachten Sie die örtlichen Nachrichten und beobachten Sie die Situation.
-* Folgen Sie den Anweisungen der örtlichen Behörden.
-* Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -24,7 +16,7 @@ Es kann vereinzelt zu Protesten und Demonstrationen kommen, bei denen gewaltsame
 
 ### Kriminalität
 
-Gewaltkriminalität kommt in Barbados vor. Besonders gefährlich sind Spaziergänge in wenig belebten Vierteln und Parks, an wenig frequentierten Stränden sowie in der Nelson-Street in der Hauptstadt Bridgetown, insbesondere nach Einbruch der Dunkelheit.
+Gewaltkriminalität kommt in Barbados gelegentlich vor. Gefährlich sind Spaziergänge in wenig belebten Vierteln und Parks, an wenig frequentierten Stränden sowie in der Nelson Street in der Hauptstadt Bridgetown, insbesondere nach Einbruch der Dunkelheit.
 
 Kleinkriminalität wie Taschendiebstahl und Handtaschenraub sind keine Seltenheit und nehmen insbesondere bei Festen und besonderen Anlässen zu.
 
@@ -64,7 +56,7 @@ In Barbados herrscht Linksverkehr. Das Straßennetz ist relativ gut ausgebaut. D
 
 Es stehen relativ preisgünstige Taxis zur Verfügung; bei Zahlung nach Fahrtende werden des Öfteren zu hohe Beträge verlangt.
 
-Für Motorräder und -roller besteht Helmpflicht.
+Bei der Nutzung von Motorrädern und -rollern besteht Helmpflicht.
 
 * Fahren Sie stets vorsichtig und defensiv.
 * Nutzen Sie Motorräder und –roller trotz tropischer Temperaturen nur mit entsprechender Schutzkleidung und mit Helm.
@@ -207,9 +199,7 @@ Das Angebot zur Gesundheits- und Notfallversorgung ist zwar vergleichsweise gut.
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
