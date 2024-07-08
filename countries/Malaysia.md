@@ -45,7 +45,7 @@ Kriminalität in Form von Diebstählen und auch Überfälle kommen regelmäßig 
 
 Sichtbar in Autos liegende Wertgegenstände verleiten zu Einbruchdiebstählen.
 
-Bei Übernachtungen in Hostels oder Low-Budget-Hotels, vor allem in den stark frequentierten Stadtteilen Kuala Lumpurs, Bukit Bintang und Chinatown, ist ebenfalls besondere Vorsicht geboten. Innerhalb und in unmittelbarer Nähe dieser wurden Touristen wiederholt Opfer von Raub und Diebstählen. Gewaltkriminalität gegen Ausländer ist ansonsten nicht verbreitet.
+Bei Übernachtungen in Hostels oder Low-Budget-Hotels, vor allem in den stark frequentierten Stadtteilen Kuala Lumpurs, Bukit Bintang und Chinatown, ist ebenfalls besondere Vorsicht geboten. Dort und in unmittelbarer Nähe wurden Touristen wiederholt Opfer von Raub und Diebstählen. Gewaltkriminalität gegen Ausländer ist ansonsten nicht verbreitet.
 
 Trickbetrügereien, insbesondere durch Anregung zu Glücksspielen sind an der Tagesordnung. Alleinreisende sind besonders betroffen, die sie an touristischen Orten gezielt angesprochen und unter einem Vorwand in Privatwohnungen gelockt werden.
 
@@ -69,7 +69,7 @@ Heftige Tropengewitter mit Blitzschlägen gibt es ganzjährig.
 Malaysia befindet sich in einer seismisch aktiven Zone, in der mit Erd- und Seebeben gerechnet werden muss.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des
 
 ## Reiseinfos
@@ -78,14 +78,16 @@ Malaysia befindet sich in einer seismisch aktiven Zone, in der mit Erd- und Seeb
 
 Wegen der anhaltenden Gewalt in drei thailändischen Südprovinzen wird für Reisen von Malaysia nach Thailand auf dem Landweg dringend empfohlen, die [Reise- und Sicherheitshinweise für Thailand](https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailandsicherheit/201558 "Thailand: Reise- und Sicherheitshinweise") zu beachten.
 
-Es gibt ein gut strukturiertes und verhältnismäßig günstiges Inlandsflugnetz, Zugverbindungen (Nord-Süd), Überlandbusse und Fährverbindungen und Ausflugsschifffahrt.  
+Es gibt ein gut strukturiertes und verhältnismäßig günstiges Inlandsflugnetz, Zugverbindungen (Nord-Süd), Überlandbusse, Fährverbindungen und Ausflugsschifffahrt.  
 Bei Benutzung von Fähr- und Ausflugsbooten (auch im Landesinneren) wird zu Vorsicht geraten.
 
-In Kuala Lumpur und den größeren Städten gibt es ein Autobus- und Schnellbahnsystem. Taxis sind preiswert, von Ausländern werden allerdings häufig zu hohe Fahrpreise verlangt, die Einschaltung eines Taximeters wird ebenfalls häufig verweigert. Private Anbieter, die über Apps bestellt werden können, sind vorhanden und oft zuverlässiger.
+In Kuala Lumpur und den größeren Städten gibt es ein Autobus- und Schnellbahnsystem. Taxis sind preiswert, von Ausländern werden allerdings häufig zu hohe Fahrpreise verlangt; die Einschaltung eines Taxameters wird ebenfalls häufig verweigert. Private Anbieter, die über Apps bestellt werden können, sind vorhanden und oft zuverlässiger.
 
-Achten Sie bei Überlandreisen mit Bussen besonders auf das Reisegepäck, welches im Gepäckfach verstaut wird.
+Bei Überlandreisen mit Bussen sollte besonders auf das Reisegepäck, welches im Gepäckfach verstaut wird, geachtet werden.
 
-Es herrscht Linksverkehr. Auf dem gut ausgebauten Autobahnnetz besteht größtenteils Mautpflicht. Landstraßen sind meist schmal, schlecht beleuchtet und haben Schlaglöcher. Seien Sie besonders vorsichtig bei der Nutzung von Fahrrad, Moped oder Motorrad, insbesondere, wenn man ungeübt ist. Der Linksverkehr und eine ungewohnte Fahrweise in Malaysia können zu gefährlichen Fehleinschätzungen und Unfällen führen.
+Es herrscht Linksverkehr. Auf dem gut ausgebauten Autobahnnetz besteht größtenteils Mautpflicht. Landstraßen sind meist schmal, schlecht beleuchtet und haben Schlaglöcher. 
+
+* Seien Sie besonders vorsichtig bei der Nutzung von Fahrrad, Moped oder Motorrad, insbesondere, wenn Sie ungeübt sind. Der Linksverkehr und eine ungewohnte Fahrweise in Malaysia können zu gefährlichen Fehleinschätzungen und Unfällen führen.
 
 Bei dem Besuch von Naturparks ist die Begleitung durch ortskundige geprüfte Begleiter empfehlenswert, da die Ausschilderung auf Dschungelpfaden oft unzureichend ist.
 
@@ -93,19 +95,19 @@ In den flachen Küstengewässern Malaysias (z. B. auf den Inseln Langkawi und Pa
 
 ### Führerschein
 
-Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein für Kurzaufenthalte gültig.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein für Kurzaufenthalte gültig.
 
 ### Besondere Verhaltenshinweise
 
 Malaysia ist ein Land mit vielen verschiedenen Ethnien und Religionen und einer starken islamischen Prägung.
 
-* Nehmen Sie Rücksicht und respektieren Sie örtliche Gepflogenheiten, auch durch Wahl Ihrer Kleidung und mit Ihrem Verhalten.
+* Nehmen Sie Rücksicht und respektieren Sie örtliche Gepflogenheiten, auch durch Wahl Ihrer Kleidung und Ihr Verhalten.
 
 ### LGBTIQ
 
 Einvernehmliche homosexuelle Handlungen zwischen Erwachsenen können mit bis zu 20 Jahren Gefängnis und Stockschlägen bestraft werden.
 
-Mit Dekret vom 10. August 2023 wurde der Besitz und die Verbreitung von LGBTIQ-Symbolen unter Strafe (drei Jahre Gefängnis und/oder 4.000 EUR Geldstrafe) gestellt; **zu diesen Symbolen zählen auch persönliche Gegenstände/Accessoires** mit LGBTIQ-Schriftzug und in Farben des Regenbogens, wie z. B. Uhren.
+Im August 2023 wurde der Besitz und die Verbreitung von LGBTIQ-Symbolen unter Strafe (drei Jahre Gefängnis und/oder 4.000 EUR Geldstrafe) gestellt; **zu diesen Symbolen zählen auch persönliche Gegenstände/Accessoires** mit LGBTIQ-Schriftzug und in Farben des Regenbogens, wie z. B. Uhren.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -143,17 +145,17 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Vorläufiger Personalausweis:** Nein
 * **Kinderreisepass:** Ja
 
-**Anmerkungen/Mindestrestgültigkeit:**   
-Reisedokumente müssen sechs Monate über die Reise hinaus gültig sein, freie Seiten enthalten und unbeschädigt sein. Bei Vorlage von beschädigten Pässen kommt es immer wieder zu Problemen bei der Grenzkontrolle, bis hin zur Verweigerung der Einreise.
+**Anmerkungen/Mindestrestgültigkeit:**
+
+Reisedokumente müssen sechs Monate über die Reise hinaus gültig sein, freie Seiten enthalten und unbeschädigt sein. Bei Vorlage beschädigter Pässe kommt es immer wieder zu Problemen bei der Grenzkontrolle, bis hin zur Verweigerung der Einreise.  
 
 ### Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt von bis zu drei Monaten ohne Berufstätigkeit kein Visum.
 
-Seit dem 1. Dezember 2023 ist die elektronische Anmeldung über die [Malaysia Digital Arrival Card (MDAC)](https://imigresen-online.imi.gov.my/mdac/main) 72 Stunden vor Einreise erforderlich.  
-Bei geplanter Einreise über die Flughäfen KLIA1 und KLIA2 in Kuala Lumpur haben Angehörige bestimmter Staaten (darunter Deutschland) die Möglichkeit, sich vorher für die Nutzung des „E-Gate/[Autogate"](https://imigresen-online.imi.gov.my/mdac/img/klia1klia2.jpeg) zu registrieren und so ggfs. längere Wartezeiten bei der Passkontrolle zu vermeiden. Nach Registrierung ist bei erster Einreise eine Verifizierung am regulären Passschalter erforderlich. Das „Autogate“ kann erst nach Registrierung bei der Ausreise und weiteren Ein-/Ausreisen genutzt werden.
+Seit Dezember 2023 ist die elektronische Anmeldung über die [Malaysia Digital Arrival Card (MDAC)](https://imigresen-online.imi.gov.my/mdac/main) innerhalb von drei Tagen vor Einreise erforderlich. Bei geplanter Einreise über die Flughäfen KLIA1 und KLIA2 in Kuala Lumpur haben Angehörige bestimmter Staaten (darunter Deutschland) die Möglichkeit, sich vorher für die Nutzung des „E-Gate/[Autogate](https://imigresen-online.imi.gov.my/mdac/img/klia1klia2.jpeg)“ zu registrieren und so ggfs. längere Wartezeiten bei der Passkontrolle zu vermeiden. Nach Registrierung ist die Nutzung des Autogate ab der ersten Einreise möglich.
 
-Bei der Passkontrolle muss auch die Bordkarte vorgelegt werden. Außerdem können bei Einreise von der malaysischen Immigrationsbehörde die Vorlage des Rück- oder Weiterreisetickets und ein Nachweis der gebuchten Unterkunft verlangt werden. Reisende sollten unbedingt darauf achten, einen Einreisestempel im Pass zu erhalten, da andernfalls Probleme wegen unklarer Aufenthaltsdauer bei Ausreise auftreten können.
+Bei der Passkontrolle muss auch die Bordkarte vorgelegt werden. Außerdem können bei Einreise von der malaysischen Immigrationsbehörde die Vorlage des Rück- oder Weiterreisetickets und ein Nachweis der gebuchten Unterkunft verlangt werden. Reisende sollten unbedingt darauf achten, einen Einreisestempel in den Pass zu erhalten, da andernfalls Probleme wegen unklarer Aufenthaltsdauer bei Ausreise auftreten können.
 
 Bei der Einreise in die ostmalaysischen Bundesstaaten Sabah und Sarawak auf Borneo wird ein separates Visum erteilt, welches in der Regel 90 Tage gültig ist. Es ist auch hier unbedingt darauf zu achten, dass tatsächlich ein entsprechender Stempel im Pass angebracht wird. Das Fehlen dieses Stempels kann zu Problemen bei Polizeikontrollen führen.
 
@@ -163,9 +165,9 @@ Im Rahmen der Datenerfassung Einreisender werden generell Fingerabdrücke auch v
 
 ### Aufenthaltsgenehmigung bei Arbeitsaufnahme
 
-Deutsche, die ein Arbeitsverhältnis eingehen wollen, haben sich den lokalen Vorschriften zu unterwerfen. Die nötige Arbeits- und Aufenthaltserlaubnis ist nur schwer erhältlich und muss vor der Einreise bei der Malaysischen Botschaft im Wohnortland beantragt werden.
+Deutsche, die ein Arbeitsverhältnis eingehen wollen, haben sich den lokalen Vorschriften zu unterwerfen. Die nötige Arbeits- und Aufenthaltserlaubnis ist nur schwer erhältlich und muss vor der Einreise bei der malaysischen Botschaft im Wohnortland beantragt werden.
 
-Seit dem Ende der Straffreiheitsfrist am 28. Februar 2005 gehen die malaysischen Einwanderungsbehörden energisch gegen Personen vor, die illegal in Malaysia arbeiten bzw. deren Aufenthaltsstatus ungeklärt ist. Auf gültige Aufenthalts- und Arbeitspapiere ist daher besonders zu achten. Bei Unklarheiten sollte vorab die örtlich zuständige „Immigration“ kontaktiert werden.
+Die malaysischen Einwanderungsbehörden gehen energisch gegen Personen vor, die illegal in Malaysia arbeiten bzw. deren Aufenthaltsstatus ungeklärt ist. Auf gültige Aufenthalts- und Arbeitspapiere ist daher besonders zu achten. Bei Unklarheiten sollte vorab die örtlich zuständige „Immigration“ kontaktiert werden.
 
 ### Minderjährige
 
@@ -177,7 +179,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 Reisende, die Beträge über 10.000 USD ein- oder ausführen wollen, müssen dies mit einem hierfür vorgesehenen und am Flughafen erhältlichen Formblatt anmelden. Nähere Informationen erteilt das [Royal Malaysian Customs Department](http://www.customs.gov.my/front.html).
 
-Der Transport lebendiger oder ausgestopfter Tierarten sowie Muschelgehäusen oder auch Bekleidung und Gegenständen, die aus den Häuten geschützter Tierarten hergestellt und in Malaysia käuflich sind, fallen unter das [Washingtoner Artenschutzabkommen](https://www.bfn.de/thema/cites). Sowohl der Export aus Malaysia als auch der Import nach Deutschland sind unter hohe Strafen gestellt.
+Der Transport lebendiger oder ausgestopfter Tiere sowie Muschelgehäusen oder auch Bekleidung und Gegenständen, die aus den Häuten geschützter Tierarten hergestellt und in Malaysia käuflich sind, fallen unter das [Washingtoner Artenschutzabkommen](https://www.bfn.de/thema/cites). Sowohl der Export aus Malaysia als auch der Import nach Deutschland sind unter hohe Strafen gestellt.
 
 ### Heimtiere
 

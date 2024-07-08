@@ -1,5 +1,9 @@
 # Kambodscha: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Seit dem 1. Juli 2024 ist das elektronische Einreiseverfahren für Kambodscha in Kraft. Einreisende müssen sich sieben Tage vor geplanter Einreise über die Webseite/[App „Cambodia e-arrival“](https://www.arrival.gov.kh) registrieren.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -10,7 +14,7 @@
 
 Gelegentlich kommt es zu kleineren Demonstrationen in Kambodscha.
 
-Der Konflikt zwischen Kambodscha und Thailand hinsichtlich des Grenzverlaufs um das den Tempel Preah Vihear umgebende Gebiet ist beigelegt; die Beziehungen zwischen beiden Ländern haben sich verbessert. Eine erneute Verschärfung der Sicherheitslage in Preah Vihear ist jedoch jederzeit möglich. Der Grenzübergang Suay Chrom in der Preah Vihear Provinz ist zudem nur für thailändische und kambodschanische Staatsangehörige passierbar.
+Der Konflikt zwischen Kambodscha und Thailand hinsichtlich des Grenzverlaufs um das den Tempel Preah Vihear umgebende Gebiet ist beigelegt; die Beziehungen zwischen beiden Ländern haben sich verbessert. Eine erneute Verschärfung der Sicherheitslage in Preah Vihear ist jedoch jederzeit möglich. Der Grenzübergang Suay Chrom in der Provinz Preah Vihear ist zudem nur für thailändische und kambodschanische Staatsangehörige passierbar.
 
 In einigen Landesteilen außerhalb der Ballungszentren, insbesondere in Grenznähe zu Thailand und Vietnam, besteht weiterhin Minengefahr. Die Haupttouristengebiete sind von Minen geräumt.
 
@@ -44,7 +48,7 @@ Auch Online-Beziehungs- und Freundschaftsbetrügereien kommen vor. Betroffene wu
 * Lassen Sie insbesondere als Alleinreisende besondere Vorsicht walten.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie nachts möglichst nicht allein unterwegs und organisieren Sie Ihre Rückfahrt zur Unterkunft im Vorfeld.
-* Führen Sie keine Hand- und Schultertaschen im Tuktuk und dem Motorrad mit, halten Sie Taschen auf der von der Straße abgewandten Seite.
+* Führen Sie keine Hand- und Schultertaschen im Tuktuk und auf dem Motorrad mit; halten Sie Taschen auf der zur Straße abgewandten Seite.
 * Nehmen Sie für Fahrten zum Flughafen besser geschlossene Transportmittel.
 * Verriegeln Sie Fahrzeugtüren.
 * Leisten Sie bei Überfällen keinen Widerstand.
@@ -53,12 +57,12 @@ Auch Online-Beziehungs- und Freundschaftsbetrügereien kommen vor. Betroffene wu
 * Hinterlegen Sie Ihren Reisepass nicht als Pfand bei der Anmietung von Verkehrsmitteln.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
-* Befördern Sie niemals Pakete oder Gepäck für Andere.
+* Befördern Sie niemals Pakete oder Gepäck für andere.
 
 ## Natur und Klima
 
 Es herrscht feuchtheißes Monsunklima.  
-In der Regenzeit von Mai bis November können monsunartige Regenfälle weitreichende Überschwemmungen und Erdrutsche insbesondere entlang des Mekong-Flusses und in gebirgigen Regionen verursachen. Auch in Phnom Penh kommt es zu örtlich begrenzten Überflutungen von Straßen.
+In der Regenzeit von Mai bis November können monsunartige Regenfälle weitreichende Überschwemmungen und Erdrutsche insbesondere entlang des Mekong und in gebirgigen Regionen verursachen. Auch in Phnom Penh kommt es zu örtlich begrenzten Überflutungen von Straßen.
 
 * Verfolgen Sie Wetterberichte in den lokalen oder internationalen Medien.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -73,9 +77,9 @@ Die Infrastruktur ist unzureichend ausgebaut. Busse, Eisenbahn und Boote entspre
 
 Auch bei Flugreisen innerhalb des Landes ist Vorsicht geboten. Kambodschanische Fluggesellschaften verfügen nicht über die hohen Sicherheitsstandards, wie sie beispielsweise in Deutschland üblich sind.
 
-Straßen sind mit wenigen Ausnahmen in schlechtem Zustand. Von Fahrten mit dem Fahrrad oder mit dem Motorrad wird aus Gründen der Verkehrssicherheit abgeraten; in einigen Landesteilen ist Ausländern das Fahren von Motorrädern untersagt. Es besteht die Pflicht zum Tragen eines Helms. Fahrer von Motorradtaxis (sog. Motordups) verfügen in der Regel nicht über Helme für ihre Fahrgäste.
+Straßen sind mit wenigen Ausnahmen in schlechtem Zustand. Von Fahrten mit dem Fahrrad oder mit dem Motorrad wird aus Gründen der Verkehrssicherheit abgeraten; in einigen Landesteilen ist Ausländern das Fahren von Motorrädern untersagt. Es besteht die Pflicht zum Tragen eines Helms. Fahrer von Motorradtaxis (sog. Motodups) verfügen in der Regel nicht über Helme für ihre Fahrgäste.
 
-Internet und Mobilfunknetz decken nicht alle Landesteile flächendeckend ab, insbesondere nicht abgelegene Gegenden und kleinere Inseln.
+Internet und Mobilfunknetz decken nicht alle Landesteile flächendeckend ab, insbesondere abgelegene Gegenden und kleinere Inseln.
 
 * Planen Sie alle Reisen auf dem Landweg nach Möglichkeit so, dass das Ziel mit Sicherheit vor Einbruch der Dunkelheit erreicht werden kann.
 * Bei Fahrten auf Motorrädern und –rollen tragen Sie möglichst immer einen geeigneten Helm.
@@ -120,7 +124,7 @@ Kambodscha ist eine konstitutionelle Monarchie. Das Königshaus genießt besonde
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Kambodschanische Riel (KHR). Zahlungen werden überwiegend in bar in den Währungen USD und KHR abgewickelt. 100-USD-Banknoten älterer Serien, die nicht über das in der Mitte des Scheins vertikal eingewobene blaue Band (Sicherheitsfaden) verfügen, werden praktisch nicht mehr akzeptiert. Vereinzelt werden auch im Land erhaltene ältere 5- und 10-USD Banknoten, die vor 2000 gedruckt worden sind, nicht als Zahlungsmittel angenommen. Wechselgeld wird sowohl in USD als auch in KHR ausgegeben. Das Wechselgeld sollte genau überprüft werden. Beschädigte USD-Noten (Risse, Knicke, farbliche Kennzeichnungen etc.) sollten als Wechselgeld abgelehnt werden, da beschädigte USD-Scheine in Kambodscha grundsätzlich nicht akzeptiert werden.
+Landeswährung ist der Kambodschanische Riel (KHR). Zahlungen werden überwiegend in bar in den Währungen USD und KHR abgewickelt. 100-USD-Banknoten älterer Serien, die nicht über das in der Mitte des Scheins vertikal eingewobene blaue Band (Sicherheitsfaden) verfügen, werden praktisch nicht mehr akzeptiert. Vereinzelt werden auch im Land erhaltene ältere 5- und 10-USD-Banknoten, die vor 2000 gedruckt worden sind, nicht als Zahlungsmittel angenommen. Wechselgeld wird sowohl in USD als auch in KHR ausgegeben. Das Wechselgeld sollte genau überprüft werden. Beschädigte USD-Noten (Risse, Knicke, farbliche Kennzeichnungen etc.) sollten als Wechselgeld abgelehnt werden, da beschädigte USD-Scheine in Kambodscha grundsätzlich nicht akzeptiert werden.
 
 Zudem scheinen vermehrt unechte USD-Noten im Umlauf zu sein, bspw. das sogenannte „Ahnengeld“. Dabei handelt es sich um täuschend echt nachgemachte USD-Scheine, die für die Ahnen im Jenseits verbrannt werden. Diese sind an einer kleinen „copy“-Aufschrift am Rand zu erkennen. Kreditkarten werden in aller Regel nur in den größeren Hotels und Restaurants angenommen. Die Anzahl der Geldautomaten nimmt ständig zu. Bargeldabhebungen sind in der Regel nur mit Kreditkarten möglich, nur wenige Geldautomaten akzeptieren Debitkarten (Girocard, mit Maestro).
 
@@ -163,7 +167,7 @@ Bei der auf einem vor der Einreise eingeholten Visum angegebenen Gültigkeitsdau
 
 #### *Online-Visum (E-Visa)*
 
-Das Visum der Kategorie T (Tourismus) sowie der Kategorie E (Geschäftsreise) kann online als [E-Visa](https://www.evisa.gov.kh/) beantragt werden. Es ist jedoch lediglich an einer begrenzten Anzahl von Grenzübergängen nutzbar. Der Antrag sollte mindestens zwei Wochen vor dem geplanten Reiseantritt gestellt werden, die Zahlung der Visumgebühr ist mit Debit- (Girocard) oder Kreditkarte, Paypal oder Überweisung möglich.
+Das Visum der Kategorie T (Tourismus) sowie der Kategorie E (Geschäftsreise) kann online als [E-Visum](https://www.evisa.gov.kh/) beantragt werden. Es ist jedoch lediglich an einer begrenzten Anzahl von Grenzübergängen nutzbar. Der Antrag sollte mindestens zwei Wochen vor dem geplanten Reiseantritt gestellt werden, die Zahlung der Visumsgebühr ist mit Debit- (Girocard) oder Kreditkarte, Paypal oder Überweisung möglich.
 
 #### *Visum bei Einreise (Visa on arrival)*
 
@@ -172,7 +176,7 @@ Bei Einreise ist ein Ein-/Ausreiseformular zu nutzen, das gleichzeitig als Antra
 
 #### *Verlängerung des Visums oder Verlust des deutschen Passes mit kambodschanischem Visum*
 
-Vor Ablauf der 30-tägigen Frist kann ein Visum der Kategorien T und E bei der gegenüber dem Flughafen Phnom Penh gelegenen Einwanderungsbehörde des Innenministeriums verlängert werden. Visa der Kategorie T werden einmalig um weitere 30 Tage verlängert (bei einmaliger Ein- und Ausreise). Visa der Kategorie E können um bis zu 12 Monaten verlängert werden, wobei nach der Verlängerung eine mehrfache Ein- und Ausreise möglich ist. Bei Beantragung einer Verlängerung ist der Aufenthaltszweck anzugeben und zu belegen. Die Umschreibung eines Visums der Kategorie E in ein Visum der Kategorien B oder C (Daueraufenthalt) ist vor Ort nicht bzw. nur in Ausnahmefällen möglich.
+Vor Ablauf der 30-tägigen Frist kann ein Visum der Kategorien T und E bei der gegenüber dem Flughafen Phnom Penh gelegenen Einwanderungsbehörde des Innenministeriums verlängert werden. Visa der Kategorie T werden einmalig um weitere 30 Tage verlängert (bei einmaliger Ein- und Ausreise). Visa der Kategorie E können um bis zu 12 Monate verlängert werden, wobei nach der Verlängerung eine mehrfache Ein- und Ausreise möglich ist. Bei Beantragung einer Verlängerung ist der Aufenthaltszweck anzugeben und zu belegen. Die Umschreibung eines Visums der Kategorie E in ein Visum der Kategorien B oder C (Daueraufenthalt) ist vor Ort nicht bzw. nur in Ausnahmefällen möglich.
 
 Bei Überziehung des zulässigen Aufenthalts wird eine „Overstay"-Gebühr in Höhe von 10 USD pro Tag fällig, zusätzlich müssen Touristen ein kostenpflichtiges Exit-Visum beantragen, welches maximal für sieben Tage ausgestellt wird.
 
