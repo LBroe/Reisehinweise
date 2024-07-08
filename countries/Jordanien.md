@@ -8,9 +8,7 @@
 
 ### Sicherheitslage Jordanien
 
-Derzeit kommt es in Jordanien immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Demonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, im Westjordanland oder auch in Libanon, ist auch in näherer Zukunft zu rechnen, dies vor allem freitags nach dem Mittagsgebet. Dabei kommt es vermehrt zu antiwestlicher Stimmung.
-
-In Jordanien besteht insbesondere aufgrund der Lage in Syrien und in Irak landesweit die Gefahr von Terroranschlägen, auch an Orten, die von Ausländern besucht werden. Die jordanischen Behörden haben daher ihre Sicherheitsvorkehrungen erhöht.
+Derzeit kommt es in Jordanien immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Demonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, im Westjordanland oder auch in Libanon, ist auch in näherer Zukunft zu rechnen, dies vor allem freitags nach dem Mittagsgebet. Dabei kommt es vermehrt zu antiwestlicher Stimmung.  
 
 Aufgrund der Lage in Gaza und der angespannten Situation in Israel und den Palästinensischen Gebieten kann es immer wieder zu kurzfristigen Änderungen der Öffnungszeiten sowie auch der zeitweisen Schließung der Grenzübergänge zwischen Israel und Jordanien kommen, insbesondere auch am Grenzübergang King-Hussein-Brücke (Allenby-Brücke) bei Ausreise aus dem Westjordanland, siehe *Einreise und Zoll – Einreise von Israel.*
 
