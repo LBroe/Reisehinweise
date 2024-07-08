@@ -12,23 +12,23 @@ Die italienischen Sicherheitsbehörden haben in allgemeiner Form auf die Gefahr 
 ### Kriminalität
 
 Kleinkriminalität wie Taschendiebstähle kommen vor allem in Touristenzentren und an Stränden vor.  
-Mit Trickbetrug werden Touristen durch Hinweise auf eine angebliche Reifenpanne, Anrempeln, auch z.B. mit Beschmutzen der Kleidung durch Eis, Pizza u.Ä. abgelenkt und dann durch Komplizen beraubt. Grundsätzlich ist in allen größeren italienischen Städten an den jeweiligen zentralen touristischen Orten wie auch Bahnhöfen und belebten Metrostationen besondere Achtsamkeit geboten. Besonders gilt dies auf den Bahnstrecken vom Flughafen Rom-Fiumicino in die Innenstadt, in den Bahnhöfen selbst und in Bussen, hier insbesondere der Linien 40, 62 und 64, außerdem in Mailand vor allem auf dem Domplatz und in der Fußgängerzone, in Venedig an den Haltestellen und Fahrscheinschaltern für das Linienboot („Vaporetto“) und in Neapel auf den Buslinien R2, 152 und 202, die das Zentrum mit dem Bahnhof verbinden.  
+Mit Trickbetrug werden Touristen durch Hinweise auf eine angebliche Reifenpanne oder abgefahrene Rück- bzw. Seitenspiegel sowie Anrempeln, auch z.B. mit Beschmutzen der Kleidung durch Eis, Pizza u.ä., abgelenkt und dann durch Komplizen beraubt. Grundsätzlich ist in allen größeren italienischen Städten an den jeweiligen zentralen touristischen Orten wie auch Bahnhöfen und belebten Metrostationen besondere Achtsamkeit geboten. Besonders gilt dies auf den Bahnstrecken vom Flughafen Rom-Fiumicino in die Innenstadt, in den Bahnhöfen selbst und in Bussen, hier insbesondere den Linien 40, 62 und 64, außerdem in Mailand vor allem auf dem Domplatz und in der Fußgängerzone, in Venedig an den Haltestellen und Fahrscheinschaltern für das Linienboot („Vaporetto“) und in Neapel auf den Buslinien R2, 152 und 202, die das Zentrum mit dem Bahnhof verbinden.  
 
 Autoeinbrüche kommen häufig vor. Es werden immer wieder Fahrzeuge und Wohnmobile mit komplettem Inhalt gestohlen. Besondere Vorsicht ist beim Abstellen von Autos in Strandnähe geboten, z.B. in Ostia und Fregene bei Rom. Gleiches gilt auch für unbedachte Parkhäuser und auf unbewachten Stellplätzen.
 
-In größeren Städten, wie z.B. Neapel, Rom, Mailand und Turin, werden Taschen oder Fotoapparate sowie wertvolle Uhren oder Schmuck von vorbeifahrenden motorisierten Zweirädern entrissen.
+In größeren Städten, wie z.B. Neapel, Rom, Mailand und Turin, werden Taschen oder Fotoapparate sowie wertvolle Uhren oder Schmuck von vorbeifahrenden motorisierten Zweirädern aus entrissen.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Seien Sie in größeren Menschenmengen wie an Flug- und Fährhäfen, Bahnhöfen, in Zügen, im Bus, in Fußgängerzonen und an Stränden und an Touristenattraktionen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Tragen Sie Taschen und Fotoapparate nicht zur Straßenseite.
+* Seien Sie in größeren Menschenmengen wie an Flug- und Fährhäfen, Bahnhöfen, in Zügen, im Bus, in Fußgängerzonen und an Stränden und Touristenattraktionen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Tragen Sie Taschen und Fotoapparate nicht zur Straßenseite hin.
 * Verzichten Sie insbesondere in größeren und stark frequentierten Städten auf das Tragen wertvoller Uhren und Schmuck.
 * Lassen Sie keine Wertsachen, Ausweise und anderen Gegenstände im Auto zurück, sondern Handschuhfach und ggf. auch eine Kofferraumabdeckung geöffnet, um potentiellen Einbrechern zu zeigen, dass ein Einbruch nicht lohnt.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
-Der italienische Zivilschutz stellt [detaillierte Informationen](https://rischi.protezionecivile.gov.it/en/) über verschiedene Naturrisiken, wie z.B. Erdbeben oder Vulkanausbrüche und damit verbundene Notfallpläne, in englischer Sprache zur Verfügung.
+Der italienische Zivilschutz stellt [detaillierte Informationen](https://rischi.protezionecivile.gov.it/en/) über verschiedene Naturrisiken, wie z.B. Erdbeben oder Vulkanausbrüche und damit verbundene Notfallpläne, in englischer Sprache zur Verfügung.
 
 #### *Dürre-Notstand*
 
@@ -38,16 +38,17 @@ In den Regionen Emilia Romagna, Friaul-Julisch Venetien, Lombardei, Piemont, Ven
 
 Italien liegt in einer seismisch sehr aktiven Zone, weshalb es häufiger zu zum Teil schweren Erdbeben kommt.
 
-#### *Vulkane*
+#### *Vulkanausbrüche*
 
 Mehrere Vulkane in Italien sind immer wieder aktiv.  
 Die phlegräischen Felder in Kampanien werden als Supervulkan eingestuft und zeigen immer wieder Veränderungen, die in der Vergangenheit auch zu Evakuierungsmaßnahmen führten. Der Vesuv in unmittelbarer Nähe bei Neapel brach zuletzt 1944 aus und steht unter Beobachtung.  
-Der Ätna auf Sizilien ist der aktivste Vulkan Europas und zeigt jüngst, wie auch der Vulkan Stromboli auf der gleichnamigen Insel, leichtere Eruptionen, die teilweise Unterbrechungen im Flugverkehr nach sich ziehen. Weitere Informationen bietet die [Webseite](https://www.aeroporto.catania.it/en/) des Flughafens Catania.
+Der Ätna auf Sizilien ist der aktivste Vulkan Europas und zeigt jüngst, wie auch der Vulkan Stromboli auf der gleichnamigen Insel, leichtere Eruptionen, die teilweise Unterbrechungen im Flugverkehr nach sich ziehen.
 
+* Meldungen zu aktuellen Naturereignissen finden Sie auf der [Webseite](https://www.protezionecivile.gov.it/en/) des italienischen Zivilschutzes (*Protezione Civile*).
 * Bitte informieren Sie sich bei Ihrer Fluggesellschaft zu möglichen Auswirkungen auf bereits gebuchte Flüge.
 * Bitte informieren Sie sich über die [Webseite](https://www.aeroporto.catania.it/en/) des Flughafens Catania.
 
-#### *Überschwemmungen, Lawinengefahr, Stürme*
+#### *Überschwemmungen, Lawinen und Stürme*
 
 Im Norden herrscht mitteleuropäisches, im Zentrum und Süden mediterranes Klima.
 
@@ -56,8 +57,7 @@ Ganzjährig, insbesondere in den Sommermonaten, kommt es in Norditalien aufgrun
 In den Wintermonaten besteht in den Bergen Norditaliens häufig die Gefahr von Lawinen und Erdrutschen.
 
 Bei Tauwetter besteht insbesondere in Norditalien die Gefahr von Überschwemmungen.  
-Venedig ist zur Hochwasserzeit (Acqua alta) regelmäßig von Überschwemmungen betroffen, sodass einige Plätze und Gassen unpassierbar werden.  
-Auch in Rom kann es nach Starkregen zu Überschwemmungen kommen.
+Venedig ist zur Hochwasserzeit (Acqua alta) regelmäßig von Überschwemmungen betroffen, sodass einige Plätze und Gassen unpassierbar werden. Auch in Rom kann es nach Starkregen zu Überschwemmungen kommen.
 
 Im Mittelmeer kann es insbesondere von August bis November zu vereinzelten schweren Herbststürmen bis hin zu sogenannten "Medicanes" kommen. In der Folge sind Überschwemmungen und Erdrutsche sowie erhebliche Verkehrsbeeinträchtigungen möglich.
 
@@ -66,7 +66,7 @@ Im Mittelmeer kann es insbesondere von August bis November zu vereinzelten schwe
 Vor allem in den Sommermonaten kommt es in Italien aufgrund der herrschenden klimatischen Bedingungen immer wieder zu Busch- und Waldbränden und in der Folge zu Verkehrs und Luftqualitätsbeeinträchtigungen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 * Informieren Sie sich zu aktuellen Erdbeben und vulkanischer Aktivität beim [Dipartimento della Protezione Civile.](http://www.protezionecivile.gov.it/en)
 * Informieren Sie sich im Winter für die Alpen über die Lawinengefahr beim [Nationalen Dienst für Schnee- und Lawinenvorhersage](https://www.sian.it/infoMeteo/jsp/mwablx815T.jsp) bzw. für Triol, Südtirol und Trentino im [Euregio-Lawinen.report](http://www.europaregion.info/lawinenreport) und beachten Sie Absperrungen. Weitere Informationen bietet z.B. auch der [Automobile Club d'Italia ACI.](http://www.aci.it/)
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
@@ -78,11 +78,11 @@ Vor allem in den Sommermonaten kommt es in Italien aufgrund der herrschenden kli
 In der norditalienischen Provinz Trient/Trentino wurde Anfang April 2023 ein Jogger von einem Bären getötet. In dieser Provinz lebt eine größere Bärenpopulation; in der Nachbarprovinz Südtirol wurden bislang nur vereinzelte Bärenstreifzüge festgestellt.
 
 * Beachten Sie stets bei Wanderungen in bewaldeten, insbesondere abgelegenen Gebieten entsprechende Hinweisschilder und Warnungen und leisten Sie den Anweisungen der lokalen Behörden Folge.
-* Nützliche Hinweise und Verhaltensregeln im Fall eines Kontakts mit einem Bären oder bei Sichtung eines Bären gibt es auf der Webseite der [Südtiroler Landesverwaltung](https://www.provinz.bz.it/land-forstwirtschaft/fauna-jagd-fischerei/fauna/braunbaer-suedtirol/wenn-man-einem-baeren-begegnet.asp) und auf dieser [Webseite](https://www.trentino.com/de/freizeit-aktiv/berge-wandern/nuetzliche-informationen/verhaltensregeln-bei-baerenkontakt/).
+* Nützliche Hinweise und Verhaltensregeln im Fall einer Begegnung oder bei Sichtung eines Bären gibt es auf der Webseite der [Südtiroler Landesverwaltung](https://www.provinz.bz.it/land-forstwirtschaft/fauna-jagd-fischerei/fauna/braunbaer-suedtirol/wenn-man-einem-baeren-begegnet.asp) und auf dieser [Webseite](https://www.trentino.com/de/freizeit-aktiv/berge-wandern/nuetzliche-informationen/verhaltensregeln-bei-baerenkontakt/).
 
 ### Grenzkontrollen
 
-Italien wendet das Schengen-Abkommen an, Grenzkontrollen sollen nur noch ausnahmsweise durchgeführt werden. Aus Sicherheitsgründen werden Reisende auf dem Luftweg bei Ein- und Ausreise jedoch verstärkt kontrolliert, Flugreisen nach Deutschland sind meist nur mit einem Reisepass/Personalausweis bzw. einem von den deutschen konsularischen Vertretungen in Italien ausgestellten Passersatzdokument möglich.
+Italien wendet das Schengener Abkommen an, Grenzkontrollen sollen nur noch ausnahmsweise durchgeführt werden. Aus Sicherheitsgründen werden Reisende auf dem Luftweg bei Ein- und Ausreise jedoch verstärkt kontrolliert, Flugreisen nach Deutschland sind meist nur mit einem Reisepass/Personalausweis bzw. einem von den deutschen konsularischen Vertretungen in Italien ausgestellten Passersatzdokument möglich.
 
 * Führen Sie stets den Personalausweis oder Reisepass mit, auch für Kinder.
 
@@ -96,11 +96,11 @@ Die meisten italienischen Autobahnen und viele Tunnel sind mautpflichtig. Mailan
 
 Der italienische Straßenverkehr ist sehr lebhaft und dicht. Die Regeln der Straßenverkehrsordnung werden nicht immer eingehalten. Es ist daher auch an grünen Ampeln oder Zebrastreifen besondere Vorsicht geboten.
 
-In vielen Städten gibt es Fahrverbote bzw. Fahrteinschränkungen und Tempolimits zur Reduzierung der Luftverschmutzung oder auch verkehrsberuhigte Zonen, sogenannten ZTL (zone a traffico limitato). Besonders gekennzeichnete Bus- und Taxispuren dürfen von privaten PKW nicht genutzt werden.
+In vielen Städten gibt es Fahrverbote bzw. Fahrteinschränkungen und Tempolimits zur Reduzierung der Luftverschmutzung oder auch verkehrsberuhigte Zonen, sogenannten ZTL (zone a traffico limitato). Besonders gekennzeichnete Bus- und Taxispuren dürfen von privaten Pkw nicht genutzt werden.
 
 Die Promillegrenze beträgt 0,5; für Fahrer mit weniger als drei Jahren Fahrpraxis bzw. unter 21 Jahren gilt absolutes Alkoholverbot.  
 Auf Autobahnen und außerhalb geschlossener Ortschaften ist das Mitführen von Warnwesten in Signalfarben sowie auch tagsüber die Einschaltung des Abblendlichts gesetzlich vorgeschrieben.  
-In den Kreis einfahrende Fahrzeuge haben grundsätzlich Vorfahrt, wobei dies in der Praxis nicht immer beachtet wird. In Ermangelung von Hinweisschildern, die die Vorfahrt eindeutig regeln, gilt wie an Kreuzungen die Rechts-vor-Links Regel.
+In den Kreis einfahrende Fahrzeuge haben grundsätzlich Vorfahrt, wobei dies in der Praxis nicht immer beachtet wird. In Ermangelung von Hinweisschildern, die die Vorfahrt eindeutig regeln, gilt wie an Kreuzungen die Rechts-vor-links Regel.
 
 Farbliche Markierungen weisen Parkbeschränkungen aus, nur weiße Linien erlauben kostenloses Parken.  
 Auf vielen Straßen gilt im Winter die Pflicht, Winterreifen (M+S-Kennung) zu benutzen, jedoch gibt es keine einheitliche Regelung.
@@ -118,11 +118,11 @@ Gerechtfertigte Bußgeldbescheide können vor Ort bezahlt werden, z.B. auf der P
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird akzeptiert.
 
 ### LGBTIQ
 
-Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
+Es gibt keine Hinweise auf besondere Schwierigkeiten; die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
 
@@ -132,7 +132,7 @@ In Italien führen in jüngster Zeit verschiedenste Verstöße gegen die öffent
 
 Beihilfe zu illegaler Einreise ist in Italien mit Haftstrafen sowie Bußgeld belegt. Bei Mitnahme von Anhaltern wird daher zu besonderer Vorsicht geraten.
 
-Das italienische Waffenrecht ist streng und aufgrund zahlreicher Gesetze und anderweitiger Regelungen komplex. Grundsätzlich ist das Mitführen von Schusswaffen, Hieb- und Stichwaffen, Messern (auch kleine bzw. Taschenmesser), Schlagstöcken aller Art, Taser, Pfefferspray usw. verboten bzw. nur mit behördlicher Erlaubnis (z. B. Europäischer Feuerwaffenpass) oder unter strengen Auflagen möglich. Auch Gegenstände, die keine Waffen sind, aber als solche verwendet werden können („armi improprie“, z. B. Schraubenzieher), können unter Umständen mit Auflagen versehen werden (z. B. adäquate/verschlossene Aufbewahrung). Verstöße können strafrechtlich geahndet werden.  
+Das italienische Waffenrecht ist streng und aufgrund zahlreicher Gesetze und anderweitiger Regelungen komplex. Grundsätzlich ist das Mitführen von Schusswaffen, Hieb- und Stichwaffen, Messern (auch kleine bzw. Taschenmesser), Schlagstöcken aller Art, Taser, Pfefferspray, usw. verboten bzw. nur mit behördlicher Erlaubnis (z. B. Europäischer Feuerwaffenpass) oder unter strengen Auflagen möglich. Auch Gegenstände, die keine Waffen sind, aber als solche verwendet werden können („armi improprie“, z. B. Schraubenzieher), können unter Umständen mit Auflagen versehen werden (z. B. adäquate/verschlossene Aufbewahrung). Verstöße können strafrechtlich geahndet werden.  
 Weitergehende Informationen können bei den [Carabinieri](http://www.carabinieri.it/) oder bei der [Polizia di Stato](http://www.poliziadistato.it/) angefordert werden.
 
 In Rom verhängt die Stadtverwaltung zum Schutz der Denkmäler teilweise drakonische Strafen, die z.B. schon für einen Griff ins Wasser des Trevi-Brunnens oder für Picknick auf der Spanischen Treppe ausgesprochen werden können. Nähere Informationen bietet [TurismoRoma.](http://www.turismoroma.it/news/tutela-fontane-di-interesse-storico-artistico-ordinanza-della-sindaca-divieti-bivacco-e-consumo?lang=de)
@@ -146,16 +146,15 @@ In mehreren Städten, darunter vor allem süditalienische Urlaubsorte wie z.B. S
 
 #### *Versicherungsnachweispflicht in italienischen Skigebieten*
 
-Nutzer italienischer Skipisten müssen in Besitz einer gültigen Haftpflichtversicherung für Schäden gegenüber Dritten sein und diese auch nachweisen können. Die gängigsten Versicherungen dieser Art decken den Bereich des Skifahrens ab. Dennoch sollte dies im Vorhinein mit dem jeweiligen Versicherungsgeber abgesprochen werden. Sollte ein entsprechender Versicherungsschutz nicht bestehen, kann bei Kauf des Skipasses eine zusätzliche Tagespolice abgeschlossen werden. Bei fehlendem Versicherungsschutz wird ein Bußgeld bis zu 150 EUR fällig. Zusätzlich droht der Entzug des Skipasses.
+Nutzer italienischer Skipisten müssen im Besitz einer gültigen Haftpflichtversicherung für Schäden gegenüber Dritten sein und diese auch nachweisen können. Die gängigsten Versicherungen dieser Art decken den Bereich des Skifahrens ab. Dennoch sollte dies im Vorhinein mit dem jeweiligen Versicherungsgeber abgesprochen werden. Sollte ein entsprechender Versicherungsschutz nicht bestehen, kann bei Kauf des Skipasses eine zusätzliche Tagespolice abgeschlossen werden. Bei fehlendem Versicherungsschutz wird ein Bußgeld bis zu 150 EUR fällig. Zusätzlich droht der Entzug des Skipasses.
 
 ### Geld/Kreditkarten
 
-Die Obergrenze für Barzahlungen in Italien wurde 2022 auf einen Höchstbetrag von 1.000 EUR festgelegt. Auch Touristen sind davon betroffen, wenn diese z. B. gebuchte Unterkünfte oder Mietwagenrechnungen und Ähnliches begleichen wollen. Rechnungen, die über diesen Betrag hinausgehen, können nur mit Kreditkarte, Bankkarte oder per Überweisung beglichen werden. Nähere Informationen erteilt die [deutsche Botschaft in Rom](http://www.rom.diplo.de/Vertretung/rom/de/04/Konsularischer__Service/Hilfe__durch__bo__seite.html).
+Die Obergrenze für Barzahlungen in Italien wurde 2022 auf einen Höchstbetrag von 1.000 EUR festgelegt. Auch Touristen sind davon betroffen, wenn diese z. B. gebuchte Unterkünfte oder Mietwagenrechnungen und Ähnliches begleichen wollen. Rechnungen, die über diesen Betrag hinausgehen, können nur mit Kreditkarte, Debitkarte (Girocard) oder per Überweisung beglichen werden. Nähere Informationen erteilt die [deutsche Botschaft in Rom](http://www.rom.diplo.de/Vertretung/rom/de/04/Konsularischer__Service/Hilfe__durch__bo__seite.html).
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -171,7 +170,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Vorläufiger Personalausweis:** Ja, muss gültig sein
 * **Kinderreisepass:** Ja
 
-**Wichtig:** Für Weiterreisen mit der **Fähre** von italienischen Häfen aus benötigt jeder Reisende (auch Kinder egal welchen Alters) ein gültiges Reisedokument und ggf. ein gültiges Visum. Auch beim Check-In **in Hotels** ist für jeden Reisenden ein gültiges Reisedokument vorzulegen.
+**Wichtig:** Für Weiterreisen mit der **Fähre** von italienischen Häfen aus benötigt jeder Reisende (auch Kinder egal welchen Alters) ein gültiges Reisedokument und ggf. ein gültiges Visum. Auch beim Check-in **in Hotels** ist für jeden Reisenden ein gültiges Reisedokument vorzulegen.
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
