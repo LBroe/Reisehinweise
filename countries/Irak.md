@@ -15,7 +15,7 @@ Die Sicherheitslage in Gesamt-Irak bleibt volatil. Die Zahl der terroristischen 
 Besonders gefährlich sind die Provinzen Anbar, Diyala, Kirkuk, Ninewa (Sindschar, Mossul, Grenze zu Syrien), Salah Al-Din sowie der Norden der Provinz Babel.  
 In diesen Provinzen muss weiterhin mit schweren Anschlägen und offenen bewaffneten Auseinandersetzungen zwischen dem IS und irakischen Sicherheitskräften gerechnet werden. In der nördlichen Provinz Ninewa gibt es immer wieder Auseinandersetzungen zwischen Sicherheitskräften und PKK-nahen Kräften, von denen auch Zivilisten betroffen sind. Gleiches gilt für die nördliche Grenze der Region Kurdistan-Irak zu Syrien und der Türkei. Hier ist es zu Angriffen auf türkisches Militär und zu türkischen Luftangriffen auf PKK-Stellungen gekommen. Auch an der Grenze der Region Kurdistan-Irak zu Iran kommt es vereinzelt zu Gefechten.
 
-Grundlage jeder Reise, die in Gebiete mit Reisewarnung durchgeführt werden, sollte ein tragfähiges professionelles Sicherheitskonzept sein. Elemente eines professionellen Sicherheitskonzepts können insbesondere die Verwendung sondergeschützter Fahrzeuge, der Einsatz einer angemessenen Anzahl von Sicherheitskräften sowie die fachliche Beratung durch Sicherheitspersonal nach Voraufklärung und Planung der Fahrtrouten sein.
+Grundlage jeder Reise, die in Gebiete mit Reisewarnung durchgeführt wird, sollte ein tragfähiges professionelles Sicherheitskonzept sein. Elemente eines professionellen Sicherheitskonzepts können insbesondere die Verwendung sondergeschützter Fahrzeuge, der Einsatz einer angemessenen Anzahl von Sicherheitskräften sowie die fachliche Beratung durch Sicherheitspersonal nach Voraufklärung und Planung der Fahrtrouten sein.
 
 * Verfolgen Sie die lokalen und sozialen Medien.
 * Meiden Sie derzeit zentrale Infrastruktur. US-Einrichtungen sind besonders gefährdet.
@@ -24,7 +24,7 @@ Grundlage jeder Reise, die in Gebiete mit Reisewarnung durchgeführt werden, sol
 
 #### *Hauptstadt Bagdad*
 
-Trotz einer Verbesserung der Sicherheitslage in der Hauptstadt Bagdad besteht weiterhin die Gefahr schwerer Anschläge, insbesondere auf irakische Sicherheitsinstitutionen und deren Angehörige, auf Ministerien, Hotels, öffentliche Plätze und religiöse Einrichtungen. Es besteht zudem ein hohes Risiko für Entführungen mit terroristischem oder kriminellem Hintergrund. Die Sicherheitslage ist weiterhin volatil.
+Trotz einer Verbesserung der Sicherheitslage in der Hauptstadt Bagdad besteht weiterhin die Gefahr schwerer Anschläge, insbesondere auf irakische Sicherheitsinstitutionen und deren Angehörige, auf Ministerien, Hotels, öffentliche Plätze und religiöse Einrichtungen. Es besteht zudem ein hohes Risiko an Entführungen mit terroristischem oder kriminellem Hintergrund. Die Sicherheitslage ist weiterhin volatil.
 
 Einzelne Abschnitte der Hauptstadt Bagdad werden von irakischen Sicherheitskräften in besonderem Maße gesichert, dazu zählt u.a. der internationale Flughafen. Anschläge können aber auch dort nicht ausgeschlossen werden. In der Vergangenheit waren die sog. Internationale Zone und unmittelbar angrenzende Bereiche immer wieder Ziel von Mörser- und Raketenbeschuss; diese Gefahr besteht fort.
 
@@ -34,21 +34,21 @@ Im Stadtgebiet, insbesondere um den Tahrir-Platz und die drei Tigris-Brücken Ju
 
 #### *Region Kurdistan-Irak*
 
-In der Region Kurdistan-Irak (Provinzen Dohuk, Erbil und Sulaimaniyah/Halabja) ist die Sicherheitslage angespannt.
+In der Region Kurdistan-Irak RKI (Provinzen Dohuk, Erbil und Sulaimaniyah/Halabja) ist die Sicherheitslage angespannt.
 
 Aufgrund der hoch volatilen Lage in Nahost ist die weitere Entwicklung der Sicherheitslage schwer vorhersehbar.  Es besteht eine anhaltend erhöhte Gefahr von Terroranschlägen (Provinzen Dohuk, Erbil und Sulaimaniyah/Halabja). Sofern Reisen in die Region dennoch unbedingt notwendig sind, erfordern diese eine sorgfältige Prüfung der aktuellen örtlichen Sicherheitslage und entsprechende Sicherheitsmaßnahmen. Zu Art und Umfang solcher Sicherheitsmaßnahmen können in der Regel der örtliche Gastgeber oder einschlägige Behörden und Unternehmen praktische Hinweise geben.
 
-* Vermeiden Sie nicht erforderliche Reisen in die Region Kurdistan-Irak und reisen Sie nur nach Prüfung der Sicherheitslage und mit adäquaten Sicherheitsmaßnahmen.
+* Vermeiden Sie nicht-erforderliche Reisen in die Region Kurdistan-Irak und reisen Sie nur nach Prüfung der Sicherheitslage und mit adäquaten Sicherheitsmaßnahmen.
 * Prüfen Sie alternative Reiseanbieter und -routen für den Fall, dass der Flugverkehr eingeschränkt wird.
 * Beachten Sie auch den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
-Siehe *Aktuelles*
+Siehe *Aktuelles*  
 
-In Bagdad sowie allen südlichen Provinzen, aber auch vereinzelt in der Region Kurdistan-Irak finden regelmäßig Proteste gegen die Regierung statt, bei denen es immer wieder zu Gewalt zwischen Demonstranten und Sicherheitskräften bzw. z.T. bewaffneten Gruppen kommt.
+In Bagdad sowie allen südlichen Provinzen, aber auch vereinzelt in der RKI finden regelmäßig Proteste gegen die Regierung statt, bei denen es immer wieder zu Gewalt zwischen Demonstranten und Sicherheitskräften bzw. z.T. bewaffneten Gruppen kommt.
 
-Im Grenzgebiet zu Syrien besteht die Gefahr, Opfer von anhaltenden Auseinandersetzungen zu werden. Außerdem besteht in diesem Gebiet die Gefahr der Inhaftierung wenn ein illegaler Grenzübertritt und/oder eine Verbindung zu Terrorismus vermutet werden.
+Im Grenzgebiet zu Syrien besteht die Gefahr, Opfer anhaltender Auseinandersetzungen zu werden. Außerdem besteht in diesem Gebiet die Gefahr der Inhaftierung, wenn ein illegaler Grenzübertritt und/oder eine Verbindung zu Terrorismus vermutet werden.
 
 Die deutschen Auslandsvertretungen können derzeit nur in äußerst begrenztem Rahmen konsularische Hilfe leisten. Auch die staatlichen Sicherheitsorgane können im Einzelfall keinen ausreichenden Schutz garantieren oder Hilfe leisten.
 
@@ -104,7 +104,7 @@ In Irak gelten strenge islamische Moralvorstellungen, die auch ihren Niederschla
 
 Die gesellschaftliche Akzeptanz und Toleranz gegenüber LGBTIQ-Personen sind in Irak grundsätzlich gering. Es kommt regelmäßig zu gewalttätigen Übergriffen auf LGBTIQ-Personen.
 
-Am 27. April 2024 beschloss das irakische Parlament die Anpassung des sog. Anti-Prostitutionsgesetzes von 1988, wonach ab Inkrafttreten dieser Gesetzesanpassungen homosexuelle Handlungen in Irak strafbar sind und künftig mit bis zu 15 Jahren Freiheitsentzug bestraft werden können. Die Gesetzesanpassung enthält auch weitere z.T. hohe Strafen im Kontext LGBTIQ.  
+Am 27. April 2024 beschloss das irakische Parlament die Anpassung des sog. Anti-Prostitutionsgesetzes von 1988, wonach ab Inkrafttreten dieser Gesetzesanpassungen homosexuelle Handlungen in Irak strafbar sind und künftig mit bis zu 15 Jahren Freiheitsentzug bestraft werden können. Die Gesetzesanpassung enthält auch weitere z.T. hohe Strafen im Kontext LGBTIQ und ist am 1. Juli 2024 in Kraft getreten. Seit dem 1. Juli 2024 heißt das Gesetz aufgrund der Anpassungen nun auch „Anti-Prostitutions- und -Homosexualitätsgesetz“. In der Region Kurdistan Irak ist das Gesetz noch nicht formal in das regionale Strafrecht übertragen worden. Dessen ungeachtet kann auch dort die informelle Anwendung einzelner Bestimmungen nicht ausgeschlossen werden.  
 
 * Vermeiden Sie Zuneigungsbekundungen in der Öffentlichkeit und verhalten Sie sich zurückhaltend.
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
@@ -113,19 +113,19 @@ Am 27. April 2024 beschloss das irakische Parlament die Anpassung des sog. Anti-
 
 Die Einfuhr, der Erwerb, der Besitz und der Konsum von Drogen sind verboten. Drogen- und Waffendelikte werden mit langjährigen Gefängnisstrafen geahndet und können in schwerwiegenden Fällen sogar zur Verhängung der Todesstrafe führen.
 
-In Irak inkl. der Region Kurdistan-Irak werden Haftbefehle aus Nachbarländern vollstreckt. Dies kann zu Auslieferungen insbesondere nach Iran und Syrien führen.
+In Irak inklusive der RKI werden Haftbefehle aus Nachbarländern vollstreckt. Dies kann zu Auslieferungen insbesondere nach Iran und Syrien führen. 
 
 Die Nutzung eines VPN-Netzwerks ist verboten.
 
 Im Fastenmonat Ramadan ist das öffentliche Essen, Trinken und Rauchen während der Tageszeit per Dekret verboten.
 
-Im Februar 2023 wurde ein Gesetz veröffentlicht, laut dem Einfuhr, Herstellung und Verkauf alkoholischer Getränke aller Art verboten sind und jeweils mit Geldstrafen von bis zu 25 Mio. IQD geahndet werden. Es liegen bisher keine weiteren Informationen zur Durchsetzung des Gesetzes vor, gegen das derzeit gerichtlich vorgegangen wird. In der Region Kurdistan-Irak gelten z.T. liberalere Regeln.
+Im Februar 2023 wurde ein Gesetz veröffentlicht, laut dem Einfuhr, Herstellung und Verkauf alkoholischer Getränke aller Art verboten sind und jeweils mit Geldstrafen von bis zu 25 Mio. IQD geahndet werden. Es liegen bisher keine weiteren Informationen zur Durchsetzung des Gesetzes vor, gegen das derzeit gerichtlich vorgegangen wird. In der RKI gelten z.T. liberalere Regeln.
 
 Verstöße gegen die Sicherheitsbestimmungen, z.B. durch Betreten des militärischen Sperrgebiets in Grenzgebieten ohne Sondererlaubnis, das unerlaubte Betreten oder Fotografieren militärischer Anlagen und von Anlagen der Erdöl- oder der petrochemischen Industrie werden von den Behörden strafrechtlich geahndet.
 
 Die Ausfuhr von Kulturgütern ohne entsprechende Genehmigung ist verboten. Verstöße werden gemäß Antiquitäten- und Kulturgütergesetz bestraft. Geld- und Haftstrafen sind möglich; es kann sogar die Todesstrafe verhängt werden. Es ist in der Regel für Reisende nicht erkennbar, ob ein Gegenstand gesetzlich geschützt ist, hierzu gehören z.B. alle Gegenstände von historischen Stätten wie z.B. Steine, Scherben oder Erde.
 
-Irak hat ein Gesetz erlassen, dass es auch Ausländern verbietet, sich aktiv für eine Normalisierung oder Annäherung der Beziehungen von Irak zu Israel einzusetzen.
+Irak hat ein Gesetz erlassen, das es auch Ausländern verbietet, sich aktiv für eine Normalisierung oder Annäherung der Beziehungen von Irak zu Israel einzusetzen.
 
 ### Geld/Kreditkarten
 
@@ -156,23 +156,23 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate g
 
 ### Visum
 
-Für deutsche Staatsangehörige besteht eine Visumpflicht für das gesamte irakische Staatsgebiet, also auch für die Region Kurdistan-Irak.
+Für deutsche Staatsangehörige besteht eine Visumspflicht für das gesamte irakische Staatsgebiet, also auch für die RKI.
 
 #### *Region Kurdistan-Irak*
 
-Vor Einreise in die Region Kurdistan-Irak ist über das Online-Portal der Regionalregierung zwingend ein [E-Visum](https://visit.gov.krd/) zu beantragen. Das Visum für die Region Kurdistan-Irak berechtigt nicht zur Weiterreise nach Zentralirak.
+Vor Einreise in die RKI ist über das Online-Portal der Regionalregierung zwingend ein [E-Visum](https://visit.gov.krd/) zu beantragen. Das Visum für die RKI berechtigt nicht zur Weiterreise nach Zentralirak.
 
 #### *Region Zentralirak*
 
 Für einen Aufenthalt von bis zu 60 Tagen in Irak kann ein Visum bei Einreise (Land-, Luft und Seeweg) ausgestellt werden.
 
-Die Gebühren sind in USD zu zahlen. Verbindliche Auskunft zum Verfahren der Visumausstellung bei Ankunft und zur Höhe der Gebühren erteilt die zuständige irakische Auslandsvertretung.
+Die Gebühren sind in USD zu zahlen. Verbindliche Auskunft zum Verfahren der Visumsausstellung bei Ankunft und zur Höhe der Gebühren erteilt die zuständige irakische Auslandsvertretung.
 
-Visa für Aufenthalte über 60 Tagen müssen vor der Einreise bei einer irakischen Auslandsvertretung beantragt werden.
+Visa für Aufenthalte über 60 Tage müssen vor der Einreise bei einer irakischen Auslandsvertretung beantragt werden.
 
 Bei illegalem Grenzübertritt zwischen Irak und den Nachbarstaaten ist mit Haft- und Geldstrafen zu rechnen.
 
-* **Bitte beachten Sie die geltende Reisewarnung.**
+* **Beachten Sie die geltende Reisewarnung.**
 * Führen Sie stets einen Lichtbildausweis und eine beglaubigte Kopie des Visums mit.
 * Bitte holen Sie nähere Auskünfte, auch zu den Bedingungen und Gebühren für die Ausstellung von Visa bei Einreise, bei der [Botschaft der Republik Irak in Berlin](https://mofa.gov.iq/berlin/?page_id=554) ein.
 
@@ -181,6 +181,10 @@ Bei illegalem Grenzübertritt zwischen Irak und den Nachbarstaaten ist mit Haft-
 Alle Reisenden nach Irak mit Ausnahme von Personen, die mit einem Touristenvisum einreisen, müssen innerhalb von zehn Tagen nach Ankunft einen HIV-Test vorweisen. Auskünfte, wo der Test in Bagdad vorgenommen werden kann, werden am Flughafen Bagdad erteilt.
 
 * Bitte erkundigen Sie sich vor Reiseantritt bei der [Botschaft der Republik Irak in Berlin](https://mofa.gov.iq/berlin/?lang=de).
+
+### Voraufenthalte in Israel
+
+Reisende mit erkennbaren Voraufenthalten in Israel (z.B. indirekte Hinweise oder im Pass zurückgebliebene Einlegeblätter, Ein- oder Ausreisestempel Israels, Ausreisestempel jordanischer oder ägyptischer Grenzübergänge zu Israel) können an der irakischen Grenze zurückgewiesen werden, auch wenn ein gültiges Visum für Irak vorhanden ist. Gemäß des 2022 in Irak verabschiedeten sog. Antinormalisierungsgesetzes sind jegliche Beziehungen irakischer Staatsangehöriger bzw. aus Irak heraus zum Staat Israel verboten (auch dortige Aufenthalte) und können mit erheblichen Strafen geahndet werden.Deutsch-irakische Doppelstaater können von dieser Regelung ebenfalls betroffen sein.
 
 ### Minderjährige
 
@@ -192,9 +196,9 @@ Fremd- und Landeswährungen sowie Edelmetalle dürfen bis zu einem Wert von 10.0
 
 #### *Einreise mit eigenem Fahrzeug nach Kurdistan-Irak*
 
-Bei Einreise in die Region Kurdistan-Irak mit einem ausländischen Kfz ist es gängige Praxis der kurdischen Behörden, den ausländischen Reisepass beim Zollamt des Grenzübergangs einzubehalten und darüber eine Bescheinigung auszuhändigen. Diese Bescheinigung berechtigt nicht zum Aufenthalt in anderen Teilen Iraks. Bei Zuwiderhandlung ist mit einer Festnahme durch die irakischen Behörden zu rechnen. Der Pass wird erst bei der Wiederausfuhr des Kfz zurückgegeben.
+Bei Einreise in die RKI mit einem ausländischen Kfz ist es gängige Praxis der kurdischen Behörden, den ausländischen Reisepass beim Zollamt des Grenzübergangs einzubehalten und darüber eine Bescheinigung auszuhändigen. Diese Bescheinigung berechtigt nicht zum Aufenthalt in anderen Teilen Iraks. Bei Zuwiderhandlung ist mit einer Festnahme durch die irakischen Behörden zu rechnen. Der Pass wird erst bei der Wiederausfuhr des Kfz zurückgegeben.
 
-* Nehmen Sie ein ausländisches Kfz, welches über die Region Kurdistan-Irak eingeführt wurde, keinesfalls mit in andere Regionen Iraks.
+* Nehmen Sie ein ausländisches Kfz, welches über die RKI eingeführt wurde, keinesfalls mit in andere Regionen Iraks.
 
 ### Heimtiere
 
@@ -272,7 +276,7 @@ Diese Infektionskrankheit löst seit 2012 in Ländern der Arabischen Halbinsel v
 
 ### Luftverschmutzung
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -282,9 +286,7 @@ Das Versorgungsniveau ist in weiten Landesteilen weder technisch noch personell 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

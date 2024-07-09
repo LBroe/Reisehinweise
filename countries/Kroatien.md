@@ -22,10 +22,10 @@ Obwohl seit Ende des Balkankrieges in Kroatien umfangreiche Minenräumungsaktion
 * Westslawonien (Gebiet Daruvar, Pakrac, Virovitica)
 * das westliche und südwestliche Grenzgebiet zu Bosnien und Herzegowina (der Raum südlich von Sisak und Karlovac, östlich von Ogulin, Otočac, Gospić sowie südlich und östlich von Drniš).
 
-In diesen Gebieten sollten Straßen und Wege nicht verlassen werden. Minenfelder sind durch dreieckig gekennzeichnete Schilder mit Warnaufdrucken („Ne prilazite“) ausgewiesen. Sie können auch durch gelbe Plastikstreifen abgesperrt oder durch Schilder oder Pfähle mit Plastikstreifen gekennzeichnet sein. Bisweilen fehlt jedoch jede Kennzeichnung.
+In diesen Gebieten sollten Straßen und Wege nicht verlassen werden. Minenfelder sind auf der Karte des kroatischen Mine Action Center Misportal ersichtlich und in der Regel durch [dreieckig gekennzeichnete Schilder mit Warnaufdrucken („Ne prilazite“)](https://civilna-zastita.gov.hr/vijesti/medjunarodni-dan-svjesnosti-o-opasnostima-od-mina-i-pomoci-u-protuminskom-djelovanju/2342) ausgewiesen. Sie können auch durch gelbe Plastikstreifen abgesperrt oder durch Schilder oder Pfähle mit Plastikstreifen gekennzeichnet sein. Bisweilen fehlt jedoch jede Kennzeichnung.
 
 Nationalparks sind nicht betroffen. Bei Aufenthalten und Reisen in unmittelbarer Nähe der Küste, auf den Inseln und der Halbinsel Istrien, im Großraum Zagreb sowie im nördlichen Landesteil besteht in der Regel keine Gefahr.  
-Nähere Informationen bietet die [kroatische Direktion für Zivilschutz.](https://civilna-zastita.gov.hr/) Dort sind die gefährdeten Gebiete anhand einer detaillierten Karte ersichtlich.
+Nähere Informationen bietet die [kroatische Direktion für Zivilschutz](https://civilna-zastita.gov.hr/minska-situacija-u-rh/145). Dort sind die gefährdeten Gebiete anhand einer [detaillierten Karte](https://misportal.hcr.hr/HCRweb/faces/simple/Map.jspx) (bitte akzeptieren Sie die AGB und klicken auf Public Access) ersichtlich.
 
 * Verlassen Sie in den o.g. Gebieten Straßen und Wege nicht.
 * Betreten Sie keinesfalls Trümmergrundstücke und leerstehende Gebäude.
