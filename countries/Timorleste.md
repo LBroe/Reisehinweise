@@ -16,9 +16,9 @@ Die Sicherheitslage in Timor-Leste ist grundsätzlich stabil, birgt jedoch anges
 
 ### Kriminalität
 
-Taschendiebstähle, teilweise auch bewaffnete Überfälle und Einbrüche kommen landesweit vor, am häufigsten in der Hauptstadt Dili. Sporadisch kommt es außerdem zu Gewalttaten lokaler Banden.
+Taschendiebstähle, teilweise auch bewaffnete Überfälle und Einbrüche kommen landesweit vor, am häufigsten in der Hauptstadt Dili. Außerdem kommt es zu Gewalttaten lokaler Banden.
 
-Es kommt vereinzelt zu sexuellen Belästigungen und Übergriffen, insbesondere alleinreisende Frauen sind einer erhöhten Gefährdung in abgelegenen Stadtteilen, allein am Strand oder an wenig frequentierten Orten, ausgesetzt.
+Insbesondere alleinreisende Frauen sind einer erhöhten Gefährdung durch sexuelle Belästigung und Übergriffe in abgelegenen Stadtteilen, allein am Strand oder an wenig frequentierten Orten, ausgesetzt.
 
 * Benutzen Sie bei Dunkelheit auch für kürzere Strecken ein registriertes Taxi von Tür zu Tür (Corrotrans Taxi).
 * Seien Sie, wenn Sie als alleinreisende Frau unterwegs sind, besonders vorsichtig und meiden Sie abgelegene Orte.
