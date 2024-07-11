@@ -14,7 +14,7 @@ In Kopenhagen kam es mehrfach zu Fällen von Koranverbrennungen. Die dänische R
 
 Kleinkriminalität kommt insbesondere in den größeren Städten vor. In Kopenhagen steigt in den Sommermonaten das Risiko von Taschendiebstählen, insbesondere an beliebten Ausflugszielen und Orten mit naturgemäß hohen Besucherzahlen, wie z. B. Hauptbahnhof, Haltestelle der Fernbusse, Rathausplatz, Museen und bei der Wachablösung vor Schloss Amalienborg.
 
-Die Kopenhagener Polizei hat in und um den „Freistaat Christiania“ eine sogenannte strengere Strafzone eingerichtet, in der härtere Strafen mit doppeltem Strafmaß für den Kauf und Verkauf – auch geringer Mengen - illegaler Drogen verhängt werden können. Die Maßnahme gilt vorläufig sechs Monate bis zum 10. Juli 2024.
+Die Kopenhagener Polizei hat in und um den „Freistaat Christiania“ eine sogenannte strengere Strafzone eingerichtet, in der härtere Strafen mit doppeltem Strafmaß für den Kauf und Verkauf – auch geringer Mengen - illegaler Drogen verhängt werden können. Die Maßnahme gilt vorläufig bis Januar 2025.
 
 Im „Freistaat Christiania“ und im Stadtteil Nørrebro kam es mehrfach zu gewaltsamen Auseinandersetzungen und Schießereien zwischen Banden.
 
@@ -84,7 +84,7 @@ Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbeson
 
 ### Rechtliche Besonderheiten
 
-Das Führen von Dolchen oder Messern ist in der Öffentlichkeit verboten. Daher sollte man z. B. darauf verzichten, an einem dänischen Rastplatz ein Messer bei sich zu tragen, sondern es vorschriftsgemäß im abgeschlossen Wagen aufbewahren.
+Das Führen von Dolchen oder Messern ist in der Öffentlichkeit verboten. Daher sollte man z.B. darauf verzichten, an einem dänischen Rastplatz ein Messer bei sich zu tragen, sondern es vorschriftsgemäß im abgeschlossenen Kfz aufbewahren.
 
 Anders als in Deutschland sind auch das Führen, der Handel und die Einfuhr von Tränengasspray verboten.
 

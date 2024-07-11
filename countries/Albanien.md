@@ -16,7 +16,7 @@ Die Lage im gesamten Land ist ruhig. Vereinzelte, auch gewalttätige Proteste un
 
 ### Kriminalität
 
-Fälle von Gewaltanwendung bei Klein- und Straßenkriminalität sind zwar selten. Taschendiebstähle, Auto- und Wohnmobileinbrüche sowie der Diebstahl dort aufbewahrter Dokumente haben insbesondere in der Sommerzeit z.B. an Stränden zugenommen.
+Gewaltanwendung bei Klein- und Straßenkriminalität ist zwar selten, doch Taschendiebstähle, Auto- und Wohnmobileinbrüche sowie der Diebstahl dort aufbewahrter Dokumente haben insbesondere in der Sommerzeit z.B. an Stränden zugenommen.
 
 * Seien Sie insbesondere in den Sommermonaten besonders vorsichtig.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -41,18 +41,18 @@ In den Sommermonaten kommt es in Albanien aufgrund der klimatischen Bedingungen 
 
 ### Infrastruktur/Verkehr
 
-Die Grenzübergänge zu den Nachbarländern sind von albanischer Seite (i.d.R. von 8-20 Uhr) geöffnet. Kurzfristige Änderungen sind möglich.
+Die Grenzübergänge zu den Nachbarländern sind auf albanischer Seite i.d.R. von 8-20 Uhr geöffnet. Kurzfristige Änderungen sind möglich.
 
 Reisende müssen sich vor Reiseantritt erkundigen, ob und wann die Grenzübergänge der Nachbarländer geöffnet sind und welche [Einreisebedingungen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise) bestehen.
 
-Es gibt Busverbindungen zwischen den meisten Städten und lokal Taxis und Mietwagen. Für Überlandfahrten sind Busse oft in schlechtem Zustand.
+Es gibt Busverbindungen zwischen den meisten Städten und lokale Taxis und Mietwagen. Überlandbusse sind oft in schlechtem Zustand.
 
-Die Hauptverbindungsstraßen sind in der Regel zwar gut ausgebaut, der Zustand vieler Straßen abseits davon ist teilweise schlecht, kleinere Straßen sind oft nur mit Geländewagen passierbar. Daher ist auch für relativ kurze Strecken mit längerer Reisedauer zu rechnen. An der Verbesserung des Straßennetzes wird intensiv gearbeitet. Es muss mit vielen, oft unzureichend gesicherten bzw. schlecht oder gar nicht beschilderten Baustellen gerechnet werden.  
-Die Beschilderung über Land ist nicht immer ausreichend. Wegen der Gefahren durch unbeleuchtete Fahrzeuge und Fuhrwerke sowie teils sehr tiefen Schlaglöchern, unbefestigte Randstreifen und Baustellen sollte die Reise so geplant werden, dass das Fahrtziel vor Anbruch der Dunkelheit erreicht werden kann.
+Die Hauptverbindungsstraßen sind in der Regel gut ausgebaut. Der Zustand vieler Straßen abseits davon ist teilweise jedoch schlecht; kleinere Straßen sind oft nur mit Geländewagen passierbar. Daher ist auch für relativ kurze Strecken mit längerer Reisedauer zu rechnen. An der Verbesserung des Straßennetzes wird intensiv gearbeitet. Es muss mit vielen oft unzureichend gesicherten bzw. schlecht oder gar nicht beschilderten Baustellen gerechnet werden.  
+Die Beschilderung über Land ist nicht immer ausreichend. Aufgrund der Gefahren durch unbeleuchtete Fahrzeuge und Fuhrwerke, teils sehr tiefe Schlaglöcher, unbefestigte Randstreifen und Baustellen sollten Überlandfahrten so geplant werden, dass das Fahrtziel vor Anbruch der Dunkelheit erreicht werden kann.
 
 Es gilt auch tagsüber eine Lichtpflicht. Die Promillegrenze beträgt 0,1.  
 Die Grüne Versicherungskarte ist erforderlich und wird kontrolliert.  
-Die Polizei ist landesweit sehr präsent und kontrolliert unter anderem auch die Einhaltung des Tempolimits. Bei Verstößen wird der Führerschein entzogen, so dass ohne Ersatzfahrer ggf. das Fahrzeug in Albanien zurückgelassen werden muss.
+Die Polizei ist landesweit sehr präsent und kontrolliert unter anderem auch die Einhaltung des Tempolimits. Bei Verstößen wird der Führerschein entzogen, sodass ohne Ersatzfahrer ggf. das Fahrzeug in Albanien zurückgelassen werden muss.
 
 ### Führerschein
 
@@ -60,33 +60,37 @@ Der deutsche Führerschein wird anerkannt. Um eventuelle Schwierigkeiten bei Ver
 
 ### Wanderungen/Trekking-Touren
 
-Bei Wanderungen durch die Alpen muss beachtet werden, dass bei Grenzübertritt nach Albanien bzw. in ein Nachbarland eine sofortige Meldung bei einer Polizeistation erforderlich ist; ansonsten entsteht der Verdacht der illegalen Einreise und Aufenthalts.
+Bei Wanderungen durch die Albanischen Alpen – das Gebirgsmassiv Prokletije in Nordalbanien - muss beachtet werden, dass bei Grenzübertritt nach Albanien bzw. in ein Nachbarland eine sofortige Meldung bei einer Polizeistation erforderlich ist; ansonsten entsteht der Verdacht der illegalen Einreise und Aufenthalts.
 
 Wege sind zum Teil schlecht ausgeschildert. Albanien verfügt zudem über keine professionelle Bergwacht und keine Rettungshelikopter.
 
-* Beachten Sie, dass bei Grenzübertritt nach Albanien/in Nachbarländer u.U. eine sofortige Meldung bei einer Polizeistation erforderlich ist, da ansonsten der Verdacht der illegalen Einreise und Aufenthalts entsteht.
+* Beachten Sie, dass bei Grenzübertritt nach Albanien und in seine Nachbarländer u.U. eine sofortige Meldung bei einer Polizeistation erforderlich ist.
 * Führen Sie bei nicht von Veranstaltern organisierten Wanderungen ein ausreichend geladenes Mobiltelefon mit GPS-Funktion oder ein GPS-Gerät mit.
 * Hinterlegen Sie vor einer Wanderung Ihre Kontaktdaten sowie Informationen über Weg und Ziel in Ihrer Unterkunft.
-* Planen Sie genügend Zeit ein, sodass die Ankunft/Rückkehr vor Einbruch der Dunkelheit erfolgt.
+* Planen Sie genügend Zeit ein, sodass die Ankunft bzw. Rückkehr vor Einbruch der Dunkelheit erfolgt.
 * Beachten Sie Warnschilder. Betreten Sie keine umzäunten Gelände. Leisten Sie Folge, falls Sie zum Verlassen eines Weges oder eines Geländes aufgefordert werden.
-* Im Fall einer Begegnung mit aggressiven Hirtenhunden sollten Sie versuchen, Kontakt zu den Hirten aufzunehmen. Ziehen Sie sich ggfs. langsam zurück und umgehen Sie das Gelände weiträumig.
+* Versuchen Sie bei einer Begegnung mit aggressiven Hirtenhunden direkten Kontakt zu den Hirten aufzunehmen. Ziehen Sie sich ggf. langsam zurück und umgehen Sie das Gelände weiträumig.
 * Machen Sie sich mit dem [Verhalten des sicheren Bergwanderns](https://www.sbs.sachsen.de/download/sbs/Bergwandern-Planen_Sicher_und_Umweltbewusst.pdf) vertraut.
 
 ### LGBTIQ
 
-Homosexualität steht nicht unter Strafe, jedoch ist die Toleranz in der Bevölkerung gering.
+Homosexuelle Handlungen stehen nicht unter Strafe; jedoch ist die Toleranz für LGBTIQ-Personen in der Bevölkerung gering.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
 ### Rechtliche Besonderheiten
 
+Besitz, Handel und Export von Drogen ins Ausland sind strafbar. Jeglicher Kauf und Konsum von Drogen, auch von Kleinstmengen, führt zur Einleitung strafrechtlicher Ermittlungen.
+
+Es sind Fälle bekannt, in denen auch der Besitz kleiner Mengen von Betäubungsmitteln, auch wenn diese nachweislich aus medizinischen Gründen mitgeführt werden, zur Inhaftierung und Einleitung eines Strafverfahrens führten. Von einer Mitnahme nach Albanien wird daher ausdrücklich abgeraten. Es können Freiheitsstrafen von mehreren Jahren verhängt werden.
+
+Auch das Hinterlassen von Spritzen u. ä. an öffentlichen Orten steht unter Strafe. Es drohen Haftstrafen bis zu einem Jahr.
+
 Sexuelle Handlungen in der Öffentlichkeit können mit Geldstrafen bzw. mit einer Freiheitsstrafe bis zu einem Jahr geahndet werden.
 
 Prostitution ist in Albanien verboten und wird mit Geldstrafen bzw. mit einer Freiheitsstrafe bis zu drei Jahren bestraft.
 
-Der Besitz, Handel und Transport von Drogen im Land und ins Ausland ist strafbar, es können Freiheitsstrafen von mehreren Jahren verhängt werden. Auch das Hinterlassen von Spritzen u. ä. an öffentlichen Orten steht unter Strafe, Strafmaß hierfür bis zu einem Jahr. Der Konsum und jeglicher Ankauf von Drogen, auch von Marihuana/Haschisch-Kleinstmengen, führen zur Einleitung strafrechtlicher Ermittlungen.
-
-Von scheinbaren Schnäppchen (u.a. Mobiltelefone und Luxusgüter wie Damen-Handtaschen und Uhren) wird ausdrücklich abgeraten, da es sich um illegale, gestohlene oder gefälschte Ware handeln könnte.
+Von scheinbaren Schnäppchen (u.a. Mobiltelefone und Luxusgüter wie Damenhandtaschen und Uhren) wird ausdrücklich abgeraten, da es sich um illegale, gestohlene oder gefälschte Ware handeln könnte.
 
 Illegaler Handel mit Kunst und Kulturschätzen wird streng geahndet. Es können Freiheitsstrafen bis zu 15 Jahren verhängt werden.
 
@@ -118,12 +122,11 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens drei Monate gü
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
-Benutzen Sie keine Ausweisdokumente, die einmal als verloren oder gestohlen gemeldet wurden. Auch wenn der Reisepass oder Personalausweis wieder aufgefunden wurde und dies in Deutschland der Polizei bzw. der Passbehörde mitgeteilt wurde, besteht keine Garantie, dass diese Information auch den albanischen Behörden bekannt ist. Die albanische Grenzpolizei zieht solche Dokumente des Öfteren ein und verweigert die Einreise.
+Ausweisdokumente, die einmal als verloren oder gestohlen gemeldet wurden, sollten nicht zur Einreise nach Albanien benutzt werden. Auch wenn der Reisepass oder Personalausweis wieder aufgefunden wurde und dies in Deutschland der Polizei bzw. der Passbehörde mitgeteilt wurde, besteht keine Garantie, dass diese Information auch den albanischen Behörden bekannt ist. Die albanische Grenzpolizei zieht solche Dokumente des Öfteren ein und verweigert die Einreise.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für einen touristischen Aufenthalt bis zu 90 Tagen kein Visum.  
-Ist ein längerer als 90-tägiger Aufenthalt geplant, müssen Sie sich innerhalb der ersten 30 Tage beim Grenz- und Migrationsdirektorat anmelden und dort eine Aufenthaltserlaubnis beantragen, unter anderem unter Vorlage eines [apostillierten deutschen Führungszeugnisses](https://tirana.diplo.de/al-de/service/konsularinfo/-/2500594).
+Deutsche Staatsangehörige benötigen für einen touristischen Aufenthalt von bis zu 90 Tagen kein Visum. Ist ein längerer Aufenthalt geplant, müssen Sie sich innerhalb der ersten 30 Tage nach Einreise bei [e-Albania](https://e-albania.al/eAlbaniaServices/DPPSH/15388/DPPSH_15388_n4_s1_web.aspx?service_code=15388) registrieren. Für die Beantragung ist die Vorlage von Unterlagen, u.a eines apostillierten deutschen Führungszeugnisses erforderlich. Es wird empfohlen, die notwendigen Unterlagen bereits vor Reiseantritt vorzubereiten.
 
 ### Minderjährige
 

@@ -2,64 +2,66 @@
 
 ## Sicherheit
 
-**Von Reisen in die Region Batken wird dringend abgeraten.**
+**Von Reisen in die Region Batken wird abgeraten.**
 
 ### Innenpolitische Lage
 
-Im September 2022 kam es in der südlichen Region Batken zu bewaffneten Auseinandersetzungen zwischen kirgisischen und tadschikischen Sicherheitskräften mit Todesopfern und Verletzten. Die Lage blieb seitdem ruhig, weitere Kämpfe und Schusswechsel im Grenzgebiet können dennoch nicht ausgeschlossen werden.
+Im September 2022 kam es in der südlichen Region Batken zu bewaffneten Auseinandersetzungen zwischen kirgisischen und tadschikischen Sicherheitskräften mit zivilen Todesopfern und Verletzten. Die Lage blieb seitdem weitgehend stabil, und die Verhandlungen zwischen Kirgisistan und Tadschikistan zur Regelung der noch offenen Grenzfragen werden fortgesetzt. Allerdings ist nicht gesichert, dass diese Ruhe nachhaltig ist.
 
-Gewaltsame Zusammenstöße, beispielsweise im Rahmen von Demonstrationen im Zusammenhang mit innenpolitischen Entwicklungen in Kirgisistan, können im gesamten Land nicht ausgeschlossen werden.
+Gewaltsame Zusammenstöße, beispielsweise im Rahmen von Demonstrationen auch kleinerer Gruppen nicht ausgeschlossen werden. Dies gilt insbesondere für die Hauptstadt und dicht besiedelte Gebiete des Landes (Süd-Kirgisistan).
 
 * Seien Sie bei Reisen innerhalb Kirgisistans und insbesondere in den Grenzregionen besonders vorsichtig.
-* Meiden Sie die Grenzregion zu Tadschikistan weiträumig.
-* Meiden Sie Demonstrationen und Menschenansammlungen.
 * Informieren Sie sich regelmäßig über die Sicherheitslage.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+* Meiden Sie Demonstrationen und seien Sie bei Menschenansammlungen wachsam.
+* Folgen Sie unbedingt den Anweisungen lokaler Sicherheitskräfte.
 
 ### Terrorismus
 
-Insbesondere im Süden des Landes gibt es islamistische Gruppierungen mit potenziell terroristischer Ausrichtung. Anschläge auch auf westliche Einrichtungen sind nicht auszuschließen. Ende August 2016 war die chinesische Botschaft in Bischkek Ziel eines Selbstmordattentats.
+Insbesondere im Süden des Landes werden von der kirgisischen Regierung regelmäßig islamistische Zellen bzw. Personen mit potenziell terroristischer Ausrichtung ausgehoben. Anschläge, auch auf westliche Einrichtungen, sind nicht auszuschließen.
 
 * Seien Sie insbesondere an belebten Orten aufmerksam und bei ungewöhnlichen Ereignissen wachsam.
 * Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
 ### Kriminalität
 
-Gewalt- und Bandenkriminalität mit Raubüberfällen und Taschendiebstählen haben auch Ausländer an hoch frequentierten Orten zum Ziel. In der bei Dunkelheit teilweise schlecht beleuchteten Hauptstadt Bischkek ist es in der Vergangenheit gelegentlich zu Überfällen gekommen. Infolge der wirtschaftlichen und sozialen Auswirkungen der COVID-19-Pandemie hat die Kriminalität, vor allem in der Hauptstadt, zugenommen, bewegt sich aber immer noch auf einem vergleichsweise niedrigen Niveau. Kriminelle haben sich vereinzelt als Polizisten in Uniform oder in Zivil ausgegeben. Vereinzelte Sexualdelikte wurden besonders aus abgelegenen Gebieten gemeldet.
+Auch Ausländer können an stark frequentierten Orten wie Märkten Opfer von Gewalt- und Bandenkriminalität mit Raubüberfällen und Taschendiebstählen werden, doch sind der Deutschen Botschaft Bischkek seit mehreren Jahren keine Vorfälle bekannt geworden, bei denen deutsche Touristen gezielt Opfer eines Überfalls oder Angriffs wurden.
 
-* Seien Sie bei Dunkelheit lieber mit dem Taxi unterwegs. Angesichts allgemeiner Kriminalität ist vor allem an schlecht einsehbaren Orten wie Fußgängerunterführungen und bei Dunkelheit Vorsicht geboten.
-* Seien Sie an typischerweise von Ausländern hochfrequentierten Orten besonders wachsam, z.B. in der Nähe von Hotels, Restaurants, Bars sowie aufgrund von Taschen- und Trickdiebstählen auf den zahlreichen Basaren.
-* Leisten Sie bei Überfällen keinen Widerstand, da die Gewaltschwelle niedrig sein kann.
+* Vermeiden Sie es, bei Dunkelheit und in schlecht beleuchteten Stadtteilen zu Fuß und alleine unterwegs zu sein. Nutzen Sie stattdessen Taxis namhafter Anbieter, die per App bestellt werden können. Nutzen Sie - auch unter dem Aspekt der Verkehrssicherheit - keine unbekannten Taxiunternehmen.
+* Seien Sie an typischerweise von Ausländern besuchten Orten (z.B. in der Nähe von Hotels, Restaurants oder Bars) sowie in größeren Menschenmengen (wie an Flughäfen, (Bus-)Bahnhöfen, in öffentlichen Verkehrsmitteln und auf den zahlreichen Märkten) besonders wachsam.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Nehmen Sie nur das für den Tag benötigte Bargeld bzw. eine Kreditkarte und keine unnötigen Wertsachen mit. Führen Sie ggf. Kopien von Ausweisdokumenten griffbereit mit sich und verwahren die Originale sicher.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, (Bus-)Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
-Kirgisistan liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben kommen kann.
+Kirgisistan liegt in einer seismisch hochaktiven Zone. Erdbeben mit einer Stärke über 6,0 auf der Richterskala werden in der Region regelmäßig aufgezeichnet.
+
+Kirgisistan ist in vielen Landesteilen aufgrund seiner topographischen Gegebenheiten von Erdrutschen und Schlammlawinen bzw. Schnee- und Eislawinen bedroht. Im Zuge heftiger Regenfälle kommt es gelegentlich zu spontanen Überflutungen, die auch Häuser mitreißen können. Die Wetterlage kann sehr schnell wechseln. Auch im Hochsommer kommen in den Bergen, insbesondere über 3.000 m, plötzliche Kälteeinbrüche häufig vor.
 
 Das Klima ist trocken und kontinental mit heißen Sommern und kalten Wintern. Es gibt erhebliche tägliche Temperaturschwankungen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Achten Sie auf die Wetterentwicklung, informieren Sie sich über lokale Wettervorhersagen und Wetter-Apps.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Infrastruktur/Verkehr
 
-Der Luftverkehr entspricht nicht internationalen Sicherheitsstandards. Alle kirgisischen Luftfahrtunternehmen stehen auf der [gemeinschaftlichen Liste unsicherer Fluggesellschaften der EU.](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en "unsichere Fluggesellschaften")
-
-Der grenzüberschreitende Bahnverkehr ist noch eingeschränkt.
-
-Überlandfahrten bei Nacht sind wegen der teilweise sehr schlechten Straßen, Erdrutschen, freilaufenden Viehs, des häufig unsicheren technischen Zustands der Fahrzeuge und des wechselhaften Klimas (Kälteeinbrüche) schwierig und gefährlich. Die schlechten Straßenverhältnisse landesweit und die von westeuropäischen Verkehrsgewohnheiten abweichende Fahrweise bedeuten eine generell erhöhte Unfallgefahr im Straßenverkehr. Dies gilt auch für die vielbefahrene Strecke Bischkek-Almaty.
+Der Luftverkehr entspricht nicht internationalen Sicherheitsstandards. Alle kirgisischen Luftfahrtunternehmen stehen auf der [gemeinschaftlichen Liste unsicherer Fluggesellschaften der EU.](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en "unsichere Fluggesellschaften") Gleichwohl stellen nationale Fluggesellschaften die Verbindung von Bischkek in die entlegenen südlichen Städte (Razzakov, etc.) her. Osch im Süden des Landes und Tamchy am Issyk-Kul verfügen über internationale Flughäfen.
 
 Taxis sind in Bischkek günstig und können telefonisch oder per App bestellt werden.
+
+Überlandfahrten bei Nacht sind wegen teilweise sehr schlechter Straßen, Erdrutschen, Steinschlägen, freilaufenden Viehs/Viehtriebs, des häufig unzureichenden technischen Zustands vieler Fahrzeuge (häufig Rechtslenker; Überbeladung, Überalterung, mangelnde Wartung) oder mangelnder Fahrtüchtigkeit der Fahrzeugführer und des wechselhaften Klimas (Kälteeinbrüche und Platzregen) gefährlich. Die schlechten Straßenverhältnisse landesweit und die von westeuropäischen Verkehrsgewohnheiten abweichende Fahrweise bergen eine erhöhte Unfallgefahr im Straßenverkehr. Dies gilt auch für die vielbefahrene Strecke Bischkek-Almaty.
+
+In entlegenen Gebieten kann die Versorgung mit Kraftstoff problematisch sein. Treibstoff mit 95 Oktan gibt es in der Regel außerhalb der größeren Städte nicht. Da das Tankstellennetz in den Bergen extrem dünn ist und der Kraftstoffverbrauch auf Pisten und in großen Höhen erheblich steigt, sollte ausreichend Reserve mitgeführt werden. Ersatzräder sind unverzichtbar.
 
 Bei Unfällen (auch unverschuldeten) muss damit gerechnet werden, dass der Fahrer straf- und zivilrechtlich zur Verantwortung gezogen wird. Ausländer müssen vor Ausreise unter Umständen den Ausgang eines Gerichtsprozesses abwarten.
 
 * Vermeiden Sie Überlandfahrten nach Einbruch der Dunkelheit.
 * Vermeiden Sie wenn möglich, innerhalb Kirgisistans als Selbstfahrer zu reisen.
+* Mieten Sie Fahrzeuge und Fahrer bei vertrauenswürdigen Unternehmen.
 
 ### Führerschein
 
@@ -69,28 +71,32 @@ Der internationale Führerschein gilt nur in Verbindung mit dem nationalen deuts
 
 ### Wanderungen und Trekking-Touren
 
-Es gibt in Kirgisistan keine organisierte Bergrettung. Wildes Campen birgt zahlreiche Gefahren, insbesondere, wenn eine Kommunikation in kirgisischer oder russischer Sprache nicht möglich ist.
+Wildes Campen birgt zahlreiche Gefahren, insbesondere, wenn eine Kommunikation in kirgisischer oder russischer Sprache nicht möglich ist.
 
-* Unternehmen Sie Wandertouren in unbekanntem Gelände nur mit ortskundiger Begleitung.
-* Verzichten Sie auf „wildes Campen“ ohne ortskundige Begleitung durch einen Reiseveranstalter.
-* Bedienen Sie sich auch aus Sicherheitsgründen beim Besuch entlegener Gegenden möglichst sprach- und ortskundiger Begleitung.
+Menschen, die große Höhen nicht gewohnt sind, können auf Bergtouren schnell unter heftigen Gesundheitsproblemen leiden. Vor allem in entlegenen Gebieten ist nicht mit zeitnaher Hilfe zu rechnen. Von Reit-, Ski- oder Gletschertouren ohne kundige Begleitung und insbesondere allein wird abgeraten. Die geplante Route und voraussichtliche Rückkehrzeit sollten in der Unterkunft hinterlassen werden.
+
+* Unternehmen Sie Wandertouren in unbekanntem Gelände oder entlegenen Gebieten gut ausgerüstet, nur mit ortskundiger Begleitung und keinesfalls alleine.
+* Führen Sie Notfallnummern der Bergrettung mit sich.
+* Achten Sie auf die Wetterentwicklung, informieren Sie sich über lokale Wettervorhersagen und Wetter-Apps.
+* Suchen Sie bei Platzregen eine sichere Unterkunft auf. Vermeiden Sie Aufenthalte nahe Wasserläufen und in Canyons, die sich in reißende Ströme verwandeln können.
+* Verzichten Sie möglichst auf „wildes Campen“ ohne ortskundige Begleitung durch einen Reiseveranstalter.
 * Hinterlassen Sie Informationen zu der geplanten Route in der Unterkunft, um im Notfall Suchgebiete eingrenzen zu können.
 
 ### Grenzgebiete
 
-In den Grenzgebieten (zu Usbekistan, Tadschikistan, Kasachstan und China) gelten besondere Regeln (z.B. Fotografierverbote), es besteht zudem Minengefahr. Der Grenzverlauf ist an vielen Stellen nicht klar ausgeschildert. Bei Grenzübertritten abseits offizieller Grenzkontrollpunkte drohen längere Haftstrafen.  
+In den Grenzgebieten zu Usbekistan, Tadschikistan, Kasachstan und China gelten besondere Regeln (z.B. Fotografierverbote), es besteht mancherorts zudem Minengefahr. Der Grenzverlauf ist an vielen Stellen nicht klar ausgeschildert. Bei Grenzübertritten abseits offizieller Grenzkontrollpunkte drohen längere Haftstrafen.  
 Grenzübergänge können kurzfristig geschlossen werden. Eine verlässliche Auskunft kann hierzu nicht gegeben werden. Nach bewaffneten Auseinandersetzungen an der kirgisisch-tadschikischen Grenze wurden die Landgrenzen nach Tadschikistan geschlossen. Laut Auskunft der kirgisischen Behörden ist die Überquerung der kirgisisch-tadschikischen Grenze jedoch für Touristen an ausgewählten Grenzübergängen möglich. Dazu ist eine Genehmigung der Grenzbehörden erforderlich, die über ortsansässige Reiseveranstalter eingeholt werden kann.
 
-* Bereisen Sie die Grenzregionen nicht ohne ortskundige Reiseführer.
+* Bereisen Sie die Grenzregionen nicht ohne ortskundige Reiseführer, auch weil der genaue Grenzverlauf oftmals nicht erkennbar ist und illegale Übertritte streng geahndet werden.
 
 ### Besondere Verhaltenshinweise
 
-Die kirgisische Polizei hat das Recht, Passkontrollen durchzuführen, das Visum zu überprüfen und Reisende ohne gültigen Reisepass festzuhalten.  
-Die Polizei hat jedoch nicht das Recht, während normaler Personenkontrollen den Inhalt der Taschen zu untersuchen oder Reisende abzutasten. In der Vergangenheit wurden Touristen unter dem Vorwand der Drogenkontrolle vereinzelt dazu genötigt und mit der Forderung von „Gebührenzahlungen“ konfrontiert.
+Die kirgisische Polizei hat das Recht, Passkontrollen durchzuführen, die Aufenthaltsdauer (ggf. das Visum) zu überprüfen und Reisende ohne gültigen Reisepass festzuhalten.  
+Die Polizei hat jedoch nicht das Recht, während normaler Personenkontrollen den Inhalt der Taschen zu untersuchen oder Reisende abzutasten. In der Vergangenheit wurden Touristen unter dem Vorwand der Drogenkontrolle vereinzelt dazu genötigt und mit der Forderung von „Gebührenzahlungen“ konfrontiert. Es ist nicht auszuschließen, dass sich Kriminelle als Sicherheitskräfte verkleiden.
 
 * Führen Sie stets Ihren Reisepass bei sich.
 * Verhalten Sie sich bei Personenkontrollen kooperativ und behalten Sie die Ruhe.
-* Treten Sie generell gegenüber Staatsvertretern höflich, aber selbstbewusst auf und weisen Sie ggf. auf Ihre Rechte hin.
+* Treten Sie generell gegenüber Staatsvertretern höflich, aber selbstbewusst auf und weisen Sie ggf. auf Ihre Rechte hin. Zahlen Sie, wenn möglich, mit Kreditkarte bzw. elektronisch und bestehen Sie auf einer Quittung.
 * Kontaktieren Sie im Notfall die deutsche Botschaft in Bischkek.
 
 ### LGBTIQ
@@ -103,15 +109,17 @@ Im August 2023 wurden Gesetzesänderungen zum Schutze Minderjähriger gegen die 
 
 ### Rechtliche Besonderheiten
 
-Das Fotografieren von Flugplätzen, militärischer und strategisch wichtiger Einrichtungen sowie im Grenzgebiet ist verboten.
+Das Fotografieren von Flugplätzen, militärischer und strategisch wichtiger Einrichtungen sowie im Grenzgebiet ist gesetzlich verboten. Personen und deren Unterkünfte sollten nicht ohne vorherige Zustimmung der Betroffenen fotografiert oder gefilmt werden
 
-Drogendelikte werden schon bei geringfügigen Verstößen hart bestraft, meist mit Haftstrafen zwischen fünf und 20 Jahren.
+* Achten Sie darauf, ob es entsprechende Verbotsschilder gibt und befolgen Sie die Vorschriften.
+
+Drogendelikte werden schon bei geringfügigen Verstößen hart bestraft.
 
 Fahrzeugführer, die in einen Unfall mit Verletzten oder Todesfolge verwickelt waren, dürfen das Land für die Dauer der Untersuchungen bzw. einer Gerichtsverhandlung bis zur Klärung der Schuldfrage nicht verlassen.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Som (KGS). Kredit- und Debitkarten (Girocard) werden in Hotels und Restaurants in Bischkek üblicherweise akzeptiert, im ländlichen Raum aber nur selten. Die Bargeldabhebung mit Karten funktioniert an Geldautomaten in der Regel problemlos.
+Landeswährung ist der Som (KGS). Kredit- und Debitkarten (Girocard) werden in Hotels und Restaurants in Bischkek üblicherweise akzeptiert, im ländlichen Raum aber nur selten. Die Bargeldabhebung mit Karten funktioniert an Geldautomaten in der Regel problemlos. Geldautomaten sind in den Städten verbreitet; in entlegenen Gebieten werden Kreditkarten meist nicht akzeptiert. Insofern sollte ausreichend Bargeld mitgeführt werden.
 
 Der Umtausch von Bargeld - EUR oder USD - ist in den größeren Städten möglich. Es sollten möglichst nur neuere Banknoten in einwandfreiem Zustand mitgebracht werden, da Noten mit kleineren Rissen oder verknitterte/verschmutzte Banknoten häufig nicht umgetauscht werden. Kleine Banknoten (5, 10 und 20 EUR) werden oft nur zu einem etwas schlechteren Kurs getauscht.
 

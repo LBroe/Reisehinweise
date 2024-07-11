@@ -43,9 +43,9 @@ Betrügereien, Raub und sexuelle Übergriffe, oft in Verbindung mit dem Einsatz 
 
 Japan ist das erdbebenreichste Land der Erde und besitzt zahlreiche aktive Vulkane. Im Jahresdurchschnitt werden rund 1.500 Beben seismisch registriert, von denen mehrere auch in Tokyo deutlich wahrgenommen werden können.
 
-#### *Vulkane*
+#### *Vulkanausbrüche*
 
-Von den 110 als aktiv geltenden Vulkanen werden derzeit 47 permanent überwacht. Für die Vulkane Sakurajima, Kuchinoerabu, Iojima, Mont Aso und Suwanosejima in der Region Kyushu sowie den Vulkan Kusatsu-Shirane in der Präfektur Gunma nordöstlich von Tokyo gelten erhöhte Warnstufen und z.T. Sperrzonen. Zuletzt warfen die Vulkane Aso und Sakurajima Aschewolken aus. Vulkanausbrüche fordern immer wieder auch Todesopfer.
+Von den 110 als aktiv geltenden Vulkanen werden derzeit 47 permanent überwacht. Für die Vulkane Sakurajima, Kuchinoerabu, Iojima, Mont Aso und Suwanosejima in der Region Kyushu sowie den Vulkan Kusatsu-Shirane in der Präfektur Gunma nordöstlich von Tokyo gelten erhöhte Warnstufen und z.T. Sperrzonen. Zuletzt warfen die Vulkane Aso und Sakurajima Aschewolken aus. Vulkanausbrüche fordern immer wieder Todesopfer.
 
 #### *Tropen- und Schneestürme*
 
@@ -83,7 +83,7 @@ Es werden auch Übersetzungen anerkannt, die vom [ADAC Südbayern e.V.](https:/
 
 ### Wanderungen auf den Fuji
 
-Die japanischen Behörden kündigten an, dass ab Beginn der offiziellen Wandersaison 2024 (1. Juli – 10. September 2024) aufgrund von Sicherheitsbedenken und aus Umweltschutzgründen die Zahl der Wanderer zum Gipfel des Bergs Fuji begrenzt werden soll. Diese Begrenzung konzentriert sich vorerst nur auf die Hauptroute zum Gipfel, den „Yoshida Trail“. Täglich sollen nur noch max. 4.000 Besucher diese Route wandern. Vorab müssen die Wanderer einen Zeitabschnitt über die offizielle Website von „Mt. Fuji Climbing“ buchen und eine Gebühr in Höhe von 2.000 JPY bezahlen.
+Mit Beginn der offiziellen Wandersaison 2024 wurde aus Sicherheits- und Umweltschutzgründen die Zahl der Wanderer zum Gipfel des Bergs Fuji erstmals begrenzt. Dies gilt vorerst nur für die Hauptroute zum Gipfel („Yoshida Trail“), die nur noch von max. 4.000 Besuchern/Tag begangen werden darf. Hierzu müssen Wandernde vorab gegen Gebühr einen Zeitabschnitt über die offizielle Website von „Mt. Fuji Climbing“ buchen.
 
 * Bitte informieren Sie sich hierzu auch rechtzeitig bei den japanischen Behörden und auf der Website von [„Mt. Fuji Climbing“.](https://www.fujisan-climb.jp/en/)
 
@@ -104,6 +104,8 @@ Bei Festnahme oder Verkehrsunfällen mit Personenschaden sollten sich Reisende s
 Das japanische und das deutsche Familienrecht unterscheiden sich. So sieht das japanische Recht, z.B. nach einer Trennung der Eltern, kein gemeinsames Sorgerecht für gemeinsame Kinder vor. Darüber hinaus kann das Umgangsrecht des nicht sorgeberechtigten Elternteils eingeschränkt sein, sofern es gewährt wird.
 
 Bei [Kindesentziehungen](https://www.auswaertiges-amt.de/de/kindesentziehung/2007546) nach Japan kann mit einer Rückführung der entzogenen Kinder nur gerechnet werden, wenn der entziehende Elternteil zustimmt. In Japan ist zwar das Haager Kindesentziehungsübereinkommen (HKÜ) anwendbar, es wird jedoch von Japan nur unzureichend umgesetzt. Selbst rechtskräftige Rückführungsentscheidungen japanischer Gerichte werden nicht gegen den Willen des entziehenden Elternteils vollstreckt.
+
+Ob die 2024 beschlossene, aber erst 2026 in Kraft tretende Möglichkeit einer gemeinsamen elterlichen Sorge in der Praxis tatsächliche Änderungen bringt, muss - gerade auch mit Blick auf das weiterhin sehr traditionelle Familienbild der japanischen Gesellschaft - abgewartet werden.
 
 ### Geld/Kreditkarten
 
