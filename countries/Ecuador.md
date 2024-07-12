@@ -12,8 +12,6 @@
 
 ### Innenpolitische Lage
 
-Aktuell kommt es landesweit zu mehrstündiger Stromrationierung. Weitere Informationen bietet das [zuständige Ministerium.](https://www.recursosyenergia.gob.ec)
-
 Im ganzen Land kommt es immer wieder zu Demonstrationen - meist aus politischen und/oder wirtschaftlichen Gründen. Demonstranten blockieren routinemäßig lokale Straßen und Hauptautobahnen, oft ohne vorherige Ankündigung. Demonstrationen können mehrere Tage oder Wochen andauern. Straßenblockaden können den Zugang zu öffentlichen Verkehrsmitteln, Gesundheitsdiensten und Flughäfen erheblich einschränken und den Reiseverkehr sowohl innerhalb als auch zwischen Städten beeinträchtigen. Verkehrsbehinderungen durch Demonstrationen, Straßenblockaden oder Streiks zwingen Reisende, sich lokal über alternative Reisemöglichkeiten zu erkundigen und gegebenenfalls die Normalisierung der Lage abzuwarten. Informationen über aktuell geltende Ausnahmezustände erteilt die ecuadorianische Regierung.
 
 * Bitte informieren Sie sich bei den [ecuadorianischen Behörden](https://www.ecu911.gob.ec/consulta-de-vias/) und in den lokalen Medien über die aktuelle Lage. Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -64,8 +62,6 @@ Die Polizei ist in Notfällen auf Spanisch rund um die Uhr unter der Telefonnumm
 
 Ecuador liegt in einer seismisch sehr aktiven Zone, weshalb es häufiger zu auch schwereren Erdbeben und vulkanischen Aktivitäten kommt.
 
-Zuletzt ereignete sich 2023 ein Erdbeben der Stärke 6,8. Am schwersten betroffen waren hierbei die Provinzen El Oro (Machala) sowie Guayas (Guayaquil) und Azuay (Cuenca).
-
 Insbesondere die Vulkane Sangay (im Park Sangay) und Reventador (etwa 90 km östlich von Quito) sind derzeit aktiv. Die Vulkane Cotopaxi und Tungurahua (im Touristengebiet Baños) stehen unter intensiver Beobachtung. Auf mögliche Evakuierungen und Behinderungen des Reiseverkehrs, ggf. auch durch kurzfristige Sperrungen der Flughäfen Guayaquil und Quito, wird hingewiesen.  
 Nach Erdbeben entlang der pazifischen Küsten besteht insbesondere in Esmeraldas und Manabí auch die Gefahr von Tsunamis.
 
@@ -104,7 +100,7 @@ Ecuador weist eine sehr hohe Unfallrate auf. Grundlegende Sicherheitsvorkehrunge
 
 Bei sportlichen Aktivitäten (Canopy, Bergsteigen, Rafting) entsprechen die Sicherheitshinweise und -vorkehrungen häufig nicht deutschen Standards. Bei der Auswahl von örtlichen Reiseunternehmen sollten Sicherheitsmaßnahmen vorher abgefragt werden. Insbesondere Bergtouren (auch von erfahrenen Bergsteigern) sollten nur mit ortskundigen Führern durchgeführt werden.
 
-Zu bestimmten Jahreszeiten ist an der Küste mit teilweise hohem Wellengang zu rechnen, so dass normalerweise übliche touristische Aktivitäten, beispielsweise die Walbeobachtung auf Touristenbooten im Pazifik, untersagt werden können.
+Zu bestimmten Jahreszeiten ist an der Küste mit teilweise hohem Wellengang zu rechnen, sodass normalerweise übliche touristische Aktivitäten, beispielsweise die Walbeobachtung auf Touristenbooten im Pazifik, untersagt werden können.
 
 ### Führerschein
 
@@ -112,7 +108,7 @@ Es ist bei Aufenthalten bis zu 90 Tagen der nationale deutsche Führerschein mit
 
 ### LGBTIQ
 
-Gleichgeschlechtliche Ehen sind rechtlich möglich. Im ecuadorianischen Arbeitsrecht gilt ein Diskriminierungsverbot; ferner profitieren LGBTIQ von der wiederhergestellten Versammlungs- und Meinungsfreiheit.
+Gleichgeschlechtliche Ehen sind rechtlich möglich. Im ecuadorianischen Arbeitsrecht gilt ein Diskriminierungsverbot.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -153,7 +149,7 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate g�
 Bei Nichterfüllung dieses Kriteriums erfolgt eine Einreiseverweigerung mit anschließender Rückführung an den Herkunftsflughafen.  
 Die Einreise mit beschädigten Reisepässen kann zur Zurückweisung durch die Grenzpolizei führen.
 
-Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines [polizeilichen Führungszeugnisses](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich, siehe *Aktuelles.*​
+Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines [polizeilichen Führungszeugnisses](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich, siehe *Reiseinfos.*​
 
 ### Visum
 
@@ -179,7 +175,7 @@ Weitere Informationen in spanischer Sprache sind bei der zuständigen Einwanderu
 
 ### Galapagos-Inseln
 
-S. auch *Reiseinfos – Infrastruktur/Verkehr*
+Siehe auch *Reiseinfos – Infrastruktur/Verkehr*
 
 Für den Besuch der Galapagos-Inseln wird zusätzlich die Vorlage eines Hin- und Rückflugtickets und der Hotelreservierung für die geplante Aufenthaltsdauer verlangt. Nähere Informationen sind in spanischer Sprache beim [ecuadorianischen Außenministerium](https://cancilleria.gob.ec) zu finden.
 
@@ -187,7 +183,7 @@ Die sogenannte Tarjeta de Control de Tránsito/Transit Control Card, ausgestellt
 
 ### Minderjährige
 
-Zur Ausreise aus Ecuador ist für Minderjährige, die auch ecuadorianische Staatsangehörige sind (deutsch-ecuadorianische Doppelstaater) oder ein Wohnsitzvisum für Ecuador haben, und nicht von den Sorgeberechtigten begleitet werden, zwingend die Vorlage einer entweder gerichtlichen, notariellen oder von einem ecuadorianischen Konsulat beglaubigten Einverständniserklärung des nicht mitreisenden Elternteils erforderlich. Nähere Informationen bietet das ecuadorianische [Ministerio del Interior](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/).
+Zur Ausreise aus Ecuador ist für Minderjährige mit Wohnsitz/gewöhnlichem Aufenthalt in Ecuador (ab 6 Monaten) unabhängig von der Staatsangehörigkeit, die nicht von den Sorgeberechtigten begleitet werden, zwingend die Vorlage einer entweder ecuadorianischen gerichtlichen, notariellen oder von einem ecuadorianischen Konsulat/Honorarkonsul beglaubigten Einverständniserklärung des nicht mitreisenden Elternteils erforderlich. Nähere Informationen bietet das ecuadorianische [Ministerio del Interior](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/).
 
 * Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige")
 
@@ -306,9 +302,7 @@ Die Kosten für eine medizinische Behandlung (prinzipiell auch bei Notfällen) s
 * Schließen Sie als Taucher eine zusätzliche, auf den Tauchsport abgestimmte Versicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
