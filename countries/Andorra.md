@@ -32,13 +32,12 @@ In Notfällen können sich Reisende vor Ort an die [deutsche Honorarkonsulin in 
 
 ### Infrastruktur/Verkehr
 
-Es gilt Rechtsvorfahrt, außer auf den Hauptstraßen. In den Bergen hat der Verkehr bergauf Vorfahrt vor dem Verkehr bergab. Bei Kreisverkehren hat das im Kreisverkehr befindliche Fahrzeug Vorfahrt, wenn nicht ein weißes, dreieckiges Verkehrsschild mit rotem Rand und drei schwarzen Pfeilen in einem Kreis dem einfahrenden (Fahrzeug) Vorrang einräumt.  
-Das Telefonieren im Auto per Handy ist verboten (außer mit Freisprechanlage).  
-Die zugelassene Höchstgeschwindigkeit beträgt außerhalb bebauter Gemeinden 90 km/h und innerhalb bebauter Gemeinden 40 km/h.
+Es gilt Rechtsvorfahrt, außer auf den Hauptstraßen. In den Bergen hat der Verkehr bergauf Vorfahrt vor dem Verkehr bergab. Bei Kreisverkehren hat das im Kreisverkehr befindliche Fahrzeug Vorfahrt, wenn nicht ein weißes, dreieckiges Verkehrsschild mit rotem Rand und drei schwarzen Pfeilen in einem Kreis dem einfahrenden (Fahrzeug) Vorrang einräumt. Das Telefonieren im Auto per Handy ist verboten (außer mit Freisprechanlage).  
+Die zugelassene Höchstgeschwindigkeit beträgt ohne anderslautende Beschilderung außerorts 90 km/h und innerorts bebauter Gemeinden 50 km/h. Die Promillegrenze beträgt bei Pkw 0,5.
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -48,7 +47,7 @@ Der deutsche Führerschein ist ausreichend.
 
 Es ist verboten, Alkohol in der Öffentlichkeit, wie z. B. auf der Straße, zu trinken.
 
-Der Besitz und Verbrauch von Drogen ist illegal und wird strafrechtlich mit einer Null-Toleranz-Politik geahndet.
+Der Besitz und Verbrauch von Drogen ist illegal und wird strafrechtlich mit einer Null-Toleranz-Politik geahndet. Dies gilt auch für Cannabis.
 
 Touristenwohnungen müssen registriert sein und es drohen Geldstrafen bei Nichtregistrierung. Hotels und Ferienwohnungsbetreiber sind verpflichtet, die Namen von Gästen zu melden.
 
@@ -97,7 +96,7 @@ Minderjährige, die nicht in Begleitung ihrer Erziehungsberechtigten reisen, ben
 Die Ein- und Ausfuhr von Währung ist unbeschränkt möglich, für die Einfuhr von Waren sind keine Beschränkungen bekannt.
 
 In Andorra gekaufte Waren sind grundsätzlich in Frankreich und Spanien zu verzollen.  
-In ein Land der Europäischen Union können die folgenden Mengen der in Andorra gekauften Produkte ohne zusätzliche Kosten ausgeführt werden:
+In ein Land der Europäischen Union können pro Person die folgenden Mengen der in Andorra gekauften Produkte ohne zusätzliche Kosten ausgeführt werden:
 
 * 1,5 l Likör mit mehr als 22 Prozent oder 3 l Likör oder Aperitif mit weniger als 22 Prozent oder Schaumwein bzw. 5 l Tafelwein (gilt nicht für Personen unter 17 Jahren),
 * 300 Zigaretten oder 150 Zigarillos (mit einem Stückgewicht von weniger als 3 g) oder 75 Zigarren (mit einem Stückgewicht von mehr als 3 g) oder 400 g Pfeifentabak (gilt nicht für Personen unter 17 Jahren),
