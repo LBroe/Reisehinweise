@@ -14,7 +14,7 @@ Dies ist ein gemeinsamer Reisehinweis für Israel und die Palästinensischen Geb
 
 Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Zuletzt kam es am 26. Mai 2024 in Tel Aviv und Umgebung zu Beschuss mit Raketen aus dem Gaza-Streifen. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
 
-Im Westjordanland kam es zu massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Die derzeitigen Spannungen in der Region, insbesondere zwischen Iran und Israel, bergen die Gefahr einer erheblichen weiteren Eskalation. Die Sicherheitslage, insbesondere an Feiertagen wie dem „Jerusalemtag“ am 5. Juni 2024 kann sich schnell und ohne Vorwarnung weiter verschärfen.
+Im Westjordanland kam es zu massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Die derzeitigen Spannungen in der Region, insbesondere zwischen Iran und Israel, bergen die Gefahr einer erheblichen weiteren Eskalation. Die Sicherheitslage, insbesondere an Feiertagen, kann sich schnell und ohne Vorwarnung weiter verschärfen.
 
 **Beachten Sie die geltende Reisewarnung.**
 
