@@ -185,8 +185,6 @@ Die sogenannte Tarjeta de Control de Tránsito/Transit Control Card, ausgestellt
 
 Zur Ausreise aus Ecuador ist für Minderjährige mit Wohnsitz/gewöhnlichem Aufenthalt in Ecuador (ab 6 Monaten) unabhängig von der Staatsangehörigkeit, die nicht von den Sorgeberechtigten begleitet werden, zwingend die Vorlage einer entweder ecuadorianischen gerichtlichen, notariellen oder von einem ecuadorianischen Konsulat/Honorarkonsul beglaubigten Einverständniserklärung des nicht mitreisenden Elternteils erforderlich. Nähere Informationen bietet das ecuadorianische [Ministerio del Interior](https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/).
 
-* Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige")
-
 ### Einfuhrbestimmungen
 
 Die Ein- und Ausfuhr von Bargeld ist unbegrenzt möglich, ab einem Wert von 10.000 USD aber deklarationspflichtig.

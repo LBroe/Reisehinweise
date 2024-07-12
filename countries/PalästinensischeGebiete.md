@@ -177,8 +177,7 @@ Landeswährung ist der neue Schekel (ILS). Kreditkarten werden als Zahlungsmitte
 
 Siehe *Aktuelles*
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -209,7 +208,7 @@ Minderjährige unter 16 Jahren, die allein oder in Begleitung eines Elternteils 
 Deutsche Staatsangehörige, die nach dem 1. Januar 1928 geboren sind, benötigen für einen Aufenthalt von max. drei Monaten kein Visum.
 
 Ab dem 1. August 2024 wird für die Einreise nach Israel eine vorherige elektronische Einreisebestätigung durch das elektronische System „ETA-IL“ verpflichtend sein. Fluglinien werden voraussichtlich bereits vor dem Abflug darauf achten, ob diese Bestätigung vorliegt, um einer späteren Zurückweisung bei der Einreise vorzubeugen.  
-Deutsche Staatsangehörige können das System freiwillig bereits ab dem 1. Juni 2024 nutzen. Alle Informationen und den Zugang zum Onlineportal der israelischen Regierung finden Sie auf der Website der Deutschen Botschaft Tel Aviv: <https://tel-aviv.diplo.de/il-de/service/-/2342900>
+Deutsche Staatsangehörige können das System freiwillig bereits seit dem 1. Juni 2024 nutzen. Alle Informationen und den Zugang zum Onlineportal der israelischen Regierung finden Sie auf der [Website der Deutschen Botschaft Tel Aviv.](https://tel-aviv.diplo.de/il-de/service/-/2342900.)
 
 Deutsche Staatsangehörige, die in der Vergangenheit aus Israel ausgewiesen wurden, sich illegal in Israel aufgehalten haben oder denen die Einreise nach Israel verweigert wurde, müssen vor ihrer Einreise bei einer israelischen Auslandsvertretung oder dem israelischen Innenministerium ihren Fall überprüfen lassen und ein Visum einholen.
 
