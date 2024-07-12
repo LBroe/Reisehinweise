@@ -12,9 +12,9 @@ Seit dem 16. September 2023 gilt eine kostenpflichtige Desinfektion für nach Be
 
 Die Nutzung nicht-belarussischer Kreditkarten ist in Belarus derzeit nur eingeschränkt möglich.
 
-* Beachten Sie die geltende Reisewarnung.
+* Beachten Sie die geltende Reisewarnung sowie die Hinweise zu willkürlichen Festnahmen und Strafverfolgung unter *Sicherheit*.
 * Vermeiden Sie Aufenthalte im Grenzgebiet zur Ukraine.
-* Fotografieren und filmen Sie keine militärischen Übungen, militärischen Einrichtungen oder sonstige Orte strategischer Bedeutung, da sonst empfindliche Strafen bis hin zu Verhaftungen drohen können.
+* Fotografieren und filmen Sie keine militärischen Übungen, militärischen Einrichtungen oder sonstige Orte strategischer Bedeutung, da sonst empfindliche Strafen drohen können.
 * Meiden Sie militärische Sperrgebiete weiträumig.
 * Verfolgen Sie die lokalen und internationalen Medien und achten Sie auf lokale Bekanntmachungen.
 * Tragen Sie sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
@@ -41,13 +41,19 @@ Die innenpolitische Lage in Belarus ist nach der Präsidentschaftswahl 2020 und 
 * Verfolgen Sie die lokalen Medien, informieren Sie sich auch über die Sicherheitslage.
 * Berücksichtigen Sie, dass Webseiten und Kanäle in sozialen Medien von belarussischen Behörden aus politischen Gründen willkürlich als extremistisch eingestuft werden können und die Weitergabe von Inhalten oder privaten Meinungsäußerungen auch in den sozialen Medien mit unberechenbaren persönlichen Risiken verbunden sein kann.
 
+### Willkürliche Festnahmen und Strafverfolgung
+
+Verhaftungen und Verurteilungen können jederzeit, auch aufgrund konstruierter Vorwände, erfolgen. Sie können als politisches Druckmittel dienen; lange Haftstrafen unter harten Bedingungen sind möglich, bei schwerwiegenderen Vorwürfen (darunter „Sabotage gegen den Staat“ oder „Terrorismus“) auch die Verhängung der Todesstrafe.
+
+Strafrechtliche Vorschriften sind zum Teil bewusst vage formuliert und können alltägliche Verhaltensweisen erfassen, die in Deutschland nicht strafbewehrt sind. Persönliche Aufzeichnungen wie Videos und Fotos auf dem Mobiltelefon, Messenger-Dienste und soziale Medien, private Korrespondenz sowie Tagebucheinträge und sonstige Notizen können ausgewertet und gegen Betroffene verwendet werden.
+
 ### Kriminalität
 
 Die Kriminalitätsrate in Belarus ist niedrig. Es kommt in seltenen Fällen zu Kleinkriminalität wie Taschendiebstahl.
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in öffentlichen Verkehrsmitteln und insbesondere in Schlafwagenzügen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Vermeiden Sie das Zeigen größerer Bargeldmengen in der Öffentlichkeit.
-* Parken Sie wertvolle Fahrzeuge möglichst nur auf bewachten Parkplätzen und lassen Sie keine Wertsachen im Fahrzeug zurück.
+* Parken Sie teure und begehrte Fahrzeuge möglichst nur auf bewachten Parkplätzen und lassen Sie keine Wertsachen im Fahrzeug zurück.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine persönlichen Daten von sich mit, sondern vergewissern Sie sich ggf. selbst der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -64,7 +70,7 @@ Im Sommer gibt es teilweise Hitze- und Trockenperioden.
 
 ### Infrastruktur/Verkehr
 
-S. *Aktuelles.*
+Siehe *Aktuelles*
 
 Der Europäische Rat hat Fluggesellschaften aufgefordert, den belarussischen Luftraum zu meiden. Belarussische Maschinen dürfen nicht mehr in der EU landen. Infolgedessen bestehen Flugverbindungen seit Sommer 2021 nur eingeschränkt über Drittländer.
 
@@ -73,7 +79,7 @@ Die öffentlichen Verkehrsmittel wie Eisenbahn, Bus, Metro, Taxis und auch Samme
 Auf den Landstraßen sind die Straßenverhältnisse teilweise schlecht. Bei Fahrten über Land ist mit einem erhöhten Unfallrisiko wegen Wildwechsel zu rechnen.  
 Es besteht Alkoholverbot am Steuer, *s. auch Rechtliche Besonderheiten.*
 
-Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Republik Belarus nicht mehr anerkannt. Bei Einreise in die Republik Belarus muss eine alternative Kfz-Versicherung abgeschlossen werden, da Autofahrer aus den o.g. Ländern ansonsten als nicht kfz-versichert gelten.
+Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch Belarus nicht mehr anerkannt. Bei Einreise in die Republik Belarus muss eine alternative Kfz-Versicherung abgeschlossen werden, da Autofahrer aus den o.g. Ländern ansonsten als nicht Kfz-versichert gelten.
 
 Bei der Ein- und Ausreise mit dem Pkw über, aus und nach Polen bzw. Litauen kann es zu sehr langen Wartezeiten an der Grenze kommen. Aktuelle Informationen zur Situation an der Grenze und „Priority Entry Passes“ für bestimmte Personengruppen sind bei dem [State Border Committee of the Republic of Belarus](http://gpk.gov.by/en/) erhältlich. Abhängig vom gewählten Grenzübergang können lokale Gebühren bei der Ausreise mit dem Pkw anfallen. Nähere Informationen können der [Seite des belarussischen Grenzschutzes](https://gpk.gov.by/news/gpk/96114/) entnommen werden. Viele Strecken in Belarus sind mautpflichtig und durch entsprechende Hinweisschilder gekennzeichnet. Informationen sollten bereits vor Reiseantritt vom [System der elektronischen Mauterhebung in der Republik Belarus](http://www.beltoll.by/) abgerufen werden.
 
@@ -93,7 +99,7 @@ Der nationale deutsche Führerschein wird für kurzfristige Aufenthalte mit eine
 
 ### LGBTIQ
 
-Homosexualität ist in Belarus nicht strafbar.
+Homosexuelle Handlungen sind in Belarus nicht strafbar.
 
 * Beachten Sie die allgemeinen Hinweise für [LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -115,14 +121,13 @@ Landeswährung ist der Belarussische Rubel (BYN). Die Versorgung mit Geld ist du
 
 ## Einreise und Zoll
 
-Siehe *Aktuelles.*
+Siehe *Aktuelles*
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen, wie dem [belarussischen Grenzschutz](https://gpk.gov.by/covid-19/) (Tel: +375 17 329 1898) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen, wie dem [belarussischen Grenzschutz](https://gpk.gov.by/) (Tel: +375 17 329 1898) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -176,7 +181,7 @@ Für den Aufenthalt in Orten nahe der Grenze gelten besondere Bestimmungen. Ggf.
 
 **Von Reisen in die Russische Föderation wird abgeraten. Vor Reisen nach Südrussland in die Grenzregionen zur Ukraine wird gewarnt,** [*siehe Reise- und Sicherheitshinweise Russische Föderation*](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/russischefoederationsicherheit/201536#content_0)*.* Reisebestimmungen können derzeit abweichen, siehe *Aktuelles.*
 
-Hinsichtlich Visumvorgaben bei Reisen auf dem Luftweg zwischen Belarus und der Russischen Föderation wird auf obenstehende Ausführung unter Punkt *„Visumfreie Einreise über Flughäfen in Belarus“ verwiesen.*
+Hinsichtlich Visumvorgaben bei Reisen auf dem Luftweg zwischen Belarus und der Russischen Föderation wird auf obenstehende Ausführung unter Punkt *„Visumsfreie Einreise über Flughäfen in Belarus“ verwiesen.*
 
 Im Reiseverkehr auf dem Landweg ist es an der Grenze zur Russischen Föderation zu Zurückweisungen von Reisenden aus Drittstaaten gekommen, da die dortigen Grenzübergänge rechtlich nur für die Nutzung durch russische und belarussische Staatsangehörige zugelassen sind.
 
@@ -185,14 +190,14 @@ Der Fernzugverkehr (Strecke Berlin-Moskau) ist derzeit eingestellt. Die Nutzung 
 Drittstaatsangehörige können mit gültigem russischen und belarussischen Visum vom Flughafen Minsk über bestimmte Flughäfen (alle vier Moskauer Flughäfen, St. Petersburg, Kaliningrad und Sotschi) in die Russische Föderation ein- bzw. in die Gegenrichtung wieder ausreisen. Es wird empfohlen, bei Reisen von Belarus in die Russische Föderation und umgekehrt keine anderen als die genannten Flughäfen zu nutzen.
 
 * Um Zurückweisungen und mögliche Bußgelder an den russischen Grenzstellen zu vermeiden, reisen Sie als Drittstaater nicht auf dem Landweg in die Russische Föderation ein und umgekehrt nicht von der Russischen Föderation nach Belarus.
-* Sofern Sie über Belarus in die Russische Föderation reisen möchten, machen Sie sich unbedingt mit den Einreisebestimmungen für die Russische Föderation vertraut, siehe [Reise- und Sicherheitshinweise für die Russische Föderation](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit/201536 "Russische Föderation: Reise- und Sicherheitshinweise").
+* Sofern Sie über Belarus in die Russische Föderation reisen möchten, machen Sie sich unbedingt mit den Einreisebestimmungen vertraut, siehe [Reise- und Sicherheitshinweise für die Russische Föderation](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit/201536 "Russische Föderation: Reise- und Sicherheitshinweise").
 * Sofern Sie über die Russische Föderation nach Belarus reisen, benötigen Sie auch für den Transit ein russisches Visum sowie ein Einreisevisum für Belarus, auch wenn es keine Grenzkontrollen geben sollte. Sie riskieren ansonsten ein Bußgeld.
 * Erkundigen Sie sich bei Flugreisen von oder nach Belarus über die Russische Föderation bei der jeweiligen Fluggesellschaft, ob das Reisegepäck unter Umständen nicht bis nach Minsk, sondern nur bis zum russischen Zielflughafen durchgecheckt werden kann.
 * Beachten Sie die Informationen über die Passagierabfertigung bei Reisen in die Russische Föderation und Reisen aus der Russischen Föderation des Minsker Flughafens.
 
 ### Registrierung
 
-Ausländer und Staatenlose, die sich länger als zehn Kalendertage in Belarus aufhalten, müssen sich bei der jeweils zuständigen Abteilung für Staatsangehörigkeits- und Migrationsangelegenheiten (OGIM) registrieren. Sofern nicht im Hotel unterbracht, muss die Registrierung bei Privatunterkunft innerhalb von zehn Kalendertagen selbst vorgenommen werden.
+Ausländer und Staatenlose, die sich länger als zehn Kalendertage in Belarus aufhalten, müssen sich bei der jeweils zuständigen Abteilung für Staatsangehörigkeits- und Migrationsangelegenheiten (OGIM) registrieren. Sofern nicht im Hotel untergebracht, muss die Registrierung bei Privatunterkunft innerhalb von zehn Kalendertagen selbst vorgenommen werden.
 
 Die Registrierung kann gebührenfrei online über das Unified Portal of e-Services (NAIS) erfolgen. Nach Einrichtung eines personenbezogenen Zugangs kann der entsprechende Antrag frühestens am Tag der Einreise auf Englisch, Russisch oder Belarussisch ausgefüllt und abgesandt werden. Hierzu werden Angaben aus dem Reisepass und aus der Krankenversicherungspolice benötigt. Zudem sind Name und Anschrift der einladenden Person anzugeben. Personennamen müssen auch in der englischsprachigen Version ausnahmslos in kyrillischen Buchstaben angegeben werden. Nach erfolgreicher Online-Registrierung muss der im Portal erzeugte Beleg ausgedruckt und bei Ausreise vorgelegt werden. Sollte die Online-Registrierung nicht erfolgreich abgeschlossen werden können, so muss die Registrierung persönlich vorgenommen werden.
 
@@ -229,36 +234,34 @@ Bei Ein- und  Ausreise nach bzw. aus Belarus mit Minderjährigen wird in der Re
 
 Seit dem 1. Oktober 2023 gelten geänderte Einfuhrbestimmungen. Ausführliche Informationen sind auf der Webseite des [belarussischen Zolls](http://www.customs.gov.by/en/) zu finden.
 
-Devisen in Wert von mehr als 10.000 USD müssen deklariert werden. Geringere Beträge können auf Wunsch ebenfalls schriftlich deklariert werden.
+Devisen im Wert von mehr als 10.000 USD müssen deklariert werden. Geringere Beträge können auf Wunsch ebenfalls schriftlich deklariert werden.
 
-Bei Einreise mit dem Flugzeug dürfen Waren mit einem Zollwert von höchstens 10.000 Euro und mit einem Gesamtgewicht von 50 kg zollfrei in die Eurasische Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) eingeführt werden, bei Einreise auf dem Landweg Waren mit einem Zollwert von höchstens 1.000 EUR und einem Gesamtgewicht von 31 kg in die Eurasische Wirtschaftsunion eingeführt werden, bei mehrfachen Reisen weniger.
+Bei Einreise mit dem Flugzeug dürfen Waren mit einem Zollwert von höchstens 10.000 Euro und mit einem Gesamtgewicht von 50 kg zollfrei in die Eurasische Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) eingeführt werden, bei Einreise auf dem Landweg Waren mit einem Zollwert von höchstens 1.000 Euro und einem Gesamtgewicht von 31 kg in die Eurasische Wirtschaftsunion eingeführt werden, bei mehrfachen Reisen weniger.
 
-Zollfrei erfolgt unter Beachtung der oben genannten Zollwert- bzw. Gewichtsobergrenzen die Einfuhr von drei Litern Alkoholgetränke und Bier pro Person im Alter ab 18 Jahren sowie die Einfuhr von 200 Zigaretten oder 50 Zigarren oder 250 g Tabak bzw. von oben genannten Tabakerzeugnisse mit einem Gesamtgewicht von 250 g.
+Zollfrei erfolgt unter Beachtung der oben genannten Zollwert- bzw. Gewichtsobergrenzen die Einfuhr von drei Litern alkoholische Getränke und Bier pro Person im Alter ab 18 Jahren sowie die Einfuhr von 200 Zigaretten oder 50 Zigarren oder 250 g Tabak bzw. von oben genannten Tabakerzeugnisse mit einem Gesamtgewicht von 250 g.
 
 Arzneimittel, die Drogen bzw. psychotrope Substanzen enthalten, dürfen nur mit Verschreibung und Übersetzung ins Russische oder Belarussische für den Eigenbedarf und maximal eine Woche (Narkotika) bzw. in einer Menge von bis zu 90 Dosen (psychotrope Substanzen) eingeführt werden, Medizin im Allgemeinen nur in begrenztem Umfang. Nähere Informationen, auch zu nicht verschreibungspflichtigen Medikamenten, sind beim belarussischen Gesundheitsministeriumzu finden.
 
 Detaillierte Informationen sind beim [belarussischen Zoll](http://www.customs.gov.by/en/) bzw. unter [goPL.by](http://gopl.by/normy-vvoza-tovarov-v-belarus-iz-polshi/#_____1) zu finden.
 
-Die belarussischen Zollbehörden sehen selbst bei kleinsten Verstößen gegen die geltenden Vorschriften sehr harte Strafen bis hin zu mehrjährigen Haftstrafen vor, insbesondere im Falle der Einfuhr von Drogen bzw. psychotropischen Substanzen. Hierunter fällt auch beispielsweise das Mitführen von kleinsten Mengen an Cannabisprodukten. Eine Konfiszierung der betreffenden Gegenstände, unabhängig von ihrem Wert, erfolgt bei Verstößen in jedem Fall. Auch Fahrzeuge, Maschinen und hochwertige Konsumgüter können von Beschlagnahmungen betroffen sein. Erforderliche Zolldokumente sollten mit größtmöglicher Sorgfalt ausgefüllt werden.
+Die belarussischen Zollbehörden sehen selbst bei kleinsten Verstößen gegen die geltenden Vorschriften sehr harte Strafen bis hin zu mehrjährigen Haftstrafen vor, insbesondere im Falle der Einfuhr von Drogen bzw. psychotropischen Substanzen. Hierunter fällt auch beispielsweise das Mitführen kleinster Mengen an Cannabisprodukten. Eine Konfiszierung der betreffenden Gegenstände, unabhängig von ihrem Wert, erfolgt bei Verstößen in jedem Fall. Auch Fahrzeuge, Maschinen und hochwertige Konsumgüter können von Beschlagnahmungen betroffen sein. Erforderliche Zolldokumente sollten mit größtmöglicher Sorgfalt ausgefüllt werden.
 
 #### *Einreise mit dem Fahrzeug*
 
-Siehe *Aktuelles.*
+Siehe *Aktuelles*
 
 Ein außerhalb der Eurasischen Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) zugelassenes Fahrzeug kann für die Dauer des Aufenthaltes, jedoch nicht länger als für ein Jahr nach Belarus und in die Wirtschaftsunion ohne Entrichtung von Zollgebühren und Steuern zeitweise eingeführt werden.  
 Vergehen werden streng geahndet und können mit einer Konfiszierung des Fahrzeuges und/ oder Strafzahlung enden.
 
-Für Fahrzeuge wird eine entsprechende Versicherung benötigt, die für die Republik Belarus gilt, beispielsweise mittels einer [Frontier Insurance Policy](http://germany.mfa.gov.by/docs/reminder_eng.pdf), die in der Regel auch an der Grenze erhältlich ist. Die Versicherung mittels grüner Versicherungskarte ist nicht mehr möglich. Vergehen werden mit einer Geldstrafe geahndet.
+Für Fahrzeuge wird eine entsprechende Versicherung benötigt, die für Belarus gilt, beispielsweise mittels einer [Frontier Insurance Policy](http://germany.mfa.gov.by/docs/reminder_eng.pdf), die in der Regel auch an der Grenze erhältlich ist. Die Versicherung mittels grüner Versicherungskarte ist nicht mehr möglich. Vergehen werden mit einer Geldstrafe geahndet.
 
 Ein durch einen Drittstaater (nicht Staatsangehöriger der Wirtschaftsunion) privat eingeführtes Fahrzeug kann während des Aufenthaltes auch durch einen anderen Drittstaater privat gefahren werden. Eine Vollmacht bzw. Anmeldung bei der Zollbehörde wird nicht benötigt.
 
 ### Heimtiere
 
-Es dürfen nicht mehr als zwei Heimtiere (Hunde, Katzen oder Frettchen) pro Person in die Eurasische Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) zollfrei eingeführt werden. Vögel dürfen nicht eingeführt werden.
+Weitere Informationen zur Einfuhr von Heimtieren finden Sie beim [belarussischen Zoll](http://www.customs.gov.by/ru/domashnije-zhivotnije-ru/).
 
-Für die Einfuhr von Heimtieren ist der EU-Heimtierausweis mit Chipkarte oder Tätowierung vorzulegen. Es muss nachgewiesen werden, dass bei Hunden ein bestehender wirksamer Impfschutz gegen Tollwut, Staupe, Hepatitis, Enteritis, Parvo- und Adenovireninfektionen sowie gegen Leptospirose besteht. Bei Katzen ist Impfschutz gegen Tollwut und Panleukopenie (Katzenseuche) nachzuweisen, bei Frettchen gegen Pasteurellose.
-
-Zusätzlich muss ein veterinärärztliches Zeugnis vorgelegt werden, das nicht mehr als fünf Tage vor Einfuhr ausgestellt wurde. Es muss ins Russische oder Belarussische übersetzt bzw. in englischer Sprache ausgestellt sein und die Seuchenfreiheit bestätigen. Es muss hierbei nachgewiesen werden, dass das Tier in den letzten zwölf Monaten nicht an viraler Enzephalitis jeglicher Art oder an Trypanosomen-Infektionen erkrankt ist. Es muss ebenso nachgewiesen werden, dass das Tier nicht in den letzten 20 Tagen an Milzbrand erkrankt ist. Hunde und Katzen dürfen darüber hinaus in den letzten zwölf Monaten nicht an Pseudowut, Tularämie oder Dermatophytose erkrankt sein, ebenso wenig an Tollwut oder Tuberkulose in den letzten sechs Monaten. Katzen können bei Einfuhr auf Dermatophytose untersucht werden. Weitere Informationen zur Einfuhr von Heimtieren finden Sie beim [belarussischen Zoll](http://www.customs.gov.by/ru/domashnije-zhivotnije-ru/).
+* Beachten Sie bitte die geänderten und mit Wirkung vom 16. September 2024 geltenden Vorschriften zur (Wieder-)Einfuhr von Heimtieren in die [EU,](https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm) siehe auch [Zoll](https://www.zoll.de/DE/Privatpersonen/Reisen/Reisen-nach-Deutschland-aus-einem-nicht-eu-Staat/Einschraenkungen/Tiere-und-Pflanzen/Schutz-Tierseuchen/Regelungen-Heimtiere/regelungen-heimtiere.html) und [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/haus-und-zootiere_node.html)
 
 ## Gesundheit
 
@@ -308,9 +311,7 @@ Die medizinische Versorgung entspricht oft nicht westeuropäischem Standard. Die
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
