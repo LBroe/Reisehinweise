@@ -1,13 +1,5 @@
 # Brasilien: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Anhaltende schwere Regenfälle im Bundesstaat Rio Grande do Sul und im südlichen Teil des Bundesstaates Santa Catarina haben seit Wochenbeginn zu schweren Überschwemmungen, Erdrutschen und Brückeneinstürzen mit einer steigenden Zahl an Todesopfern geführt; mehrere Personen gelten als vermisst. Die (Verkehrs-)Infrastruktur wurde zum Teil stark beschädigt; viele Überlandstraßen sind derzeit unterbrochen oder unpassierbar. Der Flughafen von Porto Alegre wurde am Abend des 3. Mai 2024 vorübergehend geschlossen. Weitere Unwetter in den nächsten Tagen können nicht ausgeschlossen werden.
-
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Informieren Sie sich regelmäßig über die Wetter- und Straßenlage, insbesondere, wenn Reisen auf dem Landweg anstehen.
-* Beachten Sie die Hinweise lokaler Behörden.
-
 ## Sicherheit
 
 **Von Reisen in die unmittelbaren Grenzgebiete zu Venezuela wird abgeraten.** 
