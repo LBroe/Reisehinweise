@@ -8,18 +8,19 @@
 
 Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand können Anschläge selbst in Urlaubsgebieten nicht ausgeschlossen werden. Zuletzt kam es 2019 in Bangkok an unterschiedlichen Orten zu kleineren Bombenexplosionen.
 
-In den Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla im Süden Thailands an der Grenze zu Malaysia kommt es regelmäßig zu Auseinandersetzungen zwischen Separatistengruppen und Sicherheitskräften sowie zu terroristischen Anschlägen, auch auf von Ausländern frequentierte Ziele. Dort gelten Notstandsgesetze. In einzelnen Distrikten, insbesondere an der Grenze zu Malaysia, kann es auch kurzfristig zur Verhängung von nächtlichen Ausgangssperren kommen.
+In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kommt es regelmäßig zu Auseinandersetzungen zwischen Separatistengruppen und Sicherheitskräften sowie zu terroristischen Anschlägen, auch auf von Ausländern frequentierte Ziele. Dort gelten Notstandsgesetze. In einzelnen Distrikten, insbesondere an der Grenze zu Malaysia, kann es auch kurzfristig zur Verhängung nächtlicher Ausgangssperren kommen.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
-* Folgen Sie stets den Anweisungen von Sicherheitskräften, bei unvermeidbaren Aufenthalten in den Südprovinzen auch im Fall von nächtlichen Ausgangssperren.
+* Folgen Sie stets den Anweisungen von Sicherheitskräften, bei unvermeidbaren Aufenthalten in den Südprovinzen auch im Fall nächtlicher Ausgangssperren.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
-Es kann in allen Landesteilen zu Demonstrationen und anderen Kundgebungen kommen. Gewaltsame Zusammenstöße zwischen Demonstranten und Sicherheitskräften sind nicht auszuschließen. In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kann es zu Auseinandersetzungen und Anschlägen kommen. Hier gilt das Notstandsrecht.  
-Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung und an Gegebenheiten des Landes kann strafrechtlich relevant werden, insbesondere, wenn sie unter Nutzung elektronischer Medien geäußert wird.
+Es kann in allen Landesteilen zu Demonstrationen und anderen Kundgebungen kommen. Gewaltsame Zusammenstöße zwischen Demonstranten und Sicherheitskräften sind nicht auszuschließen. In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kann es zu Auseinandersetzungen und Anschlägen kommen. Hier gilt das Notstandsrecht.
 
-* Seien Sie sich des strengen Majestätsbeleidigungsgesetzes in Thailand bewusst.
+Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung, dem König und dem thailändischen Königshaus kann strafrechtlich relevant werden, insbesondere, wenn sie unter Nutzung elektronischer Medien geäußert wird.  
+
+* Seien Sie sich des strengen Majestätsbeleidigungsgesetzes in Thailand bewusst, *siehe Reiseinfos - Rechtliche Besonderheiten*.
 * Informieren Sie sich über die lokalen und internationalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -58,8 +59,8 @@ Thailand befindet sich in einer seismisch aktiven Zone, in der mit Erd- und Seeb
 
 * Achten Sie stets auf Warnmeldungen des thailändischen [Meteorological Department](https://www.tmd.go.th/en).
 * Beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Beachten Sie im Fall einer Sturmwarnung die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
@@ -75,24 +76,24 @@ Bei Tuk-Tuk-Fahrten werden Reisende oft am Ende mit stark überteuerten Forderun
 * Bleiben Sie im Fall eines Unfalls ruhig und versuchen Sie, Eskalationen zu vermeiden.
 * Seien Sie bei der Nutzung von Tuk-Tuks besonders vorsichtig und handeln Sie Preise vor Fahrtantritt aus.
 * Nutzen Sie im Stadtgebiet von Bangkok möglichst Taxis mit der Aufschrift „Taxi-Meter“.
-* Bei Reisen nach Preah Vihear (Khao Phra Viharn) und zu den umliegenden Tempelanlagen beachten Sie die [Reise- und Sicherheitshinweise für Kambodscha](https://www.auswaertiges-amt.de/de/service/laender/kambodscha-node/kambodschasicherheit/220008 "Kambodscha: Reise- und Sicherheitshinweise").
+* Beachten Sie bei Reisen nach Preah Vihear (Khao Phra Viharn) und zu den umliegenden Tempelanlagen die [Reise- und Sicherheitshinweise für Kambodscha](https://www.auswaertiges-amt.de/de/service/laender/kambodscha-node/kambodschasicherheit/220008 "Kambodscha: Reise- und Sicherheitshinweise").
 * Beachten Sie, dass bei Einreise per Linienflug nach Thailand auch die Ausreise per Linienflug erfolgen muss. Bei Einreise per Chartermaschine muss auch die Ausreise per Charterflug erfolgen. Eine Kombination der Reisewege kann bei Ausreise zu Zurückweisungen/Problemen beim Boarding führen.
 
 ### Führerschein
 
-Zum Führen von Kraftfahrzeugen sind entweder der internationale Führerschein (nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968), der nur in Verbindung mit dem nationalen deutschen Führerschein gültig ist, oder eine thailändische Fahrerlaubnis erforderlich. Deutsche nationale Führerscheine allein werden in Thailand offiziell nicht anerkannt.  
+Zum Führen von Kraftfahrzeugen sind entweder der internationale Führerschein (nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968), der nur in Verbindung mit dem nationalen deutschen Führerschein gültig ist, oder eine thailändische Fahrerlaubnis erforderlich. Deutsche nationale Führerscheine allein werden in Thailand nicht anerkannt.  
 Für Aufenthalte von über drei Monaten ist grundsätzlich eine thailändische Fahrerlaubnis erforderlich.  
 Die Umschreibung einer deutschen in eine thailändische Fahrerlaubnis kann in Thailand beantragt werden. Verbindliche Informationen zur Antragstellung können beim [Department of Land Transport](https://www.dlt.go.th/en/) erfragt werden.
 
 ### Besondere Verhaltenshinweise
 
-Thailand ist eine konstitutionelle Monarchie, in der der König sowohl als Staatsoberhaupt als auch als oberster Hüter der Religion eine zentrale Rolle einnimmt. Kritik an König, der königlichen Familie und der Monarchie gilt allgemein als tabu, siehe *rechtliche Besonderheiten - Majestätsbeleidigung.*
+Thailand ist eine konstitutionelle Monarchie, in der der König sowohl als Staatsoberhaupt als auch als oberster Hüter der Religion eine zentrale Rolle einnimmt. Kritik an König, der königlichen Familie und der Monarchie gilt allgemein als tabu, siehe *Rechtliche Besonderheiten - Majestätsbeleidigung.*
 
 * Achten Sie beim Betreten von Tempeln, Moscheen und Kirchen auf angemessene Kleidung.
 
 ### LGBTIQ
 
-Thailand ist bekannt für seine Toleranz gegenüber der LGBTIQ-Community. Dies gilt insbesondere für die Großstädte. Homosexuelle Handlungen sind nicht kriminalisiert. Gleichgeschlechtliche Ehen sind jedoch bisher nicht anerkannt und es gibt keine rechtliche Gleichstellung hinsichtlich Steuern, Adoption, Namensrecht, etc..
+Thailand ist bekannt für seine Toleranz gegenüber der LGBTIQ-Community. Dies gilt insbesondere für die Großstädte. Homosexuelle Handlungen sind nicht kriminalisiert. Gleichgeschlechtliche Ehen sind jedoch bisher nicht anerkannt und es gibt keine rechtliche Gleichstellung hinsichtlich Steuern, Adoption, Namensrecht etc..
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -102,9 +103,8 @@ Thailand ist bekannt für seine Toleranz gegenüber der LGBTIQ-Community. Dies g
 
 **Vor Erwerb, Besitz, Verteilung sowie Ein- und Ausfuhr von Rauschgiften aller Art (auch Marihuana, Ecstasy und anderer Amphetamine) wird dringend gewarnt.** Schon der Besitz geringer Rauschgiftmengen führt zu hohen Freiheitsstrafen; für einzelne Delikte sehen die thailändischen Strafgesetze die Todesstrafe vor, die 2018 nach neun Jahren Aussetzung erstmals wieder vollstreckt wurde. Die Mitnahme bzw. der Transport von Gegenständen für Dritte ohne Kenntnis des Inhalts kann verhängnisvolle Folgen haben.
 
-Seit Juni 2022 werden bestimmte in Thailand produzierte Cannabis-Produkte mit einem THC-Gehalt von weniger als 0,2% nicht mehr als Droge eingestuft. Der Konsum in der Öffentlichkeit ist jedoch weiterhin illegal. Wegen bestehender Restriktionen bezüglich des Anbaus, Konsums und Vertrieb sowie noch fehlender Ausführungsvorschriften wird weiterhin zur Vorsicht geraten.
+Seit Juni 2022 werden bestimmte in Thailand produzierte Cannabis-Produkte mit einem THC-Gehalt von weniger als 0,2% nicht mehr als Droge eingestuft. Der Konsum in der Öffentlichkeit ist jedoch weiterhin illegal. Wegen bestehender Restriktionen bezüglich des Anbaus, Konsums und Vertriebs sowie noch fehlender Ausführungsvorschriften wird weiterhin zur Vorsicht geraten.
 
-* Bitte erkundigen Sie sich bei den lokalen Behörden.
 * Bitte beachten Sie, dass Besitz und Konsum auch geringer Mengen aller Drogenarten in mehreren Staaten Südostasiens streng bestraft wird (teilweise bis hin zur Todesstrafe). Dies gilt auch im Transitbereich der jeweiligen Flughäfen. Weitere Hinweise entnehmen Sie bitte den [Reise- und Sicherheitshinweisen](https://diplo.de/r) zu dem jeweiligen Land.
 
 #### *Majestätsbeleidigung*
@@ -146,7 +146,7 @@ Neben dem Einfuhrverbot ist auch der Verkauf oder Kauf von E-Zigaretten (auch IQ
 
 ### Wohneigentum
 
-Größte Umsicht ist geboten beim Erwerb von Wohneigentum, auch von Time-Sharing-Wohnrechten. In vielen Fällen werden die Leistungen nicht in der vertraglich zugesicherten Weise erbracht. Zudem ist es entgegen der vertraglichen Vereinbarung häufig nicht mehr möglich, die Wohnrechte zu veräußern oder zu tauschen. Eine Durchsetzung eigener Rechte scheitert in der Regel daran, dass betreffende Firmen nach kurzer Zeit vom Markt verschwinden.
+Größte Umsicht ist geboten beim Erwerb von Wohneigentum, auch von Time-Sharing-Wohnrechten. In vielen Fällen werden die Leistungen nicht in der vertraglich zugesicherten Weise erbracht. Zudem ist es entgegen der vertraglichen Vereinbarung häufig nicht mehr möglich, die Wohnrechte zu veräußern oder zu tauschen. Eine Durchsetzung eigener Rechte scheitert in der Regel daran, dass betroffene Firmen nach kurzer Zeit vom Markt verschwinden.
 
 * Verständigen Sie ggf. die Polizei, auch wenn diese in vielen Fällen nicht im notwendigen Umfang ermittelt. Die Touristenpolizei ist ausschließlich für Streitigkeiten zwischen Touristen und Thais zuständig. Die Mitarbeiter sprechen Englisch.
 
@@ -159,7 +159,7 @@ Vorsicht ist geboten vor in Umlauf befindlichem Falschgeld.
 
 * Tauschen Sie Geld möglichst nur in autorisierten Wechselstuben.
 * Lassen Sie besondere Vorsicht walten, wenn Sie Ihre Kreditkarte verwenden. Geben Sie sie im Restaurant nicht aus der Hand.
-* Nutzen Sie Geldautomaten innerhalb von Bankgebäuden, achten Sie auf ihre Umgebung und auf zusätzliche, technische Geräte (manipulierter Karteneingabeschlitz, zusätzlich angebrachte Kamera zur Ausspähung der PIN, etc.).
+* Nutzen Sie Geldautomaten innerhalb von Bankgebäuden, achten Sie auf Ihre Umgebung und auf zusätzliche technische Geräte (manipulierter Karteneingabeschlitz, zusätzlich angebrachte Kamera zur Ausspähung der PIN etc.).
 * Tauschen Sie Geld möglichst nur in autorisierten Wechselstuben.
 
 ## Einreise und Zoll
@@ -190,18 +190,18 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente müssen zum Zeitpunkt der Einreise mindestens noch sechs Monate gültig sein.
 
-Die Einreise mit einmal als verloren oder gestohlen gemeldeten Reisedokumenten wird in Thailand regelmäßig verweigert, auch wenn diese Dokumente von innerdeutschen Behörden zurückgegeben und der entsprechende Vermerk in den Fahndungslisten gelöscht wurde. In diesen Fällen sind Reisende dazu gezwungen, die Rückreise auf eigene Kosten anzutreten.
+Die Einreise mit einmal als verloren oder gestohlen gemeldeten Reisedokumenten wird in Thailand regelmäßig verweigert, auch wenn diese Dokumente von innerdeutschen Behörden zurückgegeben und der entsprechende Vermerk in den Fahndungslisten gelöscht wurde. In diesen Fällen sind Reisende gezwungen, die Rückreise auf eigene Kosten anzutreten.
 
 Ausländische Staatsangehörige sind verpflichtet, ihre Ausweise stets mit sich zu führen. Es werden häufig Ausweiskontrollen, insbesondere in den Vergnügungsvierteln der Hauptstadt, aber auch in Pattaya, Phuket und Chiang Mai, durchgeführt. Eine Fotokopie des Passes ist ausreichend, sofern auch die Seite mit dem thailändischen Visum bzw. Einreisestempel kopiert und mitgeführt wird.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für touristische Aufenthalte grundsätzlich kein Visum, das vor der Einreise einzuholen wäre.  
-Reisende werden dann visapflichtig, wenn sie ihre Weiter- oder Rückreise nicht mittels Flugschein oder Bus- bzw. Zugticket nachweisen können.  
-Die zulässige Aufenthaltsdauer wird bei der Einreise durch die Einwanderungsbehörde festgelegt: bei Einreisen sowohl auf dem Luftweg als auch auf dem Landweg ist ein Aufenthalt von längstens 30 Tagen zulässig.  
-Eine einmalige Verlängerung des visafreien Aufenthalts um weitere max. 30 Tage für ausschließlich touristische Zwecke ist möglich. Die Visumsverlängerung muss vor Ablauf der zulässigen visafreien Aufenthaltsdauer beim zuständigen thailändischen Immigration Bureau beantragt werden.
+Deutsche Staatsangehörige benötigen für touristische Aufenthalte grundsätzlich kein Visum vor der Einreise.  
+Reisende werden dann visumspflichtig, wenn sie ihre Weiter- oder Rückreise nicht mittels Flugscheins oder Bus- bzw. Zugticket nachweisen können.  
+Die zulässige Aufenthaltsdauer wird bei der Einreise durch die Einwanderungsbehörde festgelegt. Bei Einreisen auf dem Luft-/Landweg ist ein Aufenthalt von maximal 60 Tagen zulässig.  
+Eine einmalige Verlängerung des visumsfreien Aufenthalts um weitere max. 30 Tage für ausschließlich touristische Zwecke ist möglich. Die Visumsverlängerung muss vor Ablauf der zulässigen visumsfreien Aufenthaltsdauer beim zuständigen thailändischen Immigration Bureau beantragt werden.
 
-Einreisen ohne Visum auf dem Land- und Schiffsweg sind auf max. zwei Einreisen pro Kalenderjahr begrenzt. Die Einreise über internationale Flughäfen ist von dieser Regelung nicht betroffen.
+Einreisen ohne Visum auf dem Land- und Seeweg sind auf max. zwei Einreisen pro Kalenderjahr begrenzt. Die Einreise über internationale Flughäfen ist von dieser Regelung nicht betroffen.
 
 Vor der Einreise bei einer thailändischen Auslandsvertretung eingeholte touristische Visa berechtigen im Regelfall zu einem Aufenthalt von längstens 60 Tagen.
 
@@ -209,7 +209,7 @@ Nähere Informationen zu den einzelnen Visatypen erteilen (in englischer Sprache
 
 #### *Überschreitung des zulässigen Aufenthalts*
 
-Verstöße gegen aufenthaltsrechtliche Bestimmungen sind in Thailand keine Kavaliersdelikte. Reisende, die die zulässige Aufenthaltsdauer überschreiten („overstay“), riskieren eine Festnahme und Abschiebehaft, empfindliche Geld- und Haftstrafen, eine Abschiebung auf eigene Kosten und eine Wiedereinreisesperre. Für „Overstay“ bis zu längstens 40 Tagen wird zurzeit eine pauschalierte Geldstrafe in Höhe von 500 TBH (ca. 13 EUR) je zusätzlichem Aufenthaltstag, maximal 20.000 TBH (ca. 500 EUR) erhoben. Kann diese nicht bezahlt werden, folgt ein gerichtliches Verfahren, das im Regelfall zur Verhängung einer Geldstrafe oder einer Ersatzfreiheitsstrafe führt. Geldstrafen können auch bei Mittellosigkeit nicht von deutschen Behörden übernommen werden. Bis zur Abschiebung wird in der Regel Abschiebehaft angeordnet. Die Haftbedingungen in der Abschiebehaft sind sehr hart.
+Verstöße gegen aufenthaltsrechtliche Bestimmungen sind in Thailand keine Kavaliersdelikte. Reisende, die die zulässige Aufenthaltsdauer überschreiten („Overstay“), riskieren eine Festnahme und Abschiebehaft, empfindliche Geld- und Haftstrafen, eine Abschiebung auf eigene Kosten und eine Wiedereinreisesperre. Für „Overstay“ bis zu längstens 40 Tagen wird zurzeit eine pauschalierte Geldstrafe in Höhe von 500 TBH (ca. 13 EUR) je zusätzlichem Aufenthaltstag, maximal 20.000 TBH (ca. 500 EUR) erhoben. Kann diese nicht bezahlt werden, folgt ein gerichtliches Verfahren, das im Regelfall zur Verhängung einer Geldstrafe oder einer Ersatzfreiheitsstrafe führt. Geldstrafen können auch bei Mittellosigkeit nicht von deutschen Behörden übernommen werden. Bis zur Abschiebung wird in der Regel Abschiebehaft angeordnet. Die Haftbedingungen in der Abschiebehaft sind sehr hart.
 
 Auch wenn bei Einreise in der Regel nur der beabsichtigte Aufenthaltsort angegeben werden muss, führt die thailändische Immigration in Zweifelsfällen (z.B. bei manchen Rucksackreisenden) Befragungen durch und fordert auch nähere Angaben oder sogar Nachweise über die beabsichtigte Unterkunft.
 
@@ -217,7 +217,7 @@ Wird bei der Ausreise festgestellt, dass im Pass kein Einreisestempel vorhanden 
 
 Es sind zahlreiche Betrugsfälle bekannt geworden, in denen Reisenden gefälschte Visa verkauft wurden. Reisende haben in diesen Fällen mit zusätzlichen Strafverfahren wegen des Besitzes gefälschter Dokumente zu rechnen.
 
-* Beantragen Sie die Verlängerung von Visa nur unmittelbar bei den thailändischen Einwanderungsbehörden (Bureau of Immigration), nehmen Sie keine Dienste von Dienstleistern, z. B. Reisebüros oder Hotels, in Anspruch. In Bangkok gibt es für einige Visakategorien die Möglichkeit die Verlängerung des Visums online über den [Dienstleister VFS](https://thailandevoa.vfsevisa.com/thailand/online/home/index) zu beantragen.
+* Beantragen Sie die Verlängerung von Visa nur unmittelbar bei den thailändischen Einwanderungsbehörden (Bureau of Immigration), nehmen Sie keine Dienste von Dienstleistern, z. B. Reisebüros oder Hotels, in Anspruch. In Bangkok gibt es für einige Visakategorien die Möglichkeit, die Verlängerung des Visums online über den [Dienstleister VFS](https://thailandevoa.vfsevisa.com/thailand/online/home/index) zu beantragen.
 * Reisen Sie nur über offizielle Grenzübergänge ein und achten Sie darauf, einen Einreisestempel in den Pass zu erhalten.
 
 ### Minderjährige
@@ -232,7 +232,7 @@ Alleinreisende Minderjährige müssen eine offizielle Zustimmungserklärung des 
 
 Die Ein- und Ausfuhr ausländischer Devisen ist in unbegrenzter Höhe zulässig; Reisende müssen jedoch ein- oder auszuführende Beträge, die (insgesamt) den Gegenwert von 20.000 USD übersteigen, deklarieren.
 
-Die Ein- und Ausfuhr der Landeswährung Baht ist ebenfalls unbegrenzt gestattet. Bei der Einfuhr ist auch keine Anzeige erforderlich. Bei der Ausfuhr sind Beträge von 50.000 THB (ca. 1.300 EUR) bzw. 500.000 THB (ca.13.000 EUR) oder mehr (nur für die Ausfuhr nach Myanmar, Kambodscha, Laos, Malaysia und Vietnam) zu deklarieren.
+Die Ein- und Ausfuhr der Landeswährung Baht ist ebenfalls unbegrenzt gestattet. Bei der Einfuhr ist auch keine Anzeige erforderlich. Bei der Ausfuhr sind Beträge von 50.000 THB (ca. 1.300 EUR) bzw. 500.000 THB (ca. 13.000 EUR) oder mehr (nur für die Ausfuhr nach Myanmar, Kambodscha, Laos, Malaysia und Vietnam) zu deklarieren.
 
 #### *Antiquitäten*
 
@@ -240,14 +240,14 @@ Die Ausfuhr bestimmter Antiquitäten (z.B. Buddhafiguren oder –bilder) ist nur
 
 #### *Souvenirs*
 
-Die Ausfuhr bestimmter Lederprodukte (z.B. Elefant, Krokodil, Schlange) und Elfenbein sowie deren Einfuhr nach Deutschland unterliegen dem [Washingtoner Artenschutzabkommen/CITES](https://www.bfn.de/thema/cites) und sind ggf. damit verboten.
+Die Ausfuhr bestimmter Lederprodukte (z.B. Elefant, Krokodil, Schlange) und Elfenbein sowie deren Einfuhr nach Deutschland unterliegen dem [Washingtoner Artenschutzabkommen/CITES](https://www.bfn.de/thema/cites) und sind evtl. verboten.
 
 * Es wird dringend empfohlen, sich vor dem Kauf über das Washingtoner Artenschutzabkommen und die damit verbundenen Einfuhrbestimmungen zu informieren.
 
 #### *Zigaretten*
 
 Zigaretten dürfen nur bis zu max. 200 Stück pro Person in Thailand eingeführt werden. Bei Überschreiten der Höchstgrenze kann eine Geldstrafe in zehnfacher Höhe des Warenwerts verhängt und die Ware konfisziert werden.  
-Die Einfuhr von sog. Verdampfern, z.B. E-Zigaretten (auch IQOS), E-Barakus, und Zubehör nach Thailand ist verboten, siehe *Rechtliche Besonderheiten - Rauchverbot/E-Zigaretten*.
+Die Einfuhr sog. Verdampfer, z.B. E-Zigaretten (auch IQOS), E-Barakus und Zubehör nach Thailand ist verboten, siehe *Rechtliche Besonderheiten - Rauchverbot/E-Zigaretten*.
 
 #### *Drohnen*
 
@@ -259,7 +259,7 @@ Informationen zu Beschränkungen und Antragsformulare zur Medikamenteneinfuhr in
 
 ### Heimtiere
 
-Für die Einreise mit Heimtieren sind ein Formular des [Thai Department of Livestock Development](http://thaiembdc.org/wp-content/uploads/2015/05/Permit-form-R-1-1.pdf) und ein amtstierärztliches Zeugnis erforderlich, das maximal 10 Tage vor der Einreiseausgestellt sein muss. Hunde und Katzen müssen geimpft sein. Weitere Informationen erteilt das Suvarnabhumi Airport Cargo Clearance Customs Office.
+Für die Einreise mit Heimtieren sind ein Formular des [Thai Department of Livestock Development](http://thaiembdc.org/wp-content/uploads/2015/05/Permit-form-R-1-1.pdf) und ein amtstierärztliches Zeugnis erforderlich, das maximal 10 Tage vor der Einreise ausgestellt sein muss. Hunde und Katzen müssen geimpft sein. Weitere Informationen erteilt das Suvarnabhumi Airport Cargo Clearance Customs Office.
 
 ## Gesundheit
 
@@ -368,9 +368,7 @@ Die medizinische Versorgung im Lande ist insbesondere in Bangkok und auch in den
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Krankenversicherung ab, die Risiken abdeckt, die von den gesetzlichen Kassen nicht übernommen werden (z. B. notwendiger Rücktransport nach Deutschland im Krankheitsfall, Behandlung bei Privatärzten oder in Privatkliniken).
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen.  Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
