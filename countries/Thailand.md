@@ -27,7 +27,7 @@ Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung, dem König und
 
 ### Kriminalität
 
-Thailand verzeichnet zunehmende Kriminalität. Neben Diebstahl und Betrugsfällen kommen auch Gewaltverbrechen wie Vergewaltigung und Raubüberfälle, auch mittels mit Betäubungsmitteln versetzter Getränke in Bars und Clubs, teilweise mit Todesfolge, vor. Das betrifft insbesondere die Tourismushochburgen Phuket, Koh Samui, Koh Tao und Pattaya. Auf den monatlich stattfindenden ,,Mondscheinpartys" (Full Moon Party) auf der nördlich von Koh Samui gelegenen Insel (Koh) Pha Ngan ist es bereits mehrfach zu tödlichen Zwischenfällen, wie der Vergewaltigung von unter Drogen oder Alkohol stehenden Touristinnen, gekommen.
+Thailand verzeichnet zunehmende Kriminalität. Neben Diebstahl und Betrugsfällen kommen auch Gewaltverbrechen wie Vergewaltigung und Raubüberfälle, auch mittels mit Betäubungsmitteln versetzter Getränke in Bars und Clubs, teilweise mit Todesfolge, vor. Das betrifft insbesondere die Tourismushochburgen Phuket, Koh Samui, Koh Tao und Pattaya. Auf den monatlich stattfindenden "Mondscheinpartys" (Full Moon Party) auf der nördlich von Koh Samui gelegenen Insel (Koh) Pha Ngan ist es bereits mehrfach zu tödlichen Zwischenfällen, wie der Vergewaltigung von unter Drogen oder Alkohol stehenden Touristinnen, gekommen.
 
 Frauen wird empfohlen, ihrer persönlichen Sicherheit besondere Aufmerksamkeit zu schenken, sich angemessen zu kleiden und einsame Gegenden sowie unbeleuchtete Straßen nach Einbruch der Dunkelheit zu meiden.
 
@@ -69,13 +69,13 @@ Thailand befindet sich in einer seismisch aktiven Zone, in der mit Erd- und Seeb
 Es gibt ein Inlandsflugnetz, Eisenbahnen, Busverbindungen und in Bangkok ein Schnellbahnsystem.
 
 Es herrscht Linksverkehr; im Straßenverkehr ist besondere Vorsicht geboten. In Thailand ist die Zahl tödlicher Verkehrsunfälle sehr hoch, 70% der Opfer sind Zweiradfahrer. Für Motorradfahrer gilt Helmpflicht. Nach Verkehrsunfällen sind impulsive Reaktionen von Beteiligten (selbst Waffengewalt) nicht auszuschließen.  
-Im Stadtgebiet von Bangkok erfolgt in der Regel nur bei Taxis mit der Aufschrift „Taxi Meter“ die Abrechnung mittels Zähler. Außerhalb Bangkoks gibt es nicht immer Taxameter.  
+Im Stadtgebiet von Bangkok erfolgt in der Regel nur bei Taxis mit der Aufschrift "Taxi Meter“ die Abrechnung mittels Zähler. Außerhalb Bangkoks gibt es nicht immer Taxameter.  
 In Phuket dürfen Taxis aus dem Ostteil der Insel nicht in den Westteil (an die Strände) fahren. Hingegen können sich Tuk-Tuks frei über die ganze Insel bewegen.  
 Bei Tuk-Tuk-Fahrten werden Reisende oft am Ende mit stark überteuerten Forderungen konfrontiert.
 
 * Bleiben Sie im Fall eines Unfalls ruhig und versuchen Sie, Eskalationen zu vermeiden.
 * Seien Sie bei der Nutzung von Tuk-Tuks besonders vorsichtig und handeln Sie Preise vor Fahrtantritt aus.
-* Nutzen Sie im Stadtgebiet von Bangkok möglichst Taxis mit der Aufschrift „Taxi-Meter“.
+* Nutzen Sie im Stadtgebiet von Bangkok möglichst Taxis mit der Aufschrift "Taxi-Meter“.
 * Beachten Sie bei Reisen nach Preah Vihear (Khao Phra Viharn) und zu den umliegenden Tempelanlagen die [Reise- und Sicherheitshinweise für Kambodscha](https://www.auswaertiges-amt.de/de/service/laender/kambodscha-node/kambodschasicherheit/220008 "Kambodscha: Reise- und Sicherheitshinweise").
 * Beachten Sie, dass bei Einreise per Linienflug nach Thailand auch die Ausreise per Linienflug erfolgen muss. Bei Einreise per Chartermaschine muss auch die Ausreise per Charterflug erfolgen. Eine Kombination der Reisewege kann bei Ausreise zu Zurückweisungen/Problemen beim Boarding führen.
 
@@ -113,7 +113,7 @@ Das thailändische Königshaus genießt besonderen Respekt. Abfällige oder krit
 
 #### *Diebstahl*
 
-Der Diebstahl von Gegenständen mit geringem Wert kann mit sehr hohen Haftstrafen geahndet werden. Strafmilderung wird auch dann nicht gewährt, wenn der Diebstahl „zwanghaft“ (Kleptomanie) erfolgt.
+Der Diebstahl von Gegenständen mit geringem Wert kann mit sehr hohen Haftstrafen geahndet werden. Strafmilderung wird auch dann nicht gewährt, wenn der Diebstahl "zwanghaft" (Kleptomanie) erfolgt.
 
 #### *Sexueller Missbrauch von Kindern*
 
@@ -121,7 +121,7 @@ Der sexuelle Missbrauch von Minderjährigen in Thailand wird hart bestraft und a
 
 #### *Zugangsbeschränkungen zu Bars und Diskotheken*
 
-Personen unter 20 Jahren ist der Zutritt zu Bars, Diskotheken und Massagesalons generell verboten. Für Jugendliche unter 18 Jahren gilt eine Sperrstunde ab 22 Uhr. Jugendlichen, die nach dieser Zeit ohne elterliche Begleitung in der Öffentlichkeit angetroffen werden, droht die vorläufige Festnahme. Der Begriff "Öffentlichkeit" wird von den Behörden weit ausgelegt und umfasst neben Restaurants auch Kinos. Alkoholkonsum ist Jugendlichen unter 18 Jahren in der Öffentlichkeit verboten und wird bestraft. Generell ist das Trinken von Alkohol im Inneren eines fahrenden oder parkenden Fahrzeugs verboten; dies gilt für alle Insassen.
+Personen unter 20 Jahren ist der Zutritt zu Bars, Diskotheken und Massagesalons generell verboten. Für Jugendliche unter 18 Jahren gilt eine Sperrstunde ab 22 Uhr. Jugendlichen, die nach dieser Zeit ohne elterliche Begleitung in der Öffentlichkeit angetroffen werden, droht die vorläufige Festnahme. Der Begriff "Öffentlichkeit" wird von den Behörden weit ausgelegt und umfasst neben Restaurants auch Kinos. Alkoholkonsum ist Jugendlichen unter 18 Jahren in der Öffentlichkeit verboten und wird bestraft. Generell ist das Trinken von Alkohol im Inneren eines fahrenden oder parkenden Fahrzeugs verboten; dies gilt für alle Insassen.
 
 #### *Kleidungsvorschriften*
 
@@ -209,7 +209,7 @@ Nähere Informationen zu den einzelnen Visatypen erteilen (in englischer Sprache
 
 #### *Überschreitung des zulässigen Aufenthalts*
 
-Verstöße gegen aufenthaltsrechtliche Bestimmungen sind in Thailand keine Kavaliersdelikte. Reisende, die die zulässige Aufenthaltsdauer überschreiten („Overstay“), riskieren eine Festnahme und Abschiebehaft, empfindliche Geld- und Haftstrafen, eine Abschiebung auf eigene Kosten und eine Wiedereinreisesperre. Für „Overstay“ bis zu längstens 40 Tagen wird zurzeit eine pauschalierte Geldstrafe in Höhe von 500 TBH (ca. 13 EUR) je zusätzlichem Aufenthaltstag, maximal 20.000 TBH (ca. 500 EUR) erhoben. Kann diese nicht bezahlt werden, folgt ein gerichtliches Verfahren, das im Regelfall zur Verhängung einer Geldstrafe oder einer Ersatzfreiheitsstrafe führt. Geldstrafen können auch bei Mittellosigkeit nicht von deutschen Behörden übernommen werden. Bis zur Abschiebung wird in der Regel Abschiebehaft angeordnet. Die Haftbedingungen in der Abschiebehaft sind sehr hart.
+Verstöße gegen aufenthaltsrechtliche Bestimmungen sind in Thailand keine Kavaliersdelikte. Reisende, die die zulässige Aufenthaltsdauer überschreiten ("Overstay“), riskieren eine Festnahme und Abschiebehaft, empfindliche Geld- und Haftstrafen, eine Abschiebung auf eigene Kosten und eine Wiedereinreisesperre. Für "Overstay“ bis zu längstens 40 Tagen wird zurzeit eine pauschalierte Geldstrafe in Höhe von 500 TBH (ca. 13 EUR) je zusätzlichem Aufenthaltstag, maximal 20.000 TBH (ca. 500 EUR) erhoben. Kann diese nicht bezahlt werden, folgt ein gerichtliches Verfahren, das im Regelfall zur Verhängung einer Geldstrafe oder einer Ersatzfreiheitsstrafe führt. Geldstrafen können auch bei Mittellosigkeit nicht von deutschen Behörden übernommen werden. Bis zur Abschiebung wird in der Regel Abschiebehaft angeordnet. Die Haftbedingungen in der Abschiebehaft sind sehr hart.
 
 Auch wenn bei Einreise in der Regel nur der beabsichtigte Aufenthaltsort angegeben werden muss, führt die thailändische Immigration in Zweifelsfällen (z.B. bei manchen Rucksackreisenden) Befragungen durch und fordert auch nähere Angaben oder sogar Nachweise über die beabsichtigte Unterkunft.
 
@@ -340,7 +340,7 @@ Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel 
 
 ### Aviäre Influenza (Vogelgrippe)
 
-Seit Jahren ist in Thailand die hochpathogene Form der aviären Influenza („Vogelgrippe“) aufgetreten, in den letzten Jahren ist es allerdings nicht mehr zu menschlichen Erkrankungsfällen gekommen. Fast immer erfolgt die Übertragung auf den Menschen durch den engen und direkten Kontakt zu infiziertem Geflügel.
+Seit Jahren ist in Thailand die hochpathogene Form der aviären Influenza ("Vogelgrippe“) aufgetreten, in den letzten Jahren ist es allerdings nicht mehr zu menschlichen Erkrankungsfällen gekommen. Fast immer erfolgt die Übertragung auf den Menschen durch den engen und direkten Kontakt zu infiziertem Geflügel.
 
 * Bitte beachten Sie die vom Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz veröffentlichte Information [Hinweise an Reisende zur Vogelgrippe.](https://www.auswaertiges-amt.de/blob/254348/7a71975bb8eb85b7c95551b7e9024859/vogelgrippe-data.pdf "Vogelgrippe - Aviäre Influenza")
 
