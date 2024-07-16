@@ -89,10 +89,10 @@ Bewaffnete Überfälle auf Touristen sowie auf Pkw und Überlandbusse sind keine
 
 ## Natur und Klima
 
-Siehe *Aktuelles*
-
 Das Klima ist im Norden und Zentrum tropisch und im Süden subtropisch.  
 In der Regenzeit, die im Süden und Südosten von November bis Anfang April und im Nordosten von April bis Juli andauert, kommt es regelmäßig zu Überschwemmungen und Erdrutschen. Dies führt zu erheblichen Verkehrsbehinderungen durch unpassierbare Straßen und Brücken.
+
+Außergewöhnlich starke Regenfälle haben im Mai/Juni 2024 im Bundesstaat Rio Grande do Sul zu schweren Überschwemmungen, Erdrutschen und Brückeneinstürzen mit über 150 Todesopfern geführt. Die (Verkehrs-)Infrastruktur wurde zum Teil stark beschädigt; einige Überlandstraßen sind nach wie vor unterbrochen oder unpassierbar. Der ebenfalls erheblich in Mitleidenschaft gezogene Flughafen von Porto Alegre bleibt auf unbestimmte Zeit geschlossen (begrenzte Ausweichmöglichkeiten nach Canoas [bei Porto Alegre], Caxias do Sul [ca. 2 ½ Stunden auf dem Landweg] oder Florianópolis [ca. sechs Stunden auf dem Landweg]).
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Informieren Sie sich regelmäßig über die Wetter- und Straßenlage, insbesondere, wenn Reisen auf dem Landweg anstehen.
@@ -383,9 +383,7 @@ Es wird ausdrücklich darauf hingewiesen, dass vor jeder Aufnahme und Behandlung
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab und passen Sie ggf. Ihr Kreditkartenlimit an.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
