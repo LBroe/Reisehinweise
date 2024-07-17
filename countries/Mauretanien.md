@@ -4,7 +4,7 @@
 
 ### Präsidentschaftswahl
 
-Am 29. Juni 2024 findet in Mauretanien der erste Wahlgang der Präsidentschaftswahl statt, ein möglicher zweiter Wahlgang fände am 13. Juli 2024 statt.
+Präsident Ghazouani wurde für eine zweite Amtszeit wiedergewählt. Seit dem 2. Juli 2024 ist infolge vereinzelter Demonstrationen das mobile Internet abgeschaltet.
 
 * Verfolgen Sie die Nachrichten in den lokalen und sozialen Medien aufmerksam.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen
@@ -49,7 +49,7 @@ Bei spontanen Kundgebungen und Demonstrationen, insbesondere im Anschluss an das
 
 ### Kriminalität
 
-Allgemeine Kriminalität wie Diebstahl und u.U. bewaffneter Raub kommen vor, auch Sexualdelikte werden berichtet.
+Allgemeine Kriminalität wie Diebstahl und bewaffneter Raub kommen vor, auch Sexualdelikte werden berichtet.
 
 Die Sicherheitslage, insbesondere in den Grenzgebieten zu Algerien und Mali, wird auch durch grenzüberschreitend operierende kriminelle Banden erheblich gefährdet. Zwischen diesen Banden und Sicherheitskräften kann es zu bewaffneten Auseinandersetzungen kommen.
 
@@ -65,7 +65,7 @@ Die Sicherheitslage, insbesondere in den Grenzgebieten zu Algerien und Mali, wir
 
 Es herrscht überwiegend trockenes und heißes Wüstenklima.
 
-Während der Regenzeit von Juli bis Anfang Oktober kann es insbesondere am Senegalfluss, aber auch in den Regionen Adrar und Tagant, Hodh El Chargui und Hodh El Gharbi, zu Überschwemmungen und nicht passierbaren Pisten und Straßen kommen. Auch die Stromversorgung und Kommunikation können beeinträchtigt sein.
+Während der Regenzeit von Juli bis Anfang Oktober kann es insbesondere am Fluss Senegal, aber auch in den Regionen Adrar und Tagant, Hodh El Chargui und Hodh El Gharbi, zu Überschwemmungen und nicht passierbaren Pisten und Straßen kommen. Auch die Stromversorgung und Kommunikation können beeinträchtigt sein.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
@@ -77,7 +77,7 @@ Auf Überlandstraßen besteht aufgrund undisziplinierter Fahrweise und unvermute
 
 Teile der Strecke zwischen Boutilimit, Kiffa und Ayoun El-Atrous (N3) sind in sehr schlechtem Zustand und nur eingeschränkt befahrbar, siehe auch Abschnitt *Sicherheit.*
 
-Bei Fahrten ins tiefe Land ist ausreichend Wasser und Treibstoff mitzuführen, da es keine Versorgungsmöglichkeiten gibt; Brunnen sind selten und häufig verunreinigt. Bei Reisen in Wüstengebiete bestehen erhebliche Risiken, auch durch das extreme Klima.
+Bei Fahrten tief ins Land/ins Landesinnere sind ausreichend Wasser und Treibstoff mitzuführen, da es keine Versorgungsmöglichkeiten gibt; Brunnen sind selten und häufig verunreinigt. Bei Reisen in Wüstengebiete bestehen erhebliche Risiken, auch durch das extreme Klima.
 
 In weiten Teilen Mauretaniens abseits der großen Städte besteht kein Mobilfunknetz.
 

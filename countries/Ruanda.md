@@ -9,13 +9,6 @@ Die Sicherheitslage im Osten der Demokratischen Republik Kongo an der Grenze zu 
 * Lassen Sie im Grenzgebiet besondere Vorsicht walten.
 * **Beachten Sie die Teilreisewarnung für die [Demokratische Republik Kongo](https://www.auswaertiges-amt.de/de/service/laender/kongodemokratischerepublik-node/kongodemokratischerepubliksicherheit/203202).**
 
-### *Präsidentschaftswahlen am 15. Juli 2024*
-
-Am 15. Juli 2024 finden in Ruanda Präsidentschafts- und Parlamentswahlen statt. Der Wahlkampf startet bereits am 22. Juni 2023. Mit Menschenansammlungen und Großkundgebungen, die auch zu Verkehrsbehinderungen führen können, ist zu rechnen.
-
-* Informieren Sie sich über Zeitpunkt und Ort von Großkundgebungen und verhalten Sie sich situationsgerecht.
-* Folgen Sie unbedingt den Anweisungen lokaler Sicherheitskräfte.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -85,7 +78,7 @@ Homosexuelle Handlungen stehen nicht unter Strafe. Gleichgeschlechtliche Beziehu
 
 ### Rechtliche Besonderheiten
 
-Beamtenbeleidigungen können zu mehrwöchigen Haftstrafen führen; eine anwaltliche Verteidigung wird dann erforderlich. Bei Alkohol am Steuer drohen hohe Geldstrafen, Fahrverbot sowie Haftstrafen bis zu fünf Tagen.
+Beamtenbeleidigungen können zu mehrwöchigen Haftstrafen führen; eine anwaltliche Verteidigung wird dann erforderlich. Bei Alkohol am Steuer drohen hohe Geldstrafen, Fahrverbot sowie mehrtägige Haftstrafen.
 
 Der Flughafen Kigali, Brücken, Regierungsgebäude sowie militärische Einrichtungen dürfen nicht fotografiert werden.
 
@@ -239,7 +232,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG").
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
