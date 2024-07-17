@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-Die Gefahr terroristischer Anschläge, insbesondere gegen Ausländer bzw. an Orten, die von diesen bevorzugt aufgesucht werden, besteht fort. Islamistische Organisationen rufen weiterhin zu Anschlägen in Bangladesch auf. Es finden immer wieder Razzien durch die Spezialeinheiten der Polizei statt.
+Die Gefahr terroristischer Anschläge, auch gegen Ausländer bzw. an Orten, die von diesen bevorzugt aufgesucht werden, besteht fort. Islamistische Organisationen rufen weiterhin zu Anschlägen in Bangladesch auf. Es finden immer wieder Razzien durch die Spezialeinheiten der Polizei statt.
 
 * Seien Sie im gesamten Land, insbesondere an bei Ausländern beliebten Orten und bei besonderen Anlässen wie nach den Freitagsgebeten besonders wachsam.
 * Beschränken Sie Ihre Bewegungen im öffentlichen Raum auf das notwendige Maß.
@@ -16,6 +16,10 @@ Die Gefahr terroristischer Anschläge, insbesondere gegen Ausländer bzw. an Ort
 
 ### Innenpolitische Lage
 
+Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten wird geraten, Reisen und Bewegungen im Land auf das notwendige Maß zu beschränken und sich vor allem von größeren Menschenansammlungen, besonders in Städten, fernzuhalten.
+
+2018 wurde das Quotensystem zur Bevorzugung von sog. Freiheitskämpfern im Unabhängigkeitskrieg und deren Kindern und Kindeskindern bei der Vergabe von Arbeitsplätzen im öffentlichen Dienst per Regierungsbeschluss beendet. Im Juni 2024 wurde die Quote durch Beschluss des obersten Gerichts wieder eingeführt. Studenten im ganzen Land riefen daraufhin zu Demonstrationen und Protesten auf. Die Regierung geht inzwischen unter Einsatz von Gewalt gegen die Proteste vor. Allein am 16. Juli 2024 gab es mehrere Tote, Hunderte wurden verletzt.
+
 Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar verschlechtert sich weiter. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
 
 Durch die intensiven Auseinandersetzungen zwischen dem Militär und den Aufständischen in Myanmar kommt es immer wieder auch zu Auswirkungen auf der bangladeschischen Seite der Grenze. Das Grenzgebiet zu Myanmar sollte, wenn möglich, grundsätzlich weiträumig gemieden werden.
@@ -24,10 +28,10 @@ Im Zusammenhang mit der Situation in Gaza kommt es immer wieder zu Demonstration
 
 Im gesamten Gebiet der Chittagong Hill Tracts kann es zu Demonstrationen und bewaffneten Übergriffen kommen, insbesondere in den Bezirken Rangamati, Khagrachari und Bandarban. Reisen in der Region sind nur mit vorheriger Genehmigung der Behörden möglich, siehe *Reiseinfos – Infrastruktur/Verkehr*.
 
-* Besuchen Sie die Aufnahmelager ausschließlich in Begleitung internationaler Organisationen (UNHCR/IOM).
-* Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Planen Sie Ihre Reisebewegungen umsichtig und vermeiden Sie unnötige Fahrten im Umfeld absehbarer Demonstrationen und sonstiger potentiell gewalttätiger Zusammenkünfte.
+* Besuchen Sie die Aufnahmelager ausschließlich in Begleitung internationaler Organisationen (UNHCR/IOM).
+* Informieren Sie sich über die lokalen Medien.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 * Tragen Sie immer Ihr aufgeladenes Mobiltelefon für die Notfallkommunikation bei sich.
 
