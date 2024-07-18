@@ -1,5 +1,17 @@
 # Bangladesch: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten wird geraten, Reisen und Bewegungen im Land auf das notwendige Maß zu beschränken und sich vor allem von größeren Menschenansammlungen, besonders in Städten, fernzuhalten.
+
+2018 wurde das Quotensystem zur Bevorzugung von sog. Freiheitskämpfern im Unabhängigkeitskrieg und deren Kindern und Kindeskindern bei der Vergabe von Arbeitsplätzen im öffentlichen Dienst per Regierungsbeschluss beendet.
+
+Im Juni 2024 wurde die Quote durch Beschluss des obersten Gerichts wieder eingeführt. Studenten im ganzen Land riefen daraufhin zu Demonstrationen und Protesten auf. Die Regierung geht inzwischen unter Einsatz von Gewalt gegen die Proteste vor. Im Zuge der Demonstrationen und Proteste gab es im Juli 2024 bereits mehrere Tote und hunderte Verletzte.
+
+* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Planen Sie Ihre Reisebewegungen umsichtig und vermeiden Sie unnötige Fahrten im Umfeld absehbarer Demonstrationen und sonstiger potentiell gewalttätiger Zusammenkünfte.
+* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -16,9 +28,7 @@ Die Gefahr terroristischer Anschläge, auch gegen Ausländer bzw. an Orten, die 
 
 ### Innenpolitische Lage
 
-Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten wird geraten, Reisen und Bewegungen im Land auf das notwendige Maß zu beschränken und sich vor allem von größeren Menschenansammlungen, besonders in Städten, fernzuhalten.
-
-2018 wurde das Quotensystem zur Bevorzugung von sog. Freiheitskämpfern im Unabhängigkeitskrieg und deren Kindern und Kindeskindern bei der Vergabe von Arbeitsplätzen im öffentlichen Dienst per Regierungsbeschluss beendet. Im Juni 2024 wurde die Quote durch Beschluss des obersten Gerichts wieder eingeführt. Studenten im ganzen Land riefen daraufhin zu Demonstrationen und Protesten auf. Die Regierung geht inzwischen unter Einsatz von Gewalt gegen die Proteste vor. Allein am 16. Juli 2024 gab es mehrere Tote, Hunderte wurden verletzt.
+Siehe *Aktuelles*
 
 Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar verschlechtert sich weiter. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
 
