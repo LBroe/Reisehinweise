@@ -2,6 +2,10 @@
 
 ## Aktuelles
 
+### *Einreise aus Belarus nach Lettland*
+
+Die Einreise mit in Belarus zugelassenen Pkws nach Lettland ist seit dem 1. Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der [zuständigen Zollbehörde](https://www.vid.gov.lv/lv/jaunums/personas-ar-baltkrievijas-republika-registretu-transportlidzekli-turpmak-nevares-iebraukt-latvija) erhältlich.  
+
 ### *Einreise aus der Russischen Föderation nach Lettland/Grenzschließung*
 
 Die Einreise mit in der Russischen Föderation zugelassenen Kfz nach Lettland ist aufgrund Art. 3i der EU-Verordnung 833/2014 ab sofort grundsätzlich untersagt. Ausnahmen bestehen u.a. für den Transitverkehr von/nach Kaliningrad. Weitergehende Informationen (auch zu ggf. möglichen weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der [zuständigen Zollbehörde](https://www.vid.gov.lv/en/article/persons-vehicles-registered-russian-federation-are-banned-entering-latvia) erhältlich.
@@ -101,7 +105,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Lettlands,](https://www.mfa.gov.lv/en/information-travellers-latvia-provisions-preventing-spread-covid-19) [der lettischen Grenzschutzpolizei](https://www.rs.gov.lv/en/border-crossing) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Lettlands](https://www.mfa.gov.lv/en/information-travellers-latvia-provisions-preventing-spread-covid-19) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 

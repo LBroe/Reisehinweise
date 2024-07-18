@@ -2,6 +2,10 @@
 
 ## Aktuelles
 
+### *Einreise aus Belarus nach Estland*
+
+Die Einreise mit in Belarus zugelassenen Pkws nach Estland ist seit dem 1. Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der zuständigen Zollbehörde erhältlich.
+
 ### *Einreise aus der Russischen Föderation nach Estland*
 
 Grenzübertritte am Grenzübergang Narva-Ivangorod sind bis auf Weiteres nur zwischen 7 und 22 Uhr möglich.
