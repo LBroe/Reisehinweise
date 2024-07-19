@@ -51,7 +51,7 @@ Es herrscht Linksverkehr. Fahrten nach Einbruch der Dunkelheit, insbesondere au�
 
 Es gibt in Malawi keine funktionierende Notarztversorgung, und Verkehrsunfälle enden oft tödlich. Autofahrer müssen jederzeit damit rechnen, dass Kinder, Ziegen, Kühe, Esel oder Affen die Straße überqueren. Die wenigen Teerstraßen sind in vielen Teilen mit Schlaglöchern durchsetzt oder zu den Seitenrändern hin stark ausgefranst, sodass teilweise nur eine Fahrspur zur Verfügung steht. Sie dienen zudem fast überall als Wege für Karawanen von Menschen, die ohne Geh- oder gar Radwege die Straße benutzen.
 
-Im Straßenbild Malawis ist die Beförderung als Anhalter zwar normal, aber das Mitfahren auf den Ladeflächen von Lkws oder Pickups ist extrem gefährlich, es kommt häufig zu schwersten Unfällen.
+Im Straßenbild Malawis ist die Beförderung als Anhalter zwar normal, aber das Mitfahren auf den Ladeflächen von Lkws oder Pickups ist extrem gefährlich; es kommt häufig zu schwersten Unfällen.
 
 * Fahren Sie äußerst vorsichtig und defensiv und nicht als Anhalter.
 * Vermeiden Sie Fahrten nach Einbruch der Dunkelheit, insbesondere außerhalb von Städten.
