@@ -1,5 +1,12 @@
 # Slowenien: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Seit dem 18. Juli 2024 wütet einen Flächenbrand im Gebiet der Gemeinde Komen in der Karstregion. Das Feuer erstreckt sich über das [gesamte Gebiet des Berges Trstelj](https://rapidmapping.emergency.copernicus.eu/EMSR739) und breitet sich aufgrund ungünstiger Windverhältnisse in Richtung Nova Gorica aus.
+
+* Reisende werden gebeten, das betroffene Gebiet weiträumig zu meiden, um die Arbeit der Einsatzkräfte nicht zu behindern.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -25,6 +32,8 @@ Zudem sind Fälle bekannt, in denen bei Autopannen überhöhte Abschleppgebühre
 
 ## Natur und Klima
 
+Siehe *Aktuelles*
+
 Im Westen und Nordwesten herrscht alpines, im Norden und Osten kontinentales sowie an der Adriaküste mediterranes Klima.
 
 In den Bergregionen Sloweniens ereignen sich häufig plötzliche Wetterumschwünge, die eine Gefahr für alpine Wandernde bedeuten.
@@ -33,7 +42,7 @@ In den Sommermonaten kommt es in Slowenien teilweise zu Busch- und Waldbränden.
 
 Slowenien liegt in einer seismisch leicht aktiven Zone, weshalb es zu Erdbeben kommen kann.
 
-* Beachten Sie die auf Wanderwegen eingerichteten Absperrungen und folgen Sie den Warnhinweisen.
+* Beachten Sie die auf Wanderwegen eingerichteten Absperrungen und befolgen Sie die Warnhinweise.
 * Beachten Sie die [Hinweise](https://www.policija.si/eng/prevention/safety-on-holidays) der slowenischen Polizei zum Wandern, Klettern und Skifahren.
 * Aktuelle Hinweise zur [Gefahrenlage](https://meteo.arso.gov.si/met/sl/warning) sowie zur [Verkehrslage](http://www.promet.si/).
 * Die slowenische Tourismusbehörde bietet aktuelle Informationen zu [touristischen Reisen](https://www.slovenia.info/en/press-centre/news-of-the-tourism-press-agency/24716-essential-tips-and-advice-for-tourists-during-floods-in-slovenia).
