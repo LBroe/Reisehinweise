@@ -75,10 +75,10 @@ Vor allem in den Sommermonaten kommt es in Italien aufgrund der herrschenden kli
 
 ### *Bärenvorkommen in der norditalienischen Provinz Trient*
 
-In der norditalienischen Provinz Trient/Trentino wurde Anfang April 2023 ein Jogger von einem Bären getötet. In dieser Provinz lebt eine größere Bärenpopulation; in der Nachbarprovinz Südtirol wurden bislang nur vereinzelte Bärenstreifzüge festgestellt.
+In der norditalienischen Provinz Trient/Trentino wurde Mitte Juli 2024 ein Jogger nördlich des Gardasees von einer Bärin attackiert und verletzt. 2023 wurde ein Jogger von einem Bären getötet. In dieser Provinz lebt eine größere Bärenpopulation; in der Nachbarprovinz Südtirol wurden bislang nur vereinzelte Bärenstreifzüge festgestellt.
 
 * Beachten Sie stets bei Wanderungen in bewaldeten, insbesondere abgelegenen Gebieten entsprechende Hinweisschilder und Warnungen und leisten Sie den Anweisungen der lokalen Behörden Folge.
-* Nützliche Hinweise und Verhaltensregeln im Fall einer Begegnung oder bei Sichtung eines Bären gibt es auf der Webseite der [Südtiroler Landesverwaltung](https://www.provinz.bz.it/land-forstwirtschaft/fauna-jagd-fischerei/fauna/braunbaer-suedtirol/wenn-man-einem-baeren-begegnet.asp) und auf dieser [Webseite](https://www.trentino.com/de/freizeit-aktiv/berge-wandern/nuetzliche-informationen/verhaltensregeln-bei-baerenkontakt/).
+* Beachten Sie die Hinweise und Verhaltensregeln auf der Webseite der [Südtiroler Landesverwaltung](https://www.provinz.bz.it/land-forstwirtschaft/fauna-jagd-fischerei/fauna/braunbaer-suedtirol/wenn-man-einem-baeren-begegnet.asp) bei Begegnung mit einem Bären bzw. bei Sichtung. Weitere Informationen auch auf dieser​​​​​​​ [Webseite](https://www.trentino.com/de/freizeit-aktiv/berge-wandern/nuetzliche-informationen/verhaltensregeln-bei-baerenkontakt/).
 
 ### Grenzkontrollen
 
