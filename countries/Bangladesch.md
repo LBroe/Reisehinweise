@@ -6,7 +6,11 @@ Derzeit kommt es zu landesweiten gewaltsamen Zusammenstößen im Zusammenhang mi
 
 Die Regierung geht unter Einsatz von Gewalt gegen die Proteste vor, es gab im Juli 2024 bereits mehrere Tote und hunderte Verletzte.
 
-Am 18. Juli 2024 wurden das Internet und mobile Daten abgeschaltet. Seit Mitternacht 20. Juli 2024 besteht eine landesweite Ausgangssperre, die vorerst bis 21. Juli 2024, 10 Uhr, gelten soll. Militäreinheiten wurden im Regierungsviertel positioniert.
+Am 18. Juli 2024 wurden das Internet und mobile Daten abgeschaltet. Seit Mitternacht 20. Juli 2024 besteht eine landesweite Ausgangssperre, die vorerst bis 21. Juli 2024, 10 Uhr, gelten soll.
+
+Fahrten zum Flughafen sind unter Vorlage eines Tickets weiterhin zulässig. 
+
+Militäreinheiten wurden im Regierungsviertel positioniert.
 
 * Befolgen Sie die geltende Ausgangssperre.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen auch außerhalb der Ausgangssperre weiträumig.
