@@ -2,15 +2,18 @@
 
 ## Aktuelles
 
-Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten wird geraten, Reisen und Bewegungen im Land auf das notwendige Maß zu beschränken und sich vor allem von größeren Menschenansammlungen, besonders in Städten, fernzuhalten.
+Derzeit kommt es zu landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten.
 
-2018 wurde das Quotensystem zur Bevorzugung von sog. Freiheitskämpfern im Unabhängigkeitskrieg und deren Kindern und Kindeskindern bei der Vergabe von Arbeitsplätzen im öffentlichen Dienst per Regierungsbeschluss beendet.
+Die Regierung geht unter Einsatz von Gewalt gegen die Proteste vor, es gab im Juli 2024 bereits mehrere Tote und hunderte Verletzte.
 
-Im Juni 2024 wurde die Quote durch Beschluss des obersten Gerichts wieder eingeführt. Studenten im ganzen Land riefen daraufhin zu Demonstrationen und Protesten auf. Die Regierung geht inzwischen unter Einsatz von Gewalt gegen die Proteste vor. Im Zuge der Demonstrationen und Proteste gab es im Juli 2024 bereits mehrere Tote und hunderte Verletzte.
+Am 18. Juli 2024 wurden das Internet und mobile Daten abgeschaltet. Seit Mitternacht 20. Juli 2024 besteht eine landesweite Ausgangssperre, die vorerst bis 21. Juli 2024, 10 Uhr, gelten soll. Militäreinheiten wurden im Regierungsviertel positioniert.
 
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Befolgen Sie die geltende Ausgangssperre.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen auch außerhalb der Ausgangssperre weiträumig.
 * Planen Sie Ihre Reisebewegungen umsichtig und vermeiden Sie unnötige Fahrten im Umfeld absehbarer Demonstrationen und sonstiger potentiell gewalttätiger Zusammenkünfte.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+* Informieren Sie sich über die lokalen Medien.
+* Registrieren Sie sich, wenn möglich, in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten noch aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
 
 ## Sicherheit
 
