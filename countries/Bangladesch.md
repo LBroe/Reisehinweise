@@ -2,21 +2,18 @@
 
 ## Aktuelles
 
-Derzeit kommt es zu landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten.
+**Von Reisen nach Bangladesch wird derzeit abgeraten.**
 
-Die Regierung geht unter Einsatz von Gewalt gegen die Proteste vor, es gab im Juli 2024 bereits mehrere Tote und hunderte Verletzte.
+Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten besteht seit 20. Juli 2024 eine Ausgangssperre, die am 21. Juli 2024 ohne Enddatum verlängert wurde. Das Internet und mobile Daten sind seit dem 18. Juli 2024 abgeschaltet. Mit weiteren Einschränkungen und Verschlechterungen der Lage muss gerechnet werden.
 
-Am 18. Juli 2024 wurden das Internet und mobile Daten abgeschaltet. Seit Mitternacht 20. Juli 2024 besteht eine landesweite Ausgangssperre, die vorerst bis 21. Juli 2024, 15 Uhr, gelten soll.
-
-Fahrten zum Flughafen sind unter Vorlage eines Tickets weiterhin zulässig. 
+Im Zuge der Demonstrationen und Proteste gab es  bereits über hundert Tote.
 
 Militäreinheiten wurden im Regierungsviertel positioniert.
 
-* Befolgen Sie die geltende Ausgangssperre.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen auch außerhalb der Ausgangssperre weiträumig.
-* Planen Sie Ihre Reisebewegungen umsichtig und vermeiden Sie unnötige Fahrten im Umfeld absehbarer Demonstrationen und sonstiger potentiell gewalttätiger Zusammenkünfte.
+* Befolgen Sie unbedingt die geltende Ausgangssperre und bleiben Sie an einem sicheren Ort.
+* Nutzen Sie etwaige Lockerungen der Ausgangssperre, um Vorräte für mehrere Tage (Wasser, Lebensmittel, Medikamente) und Bargeld zu besorgen. Meiden Sie dabei Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Informieren Sie sich über die lokalen Medien.
+* Informieren Sie sich laufend über die lokalen, internationalen und sozialen Medien (soweit möglich) über die Lage.
 * Registrieren Sie sich, wenn möglich, in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten noch aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
 
 ## Sicherheit
