@@ -4,7 +4,9 @@
 
 **Vor Reisen nach Jemen wird gewarnt. Alle Deutschen, die das Land noch nicht verlassen haben, werden zur Ausreise aus Jemen aufgefordert.** 
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+Am 20. Juli 2024 erfolgten israelische Luftschläge auf Gebiete rund um den jemenitischen Hafen von Hodeidah, bei denen offenbar mehrere Menschen getötet und verletzt wurden. Die Luftschläge waren eine Reaktion auf einen Drohnenangriff der Huthis auf Tel Aviv am Vortag. Die Vorfälle bergen ein Risiko für eine weitere regionale Eskalation und damit einhergehend eine weitere Verschärfung der regionalen Sicherheitslage.
+
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### Angriffe der Huthi-Miliz im Roten Meer und militärische Abwehrmaßnahmen
 
@@ -21,7 +23,7 @@ Das Bundesministerium des Innern hat für deutsche Schiffe in jemenitischen Küs
 
 **Vor Reisen nach Jemen wird gewarnt. Alle Deutschen, die das Land noch nicht verlassen haben, werden zur Ausreise aus Jemen aufgefordert.**
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### Terrorismus
 
