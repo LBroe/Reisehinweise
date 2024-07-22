@@ -4,13 +4,21 @@
 
 ### *Gewaltsame Auseinandersetzungen*
 
-Aufgrund geplanter Steuererhöhungen im kenianischen Haushaltsgesetz kommt es derzeit in Nairobi, Mombasa und anderen Städten Kenias immer wieder zu zum Teil gewaltsamen Demonstrationen und Auseinandersetzungen zwischen den Sicherheitskräften und Demonstranten. Dabei werden auch Schusswaffen gegen die Demonstranten eingesetzt, ebenso Wasserwerfer und Tränengas; es kommt zu Verhaftungen. Es gab in den vergangenen Tagen Tote und Verletzte. Weitere Demonstrationen und (gewaltsame) Auseinandersetzungen sind angekündigt.
+In den sozialen Medien wird für Dienstag, 23. Juli 2024, zur Blockade wichtiger Zufahrts- und Transitstraßen in Nairobi aufgerufen. Davon betroffen sollen u.a. sein:
 
-Reisende sollten folgende Vorsichtsmaßnahmen treffen:
+* Internationaler Flughafen Nairobi (JKIA)
+* Thika Road
+* Waiyakiway
+* Expressway
+* Limuru Road
+* Langata Road
 
-* Vermeiden Sie nicht notwendige Fahrten in Städten, in denen es zu gewaltsamen Protesten kommt. Bleiben Sie an einem sicheren Ort.
-* Halten Sie sich von Regierungsgebäuden fern, auch außerhalb von Nairobi.
-* Seien Sie besonders achtsam und umsichtig.
+Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias.
+
+Reisende sollten folgende Vorsichtsmaßnahmen zur eigenen Sicherheit treffen:  
+
+* Vermeiden Sie nicht notwendige Fahrten. Bleiben Sie an einem sicheren Ort.
+* Sollten Sie zum Flughafen fahren müssen, erkundigen Sie sich bitte zuvor in den Medien zur Situation auf den Zufahrtstraßen. Seien Sie besonders achtsam und umsichtig.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich über die lokalen Medien.
 * Führen Sie stets funktionsfähige Kommunikationsmittel mit sich. Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
@@ -33,17 +41,12 @@ Vor dem Hintergrund des Konflikts im Nahen Osten und angesichts der ohnehin vorh
 
 **Von Reisen in die folgenden Gebiete der North-Rift-Region wird derzeit dringend abgeraten:**
 
--        Korkoron Hills, Tandare Valley und Silale Gorges in **Baringo County;**
-
--        Mukogodo Forest, Kamwenje, Warero und Ndonyoriwo, Lekuruki Hills, Losos und Kiape Caves und Sieku Valley in **Laikipia County;**
-
--        Ltungai Conservancy, Longewan, Nasuur, Lochokia und Lekadaar Escarpmenst, Lolmolok Caves, Pura Valley, Malaso Escarpment und Suguta Valley in **Samburu County;**
-
--        Kapebok, Nakwamoru, Lebokat, Ombollion, Nadome und Kamur Caves in Turkana County sowie Turkwell Escarpment an der Schnittstelle zu **West Pokot** und **Turkana Counties.**
-
-Daneben wird **von Reisen**
-
--          **in das Grenzgebiet zu Somalia (ca. 100 km Entfernung zur Grenze), einschließlich der Provinz Lamu,**
+* Korkoron Hills, Tandare Valley und Silale Gorges in **Baringo County;**
+* Mukogodo Forest, Kamwenje, Warero und Ndonyoriwo, Lekuruki Hills, Losos und Kiape Caves und Sieku Valley in **Laikipia County;**
+* Ltungai Conservancy, Longewan, Nasuur, Lochokia und Lekadaar Escarpmenst, Lolmolok Caves, Pura Valley, Malaso Escarpment und Suguta Valley in **Samburu County;**
+* Kapebok, Nakwamoru, Lebokat, Ombollion, Nadome und Kamur Caves in Turkana County sowie Turkwell Escarpment an der Schnittstelle zu **West Pokot** und **Turkana Counties.**
+* Daneben wird **von Reisen**
+* **in das Grenzgebiet zu Somalia (ca. 100 km Entfernung zur Grenze), einschließlich der Provinz Lamu,**
 
 **dringend abgeraten.**
 
@@ -72,7 +75,7 @@ Bei Aufenthalten und Reisen in abgelegene Orte oder Nebenstrecken der Küstenreg
 
 Siehe *Aktuelles*
 
-Demonstrationen aus politischen oder sozialen Gründen kommen vor, bei denen gewaltsame Auseinandersetzungen nicht ausgeschlossen werden können.
+Aufgrund geplanter Steuererhöhungen im kenianischen Haushaltsgesetz kommt es seit Ende Juni 2024 in Nairobi, Mombasa und anderen Städten Kenias zu zum Teil gewaltsamen Demonstrationen und Auseinandersetzungen zwischen den Sicherheitskräften und Demonstranten. Dabei gab es auch Tote und Verletzte. Weitere Demonstrationen und (gewaltsame) Auseinandersetzungen sind angekündigt.
 
 Demonstrationen können in Kenia jederzeit, auch ohne konkreten Aufruf, stattfinden.
 
