@@ -68,14 +68,14 @@ In den Sommermonaten kommt es häufig zu Hitzewellen mit Temperaturen über 40 G
 
 Das Festland und die Inseln Griechenlands liegen in einer seismisch aktiven Zone, weshalb es häufiger zu Erdbeben und seltener zu vulkanischen Aktivitäten kommen kann.
 
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 
 #### *Stürme und Überschwemmungen*
 
 Im Mittelmeer kann es insbesondere von August bis November vereinzelt zu schweren Herbststürmen bis hin zu sogenannten Medicanes kommen. Diese führen häufig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.  
 
 * Trinken Sie in den von Überschwemmungen betroffenen Gebieten kein Leitungswasser.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
+* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 
 ## Reiseinfos
 

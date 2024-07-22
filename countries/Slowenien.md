@@ -1,12 +1,5 @@
 # Slowenien: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Seit dem 18. Juli 2024 wütet einen Flächenbrand im Gebiet der Gemeinde Komen in der Karstregion. Das Feuer erstreckt sich über das [gesamte Gebiet des Berges Trstelj](https://rapidmapping.emergency.copernicus.eu/EMSR739) und breitet sich aufgrund ungünstiger Windverhältnisse in Richtung Nova Gorica aus.
-
-* Reisende werden gebeten, das betroffene Gebiet weiträumig zu meiden, um die Arbeit der Einsatzkräfte nicht zu behindern.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-
 ## Sicherheit
 
 ### Terrorismus
