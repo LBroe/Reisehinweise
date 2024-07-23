@@ -39,7 +39,7 @@ Bei Investitionen beispielsweise in Grundstücke, Immobilien o. Ä. ist wie bei 
 * Zeigen Sie keine teuren technischen Geräte und Handys in der Öffentlichkeit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen und Busbahnhöfen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie sich von Polizisten immer den Dienstausweis zeigen.
-* Winken Sie keine Taxis auf der Straße heran, sondern bestellen Sie sog. *Radio-Taxis*, die am Leuchtschild auf dem Dach mit Namen und Telefonnummer der Gesellschaft zu erkennen sind, ggf. mithilfe des Hotels oder des Restaurants  vor.
+* Winken Sie keine Taxis auf der Straße heran, sondern bestellen Sie sog. *Radio-Taxis*, die am Leuchtschild auf dem Dach mit Namen und Telefonnummer der Gesellschaft zu erkennen sind, ggf. mithilfe des Hotels oder des Restaurants vor.
 * Vermeiden Sie Nachtfahrten, insbesondere wegen der erhöhten Unfallgefahr.
 * Nehmen Sie grundsätzlich keine von Fremden angebotenen offenen Getränke oder Speisen an.
 * Lassen Sie Getränke und Speisen nicht unbeaufsichtigt.

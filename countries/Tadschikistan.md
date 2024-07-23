@@ -4,9 +4,8 @@
 
 **Von Reisen** 
 
-**-** **in die Grenzregion zu Kirgisistan (grenznahe Gebiete der Bezirke Bobojon Ghafurov, Konibodom, Isfara einschließlich der Exklave Vorukh in der Region Sughd)** 
-
-**-** **in den tadschikischen Grenzbezirk Ischkaschim (Autonomes Gebiet Berg Badachschan - GBAO) und in alle Grenzbezirke zu Afghanistan**
+* **in die Grenzregion zu Kirgisistan (grenznahe Gebiete der Bezirke Bobojon Ghafurov, Konibodom, Isfara einschließlich der Exklave Vorukh in der Region Sughd)**
+* **in den tadschikischen Grenzbezirk Ischkaschim (Autonomes Gebiet Berg Badachschan - GBAO) und in alle grenznahen Gebiete zu Afghanistan**
 
 **wird abgeraten.**
 
@@ -33,7 +32,7 @@ Im Mai 2022 haben die bestehenden Spannungen zwischen tadschikischer Zentralregi
 
 * Seien Sie bei Reisen innerhalb Tadschikistan und insbesondere in den Grenzregionen besonders vorsichtig.
 * Meiden Sie die Grenzregion zu Kirgisistan.
-* Meiden Sie den Grenzbezirk Ischkaschim (Autonomes Gebiet Berg-Badachschan - GBAO) und alle weiteren Grenzbezirke zu Afghanistan.
+* Meiden Sie den Grenzbezirk Ischkaschim (Autonomes Gebiet Berg-Badachschan - GBAO) und alle weiteren grenznahen Gebiete zu Afghanistan.
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich regelmäßig über die Sicherheitslage.
@@ -213,7 +212,7 @@ Bei Reisen in die Pamirregion sollten die Auswirkungen der extremen Höhenlage n
 
 Insbesondere in der Hauptstadt Duschanbe ist mit vermehrter Luftverschmutzung zu rechnen.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -223,9 +222,7 @@ Die ärztliche Versorgung in ganz Tadschikistan ist schlecht und entspricht nich
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
