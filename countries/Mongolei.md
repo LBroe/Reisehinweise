@@ -8,7 +8,7 @@
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage ist trotz häufiger Regierungswechsel stabil. Vereinzelte Demonstrationen, insbesondere vor Wahlen (am 28. Juni 2024), können nicht ausgeschlossen werden.
+Die innenpolitische Lage ist trotz häufiger Regierungswechsel stabil. Vereinzelte Demonstrationen, können nicht ausgeschlossen werden.
 
 * Meiden Sie Demonstrationen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -43,7 +43,7 @@ Es kommt zu extremer Kälte im Winter und extremer Hitze im Sommer. Wetterbeding
 ### Infrastruktur/Verkehr
 
 Bei Inlandsflügen werden internationale Sicherheitsstandards nicht immer eingehalten.  
-Die transmongolische Eisenbahn verbindet Ulan Bator mit Russland und China.
+Die transmongolische Eisenbahn verbindet Ulan Bator mit Russland und China, jedoch besteht die Verbindung nur noch bis zu den Landesgrenzen. Ab den Landesgrenzen gibt es zahlreiche Busverbindungen.
 
 Angesichts der nicht überall ausreichenden Straßeninfrastruktur und der allgemein wenig defensiven Fahrweise besteht bei Überlandtouren erhöhte Unfallgefahr, insbesondere abseits befestigter Straßen.
 
@@ -88,7 +88,7 @@ Fotografierverbot besteht in der Nähe militärischer und Sicherheitseinrichtung
 Landeswährung ist der Tugrik (MNT). USD oder EUR können in allen Banken und Wechselstuben getauscht werden. 500- und 200-EUR-Scheine können wegen sich häufender Betrugsfälle abgelehnt werden. Bei beschädigten Scheinen ist unter Umständen der Wechselkurs schlechter.  
 Laut Gesetz müssen alle Zahlungen in mongolischen Tugrik erfolgen. Auf dem Land kann Geld nur in den Aimag-Zentren getauscht werden, vor längeren Reisen sollte daher ausreichend einheimische Währung in Ulan Bator eingetauscht werden.
 
-In Ulan Bator findet man mehr und mehr Geldautomaten, an denen mit Kredit- oder Bankkarten (Plus-System) Bargeld abgehoben werden kann. Ebenso kann in größeren Banken mit Kreditkarten Geld abgehoben werden. Debitkarten werden nicht akzeptiert. Auf dem Land ist eine derartige Geldversorgung nur selten möglich.
+In Ulan Bator findet man mehr und mehr Geldautomaten, an denen mit Kredit- oder Bankkarten (Plus-System) Bargeld abgehoben werden kann. Ebenso kann in größeren Banken mit Kreditkarten Geld abgehoben werden. An einigen Banken ist die Abhebung mit einer Debitkarte möglich (z.B. Khaan Bank). Auf dem Land ist eine derartige Geldversorgung nur selten möglich.
 
 Alle großen Hotels, Restaurants und Geschäfte, in denen Ausländer häufig verkehren, akzeptieren gängige Kreditkarten.
 
@@ -98,7 +98,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich [offiziellen Stellen der Mongolei](https://berlin.embassy.mn/) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen der Mongolei](https://berlin.embassy.mn/) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -155,7 +155,7 @@ Für die Aus- und Weiterreise in die Volksrepublik China ist ein Visum erforderl
 
 Hierbei ist zu beachten, dass nach geltendem chinesischen Einreiserecht der Visumsantrag im Land der Staatsangehörigkeit oder des gewöhnlichen Aufenthalts (der im Visumsverfahren nachgewiesen werden muss) eingereicht werden muss. Dies bedeutet, dass Reisende in der Mongolei durch die chinesische Botschaft in Ulan Bator kein Visum für China erhalten können.
 
-Zu weiteren Ausnahmen (visumsfreie Einreise nach China für die Dauer von 14 Tagen) erkundigen Sie sich bitte bei der zuständigen chinesischen Auslandsvertretung (Botschaft/Generalkonsulat).
+Zu weiteren Ausnahmen (visumsfreie Einreise nach China für die Dauer von 15 Tagen) erkundigen Sie sich bitte bei der zuständigen chinesischen Auslandsvertretung (Botschaft/Generalkonsulat).
 
 ### Einfuhrbestimmungen
 
@@ -163,11 +163,11 @@ Fremdwährungen dürfen unbegrenzt eingeführt, müssen aber deklariert werden. 
 
 Die Ein- und Ausfuhr der Landeswährung MNT ist verboten.
 
-Bei der Ausreise wird das Gepäck durch den mongolischen Zoll sehr häufig und streng nach Antiquitäten, wertvollen Mineralien, paläontologische Funden, Metallen und Jagdtrophäen durchsucht. Jäger dürfen ihre persönlichen Jagdwaffen inklusive Munition ein- und wieder ausführen. Ausführliche Informationen sind auf der Webseite des [mongolischen Zolls](https://customs.gov.mn/) zu finden.
+Bei der Ausreise wird das Gepäck durch den mongolischen Zoll sehr häufig und streng nach Antiquitäten, wertvollen Mineralien, paläontologischen Funden, Metallen und Jagdtrophäen durchsucht. Jäger dürfen ihre persönlichen Jagdwaffen inklusive Munition ein- und wieder ausführen. Ausführliche Informationen sind auf der Webseite des [mongolischen Zolls](https://customs.gov.mn/) zu finden.
 
 #### *Einreise mit dem Kfz*
 
-Eine Einreise mit dem eigenen Kfz ist möglich. Das Fahrzeug wird bei Einreise in den Pass eingetragen. Sollte die Wiederausreise ohne das Kfz geplant sein, das Fahrzeug also im Land verbleiben oder per Container ausgeführt werden, empfiehlt es sich, das erforderliche Verfahren vorab mit dem mongolischen Hauptzollamt abzuklären. S. auch *Reiseinfos – Infrastruktur/Verkehr und Führerschein.*
+Eine Einreise mit dem eigenen Kfz ist möglich. Das Fahrzeug wird bei Einreise in den Pass eingetragen. Sollte die Wiederausreise ohne das Kfz geplant sein, das Fahrzeug also im Land verbleiben oder per Container ausgeführt werden, empfiehlt es sich, das erforderliche Verfahren vorab mit dem mongolischen Hauptzollamt abzuklären. Siehe auch *Reiseinfos – Infrastruktur/Verkehr und Führerschein.*
 
 ### Heimtiere
 
