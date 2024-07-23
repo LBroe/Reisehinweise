@@ -30,7 +30,7 @@ Im September und Oktober 2023 kam es zu mehreren Anschlägen in der Region Kases
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage hat sich nach den Wahlen 2021 zwischenzeitlich wieder beruhigt, politische Spannungen und vereinzelt auftretende spontane Kundgebungen sowie ein hartes Einschreiten der Sicherheitskräfte können jedoch nicht ausgeschlossen werden.
+Politische Spannungen und vereinzelt auftretende spontane Kundgebungen sowie ein hartes Einschreiten der Sicherheitskräfte können nicht ausgeschlossen werden.
 
 Unruhen in der Demokratischen Republik Kongo und im Südsudan wirken sich gelegentlich auf angrenzende Gebiete in Uganda aus, insbesondere durch Zustrom von Flüchtlingen. Damit verbunden ist eine starke Militärpräsenz in der Grenzregion. Gelegentliche Auseinandersetzungen kommen in unmittelbarer Grenznähe vor, sodass auch der Besuch der ugandischen Nationalparks in diesem Gebiet - insbesondere des Semliki-Nationalparks, des Rwenzori-Nationalparks und des südlichen Teils des Queen-Elizabeth-Nationalparks (Ishasha) - Gefahren bergen kann.
 
@@ -45,7 +45,7 @@ Unruhen in der Demokratischen Republik Kongo und im Südsudan wirken sich gelege
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist erhöht. Landesweit sind bewaffnete Überfälle, Autodiebstähle und –raub („Carjacking“) sowie Entführungen möglich, auch gegenüber Ausländern. 2019 kam es zu einem bewaffneten Überfall und einer Entführung gegenüber einer Touristengruppe im südlichen Teil des Queen Elizabeth-Nationalparks in Ishasha.
+Die Kriminalitätsrate ist erhöht. Landesweit sind bewaffnete Überfälle, Autodiebstähle und –raub („Carjacking“) sowie Entführungen möglich, auch gegenüber Ausländern. 
 
 Es kommt gerade in Kampala immer wieder zu, von Motorradtaxi-Fahrern verübten, Raubüberfällen auf Fußgänger. Diese Überfälle finden vermehrt auch tagsüber statt. Fußgänger werden von den schnell heranfahrenden „Boda-Bodas“ überrascht, brutal niedergeschlagen und ausgeraubt, oder es wird versucht, im Vorbeifahren die Handtasche oder den Rucksack zu entreißen. Dabei sind Verletzungen möglich.
 
