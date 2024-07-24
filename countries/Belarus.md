@@ -6,9 +6,7 @@
 
 ### *Entwicklungen im Grenzgebiet/Grenzschließungen/Einschränkungen im Zahlungsverkehr*
 
-Alle Grenzübergänge zur Ukraine sowie diverse Grenzübergänge zu [Polen](https://www.auswaertiges-amt.de/de/service/laender/polen-node/polensicherheit/199124), zu [Litauen](https://www.auswaertiges-amt.de/de/service/laender/litauen-node/litauensicherheit/200620) und zu [Lettland](https://www.auswaertiges-amt.de/de/service/laender/lettland-node/lettlandsicherheit/200674) sind geschlossen. Seit dem 1. März 2024 sind die Grenzübergänge Privalka-Raigardas und Kotlovka-Lavoriškės zu Litauen geschlossen, die Grenzübergänge Kamenny Log-Medininkai und Benyakoni-Šalčininkai von Fußgängern oder Fahrradfahrern für den Grenzübertritt nicht mehr nutzbar. Weitere kurzfristige Schließungen sind jederzeit möglich. Zusätzliche Kontrollmaßnahmen/Einreisebestimmungen an den Grenzübergängen zu Lettland, Litauen und Polen sind möglich, siehe [Reise- und Sicherheitshinweise](http://diplo.de/r) der entsprechenden Länder.
-
-Seit dem 16. September 2023 gilt eine kostenpflichtige Desinfektion für nach Belarus einreisende Kfz. In Abhängigkeit der Fahrzeuggröße ist mit Gebühren in Höhe von 2 bis 95 BYR (Rubel) zu rechnen.
+Alle Grenzübergänge zur Ukraine sowie diverse Grenzübergänge zu [Polen](https://www.auswaertiges-amt.de/de/service/laender/polen-node/polensicherheit/199124), zu [Litauen](https://www.auswaertiges-amt.de/de/service/laender/litauen-node/litauensicherheit/200620) und zu [Lettland](https://www.auswaertiges-amt.de/de/service/laender/lettland-node/lettlandsicherheit/200674) sind geschlossen. Seit März 2024 sind die Grenzübergänge Privalka-Raigardas und Kotlovka-Lavoriškės zu Litauen geschlossen, die Grenzübergänge Kamenny Log-Medininkai und Benyakoni-Šalčininkai von Fußgängern oder Fahrradfahrern für den Grenzübertritt nicht mehr nutzbar. Weitere kurzfristige Schließungen sind jederzeit möglich. Zusätzliche Kontrollmaßnahmen/Einreisebestimmungen an den Grenzübergängen zu Lettland, Litauen und Polen sind möglich, siehe [Reise- und Sicherheitshinweise](http://diplo.de/r) der entsprechenden Länder.
 
 Die Nutzung nicht-belarussischer Kreditkarten ist in Belarus derzeit nur eingeschränkt möglich.
 
@@ -83,9 +81,11 @@ Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 
 
 Bei der Ein- und Ausreise mit dem Pkw über, aus und nach Polen bzw. Litauen kann es zu sehr langen Wartezeiten an der Grenze kommen. Aktuelle Informationen zur Situation an der Grenze und „Priority Entry Passes“ für bestimmte Personengruppen sind bei dem [State Border Committee of the Republic of Belarus](http://gpk.gov.by/en/) erhältlich. Abhängig vom gewählten Grenzübergang können lokale Gebühren bei der Ausreise mit dem Pkw anfallen. Nähere Informationen können der [Seite des belarussischen Grenzschutzes](https://gpk.gov.by/news/gpk/96114/) entnommen werden. Viele Strecken in Belarus sind mautpflichtig und durch entsprechende Hinweisschilder gekennzeichnet. Informationen sollten bereits vor Reiseantritt vom [System der elektronischen Mauterhebung in der Republik Belarus](http://www.beltoll.by/) abgerufen werden.
 
-Die Bezahlung der Maut erfolgt durch Kauf einer Vignette (Fahrzeuge bis 3,5 t) oder elektronisch durch ein Gerät, das vor der Straßenbenutzung im Fahrzeug installiert werden muss (sog. On-Board-Unit, OBU). Die OBU kann jeweils bei der Einfuhr des Fahrzeugs in die Republik Belarus an BellTol-Servicestellen (z.B. an ausgewählten Tankstellen, durch Hinweistafeln an der Straße gekennzeichnet) kurz hinter den einschlägigen Grenzübergängen und nur für das eigene Kfz angemietet werden. Dazu sind ein Registrierungsprozess und der Abschluss eines Vertrags notwendig.
+Die Bezahlung der Maut erfolgt durch Kauf einer elektronischen Vignette auf der Website [www.beltoll.by](https://beltoll.by/de) oder bei einer beliebigen BelToll-Servicestelle (Fahrzeuge bis 3,5 t) oder elektronisch durch ein Gerät, das vor der Straßenbenutzung im Fahrzeug (3,5 t und darüber) installiert werden muss (sog. On-Board-Unit, OBU). Die OBU kann jeweils bei der Einfuhr des Fahrzeugs in die Republik Belarus an BelToll-Servicestellen (z.B. an ausgewählten Tankstellen, durch Hinweistafeln an der Straße gekennzeichnet) kurz hinter den einschlägigen Grenzübergängen und nur für das eigene Kfz angemietet werden. Dazu sind ein Registrierungsprozess und der Abschluss eines Vertrags notwendig. Motorräder sind von der Maut ausgenommen.
 
 Bei Nichtzahlung der Maut kann es zu Schwierigkeiten bei der Ausreise kommen. Das betroffene Fahrzeug wird durch die belarussischen Grenzbehörden bis zur Bezahlung festgehalten.
+
+Seit September 2023 gilt eine kostenpflichtige Desinfektionspflicht für nach Belarus einreisende Kfz. Die Kosten hierfür belaufen sich auf 2 bis 95 BYN (Rubel) und müssen vor Ort entrichtet werden.
 
 * Fahren Sie besonders vorsichtig und defensiv.
 * Vermeiden Sie nächtliche Autofahrten über Land.
@@ -147,7 +147,7 @@ Bei schon älteren Kinderreisepässen/Reisepässen für Kinder bzw. Fotos, die e
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise nach Belarus grundsätzlich ein Visum.
+Deutsche Staatsangehörige können seit 19. Juli 2024 bis zum 31. Dezember 2024 für bis zu 30 Tage visumsfrei auf dem Land- und Luftweg nach Belarus einreisen. Für darüberhinausgehende Aufenthalte benötigen deutsche Staatsangehörige grundsätzlich ein Visum.  
 
 #### *Visum vor der Einreise*
 
@@ -155,13 +155,13 @@ Das Visum muss rechtzeitig vor Reiseantritt bei der zuständigen belarussischen 
 
 #### *Visum bei Einreise („on arrival“)*
 
-Die Möglichkeit der Ausstellung eines Visums bei der Einreise am Flughafen besteht, sofern diese nicht auf dem Luftweg aus der Russischen Föderation erfolgt (*s. Reiseinfos: Infrastruktur/Verkehr)*. In der Regel ist hier mindestens zwei Tage vor Reiseantritt eine Registrierung durch die einladende Person oder Organisation bei der Konsularabteilung des belarussischen Außenministeriums erforderlich. Genaue Informationen hierzu erteilt die Konsularabteilung des belarussischen Außenministeriums. Genaue Informationen hierzu erteilt die [Konsularabteilung des belarussischen Außenministeriums](https://mfa.gov.by/en/visa/NationalAirportMinsk/).
+Die Möglichkeit der Ausstellung eines Visums bei der Einreise am Flughafen besteht fort, sofern diese nicht auf dem Luftweg aus der Russischen Föderation erfolgt (*s. Reiseinfos: Infrastruktur/Verkehr)*. In der Regel ist hier mindestens zwei Tage vor Reiseantritt eine Registrierung durch die einladende Person oder Organisation bei der Konsularabteilung des belarussischen Außenministeriums erforderlich. Genaue Informationen hierzu erteilt die Konsularabteilung des belarussischen Außenministeriums. Genaue Informationen hierzu erteilt die [Konsularabteilung des belarussischen Außenministeriums](https://mfa.gov.by/en/visa/NationalAirportMinsk/).
 
 #### *Visumsfreie Einreise über Flughäfen in Belarus*
 
 Für Aufenthalte von bis zu 30 Tagen ist eine visumsfreie Einreise nach Belarus über die Flughäfen Minsk, Brest, Witebsk, Gomel, Grodno und Mogiljow möglich. Diese Regelung gilt für Staatsangehörige von 76 Staaten, darunter Deutschland und alle anderen Staaten der Europäischen Union.
 
-. Reisende müssen über den Grenzübergang “Internationaler Flughafen Minsk” oder einen der oben genannten Flughäfen ein- und auch wieder über einen der oben genannten Flughäfen aus Belarus ausreisen und neben einem gültigen Reisedokument über Zahlungsmittel in Auslands- oder Nationalwährung in einer Höhe von mindestens zwei Basiswerten pro Aufenthaltstag (derzeit ca. 22 Euro pro Tag) und einen Nachweis einer in Belarus gültigen Reisekrankenversicherung mit der Versicherungssumme von mindestens 10.000,- Euro verfügen. Die Ausreise muss spätestens am 30. Kalendertag ab mitgezähltem Datum der Einreise erfolgen.
+. Reisende müssen über den Grenzübergang “Internationaler Flughafen Minsk” oder einen der oben genannten Flughäfen ein- und auch wieder über einen der oben genannten Flughäfen aus Belarus ausreisen und neben einem gültigen Reisedokument über Zahlungsmittel in Auslands- oder Nationalwährung in einer Höhe von mindestens zwei Basiswerten pro Aufenthaltstag (derzeit ca. 22 Euro pro Tag) und einen Nachweis einer in Belarus gültigen Reisekrankenversicherung mit der Versicherungssumme von mindestens 10.000,- EUR verfügen. Die Ausreise muss spätestens am 30. Kalendertag ab mitgezähltem Datum der Einreise erfolgen.
 
 Die Regelung zur [visumsfreien Einreise](https://gpk.gov.by/en/border-crossing/30-days-visa-free/) über die oben genannten Flughäfen gilt nicht für Reisende, die aus der Russischen Föderation nach Belarus reisen. Eine visumsfreie Einreise nach Belarus und anschließende Weiterreise in die Russische Föderation kann zu Einreisesperren für Belarus führen. Zur Einreise in die Russische Föderation, siehe *Reisen von der und in die Russische Föderation*.
 
@@ -232,11 +232,11 @@ Bei Ein- und  Ausreise nach bzw. aus Belarus mit Minderjährigen wird in der Re
 
 ### Einfuhrbestimmungen
 
-Seit dem 1. Oktober 2023 gelten geänderte Einfuhrbestimmungen. Ausführliche Informationen sind auf der Webseite des [belarussischen Zolls](http://www.customs.gov.by/en/) zu finden.
+Im Oktober 2023 traten neue Einfuhrbestimmungen in Kraft. Ausführliche Informationen sind auf der Webseite des [belarussischen Zolls](http://www.customs.gov.by/en/) zu finden.
 
 Devisen im Wert von mehr als 10.000 USD müssen deklariert werden. Geringere Beträge können auf Wunsch ebenfalls schriftlich deklariert werden.
 
-Bei Einreise mit dem Flugzeug dürfen Waren mit einem Zollwert von höchstens 10.000 Euro und mit einem Gesamtgewicht von 50 kg zollfrei in die Eurasische Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) eingeführt werden, bei Einreise auf dem Landweg Waren mit einem Zollwert von höchstens 1.000 Euro und einem Gesamtgewicht von 31 kg in die Eurasische Wirtschaftsunion eingeführt werden, bei mehrfachen Reisen weniger.
+Bei Einreise mit dem Flugzeug dürfen Waren mit einem Zollwert von höchstens 10.000 EUR und mit einem Gesamtgewicht von 50 kg zollfrei in die Eurasische Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) eingeführt werden, bei Einreise auf dem Landweg Waren mit einem Zollwert von höchstens 500 EUR und einem Gesamtgewicht von 25 kg in die Eurasische Wirtschaftsunion eingeführt werden, bei mehrfachen Reisen weniger.
 
 Zollfrei erfolgt unter Beachtung der oben genannten Zollwert- bzw. Gewichtsobergrenzen die Einfuhr von drei Litern alkoholische Getränke und Bier pro Person im Alter ab 18 Jahren sowie die Einfuhr von 200 Zigaretten oder 50 Zigarren oder 250 g Tabak bzw. von oben genannten Tabakerzeugnisse mit einem Gesamtgewicht von 250 g.
 
@@ -259,7 +259,7 @@ Ein durch einen Drittstaater (nicht Staatsangehöriger der Wirtschaftsunion) pri
 
 ### Heimtiere
 
-Weitere Informationen zur Einfuhr von Heimtieren finden Sie beim [belarussischen Zoll](http://www.customs.gov.by/ru/domashnije-zhivotnije-ru/).
+Informationen zur Einfuhr von Heimtieren finden Sie beim [belarussischen Zoll](http://www.customs.gov.by/ru/domashnije-zhivotnije-ru/).
 
 * Beachten Sie bitte die geänderten und mit Wirkung vom 16. September 2024 geltenden Vorschriften zur (Wieder-)Einfuhr von Heimtieren in die [EU,](https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm) siehe auch [Zoll](https://www.zoll.de/DE/Privatpersonen/Reisen/Reisen-nach-Deutschland-aus-einem-nicht-eu-Staat/Einschraenkungen/Tiere-und-Pflanzen/Schutz-Tierseuchen/Regelungen-Heimtiere/regelungen-heimtiere.html) und [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/haus-und-zootiere_node.html)
 

@@ -6,13 +6,15 @@
 
 Die Einreise mit in der Russischen Föderation zugelassenen Kfz nach Litauen ist aufgrund Art. 3i der EU-Verordnung 833/2014 grundsätzlich untersagt. Ausnahmen bestehen u.a. für den Transitverkehr von/nach Kaliningrad. Weitergehende Informationen (auch zu ggf. möglichen weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der [zuständigen Zollbehörde](https://lrmuitine.lt/web/guest/titulinis#en) erhältlich.
 
-Wenn ein Kfz mit einem Kennzeichen der Russischen Föderation an einem Grenzpunkt ankommt, führt die litauische Steuer- und Zollbehörde die entsprechenden Kontrollverfahren durch. Der Benutzer oder Besitzer eines solchen Kfz muss u.U. mit dem Fahrzeug in die Russische Föderation zurückkehren oder die Grenze ohne es überqueren. Kurzfristige Änderungen und Grenzschließungen können nicht ausgeschlossen werden. Weitere Informationen erteilen die litauischen Zollbehörden.
+Wenn ein Kfz mit einem Kennzeichen der Russischen Föderation an einem Grenzpunkt ankommt, führt die litauische Steuer- und Zollbehörde die entsprechenden Kontrollverfahren durch. Der Benutzer oder Besitzer eines solchen Kfz muss u.U. mit dem Fahrzeug in die Russische Föderation zurückkehren oder muss die Grenze ohne das Kfz überqueren. Kurzfristige Änderungen und Grenzschließungen können nicht ausgeschlossen werden. Weitere Informationen erteilen die litauischen Zollbehörden.
 
 * Beachten Sie die Reise- und Sicherheitshinweise der [Russischen Föderation](https://diplo.de/-/201536).
 
 ### *Einreise aus Belarus nach Litauen*
 
 Seit März 2024 sind nur noch die folgenden Grenzübergänge geöffnet: Medininkai-Kamenny Log sowie Šalčininkai-Benyakoni. Beide Grenzübergänge können seit März 2024 jedoch nicht mehr durch Fußgänger oder Fahrradfahrer genutzt werden. Die übrigen Grenzübergänge (Šumskas-Losha, Tverečius-Vidzy, Lavoriškės-Kotlovka und Raigardas-Privalka) von Litauen nach Belarus sind geschlossen. Es kann zu längeren Wartezeiten kommen (siehe auch *Einreise und Zoll*).
+
+Die Einreise mit in Belarus zugelassenen Pkws nach Lettland ist seit dem 18. Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der [litauischen Zollbehörde](https://lrmuitine.lt/web/guest/titulinis#en) erhältlich.
 
 ## Sicherheit
 
@@ -44,7 +46,7 @@ Im Winter kann es zu extremer Kälte, Schneefällen und Winterstürmen kommen.
 
 ### Infrastruktur/Verkehr
 
-S. *Aktuelles*
+Siehe *Aktuelles*
 
 Es gibt Autobusse und Eisenbahnlinien im Land. Es besteht auch tagsüber die Pflicht, mit Abblendlicht zu fahren. Zwischen 10. November und 1. April besteht für alle Fahrzeuge Winterreifenpflicht. Ein Feuerlöscher sowie eine Warnweste im Auto sind obligatorisch.
 
@@ -60,7 +62,7 @@ Der einheitliche europäische Unfallbericht kann als Vordruck im Schadenfall hil
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### Wanderungen im Grenzgebiet zu Russland und zu Belarus
 
@@ -82,7 +84,7 @@ Die Ausübung, Inanspruchnahme und Förderung von Prostitution ist in Litauen un
 
 Sexuelle Nötigung ist ebenfalls strafbar.
 
-Nach litauischem Recht ist der unerlaubte Besitz und das Führen von Waffen, insbesondere Feuerwaffen, strafbewehrt und kann nach litauischem Strafgesetzbuch mit Freiheitsstrafen geahndet werden. Auch Reizstoff-und Schreckschusspistolen können, unter bestimmten Voraussetzungen, unter diesen Strafbestand subsumiert werden. Über konkrete Genehmigungserfordernisse bei Ein-/Ausfuhr, Transit, etc. informieren die zuständigen litauischen Behörden.
+Nach litauischem Recht sind der unerlaubte Besitz und das Führen von Waffen, insbesondere Feuerwaffen, strafbewehrt und kann nach litauischem Strafgesetzbuch mit Freiheitsstrafen geahndet werden. Auch Reizstoff- und Schreckschusspistolen können, unter bestimmten Voraussetzungen, unter diesen Strafbestand subsumiert werden. Über konkrete Genehmigungserfordernisse bei Ein-/Ausfuhr, Transit, etc. informieren die zuständigen litauischen Behörden.
 
 ### Geld/Kreditkarten
 
@@ -90,7 +92,7 @@ Zahlungsmittel ist der Euro. Das Abheben von Bargeld an Geldautomaten und die Be
 
 ## Einreise und Zoll
 
-Auskunft zu Einschränkungen der Einreise russischer Staatsangehöriger nach Litauen erteilen ausschließlich die litauischen Behörden.
+Auskunft zu Einschränkungen der Einreise russischer und belarussischer Staatsangehöriger nach Litauen erteilen ausschließlich die litauischen Behörden.
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
@@ -116,7 +118,7 @@ Die Personenkontrollen an den Binnengrenzen sind mit dem Beitritt Litauens zum S
 
 ### Minderjährige
 
-Für allein reisende Minderjährige mit deutscher Staatsangehörigkeit bestehen keine besonderen Einreisebestimmungen. Allein reisende Minderjährige sollten neben ihrem eigenen gültigen Reisedokument eine von ihren sorgeberechtigten Elternteilen unterschriebene [Einverständniserklärung](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige") (möglichst in Deutsch und Litauisch) mit sich führen.
+Für alleinreisende Minderjährige mit deutscher Staatsangehörigkeit bestehen keine besonderen Einreisebestimmungen. Allein reisende Minderjährige sollten neben ihrem eigenen gültigen Reisedokument eine von ihren sorgeberechtigten Elternteilen unterschriebene [Einverständniserklärung](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige") (möglichst in Deutsch und Litauisch) mit sich führen.
 
 ### Einfuhrbestimmungen
 
@@ -131,6 +133,10 @@ Alle Arten von Waffen unterliegen der Anzeigepflicht bei der Einreise. Die Vorla
 Litauen ist Mitgliedstaat des Washingtoner Artenschutzabkommens. Die Einfuhr von bestimmten Wildtier- und Wildpflanzenarten sowie von daraus gewonnenen Produkten ist daher verboten und strafbar.
 
 Genauere Informationen über die aktuellen Zollvorschriften sind auch in englischer Sprache bei [Customs of the Republic of Lithuania](https://lrmuitine.lt/web/guest/titulinis#en) zu finden.
+
+#### *Ausfuhrverbot europäischer Banknoten nach Belarus und in die Russische Föderation.*
+
+Es wird darauf hingewiesen, dass gemäß Art. 1za der EU-Verordnung 765/2006 die Ausfuhr von Banknoten eines EU-Mitgliedsstaats nach Belarus und in die Russische Föderation grundsätzlich verboten ist. Mit entsprechenden Kontrollen durch den litauischen Zoll muss gerechnet werden. Einzelheiten sind bei der [litauischen Zollbehörde](https://lrmuitine.lt/web/guest/titulinis#en) erhältlich.
 
 ### Heimtiere
 
