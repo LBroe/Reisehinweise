@@ -1,5 +1,13 @@
 # Taiwan*: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Der Super-Taifun Gaemi (Carina) wird voraussichtlich am 24. Juli 2024 gegen Mitternacht im Nordosten Taiwans in Höhe von Yilan und Hualien mit der Stärke eines Hurrikans der Kategorie 4 und Windgeschwindigkeiten von 230 km/h auf Land treffen und die Insel dann in Richtung Westen über den Großraum Taipei überqueren. Die Auswirkungen des Taifuns werden aber vermutlich auf der gesamten Insel Taiwan zu spüren sein. Das taiwanische Emergency Operations Center warnt vor starken Regenfällen, Überschwemmungen, Überflutungen an der Küste und an Flüssen sowie vor Erdrutschen. An der Ostküste kann es zu Wellenhöhen bis zu 15 Metern kommen. Die gefährdeten Gebiete wurden bereits evakuiert.
+
+* Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
+* Bitte folgen Sie unbedingt den Anweisungen der taiwanischen Behörden. Falls die Evakuierung bestimmter gefährdeter Gebiete angeordnet werden sollte, werden die Behörden für Notunterkünfte sorgen.
+* Wenn Sie sich in Taiwan aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](http://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -23,6 +31,8 @@ Die Kriminalitätsrate ist niedrig. Insbesondere in den Großstädten kommt es z
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen skeptisch und vorsichtig. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*  
 
 #### *Erdbeben*
 
@@ -186,7 +196,7 @@ Bei der Japanischen Enzephalitis (JE) handelt es sich um eine Entzündung des Ge
 
 ### Luftverschmutzung
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 

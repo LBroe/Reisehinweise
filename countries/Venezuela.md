@@ -2,7 +2,20 @@
 
 ## Aktuelles
 
-#### *Ausnahmezustand, Versorgungsnotstand und Proteste*
+### *Wahlen*
+
+Am 28. Juli 2024 findet in Venezuela die Präsidentschaftswahl statt.
+
+In diesem Zusammenhang sind in der Hauptstadt Caracas sowie auch in anderen größeren Städten des Landes Spontandemonstrationen und größere Menschenansammlungen nicht auszuschließen.
+
+Die venezolanische Regierung hat eine Sicherheitsverordnung erlassen, die von Freitag, 26. Juli 2024 bis einschließlich Montag, 29. Juli 2024, gilt. Damit einhergehende Einschränkungen betreffen u.a. die Versammlungsfreiheit, verstärkte Grenzkontrollen, den Verkauf von Alkohol, das Tragen von Waffen, die Durchführung von Schwertransporten und Arbeiten mit schweren Gerätschaften sowie den Verkauf von Pyrotechnik.
+
+* Verfolgen Sie die Nachrichten, einschließlich der Meldungen in den sozialen Medien aufmerksam.
+* Meiden Sie Menschenansammlungen und leisten Sie den Anweisungen der Sicherheitskräfte Folge und fertigen Sie keine Fotos von Menschenansammlungen und Sicherheitskräften.
+* Achten Sie auf eine ausreichende Vorratshaltung, inklusive Benzin.
+* Beschränken Sie Ihre Fahrten auf ein notwendiges Minimum.
+
+### *Ausnahmezustand, Versorgungsnotstand und Proteste*
 
 Der landesweite Ausnahmezustand gilt bereits seit Mai 2016, der wirtschaftliche und medizinische Versorgungsnotstand besteht fort. Die weitere Entwicklung der Lage ist nicht absehbar. Die unter *Sicherheit* genannten Risiken, u.a. die Gewaltkriminalität, werden in weiten Teilen des Landes durch die aktuelle Krise und eine zunehmende Verarmung verstärkt.  
 Seit März 2019 gibt es fast im gesamten Land wiederkehrende Stromausfälle sowie Störungen der Mobilfunknetze und des Internets. Auch der Flughafen Caracas International kann zeitweilig betroffen sein.  
@@ -23,6 +36,8 @@ Von Reisen in die übrigen Landesteile wird dringend abgeraten.**
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
+
+Siehe *Aktuelles*
 
 Aufgrund der anhaltenden politischen und wirtschaftlichen Krise ist es vor allem in den Städten auch spontan zu Demonstrationen gekommen. Diese können sich jederzeit wiederholen. Gewalttätige Auseinandersetzungen zwischen Sicherheitskräften und Demonstranten mit Straßensperrungen sind möglich.
 
@@ -73,7 +88,7 @@ Reisende werden gegen ihren Willen und in Unkenntnis als Drogenkuriere missbrauc
 * Lassen Sie Getränke nie unbeaufsichtigt und prüfen Sie Preise vor Bestellungen.
 * Seien Sie besonders vorsichtig bei Lockangeboten z.B. über das Internet, um auf Kosten anderer eine Reise durchzuführen.
 * Nehmen Sie kein Gepäck für Fremde mit und kontrollieren Sie den Inhalt des eigenen Gepäcks.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -84,7 +99,7 @@ In Zentralamerika und der Karibik ist von Juni bis Ende November Hurrikan-Saison
 
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Verfolgen Sie in der Hurrikan-Saison regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") im Fall einer Sturmwarnung bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
@@ -93,7 +108,7 @@ In Zentralamerika und der Karibik ist von Juni bis Ende November Hurrikan-Saison
 
 Es gibt ein Inlandsflugnetz, Eisenbahn- und Busverbindungen. In den Städten existieren zudem U-Bahn- und Schnellbahnverbindungen.
 
-Internationale Fluggesellschaften haben seit 2019 die Anzahl der Flüge und angebotenen Sitzplätze von bzw. nach Venezuela erheblich reduziert. Die Fluggesellschaften verlangen, dass die Fluggäste mindestens vier Stunden vor planmäßigem Abflug zum Check-in erscheinen.
+Internationale Fluggesellschaften haben die Anzahl der Flüge und angebotenen Sitzplätze von bzw. nach Venezuela erheblich reduziert. Die Fluggesellschaften verlangen, dass die Fluggäste mindestens vier Stunden vor planmäßigem Abflug zum Check-in erscheinen.
 
 Es kommt gelegentlich vor, dass Auslandsflüge venezolanischer Fluggesellschaften wegen nicht beglichener Verbindlichkeiten kurzfristig gestrichen werden.  
 Das Netz der Inlandsflüge ist ausgedünnt worden. Bei venezolanischen Inlandsflügen und bei Flügen mit privaten Kleinflugzeugen, die u.a. zur Beförderung von Touristen eingesetzt werden, wird gelegentlich über technische Probleme berichtet. Beim eingesetzten Fluggerät handelt es sich oftmals um ältere Maschinen, deren Wartung sich schwierig gestaltet. Die Flugzeuge der Gesellschaft Avior stehen derzeit auf der [Liste unsicherer Fluggesellschaften der EU.](https://ec.europa.eu/transport/modes/air/safety/air-ban_en)
@@ -112,7 +127,7 @@ Bei der Benutzung von vermeintlich preiswerten Taxis und Bussen besteht ein hohe
 
 ### Führerschein
 
-Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -157,9 +172,9 @@ Deutsch-venezolanische Doppelstaater müssen mit einem venezolanischen Pass ein-
 
 Deutsche Staatsangehörige benötigen für die Einreise kein Visum, sofern sie nicht per Segelschiff erfolgt.
 
-Bei Einreise wird jedem Touristen eine Touristenkarte im Flugzeug ausgehändigt, die zu einem Aufenthalt von bis zu 90 Tagen berechtigt. Sollte die Touristenkarte einen Durchschlag haben, sollte dieser während des gesamten Aufenthalts - für den Fall, dass bei der Ausreise oder bei anderen Kontrollen danach gefragt wird - gut aufbewahrt werden. In Venezuela müssen sich auch Ausländer jederzeit ausweisen und ihren legalen Aufenthaltsstatus nachweisen können. Im Fall eines illegalen Aufenthalts droht die Abschiebung nach z.T. längerer Abschiebehaft.
+Bei Einreise erhalten Touristen eine Touristenkarte im Flugzeug, die zu einem Aufenthalt von bis zu 90 Tagen berechtigt. Sollte die Touristenkarte einen Durchschlag haben, sollte dieser während des gesamten Aufenthalts - für den Fall, dass bei der Ausreise oder bei anderen Kontrollen danach gefragt wird - gut aufbewahrt werden. In Venezuela müssen sich auch Ausländer jederzeit ausweisen und ihren legalen Aufenthaltsstatus nachweisen können. Im Fall eines illegalen Aufenthalts droht die Abschiebung nach z.T. längerer Abschiebehaft.
 
-Die visafreie Einreise gilt grundsätzlich auch auf anderen Einreisewegen, vorausgesetzt dass die Einreise nicht mit einem privaten Transportmittel erfolgt und man bei der Einreisekontrolle die Touristenkarte erhält. Dies dürfte bei Einreise auf dem Land/Seeweg besonders schwierig sein.
+Die visumsfreie Einreise gilt grundsätzlich auch auf anderen Einreisewegen, vorausgesetzt, dass die Einreise nicht mit einem privaten Transportmittel erfolgt und man bei der Einreisekontrolle die Touristenkarte erhält. Dies dürfte bei Einreise auf dem Land/Seeweg besonders schwierig sein.
 
 Visumspflicht für die Einreise nach Venezuela besteht nur noch für Anreisen mit einem Segelschiff, Einreisekategorie „Embarcaciones Deportivas“.
 
@@ -197,7 +212,7 @@ Für die Einfuhr von Heimtieren sind ein amtstierärztliches Gesundheitszeugnis 
 
 ### Dengue-Fieber
 
-2023 verzeichnet das Land einen großen Ausbruch von Dengue-Fieber mit doppelt so hohen Fallzahlen als im Vorjahr.
+2023 verzeichnete das Land einen großen Ausbruch von Dengue-Fieber mit doppelt so hohen Fallzahlen als im Vorjahr.
 
 Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen. Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher und betrifft zunehmend auch Reisende. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen mit möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
@@ -297,9 +312,7 @@ Es wird ausdrücklich darauf hingewiesen, dass regelmäßig vor der Aufnahme und
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
