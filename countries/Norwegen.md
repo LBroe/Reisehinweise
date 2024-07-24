@@ -90,7 +90,11 @@ Das norwegische Straf- und Ordnungsrecht verfolgt insbesondere das Überschreite
 
 Alkoholkonsum ist auf öffentlichen Plätzen und in Parks verboten.
 
-Angelfreunde sollten sich auf jeden Fall ausreichend über die örtlichen Bedingungen informieren. Missachtungen führen zu sehr hohen Geldstrafen, die direkt vor Ort beglichen werden müssen. Angeln in der Nähe von Zuchtanlagen ist strikt untersagt.
+Angelfreunde sollten sich auf jeden Fall ausreichend über die örtlichen [Bestimmungen](https://www.fiskeridir.no/English/sea-angling-in-norway/regulations) informieren. Missachtungen führen zu sehr hohen Geldstrafen, die direkt vor Ort beglichen werden müssen. Angeln in der Nähe von Zuchtanlagen ist strikt untersagt.
+
+In Norwegen gelten strenge Regeln für Drohnenflüge. Im Umkreis von 5 km um alle Flughäfen des Landes gilt ein Flugverbot. Auch für Innenstädte, militärische Gebiete, Naturschutzgebiete, Bohrinseln und andere Gebiete können Verbote oder Einschränkungen gelten. Verstöße können mit Geld- oder Gefängnisstrafen geahndet werden. Informationen finden Sie auf der [Webseite der norwegischen Luftverkehrsbehörde](https://luftfartstilsynet.no/en/drones/flying-in-norway/) oder in deutscher Sprache bei [Visit Norway.](https://www.visitnorway.de/reiseplanung/regeln-drohnenfliegen/) 
+
+* Bitte beachten Sie die jeweils geltenden Bestimmungen und Flugverbotszonen.
 
 ### Geld/Kreditkarten
 
