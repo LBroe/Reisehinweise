@@ -133,7 +133,7 @@ Die Grenzübergänge zwischen Lettland und der Russischen Föderation sind geöf
 
 #### *Ausfuhr von Bargeld aus Lettland in die Russische Föderation*
 
-Nach der EU-Verordnung EU833/2014 ist die Einfuhr von Bargeld in der amtlichen Währung eines EU-Mitgliedstaates in die Russische Föderation verboten.
+Nach der EU-Verordnung EU833/2014 ist die Ausfuhr von Bargeld in der amtlichen Währung eines EU-Mitgliedstaates in die Russische Föderation verboten.
 
 Bei einem durch den lettischen Zoll festgestellten Versuch der Ausfuhr, der nicht einer Ausnahme unterliegt und in der Folge den deutschen Zoll-/Strafverfolgungsbehörden bekannt wird, müssen Reisende (deutsche Staatsangehörige oder Personen mit Wohnsitz in Deutschland) grundsätzlich mit der Einleitung eines Strafverfahrens wegen des Verdachts eines Verstoßes gegen das Außenwirtschaftsgesetz (§ 18 AWG) rechnen. Eine Ausfuhr von Bargeld in anderen Währungen unterliegt nicht den Sanktionsbestimmungen, sondern den allgemeinen Regelungen.
 
