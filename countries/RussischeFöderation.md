@@ -357,15 +357,6 @@ Weitere Informationen zur Einreise bietet die [Botschaft der Russischen Föderat
 
 ### Aktuelles
 
-#### *Botulismus*
-
-Seit Juni 2024 berichten russische Gesundheitsbehörden in Moskau und anderen Regionen über einen Ausbruch von Lebensmittelbotulismus im Zusammenhang mit dem Verzehr von Thunfischprodukten in Moskau. Lebensmittelbotulismus ist eine seltene, jedoch schwere Erkrankung. In der Regel kommt es zu einer akuten Erkrankung, die mit neurologischen Beschwerden wie Lähmungen einhergeht. Mundtrockenheit sowie Lähmungen der Augenmuskulatur sind frühe Zeichen. Eine Übertragung von Mensch-zu-Mensch findet nicht statt. Das Risiko für Reisende wird als gering eingeschätzt.
-
-* Konsumieren Sie keine entsprechenden Produkte.
-* Beachten Sie allgemeine Hygienemaßnahmen.
-* Bei Auftreten von entsprechenden Symptomen stellen Sie sich ärztlich vor.
-* Folgen Sie den Anordnungen der lokalen Behörden.
-
 #### *Transportschwierigkeiten*
 
 Aufgrund von Transportschwierigkeiten kommt es zu Einschränkungen in der Versorgung mit Medikamenten, medizinischen Verbrauchsmaterialien und Impfstoffen. Es wird empfohlen entsprechend Vorsorge zu treffen.

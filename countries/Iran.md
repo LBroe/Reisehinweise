@@ -8,9 +8,9 @@
 
 ### Sicherheitslage in Iran
 
-In der Nacht auf den 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Eine Israel zugeschriebene Reaktion nahe Isfahan fand am 19. April 2024 statt. Eine weitere substantielle Verschärfung der Sicherheitslage in der gesamten Region ist nicht ausgeschlossen.
+Die Lage in der gesamten Region ist volatil und bleibt angespannt.
 
-Der internationale Flughafen Teheran Imam Khomeini (IKA) und die internationalen Flughäfen in Maschhad, Shiraz und Isfahan sind geöffnet. Auch der zweite, nationale Flughafen von Teheran, Mehrabad, ist geöffnet und es ist möglich, per Inlandsflug zu den internationalen Flughäfen Maschhad, Shiraz und Isfahan zu reisen. Von dort aus können die internationalen Drehkreuze Dubai, Doha und Istanbul erreicht werden. Die meisten internationalen Fluggesellschaften haben den Flugbetrieb wieder aufgenommen, aktuell hat die Lufthansa und den Flugbetrieb nach Teheran temporär eingestellt.
+Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentrums Hamburg e.V. sowie dessen bundesweiter Teilorganisationen bekannt gegeben. Eine Verschärfung der Sicherheitslage für deutsche Staatsangehörige und Doppelstaater ist in der Folge insbesondere hinsichtlich willkürlicher Festnahmen nicht ausgeschlossen.
 
 * **Beachten Sie die geltende Reisewarnung und Ausreiseaufforderung: Reisen Sie nicht nach Iran, sondern reisen Sie, wenn möglich, mit kommerziellen Fluglinien oder auf dem Landweg aus.**
 * Erkundigen Sie sich bei Ihrer Fluglinie, ob Ihr gebuchter Flug wie geplant stattfindet.
@@ -26,7 +26,7 @@ Der internationale Flughafen Teheran Imam Khomeini (IKA) und die internationalen
 
 Verhaftungen und Verurteilungen können jederzeit aufgrund konstruierter Vorwände wie beispielsweise Spionagevorwürfen erfolgen. Sie können als politisches Druckmittel dienen und setzen so unschuldige Betroffene einer langen Haft unter harten Bedingungen aus. Irankritische Äußerungen, auch vor der Reise und beispielsweise in sozialen Medien, können von iranischer Seite überwacht werden und ein Grund für Strafverfolgung sein. Individualreisende können Spionagevorwürfen ausgesetzt sein, beispielsweise wegen Fotografie. Iranische Behörden verweigern deutsch-iranischen Doppelstaatern ihr Recht auf konsularische Betreuung und machen eine solche Betreuung durch die Deutsche Botschaft Teheran unmöglich. Die Haftbedingungen sind sehr hart; die Versorgung mit medizinisch notwendigen Medikamenten oder medizinisch notwendiger ärztlicher Behandlung ist nicht immer gegeben.
 
-Bei Reisen besteht die Gefahr, dass Gepäck ausführlich durchsucht und gegebenenfalls beschlagnahmt wird. Elektronische Kommunikationsmittel wie Mobiltelefone, Notebooks, Tablets können eingehenden Untersuchungen unterzogen und die ausgelesenen Daten als Vorwand für strafrechtliche Vorwürfe genutzt werden. Besonders gefährdet sind Individualreisende, zum Beispiel mit einem Motorrad, Fahrrad oder Reisemobil/Camper, denn die Daten in elektronischen Karten und Navigationssysteme oder eingegebene Routen, insbesondere zur Planung von Offroad-Fahrten, können von den iranischen Sicherheitsbehörden als Hinweis auf Ausspähungs- und Spionageversuche gewertet werden. Sperrgebiete sind meistens nicht deutlich markiert. Auch auffälliges Verhalten oder der Gebrauch technischer Geräte wie auffälligen Kameras, GPS-Geräten und Drohnen kann zu Kontrollen und schnell zum Spionagevorwurf führen. Die Nutzung von Drohnen ist grundsätzlich verboten. (s.u. *Sicherheit – „Fotografieren und Filmen“*).
+Bei Reisen besteht die Gefahr, dass Gepäck ausführlich durchsucht und gegebenenfalls beschlagnahmt wird. Elektronische Kommunikationsmittel wie Mobiltelefone, Notebooks, Tablets können eingehenden Untersuchungen unterzogen und die ausgelesenen Daten als Vorwand für strafrechtliche Vorwürfe genutzt werden. Besonders gefährdet sind Individualreisende, zum Beispiel mit einem Motorrad, Fahrrad oder Reisemobil/Camper, denn die Daten in elektronischen Karten und Navigationssysteme oder eingegebene Routen, insbesondere zur Planung von Offroad-Fahrten, können von den iranischen Sicherheitsbehörden als Hinweis auf Ausspähungs- und Spionageversuche gewertet werden. Sperrgebiete sind meistens nicht deutlich markiert. Auch auffälliges Verhalten oder der Gebrauch technischer Geräte wie auffällige Kameras, GPS-Geräte und Drohnen kann zu Kontrollen und schnell zum Spionagevorwurf führen. Die Nutzung von Drohnen ist grundsätzlich verboten. (s.u. *Sicherheit – „Fotografieren und Filmen“*).
 
 Selbst Personen, die in der Vergangenheit ohne Probleme ein- und ausreisen konnten, können willkürlich aufgrund zeitlich weit zurückliegender oder neuer Tatvorwürfe festgenommen werden. Lange Haftstrafen unter harten Bedingungen sind möglich; bei schwerwiegenderen Vorwürfen auch die Verhängung von Körperstrafen oder der Todesstrafe.
 
@@ -60,6 +60,10 @@ Doppelstaater mit auch iranischer Staatsangehörigkeit sind in besonderem Maße 
 
 **Deutsche Staatsangehörige werden aufgefordert, Iran zu verlassen.**
 
+### Regionale Spannungen
+
+Die Sicherheitslage in der gesamten Region ist insbesondere seit dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 volatil und bleibt angespannt. Am 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Eine Israel zugeschriebene Reaktion nahe Isfahan fand am 19. April 2024 statt. Weitere Vorfälle dieser Art sowie eine weitere Verschärfung der Sicherheitslage in der gesamten Region sind nicht ausgeschlossen.
+
 ### Terrorismus
 
 In Iran kommt es, vor allem in Grenzregionen, unregelmäßig zu Zwischenfällen mit terroristischem Hintergrund. Besonders betroffen sind die Provinzen Kurdistan und Sistan-Belutschistan, der Osten der Provinz Kerman sowie die Grenzgebiete zu Irak, Pakistan und Afghanistan.
@@ -71,7 +75,7 @@ Bei zwei Anschlägen auf einen schiitischen Schrein in der Stadt Shiraz kamen 20
 Die iranischen Behörden haben seit einiger Zeit die allgemeinen Sicherheitsmaßnahmen im Grenzbereich zu Irak und zu Pakistan, aber auch in der Hauptstadt Teheran, erhöht. Im Osten der Provinz Kerman und in der Provinz Sistan-Belutschistan sowie generell in den Grenzgebieten Irans mit Pakistan und Afghanistan besteht ein erhebliches Entführungs- und Anschlagsrisiko, besonders im Dreieck zwischen den Städten Zabol, Bam, Chabahar. Stabiler ist die Lage in der Hafenstadt Chabahar selbst.  
 Anschläge richteten sich jedoch bisher nicht gegen ausländische Staatsangehörige.
 
-In der Provinz Sistan-Belutschistan (Südosten, Grenze zu Pakistan/Afghanistan) kommt es regelmäßig zu Konflikten zwischen iranischen Sicherheitskräften und bewaffneten Gruppierungen. Die Bewegungsfreiheit ist eingeschränkt und es gibt vermehrte Sicherheits- und Personenkontrollen. Wiederholt wurden ausländische Staatsangehörige in der Region festgehalten und längeren Verhören unterzogen. Eine Weiterreise war in manchen Fällen nur noch mit iranischer Polizeieskorte möglich. Dies geschah vor dem Hintergrund von seit Jahren häufig auftretenden Fällen bewaffneter Angriffe auf iranische Sicherheitskräfte in der Region.
+In der Provinz Sistan-Belutschistan (Südosten, Grenze zu Pakistan/Afghanistan) kommt es regelmäßig zu Konflikten zwischen iranischen Sicherheitskräften und bewaffneten Gruppierungen. Die Bewegungsfreiheit ist eingeschränkt, und es gibt vermehrte Sicherheits- und Personenkontrollen. Wiederholt wurden ausländische Staatsangehörige in der Region festgehalten und längeren Verhören unterzogen. Eine Weiterreise war in manchen Fällen nur noch mit iranischer Polizeieskorte möglich. Dies geschah vor dem Hintergrund von seit Jahren häufig auftretenden Fällen bewaffneter Angriffe auf iranische Sicherheitskräfte in der Region.
 
 In der Provinz Kurdistan und der ebenfalls von Kurden bewohnten Provinz West-Aserbaidschan gibt es wiederholt Anschläge gegen Sicherheitskräfte, Personal der Justiz und Angehörige des Klerus. In diesem Zusammenhang haben Sicherheitskräfte ihr Vorgehen gegen kurdische Separatistengruppen sowie Kontrollen mit Checkpoints noch einmal verstärkt.
 
@@ -86,7 +90,7 @@ Seit 2015 kommt es nach iranischen Angaben in der Provinz Khuzestan und in ander
 
 Beachten Sie die Hinweise unter *Aktuelles.*
 
-Seit dem Tod der jungen Iranerin Jina Mahsa Amini im September 2022 ist die Sicherheitslage im Land angespannt. Es kann aufgrund der anhaltenden Repression durch die Sicherheitskräfte weiterhin zu (spontanen) Protesten kommen. Polizei- und Sicherheitskräfte können gewaltsam gegen Demonstrierende vorgehen. Dies betrifft insbesondere Provinzen mit einem hohen Anteil von ethnisch-religiösen Minderheiten (z.B. Sistan-Belutschistan, Kurdistan). Im räumlichen Umfeld von Demonstrationen können Protestierende und auch unbeteiligte ausländische Staatsangehörige willkürlich verhaftet werden.
+Seit dem Tod der jungen Iranerin Jina Mahsa Amini im September 2022 ist die Sicherheitslage im Land angespannt. Es kann aufgrund der anhaltenden Repression durch die Sicherheitskräfte weiterhin zu (spontanen) Protesten kommen. Polizei- und Sicherheitskräfte können gewaltsam gegen Demonstrierende vorgehen. Dies betrifft insbesondere Provinzen mit einem hohen Anteil ethnisch-religiöser Minderheiten (z.B. Sistan-Belutschistan, Kurdistan). Im räumlichen Umfeld von Demonstrationen können Protestierende und auch unbeteiligte ausländische Staatsangehörige willkürlich verhaftet werden.
 
 Die Kommunikationsdienste sind weitgehend eingeschränkt (insbesondere mobiles Internet, Instagram, WhatsApp, VPNs).
 
@@ -96,7 +100,7 @@ Bei Protesten und Kundgebungen kann es seitens der Sicherheitskräfte zur Anwend
 
 Alle Ausländer sowie insbesondere Personen, die auch die iranische Staatsangehörigkeit besitzen, unterliegen einem erhöhten Risiko, auch ohne erkennbaren Grund festgenommen oder bei Ein- und Ausreise zurückgewiesen zu werden. Iranische Behörden erkennen keine doppelte Staatsangehörigkeit an, sondern behandeln iranische Doppelstaater als wären sie ausschließlich iranische Staatsangehörige. Konsularische Unterstützungsmöglichkeiten durch die Deutsche Botschaft Teheran sind erheblich eingeschränkt bis unmöglich, siehe auch *Einreise und Zoll - Deutsch-iranische Doppelstaater* und *Aktuelle*s.
 
-In der Vergangenheit wurden deutsche Reisende, die engen Kontakt zu iranischen Staatsangehörigen im Rahmen von Couchsurfing oder anderer privater Übernachtungsformen hatten, wegen Verstoßes gegen die muslimischen Moralvorstellungen und/oder Verdachts der Sicherheitsgefährdung festgenommen. Enger Kontakt zwischen ausländischen und iranischen Staatsangehörigen kann auch die beteiligten iranischen Staatsangehörigen in ernsthafte Gefahr bringen. Einreise und Aufenthalt in Iran zu einem anderen Zweck, als im iranischen Visum angegeben, ist unter Umständen strafbar. Siehe *Reiseinfos – Besondere Verhaltenshinweise.*
+In der Vergangenheit wurden deutsche Reisende, die engen Kontakt zu iranischen Staatsangehörigen im Rahmen von Couchsurfing oder anderer privater Übernachtungsformen hatten, wegen Verstoßes gegen die muslimischen Moralvorstellungen und/oder Verdachts der Sicherheitsgefährdung festgenommen. Enger Kontakt zwischen ausländischen und iranischen Staatsangehörigen kann auch die beteiligten iranischen Staatsangehörigen in ernsthafte Gefahr bringen. Einreise und Aufenthalt in Iran zu einem anderen Zweck als im iranischen Visum angegeben ist unter Umständen strafbar. Siehe *Reiseinfos – Besondere Verhaltenshinweise.*
 
 * **Beachten Sie die geltende Reisewarnung und Ausreiseaufforderung für alle deutschen Staatsangehörigen in Iran.**
 * Die Sicherheitslage kann sich im gesamten Land schnell und unvorhersehbar ändern.
@@ -104,7 +108,7 @@ In der Vergangenheit wurden deutsche Reisende, die engen Kontakt zu iranischen S
 * Meiden Sie intensiven Kontakt mit iranischen Staatsangehörigen. Sie können sich und andere in ernsthafte Gefahr bringen.
 * Verzichten Sie auf Couchsurfing oder andere über soziale Netzwerke organisierte private Übernachtungsformen.
 * Nutzen Sie ihr Visum ausschließlich zum darin angegebenen Zweck. Visumsmissbrauch kann gravierende Folgen bis zur Festnahme und Verurteilung oder Abschiebung haben.
-* Fotografieren und filmen Sie insgesamt nur sehr restriktiv und nur mit Genehmigung der aufgenommenen Personen; nutzen Sie auf keinen Fall Drohnen, siehe *Sicherheit – Fotografieren und Filmen*.
+* Fotografieren und filmen Sie insgesamt nur sehr zurückhaltend und nur mit Genehmigung der aufgenommenen Personen; nutzen Sie auf keinen Fall Drohnen, siehe *Sicherheit – Fotografieren und Filmen*.
 * Meiden Sie Äußerungen zu politischen Verhältnissen und Geschehnissen im Iran.
 * Verfolgen Sie während Ihres Aufenthalts die aktuelle politische Lage und informieren Sie sich über die lokalen Medien oder in Ihrer Unterkunft über aktuelle Entwicklungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -112,6 +116,9 @@ In der Vergangenheit wurden deutsche Reisende, die engen Kontakt zu iranischen S
 * Seien Sie an folgenden Daten besonders vorsichtig:  
 3. Januar -                   Todestag von General Kassem Soleimani  
 11. Februar – RevolutionstagGhods-Tag - (jährliche Änderung des genauen Datums)  
+3. Juni                         Todestag von Imam Khomeini  
+Juli                              Ashoora Trauerperiode mit landesweiten Trauerprozessionen  
+(jährliche Änderung des genauen Datums)  
 16. September - Todestag von Mahsa Amini  
 4. November - Besetzung der US-Botschaft  
 7. Dezember - sog. Studententag.
@@ -143,11 +150,11 @@ Das Fotografieren und Filmen auch vermeintlich harmloser Orte kann zu Festnahmen
 * Einzelne Personen ohne deren ausdrückliche Einwilligung
 * Verzichten Sie vor und in Flughäfen, Bahnhöfen und ähnlichen Gebäuden darauf, Fotos und Videos aufzunehmen.
 * Nutzen Sie auf keinen Fall Drohnen, auch nicht in abgelegenen Gebieten außerhalb von Städten.
-* Fotografieren und filmen Sie nur sehr restriktiv. Sie können immer mit Spionageverdacht konfrontiert werden. Mehrjährige Haftstrafen sind möglich.
+* Fotografieren und filmen Sie nur sehr zurückhaltend. Sie können immer mit Spionageverdacht konfrontiert werden. Mehrjährige Haftstrafen sind möglich.
 
 ### Landminen
 
-In den Gebieten an der iranisch-irakischen Grenze (besonders in den westiranischen Provinzen Kermanshah, Khuzestan, West-Aserbaidschan, Kurdistan und Ilam) ist als Folge des Iran-Irak-Krieges (1980-1988) mit Landminen zu rechnen. In der Vergangenheit kam es immer wieder zu Zwischenfällen, die nicht selten tödlich endeten. Nicht bewohnte Gebiete sollten in diesen Regionen vermieden, befestigte Wege auf keinen Fall verlassen werden.
+In den Gebieten an der iranisch-irakischen Grenze (besonders in den westiranischen Provinzen Kermanshah, Khuzestan, West-Aserbaidschan, Kurdistan und Ilam) ist als Folge des Iran-Irak-Krieges (1980-1988) mit Landminen zu rechnen. In der Vergangenheit kam es immer wieder zu Zwischenfällen, die nicht selten tödlich endeten. Unbewohnte Gebiete sollten in diesen Regionen gemieden, befestigte Wege auf keinen Fall verlassen werden.
 
 * Meiden Sie in der Grenzregion zu Irak unbewohnte Gebiete und verlassen Sie keinesfalls die befestigten Wege. Es besteht die Gefahr von Landminen.
 
@@ -163,13 +170,13 @@ Fahrzeugdiebstähle betreffen insbesondere solche mit Allradantrieb wie Gelände
 
 In der Vergangenheit gab es einzelne Fälle sexueller Belästigung, insbesondere in Menschenmengen und abgelegenen Gegenden.
 
-* Vermeiden Sie es, nachts oder alleine in entlegenen Gebieten zu reisen.
+* Vermeiden Sie es, nachts oder alleine in entlegenen Gebieten zu reisen.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in der U-Bahn, im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Tragen Sie stets eine Kopie Ihres Reisepasses und E-Visums bei sich. Lassen Sie während des Tages Ihren Reisepass und das Visum an einem sicheren Ort.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine nicht benötigten Wertsachen mit.
 * Halten Sie Fenster und Türen bei Autofahrten geschlossen und bevorzugen Sie vorbestellte Taxis gegenüber denen auf der Straße.
-* Informieren Sie sich über das iranische Konzept des „Taroof“ - nehmen Sie nicht jedes höflich gemeinte Angebot der Gastfreundschaft an, ohne zu verstehen, was dahintersteht.
+* Informieren Sie sich über das iranische Konzept des „Taroof“ - nehmen Sie nicht jedes höflich gemeinte Angebot der Gastfreundschaft an, ohne zu verstehen, was dahintersteckt.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine persönlichen Daten mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -185,7 +192,7 @@ Iran liegt in einer seismisch sehr aktiven Zone. Mit Erdbeben unterschiedlichen 
 
 ### Infrastruktur/Verkehr
 
-Internationale Flüge ab Teheran werden über den außerhalb der Stadt gelegenen Flughafen Imam Khomeini Airport (IKA) abgewickelt. Der zentral gelegene Flughafen Mehrabad (THR) wird nur für nationale Flüge genutzt. Mehrere iranische Fluglinien wurden auf [die EU-Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en) gesetzt, da sie internationalen Sicherheitsstandards nicht genügen.
+Internationale Flüge ab Teheran werden über den außerhalb der Stadt gelegenen Imam Khomeini Airport (IKA) abgewickelt. Der zentral gelegene Flughafen Mehrabad (THR) wird nur für nationale Flüge genutzt. Mehrere iranische Fluglinien wurden auf [die EU-Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en) gesetzt, da sie internationalen Sicherheitsstandards nicht genügen.
 
 Die Zahl der Verkehrstoten, insbesondere bei Motorradfahrern (und ihren Mitfahrenden), ist in Iran seit Jahren gleichbleibend hoch. Das Verhalten vieler Verkehrsteilnehmer ist unberechenbar.
 
@@ -197,7 +204,7 @@ An iranischen Tankstellen ist meist nur Benzin und Super in minderer Qualität u
 * Seien Sie im Straßenverkehr vorsichtig, insbesondere als Fußgänger.
 * Nutzen Sie keine Zweiräder, auch nicht als Mitfahrende.
 * Achten Sie beim Fahren auf Straßenerhebungen zur Verringerung der Geschwindigkeit („speed bumps“).
-* Fahren Sie nicht mit Militärfahrzeugen (auch nicht mit ehemaligen, zu Wohnmobilen umgebauten Militär-LKWs oder ähnlichem) nach Iran.
+* Fahren Sie nicht mit Militärfahrzeugen (auch nicht mit ehemaligen, zu Wohnmobilen umgebauten Militär-Lkw oder ähnlichem) nach Iran.
 * Beachten Sie unbedingt Hinweisschilder zu militärischen Sperrgebieten, auch wenn bestimmte Straßen auf Karten unter Umständen als befahrbar ausgewiesen sind.
 * Verzichten Sie auf Wüstentouren.
 
@@ -212,9 +219,9 @@ Homosexuelle Handlungen sind strafbar (wie auch allgemein sexuelle Handlungen au
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/newsroom/buergerservice-faq-kontakt/faq/-/2223322).
 
-### Bootsexkursionen/Besonderheiten in der „Straße von Hormuz“
+### Bootsexkursionen/Besonderheiten in der Straße von Hormuz
 
-**Von Bootsexkursionen vor der Westküste der Vereinigten Arabischen Emirate (VAE) und in die „Straße von Hormuz“ wird dringend abgeraten.**
+**Von Bootsexkursionen vor der Westküste der Vereinigten Arabischen Emirate (VAE) und in die Straße von Hormuz wird dringend abgeraten.**
 
 ### Besondere Verhaltenshinweise
 
@@ -222,13 +229,13 @@ Die geltenden iranischen Gesetze und moralischen Wertvorstellungen, insbesondere
 
 Foto- und Videoaufnahmen sollten nur sehr restriktiv und nur mit Genehmigung der beteiligten Personen aufgenommen werden, die Nutzung von Drohnen ist grundsätzlich verboten, siehe *Sicherheit – Fotografieren und Filmen*.
 
-Ausländische Staatsangehörige wurden auch schon aufgrund ihrer Äußerungen zu aktuellen politischen Themen sowohl über Telefon, Soziale Medien und ähnliche angeklagt und verurteilt, siehe auch *Aktuelles – Willkürliche Festnahmen und Strafverfolgung*, sowie *Rechtliche Besonderheiten*.
+Ausländische Staatsangehörige wurden auch schon aufgrund ihrer Äußerungen zu aktuellen politischen Themen über Telefon, soziale Medien und ähnliche angeklagt und verurteilt, siehe auch *Aktuelles – Willkürliche Festnahmen und Strafverfolgung*, sowie *Rechtliche Besonderheiten*.
 
 Viele Webseiten, Apps und insbesondere soziale Medien (z.B. Facebook) sowie einige E-Mail-Anbieter sind in Iran gesperrt und können nur über VPN genutzt werden. Die Nutzung nicht genehmigter VPNs ist strafbar.
 
 Iranischen Staatsangehörigen ist der Kontakt zu zahlreichen westlichen Organisationen und Medien verboten. Zudem wurden sie aufgefordert, keine Kontakte mit ausländischen Staatsangehörigen, ausländischen Botschaften und mit ihnen zusammenarbeitenden Organisationen „über das normale Maß“ hinaus zu pflegen. Festnahmen von sowohl deutschen als auch iranischen Staatsangehörigen können die Folge sein.
 
-Die Gültigkeit des iranischen Visums sollte unbedingt beachtet werden. Sollte es während des Aufenthalts in Iran ablaufen, kann die zuständige Ausländerpolizei dieses verlängern. Sollte das Visum bereits abgelaufen sein, ist eine Ausreise nicht möglich. In diesem Fall muss die iranische Ausländerpolizei aufgesucht und evtl. eine Strafzahlung geleistet werden. Im Anschluss kann das erforderliche Exit-Visum aufgestellt werden. Weitere Informationen zum Exit-Visum sind auf der [Webseite der Deutschen Botschaft Teheran](https://teheran.diplo.de/ir-de/-/2402372) zu finden.
+Die Gültigkeit des iranischen Visums sollte unbedingt beachtet werden. Sollte es während des Aufenthalts in Iran ablaufen, kann die zuständige Ausländerpolizei dieses verlängern. Sollte das Visum bereits abgelaufen sein, ist eine Ausreise nicht möglich. In diesem Fall muss die iranische Ausländerpolizei aufgesucht und evtl. ein Bußgeld geleistet werden. Im Anschluss kann das erforderliche Exit-Visum aufgestellt werden. Weitere Informationen zum Exit-Visum sind auf der [Webseite der Deutschen Botschaft Teheran](https://teheran.diplo.de/ir-de/-/2402372) zu finden.
 
 * Respektieren Sie unbedingt die geltenden Gesetze und moralischen Wertvorstellungen, insbesondere die islamischen Kleidungsvorschriften, siehe auch *Rechtliche Besonderheiten.*
 * Überschreiten Sie nicht die Gültigkeit Ihres Visums.
@@ -260,7 +267,7 @@ Für schwere Drogendelikte, Mord, bewaffnete Raubüberfälle, schwere Finanzdeli
 
 Vergehen gegen das Betäubungsmittelgesetz werden schon bei geringsten Mengen und bei jeder Art von Drogen mit langjährigen Gefängnisstrafen geahndet.
 
-Alkoholbesitz, -konsum und -einfuhr ist untersagt.
+Alkoholbesitz, -konsum und -einfuhr sind untersagt.
 
 Für Frauen (ab neun Jahren) und auch Männer gelten die islamischen Kleidungsvorschriften:
 
@@ -279,8 +286,8 @@ Verstöße gegen das Artenschutzabkommen werden vom Umweltministerium streng ver
 * Unterlassen Sie die Einfuhr oder Nutzung von Drohnen.
 * Verzichten Sie auf die Nutzung von VPN-Diensten.
 * Verhalten Sie sich besonders zurückhaltend beim Aufenthalt in der Nähe von Sicherheitsobjekten.
-* Meiden Sie Aufenthalten in unmittelbarer Nähe von Standorten von sicherheitsbewehrten Anlagen in Buschher, Natanz, Qom, sowie den entsprechenden Objekten in der Umgebung von Arak und Isfahan.
-* Fotografieren und filmen Sie insgesamt nur sehr restriktiv und nur mit Genehmigung der aufgenommenen Personen, siehe *Sicherheit –* *Fotografieren und filmen*.
+* Meiden Sie Aufenthalten in unmittelbarer Nähe von Standorten sicherheitsbewehrter Anlagen in Buschher, Natanz, Qom sowie den entsprechenden Objekten in der Umgebung von Arak und Isfahan.
+* Fotografieren und filmen Sie insgesamt nur sehr zurückhaltend und nur mit Genehmigung der aufgenommenen Personen, siehe *Sicherheit –* *Fotografieren und filmen*.
 * Führen Sie keine Tiere oder Pflanzen aus.
 
 ### Geld/Kreditkarten
@@ -336,7 +343,7 @@ Vor Einreise kann ein Online-Visum ([e-Visa](http://e_visa.mfa.ir/en/)) für die
 
 #### *Visum bei Einreise („on arrival“)*
 
-Es liegen keine gesicherten Informationen vor, ob der „visa on arrival-Prozess“ seit der COVID 19-Pandemie wieder zuverlässig funktioniert.
+Es liegen keine gesicherten Informationen vor, ob der Visa on arrival-Prozess seit der COVID 19-Pandemie wieder zuverlässig funktioniert.
 
 **Von der Nutzung von „Visa on arrival“ wird dringend abgeraten.**
 
@@ -384,14 +391,14 @@ Es sind keine besonderen Bestimmungen für die Einreise von Minderjährigen beka
 
 Personen, die sowohl die deutsche als auch die iranische Staatsangehörigkeit besitzen (sog. Doppelstaater), werden von den iranischen Behörden ausschließlich als iranische Staatsangehörige behandelt, siehe *Aktuelles*. Dies führt dazu, dass eine konsularische Betreuung durch die Deutsche Botschaft Teheran in Notfällen nicht möglich ist.
 
-Die iranische Staatsangehörigkeit kann nicht abgelegt werden und Iran sieht Kinder iranischer Eltern automatisch als Iraner an. Eine iranische Staatsangehörigkeit kann auch ohne einen iranischen Reisepass oder iranische Geburtsdokumente vorliegen, und auch Personen betreffen, die selbst keinen Kontakt mit Iran hatten. Merkmal für eine von iranischen Behörden vermutete iranische Staatsangehörigkeit sind zum Beispiel Name oder Geburtsort.
+Die iranische Staatsangehörigkeit kann nicht abgelegt werden und Iran sieht Kinder iranischer Eltern automatisch als Iraner an. Eine iranische Staatsangehörigkeit kann auch ohne einen iranischen Reisepass oder iranische Geburtsdokumente vorliegen und auch Personen betreffen, die selbst keinen Kontakt mit Iran hatten. Merkmal für eine von iranischen Behörden vermutete iranische Staatsangehörigkeit sind zum Beispiel Name oder Geburtsort.
 
 Doppelstaater mit auch iranischer Staatsangehörigkeit sind in besonderem Maße Verhören und/oder Verhaftungen ohne nachvollziehbare Gründe ausgesetzt, einschließlich bei der Einreise nach Iran. Es mehren sich Fälle der Verhängung von Ausreisesperren, u.a. bei nichtgeleistetem Militärdienst) sowie Überprüfung von Handys, Kamera und PC. Auch eine strafrechtliche Verfolgung politischer Aktivitäten in Deutschland (z.B. Teilnahme an regimekritischen Demonstrationen in Deutschland, Verbreitung regimekritischer Beiträge über Social Media) bis hin zu Inhaftierung und Verurteilung in Iran kann nicht ausgeschlossen werden. 2023 wurden in westlichen Staaten lebende Personen iranischer Herkunft, die an regimekritischen Demonstrationen teilgenommen hatten, gezielt bei Aufenthalten in Iran verhaftet, strafrechtlich verfolgt und durch Folter zu Geständnissen gezwungen, um so Protestierende abzuschrecken.
 
-Nach iranischem Recht ist das Zusammenleben von Mann und Frau in einer eheähnlichen Gemeinschaft ohne Eheschließung strafbar. Doppelstaater, deren Ehe in Iran nicht anerkannt ist, müssen bei Einreise eventuell mit strafrechtlichen Konsequenzen rechnen. Für miteingereiste Kindern sind in diesem Fall in Iran iranische Geburtsurkunden und Reisepässe zu beantragen, bevor eine Ausreise aus Iran möglich ist. Dies kann mit erheblichen Schwierigkeiten und zeitlichen Verzögerungen verbunden sein.
+Nach iranischem Recht ist das Zusammenleben von Mann und Frau in einer eheähnlichen Gemeinschaft ohne Eheschließung strafbar. Doppelstaater, deren Ehe in Iran nicht anerkannt ist, müssen bei Einreise eventuell mit strafrechtlichen Konsequenzen rechnen. Für miteingereiste Kinder sind in diesem Fall in Iran iranische Geburtsurkunden und Reisepässe zu beantragen, bevor eine Ausreise aus Iran möglich ist. Dies kann mit erheblichen Schwierigkeiten und zeitlichen Verzögerungen verbunden sein.
 
-* Führen Sie Ihren gültigen, iranischen Reisepass zur Ein- und Ausreise nach Iran mit sich.
-* Beachten Sie, dass die konsularische Unterstützung durch die Deutsche Botschaft Teheran erheblich eingeschränkt bis unmöglich ist. Die Deutsche Botschaft Teheran kann Sie insbesondere nicht vor einer möglichen strafrechtlichen Verfolgung schützen.
+* Führen Sie Ihren gültigen iranischen Reisepass zur Ein- und Ausreise nach Iran mit sich.
+* Beachten Sie, dass die konsularische Unterstützung durch die Deutsche Botschaft Teheran erheblich eingeschränkt bis unmöglich ist. Die Botschaft kann Sie insbesondere nicht vor einer möglichen strafrechtlichen Verfolgung schützen.
 * Sollte die Gültigkeit Ihres iranischen Reisepasses abgelaufen sein oder Ihr Pass von den iranischen Behörden entzogen worden sein, ist die Ausreise erst nach Ausstellung eines neuen iranischen Reisepasses bzw. Rückgabe Ihres Passes durch die iranischen Behörden möglich.
 * Ein deutscher Reisepass reicht bei gleichzeitig bestehender iranischer Staatsangehörigkeit für die Ausreise aus Iran nicht aus; Sie benötigen zusätzlich einen iranischen Pass.
 * Führen Sie zur Einreise nach Deutschland einen gültigen deutschen Reisepass mit sich.
@@ -427,7 +434,7 @@ Barmittel mit einem Wert bis 10.000 EUR dürfen ohne weitere Erklärung eingefü
 
 * Führen Sie keinen Alkohol, Schweinefleisch und Publikationen, die das sehr strenge iranische Moralverständnis verletzen könnten, ein.
 * Sie dürfen einen bis zu sechs m² großen und höchstens 30 Jahre alten Teppich ausführen.
-* Die Ausfuhr von Antiquitäten (Gegenstände, die älter als 30 Jahre alt sind) ist nur mit einer Genehmigung der Organisation für Kulturerbe zulässig. Suchen Sie dazu unter Vorlage eines Flugtickets als Nachweis der Ausreise die Organisation für Kulturerbe der Provinz Teheran nach vorheriger Terminvereinbarung auf (Tel. +98 21 667020614, Durchwahl 212, Imam Khomeini Str. 30 Tir Str., Iran-Bastan-Museum).
+* Die Ausfuhr von Antiquitäten (Gegenstände, die älter als 30 Jahre sind) ist nur mit einer Genehmigung der Organisation für Kulturerbe zulässig. Suchen Sie dazu unter Vorlage eines Flugtickets als Nachweis der Ausreise die Organisation für Kulturerbe der Provinz Teheran nach vorheriger Terminvereinbarung auf (Tel. +98 21 667020614, Durchwahl 212, Imam Khomeini Str. 30 Tir Str., Iran-Bastan-Museum).
 
 #### *Einreise mit Kfz*
 

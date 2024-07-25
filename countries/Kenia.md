@@ -4,20 +4,11 @@
 
 ### *Gewaltsame Auseinandersetzungen*
 
-In den sozialen Medien wird für Dienstag, 23. Juli 2024, zur Blockade wichtiger Zufahrts- und Transitstraßen in Nairobi aufgerufen. Davon betroffen sollen u.a. sein:
+Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias. Diese finden meistens dienstags und donnerstags nach Aufrufen in den sozialen Medien und mit unterschiedlicher Teilnehmerzahl statt.
 
-* Internationaler Flughafen Nairobi (JKIA)
-* Thika Road
-* Waiyakiway
-* Expressway
-* Limuru Road
-* Langata Road
+Reisende sollten folgende Vorsichtsmaßnahmen zur eigenen Sicherheit treffen:
 
-Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias.
-
-Reisende sollten folgende Vorsichtsmaßnahmen zur eigenen Sicherheit treffen:  
-
-* Vermeiden Sie nicht notwendige Fahrten. Bleiben Sie an einem sicheren Ort.
+* Vermeiden Sie nicht notwendige Fahrten, wenn Sie von Demonstrationen in Ihrer Nähe oder auf Ihrer Fahrtstrecke erfahren. Bleiben Sie an einem sicheren Ort.
 * Sollten Sie zum Flughafen fahren müssen, erkundigen Sie sich bitte zuvor in den Medien zur Situation auf den Zufahrtstraßen. Seien Sie besonders achtsam und umsichtig.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich über die lokalen Medien.
@@ -25,7 +16,7 @@ Reisende sollten folgende Vorsichtsmaßnahmen zur eigenen Sicherheit treffen:
 
 ### *Überschwemmungen*
 
-Die Überschwemmungen der letzten Monate haben zu Schäden an der Infrastruktur geführt; viele Straßen in Kenia sind derzeit beschädigt.
+Die Überschwemmungen in diesem Jahr haben zu Schäden an der Infrastruktur geführt; viele Straßen in Kenia sind derzeit beschädigt.
 
 * Fahren Sie deshalb besonders vorsichtig, insbesondere in Senken und in der Nähe von Wasserläufen.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.

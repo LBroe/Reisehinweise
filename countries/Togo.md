@@ -1,21 +1,5 @@
 # Togo: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Wahlen*
-
-Am 29. April 2024 fanden in Togo Parlaments- und Regionalwahlen statt. Im Anschluss an die Wahlen wurde am 6. Mai 2024 eine grundlegende Verfassungsänderung verkündet. In diesem Zusammenhang können in den nächsten Wochen auch gewaltsame Demonstrationen und Proteste nicht ausgeschlossen werden.
-
-* Informieren Sie sich über die lokalen Medien.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-
-### *Einreise nach Togo*
-
-Die togoischen Behörden haben kurzfristig die Einreiseformalitäten geändert. Die Einreise nach Togo kann ab sofort nur noch mit einem E-Visum erfolgen, das mindestens fünf Tage vor Einreise beantragt werden muss. Die Visumsbeantragung bei Einreise an den Landgrenzen ist nicht mehr möglich. Da die [entsprechende Webseite](https://voyage.gouv.tg) noch nicht auf eine Einreise auf dem Landweg ausgelegt ist und nur den Flughafen als möglichen Grenzübergang anbietet, muss bis zur Aktualisierung der Webseite eine fiktive Flugnummer im Formular eingetragen werden.
-
-Bei Einreise an den Landgrenzen wird ein Einreisestempel im Pass angebracht und handschriftlich das Datum der Ausreise eingetragen. Sollte dies nicht der online beantragten Aufenthaltsdauer entsprechen, kann mit Reisepass und E-Visum bei der [togoischen Passbehörde „DGDN“](https://dgdn.gouv.tg/en) kostenfrei die Erteilung eines Visums über den gesamten Zeitraum beantragt werden.
-
 ## Sicherheit
 
 **Von Reisen** 
@@ -42,7 +26,11 @@ Mit Polizeikontrollen ohne ersichtlichen Grund und im Einzelfall mit weitergehen
 
 ### Innenpolitische Lage
 
-Siehe *Aktuelles*  
+Im April 2024 fanden in Togo Parlaments- und Regionalwahlen statt. Im Anschluss an die Wahlen wurde im Mai 2024 eine grundlegende Verfassungsänderung verkündet. Gewaltsame Demonstrationen und Proteste können nicht ausgeschlossen werden.
+
+* Informieren Sie sich über die lokalen Medien.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
 
@@ -81,7 +69,7 @@ Die weit verbreiteten Motorrad-Taxis sind häufig in schwere Unfälle verwickelt
 
 * Sehen Sie von Überlandfahrten in der Nacht ab.
 * Benutzen Sie Sammeltaxis anstatt der Motorrad-Taxis.
-* Tragen Sie, wenn Sie dennoch Motorrad-Taxis benutzen - auch wenn für Passagiere keine rechtliche Pflicht dazu besteht, zumindest einen Helm.
+* Tragen Sie, wenn Sie dennoch Motorrad-Taxis benutzen - auch wenn für Passagiere keine rechtliche Pflicht dazu besteht - zumindest einen Helm.
 * Suchen Sie nach einem Unfall möglichst das nächste Polizeirevier auf, statt am Unfallort zu bleiben.
 * Führen Sie eine Kopie Ihres Reisepasses mit der Aufenthaltsgenehmigung bzw. dem Visum mit sich.
 
@@ -112,8 +100,6 @@ Landeswährung ist der westafrikanische CFA-Franc (XOF). Die Geldversorgung mit 
 
 ## Einreise und Zoll
 
-Siehe *Aktuelles - Einreise nach Togo*
-
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
@@ -140,12 +126,12 @@ Jedes Reisedokument muss bei Einreise noch mindestens sechs Monate und auf jeden
 
 ### Visum
 
-Siehe *Aktuelles - Einreise nach Togo*  
-
 Deutsche Staatsangehörige benötigen für die Einreise nach Togo ein Visum.  
-Das Visum muss bei Einreise mit dem Flugzeug online über die [offizielle Webseite der Regierung](http://www.voyage.gouv.tg/) beantragt werden. Es wird als sog. E-Visum ausgestellt. Die Online-Beantragung befindet sich noch in der Anlaufphase und weist noch gelegentliche Schwächen auf, für die Visumbeantragung sollte daher ein angemessener zeitlicher Vorlauf eingeplant werden.
+Das Visum muss spätestens fünf Tage vor Einreise online im Rahmen der Registrierung der Einreise auf der [Webseite der Regierung](http://www.voyage.gouv.tg/) beantragt werden. Es wird als sog. E-Visum ausgestellt. Die Online-Beantragung befindet sich noch in der Anlaufphase und weist noch gelegentliche Schwächen auf, für die Visumbeantragung sollte daher ein angemessener zeitlicher Vorlauf eingeplant werden. Die Beantragung eines Expressvisums („visa on arrival“) bei Einreise ist weder am Flughafen noch an den Landgrenzen möglich.
 
-Eine (auch mehrfache) Verlängerung eines Visums bei der Passbehörde (Direction générale de la documentation nationale – DGDN) ist gegen zusätzliche Kosten grundsätzlich möglich. Die maximale Dauer des Aufenthalts für Touristen beträgt drei Monate. Geschäftsvisa können bis zu einem Jahr verlängert werden.  
+Sollte bei Einreise an einer Landgrenze kein Visumetikett in den Pass geklebt werden, wird ein Einreisestempel angebracht und handschriftlich das Ausreisedatum vermerkt. Falls dieses nicht der online beantragten Aufenthaltsdauer entspricht, kann bei der togoischen Passbehörde (Direction générale de la documentation nationale – DGDN) kostenfrei die Erteilung eines Visums über den gesamten Zeitraum beantragt werden.
+
+Eine (auch mehrfache) Verlängerung eines Visums bei der Passbehörde ist gegen zusätzliche Kosten grundsätzlich möglich. Die maximale Dauer des Aufenthalts für Touristen beträgt drei Monate. Geschäftsvisa können bis zu einem Jahr verlängert werden.  
 Das Verfahren in der DGDN kann zeitaufwändig sein und in Einzelfällen mehrere Tage in Anspruch nehmen. Falls die Verlängerung verspätet beantragt oder die Gültigkeitsdauer eines Visums überschritten wird, erheben die togoischen Grenzbehörden eine Strafgebühr. Bei Nichtzahlung kann die Ausreise verweigert werden.
 
 ### Minderjährige
@@ -242,9 +228,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
