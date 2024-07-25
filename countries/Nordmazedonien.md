@@ -17,7 +17,7 @@ Die Behörden von Nordmazedonien haben in einigen Teilen des Landes weiterhin ni
 
 ### Kriminalität
 
-Die allgemeine Kriminalitätsrate ist niedrig. In Städten wie insbesondere in der Innenstadt von Skopje besteht die Gefahr von Taschendiebstählen, Handtaschenraub und vereinzelt Autoaufbrüchen, auch durch Jugendbanden. Kreditkartenmissbrauch kommt vor.
+Die allgemeine Kriminalitätsrate ist niedrig. Insbesondere in der Innenstadt von Skopje und anderen Städten besteht die Gefahr von Taschendiebstählen, Handtaschenraub und vereinzelt Autoaufbrüchen, auch durch Jugendbanden. Kreditkartenmissbrauch kommt vor.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -76,7 +76,7 @@ Der Besitz, Kauf und Verkauf von Drogen ist strafbar.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Denar (MKD). Die Bargeldversorgung mit Bank- oder Kreditkarten ist in Skopje und größeren Städten möglich, in kleinen Provinzstädten nur vereinzelt. Geldversorgung über die einschlägigen international operierenden Finanztransaktionsdienstleister ist in den größeren Städten möglich. Nicht alle Hotels akzeptieren Kreditkarten. Es ist fast überall Barzahlung mit EUR bzw. Umtausch von EUR in MKD möglich. Für den Umtausch von MKD in EUR werden Gebühren erhoben.
+Landeswährung ist der Denar (MKD). Die Bargeldversorgung mit Debit- (Girocard) oder Kreditkarten ist in Skopje und größeren Städten möglich, in kleinen Provinzstädten nur vereinzelt. Geldversorgung über die einschlägigen international operierenden Finanztransaktionsdienstleister ist in den größeren Städten möglich. Nicht alle Hotels akzeptieren Kreditkarten. Es ist fast überall Barzahlung mit EUR bzw. Umtausch von EUR in MKD möglich. Für den Umtausch von MKD in EUR werden Gebühren erhoben.
 
 ## Einreise und Zoll
 
