@@ -8,9 +8,7 @@
 
 ### *Sicherheitslage in Niamey*
 
-Am 28. Juli 2023 hat sich der bisherige Kommandeur der Präsidialgarde, Brigadegeneral Tchiani, zum Staatsoberhaupt der Republik Niger und den 2021 demokratisch gewählten Präsidenten Bazoum für abgesetzt erklärt. Die Lage vor allem in der Hauptstadt Niamey bleibt immer noch unübersichtlich. In Niamey, aber auch in anderen Teilen des Landes, kommt es regelmäßig zu größeren Demonstrationen, vor allem an den Wochenenden.
-
-Die Landgrenzen zu Benin und zu Nigeria sind auf Grund der ECOWAS-Sanktionen geschlossen.
+Im Zusammenhang mit den Feierlichkeiten zum Jahrestag des Militärputsches vom 26. Juli 2023 besteht für die ca. einwöchigen Feierlichkeiten eine erhöhte Gefahr terroristischer Anschläge. Nach der landesweiten Zunahme terroristischer Angriffe kann nicht ausgeschlossen werden, dass Terroristen das für die Machthabenden symbolträchtige Datum zum Anlass nehmen, Anschläge auch im Stadtgebiet der Hautstadt Niamey zu verüben.
 
 * **Beachten Sie die geltende Reisewarnung und Ausreiseempfehlung für Niger.**
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Niger aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf. Sollten Sie bereits ausgereist sein oder halten sich urlaubshalber außerhalb des Niger auf, aktualisieren Sie bitte Ihre Daten entsprechend in der Krisenvorsorgeliste (Elefand).
