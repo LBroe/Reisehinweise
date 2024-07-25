@@ -1,15 +1,5 @@
 # Mauretanien: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### Präsidentschaftswahl
-
-Präsident Ghazouani wurde für eine zweite Amtszeit wiedergewählt. Seit dem 2. Juli 2024 ist infolge vereinzelter Demonstrationen das mobile Internet abgeschaltet.
-
-* Verfolgen Sie die Nachrichten in den lokalen und sozialen Medien aufmerksam.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen
-* Leisten Sie den Anweisungen der Sicherheitskräfte Folge.
-
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in das unmittelbare Grenzgebiet zu Algerien und Mali wird gewarnt**.
@@ -38,11 +28,13 @@ In Mauretanien bestehen wie in der gesamten Sahel-Region grundsätzlich Anschlag
 
 ### Innenpolitische Lage
 
-In der Region Tiris Zemmour im Nordosten gibt es ein militärisches Sperrgebiet zwischen Cheggat im Nordosten, Ain Bentili im Nordwesten, Dhar Tichitt im Südwesten und Lemreyye im Südosten, das nicht betreten werden darf.
+Präsident Ghazouani wurde für eine zweite Amtszeit wiedergewählt. Die Vereidigung für die zweite Amtszeit ist für den 1. August 2024 angesetzt.
 
 Bei spontanen Kundgebungen und Demonstrationen, insbesondere im Anschluss an das Freitagsgebet in den Moscheen der Städte, können gewaltsame Ausschreitungen nicht ausgeschlossen werden.
 
-* Informieren Sie sich über die lokalen Medien.
+In der Region Tiris Zemmour im Nordosten gibt es ein militärisches Sperrgebiet zwischen Cheggat im Nordosten, Ain Bentili im Nordwesten, Dhar Tichitt im Südwesten und Lemreyye im Südosten, das nicht betreten werden darf.
+
+* Verfolgen Sie die Nachrichten in den lokalen und sozialen Medien aufmerksam.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Respektieren Sie Sperrzonen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
