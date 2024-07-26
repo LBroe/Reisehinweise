@@ -8,16 +8,17 @@ Einschließlich **Französische Überseegebiete**
 
 ### Olympische und Paralympische Spiele
 
-#### *Verkehrssituation*
+#### *Informationen für Reisende*
 
-Während des olympischen Fackellaufs in Frankreich (8. Mai bis 26. Juli 2024) und während der Austragung der Olympischen (26. Juli bis 11. August 2024) und Paralympischen Spiele (28. August bis 8. September 2024) kann es landesweit zu Verkehrsbehinderungen kommen.
+Während der Austragung der Olympischen (26. Juli bis 11. August 2024) und Paralympischen Spiele (28. August bis 8. September 2024) kann es landesweit zu Verkehrsbehinderungen kommen. Auf die Schnellzugstrecken Atlantique, Nord und Est wurden am 26. Juli 2024 Brandanschläge verübt, die den Bahnverkehr stark beeinträchtigen.
 
-* Bitte informieren Sie sich über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
-* Hilfreiche Tipps und wichtige Informationen für Reisende bieten das [französische Verkehrsministerium](https://anticiperlesjeux.gouv.fr/) und die Webseite [Bison Futé](http://www.bison-fute.gouv.fr).
+* Bitte informieren Sie sich in Ihrem Reisebüro oder auf der Webseite der [SNCF](https://www.sncf-connect.com/de-de/).
+* Bitte informieren Sie sich über die aktuelle Lage in den Medien und planen Sie Ihren Aufenthalt entsprechend.
+* Hilfreiche Tipps und wichtige Informationen für Reisende bieten [die Webseite Paris 2024](https://olympics.com/de/paris-2024), das französische [Innenministerium](https://www.interieur.gouv.fr/jeux-olympiques-et-paralympiques-de-paris-2024), das [Verkehrsministerium](https://anticiperlesjeux.gouv.fr/) und die Webseite [Bison Futé](http://www.bison-fute.gouv.fr).
 
 #### *Grenzkontrollen*
 
-In Zusammenhang mit den bevorstehenden Olympischen und Paralympischen Spielen hat Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden angekündigt. Diese sollen stichprobenartig erfolgen.
+In Zusammenhang mit den bevorstehenden Olympischen und Paralympischen Spielen hat Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden angekündigt. Diese sollen stichprobenartig erfolgen. Auch Deutschland wird an der deutsch-französischen land- und luftseitigen Grenze bis Ende September Binnengrenzkontrollen durchführen.
 
 Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
 
@@ -75,7 +76,7 @@ In ganz Frankreich gibt es hin und wieder großflächige Streiks, insbesondere a
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
 * Planen Sie Ihren Aufenthalt entsprechend.
 * Befolgen Sie Anweisungen der lokalen Sicherheits- und Ordnungskräfte.
-* Verfolgen Sie die aktuelle Lage im Nah- und Fernverkehr über die Internetseiten der [Staatlichen Eisenbahngesellschaft SNCF](https://www.sncf-connect.com/train/greve), des [Nahverkehrs in Paris und Umland (RATP)](https://www.ratp.fr/en/visite-paris/deutsch/auf-besuch-paris-und-umgebung) und der [Pariser Flughäfen.](https://www.parisaeroport.fr/)
+* Verfolgen Sie die aktuelle Lage im Nah- und Fernverkehr über die Internetseiten der [Staatlichen Eisenbahngesellschaft SNCF](https://www.sncf-connect.com/train/greve), des [Nahverkehrs in Paris und Umland (RATP)](https://www.ratp.fr/en) und der [Pariser Flughäfen.](https://www.parisaeroport.fr/)
 
 ### Kriminalität
 
@@ -124,6 +125,8 @@ Neu-Kaledonien, Wallis-et-Futuna, La Réunion und Mayotte sowie die karibischen 
 * Machen Sie sich bei Reisen in die Überseegebiete mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 
 ## Reiseinfos
+
+Siehe *Aktuelles*
 
 ### Zuständige Auslandsvertretung für die Überseegebiete
 
@@ -187,6 +190,8 @@ Es ist in Frankreich nicht erlaubt, an öffentlichen Orten das Gesicht zu verhü
 Zahlungsmittel ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
 
 ## Einreise und Zoll
+
+Siehe *Aktuelles*  
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
@@ -262,7 +267,7 @@ Dengue-Viren werden in den Sommermonaten vereinzelt in Südfrankreich durch taga
 
 Im Süden des Landes im Département Var wurden Einzelfälle von lokal erworbenen Zika-Virus-Infektionen nachgewiesen. Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Viren kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen.
 
-* Beachten Sie für Ihre Reise die Empfehlungen in [Zika-Virus-Infektion.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen")​​​​​​​
+* Beachten Sie für Ihre Reise die Empfehlungen in [Zika-Virus-Infektion.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen")
 
 ### Durchfallerkrankungen
 
