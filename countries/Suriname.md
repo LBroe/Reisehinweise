@@ -128,7 +128,9 @@ Die Einfuhr von Waffen (auch Schreckschusspistolen, Taucher- und Bootssignalpist
 
 ### Impfschutz
 
-Eine gültige [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") kann für alle Reisenden, die älter als 12 Monate bei der Einreise nach Suriname bzw. bei der Weiterreise in andere Länder Südamerikas bzw. Subsahara-Afrikas verlangt werden, da in Surinam eine Gelbfieber Übertragung möglich ist.
+Der Nachweis einer [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") ist für alle Reisenden älter als 12 Monate aus oder bei einem Transit von mehr als 12 Stunden durch ein Gelbfieberendemiegebiet nach Suriname erforderlich.
+
+Eine Impfung wird allen Reisenden dringend empfohlen.  
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Typhus und Tollwut empfohlen.
@@ -162,19 +164,14 @@ Die kutane und mukokutane Form kommt in vielen Teilen des Landes vor. Die einzel
 
 Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche *Malaria tropica* bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria").
 
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
+In Suriname besteht nur eine geringe, sehr begrenzt auch eine mittlere Malariagefährdung. Bei Besuch der Gebiete mit mittlerer Gefährdung sollte ggf. Medikamente zur notfallmäßigen Selbstbehandlung mitgeführt werden, falls nach Fieberbeginn innerhalb von 24 Std. ein Arzt nicht erreichbar ist. Siehe dazu aktuelle Malariaprophylaxe-Empfehlungen der 
 
-Die Hauptstadt Paramaribo gilt als malariafrei bzw. mit einem minimalen Übertragungsrisisko behaftet, ansonsten besteht ganzjährig ein hohes Übertragungs-Risiko im ganzen Land, v. a. in Sipaliwini und Brokopondo bzw. ein geringes Risiko in den Küstenregionen.  
 Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
 
 * Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
 * Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
 * Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
-
-Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
-
-* Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
-* Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
+* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 
 ### HIV/AIDS
 

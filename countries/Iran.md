@@ -461,6 +461,13 @@ Bei Einreise aus einem Gelbfiebergebiet oder Aufenthalt von mehr als 12 Stunden 
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
+### Dengue-Fieber
+
+Berichte über autochthone Infektionen gibt es in einzelnen Provinzen im Iran. Dengue-Viren werden durch tagaktive *Aedes*-Mücken übertragen. Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
+
+* Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere tagsüber konsequent vor Mückenstichen.
+* Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
+
 ### Malaria
 
 Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche *Malaria tropica* bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria").
