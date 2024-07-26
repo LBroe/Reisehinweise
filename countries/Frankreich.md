@@ -4,17 +4,7 @@ Einschließlich **Französische Überseegebiete**
 
 ## Aktuelles
 
-**Von nicht unbedingt notwendigen Reisen nach Neukaledonien wird derzeit abgeraten.**
-
-### *Auseinandersetzungen in Neukaledonien*
-
-Im französischen Überseegebiet Neukaledonien kam es im Mai 2024 im Zusammenhang mit einer geplanten Verfassungsänderung zu gewalttätigen Auseinandersetzungen von Befürwortern einer Unabhängigkeit von Frankreich mit den Sicherheitskräften.
-
-Die Lage vor Ort ist instabil; zahlreiche Straßensperren beschränken weiterhin die Mobilität zwischen der Hauptstadt Nouméa und dem Umland. Der am 13. Mai 2024 verhängte Ausnahmezustand wurde mittlerweile aufgehoben; dennoch bleiben Ausgangssperren, ein Versammlungs- und teilweises Alkoholverbot bestehen. Der kommerzielle Flugverkehr des internationalen Flughafens in Nouméa wurde wieder aufgenommen.
-
-* Bitte informieren Sie sich beim [Hochkommissariat von Neukaledonien](https://www.nouvelle-caledonie.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
-* Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
-* Befolgen Sie Anweisungen der lokalen Sicherheitskräfte.
+**Von nicht unbedingt notwendigen Reisen nach Neukaledonien wird derzeit abgeraten.**  
 
 ### Olympische und Paralympische Spiele
 
@@ -34,6 +24,16 @@ Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht a
 * Führen Sie stets ein gültiges Reisedokument mit.
 * Überzeugen Sie sich als Fahrer eines Kraftfahrzeugs stets davon, dass Ihre Mitfahrer gültige Grenzübertrittspapiere mit sich führen.
 * Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf der Webseite [Bison Futé](http://www.bison-fute.gouv.fr).
+
+### Auseinandersetzungen in Neukaledonien
+
+Im französischen Überseegebiet Neukaledonien kam es im Mai 2024 im Zusammenhang mit einer geplanten Verfassungsänderung zu gewalttätigen Auseinandersetzungen von Befürwortern einer Unabhängigkeit von Frankreich mit den Sicherheitskräften.
+
+Die Lage vor Ort ist instabil; zahlreiche Straßensperren beschränken weiterhin die Mobilität zwischen der Hauptstadt Nouméa und dem Umland. Der am 13. Mai 2024 verhängte Ausnahmezustand wurde mittlerweile aufgehoben; dennoch bleiben Ausgangssperren, ein Versammlungs- und teilweises Alkoholverbot bestehen. Der kommerzielle Flugverkehr des internationalen Flughafens in Nouméa wurde wieder aufgenommen.
+
+* Bitte informieren Sie sich beim [Hochkommissariat von Neukaledonien](https://www.nouvelle-caledonie.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
+* Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
+* Befolgen Sie Anweisungen der lokalen Sicherheitskräfte.
 
 ### Mayotte
 

@@ -2,11 +2,19 @@
 
 ## Aktuelles
 
+### *Landesweiter Streik*
+
+Aufgrund eines angekündigten landesweiten Streiks bei der peruanischen Einwanderungsbehörde (Migraciones), kann es ab dem 27. Juli 2024 bis auf Weiteres zu erheblichen Verzögerungen bei der Ein- und Ausreise und längeren Wartezeiten an allen Grenzübertrittsstellen kommen. Die internationalen Flughäfen können von diesem unbefristeten Streik ebenfalls betroffen sein.
+
+* Bitte passen Sie Ihre Reisepläne entsprechend an.
+* Halten Sie sich von Menschenansammlungen fern.
+* Folgen Sie den Anweisungen der peruanischen Behörden und Sicherheitskräfte.
+
 ### *Aktuelle Sicherheitslage*
 
 Im Zuge der verschlechterten Sicherheitslage in Ecuador (siehe auch Reise- und Sicherheitshinweise [Ecuador](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232#content_4)) hat Peru für die fünf an Ecuador grenzenden Regionen im Norden des Landes (**Tumbes, Piura, Cajamarca, Amazonas und Loreto**) den Notstand ausgerufen und die Präsenz des Militärs und der Polizeibehörden verstärkt. Die Landgrenzen zu Ecuador bleiben für den Personenverkehr geöffnet.
 
-Aufgrund einer Anordnung des ecuadorianischen Innenministeriums, wonach alle nicht in Ecuador lebenden Ausländer bei Einreise auf dem **Landweg** ein aktuelles [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) vorlegen müssen, kann es zu Verzögerungen bei oder Verweigerungen der Einreise von Peru nach Ecuador kommen, *siehe Reiseinfos*.
+Aufgrund einer Anordnung des ecuadorianischen Innenministeriums, wonach alle nicht in Ecuador lebenden Ausländer bei Einreise auf dem **Landweg** ein aktuelles [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) vorlegen müssen, kann es zu Verzögerungen bei oder Verweigerungen der Einreise von Peru nach Ecuador kommen. Weitere Informationen (auch über evtl. Ausnahmen) bieten die Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)
 
 In verschiedenen Regionen des Landes gilt ebenfalls weiterhin der Notstand, siehe *Sicherheit – Innenpolitische Lage*.
 
@@ -33,7 +41,7 @@ Im Amazonasgebiet Loreto besteht ein Konflikt um die Erdölförderung, der teilw
 
 Siehe auch Abschnitt *Aktuelles – Aktuelle Sicherheitslage.*
 
-Im Kampf gegen den Drogenhandel wurde in einigen Provinzen der Notstand ausgerufen. Betroffen sind Provinzen des sogenannten VRAEM, also das Gebiet der Flüsse Ene, Apurímac und Mantaro und Grenzgebiete zu Kolumbien und Brasilien. Polizei und Streitkräfte verfügen über weitreichende Sonderrechte, es kommt dort dennoch weiterhin zu Überfällen bewaffneter Gruppen auf Angehörige und Einrichtungen der Sicherheitskräfte. Mit Einschränkungen im Reiseverkehr ist dort zu rechnen.
+Im Kampf gegen den Drogenhandel wurde in einigen Provinzen der Notstand ausgerufen. Betroffen sind Provinzen des sogenannten VRAEM, also das Gebiet der Flüsse Ene, Apurímac und Mantaro und Grenzgebiete zu Kolumbien und Brasilien. Polizei und Streitkräfte verfügen über weitreichende Sonderrechte; es kommt dort dennoch weiterhin zu Überfällen bewaffneter Gruppen auf Angehörige und Einrichtungen der Sicherheitskräfte. Mit Einschränkungen im Reiseverkehr ist dort zu rechnen.
 
 * Meiden Sie grundsätzlich Demonstrationen sowie die Elendsviertel in Großstädten.
 * Versuchen Sie nicht, Straßenblockaden zu passieren, sondern weichen Sie aus oder warten Sie die Normalisierung der Lage ab.
@@ -42,7 +50,7 @@ Im Kampf gegen den Drogenhandel wurde in einigen Provinzen der Notstand ausgeruf
 
 ### Kriminalität
 
-Die Kriminalitätsrate in Peru und das Risiko, Opfer von Überfällen, Diebstählen oder Entführungen zu werden, ist insbesondere in den Elendsvierteln der Großstädte, im öffentlichen Nahverkehr, an Busbahnhöfen, in Einkaufsstraßen und auf Märkten hoch.  
+Die Kriminalitätsrate in Peru und das Risiko, Opfer von Überfällen, Diebstählen oder Entführungen zu werden, sind insbesondere in den Elendsvierteln der Großstädte, im öffentlichen Nahverkehr, an Busbahnhöfen, in Einkaufsstraßen und auf Märkten hoch.  
 Besonders in den Regionen um Ica, Arequipa, Puno sowie zwischen Puerto Maldonado und Cusco gibt es vereinzelte nächtliche Überfälle auf Überlandbusse; vereinzelt kommt es zu sexuellen Übergriffen und Waffengewalt.  
 Auch auf den Strecken von Huánuco über Tingo Maria - Tocache nach Tarapoto und weiter nach Yurimaguas bzw. nach Pucallpa wurden Überlandreisende überfallen.  
 In Lima kommt es besonders abends in der Innenstadt und in den auch von Touristen häufig besuchten Bezirken Miraflores und Barranco zu Diebstählen, ebenso auf Märkten und in Busbahnhöfen.  
@@ -63,7 +71,7 @@ Touristen wurden des Öfteren gegen ihren Willen und in Unkenntnis als „Drogen
 * Achten Sie bei der Wahl der Unterkunft auf Sicherheitsaspekte wie Nachtwächter, Hotelsafe und Zimmertelefon.
 * Lassen Sie Getränke nicht unbeaufsichtigt und nehmen Sie keine Getränke von Unbekannten an.
 * Tragen Sie bei Bahn- und Busreisen Wertsachen nicht im Handgepäck, sondern am Körper.
-* Verzichten Sie auf das öffentliche Vorzeigen von großen Geldbeträgen oder wertvollem Schmuck und Uhren und bewahren Sie diese in Fahrzeugen außer Sichtweite auf.
+* Verzichten Sie auf das öffentliche Vorzeigen großer Geldbeträge oder wertvollem Schmucks und Uhren und bewahren Sie diese in Fahrzeugen außer Sichtweite auf.
 * Rufen Sie im Notfall die „Policía de Turismo“ (Touristenpolizei) in Lima in der Calle General Vidal 230, Tel. +511 4601060, 4600849, 4600921.
 * Nehmen Sie kein Gepäck für Fremde mit und kontrollieren Sie den Inhalt des eigenen Gepäcks, siehe auch Abschnitt Strafrecht.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter und insbesondere bei Lockangeboten (z.B. Angebote über das Internet, auf Kosten anderer eine Reise durchzuführen) skeptisch und wenden Sie sich ggf. an die Polizei.
@@ -74,18 +82,18 @@ Touristen wurden des Öfteren gegen ihren Willen und in Unkenntnis als „Drogen
 
 Peru liegt in einer sehr seismisch aktiven Zone, sodass es regelmäßig zu Erdbeben kommen kann.
 
-#### *Vulkane*
+#### *Vulkanausbrüche*
 
 Die Vulkane Sabancaya und Ubinas im Süden des Landes sind weiter aktiv. Es kommt vor allem zum Ausstoß von Asche, im Umkreis des Vulkans Ubinas wurden Evakuierungen angeordnet. Einschränkungen im Reiseverkehr in dieser Region gab es jedoch bisher nicht.
 
 #### *Überschwemmungen*
 
-Das Klima ist im östlichen Amazonasgebiet feuchttropisch, im Hochland herrscht tropisches Hochgebirgsklima. An der Küste ist es im Sommer heiß und im Winter kühl.  
+Das Klima ist im östlichen Amazonasgebiet feuchttropisch; im Hochland herrscht tropisches Hochgebirgsklima. An der Küste ist es im Sommer heiß und im Winter kühl.  
 Insbesondere in der Regenzeit von Dezember bis März können starke Regenfälle zu Überschwemmungen und Erdrutschen und in der Folge zu Behinderungen und Gefährdungen im Reiseverkehr führen. Hiervon können auch touristische Sehenswürdigkeiten betroffen sein, so etwa in der Region Cusco, wo sich die Inkastadt Machu Picchu und der „Inka-Trail“ befinden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Halten Sie sich über die lokale Lage über die regionalen Büros der peruanischen Touristeninformation “[iPeru](https://www.peru.travel/iperu.aspx)“ und die Medien informiert und beachten Sie Hinweise der [staatlichen Behörde für Katastrophenschutz (INDECI)](http://www.gob.pe/indeci).
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
@@ -97,15 +105,15 @@ Vor dem Hintergrund der aktuellen Sicherheitskrise im Nachbarland Ecuador muss b
 
 ### Infrastruktur/Verkehr
 
-Der technische Zustand der Kleinflugzeuge, die vom Flughafen „Maria Reiche“ in Nazca für Flüge über die Nazca-Linien eingesetzt werden, sowie die Qualifikation der Piloten und die Einhaltung von Sicherheitsvorschriften entsprachen in der Vergangenheit nicht europäischem Standard. So kam es zu mehreren Zwischenfällen und mehreren Abstürzen mit Todesfolgen. Die Standards am Flughafen in Pisco, wo ebenfalls Überflüge der Nazca-Linien angeboten werden, sind nach derzeitigen Erkenntnissen besser.
+Der technische Zustand der Kleinflugzeuge, die am Flughafen „Maria Reiche“ in Nazca für Flüge über die Nazca-Linien eingesetzt werden, sowie die Qualifikation der Piloten und die Einhaltung von Sicherheitsvorschriften entsprachen in der Vergangenheit nicht europäischem Standard. So kam es zu mehreren Zwischenfällen und mehreren Abstürzen mit Todesfolgen. Die Standards am Flughafen in Pisco, wo ebenfalls Überflüge der Nazca-Linien angeboten werden, sind nach derzeitigen Erkenntnissen besser.
 
-Die Städte und Sehenswürdigkeiten entlang der Küste können über die gesamte Länge mit privaten Pkws oder öffentlichen Verkehrsmitteln befahren werden. Dies gilt auch für Fahrten in die „Sierra“ (Andenhochland) nach Cajamarca, Huaraz (Callejón de Huaylas) Chanchamayo, von Pisco nach Ayacucho, von Nazca nach Cusco und weiter nach Puno, und nach Arequipa, einschl. Cañón de Colca sowie die Weiterfahrt nach Puno. Im Landesinneren sind einige weitere Hauptverbindungsstraßen gut ausgebaut. In abgelegenen Gegenden sind Verbindungen zwischen größeren Orten oft nicht befestigt und im Hochland gelegentlich – insbesondere wegen Erdrutschen während der Regenzeit – nicht oder nur schwer befahrbar.
+Die Städte und Sehenswürdigkeiten entlang der Küste können über die gesamte Länge mit privaten Pkw oder öffentlichen Verkehrsmitteln befahren werden. Dies gilt auch für Fahrten in die „Sierra“ (Andenhochland) nach Cajamarca, Huaraz (Callejón de Huaylas) Chanchamayo, von Pisco nach Ayacucho, von Nazca nach Cusco und weiter nach Puno, und nach Arequipa, einschließlich Cañón de Colca sowie die Weiterfahrt nach Puno. Im Landesinneren sind einige weitere Hauptverbindungsstraßen gut ausgebaut. In abgelegenen Gegenden sind Verbindungen zwischen größeren Orten oft nicht befestigt und im Hochland gelegentlich – insbesondere wegen Erdrutschen während der Regenzeit – nicht oder nur schwer befahrbar.
 
-Unfälle von Überlandbussen mit einer großen Anzahl von Toten und Verletzten passieren häufig, auch auf dem Weg nach Machu Picchu mit dem Bus über Santa Teresa und Hidroelectrica, wo unbefestigte Gebirgsstraßen befahren werden. Sicherer ist die Anreise nach Machu Picchu mit dem Zug über Aguas Calientes.
+Bei Überlandbussen kommt es häufig zu Unfällen mit einer großen Anzahl von Toten und Verletzten, auch auf dem Weg nach Machu Picchu mit dem Bus über Santa Teresa und Hidroelectrica, wo unbefestigte Gebirgsstraßen befahren werden. Sicherer ist die Anreise nach Machu Picchu mit dem Zug über Aguas Calientes.
 
 * Informieren Sie sich daher fortlaufend über die aktuellen und zu erwartenden Witterungsbedingungen.
 
-Die Nutzung innerperuanischer Flüge und die Mitnahme in Überlandbussen ist nur gewährleistet, wenn ein Pass (bei Busreisen reicht zumeist eine Passkopie) vorgelegt werden kann. Eine Diebstahlsanzeige ist **nicht** mehr ausreichend.
+Die Nutzung innerperuanischer Flüge und die Mitnahme in Überlandbussen ist nur gewährleistet, wenn ein Pass (bei Busreisen reicht zumeist eine Passkopie) vorgelegt werden kann. Eine Diebstahlsanzeige ist **nicht** ausreichend.
 
 * Bei Passverlust wenden Sie sich bitte an die Botschaft oder an das Büro des für den Amtsbezirk zuständigen Honorarkonsuls.
 * Achten Sie auf einen ausreichenden Reisekrankenversicherungsschutz, der im Notfall auch einen Rettungsflug nach Deutschland abdeckt; siehe auch Abschnitt Gesundheit. Notfallmedizinische Dienstleistungen entsprechen, vor allem außerhalb Limas, nicht dem europäischen Niveau.
@@ -144,9 +152,9 @@ Bei der Teilnahme an Schamanen-Ritualen in den peruanischen Urwaldregionen ist e
 
 ### Rechtliche Besonderheiten
 
-Drogenbesitz und Drogenhandel gelten als Verbrechen und werden mit sehr hohen Gefängnisstrafen geahndet. Personen, bei denen Kokain oder andere Drogen gefunden werden, müssen, auch bei Mitführung „nur“ kleinerer Mengen, mit sofortiger Verhaftung sowie einer Haftstrafe in Höhe von zwei bis 25 Jahren rechnen. Die Haftbedingungen in Peru sind hart und die Gefängnisse in der Regel extrem überbelegt. Hygienische Verhältnisse sowie die Versorgung mit Lebensmitteln sind schlecht.
+Drogenbesitz und -handel gelten als Verbrechen und werden mit sehr hohen Gefängnisstrafen geahndet. Personen, bei denen Kokain oder andere Drogen gefunden werden, müssen, auch bei Mitführung „nur“ kleinerer Mengen, mit sofortiger Verhaftung sowie einer Haftstrafe in Höhe von zwei bis 25 Jahren rechnen. Die Haftbedingungen in Peru sind hart und die Gefängnisse in der Regel extrem überbelegt. Hygienische Verhältnisse sowie die Versorgung mit Lebensmitteln sind schlecht.
 
-* Vermeiden Sie bitte jede Berührung mit Drogen aller Art. Auch die Mitnahme bzw. der Transport von Gegenständen für Dritte ohne Kenntnis des Inhalts kann verhängnisvolle Folgen haben.
+* Bitte vermeiden Sie jede Berührung mit Drogen. Auch die Mitnahme bzw. der Transport von Gegenständen für Dritte ohne Kenntnis des Inhalts kann verhängnisvolle Folgen haben.
 * Führen Sie keinesfalls ohne vorherige Genehmigung der peruanischen Obersten Zollbehörde Kulturgüter aus. Verstöße werden strafrechtlich verfolgt und haben zudem die Einziehung der Kulturgüter zur Folge.
 
 ### Geld/Kreditkarten
@@ -156,6 +164,8 @@ Landeswährung ist der Peruanische Sol (PEN). Die Abhebung von Bargeld an Geldau
 Bei Problemen mit der Geldversorgung können die einschlägigen international operierenden Finanztransaktionsdienstleister in Anspruch genommen werden. EUR können zumindest in Lima, Arequipa, Puno und Cusco in Wechselstuben umgetauscht werden. Außerhalb größerer Orte ist der Umtausch von EUR und gelegentlich auch USD in PEN problematisch.
 
 ## Einreise und Zoll
+
+siehe *Aktuelles*
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
@@ -184,7 +194,7 @@ Deutsche Staatsangehörige benötigen für touristische Aufenthalte von bis zu 9
 
 ### Einreisekontrolle
 
-Bei der Einreise über einen der internationalen Flughäfen und Seehäfen (Kreuzfahrtterminals) werden die Einreise- und Aufenthaltsdaten elektronisch von der peruanischen Grenzbehörde erfasst. Die Einreise und die bewilligte Aufenthaltsdauer werden nicht im Reisepass vermerkt; sie wird in der Regel nur mündlich mitgeteilt.
+Bei der Einreise über einen der internationalen Flughäfen und Seehäfen (Kreuzfahrtterminals) werden die Einreise- und Aufenthaltsdaten elektronisch von der peruanischen Grenzbehörde erfasst. Die Einreise und die bewilligte Aufenthaltsdauer wird nicht im Reisepass vermerkt, sondern in der Regel nur mündlich mitgeteilt.
 
 Bei Überschreitung der Aufenthaltsdauer muss bei der Ausreise eine Geldstrafe in Höhe von derzeit 5 PEN pro Tag der Überschreitung bezahlt werden, bevor das Land verlassen werden kann.
 
@@ -194,7 +204,7 @@ Die Entscheidung, welche Aufenthaltsdauer im Einzelfall bewilligt wird, obliegt 
 
 * Bitte beachten Sie: es wird nicht automatisch eine Aufenthaltsdauer von 90 Tagen bewilligt, sondern diese bestimmt sich nach Ihren Angaben bei der Einreise.
 
-Bei einer nicht registrierten Einreise auf dem Land- oder Wasserweg gehen die peruanischen Behörden von einem illegalen Aufenthalt aus, der zu erheblichen Problemen und Verzögerungen (mindestens zehn Tage) bei der Ausreise und im ungünstigen Fall zu einer kostenpflichtigen Abschiebung führen kann. Manche Grenzübergänge (etwa bei Einreise aus Bolivien oder Ecuador) können nachts nicht besetzt sein, sodass die Registrierung dort nicht erfolgen kann.
+Bei einer nicht registrierten Einreise auf dem Land- oder Wasserweg gehen die peruanischen Behörden von einem illegalen Aufenthalt aus, der zu erheblichen Problemen und Verzögerungen (mindestens zehn Tage) bei der Ausreise und im ungünstigen Fall zu einer kostenpflichtigen Abschiebung führen kann. Manche Grenzübergänge (etwa bei Einreise aus Bolivien oder Ecuador) können nachts nicht besetzt sein, sodass die Registrierung dort nicht erfolgen kann. In diesem Fall sollten Reisende umgehend und spätestens im nächstgrößeren Ort die Einwanderungsbehörde (Migraciones) aufsuchen.
 
 * Achten Sie unbedingt darauf, dass das Grenzpersonal Ihre Einreise und die bewilligte Aufenthaltsdauer korrekt vermerkt.
 * Falls das Grenzpersonal Ihnen die bewilligte Aufenthaltsdauer nicht von sich aus mitteilt, fragen Sie nach, um eine Überschreitung zu vermeiden. Diese zieht eine Strafe nach sich.
@@ -204,7 +214,7 @@ Bei einer nicht registrierten Einreise auf dem Land- oder Wasserweg gehen die pe
 ### Verlängerung des Aufenthalts
 
 Eine Verlängerung der 90-tägigen Aufenthaltsdauer ist nicht möglich.  
-Detaillierte Informationen sind in spanischer und englischer Sprache bei der [„Superintendencia Nacional de Migraciones“](https://www.migraciones.gob.pe/) oder bei den peruanischen Auslandsvertretungen in Deutschland bzw. Ihrem Wohnsitzland erhältlich.
+Detaillierte Informationen sind in spanischer und englischer Sprache bei der [„Superintendencia Nacional de Migraciones“](https://www.migraciones.gob.pe/) oder bei den peruanischen Auslandsvertretungen in Deutschland bzw. im Wohnsitzland erhältlich.
 
 Sollte ein Daueraufenthalt in Peru angestrebt werden, muss das entsprechende notwendige Einreisevisum bei der für den Wohnort zuständigen peruanischen Auslandsvertretung beantragt werden. Für die dann in Peru zu beantragende Aufenthaltsgenehmigung wird ein aktuelles deutsches Führungszeugnis mit Apostille und Übersetzung benötigt. Dies sollte bei Einreise mitgeführt werden.
 
@@ -214,10 +224,11 @@ Sollte ein Daueraufenthalt in Peru angestrebt werden, muss das entsprechende not
 
 ### Minderjährige
 
-Zur Ausreise aus Peru ist gemäß Mitteilung der peruanischen Einwanderungsbehörde für Minderjährige, die nicht von beiden sorgeberechtigten Eltern begleitet werden, die Vorlage einer von einem peruanischen Notar  oder von der zuständigen peruanischen Auslandsvertretung ausgestellten Zustimmungserklärung des nicht mitreisenden Elternteils oder eine gerichtliche Ausreisegenehmigung erforderlich:
+Zur Ausreise aus Peru ist gemäß Mitteilung der peruanischen Einwanderungsbehörde für Minderjährige, die nicht von beiden sorgeberechtigten Eltern begleitet werden, die Vorlage einer von einem peruanischen Notar oder von der zuständigen peruanischen Auslandsvertretung ausgestellten Zustimmungserklärung des nicht mitreisenden Elternteils oder eine gerichtliche Ausreisegenehmigung erforderlich:
 
 * für Minderjährige, die (auch) die peruanische Staatsangehörigkeit besitzen, bei Wohnsitz in Peru oder bei im Ausland wohnhaften Peruanern nach einem Aufenthalt in Peru von über 183 Tagen;
 * für Minderjährige, die nicht die peruanische Staatsangehörigkeit besitzen, bei Wohnsitz („Residencia“) in Peru oder bei einem Aufenthalt in Peru von mehr als 183 Tagen.
+
 * Beachten Sie hierzu die Informationen (auf Spanisch und Englisch) der Einwanderungsbehörde ["Migraciones"](https://www.migraciones.gob.pe/).
 
 ### Einfuhrbestimmungen
@@ -228,7 +239,7 @@ Die Ausfuhr von Kulturgütern bedarf der vorherigen Genehmigung der peruanischen
 
 Für die Rückreise aus Peru nach Deutschland wird in Ergänzung der allgemeinen deutschen Zollvorschriften darauf hingewiesen, dass selbst kleine Mengen von losem oder auch abgepacktem Coca-Tee vom deutschen Zoll beschlagnahmt werden und die versuchte Einfuhr von Coca-Tee einen Verstoß gegen das deutsche Betäubungsmittelgesetz darstellt.
 
-Beim Versand von elektronischen Apparaten, Ersatzteilen, Kamerazubehör, Kosmetika u. ä. per Post oder Kurier nach Peru ist die Zollauslösung kostspielig und zeitaufwändig. Sendungen, die für Empfänger in der Provinz bestimmt sind, werden zum Teil in Lima zurückgehalten. Eine Inanspruchnahme deutscher Vertretungen ist hierfür nicht möglich.
+Beim Versand elektronischer Apparate, Ersatzteile, Kamerazubehör, Kosmetika u. ä. per Post oder Kurier nach Peru ist die Zollauslösung kostspielig und zeitaufwändig. Sendungen, die für Empfänger in der Provinz bestimmt sind, werden zum Teil in Lima zurückgehalten. Die Deutschen Vertretungen in Peru können in diesem Fall nicht tätig werden.
 
 #### *Einreise mit einem Fahrzeug*
 
@@ -361,9 +372,7 @@ In der Regel reichen die Behandlungsmöglichkeiten in Cusco nicht aus, um schwer
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

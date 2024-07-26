@@ -12,7 +12,7 @@ Im nördlichen Teil des Departamentos San Pedro und dem südlichen Teil des Depa
 
 ### Innenpolitische Lage
 
-Die Sicherheitslage sowohl in den Städten als auch auf dem Land erfordert ständige Aufmerksamkeit. Im Grenzgebiet zwischen Paraguay und Brasilien kommt es in letzter Zeit vermehrt zu bewaffneten Auseinandersetzungen zwischen Drogenkartellen.
+Die Sicherheitslage sowohl in den Städten als auch auf dem Land erfordert ständige Aufmerksamkeit. Im Grenzgebiet zwischen Paraguay und Brasilien kann es  vermehrt zu bewaffneten Auseinandersetzungen zwischen Drogenkartellen kommen.
 
 Es kann zudem vereinzelt zu Protesten und Demonstrationen kommen, die auch zu gewaltsamen Auseinandersetzungen und Verkehrsbehinderungen wie Straßenblockaden führen können.
 
@@ -70,7 +70,7 @@ Der internationale Führerschein wird für die Dauer von 90 Tagen anerkannt und 
 
 ### Immobiliengeschäfte
 
-Bei Immobiliengeschäften in Paraguay ist besondere Vorsicht angebracht. Immer wieder werden Fälle bekannt, bei denen Land mehrfach verkauft wurde, oder es wird Land von Personen angeboten, die nicht Eigentümer sind.
+Bei Immobiliengeschäften in Paraguay ist besondere Vorsicht geboten. Immer wieder werden Fälle bekannt, bei denen Grundstücke mehrfach verkauft wurden, oder es werden Grundstücke von Personen angeboten, die keine Eigentümer sind.
 
 Die Durchsetzung von Rechtsansprüchen vor paraguayischen Gerichten ist häufig mühsam und selten erfolgreich.
 
@@ -237,9 +237,7 @@ Das Angebot zur Gesundheits- und Notfallversorgung ist - mit Ausnahme der Haupts
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
