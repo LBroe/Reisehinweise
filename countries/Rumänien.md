@@ -59,13 +59,14 @@ Am Flughafen Otopeni können Taxis über ein automatisiertes Terminal gerufen we
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### Sicherheitshinweise der rumänischen Behörden
 
-Die rumänischen Behörden nutzen Cell Broadcasting, um erforderlichenfalls Warnmeldungen in rumänischer und englischer Sprache unmittelbar auf alle Mobiltelefone in einer bestimmten Region zu versenden.
+Die rumänischen Behörden nutzen Cell Broadcast, um, wenn erforderlich, Warnmeldungen in rumänischer und englischer Sprache unmittelbar an alle Mobiltelefone etc. in einer bestimmten Region zu versenden, so z.B. bei extremen Wetterereignissen, Erdbeben oder Gefahren im unmittelbaren Grenzgebiet zur Ukraine.
 
-* Bitte leisten Sie ggf. den Anweisungen in der Warnmeldung Folge.
+* Bitte lesen Sie die Informationen zu Cell Broadcast des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Cell-Broadcast/cell-broadcast_node.html) und prüfen Sie, ob Ihr Mobiltelefon empfangsfähig ist.
+* Bitte leisten Sie den Anweisungen in der Warnmeldung Folge.
 
 ### LGBTIQ
 
