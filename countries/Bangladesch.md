@@ -4,19 +4,19 @@
 
 **Von Reisen nach Bangladesch wird derzeit abgeraten.**
 
-Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten besteht seit dem 20. Juli 2024 eine Ausgangssperre, die am 21. Juli 2024 ohne Enddatum verlängert wurde. Das Internet und das mobile Internet (über Mobilfunk) sind, noch nicht flächendeckend, wieder funktionsfähig. Einige soziale Medien sind weiterhin nicht zugänglich. Die Situation hat sich insgesamt beruhigt. Der Flughafen Dhaka ist weiterhin geöffnet. Der Zugang zum Flughafen während der Ausgangssperre ist unter Vorlage des Tickets möglich.
+Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten besteht seit dem 20. Juli 2024 eine Ausgangssperre, die am 21. Juli 2024 ohne Enddatum verlängert wurde. Geschäfte, Büros und Banken sind stundenweise wieder geöffnet; Lockerungen der Ausgangssperre werden über die lokalen Medien bekannt gegeben. Das Internet und das mobile Internet (über Mobilfunk) sind teilweise wieder funktionsfähig. Die Situation hat sich insgesamt etwas beruhigt, es muss aber weiterhin mit Demonstrationen gerechnet werden. Der Flughafen Dhaka ist weiterhin geöffnet. Der Zugang zum Flughafen während der Ausgangssperre ist unter Vorlage des Tickets möglich.
 
-Im Zuge der Demonstrationen und Proteste gab es  bereits über hundert Tote.
-
-Militäreinheiten wurden im Regierungsviertel positioniert.
+Im Zuge der Demonstrationen und Proteste gab es bereits über hundert Tote.
 
 * Befolgen Sie unbedingt die geltende Ausgangssperre und bleiben Sie an einem sicheren Ort.
 * Nutzen Sie etwaige Lockerungen der Ausgangssperre, um Vorräte für mehrere Tage (Wasser, Lebensmittel, Medikamente) und Bargeld zu besorgen. Meiden Sie dabei Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 * Informieren Sie sich laufend über die lokalen, internationalen und sozialen Medien (soweit möglich) über die Lage.
-* Registrieren Sie sich, wenn möglich, in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten noch aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
+* Registrieren Sie sich, wenn möglich, in der [Krisenvorsorgeliste des Auswärtigen Amts](https://krisenvorsorgeliste.diplo.de/signin) bzw. prüfen Sie, ob Ihre dort hinterlegten Daten noch aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
 
 ## Sicherheit
+
+**Von Reisen nach Bangladesch wird derzeit abgeraten.**
 
 ### Terrorismus
 
