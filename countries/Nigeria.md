@@ -2,12 +2,12 @@
 
 ## Aktuelles
 
-### Streiks
+### *Demonstrationen/Unruhen*
 
-Der Nigeria Labour Congress (NLC) und der Trade Union Congress of Nigeria (TUC) haben am 3. Juni 2024, einen landesweiten Streik ausgerufen, der sich auf das öffentliche Leben in ganz Nigeria auswirken kann. Auch Störungen an den Flughäfen sind nicht ausgeschlossen. Am 5. Juni 2024 wurde der Streik für weitere Gespräche zunächst ausgesetzt, eine Wiederaufnahme des Streiks ist jederzeit möglich.
+Im Internet und den Medien wird ab dem 1. August 2024 zu landesweiten Demonstrationen aufgerufen, die sich auf das öffentliche Leben in ganz Nigeria auswirken können. Es muss mit Beeinträchtigungen des Verkehrs und gewalttätigen Ausschreitungen gerechnet werden. Auch Störungen an den Flughäfen sind nicht ausgeschlossen.
 
 * Informieren Sie sich über die lokalen Medien und meiden Sie Demonstrationen und größere Menschenansammlungen.
-* Erkundigen Sie sich vor Reiseantritt bei Ihrer Fluggesellschaft oder Reiseveranstalter ob die Reise wie geplant stattfindet.
+* Erkundigen Sie sich vor Reiseantritt bei Ihrer Fluggesellschaft oder Reiseveranstalter, ob die Reise wie geplant stattfindet.
 
 ## Sicherheit - Teilreisewarnung
 
