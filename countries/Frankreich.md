@@ -10,27 +10,26 @@ Einschließlich **Französische Überseegebiete**
 
 #### *Informationen für Reisende*
 
-Während der Austragung der Olympischen (26. Juli bis 11. August 2024) und Paralympischen Spiele (28. August bis 8. September 2024) kann es landesweit zu Verkehrsbehinderungen kommen. Auf die Schnellzugstrecken Atlantique, Nord und Est wurden am 26. Juli 2024 Brandanschläge verübt, die den Bahnverkehr stark beeinträchtigen.
+Während der Austragung der Olympischen (26. Juli bis 11. August 2024) und Paralympischen Spiele (28. August bis 8. September 2024) kann es landesweit zu Verkehrsbehinderungen kommen.
 
-* Bitte informieren Sie sich in Ihrem Reisebüro oder auf der Webseite der [SNCF](https://www.sncf-connect.com/de-de/).
 * Bitte informieren Sie sich über die aktuelle Lage in den Medien und planen Sie Ihren Aufenthalt entsprechend.
-* Hilfreiche Tipps und wichtige Informationen für Reisende bieten [die Webseite Paris 2024](https://olympics.com/de/paris-2024), das französische [Innenministerium](https://www.interieur.gouv.fr/jeux-olympiques-et-paralympiques-de-paris-2024), das [Verkehrsministerium](https://anticiperlesjeux.gouv.fr/) und die Webseite [Bison Futé](http://www.bison-fute.gouv.fr).
+* Hilfreiche Tipps und wichtige Informationen für Reisende bieten [die Webseite Paris 2024](https://olympics.com/de/paris-2024), das französische [Innenministerium](https://www.interieur.gouv.fr/jeux-olympiques-et-paralympiques-de-paris-2024), das [Verkehrsministerium](https://anticiperlesjeux.gouv.fr/) und die Webseiten [Bison Futé](http://www.bison-fute.gouv.fr) und der französischen Bahngesellschaft [SNCF.](https://www.sncf-connect.com/app/de-de/trafficInfo)
 
 #### *Grenzkontrollen*
 
-In Zusammenhang mit den bevorstehenden Olympischen und Paralympischen Spielen hat Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden angekündigt. Diese sollen stichprobenartig erfolgen. Auch Deutschland wird an der deutsch-französischen land- und luftseitigen Grenze bis Ende September Binnengrenzkontrollen durchführen.
+In Zusammenhang mit den Olympischen und Paralympischen Spielen führt Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig. Auch Deutschland führt an der deutsch-französischen land- und luftseitigen Grenze bis Ende September Binnengrenzkontrollen durch.
 
 Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
 
 * Führen Sie stets ein gültiges Reisedokument mit.
 * Überzeugen Sie sich als Fahrer eines Kraftfahrzeugs stets davon, dass Ihre Mitfahrer gültige Grenzübertrittspapiere mit sich führen.
-* Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf der Webseite [Bison Futé](http://www.bison-fute.gouv.fr).
+* Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf den Webseiten [Bison Futé](http://www.bison-fute.gouv.fr) und der französischen Bahngesellschaft [SNCF.](https://www.sncf-connect.com/app/de-de/trafficInfo)
 
 ### Auseinandersetzungen in Neukaledonien
 
 Im französischen Überseegebiet Neukaledonien kam es im Mai 2024 im Zusammenhang mit einer geplanten Verfassungsänderung zu gewalttätigen Auseinandersetzungen von Befürwortern einer Unabhängigkeit von Frankreich mit den Sicherheitskräften.
 
-Die Lage vor Ort ist instabil; zahlreiche Straßensperren beschränken weiterhin die Mobilität zwischen der Hauptstadt Nouméa und dem Umland. Der am 13. Mai 2024 verhängte Ausnahmezustand wurde mittlerweile aufgehoben; dennoch bleiben Ausgangssperren, ein Versammlungs- und teilweises Alkoholverbot bestehen. Der kommerzielle Flugverkehr des internationalen Flughafens in Nouméa wurde wieder aufgenommen.
+Die Lage vor Ort ist instabil; zahlreiche Straßensperren beschränken weiterhin die Mobilität zwischen der Hauptstadt Nouméa und dem Umland. Der im Mai 2024 verhängte Ausnahmezustand wurde mittlerweile aufgehoben; dennoch bleiben Ausgangssperren, ein Versammlungs- und teilweises Alkoholverbot bestehen. Der kommerzielle Flugverkehr des internationalen Flughafens in Nouméa wurde wieder aufgenommen.
 
 * Bitte informieren Sie sich beim [Hochkommissariat von Neukaledonien](https://www.nouvelle-caledonie.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
