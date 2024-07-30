@@ -2,18 +2,17 @@
 
 ## Aktuelles
 
-### *Überschwemmungen und Erdrutschgefahr*
+### *Starkregen, Überschwemmungen und Erdrutschgefahr*
 
-Im Norden der Provinz Guangdong, insbesondere entlang der Flussläufe in den Gebieten der bezirksfreien Städte Qingyuan und Shaoguan, in der Nähe des Flusses Guijiang (Provinz Guangxi) sowie an den oberen Zuläufen des Flusses Ganjiang (Provinz Jiangxi) kam es durch starke Niederschläge bereits zu Überschwemmungen. Im gesamten Einzugsgebiet des Perlflusses wird vor erhöhtem Hochwasser- und Erdrutschrisiko gewarnt.
+Der nationale chinesische Wetterdienst hat für die bevorstehenden Tage vor Starkregenfällen und sich daraus ergebenden Sekundärschäden in folgenden Risikogebieten gewarnt: Sichuan, Gansu, Shaanxi, Beijing-Tianjin-Hebei, Shandong, Jilin, Liaoning.  
+Außerdem bestehen Taifun-Warnungen für die Provinzen Hainan, Guangdong, Guangxi sowie die Region Ostchina.
 
-Es werden weitere starke Regenfälle in den nächsten Wochen erwartet.
+Aufgrund der länger andauernden Regenfälle und Überflutungen kann es vereinzelt zu Strom- und Wasserausfällen kommen.
 
-Auch Flug- und Zugverbindungen sowie der Zugang zu touristischen Attraktionen können wetterbedingt beeinträchtigt sein.
-
-* Reisen Sie aktuell nicht in die Nähe der Flussläufe in den Gebieten Qingyuan und Shaoguan im Norden der Provinz Guangdong, in die Nähe des Flusses Guijiang (Provinz Guangxi) und sowie an die oberen Zuläufe des Flusses Ganjiang in der Provinz Jiangxi.
+* Klären Sie, ob Ihre Reiseroute oder Ihr Aufenthaltsort von den Extremwetterereignissen betroffen ist, und sehen Sie von nicht notwendigen, touristischen Reisen in die oben genannten Risikogebiete ab. In den Provinzen Shaanxi und Sichuan, ist es im Juli zu Sturzfluten und Brückeneinstürzen gekommen, die mehrere Tote forderten.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Klären Sie mit Ihrem Reiseveranstalter, ob die eigene Reiseroute/der Aufenthaltsort von den Überschwemmungen betroffen ist.
-* Informieren Sie sich vor Reisen in den lokalen Medien (z.B. [ChinaDaily](http://www.chinadaily.com.cn/china/) englischsprachig)/beim chinesischen Wetterdienst über die Wetterlage und etwaige wetterbedingte Gefahrensituationen.
+* Informieren Sie sich vor Reisen in den lokalen Medien (z.B. [ChinaDaily](http://www.chinadaily.com.cn/china/) englischsprachig) über die Wetterlage und etwaige wetterbedingte Gefahrensituationen.
 * Informieren Sie sich ggf. bei internationalen Wetterdiensten über die aktuellen Wetterverhältnisse und Gefahrensituation.
 
 ### Visumsfreie Einreise
@@ -90,6 +89,8 @@ Der Süden und Südosten Chinas wird von Juni bis Oktober regelmäßig von Taifu
 * Beachten Sie im Fall einer Sturmwarnung die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 
 ## Reiseinfos
+
+Siehe *Aktuelles*
 
 ### Infrastruktur/Verkehr
 
@@ -367,7 +368,7 @@ Das Hauptproblem der medizinischen Versorgung stellt für Ausländer die Sprachb
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
