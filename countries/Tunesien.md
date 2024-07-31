@@ -8,22 +8,19 @@ Aufgrund der aktuellen Situation im Nahen Osten kann es in Tunesien verstärkt z
 * Informieren Sie sich über die lokalen und sozialen Medien.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
-### Schließung des Grenzübergangs Ras Jedir
-
-Der tunesisch-libysche Grenzübergang Ras Jedir ist für Ein- und Ausreisen auf dem Landweg derzeit vollständig geschlossen. Ein Zeitpunkt für die Wiederöffnung steht noch nicht fest. Es kann zu sicherheitsrelevanten Vorfällen im Bereich des Grenzübergangs kommen.
-
 ## Sicherheit
 
-**Von Reisen  
-- in das Gebiet südlich bzw. südöstlich einer Linie, die von der Grenze zu Algerien über Tozeur/Nafta - Douz – Ksar Ghilane – Tataouine bis Zarzis führt,  
-- in das unmittelbare Grenzgebiet zu Algerien** und insbesondere **in die Gebirgsregionen nahe der algerischen Grenze im Bereich von El Aioun bis und einschließlich der Provinz Kasserine** und  
-**- individuellen, nicht organisierten Wüstentouren**
+**Von Reisen**
+
+* in das Gebiet südlich bzw. südöstlich einer Linie, die von der Grenze zu Algerien über Tozeur/Nafta - Douz – Ksar Ghilane – Tataouine bis Zarzis führt,
+* **in das unmittelbare Grenzgebiet zu Algerien** und insbesondere **in die Gebirgsregionen nahe der algerischen Grenze im Bereich von El Aioun bis und einschließlich der Provinz Kasserine** und
+* **individuellen, nicht organisierten Wüstentouren**
 
 **wird abgeraten**.
 
 ### Terrorismus
 
-In Tunesien besteht weiterhin ein erhöhtes Risiko terroristischer Anschläge. In der Vergangenheit wurden zum Teil schwere terroristische Anschläge verübt, bei denen auch ausländische Reisende unter den Opfern waren. Zwischen 2018 und 2020 kam es in einem Vorort sowie in der Innenstadt von Tunis zu Anschlägen, zuletzt am 9. Mai 2023 auf der Insel Djerba an der Synagoge La Ghriba.
+In Tunesien besteht weiterhin ein erhöhtes Risiko terroristischer Anschläge. In der Vergangenheit wurden zum Teil schwere terroristische Anschläge in einem Vorort und in der Innenstadt von Tunis verübt, bei denen auch ausländische Reisende unter den Opfern waren. Im Mai 2023 kam es auf der Insel Djerba an der Synagoge La Ghriba zu einem Anschlag.
 
 Die tunesischen Sicherheitskräfte verstärken ihre Präsenz saisonbedingt in den Touristengebieten. Das tunesische Innenministerium hat mobile Sicherheitsposten eingerichtet, die in den Sommermonaten an touristischen Anlaufpunkten, Stränden und öffentlichen Plätzen im Einsatz sind.
 
@@ -56,7 +53,7 @@ Auch die Stimmung gegenüber Ausländern hat sich in jüngster Zeit verschlechte
 
 Der Ausnahmezustand mit erweiterten Befugnissen für Sicherheitskräfte gilt landesweit fort. Mit vermehrten Polizeikontrollen ist landesweit weiterhin zu rechnen.
 
-Teile des südlichen Grenzgebietes zu Algerien sowie ein ca. 20 km breiter Streifen entlang der gesamten Grenze zu Libyen sind militärisches Sperrgebiet und daher nicht zugänglich**.** Diese Gebiete können nur nach Einholung einer Genehmigung des zuständigen Gouvernorats betreten werden.  
+Teile des südlichen Grenzgebietes zu Algerien sowie ein ca. 20 km breiter Streifen entlang der gesamten Grenze zu Libyen sind militärisches Sperrgebiet und daher nicht zugänglich**.** Diese Gebiete können nur nach Einholung einer Genehmigung des zuständigen Gouvernorats betreten werden.
 
 * Informieren Sie sich über die lokalen Medien oder Ihre Reiseveranstalter und verfolgen Sie aufmerksam die politische Lage.
 * Beachten Sie Sperrzonen sowie bei beabsichtigten Reisen in Nachbarländer sorgfältig die aktuelle Sicherheitslage und die [Reise- und Sicherheitshinweise Algerien](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/algerien-node/algeriensicherheit/219044) bzw. die [Reisewarnung für Libyen](https://www.auswaertiges-amt.de/de/service/laender/libyen-node/libyensicherheit/219624 "Libyen: Reisewarnung").
@@ -87,7 +84,7 @@ Insbesondere in den Wintermonaten können landesweit Überflutungen auftreten.
 Tunesien liegt in einer seismisch leicht aktiven Zone, sodass es zu Erdbeben und ggf. Tsunamis kommen kann.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Im Fall einer Sturmwarnung beachten Sie die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter") im Fall einer Sturmwarnung.
 * Machen Sie sich ggf. mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
@@ -131,7 +128,7 @@ Gleichgeschlechtliche Sexualbeziehungen sind verboten und können in Tunesien st
 
 Der Besitz schon kleinster Mengen Rauschgifts bzw. der öffentliche Konsum von Marihuana/Haschisch wird in Tunesien mit mindestens einem Jahr Haft und Geldstrafe geahndet. Das Strafmaß für Drogendelikte kann sich auf bis zu 20 Jahre Freiheitsstrafe belaufen. Der Besitz von Waffen (Feuerwaffen, Hieb- und Stichwaffen) ist untersagt. Ehebruch und homosexuelle Handlungen sind in Tunesien strafbar, siehe auch *Reiseinfos -* *LGBTIQ.*
 
-Das Fotografieren militärischer Anlagen und öffentlicher Gebäude und der Einsatz von Drohnen sind nicht erlaubt.
+Das Fotografieren militärischer oder polizeilicher Anlagen, öffentlicher Gebäude oder sicherheitssensibler Bereiche und der Einsatz von Drohnen sind nicht erlaubt und können zu Inhaftierung wegen Terrorismusverdachts führen. Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden. 
 
 Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden.
 
@@ -174,15 +171,15 @@ Einreisen mit einem gültigen deutschen Personalausweis nach Tunesien sind nach 
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise zu touristischen und geschäftlichen Zwecken und einem Aufenthalt bis zu vier Monaten kein Visum.
+Deutsche Staatsangehörige benötigen für die Einreise zu touristischen und geschäftlichen Zwecken und einem Aufenthalt bis zu vier Monaten kein Visum.
 
-Der von den tunesischen Grenzbehörden an manchen Flughäfen ausgegebene Einreisenachweis "Carte de visiteur non-résident" ist aufzuheben und bei Wiederausreise vorzulegen. Bei Überschreiten des viermonatigen Aufenthalts wird eine Strafgebühr von 20 TND pro Fünf-Tages-Periode erhoben, die bei Ausreise (mittels Wertmarken) beglichen werden muss, sonst wird die Ausreise nicht gestattet.
+Der von den tunesischen Grenzbehörden an manchen Flughäfen ausgegebene Einreisenachweis "Carte de visiteur non-résident" muss aufgehoben und bei Wiederausreise vorgelegt werden. Bei Überschreiten des viermonatigen Aufenthalts wird eine Strafgebühr von 20 TND pro Fünf-Tages-Periode erhoben, die bei Ausreise (mittels Wertmarken) beglichen werden muss; sonst wird die Ausreise nicht gestattet.
 
-Bei Einreise auf dem Seeweg – insbesondere mit Campingfahrzeugen – kann es aufgrund mangelnder einschlägiger Vorschriften von tunesischer Seite zu Schwierigkeiten (beispielsweise zur Verweigerung der Einreise ohne Hotelbuchung und Rückfahrticket) kommen.
+Bei Einreise auf dem Seeweg – z.B. von Individualreisenden – kann es aufgrund mangelnder einschlägiger Vorschriften von tunesischer Seite zu Schwierigkeiten (beispielsweise zur Verweigerung der Einreise ohne Hotelbuchung und Rückfahrticket) kommen.
 
 ### Hinweis für Doppelstaater
 
-Von Reisenden, die neben der deutschen auch die tunesische Staatsangehörigkeit besitzen, verlangen die tunesischen Behörden, dass sie sich mit einem tunesischen Reisepass ausweisen (Achtung: Die Rückgabe des tunesischen Passes an eine tunesische Auslandsvertretung aus Anlass der Einbürgerung in den deutschen Staatsverband führt nicht zum Verlust der tunesischen Staatsangehörigkeit). Deutsch-tunesische Doppelstaater werden entsprechend der internationalen Praxis in Tunesien ausschließlich als Tunesier behandelt und unterliegen uneingeschränkt den tunesischen Gesetzen.
+Von Reisenden, die neben der deutschen auch die tunesische Staatsangehörigkeit besitzen, verlangen die tunesischen Behörden, dass sie sich mit einem tunesischen Reisepass ausweisen können (Achtung: Die Rückgabe des tunesischen Passes an eine tunesische Auslandsvertretung aus Anlass der Einbürgerung in den deutschen Staatsverband führt nicht zum Verlust der tunesischen Staatsangehörigkeit). Deutsch-tunesische Doppelstaater werden entsprechend der internationalen Praxis in Tunesien ausschließlich als Tunesier behandelt und unterliegen uneingeschränkt den tunesischen Gesetzen.
 
 ### Minderjährige
 
@@ -191,7 +188,7 @@ Minderjährige, die nicht vom tunesischen Elternteil begleitet werden, bedürfen
 ### Einfuhrbestimmungen
 
 In Tunesien gelten sehr strenge Devisenbestimmungen. TND dürfen weder ein- noch ausgeführt werden.  
-Die Ein- und Ausfuhr von Devisen, Gold o.Ä. ist ohne Begrenzung möglich, ab einem Gegenwert von 10.000 TND (ca. 2.900 EUR) muss jedoch eine Einfuhr- bzw. Ausfuhrdeklaration beim Zoll erfolgen. Eine Nichtbeachtung der Einfuhrbestimmungen kann die Beschlagnahme und ggf. strafrechtliche Konsequenzen nach sich ziehen.
+Die Ein- und Ausfuhr von Devisen, Gold o.Ä. ist ohne Begrenzung möglich, ab einem Gegenwert von 10.000 TND (ca. 2.900 EUR) muss jedoch eine Einfuhr- bzw. Ausfuhrdeklaration beim Zoll erfolgen. Eine Nichtbeachtung der Einfuhrbestimmungen kann die Beschlagnahme und ggf. strafrechtliche Konsequenzen nach sich ziehen. Verbindliche Informationen stellt der [tunesische Zoll](https://www.douane.gov.tn/devises-et-change/) auf Französisch zur Verfügung.
 
 Reisende ohne permanenten Aufenthalt in Tunesien, die die Absicht haben, eine Restsumme der Devisen im Wert von 5.000 TND (ca. 1.450 EUR) oder mehr wieder auszuführen, müssen bereits bei der Einfuhr den Wert der mitgeführten Devisen deklarieren. Die Einfuhrerklärung muss sorgfältig aufbewahrt werden, da sonst die Gefahr besteht, dass bei der Wiederausreise diese Mittel beschlagnahmt werden und eine Geldstrafe verhängt wird. Bei der Ausreise müssen Devisen mündlich angegeben werden. Devisengeschäfte sind nach tunesischem Recht nicht zulässig.
 
@@ -255,7 +252,7 @@ Gefahren durch Schlangen und Skorpione.
 
 ### Medizinische Versorgung
 
-Das Versorgungsniveau ist zumindest in Tunis gut. Viele gut ausgestattete Privatkliniken (Clinique International Hannibal, Polyclinique Les Berges du Lac, Clinique de la Soukra u.a.) sind auch Ziel von Patienten aus benachbarten afrikanischen Ländern. Außerhalb der Hauptstadt ist mit einigen Einschränkungen zu rechnen.
+Das Versorgungsniveau ist zumindest in Tunis gut. Viele gut ausgestattete Privatkliniken (Clinique International Hannibal, Polyclinique Les Berges du Lac, Clinique de la Soukra u.a.) sind auch Ziel von Patienten aus benachbarten afrikanischen Ländern. Außerhalb der Hauptstadt ist mit einigen Einschränkungen zu rechnen, vor allem in staatlichen Krankenhäusern (lediglich Basisversorgung, keine Pflegeleistungen, auch nicht für Touristen).
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Krankenversicherung ab, die Risiken abdeckt, die von den gesetzlichen Kassen nicht übernommen werden (z. B. notwendiger Rücktransport nach Deutschland im Krankheitsfall, Behandlung bei Privatärzten oder in Privatkliniken).
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
