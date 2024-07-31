@@ -4,11 +4,9 @@
 
 **Vor Reisen in** 
 
--        die Ostprovinzen **Nord-Kivu**, **Süd-Kivu**, **Ituri** und **Tanganyika** sowie die dort an angrenzenden Regionen der Provinzen **Maniema**, **Tshopo**, **Haut-Katanga** und **Haut-Lomami** (siehe *Sicherheit -* *Innenpolitische Lage*),
-
--        die **Grenzregionen** zur **Zentralafrikanischen Republik** und **Südsudan** der Provinzen **Bas-Uele, Haut-Uele und Nord-Ubangi,** sowie
-
--        die vorwiegend von den Bateke- und Bayaka-Volksgruppen bewohnten Gebiete in den Provinzen **Mai-Ndombe, Kwango** und **Kwilu** (siehe *Aktuelles*)
+* die Ostprovinzen **Nord-Kivu**, **Süd-Kivu**, **Ituri** und **Tanganyika** sowie die dort an angrenzenden Regionen der Provinzen **Maniema**, **Tshopo**, **Haut-Katanga** und **Haut-Lomami** (siehe *Sicherheit -* *Innenpolitische Lage*),
+* die **Grenzregionen** zur **Zentralafrikanischen Republik** und **Südsudan** der Provinzen **Bas-Uele, Haut-Uele und Nord-Ubangi,** sowie
+* die vorwiegend von den Bateke- und Bayaka-Volksgruppen bewohnten Gebiete in den Provinzen **Mai-Ndombe, Kwango** und **Kwilu** (siehe *Aktuelles*)
 
 **wird gewarnt.**
 
@@ -18,7 +16,7 @@
 
 ### *Unruhen*
 
-Am Morgen des 19. Mai 2024, kam es in der Nähe des Präsidentenpalasts im Bezirk Gombe von Kinshasa zu Unruhen mit Schüssen, einer Explosion und mehreren Toten.
+Im Mai 2024 kam es in der Nähe des Präsidentenpalasts im Bezirk Gombe von Kinshasa zu Unruhen mit Schüssen, einer Explosion und mehreren Toten. Seitdem kommt es im gesamten Stadtgebiet von Kinshasa - vor allem um den Präsidentenpalast - zu zahlreichen Straßensperren und erhöhter Polizei- und Militärpräsenz.
 
 Bitte beachten Sie folgende Verhaltenshinweise: 
 
@@ -60,6 +58,8 @@ In den Provinzen Mai-Ndombe und Kwilu sowie zuletzt auch Kwango sowie Kongo Cent
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
+
+Siehe *Aktuelles*
 
 In den östlichen Provinzen kommt es immer wieder zu gewaltsamen Zwischenfällen zwischen den kongolesischen Sicherheitskräften und bewaffneten Gruppen, insbesondere der M23, die seit Ende 2021 sukzessive Gebiete im Grenzgebiet zu Uganda und Ruanda erobert hat und derzeit erhebliche Teile der südlichen Gebiete Nord-Kivus rund um die Provinzhauptstadt Goma kontrolliert. Die zunehmende Aktivität lokaler Milizen („Wazalendo“) gegen die M23 – teilweise im Verbund mit kongolesischen Streitkräften – hat die Unstetigkeit in diesen Gebieten nochmals verstärkt. Im Norden von Nord-Kivu führt die kongolesische Armee mit Unterstützung ugandischer Streitkräfte Operationen gegen die islamistischen „Allied Democratic Forces“ (ADF) durch. Um die Stadt Goma, besonders am Fuße des Nyiragongo-Vulkans, sind weitläufige Camps von Binnenvertriebenen entstanden. Mögliche humanitäre Katastrophen, wie Choleraausbrüche oder Lebensmittelmangel, bedrohen die Stabilität der Region zusätzlich. Seit 2021 gilt für die Provinzen Nord-Kivu und Ituri das Kriegsrecht („Etat de Siège“), durch das die zivilen Regierungen temporär durch Militär- und Polizeiregierungen ersetzt werden. Die ohnehin angespannte Sicherheitslage hat sich vor diesem Hintergrund noch verschärft.
 
