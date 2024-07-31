@@ -2,14 +2,14 @@
 
 ## Aktuelles
 
-Im Vorfeld der für den 6. Mai 2024 terminierten Präsidentschaftswahl ist eine Zunahme innenpolitischer Spannungen nicht ausgeschlossen. Es kann zu Demonstrationen und auch gewalttätigen Auseinandersetzungen zwischen Opposition und Polizei/Militär kommen. Mit spontanen Abschaltungen der Internetverbindung und der Mobilfunknetze ist zu rechnen.
+Im Zusammenhang mit den geplanten Parlamentswahlen sind innenpolitische Spannungen nicht ausgeschlossen. Es kann zu Demonstrationen und auch gewalttätigen Auseinandersetzungen zwischen Opposition und Polizei/Militär kommen. Mit spontanen Abschaltungen der Internetverbindung und der Mobilfunknetze ist zu rechnen.
 
 * Bevorraten Sie sich mit Trinkwasser und Lebensmitteln für mehrere Tage.
 * Haben Sie ausreichend Bargeld bei sich bzw. zu Hause.
 * Verfolgen Sie die lokalen Nachrichten und Meldungen in den sozialen Medien.
 * Meiden Sie Menschenansammlungen.
 * Leisten Sie den Anweisungen der Sicherheitskräfte Folge.
-* Beschränken Sie Fahrten in N'Djamena auf ein notwendiges Minimum.
+* Beschränken Sie Fahrten auf ein notwendiges Minimum.
 * Bleiben Sie in den Abend- und Nachtstunden zuhause.
 
 ## Sicherheit - Teilreisewarnung
@@ -46,9 +46,9 @@ Die Grenzübergänge zwischen Tschad und Kamerun sowie das gemeinsame Grenzgebie
 
 Siehe *Aktuelles*
 
-Seit dem Tod des Staatspräsidenten Idriss Déby Itno 2021 befindet sich Tschad in einer politischen Übergangsphase (Transition). Als Transitionspräsident amtiert Mahamat Idriss Déby Itno. Eine neue Verfassung ist nach einem Referendum in Kraft getreten. Der frühere Oppositionspolitiker Succès Masra hat das Amt des Premierministers übernommen. Präsidentschafts- und Parlamentswahlen werden vorbereitet.
+Seit dem Tod des Staatspräsidenten Idriss Déby Itno 2021 befindet sich Tschad in einer politischen Übergangsphase (Transition). Nach einem Referendum Ende 2023 ist eine neue Verfassung in Kraft getreten. Der vormalige Transitionspräsident Mahamat Idriss Déby Itno wurde im Mai 2024 zum neuen Präsidenten gewählt. Die zum Abschluss der Transition notwendigen Parlamentswahlen sind im letzten Quartal 2024 geplant.
 
-Politische Demonstrationen sind in dieser Phase grundsätzlich jederzeit zu erwarten. Auch nicht genehmigte Zusammenkünfte in N’Djamena und anderen größeren Städten können nicht ausgeschlossen werden. Diese werden teilweise von den Sicherheitskräften mit Gewalt unterbunden oder aufgelöst.
+Politische Demonstrationen sind hinsichtlich der zu erwartenden Parlamentswahlen grundsätzlich jederzeit zu erwarten. Auch nicht genehmigte Zusammenkünfte in N’Djamena und anderen größeren Städten können nicht ausgeschlossen werden. Diese werden teilweise von den Sicherheitskräften mit Gewalt unterbunden oder aufgelöst.
 
 Für Reisende nach Tschad gilt vor diesem Hintergrund:
 
@@ -76,9 +76,9 @@ In der Sudan-Zone herrscht hohe Feuchtigkeit, in der Sahel- und Sahara-Zone troc
 
 Die Regenzeit erstreckt sich im Süden von Mai bis Oktober und im Zentrum von Juni bis September. Starkregen auf trockenem Boden führt immer wieder zu Überschwemmungen und Erdrutschen. Dadurch können Schäden an Straßen und Brücken verursacht werden.
 
-Ansonsten können weite Landesteile von erheblichen Dürreperioden betroffen sein.
+Außerhalb der Regenzeit können weite Landesteile von erheblichen Dürreperioden betroffen sein.
 
-* Verfolgen Sie Nachrichten und Wetterberichte.
+* Verfolgen Sie die Nachrichten und Wetterberichte.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
@@ -204,7 +204,7 @@ Die medizinische Versorgung in Tschad ist nicht mit der Versorgung in Deutschlan
 * Saisonal mittleres Risiko von Januar bis Mai: Region zwischen Sahara und tropischen Landesteilen
 * Ganzjährig mittleres Risiko: Sahara einschl. Stadt Faya-Largeau
 
-Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die außerhalb der Sahara ganzjährig auftreten können: [Chikungunyafieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber") [Denguefieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") [Leishmaniasis,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") [lymphatische Filariosen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen") und [Rift-Valley-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/rvf/2559826 "Rift-Valley-Fieber (RVF)") Es ist davon auszugehen, dass auch [West-Nil-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber") und [Zikavirus-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen") vorkommen.  
+Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die außerhalb der Sahara ganzjährig auftreten können: [Chikungunyafieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber") [Denguefieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") [Leishmaniasis,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") [lymphatische Filariosen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen") und [Rift-Valley-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/rvf/2559826 "Rift-Valley-Fieber (RVF)") Es ist davon auszugehen, dass auch [West-Nil-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber") und [Zikavirus-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen") vorkommen.
 
 * Schützen Sie sich tagsüber, in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
 * Es gibt Impfungen gegen Gelbfieber und Denguefieber. Lassen Sie sich bzgl. Ihres persönlichen Risikos beraten.
@@ -259,9 +259,7 @@ Im ersten Jahresquartal kommt es im Rahmen der Harmattan-Saison zur besonders in
 * Intensive Sonneneinstrahlung kann zu kurz- und langfristigen Haut- und Augenschäden führen.
 * Informieren Sie sich z.B. über die App [SunSmart](https://www.who.int/news/item/21-06-2022-sunsmart-global-uv-app-helps-protect-you-from-the-dangers-of-the-sun-and-promotes-public-health "App SunSmart") über notwendige Sonnenschutzmaßnahmen.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
