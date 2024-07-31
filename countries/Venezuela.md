@@ -4,14 +4,15 @@
 
 ### *Wahlen*
 
-Am 28. Juli 2024 findet in Venezuela die Präsidentschaftswahl statt.
+Nach der Präsidentschaftswahl in Venezuela am 28. Juli 2024 kam es im ganzen Land sowie in Caracas zu Demonstrationen und zum Teil heftigen Protesten. Auch der internationale Flughafen in Maiquetía sowie die Verbindungstraße von Caracas zum Flughafen waren am 29. Juli 2024 vom Demonstrationsgeschehen betroffen. Weitere Demonstrationen wurden angekündigt.
 
-In diesem Zusammenhang sind in der Hauptstadt Caracas sowie auch in anderen größeren Städten des Landes Spontandemonstrationen und größere Menschenansammlungen nicht auszuschließen.
+Außerdem hat die venezolanische Regierung bekannt gegeben, dass Flüge von und nach Panamá sowie in die Dominikanische Republik ab dem 31. Juli 2024, von 20 Uhr bis auf Weiteres ausgesetzt werden.
 
-Die venezolanische Regierung hat eine Sicherheitsverordnung erlassen, die von Freitag, 26. Juli 2024 bis einschließlich Montag, 29. Juli 2024, gilt. Damit einhergehende Einschränkungen betreffen u.a. die Versammlungsfreiheit, verstärkte Grenzkontrollen, den Verkauf von Alkohol, das Tragen von Waffen, die Durchführung von Schwertransporten und Arbeiten mit schweren Gerätschaften sowie den Verkauf von Pyrotechnik.
+Abhängig von den Entwicklungen in den nächsten Tagen kann ebenfalls nicht ausgeschlossen werden, dass es zu weiteren Flugstreichungen kommen wird.
 
+* Buchen Sie keine Flugverbindungen über Flughäfen in Venezuela, insbesondere über den internationalen Flughafen Maiquetía.
 * Verfolgen Sie die Nachrichten, einschließlich der Meldungen in den sozialen Medien aufmerksam.
-* Meiden Sie Menschenansammlungen und leisten Sie den Anweisungen der Sicherheitskräfte Folge und fertigen Sie keine Fotos von Menschenansammlungen und Sicherheitskräften.
+* Meiden Sie Menschenansammlungen, leisten Sie den Anweisungen der Sicherheitskräfte Folge und fertigen Sie keine Fotos von Menschenansammlungen und Sicherheitskräften.
 * Achten Sie auf eine ausreichende Vorratshaltung, inklusive Benzin.
 * Beschränken Sie Ihre Fahrten auf ein notwendiges Minimum.
 
@@ -53,7 +54,7 @@ Vorübergehende Schließungen der Grenzen zu Kolumbien und Brasilien können jed
 
 * Meiden Sie unbedingt die unmittelbaren Grenzgebiete zu Kolumbien und Brasilien.
 * Seien Sie besonders aufmerksam und informieren Sie sich über die lokalen Medien.
-* Informieren Sie sich über mögliche Grenzschließungen vor Antritt von unvermeidlichen Reisen in die Grenzgebiete zu Kolumbien und Brasilien.
+* Informieren Sie sich über mögliche Grenzschließungen vor Antritt notwendiger Reisen in die Grenzgebiete zu Kolumbien und Brasilien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
@@ -117,12 +118,12 @@ Venezuela verfügt über keine ausgeprägte touristische Infrastruktur, der Stra
 
 In der Regenzeit ist regelmäßig mit der Unterbrechung von Straßenverbindungen durch Erdrutsche oder Unterspülungen zu rechnen. Besonders betroffen sind die Straßenverbindungen über die Anden, wie z.B. die Landverbindung nach Kolumbien und die Passstrecken zu beliebten Feriengebieten wie Merida und Choroní.
 
-Bei der Benutzung von vermeintlich preiswerten Taxis und Bussen besteht ein hohes Risiko, ausgeraubt zu werden.
+Bei der Benutzung vermeintlich preiswerter Taxis und Busse besteht ein hohes Risiko, ausgeraubt zu werden.
 
 * Planen Sie aufgrund der angespannten Verkehrssituation bei Abflügen genügend Zeit für die Anreise zum Flughafen Maiquetia/Caracas ein.
 * Vermeiden Sie Flugverbindungen, die An- und Abfahrten zum Flughafen bei Dunkelheit erforderlich machen.
 * Checken Sie schon am Vortag des Fluges online ein.
-* Informieren Sie sich für Überlandfahrten vor Reiseantritt über die Situation nicht nur am Ankunftsort, sondern auch auf der Strecke.
+* Informieren Sie sich vor Antritt einer Überlandfahrt über die Situation nicht nur am Ankunftsort, sondern auch auf der Strecke.
 * Benutzen Sie nur Taxis und Busse in technisch gutem Zustand mit Funkverkehr zu ihrer Firmenzentrale oder von Hotels empfohlene bzw. gebuchte Fahrzeuge.
 
 ### Führerschein
@@ -135,8 +136,8 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 ### Rechtliche Besonderheiten
 
-Venezolanische Sicherheitskräfte gehen in der Regel konsequent und gelegentlich mit großer Härte gegen Drogenhandel und -konsum vor. Bei Drogenkonsum drohen hohe Gefängnisstrafen.  
-Drogenkuriere müssen nach Verschärfung der Strafbestimmungen je nach gefundener Menge und Art der Drogen mit einer Freiheitsstrafe von mindestens acht Jahren bis zu 18 Jahren rechnen. Drogenstraftätern werden keine Hafterleichterungen gewährt.
+Venezolanische Sicherheitskräfte gehen in der Regel konsequent und gelegentlich mit großer Härte gegen Drogenhandel und -konsum vor. Es drohen hohe Gefängnisstrafen.  
+Drogenkuriere müssen je nach gefundener Menge und Art der Drogen mit einer Freiheitsstrafe von mindestens acht Jahren bis zu 18 Jahren rechnen. Drogenstraftätern werden keine Hafterleichterungen gewährt.
 
 ### Geld/Kreditkarten
 
@@ -174,9 +175,9 @@ Deutsche Staatsangehörige benötigen für die Einreise kein Visum, sofern sie n
 
 Bei Einreise erhalten Touristen eine Touristenkarte im Flugzeug, die zu einem Aufenthalt von bis zu 90 Tagen berechtigt. Sollte die Touristenkarte einen Durchschlag haben, sollte dieser während des gesamten Aufenthalts - für den Fall, dass bei der Ausreise oder bei anderen Kontrollen danach gefragt wird - gut aufbewahrt werden. In Venezuela müssen sich auch Ausländer jederzeit ausweisen und ihren legalen Aufenthaltsstatus nachweisen können. Im Fall eines illegalen Aufenthalts droht die Abschiebung nach z.T. längerer Abschiebehaft.
 
-Die visumsfreie Einreise gilt grundsätzlich auch auf anderen Einreisewegen, vorausgesetzt, dass die Einreise nicht mit einem privaten Transportmittel erfolgt und man bei der Einreisekontrolle die Touristenkarte erhält. Dies dürfte bei Einreise auf dem Land/Seeweg besonders schwierig sein.
+Die visumsfreie Einreise gilt grundsätzlich auch auf anderen Einreisewegen, vorausgesetzt, dass die Einreise nicht mit einem privaten Transportmittel erfolgt und man bei der Einreisekontrolle die Touristenkarte erhält. Dies dürfte bei Einreise auf dem Land-/Seeweg besonders schwierig sein.
 
-Visumspflicht für die Einreise nach Venezuela besteht nur noch für Anreisen mit einem Segelschiff, Einreisekategorie „Embarcaciones Deportivas“.
+Visumspflicht für die Einreise nach Venezuela besteht für Anreisen mit einem Segelschiff, Einreisekategorie „Embarcaciones Deportivas“.
 
 ### Minderjährige
 
@@ -186,7 +187,7 @@ Bei Ausreise aus Venezuela werden auch von ausländischen Reisenden regelmäßig
 
 ### Ehemalige venezolanische Staatsangehörige
 
-Es sind in der letzten Zeit vermehrt Fälle aufgetreten, bei denen ehemalige venezolanische Staatsangehörige, die ihre venezolanische Staatsangehörigkeit für eine Einbürgerung in den deutschen Staatsverband aufgegeben haben, Schwierigkeiten bei der Ein – und Ausreise in Venezuela hatten, weil angeblich Zweifel an der Aufgabe der Staatsangehörigkeit bestünden.
+Es sind in der letzten Zeit vermehrt Fälle aufgetreten, bei denen Staatsangehörige, die ihre venezolanische Staatsangehörigkeit für eine Einbürgerung in Deutschland aufgegeben haben, Schwierigkeiten bei der Ein – und Ausreise in Venezuela hatten, weil angeblich Zweifel an der Aufgabe der Staatsangehörigkeit bestünden.
 
 * Führen Sie Nachweise der zuständigen venezolanischen Behörde über die Entlassung aus der venezolanischen Staatsangehörigkeit mit sich.
 

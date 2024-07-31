@@ -2,14 +2,6 @@
 
 ## Aktuelles
 
-### *Landesweiter Streik*
-
-Aufgrund eines angekündigten landesweiten Streiks bei der peruanischen Einwanderungsbehörde (Migraciones), kann es ab dem 27. Juli 2024 bis auf Weiteres zu erheblichen Verzögerungen bei der Ein- und Ausreise und längeren Wartezeiten an allen Grenzübertrittsstellen kommen. Die internationalen Flughäfen können von diesem unbefristeten Streik ebenfalls betroffen sein.
-
-* Bitte passen Sie Ihre Reisepläne entsprechend an.
-* Halten Sie sich von Menschenansammlungen fern.
-* Folgen Sie den Anweisungen der peruanischen Behörden und Sicherheitskräfte.
-
 ### *Aktuelle Sicherheitslage*
 
 Im Zuge der verschlechterten Sicherheitslage in Ecuador (siehe auch Reise- und Sicherheitshinweise [Ecuador](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232#content_4)) hat Peru für die fünf an Ecuador grenzenden Regionen im Norden des Landes (**Tumbes, Piura, Cajamarca, Amazonas und Loreto**) den Notstand ausgerufen und die Präsenz des Militärs und der Polizeibehörden verstärkt. Die Landgrenzen zu Ecuador bleiben für den Personenverkehr geöffnet.
@@ -18,7 +10,7 @@ Aufgrund einer Anordnung des ecuadorianischen Innenministeriums, wonach alle nic
 
 In verschiedenen Regionen des Landes gilt ebenfalls weiterhin der Notstand, siehe *Sicherheit – Innenpolitische Lage*.
 
-Während des Notstands sind einige von der Verfassung geschützten Rechte der Bevölkerung eingeschränkt, so u.a. das Recht auf Versammlungsfreiheit und Bewegungsfreiheit, aber auch das Recht auf Unverletzbarkeit des Wohnraums. Zum anderen wird dem Militär die Möglichkeit eröffnet, die Polizei bei ihren Aufgaben zu unterstützen.  
+Während des Notstands sind einige von der Verfassung geschützten Rechte der Bevölkerung eingeschränkt, so u.a. das Recht auf Versammlungsfreiheit und Bewegungsfreiheit, aber auch das Recht auf Unverletzbarkeit des Wohnraums. Zum anderen wird dem Militär die Möglichkeit eröffnet, die Polizei bei ihren Aufgaben zu unterstützen.
 
 Im Amazonasgebiet Loreto besteht ein Konflikt um die Erdölförderung, der teilweise zur Blockade des Schiffsverkehrs auf dem Ucavali (Canal Puinahua) führt. 
 
@@ -97,8 +89,6 @@ Insbesondere in der Regenzeit von Dezember bis März können starke Regenfälle 
 
 ## Reiseinfos
 
-Siehe *Aktuelles*
-
 ### **Ausreisen über den Landweg von Peru nach Ecuador**
 
 Vor dem Hintergrund der aktuellen Sicherheitskrise im Nachbarland Ecuador muss beim Grenzübertritt von Peru nach Ecuador auf dem Landweg ab sofort ein aktuelles [apostilliertes Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) aus dem Staat, in dem Reisende in den letzten fünf Jahren ihren gewöhnlichen Aufenthalt hatten, vorgelegt werden. Weitere Informationen (auch über evtl. Ausnahmen) bieten die Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)
@@ -164,8 +154,6 @@ Landeswährung ist der Peruanische Sol (PEN). Die Abhebung von Bargeld an Geldau
 Bei Problemen mit der Geldversorgung können die einschlägigen international operierenden Finanztransaktionsdienstleister in Anspruch genommen werden. EUR können zumindest in Lima, Arequipa, Puno und Cusco in Wechselstuben umgetauscht werden. Außerhalb größerer Orte ist der Umtausch von EUR und gelegentlich auch USD in PEN problematisch.
 
 ## Einreise und Zoll
-
-siehe *Aktuelles*
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
