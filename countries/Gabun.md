@@ -8,7 +8,7 @@
 
 ### Innenpolitische Lage
 
-Seit einer Machtübernahme durch das Militär am 30. August 2023 befindet sich Gabun in einem Transitionsprozess. Die Lage ist zurzeit ruhig, weitere Entwicklungen bleiben jedoch schwer vorhersehbar. Eine nächtliche, landesweite Ausgangssperre gilt von 2 bis 5 Uhr.
+Seit der Machtübernahme durch das Militär im August 2023 befindet sich Gabun in einem Transitionsprozess. Die Lage ist zurzeit ruhig, weitere Entwicklungen bleiben jedoch schwer vorhersehbar. Eine nächtliche, landesweite Ausgangssperre gilt von 2 bis 5 Uhr.
 
 * Bitte halten Sie sich in den Medien über die geltenden Regeln und über die Sicherheitslage auf dem Laufenden.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
@@ -18,7 +18,7 @@ Seit einer Machtübernahme durch das Militär am 30. August 2023 befindet sich G
 
 Insbesondere in den größeren Städten Libreville, Franceville und Port Gentil kann es zu Kleinkriminalität wie Diebstählen kommen. Es gibt Handtaschendiebstähle und Betrugsfälle, u.a. mit Kreditkarten an Geldautomaten.
 
-Im gesamten Golf von Guinea, hauptsächlich vor der Küste Nigerias, besteht die Gefahr von Piraterie. Banden überfallen Küstenorte, Fischkutter, Öltanker oder Ölplattformen mit Geiselnahmen.
+Im gesamten Golf von Guinea, hauptsächlich vor der Küste Nigerias, besteht die Gefahr von Piraterie. Banden überfallen Küstenorte, Fischkutter, Öltanker oder Ölplattformen, oft in Verbindung mit Geiselnahmen.
 
 * Verriegeln Sie bei Autofahrten alle Türen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -41,10 +41,10 @@ Die Hauptverkehrsstraßen sind in überwiegend schlechtem Zustand und lassen ein
 
 Öffentliche Busse, Kleinbusse und Taxis sind oft nicht in verkehrssicherem Zustand. Aufgrund überhöhter Geschwindigkeit oder Übermüdung der Fahrer ereignen sich vergleichsweise häufig schwere Unfälle von Überlandbussen. In Sammeltaxis besteht ein Risiko von Taschendiebstählen. Fahrten in der Dunkelheit sollten unbedingt vermieden werden.
 
-Von der Nutzung innergabunischer, veralteter Fähren (Libreville-Port Gentil und Lambaréné-Port Gentil) wird abgeraten. Es kamen Unfälle vor, weil Fähren nicht in verkehrssicherem Zustand waren.
+Von der Nutzung innergabunischer, veralteter Fähren (Libreville-Port Gentil und Lambaréné-Port Gentil) wird abgeraten. Es kam zu Unfällen, weil Fähren nicht in verkehrssicherem Zustand waren.
 
 * Seien Sie im Straßenverkehr und bei der Nutzung von Sammeltaxis besonders vorsichtig.
-* Halten Sie nur leere Taxen an und vereinbaren Sie mit dem Fahrer einen Tarif für die exklusive Nutzung.
+* Halten Sie nur leere Taxis an und vereinbaren Sie mit dem Fahrer einen Tarif für die exklusive Nutzung.
 * Achten Sie auch auf den äußeren Zustand der Fahrzeuge.
 
 ### Führerschein
@@ -67,7 +67,7 @@ Drogenhandel/-konsum und jede Art von Prostitution sind strafbar. Für nicht ort
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Franc CFA (XAF). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind nur vereinzelt möglich (z.B. in großen Hotels). Es wird empfohlen, ausreichend Bargeld in EUR oder USD mitzuführen und am Flughafen oder bei Banken zu wechseln. Auch große Hotels wechseln für ihre Kunden zum amtlichen Kurs.
+Landeswährung ist der zentralafrikanische Franc CFA (XAF). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind nur vereinzelt möglich (z.B. in großen Hotels). Es wird empfohlen, ausreichend Bargeld in EUR oder USD mitzuführen und am Flughafen oder bei Banken zu wechseln. Auch große Hotels wechseln für ihre Kunden zum amtlichen Kurs.
 
 ## Einreise und Zoll
 
@@ -92,12 +92,7 @@ Das Einreisedokument muss noch drei Monate nach Ablauf des Visums gültig sein
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise nach Gabun ein Visum. Dieses kann vor der Einreise bei der [Botschaft der Republik Gabun](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/gabun-node/vertretungengabun/226332?openAccordionId=item-226342-0-panel) beantragt werden.  
-Außerdem gibt es die Möglichkeit, ein sog. E-Visum bei der [gabunischen Einwanderungsbehörde](https://evisa.dgdi.ga/) zu beantragen.
-
-Mit dem Antragsverfahren für ein E-Visum werden unterschiedliche Erfahrungen gemacht: Es sind Fälle bekannt geworden, in denen die Einwanderungsbehörde ihre Bearbeitungsfrist von 72 Stunden nicht eingehalten hat, woraufhin Antragsteller ihre Reisen stornieren mussten.
-
-* Sollten Sie ein E-Visum beantragen wollen, planen Sie ausreichend Bearbeitungszeit (mehr als 72 Stunden) und mögliche Verzögerungen bei der Antragstellung ein.
+Deutsche Staatsangehörige benötigen für die Einreise nach Gabun ein Visum. Dieses muss vor Einreise bei der [Botschaft der Republik Gabun](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/gabun-node/vertretungengabun/226332?openAccordionId=item-226342-0-panel) beantragt werden.
 
 ### Minderjährige
 
@@ -209,9 +204,7 @@ Die medizinische Versorgung im Lande ist mit der in Europa nicht zu vergleichen.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
