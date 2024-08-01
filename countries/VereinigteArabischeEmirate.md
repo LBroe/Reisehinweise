@@ -208,7 +208,7 @@ Die medizinische Versorgung in den Vereinigten Arabischen Emiraten ist insgesamt
 
 ### Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen
 
-In den Jahren 2018 und 2019 wurde erstmalig die durch Mücken übertragenen Erkrankung [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") nachgewiesen. Im Verlauf wurden wenige Erkrankungen im Zusammenhang mit niederschlagsreichen Episoden gemeldet.
+In den Jahren 2018 und 2019 wurde erstmalig die durch Mücken übertragenen Erkrankung [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") nachgewiesen. Im Verlauf wurden Erkrankungen im Zusammenhang mit niederschlagsreichen Episoden gemeldet.
 
 * Schützen Sie insbesondere tagsüber konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
 * Es gibt eine Impfung gegen Denguefieber. Lassen Sie sich bzgl. Ihres persönlichen Risikos beraten.

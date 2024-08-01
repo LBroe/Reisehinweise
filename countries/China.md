@@ -51,6 +51,8 @@ Demonstrationen sind ohne vorherige Genehmigung der Regierung illegal, finden gl
 
 Der Zugang zum Internet wird staatlich kontrolliert. Der Zugriff auf verschiedene Online-Angebote ist blockiert, darunter die von Google, Facebook, X, Whatsapp und weiteren. Die Nutzung von VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist verboten, siehe auch *Rechtliche Besonderheiten*.
 
+Besonders bei Reisen in mehrheitlich von ethnischen Minderheiten und an die Autonomen Regionen Xinjiang und Tibet angrenzenden Regionen kann es zu unverdeckter Beobachtung und Kontrolle ausländischer Reisender durch die lokalen Sicherheitsorgane kommen.
+
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 * Verzichten Sie auf die Nutzung von VPN-Diensten.
