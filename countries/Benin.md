@@ -1,27 +1,34 @@
 # Benin: Reise- und Sicherheitshinweise
 
-## Sicherheit
+## Sicherheit - Teilreisewarnung
+
+**Vor Reisen**
+
+* in den Norden in und um die Nationalparks Pendjari und W
+
+**wird gewarnt.**
 
 **Von Reisen** 
 
-* in die Departements Atakora und Alibori nördlich der Linie Boukoumbé – Toukountouna – Kérou – Kandi – Segbana (einschließlich der Nationalparks „W“ und Pendjari und ihrer Randgebiete sowie der Städte Tanguieta und Kandi),
-* in die Grenzgebiete zu Nigeria im Departement Borgou nördlich der Stadt Nikki
+* in die Departements Atakora und Alibori nördlich der Linie Boukoumbé – Toukountouna – Kérou – Kandi – Segbana (einschließlich der Orte Boukoumbé, Tanguieta und Kandi),
+* im gesamten Grenzgebiet zu Nigeria im Departement Borgou (einschließlich des Forêt des Trois-Rivières sowie der Orte Kalalé und Segbana).
 
 **wird dringend abgeraten, siehe auch Teilreisewarnung [Burkina Faso](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/burkinafaso-node/burkinafasosicherheit/212336) und [Niger](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/niger-node/nigersicherheit/226384).**
 
 ### Terrorismus
 
-Auf burkinischer, nigerianischer und nigrischer Seite der beninischen Landesgrenzen sind weiterhin terroristische Aktivitäten zu verzeichnen.
+Im Norden Benins entlang der Grenzen zu Burkina Faso, Niger und Nigeria sind weiterhin terroristische Aktivitäten zu verzeichnen.
 
-Zwei europäische Besucher wurden 2019 aus dem Pendjari Park im Norden Benins nach Burkina Faso entführt; ihr lokaler Führer wurde in unmittelbarer Nähe zur Grenze tot aufgefunden. Im gesamten Gebiet nördlich der Linie Boukoumbé – Toukountouna – Kérou – Kandi – Segbana in den Departements Atakora und Alibori besteht ein erhöhtes Entführungsrisiko. Seit 2021 kam es in den Departements Atakora und Alibori zu mehreren tödlichen Anschlägen auf Militär, Polizeistationen und Nationalpark-Ranger. Im Mai 2023 kam es im Norden Benins im Randgebiet des Nationalparks Pendjari zu einem Angriff auf Zivilisten, bei dem mehr als zehn Menschen getötet wurden. Sicherheitskräfte sind in Alarmbereitschaft. Es ist mit verstärkten Kontrollen zu rechnen.
+Im gesamten Gebiet nördlich der Linie Boukoumbé – Toukountouna – Kérou – Kandi – Segbana in den Départements Atakora und Alibori besteht ein erhöhtes Entführungsrisiko und es kommt immer wieder zu teils tödlichen Anschlägen auf Sicherheitskräfte und Zivilisten. Die Streitkräfte Benins befinden sich im Kampf gegen den Terrorismus. Es ist mit verstärkten Kontrollen und Sperren zu rechnen.
 
+* **Beachten Sie die geltende Teilreisewarnung. Von Reisen in die weiteren oben genannten Gebiete wird dringend abgeraten.**
 * Seien Sie in der gesamten nördlichen Region besonders vorsichtig.
-* Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
+* Seien Sie insbesondere an belebten Orten und bei unvorhergesehenen, plötzlich auftretenden Ereignissen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
-Im Norden Benins kommt es immer wieder zu teils gewaltsamen Auseinandersetzungen zwischen Viehzüchtern und der sesshaften, ackerbautreibenden Bevölkerung.
+Im Norden Benins kommt es gelegentlich zu teils gewaltsamen Auseinandersetzungen zwischen Viehzüchtern und der sesshaften, ackerbautreibenden Bevölkerung.
 
 * Seien Sie besonders vorsichtig, und verfolgen Sie genau die Sicherheitslage bei Aufenthalten in dieser Region.
 * Informieren Sie sich über die lokalen Medien.
@@ -30,11 +37,11 @@ Im Norden Benins kommt es immer wieder zu teils gewaltsamen Auseinandersetzungen
 
 ### Kriminalität
 
-Neben Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommt es in Großstädten gelegentlich auch zu Überfällen. Die Gefahren sind insbesondere nach Einbruch der Dunkelheit und auf unbeleuchteten Straßen, in Cotonou am Strand, auf dem Dantokpa-Markt in den Morgen- und Abendstunden sowie nahe dem Hafen und an Bahnhöfen besonders hoch.
+Neben Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommt es in Großstädten gelegentlich auch zu Überfällen. Die Gefahren sind insbesondere nach Einbruch der Dunkelheit und auf unbeleuchteten Straßen, in Cotonou am Strand, auf dem Dantokpa-Markt in den Morgen- und Abendstunden sowie nahe dem Hafen besonders hoch.
 
 Bei Fahrten auf Motorradtaxis besteht neben einer hohen Unfallgefahr auch eine erhöhte Überfallgefahr.
 
-Im Norden Benins kommt es auf Landstraßen gelegentlich zu Überfällen, bei denen auch Personen verletzt werden.
+In Benin kommt es auf Landstraßen gelegentlich zu Überfällen, bei denen auch Personen verletzt werden.
 
 * Seien Sie bei Reisen in den Norden besonders vorsichtig.
 * Unternehmen Sie nachts keine Spaziergänge und meiden Sie den Strand von Cotonou und den Dantokpa-Markt auch in den frühen Morgen- und Abendstunden.
@@ -60,9 +67,7 @@ Baden im Meer ist außerhalb geschützter Bereiche lebensgefährlich. Starke Unt
 
 ### Infrastruktur/Verkehr
 
-Es gibt Busverbindungen, Sammel- und Motorradtaxis.
-
-Unfälle von Motorradtaxis („Zemidjan“) sind aufgrund der technischen Mängel der Motorräder, der mangelnden Ausbildung und risikoreichen Fahrweise der Fahrer sowie der hohen Verkehrsdichte oft mit Personenschäden verbunden. Die überwiegende Zahl der Verkehrstoten in Benin sind Fahrer und Passagiere von Motorradtaxis.
+Verkehrsunfälle, vor allem von Motorradtaxis („Zemidjan“) sind aufgrund des Alters und der technischen Mängel der Fahrzeuge, der mangelnden Ausbildung und risikoreichen Fahrweise der Fahrer sowie der hohen Verkehrsdichte oft mit Personenschäden verbunden. Die überwiegende Zahl der Verkehrstoten in Benin sind Fahrer und Passagiere von Motorradtaxis. In den vergangenen Monaten setzte die Polizei die Helmpflicht (für Fahrer und Passagier) mittels Bußgeldern und Beschlagnahmen durch.
 
 * Tragen Sie bei notwendigen Fahrten mit „Zemidjans“ einen Schutzhelm.
 * Fahren Sie stets mit verriegelten Türen.
@@ -86,9 +91,13 @@ Das Fotografieren von Militär- und Grenzanlagen ist untersagt. Zuwiderhandlunge
 * Fotografieren Sie Menschen nur mit deren ausdrücklicher Zustimmung.
 * Üben Sie die gebotene Rücksicht, insbesondere auch beim Fotografieren in/von religiösen Kultstätten der in Benin verbreiteten Naturreligion („Voodoo“).
 
+Konsum und Handel mit Drogen und Betäubungsmitteln sind verboten. Im Falle einer Verurteilung drohen z.T. sehr hohe Haftstrafen.
+
+Junge Menschen gelten im beninischen Sexualstrafrecht bis zur Vollendung des 21. Lebensjahres als minderjährig.
+
 ### Geld/Kreditkarten
 
-Zahlungsmittel ist der CFA-Franc (XOF). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind nur vereinzelt möglich. Es gibt nur recht wenige Geldautomaten, vor allem in der Metropole Cotonou, und die vorhandenen Geldautomaten fallen häufig aus, daher empfiehlt sich die Mitnahme von Bargeld in EUR, das zu einem Fixkurs getauscht werden kann.
+Zahlungsmittel ist der CFA-Franc (XOF). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind möglich, in ländlichen Gebieten allerdings nur sehr eingeschränkt. Die vorhandenen Geldautomaten fallen häufiger aus; daher empfiehlt sich die Mitnahme von Bargeld in EUR, das zu einem Fixkurs getauscht werden kann.
 
 ## Einreise und Zoll
 
@@ -203,13 +212,13 @@ Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syp
 
 ### Weitere Gesundheitsgefahren
 
-[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosoma übertragen werden.
+[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosomiasis übertragen werden.
 
 * Sehen Sie vom Baden und Schwimmen in Binnengewässern ab.
 
 Insbesondere in großen Städten kann es durch Luftverschmutzung zu gesundheitlichen Beschwerden kommen. Durch die Müllverbrennung besteht eine kontinuierliche Belastung. In der Harmattan-Saison kommt es im ersten Jahresquartal zur besonderen Luftverschmutzung.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 Intensive Sonneneinstrahlung kann zu kurz- und langfristigen Haut- und Augenschäden führen.
 
@@ -220,9 +229,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
