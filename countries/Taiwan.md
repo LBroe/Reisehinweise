@@ -1,13 +1,5 @@
 # Taiwan*: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Der Super-Taifun Gaemi (Carina) wird voraussichtlich am 24. Juli 2024 gegen Mitternacht im Nordosten Taiwans in Höhe von Yilan und Hualien mit der Stärke eines Hurrikans der Kategorie 4 und Windgeschwindigkeiten von 230 km/h auf Land treffen und die Insel dann in Richtung Westen über den Großraum Taipei überqueren. Die Auswirkungen des Taifuns werden aber vermutlich auf der gesamten Insel Taiwan zu spüren sein. Das taiwanische Emergency Operations Center warnt vor starken Regenfällen, Überschwemmungen, Überflutungen an der Küste und an Flüssen sowie vor Erdrutschen. An der Ostküste kann es zu Wellenhöhen bis zu 15 Metern kommen. Die gefährdeten Gebiete wurden bereits evakuiert.
-
-* Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
-* Bitte folgen Sie unbedingt den Anweisungen der taiwanischen Behörden. Falls die Evakuierung bestimmter gefährdeter Gebiete angeordnet werden sollte, werden die Behörden für Notunterkünfte sorgen.
-* Wenn Sie sich in Taiwan aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](http://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -32,24 +24,26 @@ Die Kriminalitätsrate ist niedrig. Insbesondere in den Großstädten kommt es z
 
 ## Natur und Klima
 
-Siehe *Aktuelles*  
-
 #### *Erdbeben*
 
 Taiwan liegt in einer seismisch äußerst aktiven Zone. Im Jahresdurchschnitt werden Tausende von Beben zwischen Stärke drei und sechs registriert, von denen aber im Allgemeinen nur fünf bis sechs auch in Taipei deutlich wahrgenommen werden. Am 3. April 2024 ereignete sich vor der Ostküste Taiwans nahe Hualien ein schweres Erdbeben der Stärke 7,2.
 
 #### *Tropenstürme*
 
-Das Klima ist im Norden subtropisch und im Süden tropisch.  
+Das Klima ist im Norden subtropisch und im Süden tropisch.
+
+Der Taifun Gaemi (Carina) traf im Juli 2024 auf Taiwan. Die Auswirkungen des Taifuns waren auf der gesamten Insel zu spüren und haben erhebliche Schäden an der Infrastruktur verursacht.
+
 Taiwan wird insbesondere von Mai bis November regelmäßig von Tropenstürmen getroffen, die Überschwemmungen und gefährliche Erdrutsche und in der Folge erhebliche Schäden in der Infrastruktur verursachen können. Bei Berg- und Radwanderungen bestehen entsprechende Gefahren.
 
-Im Katastrophenfall können taiwanische Behörden ausländische SIM-Karten nicht ohne Weiteres orten. Daher wird der Kauf einer taiwanischen (Prepaid-)SIM-Karte empfohlen. Diese gibt es gegen Vorlage des Reisepasses am Flughafen und allen Mobilfunkläden.
+Im Katastrophenfall können taiwanische Behörden ausländische SIM-Karten nicht ohne Weiteres orten. Daher wird der Kauf einer taiwanischen (Prepaid-) SIM-Karte empfohlen. Diese gibt es gegen Vorlage des Reisepasses am Flughafen und allen Mobilfunkläden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
 * Kaufen Sie eine taiwanische (Prepaid-)SIM-Karte und installieren sie auf Ihrem Mobilgerät.
 * Laden Sie danach die App der taiwanischen Feuerwehr (für [Android;](https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US&pli=1&fbclid=IwAR0l-UXdh2GGrKKrkoK-jR9HZwBfZeT2zV9FahB6I15rf9R0HpN69zEciks) für [iOS)](https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641) auf Ihr Mobilgerät, um aktuelle Warnhinweise, etc. zu erhalten.
+* Wenn Sie sich in Taiwan aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](http://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
-* Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
 
 ## Reiseinfos
