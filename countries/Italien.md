@@ -28,11 +28,7 @@ In größeren Städten, wie z.B. Neapel, Rom, Mailand und Turin, werden Taschen 
 
 ## Natur und Klima
 
-Der italienische Zivilschutz stellt [detaillierte Informationen](https://rischi.protezionecivile.gov.it/en/) über verschiedene Naturrisiken, wie z.B. Erdbeben oder Vulkanausbrüche und damit verbundene Notfallpläne, in englischer Sprache zur Verfügung.
-
-#### *Dürre-Notstand*
-
-In den Regionen Emilia Romagna, Friaul-Julisch Venetien, Lombardei, Piemont, Venetien, Umbrien, Latium, Ligurien, Toskana und den Markengilt seit Juli 2022 wegen extremer Dürre der Notstand.
+Der italienische Zivilschutz stellt [detaillierte Informationen](https://rischi.protezionecivile.gov.it/en/) über verschiedene Naturrisiken, wie z.B. Erdbeben oder Vulkanausbrüche und damit verbundene Notfallpläne, in englischer Sprache zur Verfügung.  
 
 #### *Erdbeben*
 
@@ -64,6 +60,12 @@ Im Mittelmeer kann es insbesondere von August bis November zu vereinzelten schwe
 #### *Busch- und Waldbrände*
 
 Vor allem in den Sommermonaten kommt es in Italien aufgrund der herrschenden klimatischen Bedingungen immer wieder zu Busch- und Waldbränden und in der Folge zu Verkehrs und Luftqualitätsbeeinträchtigungen.
+
+#### *Dürre in Mittel- und Süditalien*
+
+In den mittleren und südlichen Regionen Italiens, insbesondere auf Sizilien, herrscht aufgrund der aktuellen Wetterlage sowie ausbleibender Regenfälle bereits seit einigen Wochen erheblicher Wassermangel, es gelten Dürre-Warnungen der Stufe rot (höchste Warnstufe) für Sizilien sowie orange (zweithöchste Warnstufe) für die Regionen Marken, Latium, Umbrien, Abruzzen, Molise, Apulien, Kampanien, Kalabrien, Basilikata sowie für Sardinien. 
+
+Aktuelle Informationen bietet die [Webseite von ISPRA](https://www.isprambiente.gov.it/pre_meteo/idro/SeverIdrica.html).
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
