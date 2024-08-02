@@ -1,22 +1,30 @@
 # Togo: Reise- und Sicherheitshinweise
 
-## Sicherheit
+## Sicherheit - Teilreisewarnung
+
+**Vor Reisen** 
+
+* **in die im Grenzgebiet Togo – Benin – Burkina Faso liegende Präfektur Kpendjal (Region Savanes) sowie der Weiterfahrt nach Burkina Faso**
+
+**wird gewarnt.** 
 
 **Von Reisen** 
 
--          **in das unmittelbare Grenzgebiet zu Burkina Faso** **(Präfekturen Cinkassé, Tone, Kpendjal-Ouest, Kpendjal)**und von der Weiterfahrt nach Burkina Faso** 
+* **in alle anderen Präfekturen der Region Savanes (Cinkassé, Tône, Tandjoaré und Oti)**
 
 **wird dringend abgeraten**, siehe auch [Reise- und Sicherheitshinweise - Teilreisewarnung - Burkina Faso](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/burkinafaso-node/burkinafasosicherheit/212336).
 
 **Von Reisen** 
 
--          **in den Norden Togos (**v. a. Region Savanes und südlich anschließende Gebiete**)**
+* **in die südlich der Region Savanes gelegenen Präfekturen Dankpen und Keran**
 
 **wird abgeraten.** 
 
 ### Terrorismus
 
-Seit 2021 wurden wiederholt Angriffe mit terroristischem Hintergrund auf Sicherheitskräfte im Grenzgebiet Togos zum nördlichen Nachbarland Burkina Faso registriert. Seit Juli 2022 gibt es zivile Todesopfer; seit 2023 auch Hinweise auf Entführungen. Aufgrund der Sicherheitslage in der Sahel-Region, insbesondere im äußersten Norden Togos, besteht grundsätzlich eine erhöhte Gefahr terroristischer Gewaltakte, Entführungen und krimineller Übergriffe, nicht zuletzt durch Einsickern krimineller oder terroristischer Gruppen aus Burkina Faso (siehe *Sicherheit*). Togo hat seine Sicherheitskräfte im Grenzgebiet verstärkt; es ist dort mit Kontrollen zu rechnen. Für die Region Savanes gilt aufgrund der angespannten Sicherheitslage der Notstand, was zu weiteren, auch kurzfristigen bzw. lokal begrenzten Einschränkungen des öffentlichen Lebens führen kann.
+Aufgrund der Sicherheitslage in der benachbarten Sahel-Region und im äußersten Norden Togos, besteht grundsätzlich eine erhöhte Gefahr terroristischer Gewaltakte, Entführungen und krimineller Übergriffe, nicht zuletzt durch Einsickern krimineller oder terroristischer Gruppen aus Burkina Faso (siehe *Sicherheit*). Togo hat seine Sicherheitskräfte im Grenzgebiet verstärkt; es ist dort mit Kontrollen zu rechnen. Seit 2021 wurden wiederholt Angriffe mit terroristischem Hintergrund auf Sicherheitskräfte im Grenzgebiet Togos zum nördlichen Nachbarland Burkina Faso registriert. Die Angriffe nahmen im Jahr 2024 an Häufigkeit und Intensität zu. Bisheriger Höhepunkt war ein Angriff im Juli 2024 mit mindestens 21 Toten und zahlreichen Verletzten. Bereits seit Juli 2022 gibt es zivile Todesopfer; seit 2023 auch Hinweise auf Entführungen.
+
+Für die Region Savanes gilt aufgrund der angespannten Sicherheitslage der Notstand, was zu weiteren, auch kurzfristigen bzw. lokal begrenzten Einschränkungen des öffentlichen Lebens führen kann.
 
 Mit Polizeikontrollen ohne ersichtlichen Grund und im Einzelfall mit weitergehenden polizeilichen Zwangsmaßnahmen bis hin zur Festnahme muss gerechnet werden. Individualtouristen ohne Begleitung eines lokalen Führers können davon besonders betroffen sein.
 
