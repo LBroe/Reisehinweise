@@ -2,17 +2,15 @@
 
 ## Aktuelles
 
-### *Einreise aus Belarus nach Estland*
-
-Die Einreise mit in Belarus zugelassenen Pkws nach Estland ist seit dem 1. Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der zuständigen Zollbehörde erhältlich.
-
 ### *Einreise aus der Russischen Föderation nach Estland*
+
+Estland führt mit Wirkung vom 8. August 2024 an allen Grenzübergängen zu Russland eine vollständige Zollkontrolle ein. Die vollständige Kontrolle des Grenzverkehrs wird ausnahmslose Personen-, Fahrzeug-, Waren- und Gepäckkontrollen umfassen. Es ist mit erhöhten Abfertigungszeiten zu rechnen. Weiterführende Informationen sind bei der [zuständigen Zollbehörde](https://emta.ee/en/news/etcb-will-commence-seamless-transition-full-customs-control-starting-8-august) erhältlich.
 
 Grenzübertritte am Grenzübergang Narva-Ivangorod sind bis auf Weiteres nur zwischen 7 und 22 Uhr möglich.
 
 Fahrzeuge können den Grenzübergang Narva-Ivangorod aufgrund von Bauarbeiten auf der russischen Seite nicht überqueren. Ein Grenzübertritt ist hier nur zu Fuß möglich. Die Bauarbeiten sollen voraussichtlich Ende 2025 abgeschlossen sein.
 
-Die Grenzübergänge Koidula und Luhamaa sind derzeit auch für Fahrzeuge geöffnet. Weitere Informationen erhalten Sie auf der Website der [estnischen Grenzschutzbehörde](https://www.politsei.ee/en/as-of-1-february-vehicles-cannot-cross-the-border-in-narva).
+Die Grenzübergänge Koidula und Luhamaa sind derzeit auch für Fahrzeuge geöffnet. Weitere Informationen erhalten Sie auf der Website der [estnischen Grenzschutzbehörde](https://www.politsei.ee/en).
 
 Die [estnischen Behörden](http://www.politsei.ee/en/) behalten sich vor, Grenzübergänge in die Russische Föderation kurzfristig zu schließen und raten daher derzeit von Reisen von Estland in die Russische Föderation ab. Eine Rückreise über estnische Grenzübergänge aus der Russischen Föderation in die Europäische Union ist im Falle einer Schließung nicht mehr möglich.
 
@@ -21,6 +19,10 @@ Die Einreise mit in der Russischen Föderation zugelassenen Pkws nach Estland is
 * Beachten Sie die Reise- und Sicherheitshinweise der [Russischen Föderation](https://diplo.de/-/201536) und [Belarus.](https://diplo.de/-/201904)
 * Bitte informieren Sie sich über den aktuellen Stand der Regelungen auf der offiziellen [Regierungsseite](http://www.kriis.ee) Estlands bzw. bei der estnischen [Grenzschutzpolizei](http://www.politsei.ee/en/).
 * Tragen Sie sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
+
+### *Einreise aus Belarus nach Estland*
+
+Die Einreise mit in Belarus zugelassenen Pkws nach Estland ist seit Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der zuständigen Zollbehörde erhältlich.
 
 ## Sicherheit
 
@@ -34,7 +36,7 @@ An touristisch frequentierten Plätzen wie insbesondere in der Altstadt von Tall
 
 Autodiebstahl und -aufbrüche sind vielerorts möglich, insbesondere auf nicht bewachten Parkplätzen und wenn Wertsachen oder Gepäckstücke im Fahrzeug erkennbar sind.
 
-In Bars und anderen Lokalitäten kann es wie vielerorts vereinzelt zu Kreditkartenbetrug, überhöhten Rechnungen und seltener auch zum Einsatz von Betäubungsmitteln in Getränken kommen.
+In Bars und anderen Lokalitäten kann es vereinzelt zu Kreditkartenbetrug, überhöhten Rechnungen und seltener auch zum Einsatz von Betäubungsmitteln in Getränken kommen.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher und möglichst getrennt voneinander auf und fertigen Sie (elektronische) Kopien. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Lassen Sie Gepäck, Ihre Kreditkarte und auch Getränke in Bars nie unbeaufsichtigt.
@@ -57,7 +59,7 @@ Im Winter kann es zu extremer Kälte, Schneefällen und Winterstürmen kommen.
 Siehe *Aktuelles*
 
 Es gibt Flug-, Eisenbahn- und Fährverbindungen. Die touristische Infrastruktur ist insbesondere in den Städten sehr gut ausgebaut.  
-In Tallin steht ein guter öffentlicher Nahverkehr mit [e-tickets](https://www.tallinn.ee/eng/pilet/Ticket-information-for-tourists) zur Verfügung, Weitere Informationen erteilt [Tallinn Tourism](http://www.visittallinn.ee). Taxis sind zudem weit verbreitet und relativ preiswert.
+In Tallin steht ein guter öffentlicher Nahverkehr mit [E-Tickets](https://www.tallinn.ee/eng/pilet/Ticket-information-for-tourists) zur Verfügung, Weitere Informationen erteilt [Tallinn Tourism](http://www.visittallinn.ee). Taxis sind zudem weit verbreitet und relativ preiswert.
 
 In Estland ist ganzjährig auch tagsüber das Fahren mit Abblendlicht vorgeschrieben.  
 Es gilt eine faktische "0,0-Promille-Grenze"; polizeiliche Alkohol- und Geschwindigkeitskontrollen sind häufig.
@@ -90,7 +92,7 @@ Estnische Gesetze verbieten die Diskriminierung auf der Basis von Gender- und se
 
 Für das Führen eines Fahrzeuges unter Alkoholeinfluss gelten vergleichsweise hohe Strafen. Es drohen bis zu 1.200 EUR Geldstrafe, Führerscheinentzug bis zu einem Jahr sowie Ordnungshaft.
 
-In Estland ist jeglicher Umgang mit Drogen (wie Konsum, Erwerb, Vermittlung, Anbau – auch Cannabis und Schlafmohn-, Sammeln, Herstellung, Bearbeitung, Verpackung, Aufbewahrung, Ein- und Ausfuhr, Transport, unentgeltliche Weitergabe an dritte Personen, Verkauf, usw.) verboten und wird strafrechtlich mit deutlich höheren Strafen als in Deutschland geahndet. Für amtliche Genehmigungen für den Umgang mit Drogen ist das estnische Sozialministerium oder das estnische Medikamentenamt zuständig. Bereits der Umgang mit Kleinstmengen (auch Konsum ohne Rezept) wird strafrechtlich mit einer Geldstrafe in Höhe von 1.200 EUR oder mit Ordnungshaft geahndet.
+In Estland ist jeglicher Umgang mit Drogen (wie Konsum, Erwerb, Vermittlung, Anbau – auch von Cannabis und Schlafmohn-, Sammeln, Herstellung, Bearbeitung, Verpackung, Aufbewahrung, Ein- und Ausfuhr, Transport, unentgeltliche Weitergabe an dritte Personen, Verkauf usw.) verboten und wird strafrechtlich mit deutlich höheren Strafen als in Deutschland geahndet. Für amtliche Genehmigungen für den Umgang mit Drogen ist das estnische Sozialministerium oder das estnische Medikamentenamt zuständig. Bereits der Umgang mit Kleinstmengen (auch Konsum ohne Rezept) wird strafrechtlich mit einer Geldstrafe in Höhe von 1.200 EUR oder mit Ordnungshaft geahndet.
 
 Einflussnahme auf Minderjährige zur Ausübung sexueller Handlungen, Kinderprostitution sowie sexuelle Nötigung stehen in Estland unter Strafe.
 
@@ -104,7 +106,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Estlands](http://www.kriis.ee/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Estlands sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
