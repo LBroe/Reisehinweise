@@ -143,7 +143,7 @@ Weitere Informationen bieten das [serbische Innenministerium](http://www.mup.gov
 
 ### Minderjährige
 
-Minderjährige, die das 16. Lebensjahr noch nicht vollendet haben, dürfen alleine oder in Begleitung von Dritten nach Serbien reisen, wenn sie eine Einverständniserklärung des/der Personensorgeberechtigten mit amtlich beglaubigter Unterschrift des/der Personensorgeberechtigten bei sich führen. Eine Übersetzung dieser Erklärung ins Englische oder Serbische und das Mitführen einer internationalen Geburtsurkunde wird empfohlen.
+Minderjährige, die das 16. Lebensjahr noch nicht vollendet haben, dürfen alleine, mit einem Sorgeberechtigten oder in Begleitung von Dritten nach Serbien reisen, wenn sie eine Einverständniserklärung des/der nicht mitreisenden Personensorgeberechtigten mit amtlich beglaubigter Unterschrift bei sich führen. Eine Übersetzung dieser Erklärung ins Englische oder Serbische und das Mitführen einer internationalen Geburtsurkunde wird empfohlen.
 
 Minderjährige, die das 16. Lebensjahr vollendet haben, dürfen alleine nach Serbien reisen.
 
