@@ -32,9 +32,7 @@ Taiwan liegt in einer seismisch äußerst aktiven Zone. Im Jahresdurchschnitt we
 
 Das Klima ist im Norden subtropisch und im Süden tropisch.
 
-Der Taifun Gaemi (Carina) traf im Juli 2024 auf Taiwan. Die Auswirkungen des Taifuns waren auf der gesamten Insel zu spüren und haben erhebliche Schäden an der Infrastruktur verursacht.
-
-Taiwan wird insbesondere von Mai bis November regelmäßig von Tropenstürmen getroffen, die Überschwemmungen und gefährliche Erdrutsche und in der Folge erhebliche Schäden in der Infrastruktur verursachen können. Bei Berg- und Radwanderungen bestehen entsprechende Gefahren.
+Der Taifun Gaemi (Carina) traf im Juli 2024 auf Taiwan. Taiwan wird insbesondere von Mai bis November regelmäßig von Tropenstürmen getroffen, die Überschwemmungen und gefährliche Erdrutsche und in der Folge erhebliche Schäden in der Infrastruktur verursachen können. Bei Berg- und Radwanderungen bestehen entsprechende Gefahren.
 
 Im Katastrophenfall können taiwanische Behörden ausländische SIM-Karten nicht ohne Weiteres orten. Daher wird der Kauf einer taiwanischen (Prepaid-) SIM-Karte empfohlen. Diese gibt es gegen Vorlage des Reisepasses am Flughafen und allen Mobilfunkläden.
 
