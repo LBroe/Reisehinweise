@@ -4,7 +4,7 @@
 
 **Von Reisen nach Bangladesch wird derzeit dringend abgeraten.**
 
-Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten, die am Wochenende 3./4. August 2024 erneut besonders heftig aufgeflammt sind, besteht seit dem 20. Juli 2024 eine Ausgangssperre. Geschäfte, Büros und Banken sind je nach Lage zum Teil stundenweise geöffnet; Lockerungen der Ausgangssperre werden über die lokalen Medien bekannt gegeben. Das Internet und das mobile Internet (über Mobilfunk) sind nur teilweise funktionsfähig. Der Flughafen Dhaka ist weiterhin geöffnet. Der Zugang zum Flughafen während der Ausgangssperre ist unter Vorlage des Tickets möglich.
+Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten, die am Wochenende 3./4. August 2024 erneut besonders heftig aufgeflammt sind, besteht seit dem 20. Juli 2024 eine Ausgangssperre. Geschäfte, Büros und Banken sind je nach Lage zum Teil stundenweise geöffnet; Lockerungen der Ausgangssperre werden über die lokalen Medien bekannt gegeben. Das Internet und das mobile Internet (über Mobilfunk) sind nur teilweise funktionsfähig.
 
 Im Zuge der Demonstrationen und Proteste gab es bereits mehrere hundert Tote.
 
