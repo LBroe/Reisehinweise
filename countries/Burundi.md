@@ -143,7 +143,7 @@ Ein- und Ausreiseformalitäten sind von den Reisenden vorab und ausschließlich 
 
 Siehe auch *Reisedokumente - Anmerkungen/Mindestrestgültigkeit*.
 
-Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vor der Einreise bei der [Botschaft der Republik Burundi in Berlin](http://www.burundi-embassy-berlin.com/) beantragt werden kann.  
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vor der Einreise bei der [Botschaft der Republik Burundi in Berlin](https://ambaburundi-botschaft.de) beantragt werden kann.  
 Mit einer Bearbeitungsdauer von mindestens drei Wochen ist zu rechnen.
 
 Die Ausstellung eines Visums bei Einreise am Flughafen Bujumbura ist ebenfalls möglich (Kosten 90 USD, Zahlung in bar).  
@@ -165,7 +165,7 @@ Verboten ist die Einfuhr von Waffen, Drogen und pornografischem Material. Gegens
 
 ### Heimtiere
 
-Heimtiere können nur über den internationalen Flughafen Bujumbura Melchior NDADAYE (BJM) eingeführt werden und benötigen neben einem Nachweis der Tollwutimpfung, die mindestens 30 Tage und maximal 12 Monate vor Einreise erfolgt sein muss, ein amtstierärztliches Zeugnis, das maximal 15 Tage vor Einreise ausgestellt sein darf und die Gesundheit der Heimtiere bestätigt. Über die Frage, ob auch eine Importgenehmigung erforderlich ist, sollte die [Botschaft der Republik Burundi in Berlin](http://www.burundiembassy-germany.de/index.php?en) kontaktiert werden.
+Heimtiere können nur über den internationalen Flughafen Bujumbura Melchior NDADAYE (BJM) eingeführt werden und benötigen neben einem Nachweis der Tollwutimpfung, die mindestens 30 Tage und maximal 12 Monate vor Einreise erfolgt sein muss, ein amtstierärztliches Zeugnis, das maximal 15 Tage vor Einreise ausgestellt sein darf und die Gesundheit der Heimtiere bestätigt. Über die Frage, ob auch eine Importgenehmigung erforderlich ist, sollte die [Botschaft der Republik Burundi in Berlin](https://ambaburundi-botschaft.de) kontaktiert werden.
 
 ## Gesundheit
 
@@ -215,6 +215,15 @@ In Burundi besteht eine Risiko für Erkrankungen wie [Meningokokken-Erkrankungen
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+
+Das Mpox-Virus wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durch Tierkontakt übertragene Erkrankungen
 

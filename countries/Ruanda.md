@@ -187,12 +187,23 @@ Aufgrund der mückengebundenen Infektionsrisiken wird allen Reisenden eine [Expo
 * Tragen Sie wiederholt Insektenschutzmittel auf alle unbedeckten Körperstellen in den frühen Abendstunden und nachts bei Aufenthalt im Freien.
 * Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
 
-### HIV/AIDS
+### Sexuell übertragene Erkrankungen
 
-Etwa 3-4% der 15-49 Jährigen in Ruanda sind HIV-positiv, in den bekannten Risikogruppen sind es deutlich mehr.  
-Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
+Etwa 3 bis 4% der 15-49-Jährigen in Ruanda sind HIV-positiv; in den bekannten Risikogruppen sind es deutlich mehr.
+
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox (Affenpocken)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") und bestimmte Lebererkrankungen ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+
+Das Mpox-Virus wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durchfallerkrankungen
 

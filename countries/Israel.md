@@ -4,15 +4,21 @@
 
 **Vor Reisen nach Israel und in die Palästinensischen Gebiete wird gewarnt.** 
 
-**Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen oder im Westjordanland aufhalten, wird empfohlen, auszureisen.**
+**Deutsche Staatsangehörige, die sich derzeit im Gazastreifen oder im Westjordanland aufhalten, sollten – sofern möglich - ausreisen.**
 
 **Israel befindet sich weiterhin formell im Kriegszustand.**
 
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+
 ### Sicherheitslage
 
-Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Zuletzt kam es am 26. Mai 2024 in Tel Aviv und Umgebung zu Beschuss mit Raketen aus dem Gaza-Streifen. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
+Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Zuletzt kam es am 26. Mai 2024 in Tel Aviv und Umgebung zu Beschuss mit Raketen aus dem Gaza-Streifen. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert. Zuletzt wurde Tel Aviv am 19. Juli 2024 mit einer Drohne aus Jemen angegriffen. Dabei kam es zu einer Explosion mit einem Toten und mehreren Verletzten.
 
-Im Westjordanland kam es zu massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Die derzeitigen Spannungen in der Region, insbesondere zwischen Iran und Israel, bergen die Gefahr einer erheblichen weiteren Eskalation. Die Sicherheitslage, insbesondere an Feiertagen, kann sich schnell und ohne Vorwarnung weiter verschärfen.
+Aufgrund der Ereignisse in Libanon und Iran kann nicht ausgeschlossen werden, dass beide Länder mit Vergeltungsschlägen gegen Israel reagieren werden.
+
+Im Westjordanland kommt es regelmäßig zu Militäreinsätzen mit in der Folge massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Angriffe israelischer Siedler auf ausländische Besucher und Aktivisten haben, insbesondere in der Nähe von Nablus und Hebron, deutlich zugenommen.
+
+Die derzeitigen Spannungen in der Region bergen die Gefahr einer erheblichen weiteren Eskalation. Die Sicherheitslage, insbesondere an Feiertagen, kann sich schnell und ohne Vorwarnung weiter verschärfen.
 
 **Beachten Sie die geltende Reisewarnung.**
 
@@ -23,8 +29,6 @@ Im Westjordanland kam es zu massiven gewalttätigen Ausschreitungen mit Todesopf
 * Achten Sie vorsorglich auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).
 * Prüfen Sie, ob Überlandfahrten im Westjordanland zwingend notwendig sind, und meiden Sie die Straßen 60 und 458.
 * Verfolgen Sie die Lageentwicklung aufmerksam.
-
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### Ausreisemöglichkeiten
 
@@ -43,11 +47,11 @@ Deutsche, die sich trotz Reisewarnung derzeit im Gazastreifen aufhalten, beachte
 
 ## Sicherheit – Reisewarnung
 
-Siehe *Aktuelles*.
+Siehe *Aktuelles*
 
 **Vor Reisen nach Israel und in die Palästinensischen Gebiete wird gewarnt.** 
 
-**Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen oder im Westjordanland aufhalten, wird empfohlen, auszureisen.** 
+**Deutsche Staatsangehörige, die sich derzeit im Gazastreifen oder im Westjordanland aufhalten, sollten – sofern möglich - ausreisen.**
 
 ### Terrorismus
 
@@ -75,7 +79,7 @@ Siehe *Aktuelles*.
 
 **Vor Reisen in den Gazastreifen wird gewarnt.**
 
-**Deutschen Staatsangehörigen, die sich derzeit im Gazastreifen aufhalten, wird empfohlen, auszureisen.**
+**Deutsche Staatsangehörige, die sich derzeit im Gazastreifen aufhalten, sollten – sofern möglich - ausreisen.**
 
 Die deutschen Auslandsvertretungen in Ramallah, Tel Aviv oder Kairo können im Gazastreifen praktisch keine konsularische Hilfe leisten.
 
@@ -86,7 +90,7 @@ Auf die erheblichen Gefahren eines Transits durch den Nordsinai wird hingewiesen
 ###### ***Palästinensische Gebiete: Westjordanland (Westbank)***
 
 **Vor Reisen in das Westjordanland wird gewarnt.**  
-**Deutschen Staatsangehörigen, die sich derzeit im Westjordanland aufhalten, wird empfohlen, auszureisen.**
+**Deutsche Staatsangehörige, die sich derzeit im Westjordanland aufhalten, sollten – sofern möglich - ausreisen.**
 
 Das Westjordanland (Westbank) ist seit 1967 militärisch besetzt und in Gebiete mit verschiedenen Verwaltungsarrangements eingeteilt. Es gibt zahlreiche Checkpoints und gesperrte Straßen, zwischen Israel und Jerusalem sowie dem Westjordanland, aber auch innerhalb des Westjordanlands.
 
@@ -205,8 +209,9 @@ Minderjährige unter 16 Jahren, die allein oder in Begleitung eines Elternteils 
 
 Deutsche Staatsangehörige, die nach dem 1. Januar 1928 geboren sind, benötigen für einen Aufenthalt von max. drei Monaten kein Visum.
 
-Ab dem 1. August 2024 wird für die Einreise nach Israel eine vorherige elektronische Einreisebestätigung durch das elektronische System „ETA-IL“ verpflichtend sein. Fluglinien werden voraussichtlich bereits vor dem Abflug darauf achten, ob diese Bestätigung vorliegt, um einer späteren Zurückweisung bei der Einreise vorzubeugen.  
-Deutsche Staatsangehörige können das System freiwillig bereits seit dem 1. Juni 2024 nutzen. Alle Informationen und den Zugang zum Onlineportal der israelischen Regierung finden Sie auf der [Website der Deutschen Botschaft Tel Aviv.](https://tel-aviv.diplo.de/il-de/service/-/2342900.)
+Ab dem 1. Januar 2025 wird für die Einreise nach Israel eine vorherige elektronische Einreisebestätigung durch das elektronische System „ETA-IL“ verpflichtend sein. Fluglinien werden voraussichtlich bereits vor dem Abflug darauf achten, ob diese Bestätigung vorliegt, um einer späteren Zurückweisung bei der Einreise vorzubeugen.
+
+Deutsche Staatsangehörige können das System freiwillig bereits seit dem 1. Juni 2024 nutzen. Die derzeit laufende Pilotphase wurde bis zum 31. Dezember 2024 verlängert. Alle Informationen und den Zugang zum Onlineportal der israelischen Regierung finden Sie auf der [Website der Deutschen Botschaft Tel Aviv.](https://tel-aviv.diplo.de/il-de/service/-/2342900.)
 
 Deutsche Staatsangehörige, die in der Vergangenheit aus Israel ausgewiesen wurden, sich illegal in Israel aufgehalten haben oder denen die Einreise nach Israel verweigert wurde, müssen vor ihrer Einreise bei einer israelischen Auslandsvertretung oder dem israelischen Innenministerium ihren Fall überprüfen lassen und ein Visum einholen.
 
@@ -252,9 +257,7 @@ Israelische Staatsangehörige und „Permanent Residents“ (Inhaber einer Perso
 
 Siehe *Aktuelles und Sicherheit.*
 
-Zum 20. Oktober 2022 sind neue Verfahrensregelungen zur Einreise in das Westjordanland in Kraft getreten, die für eine „Pilotphase“ von zwei Jahren gelten sollen. Danach ist vor der Einreise grundsätzlich eine vorherige Genehmigung bei der zuständigen Behörde (CoGAT) einzuholen, wenn eine Reise ausschließlich in das Westjordanland erfolgt.
-
-Dabei gelten unterschiedliche Voraussetzungen für Kurzzeitaufenthalte von bis zu drei Monaten, für längerfristige Aufenthalte (Studium, Volontariat, Lehre, Forschung sowie andere berufliche und geschäftliche Tätigkeiten) sowie für den Aufenthalt von Ehepartnern von Inhabern palästinensischer IDs. [Ausführliche Informationen](https://www.gov.il/en/departments/policies/judeaentry2022) sowie die jeweiligen Antragsformulare bietet die israelische Regierung. Anträge sowie Einzelfragen müssen direkt an CoGAT gerichtet werden.
+2022 sind neue Verfahrensregelungen zur Einreise in das Westjordanland in Kraft getreten, die für eine „Pilotphase“ von zwei Jahren gelten sollen. Danach ist vor der Einreise grundsätzlich eine vorherige Genehmigung bei der zuständigen Behörde (CoGAT) einzuholen, wenn eine Reise ausschließlich in das Westjordanland erfolgt.Dabei gelten unterschiedliche Voraussetzungen für Kurzzeitaufenthalte von bis zu drei Monaten, für längerfristige Aufenthalte (Studium, Volontariat, Lehre, Forschung sowie andere berufliche und geschäftliche Tätigkeiten) sowie für den Aufenthalt von Ehepartnern von Inhabern palästinensischer IDs. [Ausführliche Informationen](https://www.gov.il/en/departments/policies/judeaentry2022) sowie die jeweiligen Antragsformulare bietet die israelische Regierung. Anträge sowie Einzelfragen müssen direkt an CoGAT gerichtet werden.
 
 Die Verfahrensregelungen sehen vor, dass die Einreise in das Westjordanland „generell“ auf dem Landweg von Jordanien aus über die [Allenby-/Sheikh-Hussein-Brücke](https://www.iaa.gov.il/en/land-border-crossings/alenbi/) zu erfolgen hat, und nicht über den israelischen Flughafen Ben Gurion. Falsche Angaben sollten auf keinen Fall gemacht werden, da dies regelmäßig zu Einreiseverboten führt. Faktische Einschränkungen sind jedoch jederzeit auch kurzfristig möglich und sollten entsprechend eingeplant werden.
 
@@ -328,6 +331,12 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe a
 * Halten Sie unbedingt Fliegen von Ihrer Verpflegung fern.
 * Waschen Sie sich so oft wie möglich mit Seife die Hände, stets jedoch vor der Essenszubereitung und vor dem Essen.
 * Wenn möglich, desinfizieren Sie Ihre Hände mit Flüssigdesinfektionsmittel.
+
+### West-Nil-Fieber
+
+Beim West-Nil-Fieber handelt es sich um eine durch Zugvögel verbreitete, von tagaktiven Mücken auf den Menschen übertragene Viruserkrankung. Die Infektion verläuft überwiegend klinisch unauffällig, in seltenen Fällen können jedoch schwere neurologische Symptome auftreten. Eine Schutzimpfung oder spezifische Behandlung existiert nicht, siehe [West-Nil-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber")
+
+* Schützen Sie sich zur Vermeidung von [West-Nil-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber") im Rahmen der Expositionsprophylaxe insbesondere tagsüber konsequent vor Mückenstichen.
 
 ### Cholera
 
