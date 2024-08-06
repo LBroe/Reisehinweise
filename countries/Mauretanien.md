@@ -28,8 +28,6 @@ In Mauretanien bestehen wie in der gesamten Sahel-Region grundsätzlich Anschlag
 
 ### Innenpolitische Lage
 
-Präsident Ghazouani wurde für eine zweite Amtszeit wiedergewählt. Die Vereidigung für die zweite Amtszeit ist für den 1. August 2024 angesetzt.
-
 Bei spontanen Kundgebungen und Demonstrationen, insbesondere im Anschluss an das Freitagsgebet in den Moscheen der Städte, können gewaltsame Ausschreitungen nicht ausgeschlossen werden.
 
 In der Region Tiris Zemmour im Nordosten gibt es ein militärisches Sperrgebiet zwischen Cheggat im Nordosten, Ain Bentili im Nordwesten, Dhar Tichitt im Südwesten und Lemreyye im Südosten, das nicht betreten werden darf.

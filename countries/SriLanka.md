@@ -144,6 +144,8 @@ Touristenvisa werden entweder für eine Dauer von 30 Tagen und für zwei Einreis
 
 #### *Visum vor der Einreise*
 
+Das Online-Verfahren zur Beantragung von Visa zur Einreise nach Sri Lanka wurde kurzfristig eingestellt. Touristen können das erforderliche Einreisevisum derzeit nur am Flughafen erlangen, siehe [Deutsche Botschaft Colombo.](https://colombo.diplo.de/lk-de)  
+
 Das erforderliche Visum sollte dringend vor Einreise [online](https://www.srilankaevisa.lk/) beantragt werden. Bei der Beantragung im Online-Verfahren achten Sie bitte unbedingt darauf,
 
 * dass Sie ausschließlich die [offizielle Webseite](https://www.srilankaevisa.lk/) nutzen, um mögliche Vermittlungsgebühren zu vermeiden,
