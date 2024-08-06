@@ -2,17 +2,19 @@
 
 ## Aktuelles
 
-### *Gewaltsame Auseinandersetzungen*
+### *Aufruf zu landesweiten Demonstrationen*
 
-Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias. Diese finden meistens dienstags und donnerstags nach Aufrufen in den sozialen Medien und mit unterschiedlicher Teilnehmerzahl statt.
+In den sozialen Medien wird für Donnerstag, 8. August 2024, zu landesweiten Demonstrationen und zur Blockade des Parlaments und des Regierungsviertels in Nairobi aufgerufen.
+
+Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias.
 
 Reisende sollten folgende Vorsichtsmaßnahmen zur eigenen Sicherheit treffen:
 
-* Vermeiden Sie nicht notwendige Fahrten, wenn Sie von Demonstrationen in Ihrer Nähe oder auf Ihrer Fahrtstrecke erfahren. Bleiben Sie an einem sicheren Ort.
+* Vermeiden Sie nicht notwendige Fahrten. Bleiben Sie an einem sicheren Ort.
 * Sollten Sie zum Flughafen fahren müssen, erkundigen Sie sich bitte zuvor in den Medien zur Situation auf den Zufahrtstraßen. Seien Sie besonders achtsam und umsichtig.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich über die lokalen Medien.
-* Führen Sie stets funktionsfähige Kommunikationsmittel mit sich. Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
+* Führen Sie stets funktionsfähige Kommunikationsmittel mit sich. Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
 
 ### *Überschwemmungen*
 
@@ -349,10 +351,19 @@ In Kenia besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen](h
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY-Impfung ärztlich beraten.
 
-[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox (Affenpocken)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+
+Das Mpox-Virus wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durch Tierkontakt übertragene Erkrankungen
 
