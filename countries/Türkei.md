@@ -2,6 +2,9 @@
 
 ## Aktuelles
 
+**Von Reisen in das Grenzgebiet der Türkei zu Syrien und Irak  
+wird dringend abgeraten.**
+
 Aufgrund des andauernden Konflikts in Israel und den Palästinensischen Gebieten kann es in der Türkei zu spontanen, pro-palästinensischen Protestkundgebungen und gewaltsamen Ausschreitungen kommen.
 
 * Bleiben Sie wachsam und seien Sie besonders vorsichtig.
@@ -85,7 +88,7 @@ Deutsche Türkei-Urlauber wurden in der Vergangenheit nach ihrer Rückkehr in da
 
 ## Natur und Klima
 
-Am 6. Februar 2023 ereigneten sich in der Südosttürkei zwei schwere Erdbeben. Besonders betroffen sind die Provinzen Adana, Adiyaman, Diyarbakir, Elazığ, Gaziantep, Hatay, Kahramanmaraş, Kilis, Malatya, Osmaniye und Şanliurfa. Es gab zehntausende Tote und Verletzte. Viele Gebäude wurden zerstört oder schwer beschädigt.
+Im Februar 2023 ereigneten sich in der Südosttürkei zwei schwere Erdbeben. Besonders betroffen sind die Provinzen Adana, Adiyaman, Diyarbakir, Elazığ, Gaziantep, Hatay, Kahramanmaraş, Kilis, Malatya, Osmaniye und Şanliurfa. Es gab zehntausende Tote und Verletzte. Viele Gebäude wurden zerstört oder schwer beschädigt.
 
 Ein großer Teil der Türkei liegt in einer seismisch sehr aktiven Zone, sodass es zu vielen kleineren, aber auch schwereren Erdbeben kommt. Ggf. ist mit Erdrutschen, erheblichen Verkehrsbeeinträchtigungen und lange andauernden Nachbeben zu rechnen.
 
@@ -241,7 +244,7 @@ Personen, die sich bereits in der Türkei aufhalten und einen längeren Aufentha
 
 ### Doppelstaater
 
-Türkische Staatsangehörige sollten grundsätzlich mit einem türkischen Pass reisen. Eine Einreise ist ggf. auch mit einem deutschen Pass möglich, die Ausreise sollte dann mit diesem Pass erfolgen.
+Türkische Staatsangehörige sollten grundsätzlich mit einem türkischen Pass reisen. Eine Einreise ist ggf. auch mit einem deutschen Pass möglich, die Ausreise sollte dann mit diesem Pass erfolgen. Deutsch-türkische Doppelstaater werden entsprechend der internationalen Praxis in der Türkei vorrangig als türkische Staatsangehörige behandelt und unterliegen uneingeschränkt den türkischen Gesetzen.
 
 ### Minderjährige
 
@@ -355,7 +358,7 @@ Es ist sehr wichtig, sich vor einer Auslandsbehandlung gründlich zu informieren
 * Klären Sie ggf. vor Behandlung die Höhe der zu erwartenden Kosten.
 * Wenn Sie chronisch erkrankt sind und vor Ihrer Abreise bereits medizinischen Behandlungsbedarf absehen können sowie die finanzielle Vorleistung vermeiden wollen, können Sie sich von Ihrer Krankenversicherung das Formular T/A 12 ausstellen lassen, wodurch die Behandlungskosten im Regelfall gedeckt sind.
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
