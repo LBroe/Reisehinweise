@@ -1,15 +1,5 @@
 # Burundi: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Überschwemmungen und Erdrutschgefahr*
-
-Außergewöhnlich heftige Regenfälle, vor allem in der Nähe des Tanganjikasees, haben bereits Überschwemmungen in Burundi verursacht und lassen Flüsse über die Ufer treten. In den Gebirgsregionen Burundis besteht Hochwasser- und Erdrutschgefahr. Brücken und Straßen können unpassierbar werden.
-
-* Erkundigen Sie sich vor Reisen in die Nähe des Tanganjikasees und in die Gebirgsregionen Burundis über die aktuelle Situation und klären Sie mit Ihrem Reiseveranstalter, ob die eigene Reiseroute/der Aufenthaltsort von den Überschwemmungen betroffen ist.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Informieren Sie sich ggf. bei internationalen Wetterdiensten über die aktuellen Wetterverhältnisse und Gefahrensituation.
-
 ## Sicherheit
 
 **Von Reisen in das burundisch-kongolesisch –ruandische Grenzgebiet -**westlich der Route Nationale (RN) 5 sowie nördlich und östlich der RN 10 (Strecke von Rugombo bis Kayanza, besonders das Kibira-Waldgebiet) - **wird abgeraten.** 

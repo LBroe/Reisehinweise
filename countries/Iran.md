@@ -8,7 +8,11 @@
 
 ### Sicherheitslage in Iran
 
-Die Lage in der gesamten Region ist volatil und bleibt angespannt.
+Die Lage in der gesamten Region ist volatil und sehr angespannt.
+
+Am 31. Juli 2024 wurde der Politbüro-Chef der Hamas, Ismail Haniyeh, in Teheran getötet. Die Islamische Republik Iran hat Vergeltungsmaßnahmen gegen Israel angekündigt. In der Folge kann es auch zu Auswirkungen auf Flugverbindungen von und nach Iran kommen. Längere Schließungen des iranischen Luftraums, der Flughäfen sowie der Landgrenzen können nicht ausgeschlossen werden.
+
+Die Lufthansa-Gruppe hat ihre Flüge von und nach Teheran zunächst bis auf weiteres eingestellt. Andere Fluglinien operieren teilweise nur noch tagsüber und bieten nur noch vereinzelt Tickets an.
 
 Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentrums Hamburg e.V. sowie dessen bundesweiter Teilorganisationen bekannt gegeben. Eine Verschärfung der Sicherheitslage für deutsche Staatsangehörige und Doppelstaater ist in der Folge insbesondere hinsichtlich willkürlicher Festnahmen nicht ausgeschlossen.
 
@@ -62,7 +66,7 @@ Doppelstaater mit auch iranischer Staatsangehörigkeit sind in besonderem Maße 
 
 ### Regionale Spannungen
 
-Die Sicherheitslage in der gesamten Region ist insbesondere seit dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 volatil und bleibt angespannt. Am 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Eine Israel zugeschriebene Reaktion nahe Isfahan fand am 19. April 2024 statt. Weitere Vorfälle dieser Art sowie eine weitere Verschärfung der Sicherheitslage in der gesamten Region sind nicht ausgeschlossen.
+Die Sicherheitslage in der gesamten Region ist insbesondere seit dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 volatil und bleibt angespannt. Am 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Eine Israel zugeschriebene Reaktion nahe Isfahan fand am 19. April 2024 statt. Eine weitere Verschärfung der Sicherheitslage in der gesamten Region ist nicht ausgeschlossen.
 
 ### Terrorismus
 
