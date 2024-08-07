@@ -137,17 +137,11 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
-Ein- und Ausreiseformalitäten sind von den Reisenden vorab und ausschließlich [online](https://migration.gov.bi/Form_Entry_Exit) zu erledigen. Das online erzeugte PDF-Dokument ist der Grenzpolizei auf Verlangen vorzuzeigen. Es sind Fälle bekannt geworden, in denen der Versand des PDF-Dokuments nicht erfolgte; mit einem Gmail-Account z.B. funktioniert es häufig.
-
 ### Visum
 
-Siehe auch *Reisedokumente - Anmerkungen/Mindestrestgültigkeit*.
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das ausschließlich als Visa-on-arrival bei Ankunft am Flughafen in Bujumbura ausgestellt wird (Kosten 90 USD pro beantragtem Monat). Reisende haben entweder die Möglichkeit, den Visumantrag bereits vorab online auf der [Webseite der burundischen Migrationsbehörde](https://migration.gov.bi/Apply/step1/2) auszufüllen und die Gebühr per Kreditkarte zu begleichen oder die Visumsgebühr bei Ankunft am Flughafen bar in USD zu bezahlen.
 
-Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vor der Einreise bei der [Botschaft der Republik Burundi in Berlin](https://ambaburundi-botschaft.de) beantragt werden kann.  
-Mit einer Bearbeitungsdauer von mindestens drei Wochen ist zu rechnen.
-
-Die Ausstellung eines Visums bei Einreise am Flughafen Bujumbura ist ebenfalls möglich (Kosten 90 USD, Zahlung in bar).  
-Die Überschreitung der zulässigen Aufenthaltsdauer eines Visums kann mit einer Geldbuße belegt werden und zu Verzögerungen bei der Ausreise führen.
+Bei Nutzung des Onlineformulars erhalten Reisende nach Absenden des Antrages eine automatisierte E-Mail, in der sie zur Vorsprache bei der Migrationsbehörde am nächsten Tag aufgefordert werden. Wenig später wird eine weitere automatisierte E-Mail versandt, dass der Antrag abgelehnt wurde. Hierbei handelt es sich um einen technischen Fehler, der keinen Einfluss auf die Einreise und Visumsausstellung am Flughafen hat. Die Daten der Reisenden sind im System der burundischen Behörden gespeichert und können bei Ausstellung des Visums am Flughafen abgerufen werden. Die Überschreitung der zulässigen Aufenthaltsdauer eines Visums kann mit einer Geldbuße belegt werden und zu Verzögerungen bei der Ausreise führen.
 
 ### Minderjährige
 

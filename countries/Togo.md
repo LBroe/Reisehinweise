@@ -4,13 +4,13 @@
 
 **Vor Reisen** 
 
-* **in die im Grenzgebiet Togo – Benin – Burkina Faso liegende Präfektur Kpendjal (Region Savanes) sowie der Weiterfahrt nach Burkina Faso**
+* **in die im Grenzgebiet Togo – Benin – Burkina Faso liegenden Präfekturen Kpendjal und Kpendjal Ouest (Region Savanes) sowie der Weiterfahrt nach Burkina Faso**
 
 **wird gewarnt.** 
 
 **Von Reisen** 
 
-* **in alle anderen Präfekturen der Region Savanes (Cinkassé, Tône, Tandjoaré und Oti)**
+* **in alle anderen Präfekturen der Region Savanes (Cinkassé, Tône, Tandjoaré, Oti und Oti Sud)**
 
 **wird dringend abgeraten**, siehe auch [Reise- und Sicherheitshinweise - Teilreisewarnung - Burkina Faso](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/burkinafaso-node/burkinafasosicherheit/212336).
 
