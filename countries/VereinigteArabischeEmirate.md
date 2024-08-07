@@ -24,16 +24,22 @@ Die VAE zählen zu den sichersten Ländern der Region mit einer äußerst niedri
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen oder im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie als alleinreisende Frau oder Jugendliche bei der Benutzung von Taxis oder bei Spaziergängen nach Einbruch der Dunkelheit besondere Vorsicht walten.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
 Es herrscht ein meist trockenes, heißes Wüstenklima, in Küstennähe mit hoher Luftfeuchtigkeit im Sommer.
 
-In ausgetrockneten Flusstälern und -betten („wadi“) ist insbesondere in den Wintermonaten vereinzelt mit Sturzfluten zu rechnen.
+Insbesondere in den Wintermonaten kann es zu starken Regenfällen und Überschwemmungen kommen, die in der Folge zu Schäden in der Infrastruktur und Beeinträchtigungen im Reiseverkehr führen können.
+
+In ausgetrockneten Flusstälern und -betten („Wadi“) ist insbesondere in den Wintermonaten vereinzelt mit Sturzfluten zu rechnen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Achten Sie auf ausreichenden Sonnenschutz und machen Sie sich mit Verhaltenshinweisen im Wüstenklima vertraut.
+* Verfolgen Sie Wetterberichte und Warnungen, z. B. der [NCEMA](https://www.ncema.gov.ae/).
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794) im Fall einer Sturmwarnung.
+* Verlassen Sie Wadis bei Unwetterwarnungen schnellstmöglich.
+* Lassen Sie Ihre Kinder an Stränden nicht unbeaufsichtigt spielen.
 
 ## Reiseinfos
 
@@ -49,13 +55,13 @@ Bei Einreise aus Saudi-Arabien über den Grenzübergang Al Ghuwaifat Port Statio
 
 ### Führerschein
 
-Für die Mietwagenanmietung bei einem touristischen oder sonstigen Kurzaufenthalt ist der EU-Führerschein grundsätzlich anerkannt. Von Personen mit langfristiger emiratischer Aufenthaltserlaubnis („residency visa“) wird ein umgeschriebener emiratischer Führerschein verlangt. In den letzten Jahren sind wenige Fälle bekannt geworden, in denen von Personen mit deutschem EU-Führerschein, aber ohne deutsche Staatsangehörigkeit, ein Internationaler Führerschein verlangt wurde. Im Zweifel empfiehlt sich eine vorherige schriftliche Anfrage an den Mietwagenanbieter. Die Mietbedingungen sollten genauestens geprüft werden. Meist muss bei Anmietung eine echte Kreditkarte (keine Debit- oder Bankkarte) vorgelegt werden.
+Für die Mietwagenanmietung bei einem touristischen oder sonstigen Kurzaufenthalt ist der EU-Führerschein grundsätzlich anerkannt. Von Personen mit langfristiger emiratischer Aufenthaltserlaubnis („residency visa“) wird ein umgeschriebener emiratischer Führerschein verlangt. In den letzten Jahren sind wenige Fälle bekannt geworden, in denen von Personen mit deutschem EU-Führerschein, aber ohne deutsche Staatsangehörigkeit, ein internationaler Führerschein verlangt wurde. Im Zweifel empfiehlt sich eine vorherige schriftliche Anfrage an den Mietwagenanbieter. Die Mietbedingungen sollten genauestens geprüft werden. Meist muss bei Anmietung eine echte Kreditkarte (keine Debitkarte) vorgelegt werden.
 
 ### Besondere Verhaltenshinweise
 
 Die Gebräuche und Gesetze sind durch den Islam und dessen Glaubensinhalte und Wertvorstellungen geprägt.
 
-Frauen unterliegen keinen besonderen Beschränkungen oder Verboten. Ihnen ist das Führen eines Kraftfahrzeuges ebenso erlaubt wie die Bewegung in der Öffentlichkeit, auch ohne männliche Begleitung. Hinsichtlich der Kleidung ist jedoch Zurückhaltung geboten. Schulterfreie Tops und sehr kurze Röcke oder Hosen entsprechen nicht den lokalen Wertvorstellungen und können zu unerwünschter und unangenehmer Aufmerksamkeit von Dritten führen.
+Frauen unterliegen keinen besonderen Beschränkungen oder Verboten. Ihnen ist das Führen eines Kraftfahrzeuges ebenso erlaubt wie die Bewegung in der Öffentlichkeit, auch ohne männliche Begleitung. Hinsichtlich der Kleidung ist jedoch Zurückhaltung geboten. Schulterfreie Tops und sehr kurze Röcke oder Hosen entsprechen nicht den lokalen Wertvorstellungen und können zu unerwünschter und unangenehmer Aufmerksamkeit führen.
 
 ### Ramadan
 
@@ -63,7 +69,7 @@ Während des Fastenmonats Ramadan ist mit Einschränkungen im Alltag und mit erh
 
 ### LGBTIQ
 
-Das Strafrecht ist geprägt durch islamische Moralvorstellungen. Homosexuelle Handlungen sind verboten. Sie werden bei Anzeige auch strafrechtlich geahndet. Transsexuelle Personen sollten insbesondere das Verbot des „Cross-dressing“ beachten. Zur Einreise von Personen, deren Geschlecht im Pass nicht mit „M“ oder „F“ eingetragen ist, s. *„Einreise und Zoll“ – „Reisedokumente“*.
+Das Strafrecht ist geprägt durch islamische Moralvorstellungen. Homosexuelle Handlungen sind verboten. Sie werden bei Anzeige auch strafrechtlich geahndet. Transsexuelle Personen sollten insbesondere das Verbot des „Cross-dressing“ beachten. Zur Einreise von Personen, deren Geschlecht im Pass nicht mit „M“ oder „F“ eingetragen ist, siehe *„Einreise und Zoll“ – „Reisedokumente“*.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -73,11 +79,11 @@ Es gibt in den VAE eine Vielzahl von [Rechtsanwaltskanzleien](https://uae.diplo.
 
 Offene oder streitige Forderungen aus früheren Geschäftsbeziehungen in den VAE können auch nach langer Zeit bei Einreise oder im Transit zur vorläufigen Festnahme zwecks Begleichung von Altschulden führen.
 
-Rechtliche Auseinandersetzungen und offene Forderungen können zur Verhängung einer „Ausreisesperre“ („travel ban“) führen, sodass die betroffene Person für mehrere Monate nicht aus den VAE ausreisen kann. Ausreisesperren können zudem nach dem Zeigen beleidigender Gesten oder verbalen Auseinandersetzungen verhängt werden. Auch die Aufgabe einer Anzeige bei der Polizei kann für die Person, die die Anzeige aufgibt, zur Ausreisesperre führen. Diese wird regelmäßig erst dann aufgehoben, wenn der Sachverhalt aus Sicht der emiratischen Behörden geklärt ist, oder die Anzeige zurückgezogen wurde.
+Rechtliche Auseinandersetzungen und offene Forderungen können zur Verhängung einer Ausreisesperre („travel ban“) führen, sodass die betroffene Person für mehrere Monate nicht aus den VAE ausreisen kann. Ausreisesperren können z. B. auch nach dem Zeigen beleidigender Gesten, verbaler Auseinandersetzungen, kritischer Online-/Restaurant- oder anderer Bewertungen und bei Kritik an den VAE selbst verhängt werden. Die Aufgabe einer Anzeige bei der Polizei kann auch für die Person, die die Anzeige aufgibt, zur Ausreisesperre führen. Diese wird regelmäßig erst dann aufgehoben, wenn der Sachverhalt aus Sicht der emiratischen Behörden geklärt ist oder die Anzeige zurückgezogen wurde.
 
 Auf die flächendeckende Videoüberwachung im öffentlichen Raum wird besonders hingewiesen.
 
-Die Ausreise ist während der Neuausstellung der emiratischen Aufenthaltserlaubnis („residency visa“) nicht möglich. Wenn bei der Ausreise ein Reiseausweis zur Rückkehr als Passersatz verwendet wird, wird das „residency visa“ von den emiratischen Behörden ungültig gemacht.
+Weitere Hinweise zu Problemen bei der Ausreise aus den VAE (hier: unter Nutzung bestimmter Reisedokumente), siehe *Einreise und Zoll – Reisedokumente.*
 
 Das Fotografieren und Filmen (auch mit Mobiltelefon oder Smartphone) zumindest von folgenden Einrichtungen ist streng verboten: militärische Anlagen, Häfen, Flughäfen, Herrscherpaläste, öffentliche Gebäude, Botschaftsgebäude, Industrieanlagen, Erdöl-/Erdgasanlagen und Brücken. Die nicht immer klar erkennbaren Fotografier- und Filmverbote werden von den Behörden konsequent geahndet. Bei Zuwiderhandlung drohen Beschlagnahme der Aufnahmegeräte, Geld- und Freiheitsstrafen, Ausreisesperren (s.o.) und/oder Ausweisung.
 
@@ -136,13 +142,19 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 
 * Beantragen Sie rechtzeitig vor Reiseantritt (ggf. im Expressverfahren) einen regulären biometrischen Reisepass.
 
-Seit Januar 2024 werden keine [neuen Kinderreisepässe](https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise) mehr ausgestellt, bereits vorhandene behalten ihre angegebene Gültigkeit. Nach Einreise in die VAE mit Kinderreisepass und z. B. Verlust desselben kann in den VAE innerhalb weniger Tage nur ein Reiseausweis als Passersatz oder ein vorläufiger Reisepass ausgestellt werden. Beide ermöglichen die Ausreise aus den VAE, nicht aber die Wiedereinreise in die VAE (z. B. im Rahmen einer Kreuzfahrt durch mehrere Länder).
+Seit Januar 2024 werden keine [neuen Kinderreisepässe](https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise) mehr ausgestellt, bereits vorhandene behalten ihre angegebene Gültigkeit. Nach Einreise in die VAE mit Kinderreisepass und z. B. Verlust desselben kann in den VAE innerhalb weniger Tage nur ein Reiseausweis als Passersatz oder ein vorläufiger Reisepass ausgestellt werden. Beide ermöglichen Personen mit vorübergehendem Aufenthalt die Ausreise aus den VAE, nicht aber die Wiedereinreise in die VAE (z. B. im Rahmen einer Kreuzfahrt durch mehrere Länder).
 
 Es wird nur die Einreise von Personen gestattet, deren Geschlecht im Pass mit „M“ (männlich) oder „F“ (weiblich) eingetragen ist. Auch kann die Einreise von Personen, deren Geburtsdatum im Pass z. B. mit „XX.XX.“ statt Ziffern für Tag und Monat angegeben ist, verweigert werden.
 
 Betroffene Passagiere werden dann wieder an ihren Abflugort zurückgeschickt.
 
 Konsularische Hilfe in Passangelegenheiten durch die [deutschen Vertretungen in den VAE](https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vae/202318 "Deutsche Vertretungen in den Vereinigten Arabischen Emiraten") ist erst nach der Einreise möglich, d.h. nicht innerhalb des internationalen Transitbereichs.
+
+### Besonderheiten für Deutsche mit Daueraufenthalt in den VAE („residents“)
+
+Die Ausreise aus den VAE mit Reiseausweisen als Passersatz oder vorläufigen Reisepässen ist für Inhaber emiratischer Aufenthaltstitel („residency visas“ und „Emirates IDs“) nur nach vorheriger Aufhebung der emiratischen Aufenthaltstitel durch die zuständige Behörde („Immigration“) möglich. Dies kann nicht spontan am Flughafen erfolgen; die Bearbeitungsdauer beträgt mindestens 24 Stunden. Um dies zu vermeiden, müssen Inhaber emiratischer Aufenthaltstitel mit biometrischen Reisepässen ausreisen.
+
+Auch für Inhaber biometrischer Reisepässe gilt indes, dass ihre Ausreise während der Erneuerung ihrer emiratischen Aufenthaltserlaubnis mit der Einwanderungsbehörde abgesprochen sein muss; andernfalls riskieren sie den Verlust ihres dauerhaften Aufenthaltsstatus.
 
 ### Flughafentransit
 
@@ -171,7 +183,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt.
 
 ### Einfuhrbestimmungen
 
-Die Einfuhr von Landes- oder Fremdwährung ist bis zu einem Gegenwert von 100.000 AED uneingeschränkt möglich. Die Ausfuhr ist nicht beschränkt. Reisende, die das 18. Lebensjahr vollendet haben, können bis zu vier Liter Alkoholika oder zwei Kartons Bier (à 24 Flaschen/Dosen à maximal 355 ml) sowie bis zu 400 Zigaretten (Wert maximal 2.000 AED) oder andere Tabakwaren im Wert von maximal 3.000 AED einführen.
+Die Ein- und Ausfuhr von Landes- oder Fremdwährung ist bis zu einem Gegenwert von 100.000 AED uneingeschränkt möglich. Reisende, die das 18. Lebensjahr vollendet haben, können bis zu vier Liter Alkoholika oder zwei Kartons Bier (à 24 Flaschen/Dosen à maximal 355 ml) sowie bis zu 400 Zigaretten (Wert maximal 2.000 AED) oder andere Tabakwaren im Wert von maximal 3.000 AED einführen.
 
 Die Einfuhr von Waffen, Drogen, Falschgeld und pornographischen Artikeln wird streng bestraft.  
 Bereits freizügige Titelseiten von Journalen können als Pornografie ausgelegt werden.  
@@ -181,9 +193,9 @@ Mitgeführte Datenträger wie Smartphones, Tablets oder USB-Sticks werden ggf. �
 
 Die Einfuhr von einigen gängigen Medikamenten bzw. deren Inhaltsstoffen ist ohne ärztliche Verschreibung verboten. CBD-Öl und Nahrungsmittel mit Hanfgeschmack werden z.B. als Drogen behandelt. Zum Vorgehen emiratischer Behörden bei Einstufung bestimmter Medikamente als Drogen siehe auch unter *Reiseinfos – Rechtliche Besonderheiten*.
 
-Ausführliche Informationen bietet [das VAE Gesundheitsministerium](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use). Für Medikamente, die Betäubungsmittel und psychotropische Wirkstoffe enthalten oder aus anderen Gründen besonderer Kontrolle durch die VAE-Behörden unterliegen (vgl. dortige [Liste](https://mohap.gov.ae/assets/download/3f603c11/Annex%20to%20Travellers%20Guidelines%20-%20PDF%20331KB.pdf.aspx)), kann dort online eine Einfuhrerlaubnis beantragt werden. Dort sind auch Richtlinien für die Einfuhr von Medikamenten eingestellt. In Zweifelsfällen oder bei Problemen mit dem Online-Antrag wird empfohlen, sich vor einer Reise in die Emirate bei den [Auslandsvertretungen der VAE in Deutschland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenvereinigtearabischeemirate/202322) zu erkundigen.
+Ausführliche Informationen bietet [das emiratische Gesundheitsministerium](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use). Für Medikamente, die Betäubungsmittel und psychotropische Wirkstoffe enthalten oder aus anderen Gründen besonderer Kontrolle durch die VAE-Behörden unterliegen (vgl. dortige [Liste](https://mohap.gov.ae/assets/download/3f603c11/Annex%20to%20Travellers%20Guidelines%20-%20PDF%20331KB.pdf.aspx)), kann dort online eine Einfuhrerlaubnis beantragt werden. Dort sind auch Richtlinien für die Einfuhr von Medikamenten eingestellt. In Zweifelsfällen oder bei Problemen mit dem Online-Antrag wird empfohlen, sich vor einer Reise in die Emirate bei den [Auslandsvertretungen der VAE in Deutschland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenvereinigtearabischeemirate/202322) zu erkundigen.
 
-Informationen zu Einfuhrbestimmungen und Listen von erlaubten und unerlaubten Gütern sind beim [Dubai Customs Services](https://www.dubaicustoms.gov.ae/en/Pages/default.aspx) abrufbar.
+Informationen zu Einfuhrbestimmungen und Listen erlaubter und unerlaubter Güter sind beim [Dubai Customs Services](https://www.dubaicustoms.gov.ae/en/Pages/default.aspx) abrufbar.
 
 ### Heimtiere
 
