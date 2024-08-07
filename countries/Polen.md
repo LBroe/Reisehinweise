@@ -10,6 +10,8 @@ Seit 2023 dürfen Kfz mit Zulassung in der Russischen Föderation grundsätzlich
 
 Die Grenzstellen zwischen Polen und der Ukraine sind in beide Richtungen offen. Seit dem 24. Februar 2022 sind sie kriegsbedingt durch einen Zustrom von Flüchtlingen aus der Ukraine in Richtung Polen stärker frequentiert. Zum Teil sind lange Staus möglich. Mit Einschränkungen bei der Ein-und Ausreise muss weiterhin gerechnet werden.
 
+Am Grenzübergang in Dorohusk sind voraussichtlich bis Mitte November 2024 erhebliche Behinderungen des Fahrzeugverkehrs und längere Wartezeiten beim Grenzübertritt aufgrund von Sanierungsarbeiten zu erwarten.
+
 Offizielle Informationen bieten die [polnischen Behörden](https://www.gov.pl/web/premier/bezpieczenstwo-polski-na-pierwszym-miejscu--stan-wyjatkowy-przy-granicy-z-bialorusia).
 
 * Beachten Sie bitte die [Informationen zum Grenzverkehr](https://granica.gov.pl/) und die Begrenzung der max. oder min. Gewichtsangabe von Fahrzeugen für bestimmte Grenzübergänge.
@@ -62,7 +64,7 @@ Wanderungen in Mittelgebirgsregionen können im Winter bei ungünstigen Wetterve
 
 ## Reiseinfos
 
-Siehe *Aktuelles*  
+Siehe *Aktuelles*
 
 ### Grenzkontrollen
 
