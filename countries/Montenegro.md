@@ -18,7 +18,7 @@ Die Lage im gesamten Land ist insgesamt ruhig. Es kann jedoch vereinzelt zu Prot
 
 Kleinkriminalität wie Taschendiebstähle, Autoaufbrüche und -diebstahl kommen an von Touristen frequentierten Orten vor.
 
-Fälle von Gewaltkriminalität werden in der Regel dem organisierten Verbrechen zugerechnet, Touristen und Reisende sind nicht Ziel dieser Straftaten.
+Fälle von Gewaltkriminalität werden in der Regel dem organisierten Verbrechen zugerechnet; Touristen und Reisende sind nicht Ziel dieser Straftaten.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf und speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -41,12 +41,12 @@ Beeinträchtigung der Infrastruktur auch in Tourismusgebieten sind dadurch mögl
 
 ### Infrastruktur/Verkehr
 
-Die Straßen sind teilweise in schlechtem Zustand, ebenso kommt es aufgrund von fehlenden Straßenschildern und der undisziplinierten Fahrweise mancher Verkehrsteilnehmer zu häufigen Unfällen.
+Die Straßen sind teilweise in schlechtem Zustand, ebenso kommt es aufgrund fehlender Straßenschilder und der undisziplinierten Fahrweise mancher Verkehrsteilnehmender häufig zu Unfällen.
 
 Tageszeitunabhängig gilt in Montenegro eine Lichtpflicht, sodass ganzjährig mit Abblendlicht gefahren werden muss. Bei winterlichen Verhältnissen besteht Winterreifenpflicht.  
 Die Promillegrenze beträgt 0,3 Promille.
 
-Die "grüne Versicherungskarte" für Montenegro nicht erforderlich. Über Einzelheiten informiert das [Nationale Büro der Versicherer Montenegros.](https://www.nbocg.me/en/announcement/)
+Die „grüne Versicherungskarte“ ist für Montenegro nicht erforderlich. Über Einzelheiten informiert das [Nationale Büro der Versicherer Montenegros.](https://www.nbocg.me/en/announcement/)
 
 Die Mitnahme von Anhaltern kann insbesondere beim Grenzübertritt den Straftatbestand der Schleusung erfüllen.
 
@@ -57,20 +57,27 @@ Die Mitnahme von Anhaltern kann insbesondere beim Grenzübertritt den Straftatbe
 * Lassen Sie beim Befahren von Bergstrecken besondere Vorsicht walten.
 * Leisten Sie Bußgeldzahlungen bei der Verkehrspolizei nur gegen Ausstellung eines Belegs.
 
+### Mietfahrzeuge
+
+Reisende sollten unbedingt darauf achten, dass im Mietwagen-Übergabeprotokoll alle Schäden, wie zum Beispiel Dellen oder Kratzer, vollständig vermerkt werden. Grenzüberfahrten sollten im Vorfeld mit der Autovermietung abgesprochen werden.
+
+* Achten Sie unbedingt darauf, dass im Mietwagen-Übergabeprotokoll alle Schäden, wie zum Beispiel Dellen oder Kratzer, vollständig vermerkt werden.
+
 ### Führerschein
 
 Der deutsche Führerschein wird anerkannt.
 
 ### Wanderungen/Trekking-Touren
 
-Für die Grenzübertritte via „grüne Grenzen“ in den Bergen nach Montenegro bzw. in die Nachbarländer ist eine Genehmigung erforderlich ("Border Crossing Permits"). Bei Nichtbeachtung ist mit empfindlichen Geldstrafen zu rechnen. Verbindlich beraten hierzu die zuständigen montenegrinischen Stellen. Beachten Sie grundlegenden Verhaltensweisen bei Wanderungen:
+Für Grenzübertritte über die „grüne Grenze“ in den Bergen nach Montenegro bzw. in die Nachbarländer ist eine Genehmigung erforderlich („Border Crossing Permit“). Bei Nichtbeachtung ist mit empfindlichen Geldstrafen zu rechnen. Verbindlich beraten hierzu die zuständigen montenegrinischen Stellen. Grundlegende Verhaltensweisen sollten bei Wanderungen beachtet werden:
 
 * Weichen Sie nicht von markierten Pfaden ab. Berücksichtigen Sie in Ihrer Planung, dass die Wegeführung zum Teil unzureichend ausgeschildert ist und den Wandernden mitunter sehr gute Kondition abverlangt.
+* Seien Sie auf unbekannten Pfaden nur in Begleitung eines lokalen Bergführers unterwegs.
 * Führen Sie insbesondere bei nicht von Veranstaltern organisierten Wanderungen ein ausreichend geladenes Mobiltelefon mit GPS-Funktion oder ein GPS-Gerät mit.
-* Hinterlegen Sie vor einer Wanderung Ihre Kontaktdaten sowie Informationen über Weg und Ziel in Ihrer Unterkunft und halten Sie ausreichende Wasservorräte vor.
+* Hinterlegen Sie vor einer Wanderung Ihre Kontaktdaten sowie Informationen über Weg und Ziel in Ihrer Unterkunft und nehmen Sie ausreichende Wasservorräte mit.
 * Planen Sie genügend Zeit ein, sodass die Ankunft/Rückkehr vor Einbruch der Dunkelheit erfolgt.
 * Beachten Sie Warnschilder. Betreten Sie keine umzäunten Gelände. Leisten Sie Folge, falls Sie zum Verlassen eines Weges oder eines Geländes aufgefordert werden.
-* Wählen Sie im Unglücksfall die nationale Notrufnummer 112.
+* Wählen Sie im Notfall die nationale Notrufnummer 112. Die Nutzung einer lokalen SIM-Karte kann die Chance erheblich erhöhen, im Notfall von den lokalen Rettungsbehörden geortet werden zu können.
 
 ### LGBTIQ
 
@@ -92,7 +99,7 @@ Vor Einfuhr/Einreise mit einer Drohne sind die Zustimmung der montenegrinischen 
 
 ### Geld/Kreditkarten
 
-In Montenegro ist der EUR offizielle Währung. Gängige Kreditkarten werden landesweit akzeptiert. Geldautomaten sind weit verbreitet. Die Akzeptanz von V-Pay und Maestro-Bankkarten ist begrenzt. Diese können lediglich zum Abheben von Bargeld an wenigen Bankautomaten, nicht aber für allgemeine Zahlungsvorgänge genutzt werden.
+Die offizielle Währung in Montenegro ist der EUR. Gängige Kreditkarten werden landesweit akzeptiert. Geldautomaten sind weit verbreitet. Die Akzeptanz von V-Pay und Debitkarten (Girocard, mit Maestro) ist begrenzt. Diese können lediglich zum Abheben von Bargeld an wenigen Bankautomaten, nicht aber für allgemeine Zahlungsvorgänge genutzt werden.
 
 ## Einreise und Zoll
 
@@ -116,11 +123,11 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 Alle Dokumente sollten bei der Einreise noch drei Monate lang gültig sein.
 
 Die Einreise sollte keinesfalls mit gestohlen oder verloren gemeldeten Dokumenten erfolgen.  
-Auch wenn die Behörden in Deutschland über das Wiederauffinden von Reisedokumenten unterrichtet worden sind, kann es vorkommen, dass das Dokument im System der Grenzkontrollstelle noch zur Fahndung ausgeschrieben ist.
+Auch wenn die Behörden in Deutschland über das Wiederauffinden von Reisedokumenten unterrichtet worden sind, kann es vorkommen, dass das betreffende Dokument im System der Grenzkontrollstelle noch zur Fahndung ausgeschrieben ist.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise von bis zu 90 Tagen kein Visum.  
+Deutsche Staatsangehörige benötigen für die Einreise bis zu 90 Tagen kein Visum.  
 Bei einem Aufenthalt von mehr als 90 Tagen muss im Land eine Aufenthaltsgenehmigung beantragt werden.
 
 ### Doppelstaater
@@ -139,13 +146,13 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekann
 
 ### Einfuhrbestimmungen
 
-Die Ein- und Ausfuhr von Devisen ist bis zu einem Betrag mit dem Gegenwert von 10.000 EUR erlaubt. Die Ein- und Ausfuhr von Bargeld ab einer Höhe von 10.000 EUR ist meldepflichtig.
+Die Ein- und Ausfuhr von Devisen ist bis zu einem Betrag im Gegenwert von 10.000 EUR erlaubt. Die Ein- und Ausfuhr von Bargeld ab einer Höhe von 10.000 EUR ist muss deklariert werden.
 
-Reisegepäck und Waren des persönlichen Bedarfs können nach Montenegro zollfrei eingeführt werden, müssen jedoch wieder ausgeführt werden. Bei bestimmten Gegenständen (Kameras, Laptops o. Ä.) bestehen zahlenmäßige Beschränkungen.
+Reisegepäck und Waren des persönlichen Bedarfs können nach Montenegro zollfrei eingeführt werden, müssen jedoch wieder ausgeführt werden. Bei bestimmten Gegenständen (Kameras, Laptops o.ä.) bestehen zahlenmäßige Beschränkungen.
 
 Weiterhin bestehen in Montenegro für folgende Warengruppen Beschränkungen bei der zollfreien Einfuhr:
 
-* Alkoholika (2 l Wein oder ein Liter Spirituosen über 22%)
+* Alkoholika (2 l Wein oder 1 l Spirituosen über 22%)
 * Tabakwaren (200 Zigaretten oder 50 Zigarren oder 250 g Rauchtabak)
 * Parfum oder Eau de Toilette (50 ml)
 
@@ -163,7 +170,7 @@ Die üblichen Impfungen für Heimtiere müssen aktuell sein. Das Tier muss mit e
 
 Rubrik: „UNOS ŽIVOTINJA I KUĆNIH LJUBIMACA“ ([Einreise mit Tieren und Haustieren](https://info.carina.co.me/informacije-za-putnike))
 
-bzw. bei der [Veterinärbehörde](http://www.vet.uprava.vlada.cg.yu) (Veterinarska Uprava)
+bzw. bei der Veterinärbehörde (Veterinarska Uprava)
 
 ## Gesundheit
 
