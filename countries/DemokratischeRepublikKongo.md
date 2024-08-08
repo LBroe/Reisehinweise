@@ -273,7 +273,7 @@ In der Demokratischen Republik Kongo besteht ein Risiko für Erkrankungen wie [M
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY-Impfung ärztlich beraten.
 
-[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874)[)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") B, C und D) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.

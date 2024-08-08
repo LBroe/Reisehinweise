@@ -210,11 +210,21 @@ Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine C
 * Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
 * Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
 
-### HIV/AIDS
+### Sexuell übertragene Krankheiten
 
-HIV/AIDS ist im Lande ein großes Problem. Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
+Die HIV-Prävalenz in der Bevölkerung liegt landesweit bei ca. 4%, in Risikogruppen wesentlich höher.
+
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") B, C und D) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durchfallerkrankungen
 
@@ -256,9 +266,7 @@ Die medizinische Versorgung ist landesweit völlig unzureichend. In der Hauptsta
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 

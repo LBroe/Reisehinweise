@@ -158,7 +158,7 @@ Der Ombudsmann steht auch ausländischen Jobbern mit Working-Holiday-Visum für 
 
 ### Einreisekontrolle/Körperscanner
 
-Fluggäste auf vielen Flughäfen in Australien müssen mit dem Einsatz von Köperscannern rechnen. Eine Weigerung, sich der Überprüfung mittels Körperscanner zu unterziehen, führt zu einer Verzögerung bei der Sicherheitsüberprüfung und Zugang zum Transitbereich erst nach einer Frist von 24 Stunden. Weitere Informationen stehen auf der [Webseite des australischen Department of Home Affairs](https://www.homeaffairs.gov.au/about-us/what-we-do/travelsecure/passenger-screening) zur Verfügung.
+Fluggäste auf vielen Flughäfen in Australien müssen mit dem Einsatz von Köperscannern rechnen. Eine Weigerung, sich der Überprüfung mittels Körperscanner zu unterziehen, führt zu einer Verzögerung bei der Sicherheitsüberprüfung und Zugang zum Transitbereich erst nach einer Frist von 24 Stunden. Weitere Informationen stehen auf der [Webseite des australischen Department of Home Affairs](https://www.homeaffairs.gov.au/about-us/what-we-do/travelsecure/security-screening-at-airports) zur Verfügung.
 
 ### Minderjährige
 

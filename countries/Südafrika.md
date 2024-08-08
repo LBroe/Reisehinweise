@@ -16,11 +16,11 @@ Angesichts der erheblichen sozialen Unterschiede im Land und nicht zuletzt aufgr
 
 ### *Elektrizitätskrise*
 
-Die Elektrizitätskrise mit häufigen und länger anhaltenden Stromabschaltungen besteht weiter. Diese führen zu zeitweisen Stromausfällen, unter anderem bei privaten Unterkünften, Geschäften, Banken und Geldautomaten, bei der öffentlichen Beleuchtung, Ampeln und Sicherheitsanlagen. Die Stromausfälle können sich auch auf die Wasserversorgung und –qualität auswirken und weiterhin zu Einschränkungen der Internetverbindungen und des Mobilfunks führen. Auch Tankstellen können davon zeitweise beeinträchtigt sein.
+Die Elektrizitätskrise mit häufigen und länger anhaltenden Stromabschaltungen besteht weiter. Diese führen zu zeitweisen Stromausfällen, unter anderem bei privaten Unterkünften, Geschäften, Banken und Geldautomaten, bei der öffentlichen Beleuchtung, Ampeln und Sicherheitsanlagen. Die Stromausfälle können sich auch auf die Wasserversorgung und -qualität auswirken und weiterhin zu Einschränkungen der Internetverbindungen und des Mobilfunks führen. Auch Tankstellen können davon zeitweise beeinträchtigt sein.
 
 * Tragen Sie sich, unabhängig von der Dauer Ihres Aufenthalts in Südafrika, in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
 * Berücksichtigen Sie die Stromabschaltungen und die oben genannten möglichen Einschränkungen bei Ihren Reiseplanungen.
-* Ermitteln Sie die voraussichtlichen Uhrzeiten der an Ihrem Aufenthaltsort vorgesehenen Stromabschaltungen auf der Webseite des Stromversorgers [Eskom](https://www.eskom.co.za) oder über „loadshedding-Apps“.
+* Ermitteln Sie die voraussichtlichen Uhrzeiten der an Ihrem Aufenthaltsort vorgesehenen Stromabschaltungen auf der Webseite des Stromversorgers [Eskom](https://www.eskom.co.za) oder über Loadshedding-Apps.
 * Erkundigen Sie sich bei Hotels und Unterkünften, ob dort Maßnahmen getroffen wurden, um Stromabschaltungen zu überbrücken (Generatoren, Solaranlagen).
 * Halten Sie Taschenlampen, Batterien und Ladegeräte einsatzbereit.
 
@@ -239,10 +239,17 @@ Das größte Gesundheitsproblem in Südafrika ist HIV/AIDS mit einer sehr hohen 
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.  
 Eine Gefahr der Tuberkuloseansteckung über Tröpfcheninfektion besteht nur in entsprechenden medizinischen Einrichtungen bzw. bei längerem Aufenthalt in beengten Wohnräumen Tuberkulosekranker.
 
-[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") und bestimmte Lebererkrankungen [(](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")[Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874)[)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") B, C und D) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durchfallerkrankungen
 
