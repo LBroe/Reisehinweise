@@ -8,19 +8,19 @@
 
 ### *Sicherheitslage*
 
-Die Sicherheitslage in der Region ist hoch volatil; die militärischen Auseinandersetzungen im Grenzgebiet zwischen Libanon und Israel haben in den letzten Wochen noch einmal an Intensität zugenommen. Nachdem die palästinensische Hamas am 7. Oktober 2023 einen Großangriff auf Israel gestartet hatte, werden seit dem 8. Oktober 2023 auch von libanesischem Gebiet durch Hisbollah und andere bewaffnete Gruppen unter anderem Mörsergranaten, Panzerabwehrwaffen und Raketen auf Israel verschossen.
+Die Sicherheitslage in der Region ist hoch volatil. Im Grenzgebiet zwischen Libanon und Israel dauern intensive militärische Auseinandersetzungen an, auch andere Regionen Libanons waren bereits betroffen.
 
-**Eine weitere Verschärfung der Lage und Ausweitung des Konflikts kann nicht ausgeschlossen werden. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel. Eine weitere Eskalation könnte auch dazu führen, dass der Flugverkehr ab dem Rafiq-Hariri-Flughafen komplett eingestellt wird. Die Ausreise aus Libanon auf dem Luftweg wäre dann nicht mehr möglich.**
+**Aktuell gibt es viele Anzeichen für eine mögliche weitere Verschärfung und Ausweitung des Konflikts. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts, den Raum Saida und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel. Eine weitere Eskalation könnte wegen der damit verbundenen Gefährdung des zivilen Luftverkehrs auch zur Schließung des Flughafens Beirut (Rafiq-Hariri-Airport) führen. Die Ausreise aus Libanon auf dem Luftweg wäre dann für unbestimmbare Zeit nicht mehr möglich.**
 
 Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen und Protestkundgebungen gerechnet werden. Im Umfeld solcher Aktionen kann es zu Ausschreitungen kommen.
 
 * **Beachten Sie die geltende [Reisewarnung und Ausreiseaufforderung.](http://www.auswaertiges-amt.de/de/ReiseUndSicherheit/10.2.8Reisewarnungen)**
 * Nutzen Sie bestehende kommerzielle Reisemöglichkeiten zur sicheren Ausreise.
-* Sollten Sie eine Ausreise auf dem Landweg erwägen, beachten Sie bitte die bestehende **Reisewarnung des Auswärtigen Amtes für Syrien.** Es wird außerdem darauf hingewiesen, dass eine Einreise auf dem Landweg aus Syrien in die Türkei derzeit nicht möglich erscheint. Eine konsularische Unterstützung für deutsche Staatsangehörige in Syrien ist der Deutschen Botschaft nicht möglich.
-* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) und ergänzen Sie diese im Zweifelsfall. Sollten Sie Libanon inzwischen verlassen haben, so vermerken Sie dies bitte dort ebenfalls. Ermuntern Sie auch andere, Ihnen in Libanon bekannte deutsche Staatsangehörige zur Registrierung.
+* Sollten Sie eine Ausreise auf dem Landweg erwägen, beachten Sie bitte die bestehende **Reisewarnung des Auswärtigen Amtes für Syrien.** Es wird außerdem darauf hingewiesen, dass eine Einreise auf dem Landweg aus Syrien in die Türkei derzeit nicht möglich erscheint. Eine konsularische Unterstützung für deutsche Staatsangehörige in Syrien ist der Deutschen Botschaft Beirut nicht möglich.
+* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) und aktualisieren Sie bitte regelmäßig Ihre Daten. Sollten Sie Libanon inzwischen verlassen haben, vermerken Sie dies bitte dort ebenfalls. Ermuntern Sie auch andere, Ihnen in Libanon bekannte deutsche Staatsangehörige zur Registrierung.
 * Meiden Sie Kundgebungen, Demonstrationen und größere Menschenansammlungen.
-* Wenn Sie in Ihrem Umfeld Schüsse hören, begeben Sie sich unverzüglich unter einen festen Unterstand und halten Sie sich von Freiflächen, Balkonen, Terrassen und Fensterflächen fern.
-* Achten Sie vorsorglich und soweit dies sicher möglich ist auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).
+* Wenn Sie in Ihrem Umfeld Schüsse hören, begeben Sie sich unverzüglich unter einen festen Unterstand und halten sich von Freiflächen, Balkonen, Terrassen und Fensterflächen fern.
+* Achten Sie vorsorglich und soweit dies sicher möglich ist auf eine ausreichende Vorratshaltung (Bargeld, Wasser, Lebensmittel, Medikamente, Treibstoff).
 
 ## Sicherheit - Reisewarnung
 
@@ -62,9 +62,9 @@ Im Grenzgebiet zu Israel können die derzeit erhöhten Spannungen jederzeit weit
 
 Die Lage in Libanon ist auch aufgrund der andauernden Finanz- und Wirtschaftskrise angespannt.
 
-2022 ereigneten sich mehrere Sicherheitsvorfälle in Banken, in deren Verlauf Personen unter Androhung von Waffengewalt und teilweise mit Geiselnahme die Auszahlung ihrer eingefrorenen Guthaben gefordert haben. Bislang konnten die Sicherheitskräfte diese Situationen gewaltfrei beenden. Mit weiteren Vorfällen dieser Art und einer möglichen Eskalation ist zu rechnen. 
+2022 ereigneten sich mehrere Sicherheitsvorfälle in Banken, in deren Verlauf Personen unter Androhung von Waffengewalt und teilweise mit Geiselnahme die Auszahlung ihrer eingefrorenen Guthaben gefordert haben. Bislang konnten die Sicherheitskräfte diese Situationen gewaltfrei beenden. Weitere Vorfälle dieser Art und eine mögliche Eskalation können nicht ausgeschlossen werden. 
 
-Es kann zu Versorgungsengpässen kommen, insbesondere bei Benzin, Diesel und Strom sowie bei einigen Medikamenten. Flächendeckende Stromausfälle, auch für Ampeln und Straßenbeleuchtung, sind an der Tagesordnung. Störungen des Internetzugangs sind in allen Landesteilen, einschließlich Beirut, möglich. Die meisten Krankenhäuser haben den Betrieb reduziert, sind aber noch in der Lage, Operationen und notfallmedizinische Versorgung zu gewährleisten, nicht selten nur nach Vorkasse in Devisen in bar.
+Es kann weiterhin zu Versorgungsengpässen kommen, insbesondere bei Benzin, Diesel und Strom sowie bei einigen Medikamenten. Flächendeckende Stromausfälle, auch für Ampeln und Straßenbeleuchtung, sind an der Tagesordnung. Störungen des Internetzugangs sind in allen Landesteilen, einschließlich Beirut, möglich. Die meisten Krankenhäuser bieten Versorgungsleistungen einschließlich Operationen und notfallmedizinischer Versorgung nur nach Vorkasse in Devisen in bar an.
 
 * Achten Sie auf eine gut ausgestattete Reiseapotheke.
 * Führen Sie nur die notwendigen Geldmengen in Devisen und in bar mit sich, achten Sie auf den Erhalt von Rücklagen für Notfälle.
@@ -91,7 +91,7 @@ Als Folge der andauernden Finanz- und Wirtschaftskrise hat sich die allgemeine S
 Bei verschiedenen Anlässen kann es landesweit, auch spontan und ohne Vorwarnung, zu Schussabgaben in die Luft kommen. Unter anderem wird diese auch als „celebratory gunfire“ oder „happy shooting“ bekannte Tradition bei Beerdigungen, Hochzeiten, Jahrestagen, Ansprachen einflussreicher Personen oder Politiker und vergleichbaren Ereignissen ausgeübt. Die Geschosse der dabei verwendeten Waffen fliegen z.T. mehrere Kilometer weit und können auch beim Herabfallen schwerste Verletzungen verursachen.
 
 * Meiden Sie Kundgebungen, Demonstrationen und größere Menschenansammlungen
-* Wenn Sie in Ihrem Umfeld Schussabgaben feststellen, begeben Sie sich unverzüglich unter einen festen Unterstand und halten Sie sich von Freiflächen, Balkonen, Terrassen und Fensterflächen fern.
+* Wenn Sie in Ihrem Umfeld Schussabgaben feststellen, begeben Sie sich unverzüglich unter einen festen Unterstand und halten sich von Freiflächen, Balkonen, Terrassen und Fensterflächen fern.
 
 ### Landminen und alte Munition
 
@@ -123,7 +123,7 @@ Siehe *Aktuelles*
 
 Öffentliche Verkehrsmittel existieren in Form von Taxis, die individuell oder gemeinsam mit anderen Fahrgästen mit ähnlichem Ziel genutzt werden können (Sammeltaxis sog. „service taxis“). Nutzbar sind auch Online-Taxidienste. Straßenbezeichnungen, Hausnummern, Ortsschilder und Wegweiser existieren häufig nicht oder nur in arabischer Schrift. Erhältliche Stadtpläne und Landkarten erlauben lediglich eine grobe Orientierung. Die Grenze zu Israel ist nicht passierbar. Eisenbahnbetrieb besteht nicht mehr. Im Winter ist oberhalb von ca. 1.000 Metern mit Schnee zu rechnen, sodass eine gute Winterbereifung und zum Teil auch Schneeketten erforderlich sind. Passstraßen sind häufig wegen fehlender oder unzureichender Schneeräumung oder liegengebliebener Fahrzeuge blockiert.
 
-Für Selbstfahrer, z.B. mit Mietwagen, können im Straßenverkehr beträchtliche Gefahren bestehen. Auch elementare Verkehrsregeln werden häufig nicht beachtet und die Fahrweise wirkt häufig aggressiv.
+Für Selbstfahrer, z.B. mit Mietwagen, können im Straßenverkehr beträchtliche Gefahren bestehen. Auch elementare Verkehrsregeln werden häufig nicht beachtet, Verkehrsampeln sind überwiegend außer Funktion und die Fahrweise wirkt häufig aggressiv.
 
 Die touristische Infrastruktur (Hotels, Restaurants, Reisebedarf etc.) ist in den abgelegenen Gebieten weniger entwickelt; sie konzentriert sich vor allem auf den Großraum Beirut, die Küsten und das angrenzende Bergland. Strände sind häufig felsig, oft in Privatbesitz und daher in der Saison nur gegen Entgelt zugänglich. Die Wasserqualität entspricht vor allem im verstädterten Gebiet zwischen Sidon und Byblos nicht europäischen Standards. Gleiches gilt für die Ausbildung des Rettungspersonals.
 
@@ -145,7 +145,7 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 ### LGBTIQ
 
-Obwohl Libanon unter den Staaten der Region als vergleichsweise liberales Land gilt, sollten Reisende sich bewusst sein, dass homosexuelle Handlungen in Libanon strafbar sind. Der Druck auf LGBTIQ-Personen hat in den vergangenen Monaten zugenommen: u.a. kam es Ende August 2023 zu einem tätlichen Angriff auf eine LGBTIQ-freundliche Bar in Beirut. Einige Gebiete und Stadtviertel mögen toleranter erscheinen, jedoch kann jedes homosexuelle Verhalten (bzw. als solches wahrgenommenes Verhalten) zwischen Personen zu einer Verhaftung führen.
+Obwohl Libanon unter den Staaten der Region als vergleichsweise liberales Land gilt, sollten Reisende sich bewusst sein, dass homosexuelle Handlungen in Libanon strafbar sind. Der Druck auf LGBTIQ-Personen hat in den vergangenen Monaten zugenommen: u.a. kam es Ende August 2023 zu einem tätlichen Angriff auf eine LGBTIQ-freundliche Bar in Beirut. Einige Gebiete und Stadtviertel mögen toleranter erscheinen, jedoch kann jedes homosexuelle Verhalten (bzw. als solches wahrgenommenes Verhalten) zu einer Verhaftung führen.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -154,13 +154,13 @@ Obwohl Libanon unter den Staaten der Region als vergleichsweise liberales Land g
 Neben homosexuellen Handlungen sind auch Prostitution sowie die Einfuhr und Verbreitung pornographischen Materials verboten.  
 Drogenbesitz, -handel und -konsum stehen unter hohen Strafen.
 
-Es besteht strenges Fotografierverbot von militärischen Anlagen und Einrichtungen; auch Grenzübergänge und Kontrollstellen an den Landstraßen sollten nicht fotografiert und lokale Verbote beachtet werden.
+Es besteht strenges Fotografierverbot von militärischen Anlagen und Einrichtungen; auch Grenzübergänge und Kontrollstellen an den Landstraßen dürfen nicht fotografiert und lokale Verbote müssen beachtet werden.
 
 Nach libanesischem Recht ist es bei rechtlichen Streitigkeiten aller Art möglich, eine Ausreisesperre im Wege des einstweiligen Rechtsschutzes zu verhängen. In der Praxis tritt dies häufig bei unterhalts- und/ oder scheidungsrechtlichen Fragestellungen – gelegentlich aber auch bei rein zivilrechtlichen Fragestellungen (Autokauf/Mietvertrag) – auf. Hierbei kann z. B. der Ehepartner bis zur Zahlung entsprechender Abschläge auf den Unterhalt (häufig: Streit der Eheleute um die sog. „Abendgabe“) eine Ausreise aus Libanon wirksam verhindern.
 
 ### Geld/Kreditkarten
 
-Die offizielle Landeswährung ist das Libanesische Pfund (LBP). Seit Ausbruch der Wirtschafts- und Finanzkrise haben sich verschiedene Devisenparallelmärkte im Land etabliert. Die libanesische Zentralbank veröffentlicht regelmäßig auf ihrer [Webseite](https://www.bdl.gov.lb/) einen offiziellen Kurs, die sog. "Sayrafa-Rate". Die im Land operierenden Finanztransferdienstleister veröffentlichen ihre aktuellen Kurse ebenfalls. Das Bezahlen mit USD ist in vielen Landesteilen möglich, wobei man Wechselgeld häufig in lokaler Währung erhält. Devisen in bar können unkompliziert in Libanesische Pfund (LBP) getauscht werden. An Bankautomaten und bei Zahlungen mit ausländischer Kreditkarte werden meist erheblich schlechtere Wechselkurse angewandt. Hierdurch kann es zu erheblichen Mehrkosten im Vergleich zu Barzahlungen kommen. Oft akzeptieren Restaurants und Geschäfte nur Bargeld.
+Die offizielle Landeswährung ist das Libanesische Pfund (LBP). Seit Ausbruch der Wirtschafts- und Finanzkrise haben sich verschiedene Devisenparallelmärkte im Land etabliert. Die libanesische Zentralbank veröffentlicht regelmäßig auf ihrer [Webseite](https://www.bdl.gov.lb/) einen offiziellen Kurs. Die im Land operierenden Finanztransferdienstleister veröffentlichen ihre aktuellen Kurse ebenfalls. Das Bezahlen mit USD ist in vielen Landesteilen möglich, wobei man Wechselgeld häufig in lokaler Währung erhält. Devisen in bar können unkompliziert in Libanesische Pfund (LBP) getauscht werden. An Bankautomaten und bei Zahlungen mit ausländischer Kreditkarte werden meist erheblich schlechtere Wechselkurse angewandt. Hierdurch kann es zu hohen Mehrkosten im Vergleich zu Barzahlungen kommen. Oft akzeptieren Restaurants und Geschäfte nur Bargeld.
 
 * Informieren Sie sich vor der Nutzung von Bankautomaten oder der Zahlung mit ausländischer Kreditkarte über die aktuellen Konditionen. Nutzen Sie im Zweifel Bargeld.
 * Nehmen Sie USD oder Euro in bar mit.
@@ -174,7 +174,7 @@ Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Libanons](http://drm.pcm.gov.lb/) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Libanons sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -211,7 +211,7 @@ Reisende mit erkennbaren Voraufenthalten in Israel (z.B. indirekte Hinweise oder
 
 ### Minderjährige
 
-Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt.
+Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt. Minderjährige können an der Ausreise durch eine Ausreisesperre gehindert werden, auch wenn sie lediglich die deutsche Staatsangehörigkeit besitzen und ihren gewöhnlichen Aufenthalt nicht in Libanon haben.
 
 * Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/newsroom/buergerservice-faq-kontakt/faq/11-kindohneeltern/606308).
 
@@ -219,7 +219,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 In deutsch-libanesischen Ehen erwerben gemeinsame Kinder durch Geburt die libanesische Staatsangehörigkeit über den Vater.  
 Insbesondere, wenn die Eheschließung vor einem Religionsgericht in Libanon erfolgte, findet in der Regel – auch bei einem nur kurzfristigen Aufenthalt – das jeweilige örtliche konfessionell geprägte Sorge- und Familienrecht Anwendung auf die rechtlichen Beziehungen der Eheleute und das Sorgerechtsverhältnis zu den gemeinsamen Kindern. Bei den islamischen Religionsgemeinschaften weisen die zuständigen Gerichte in aller Regel das Aufenthaltsbestimmungsrecht für die gemeinsamen Kinder dem Vater zu. Das libanesische Familienrecht sieht die Möglichkeit vor, bei aufkommenden Familienstreitigkeiten auch sehr kurzfristig einstweilige Maßnahmen, insbesondere Ausreisesperren gegen Ehegatten und minderjährige Kinder, zu verhängen. Dies kann auch in Widerspruch zur deutschen Rechtslage oder zu deutschen Sorgerechtsentscheidungen erfolgen.  
-Die deutsche Botschaft in Beirut hat aufgrund der bestehenden Rechtslage in Libanon keine Möglichkeit, diese Ausreisesperren aufheben zu lassen. Dies ist in aller Regel nur mit Einverständnis des Familienmitglieds, welches die Ausreisesperre erwirkt hat oder nach z. T. langwierigen Gerichtsverfahren vor dem zuständigen libanesischen Familiengericht möglich. Die Rechtslage ist ähnlich, wenn der aus Libanon stammende Ehepartner staatenlos (z. B. palästinensischer Flüchtling) ist.
+Die deutsche Botschaft in Beirut hat aufgrund der bestehenden Rechtslage in Libanon keine Möglichkeit, diese Ausreisesperren aufheben zu lassen. Dies ist in aller Regel nur mit Einverständnis des Familienmitglieds, welches die Ausreisesperre erwirkt hat oder nach z. T. langwierigen Gerichtsverfahren vor dem zuständigen libanesischen Familiengericht möglich. Eine erneute Ausreisesperre ist auch nach Aufhebung durch das zuständige libanesische Gericht weiterhin möglich. Die Rechtslage ist ähnlich, wenn der aus Libanon stammende Ehepartner staatenlos (z. B. palästinensischer Flüchtling) ist.
 
 ### Wiedereinreise nach Deutschland für palästinensische Volkszugehörige
 
@@ -227,7 +227,7 @@ Reisenden, die zwar im Besitz eines gültigen deutschen Aufenthaltstitels sind, 
 
 ### Einreisekontrolle/Doppelstaater/Syrer und Palästinenser mit Aufenthalt in Deutschland
 
-Die Grenze zwischen Libanon und Syrien können grundsätzlich nur Personen mit libanesischem Aufenthaltstitel passieren. Allerdings gestatten die libanesischen Grenzstellen für 48 Stunden den Einlass von Syrern, die ein Flugticket für den Abflug vom Flughafen Beirut, eine Bestätigung der ärztlichen Behandlung oder eine Terminbestätigung der Botschaft Beirut vorlegen können. Hierfür muss außerdem ein gültiges Reisedokument an der Grenzstelle vorgelegt werden.
+Die Grenze zwischen Libanon und Syrien können grundsätzlich nur Personen mit libanesischem Aufenthaltstitel passieren. Allerdings gestatten die libanesischen Grenzstellen für 48 Stunden den Einlass von Syrern, die ein Flugticket für den Abflug vom Flughafen Beirut, eine Bestätigung der ärztlichen Behandlung oder eine Terminbestätigung der Botschaft Beirut vorlegen können. Hierfür muss außerdem ein gültiges Reisedokument an der Grenzstelle vorgelegt werden. Für die Einreiseerlaubnis nach Libanon wird in der Regel eine Gebühr in Höhe von ca. 50 USD erhoben.
 
 Die Verweigerung der Einreise unmittelbar am Grenzübergang ist allerdings jederzeit und ohne Angaben von Gründen möglich. Die deutsche Botschaft in Beirut hat in diesen Fällen keine Möglichkeit der Unterstützung.
 
@@ -253,8 +253,9 @@ Für die Einfuhr von Haustieren bestehen keine besonderen, über die internation
 
 ### Impfschutz
 
-Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus oder Ausreise in ein Polio- bzw. Meningokokkengebiet ist eine Impfung gegen [Poliomyelitis (Kinderlähmung)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") und Meningokokken ACWY nachzuweisen.
+Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. 
 
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher, siehe [Poliomyelitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B und Tollwut empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
@@ -287,15 +288,17 @@ Cholera ist eine bakterielle Infektionskrankheit, die vor allem durch verunreini
 
 ### Weitere Infektionskrankheiten
 
-Einige durch Mücken oder Zecken übertragene Infektionskrankheiten kommen vor, sind insgesamt aber selten (z.B. Leishmaniasis, West-Nil-Fieber, Phlebotomus-Fieber). Insektenschutz beachten (z. B. Repellentien, Moskitonetz, langärmlige Kleidung).
+Einige durch Mücken oder Zecken übertragene Infektionskrankheiten kommen vor, sind insgesamt aber selten (z.B. Leishmaniasis). Insektenschutz beachten (z. B. Repellentien, Moskitonetz, langärmlige Kleidung).
+
+Selten aber möglich, [Leptospirose,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leptospirose/2519598 "Leptospirose") eine durch Tierkontakt mit infektiösen Ausscheidungen von Nagetieren übertragene Infektionskrankheit.
 
 ### Schlangenbisse
 
-Sehr selten kommen außerhalb der Städte Schlangenbisse der Libanesischen Bergotter vor. Ein Antivenum ist in diesem Fall notwendig und in den großen Krankenhäusern in Beirut vorhanden, s. auch [Erste Hilfe bei Schlangenbissen](https://www.diplo.de/-/2519592).
+Sehr selten kommen außerhalb der Städte Schlangenbisse der Libanesischen Bergotter vor. Ein Antivenum ist in diesem Fall notwendig und in den großen Krankenhäusern in Beirut vorhanden, siehe auch [Erste Hilfe bei Schlangenbissen](https://www.diplo.de/-/2519592).
 
 ### Medizinische Versorgung
 
-Das Versorgungsniveau ist in Beirut gut. Besonders die beiden großen Krankenhäuser der Maximalversorgung, das American University Hospital und das Hospital Hôtel Dieu de France, sind überregionale Anlaufstellen. Außerhalb der Hauptstadt ist mit einigen Einschränkungen zu rechnen. Grundsätzlich ist für alle Reisenden eine Auslandskrankenversicherung mit Rückholoption im Notfall empfehlenswert. Dies gilt umso mehr, da libanesische Krankenhäuser – selbst bei Notfallversorgung – in der Regel eine Anzahlung oder Vorkasse (grundsätzlich in Bar) verlangen. Allerdings kann ein durchgehender und flächendeckender Apothekennotdienst mitunter nicht gewährleistet werden, da viele Apotheken aufgrund des Strommangels auch nachts schließen.
+Das Versorgungsniveau ist in Beirut gut. Besonders die großen Krankenhäuser der Maximalversorgung, wie u.a. das American University Beirut Medical Center und das Hospital Hôtel Dieu de France, sind überregionale Anlaufstellen. Außerhalb der Hauptstadt ist mit einigen Einschränkungen zu rechnen. Grundsätzlich ist für alle Reisenden eine Auslandskrankenversicherung mit Rückholoption im Notfall empfehlenswert. Dies gilt umso mehr, da libanesische Krankenhäuser – selbst bei Notfallversorgung – in der Regel eine Anzahlung oder Vorkasse (grundsätzlich in bar) verlangen. Allerdings kann ein durchgehender und flächendeckender Apothekendienst mitunter nicht gewährleistet werden, da viele Apotheken aufgrund des Strommangels auch nachts schließen.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie eine individuelle Reiseapotheke, einschließlich einer ausreichenden Menge Ihrer regelmäßig benötigten Medikamente (sofern relevant), mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
