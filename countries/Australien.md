@@ -183,7 +183,7 @@ Stets aktuelle Informationen zu Freimengen bietet die [Australian Border Force](
 
 Eine gemeinsam reisende Familie kann ihre erlaubten Mengen an zollfreien Gütern zusammenlegen. Waren, die im Ausland oder vor der Abreise in Australien zoll- oder steuerfrei (duty free/sales tax free) gekauft wurden, werden mit angerechnet, wenn der Zollfreibetrag errechnet wird.
 
-Australien hat ein strenges Quarantäneregime, dessen Durchsetzung (sorgfältige Kontrollen bei der Einreise) mit Nachdruck betrieben wird und deshalb strikt eingehalten werden sollte. Alle Nahrungsmittel, Pflanzen- und Tierprodukte müssen auf der Passagier-Einreisekarte (*Incoming Passenger Card*) angegeben werden. Diese werden dann von einem Quarantänebeamten am roten Abfertigungsschalter in der Flughalle untersucht und möglicherweise eingezogen. Werden Gegenstände, die den Quarantänebestimmungen unterliegen, nicht deklariert, können empfindliche Strafen verhängt werden. Die Ein- und Ausfuhr vieler, insbesondere bedrohter Tier- und Pflanzenarten oder daraus angefertigter Gütern beziehungsweise Souvenirs ist streng reguliert. Illegale Ein- oder Ausfuhren ohne Genehmigung werden mit harten Strafen, zum Teil längeren Freiheitsstrafen, geahndet. Gleiches gilt zum Beispiel auch für historisch oder kulturell bedeutsame Bücher, Dokumente, Münzen und Aboriginal-Kunstgegenstände. Käufer sollten sich daher vor dem Erwerb und der Ausfuhr entsprechend sorgfältig bei den zuständigen australischen beziehungsweise deutschen Zollbehörden informieren.
+Australien hat ein strenges Quarantäneregime, dessen Durchsetzung (sorgfältige Kontrollen bei der Einreise) mit Nachdruck betrieben wird und deshalb strikt eingehalten werden sollte. Alle Nahrungsmittel, Pflanzen- und Tierprodukte müssen auf der Passagier-Einreisekarte (*Incoming Passenger Card*) angegeben werden. Diese werden dann von einem Quarantänebeamten am roten Abfertigungsschalter in der Flughalle untersucht und möglicherweise eingezogen. Werden Gegenstände, die den Quarantänebestimmungen unterliegen, nicht deklariert, können empfindliche Strafen verhängt werden. Die Ein- und Ausfuhr vieler, insbesondere bedrohter Tier- und Pflanzenarten oder daraus angefertigten Gütern beziehungsweise Souvenirs ist streng reguliert. Illegale Ein- oder Ausfuhren ohne Genehmigung werden mit harten Strafen, zum Teil längeren Freiheitsstrafen, geahndet. Gleiches gilt zum Beispiel auch für historisch oder kulturell bedeutsame Bücher, Dokumente, Münzen und Aboriginal-Kunstgegenstände. Käufer sollten sich daher vor dem Erwerb und der Ausfuhr entsprechend sorgfältig bei den zuständigen australischen beziehungsweise deutschen Zollbehörden informieren.
 
 Eine Zusammenstellung der australischen Einfuhrbeschränkungen finden Sie bei der [Australian Border Force](https://www.abf.gov.au/entering-and-leaving-australia/can-you-bring-it-in).
 
@@ -226,6 +226,15 @@ Auf den Inseln der Torres-Straße kann es zu Infektionen mit Japanischer Enzepha
 Bei der JE handelt es sich um eine Entzündung des Gehirns, die von Viren verursacht wird. Diese werden von nacht- und dämmerungsaktiven Stechmücken übertragen. Vor allem Schweine und Wasservögel sind mit dem Virus infiziert, ohne dabei selber zu erkranken. Erkrankungen beim Menschen sind eher selten, verlaufen dann aber häufig schwer und hinterlassen bleibende Schäden oder enden tödlich. Es gibt keine wirksamen Medikamente gegen die JE-Viren.
 
 * Schützen Sie sich zur Vermeidung von Japanischer Enzephalitis im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere in der Dämmerung und nachts konsequent vor Mückenstichen und lassen Sie sich bei Aufenthalten auf den Inseln der Torres-Straße oder den Bundesstaaten New South Wales, Queensland, Victoria und South Australia, impfen, wenn ein erhöhtes individuelles Risiko durch einen längeren Aufenthalt in den Übertragungsgebieten und während der saisonalen Übertragungszeiten besteht.
+
+### Mpox
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Schlangen, Spinnen, Quallen u.a. Tiere
 

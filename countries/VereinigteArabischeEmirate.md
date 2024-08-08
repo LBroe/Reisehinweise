@@ -154,7 +154,7 @@ Konsularische Hilfe in Passangelegenheiten durch die [deutschen Vertretungen in 
 
 Die Ausreise aus den VAE mit Reiseausweisen als Passersatz oder vorläufigen Reisepässen ist für Inhaber emiratischer Aufenthaltstitel („residency visas“ und „Emirates IDs“) nur nach vorheriger Aufhebung der emiratischen Aufenthaltstitel durch die zuständige Behörde („Immigration“) möglich. Dies kann nicht spontan am Flughafen erfolgen; die Bearbeitungsdauer beträgt mindestens 24 Stunden. Um dies zu vermeiden, müssen Inhaber emiratischer Aufenthaltstitel mit biometrischen Reisepässen ausreisen.
 
-Auch für Inhaber biometrischer Reisepässe gilt indes, dass ihre Ausreise während der Erneuerung ihrer emiratischen Aufenthaltserlaubnis mit der Einwanderungsbehörde abgesprochen sein muss; andernfalls riskieren sie den Verlust ihres dauerhaften Aufenthaltsstatus.
+Für Inhaber biometrischer Pässe ist die Ausreise, noch während ihre emiratische Aufenthaltserlaubnis verlängert wird, nur möglich, wenn sie den Behörden gegenüber den Verzicht auf ihren Aufenthaltstitel erklären und die Behörden den Verzicht bestätigt haben.
 
 ### Flughafentransit
 
@@ -238,7 +238,7 @@ Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können 
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
 
-[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") und bestimmte Lebererkrankungen ([Virushepatitis B und C)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") und bestimmte Lebererkrankungen ([Virushepatitis B und C)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.

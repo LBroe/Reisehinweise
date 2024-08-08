@@ -175,12 +175,19 @@ Weitere nur durch Mückenschutz vermeidbare Erkrankungen kommen vor (Chikungunya
 
 * Schützen Sie sich konsequent auch tagsüber vor Mückenstichen.
 
-### Sexuell übertragbare Infektionen
+### Sexuell übertragbare Krankheiten
 
-[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox (Affenpocken)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") und bestimmte Lebererkrankungen ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durchfallerkrankungen
 

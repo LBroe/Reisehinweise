@@ -221,7 +221,7 @@ Heimtiere benötigen zur Einreise eine Tollwut-Schutzimpfung, eine amtstierärzt
 
 ### Aktuelles
 
-Der [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)")-Ausbruch in der Demokratischen Republik Kongo hat sich im Frühjahr 2024 auf einen Großteil des Landes ausgebreitet, einschließlich der Hauptstadt Kinshasa. Im Gegensatz zum internationalen Mpox-Ausbruch der Klade II, der seit 2022 große Teile der Welt betrifft, wird der Ausbruch in der Demokratischen Republik Kongo durch die Klade I verursacht. Das Virus der Klade 1 ist virulenter und hat eine höhere Sterblichkeitsrate. Dies ist der erste Ausbruch von Klade 1, bei dem es zu einer homo- und heterosexuellen Übertragung gekommen ist. Das Risiko für Reisende wird aktuell als gering eingeschätzt.
+Der [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")-Ausbruch in der Demokratischen Republik Kongo hat sich im Frühjahr 2024 auf einen Großteil des Landes ausgebreitet, einschließlich der Hauptstadt Kinshasa. Im Gegensatz zum internationalen Mpox-Ausbruch der Klade II, der seit 2022 große Teile der Welt betrifft, wird der Ausbruch in der Demokratischen Republik Kongo durch die Klade I verursacht. Das Virus der Klade 1 ist virulenter und hat eine höhere Sterblichkeitsrate. Dies ist der erste Ausbruch von Klade 1, bei dem es zu einer homo- und heterosexuellen Übertragung gekommen ist. Das Risiko für Reisende wird aktuell als gering eingeschätzt.
 
 * Verwenden Sie auf Reisen grundsätzlich Kondome, um das Ansteckungsrisiko mit sexuell übertragbaren Infektionen zu minimieren.
 * Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
@@ -273,10 +273,17 @@ In der Demokratischen Republik Kongo besteht ein Risiko für Erkrankungen wie [M
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY-Impfung ärztlich beraten.
 
-[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874)[)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874)[)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durch Tierkontakt übertragene Erkrankungen
 

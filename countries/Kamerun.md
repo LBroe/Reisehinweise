@@ -17,7 +17,7 @@ wird** **gewarnt.**
 
 In den anglophonen **Regionen North-West und South-West** dauern gewaltsame Auseinandersetzungen zwischen Sicherheitskräften und separatistischen Gruppierungen an, die Todesopfer und Verletzte fordern. Dies betrifft auch die Halbinsel Bakassi. Auf allen Straßen innerhalb dieser Regionen besteht erhöhte Gefahr durch Sprengsätze, Überfälle an Straßensperren und Entführungen.
 
-In der **Region Extrême Nord** kommt es zu Angriffen und Selbstmordanschlägen von islamistischen Terrorgruppen. Zudem  besteht ein sehr hohes Entführungsrisiko. Dies betrifft auch die Hauptstadt der Region Maroua sowie die Grenzgebiete zu Nigeria und Tschad.  
+In der **Region Extrême Nord** kommt es zu Angriffen und Selbstmordanschlägen von islamistischen Terrorgruppen. Zudem besteht ein sehr hohes Entführungsrisiko. Dies betrifft auch die Hauptstadt der Region Maroua sowie die Grenzgebiete zu Nigeria und Tschad.  
 In den nigerianischen Bundesstaaten Borno und Adamawa auf der anderen Seite der Grenze gilt weiterhin eine [Teilreisewarnung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nigeria-node/nigeriasicherheit/205788) aufgrund der schlechten Sicherheitslage. Auch für den Bereich des Grenzgebiets auf der Seite des Tschad gilt eine [Teilreisewarnung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/tschad-node/tschadsicherheit/225774). **Das Grenzgebiet mit der Zentralafrikanischen Republik gilt wegen grenzüberschreitender Übergriffe** **bewaffneter Gruppen der dortigen Rebellen als unsicher.** Für die Zentralafrikanische Republik besteht eine [Reisewarnung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit/226450).
 
 * Im gesamten Golf von Guinea kommt es zu Überfällen auf Küstenorte, Fischkutter, Öltanker oder Ölplattformen mit Geiselnahmen.
@@ -45,19 +45,19 @@ Die Kriminalitätsrate ist hoch. Insbesondere in Großstädten wie Jaunde, Duala
 
 In abgelegenen Gebieten abseits der großen Ballungsgebiete und der diese verbindenden Verkehrsachsen besteht ein erhöhtes Risiko für kriminell motivierte Entführungen..
 
-Vor Feiertagen steigt die Zahl der Diebstähle und Raubüberfälle vor allem in Ballungsgebieten erfahrungsgemäß deutlich an. Das Entreißen von Taschen durch Motorradfahrer ist verbreitet Nach Einbruch der Dunkelheit sind die Gefahren nochmals höher.
+Vor Feiertagen steigt die Zahl der Diebstähle und Raubüberfälle vor allem in Ballungsgebieten erfahrungsgemäß deutlich an. Das Entreißen von Taschen durch Motorradfahrer ist verbreitet. Nach Einbruch der Dunkelheit sind die Gefahren nochmals höher.
 
 Kleinkriminalität wie Diebstähle kommen auch in Zügen, Bussen und Taxis vor. Insbesondere bei Sammeltaxis besteht das Risiko bewaffneter Überfälle, bei denen die Opfer Verletzungen davontragen können.
 
-An unbelebten Strandabschnitten von Badeorten kann es zu Raubüberfällen kommen.  Manche Kriminelle täuschen durch das Tragen von Uniformen vor, Sicherheitskräfte zu sein.
+An unbelebten Strandabschnitten von Badeorten kann es zu Raubüberfällen kommen. Manche Kriminelle täuschen durch das Tragen von Uniformen vor, Sicherheitskräfte zu sein.
 
 Betrugsversuche über das Internet sind auch in Kamerun verbreitet.
 
 * Seien Sie in der Öffentlichkeit und an touristischen Sehenswürdigkeiten besonders aufmerksam.
 * Seien Sie in größeren Menschenmengen wie an Bahnhöfen, in öffentlichen Verkehrsmitteln und an Stränden besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Verzichten Sie auf die Mitnahme vonWertgegenständen oder Schmuck.
+* Verzichten Sie auf die Mitnahme von Wertgegenständen oder Schmuck.
 * Nehmen Sie nur das für den Tag benötigte Bargeld mit und verteilen es auf verschiedene Taschen.
-* Vermeiden Sie nach Einbruch der Dunkelheit Bewegungen zu Fuß , bleiben Sie auf gut beleuchteten Straßen.
+* Vermeiden Sie nach Einbruch der Dunkelheit Bewegungen zu Fuß, bleiben Sie auf gut beleuchteten Straßen.
 * Seien Sie bei Fahrten über Land besonders vorsichtig.
 * Leisten Sie bei einem Überfall keinen Widerstand und verhalten Sie sich ruhig.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -228,11 +228,21 @@ Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine C
 * Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
 * Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
 
-### HIV/AIDS
+### Sexuell übertragene Krankheiten
 
-Die HIV-Prävalenz in der Bevölkerung liegt landesweit bei ca. 4%, in Risikogruppen wesentlich höher. Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
+Die HIV-Prävalenz in der Bevölkerung liegt landesweit bei ca. 4%, in Risikogruppen wesentlich höher. 
+
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874)[)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durchfallerkrankungen
 
@@ -279,9 +289,7 @@ In den größeren Städten gibt es ausreichend Apotheken, die im Regelfall alle 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

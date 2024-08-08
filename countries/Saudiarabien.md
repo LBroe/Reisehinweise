@@ -187,7 +187,7 @@ Für Auskünfte zur Einfuhr von Heimtieren sollte die [Botschaft Saudi-Arabiens 
 
 ### Aktuelles
 
-Laut offiziell nicht bestätigten Informationen wird bei Einreise nach Saudi-Arabien bei beruflichen Langzeitaufenthalten seit Januar 2024 eine Negativtestung für [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") verlangt. Weitere Details zu den Anforderungen sind derzeit noch nicht bekannt.
+Laut offiziell nicht bestätigten Informationen wird bei Einreise nach Saudi-Arabien bei beruflichen Langzeitaufenthalten seit Januar 2024 eine Negativtestung für [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") verlangt. Weitere Details zu den Anforderungen sind derzeit noch nicht bekannt.
 
 ### Impfschutz
 

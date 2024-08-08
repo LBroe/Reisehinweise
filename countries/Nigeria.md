@@ -266,7 +266,7 @@ In Nigeria besteht ein Risiko für [Meningokokken-Erkrankungen,](https://www.aus
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY- Impfung ärztlich beraten.
 
-Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syphillis oder Gonorrhoe in Nigeria insbesondere Erkrankungen wie [AIDS,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox (Affenpocken)") oder bestimmte Viruserkrankungen der Leber ([Virushepatitis B, C, D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syphillis oder Gonorrhoe in Nigeria insbesondere Erkrankungen wie [AIDS,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") oder bestimmte Viruserkrankungen der Leber ([Virushepatitis B, C, D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
