@@ -1,5 +1,9 @@
 # Dschibuti: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Die Sicherheitslage hat sich erheblich verschlechtert. Terroranschläge können jederzeit und ohne Vorwarnung passieren. Angriffe, die sich neben inländischen Zielen auch gegen westliche Ausländer und Ziele wie internationale Hotels, Restaurants, Einkaufszentren etc. richten, können nicht ausgeschlossen werden.
+
 ## Sicherheit
 
 **Von nicht erforderlichen Einzelreisen in entlegene Gebiete Dschibutis** wie insbesondere die Grenzgebiete zu Eritrea und zu Somalia **wird abgeraten.** 
@@ -66,7 +70,8 @@ Internationale Flüge (Air France, Ethiopian Airlines, Turkish Airlines, Qatar A
 
 Die Sicherheitskontrollen (Personen, Gepäck, Fracht) des Internationalen Flughafens Mogadischu bei Abflug von kommerziellen Fluggesellschaften entsprechen nicht europäischen Standards. Dies birgt ein Sicherheitsrisiko für dort abfliegende Maschinen von Fluglinien, die auf ihrem Zwischenstopp in Dschibuti Passagiere nach Europa aufnehmen.
 
-Informationen der nationalen Tourismusbehörde von Dschibuti können unter +253 21 35 28 00 erfragt werden.
+Informationen der nationalen Tourismusbehörde von Dschibuti können unter  
++253 21 35 28 00 erfragt werden.
 
 Im Straßenverkehr besteht auch für Fußgänger Unfallgefahr aufgrund mangelnden Sicherheitsbewusstseins und unangepasster Fahrweise. Das gilt insbesondere bei Überlandfahrten (schlechte Straßenverhältnisse, Khat-Konsum der Fahrer, übermüdete Lkw-Fahrer, überhöhte Geschwindigkeit, riskante Überholmanöver, Personen und Tiere auf der Fahrbahn).
 
