@@ -4,12 +4,13 @@
 
 **Von Reisen nach Bangladesch wird derzeit dringend abgeraten.**
 
-Aufgrund der landesweiten gewaltsamen Zusammenstöße im Zusammenhang mit Studentenprotesten, die am Wochenende 3./4. August 2024 erneut besonders heftig aufgeflammt sind, besteht seit dem 20. Juli 2024 eine Ausgangssperre. Geschäfte, Büros und Banken sind je nach Lage zum Teil stundenweise geöffnet; Lockerungen der Ausgangssperre werden über die lokalen Medien bekannt gegeben. Das Internet und das mobile Internet (über Mobilfunk) sind nur teilweise funktionsfähig.
+Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli ist am 5. August 2024 Premierministerin Hasina zurückgetreten und hat Bangladesch verlassen. Danach kam es erneut zu Ausschreitungen im ganzen Land, die inzwischen weitgehend beendet sind. Die bestehende Ausgangssperre wurde am 6. August 2024 aufgehoben. Das Internet und das mobile Internet sind wieder funktionsfähig, mit kurzfristigen Unterbrechungen muss jedoch weiterhin gerechnet werden.
 
-Im Zuge der Demonstrationen und Proteste gab es bereits mehrere hundert Tote.
+Der Flughafen Dhaka ist geöffnet, die Sicherheitsmaßnahmen am Flughafen wurden erhöht. Geschäfte und Büros sind ebenfalls geöffnet. Am Abend des 8. August 2024 soll eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus vereidigt werden. Polizeikräfte sollen unter neuer Führung ihren Dienst wieder aufnehmen.
 
-* Befolgen Sie unbedingt die geltende Ausgangssperre und bleiben Sie an einem sicheren Ort.
-* Nutzen Sie etwaige Lockerungen der Ausgangssperre, um Vorräte für mehrere Tage (Wasser, Lebensmittel, Medikamente) und Bargeld zu besorgen. Meiden Sie dabei Demonstrationen und größere Menschenansammlungen weiträumig.
+Demonstrationen und gewalttätige Auseinandersetzungen treten punktuell immer noch auf und können auch weiterhin nicht ausgeschlossen werden.
+
+* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 * Informieren Sie sich laufend über die lokalen, internationalen und sozialen Medien (soweit möglich) über die Lage.
 * Registrieren Sie sich, wenn möglich, in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten noch aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
@@ -33,6 +34,10 @@ Die Gefahr terroristischer Anschläge, auch gegen Ausländer bzw. an Orten, die 
 ### Innenpolitische Lage
 
 Siehe *Aktuelles*
+
+2018 wurde das Quotensystem zur Bevorzugung von sog. Freiheitskämpfern im Unabhängigkeitskrieg und deren Kindern und Kindeskindern bei der Vergabe von Arbeitsplätzen im öffentlichen Dienst per Regierungsbeschluss beendet. Im Juni 2024 wurde die Quote durch Beschluss des obersten Gerichts wieder eingeführt. Studenten im ganzen Land riefen daraufhin zu Demonstrationen und Protesten auf.
+
+Nachdem die Studentenproteste landesweit eskalierten und sich immer mehr Bevölkerungsgruppen den Protesten anschlossen, ist Premierministerin Hasina am 5. August 2024 zurückgetreten und hat das Land verlassen. Danach kam es zu Plünderungen, zum Niederbrennen von Polizeistationen, Fabriken, Hindutempeln und anderen religiösen Einrichtungen von Minderheiten. Das Militär und die Polizei haben die Situation inzwischen weitgehend unter Kontrolle. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus soll am Abend des 8. August 2024 vereidigt werden. Die Lage im gesamten Land ist volatil.
 
 Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar verschlechtert sich weiter. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
 
