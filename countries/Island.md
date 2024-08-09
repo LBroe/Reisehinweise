@@ -20,7 +20,7 @@ Die Kriminalitätsrate Islands ist generell niedrig, Kleinkriminalität wie Tasc
 
 Es herrscht subarktisches Meeresklima mit kühlen Sommern und relativ milden Wintern.
 
-Island liegt in einer seismisch aktiven Zone. Bereits seit Ende Oktober 2023 gibt es immer wieder kleinere Erdbeben auf der südwestlichen Halbinsel (Reykjanes-Halbinsel). Teilweise waren diese Beben auch im 50 km entfernten Reykjavik zu spüren.
+Island liegt in einer seismisch aktiven Zone. Bereits seit Oktober 2023 gibt es immer wieder kleinere Erdbeben auf der südwestlichen Halbinsel (Reykjanes-Halbinsel). Teilweise waren diese Beben auch im 50 km entfernten Reykjavik zu spüren.
 
 Das isländische [Department of Civil Protection and Emergency Management](https://www.almannavarnir.is/english/) sendet ggf. Warnmeldungen per Textnachricht an alle in der jeweils betroffenen Gegend eingeschalteten Mobiltelefone.
 
@@ -34,7 +34,7 @@ Das betroffene Gebiet liegt in unmittelbarer Nachbarschaft der auch bei deutsche
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der isländischen Behörden.
 * Informieren Sie sich unbedingt über aktuelle Warnmeldungen und die Wetter- und Straßenverhältnisse z.B. bei der [Icelandic Association for Search and Rescue.](https://safetravel.is/?lang=de)
 * Informieren Sie sich beim [isländischen Wetterdienst](https://en.vedur.is/) oder  dem [isländischen Rundfunk](https://www.ruv.is/english) über die aktuelle Lage.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bietet das [Deutsche GeoForschungsZentrum.](https://www.gfz-potsdam.de/)
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bietet das [Deutsche GeoForschungsZentrum.](https://www.gfz-potsdam.de/)
 
 ## Reiseinfos
 
@@ -47,7 +47,7 @@ Es gilt ganzjährig Lichtpflicht ebenso wie ein striktes Alkoholverbot am Steuer
 
 ### Führerschein
 
-Der deutsche Führerschein ist für touristische Aufenthalte ausreichend.
+Der deutsche Führerschein wird für touristische Aufenthalte anerkannt.
 
 ### LGBTIQ
 
