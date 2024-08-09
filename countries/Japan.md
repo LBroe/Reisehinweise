@@ -41,7 +41,12 @@ Betrügereien, Raub und sexuelle Übergriffe, oft in Verbindung mit dem Einsatz 
 
 #### *Erdbeben*
 
+Am 8. August 2024 gab es ein starkes Erdbeben im Süden von Kyushu. Das Beben war auch in Osaka zu spüren. Pazifikseitige Küstengebiete entlang des Nankai-Seegrabens von der Präfektur Nagasaki bis zur Präfektur Shizuoka erleben aktuell verstärkt Erdbeben.
+
 Japan ist das erdbebenreichste Land der Erde und besitzt zahlreiche aktive Vulkane. Im Jahresdurchschnitt werden rund 1.500 Beben seismisch registriert, von denen mehrere auch in Tokyo deutlich wahrgenommen werden können.
+
+* Bitte verfolgen Sie die relevante Nachrichtenlage und beachten die Verhaltenshinweise seitens lokaler Behörden bzw. Ihres Reiseanbieters oder Hotels.
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek).
 
 #### *Vulkanausbrüche*
 
@@ -58,7 +63,7 @@ Schneestürme können in West-Honshu und Hokkaido von Dezember bis März auftret
 * Halten Sie sich über die Wetterlage und Unwetterwarnungen informiert, z.B. über die [Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html) und das [Joint Typhoon Warning Center](https://www.metoc.navy.mil/jtwc/jtwc.html).
 * Informieren Sie sich über regionale Warnhinweise, z.B. über die in Zusammenarbeit mit der Japanischen Tourismusagentur entwickelte, kostenlose Krisenvorsorge-App [„Safety tips“](https://www.jnto.go.jp/eng/basic-info/emergency-info/earthquake-early-warning-app.html).
 * Beachten Sie bei Sturmwarnung die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
-* Leisten Sie den Anweisungen der japanischen Behörden zu Sperrzonen um Vulkane, etc. unbedingt Folge und machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Leisten Sie den Anweisungen der japanischen Behörden zu Sperrzonen um Vulkane etc. unbedingt Folge und machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
