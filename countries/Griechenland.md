@@ -4,13 +4,13 @@
 
 #### *Waldbrände*
 
-In Teilen Griechenlands, derzeit in Attika, auf Kos und Kreta, kommt es zu Waldbränden. Auf der Insel Kos wurden seit dem 1. Juli 2024 Hotelanlagen in Kardamena evakuiert. Betroffene Touristen wurden evakuiert, in Notunterkünften untergebracht oder durch Reiseveranstalter in andere Hotels verlegt. Die Rettung menschlichen Lebens hat für die griechischen Behörden absolute Priorität.
-
-Am 2. Juli 2024 durfte bereits ein Teil der Touristen in ihre gebuchten Hotels zurückkehren.
+Derzeit kommt es in Teilen Griechenlands aufgrund der seit Monaten anhaltenden Hitze und großer Trockenheit zu mitunter schweren Waldbränden. Aktuell ist unter anderem die Region Ost-Attika nördlich von Athen stark betroffen. In den Orten Grammatiko, Penteli, Dioni, Mikrochori, Stamata, Rodopoli und Amygdaleza etc. wurden weiträumige Evakuierungsmaßnahmen eingeleitet. Die Rettung menschlichen Lebens hat für die griechischen Behörden absolute Priorität.
 
 Siehe auch *Natur und Klima – Busch- und Waldbrände.*
 
-* Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein. Aktivieren Sie auf Ihrem Mobiltelefon die Option, Notfallbenachrichtigungen (Cell Broadcast Alerts) zu erhalten, die regional und aktuell per SMS in griechischer und englischer Sprache versandt werden.
+* Bitte meiden Sie die betroffene Region.
+* Aktivieren Sie auf Ihrem Mobiltelefon die Option, Notfallbenachrichtigungen (Cell Broadcast Alerts) zu erhalten, die von den zuständigen griechischen Stellen regional und aktuell per SMS in griechischer und englischer Sprache versandt werden. Hierüber werden Sie auch über Evakuierungsmaßnahmen informiert.
+* Eine Übersichtskarte der aktuellen Waldbrände bietet [folgende Webseite.](https://www.foties.gr/)
 * Stellen Sie sicher, dass Ihr Telefon stets einsatzbereit ist, ggf. mittels einer Powerbank.
 * Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. So können Sie sofort geortet werden, sodass Rettungsmaßnahmen eingeleitet werden können. Über die Telefonzentrale des Notrufs 112 können Sie Ihr Anliegen in englischer oder griechischer Sprache vortragen. Die Telefonzentrale kann mit allen relevanten Stellen Kontakt aufnehmen und die notwendigen Maßnahmen unverzüglich einleiten.
 * Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte. Dies gilt auch für Anweisungen mit Blick auf Rettung bzw. Zurücklassen von Gepäck o.ä..
