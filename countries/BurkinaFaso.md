@@ -30,16 +30,16 @@ In der Innenstadt von Ouagadougou kommt es wiederholt zur Einrichtung von Kontro
 
 ### Terrorismus
 
-Außerhalb Ouagadougous und Bobo-Dioulassos besteht erhöhte Terrorgefahr. Sicherheitsrelevante Vorfälle haben zuletzt weiter zugenommen.  
-
-Es besteht eine hohe Gefahr terroristischer Gewaltakte und Entführungen. Davon sind auch touristische Ziele betroffen, wie z.B. die Nationalparks „W“ und Arly im Südosten (siehe *Sicherheit - Innenpolitische Lage)*, der geschützte Wald von Nazinga im Süden an der Grenze zu Ghana, die Wasserfälle von Banfora im Südosten und die Stadt Pô im Süden (siehe *Sicherheit - Teilreisewarnung*).
+Insbesondere außerhalb der großen Städte besteht eine hohe Gefahr terroristischer Gewaltakte und Entführungen. Sicherheitsrelevante Vorfälle haben zuletzt weiter zugenommen. Davon sind auch touristische Ziele betroffen, wie z.B. die Nationalparks „W“ und Arly im Südosten (siehe *Sicherheit - Innenpolitische Lage)*, der geschützte Wald von Nazinga im Süden an der Grenze zu Ghana, die Wasserfälle von Banfora im Südosten und die Stadt Pô im Süden (siehe *Sicherheit - Teilreisewarnung*).
 
 Es kommt im Land vermehrt zu Entführungsfällen. In der Vergangenheit waren auch westliche Ausländer Opfer gezielter Entführungen, wie 2018 und 2019 im Pendjari-Nationalpark auf beninischer Seite im Grenzgebiet mit anschließender Verschleppung nach Burkina Faso. Zuletzt wurden im April 2021 in der Nähe von Pama im Südosten drei europäische Staatsangehörige bei einem Entführungsversuch getötet.
 
 Sport- und Kulturveranstaltungen wie Wüsten-Rallyes oder Musikfestivals außerhalb Ouagadougous und Bobo-Dioulassos sind mit erheblichen Anschlags- und Entführungsrisiken verbunden.
 
+In den beiden großen Städten Bobo-Dioulasso und Ouagadougou besteht die Gefahr von Terroranschlägen.
+
 * Reisen Sie nur auf dem Luftweg und nicht auf dem Landweg nach Burkina Faso ein. Führen Sie unbedingt notwendige, längere Reisen auf dem Landweg außerhalb des unmittelbaren Stadtgebiets Ouagadougous nur mit einem tragfähigen Sicherheitskonzept und nur tagsüber durch.
-* Seien Sie insbesondere an belebten Orten, bei besonderen Anlässen und in der Innenstadt von Ouagadougou besonders vorsichtig.
+* Seien Sie insbesondere an belebten Orten, bei besonderen Anlässen und in der Innenstadt von Ouagadougou und Bobo-Dioulasso besonders vorsichtig.
 * Beachten Sie auch den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
