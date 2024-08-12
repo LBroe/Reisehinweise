@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-Die australische Regierung verfügt über ein Terrorwarnsystem mit fünf Stufen. Für terroristische Anschläge gilt zurzeit Stufe 2 („Possible“ = Anschlag möglich). Für die Bevölkerung sind damit keine spezifischen Vorsichtsmaßnahmen verbunden.
+Die australische Regierung verfügt über ein Terrorwarnsystem mit fünf Stufen. Für terroristische Anschläge gilt zurzeit Stufe 3 („Probable“ = Anschlagswahrscheinlichkeit in den nächsten 12 Monaten über 50 Prozent). Für die Bevölkerung sind damit keine spezifischen Vorsichtsmaßnahmen verbunden.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
@@ -18,7 +18,7 @@ Die Lage in Australien ist stabil.
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist insgesamt zwar niedrig. Es kommt aber auch in Australien zu Diebstählen und Autoaufbrüchen, insbesondere an für Touristen attraktiven Plätzen, sowie gelegentlich zu Fällen von versuchtem Kreditkartenbetrug durch das Klonen von Karten. Rucksacktouristen sollten sich besonders in einfachen Unterkünften der Diebstahlsgefahr bewusst sein.
+Die Kriminalitätsrate ist insgesamt zwar niedrig. Es kommt aber auch in Australien zu Diebstählen und Autoaufbrüchen, insbesondere an für Touristen attraktiven Plätzen, sowie gelegentlich zu Fällen versuchten Kreditkartenbetrugs durch das Klonen von Karten. Rucksacktouristen sollten sich besonders in einfachen Unterkünften der Diebstahlsgefahr bewusst sein.
 
 Vereinzelt kommt es zu Überfällen auf Touristen, die nachts außerhalb organisierter Campingplätze gezeltet bzw. geparkt haben.  
 Übergriffe erfolgten insbesondere bei Dunkelheit auch in Alice Springs im Northern Territory, an der Gold Coast und in Cairns in Queensland sowie an touristisch beliebten Orten Sydneys wie z.B. Kings Cross, auch auf ausländische Touristen.  
@@ -79,10 +79,10 @@ Für kurzfristige Aufenthalte in Australien gilt der deutsche Führerschein zusa
 
 ### Wanderungen und Trekking-Touren im Outback
 
-Reisende, die abgelegene Strecken im Outback befahren wollen, können sich und ihre geplante Reiseroute bei den örtlichen Behörden registrieren. Sie ermöglicht es den Behörden, in Notfällen schneller reagieren zu können.  
-Es gab mehrere tragische Todesfälle von Reisenden, die bei Wanderungen im Outback an Flüssigkeitsmangel und Hitzeschlag verstarben.
+Reisende, die abgelegene Strecken im Outback befahren wollen, können sich und ihre geplante Reiseroute bei den örtlichen Behörden registrieren. Dies ermöglicht es den Behörden, in Notfällen schneller reagieren zu können.  
+Es gab mehrere tragische Todesfälle Reisender, die bei Wanderungen im Outback an Flüssigkeitsmangel und Hitzeschlag verstarben.
 
-Die insgesamt sehr dünne Besiedelung Australiens bringt es mit sich, dass das Mobilfunknetz nur wenig ausgebaut ist. Die in Australien vielfach vorherrschende Hügellandschaft schränkt die Reichweite des Mobilfunknetzes zusätzlich ein. Außerhalb größerer Städte bzw. abseits der wichtigen Verkehrsachsen ist daher davon auszugehen, dass es keinen oder nur sporadischen Mobilfunkempfang gibt. Dies gilt auch für Buschwanderungen in Nationalparks und auch in der unmittelbaren Nähe größerer Städte oder Ballungsräume.
+Die insgesamt sehr dünne Besiedelung Australiens bringt es mit sich, dass das Mobilfunknetz außerhalb von Ballungsräumen nur wenig ausgebaut ist. Die in Australien vielfach vorherrschende Hügellandschaft schränkt die Reichweite des Mobilfunknetzes zusätzlich ein. Außerhalb größerer Städte bzw. abseits der wichtigen Verkehrsachsen ist daher davon auszugehen, dass es keinen oder nur sporadischen Mobilfunkempfang gibt. Dies gilt auch für Buschwanderungen in Nationalparks und auch in der unmittelbaren Nähe größerer Städte oder Ballungsräume.
 
 * Registrieren Sie sich für abgelegene Strecken zu Ihrer Sicherheit bei der Polizei, in Tankstellen oder Geschäften.
 * Vermeiden Sie körperliche Anstrengungen in der Mittagshitze und nehmen Sie bei Wanderungen Sonnenschutz und große Mengen Trinkwasser mit.
@@ -100,7 +100,7 @@ Australien kann als eines der am meisten LGBTIQ-akzeptierenden Länder der Welt 
 
 Die Gesetze können sich in den einzelnen Bundesstaaten unterscheiden. Dies gilt auch z.B. für den Alkoholkonsum, Verkehrsvorschriften und das Rauchen in der Öffentlichkeit.
 
-Das Rauchen ist in öffentlichen Gebäuden, Transportmitteln, Einkaufszentren und Restaurants grundsätzlich nicht gestattet.
+In öffentlichen Gebäuden, Transportmitteln, Einkaufszentren und Restaurants ist das Rauchen grundsätzlich nicht gestattet.
 
 Vergehen gegen das Betäubungsmittelgesetz werden hart bestraft, auch sonst werden Gesetzesverstöße strenger geahndet als in Deutschland.
 
@@ -138,7 +138,7 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Australien ein Visu
 
 #### *eVisitor*
 
-Für Geschäftsreisende und Touristen aus Deutschland und den anderen EU-Mitgliedsländern wird das [eVisitor Visum](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) (Subclass 651) angeboten. Das Visum ist 12 Monate gültig und berechtigt innerhalb dieses einen Jahres zu beliebig vielen Aufenthalten in Australien von jeweils maximal drei Monaten. Es kann kostenlos online beantragt werden. Antragsteller werden über die erfolgreiche Ausstellung des eVisitor-Visums per E-Mail benachrichtigt. Das eVisitor-Visum wird bei den Grenzübergängen und anderen Stellen elektronisch gespeichert.
+Für Geschäftsreisende und Touristen aus Deutschland und den anderen EU-Mitgliedsländern wird das [eVisitor-Visum](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) (Subclass 651) angeboten. Das Visum ist 12 Monate gültig und berechtigt innerhalb dieses einen Jahres zu beliebig vielen Aufenthalten in Australien von jeweils maximal drei Monaten. Es kann kostenlos online beantragt werden. Antragsteller werden über die erfolgreiche Ausstellung des eVisitor-Visums per E-Mail benachrichtigt. Das eVisitor-Visum wird bei den Grenzübergängen und anderen Stellen elektronisch gespeichert.
 
 #### *Electronic Travel Authority ETA*
 
@@ -158,11 +158,11 @@ Der Ombudsmann steht auch ausländischen Jobbern mit Working-Holiday-Visum für 
 
 ### Einreisekontrolle/Körperscanner
 
-Fluggäste auf vielen Flughäfen in Australien müssen mit dem Einsatz von Köperscannern rechnen. Eine Weigerung, sich der Überprüfung mittels Körperscanner zu unterziehen, führt zu einer Verzögerung bei der Sicherheitsüberprüfung und Zugang zum Transitbereich erst nach einer Frist von 24 Stunden. Weitere Informationen stehen auf der [Webseite des australischen Department of Home Affairs](https://www.homeaffairs.gov.au/about-us/what-we-do/travelsecure/security-screening-at-airports) zur Verfügung.
+Fluggäste müssen an vielen Flughäfen in Australien mit dem Einsatz von Köperscannern rechnen. Eine Weigerung, sich der Überprüfung mittels Körperscanner zu unterziehen, führt zu einer Verzögerung bei der Sicherheitsüberprüfung und Zugang zum Transitbereich erst nach einer Frist von 24 Stunden. Weitere Informationen stehen auf der [Webseite des australischen Department of Home Affairs](https://www.homeaffairs.gov.au/about-us/what-we-do/travelsecure/security-screening-at-airports) zur Verfügung.
 
 ### Minderjährige
 
-Alleinreisende Kinder im Alter von fünf bis 11 Jahren müssen bei der Fluggesellschaft als minderjährige Reisende (*unaccompanied minor*) angemeldet werden. Alleinreisende Kinder im Alter von 12 bis 15 Jahren können als minderjährige Reisende angemeldet werden; sollten jedoch immer als junge Reisende (young passenger) identifiziert sein. Weitere Informationen stellt beispielsweise [Qantas](https://www.qantas.com/au/en/travel-info/children/unaccompanied.html) zur Verfügung.
+Alleinreisende Kinder im Alter von fünf bis elf Jahren müssen bei der Fluggesellschaft als minderjährige Reisende (*unaccompanied minor*) angemeldet werden. Alleinreisende Kinder im Alter von 12 bis 15 Jahren können als minderjährige Reisende angemeldet werden; sollten jedoch immer als junge Reisende (young passenger) identifiziert sein. Weitere Informationen stellt beispielsweise [Qantas](https://www.qantas.com/au/en/travel-info/children/unaccompanied.html) zur Verfügung.
 
 ### Einfuhrbestimmungen
 
@@ -189,7 +189,7 @@ Eine Zusammenstellung der australischen Einfuhrbeschränkungen finden Sie bei de
 
 ### Heimtiere
 
-Bei der Einfuhr von Heimtieren findet das australische Quarantäneregime Anwendung. Der Prozess der organisatorischen Vorbereitung ist sehr zeitaufwendig. Es ist mit Vorlaufzeiten von mindestens sechs Monaten zu rechnen. Vor der Ausreise sind mehrmalige Tierarztbesuche vorgeschrieben (Microchip, Tollwutimpfung, Zeckenbehandlung, Wurmkur, Bluttests). Weiterhin muss eine Einreisegenehmigung und ein Gesundheitszeugnis bei den australischen Behörden beantragt werden. Nach der Einreise in Australien wird das Heimtier bis zu 30 Tage in einer Quarantänestation untergebracht. Es gilt zu beachten, dass bestimmte Hunderassen nicht nach Australien eingeführt werden dürfen, darunter Pit Bull Terrier. Weitergehende Informationen bietet [das australische Ministerium für Landwirtschaft](https://www.agriculture.gov.au/biosecurity-trade/cats-dogs)*.* 
+Bei der Einfuhr von Heimtieren findet das australische Quarantäneregime Anwendung. Der Prozess der organisatorischen Vorbereitung ist sehr zeitaufwendig. Es ist mit Vorlaufzeiten von mindestens sechs Monaten zu rechnen. Vor der Ausreise sind mehrmalige Tierarztbesuche vorgeschrieben (Microchip, Tollwutimpfung, Zeckenbehandlung, Wurmkur, Bluttests). Weiterhin muss eine Einreisegenehmigung und ein Gesundheitszeugnis bei den australischen Behörden beantragt werden. Nach der Einreise in Australien wird das Heimtier bis zu 30 Tage in einer Quarantänestation untergebracht. Es gilt zu beachten, dass bestimmte Hunderassen nicht nach Australien eingeführt werden dürfen, darunter Pit-Bull-Terrier. Weitergehende Informationen bietet [das australische Ministerium für Landwirtschaft](https://www.agriculture.gov.au/biosecurity-trade/cats-dogs)*.* 
 
 #### Einfuhrbestimmungen innerhalb Australiens
 
