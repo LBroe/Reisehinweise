@@ -1,5 +1,12 @@
 # Simbabwe: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Anlässlich des SADC-Gipfels (Southern African Development Community) am 17. August 2024 in Harare wird eine Vielzahl an Staats- und Regierungschefs erwartet.
+
+* Informieren Sie sich ggf. über die [SADC-Webseite.](https://www.sadc.int/node/4959)
+* Rechnen Sie bitte – vor und auch nach diesem Datum - mit erhöhten Sicherheitsmaßnahmen und ggf. Reisebeschränkungen, neben erhöhtem Verkehrsaufkommen und ggf. Straßensperren.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -82,7 +89,7 @@ Homosexuelle Handlungen sind mit Strafe bedroht (Geldstrafe oder bis zu einem Ja
 
 ### Rechtliche Besonderheiten
 
-Das Fotografieren und Filmen von Militäranlagen und -fahrzeugen, Soldaten, Polizisten, VIPs und sicherheitsrelevanten Gebäuden (z. B. der Amtssitz des Präsidenten "Zimbabwe House" oder auch "State House" auf der Borrowdale Road in Harare) ist verboten. Dies wird durchaus sehr weit ausgelegt. Landschaftsfotos, bei denen zufälligerweise Farmen von Regierungsmitgliedern mitaufgenommen wurden, führten schon zu Verhaftungen.
+Das Fotografieren und Filmen von Militäranlagen und -fahrzeugen, Soldaten, Polizisten, VIPs und sicherheitsrelevanten Gebäuden (z. B. der Amtssitz des Präsidenten "Zimbabwe House" oder auch "State House" auf der Borrowdale Road in Harare) ist verboten. Dies wird durchaus sehr weit ausgelegt. Landschaftsfotos, bei denen zufälligerweise Farmen von Regierungsmitgliedern mitaufgenommen wurden, führten schon zu Verhaftungen. Ebenfalls verboten ist das Tragen von Camouflage-Kleidung, sog. „Tarnkleidung“, die ausschließlich dem Militär vorbehalten ist.
 
 * Beachten Sie unbedingt Fotografierverbote.
 
@@ -92,7 +99,7 @@ Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landesw
 
 Die Bezahlung mit USD ist jedoch in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZWL existieren bislang nur in begrenztem Umfang.
 
-Der elektronische Zahlungsverkehr wird mit sogenannten RTGS-Dollar („Real Time Gross Settlement“) abgewickelt.
+Der elektronische Zahlungsverkehr wird ebenfalls in der neuen Landeswährung ZWL abgewickelt.
 
 Die Modalitäten des Zahlungsverkehrs unterliegen immer wieder kurzfristigen Änderungen.
 
@@ -132,7 +139,7 @@ Sowohl die südafrikanischen als auch die simbabwischen Einreisebehörden verlan
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise ein Visum. Dieses kann nur bei der Einreise sowohl an den Landesgrenzen als auch an den Flughäfen erteilt werden. Detaillierte Informationen sind beim Department of Immigration Zimbabwe oder bei der [simbabwischen Botschaft in Berlin](https://www.zimembassyberlin.com/de/) erhältlich.
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum. Dieses kann nur bei der Einreise sowohl an den Landesgrenzen als auch an den Flughäfen erteilt werden. Detaillierte Informationen sind beim Department of Immigration Zimbabwe oder bei der [simbabwischen Botschaft in Berlin](https://www.zimembassyberlin.com) erhältlich.
 
 Einreisevisa mit einer Gültigkeit von 30 Tagen werden gegen eine Gebühr von 30 USD an den beiden internationalen Flughäfen Harare und Victoria Falls ausgestellt.
 
@@ -140,9 +147,9 @@ Das bei der Einreise erhältliche Visum ist ein touristisches Visum, das keine A
 
 Für die Aufnahme einer Tätigkeit, auch einer freiwilligen, ist ein sogenanntes Business Visum zu beantragen; der entsprechende Aufenthaltstitel wird anschließend vom Department of Immigration, Linquenda House, Nelson Mandela Ave., erteilt.
 
-Für den Aufenthalt über den im Visum gewährten Zeitraum hinaus oder für den Besuch eines der Nachbarländer ist eine Visumverlängerung bzw. gegebenenfalls eine Änderung in ein Visum zur mehrfachen Einreise (Multiple-Entry-Visa) durch das Department of Immigration, Linquenda House, Nelson Mandela Ave. erforderlich.  
+Für den Aufenthalt über den im Visum gewährten Zeitraum hinaus oder für den Besuch eines der Nachbarländer ist eine Visumsverlängerung bzw. gegebenenfalls eine Änderung in ein Visum zur mehrfachen Einreise (Multiple-Entry-Visa) durch das Department of Immigration, Linquenda House, Nelson Mandela Ave. erforderlich.  
 Die Änderung oder Verlängerung sollte rechtzeitig beantragt werden, um unangenehme Folgen wie Verschiebung der Abreise zu vermeiden.  
-Auch die Einwanderungsbehörden in den größeren Städten können eine Visumverlängerung oder Änderung vornehmen. Zuständig ist jeweils das Department of Immigration.
+Auch die Einwanderungsbehörden in den größeren Städten können eine Visumsverlängerung oder Änderung vornehmen. Zuständig ist jeweils das Department of Immigration.
 
 Verstöße gegen die simbabwischen Aufenthaltsbestimmungen können zu hohen Geldstrafen und Haft führen.
 
@@ -164,7 +171,7 @@ Nach simbabwischem Recht ist die Einfuhr von persönlichen Jagdwaffen (Gewehren)
 
 ### Heimtiere
 
-Heimtiere benötigen neben einer gültigen Tollwutimpfung und eines veterinärärztlichen Zeugnisses eine „Import Permit“. Nehmen Sie hierzu rechtzeitig Kontakt mit der Konsularabteilung der Botschaft von Simbabwe auf. 
+Heimtiere benötigen neben einer gültigen Tollwutimpfung und eines veterinärärztlichen Zeugnisses eine „Import Permit“. Nehmen Sie hierzu rechtzeitig Kontakt mit der [Konsularabteilung der Botschaft von Simbabwe](https://www.zimembassyberlin.com/consular-services/) auf. 
 
 ## **Gesundheit**
 
