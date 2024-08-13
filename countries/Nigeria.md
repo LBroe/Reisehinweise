@@ -1,25 +1,21 @@
 # Nigeria: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Demonstrationen/Unruhen*
-
-Im Internet und den Medien wird ab dem 1. August 2024 zu landesweiten Demonstrationen aufgerufen, die sich auf das öffentliche Leben in ganz Nigeria auswirken können. Es muss mit Beeinträchtigungen des Verkehrs und gewalttätigen Ausschreitungen gerechnet werden. Auch Störungen an den Flughäfen sind nicht ausgeschlossen.
-
-* Informieren Sie sich über die lokalen Medien und meiden Sie Demonstrationen und größere Menschenansammlungen.
-* Erkundigen Sie sich vor Reiseantritt bei Ihrer Fluggesellschaft oder Reiseveranstalter, ob die Reise wie geplant stattfindet.
-
 ## Sicherheit - Teilreisewarnung
 
-**Vor Reisen in den gesamten Bundesstaat Borno einschließlich der Hauptstadt Maiduguri,** auch auf dem Luftweg**, wird gewarnt.** 
+**Vor Reisen in den gesamten Bundesstaat Borno, auch auf dem Luftweg, wird gewarnt.** 
 
-**Vor Reisen, insbesondere auf dem Landweg**,
+**Von nicht notwendigen, touristischen Reisen in die Hauptstadt des Bundesstaates Borno Maiduguri auf dem Luftweg wird abgeraten.** 
+
+**Vor Reisen auf dem Landweg**
 
 * **in die nördlichen Bundesstaaten, Bauchi, Gombe, Kaduna, Kano, Yobe, Sokoto, Katsina, Zamfara und Jigawa,**
 * **in den nördlichen Teil des Bundesstaats Adamawa (nördlich des Benue-Flusses)**
 * **und den östlichen Teil des Bundesstaats Nassarawa**
 
-**wird gewarnt.  
+**wird gewarnt.**
+
+**Von nicht notwendigen, touristischen Reisen in die vorgenannten Bundesstaaten auf dem Luftweg wird abgeraten.**
+
 **Von Reisen in die folgenden Bundesstaaten**
 
 **- Zentral-** und **Nord-Nigeria: Taraba und den südlichen Teil des Bundesstaats Adamawa** (sofern nicht auf dem direkten Luftweg)**,**
@@ -36,15 +32,15 @@ Von Überlandreisen in alle übrigen Landesteile Nigerias wird abgeraten. Fahrte
 
 ### Terrorismus
 
-In den nordöstlichen Landesteilen werden fortlaufend terroristische Gewaltakte, wie z.B. Angriffe und Sprengstoffanschläge von militanten Gruppen auf die Zivilgesellschaft, Sicherheitskräfte, Märkte, Schulen, Kirchen und Moscheen verübt. Auch Angriffe auf dort tätige humanitäre Hilfsorganisationen waren zu verzeichnen. 2021 fand ein schwerer Sprengstoffanschlag in Maiduguri, der Hauptstadt des Bundesstaats Borno, statt. Der Führer der Terrorgruppe Boko Haram, Abubakar Shekau, soll bei Auseinandersetzungen mit der konkurrierenden Terrorgruppe ISWAP 2021 ums Leben gekommen sein.
+In den nordöstlichen Landesteilen werden fortlaufend terroristische Gewaltakte, wie z.B. Angriffe und Sprengstoffanschläge von militanten Gruppen auf die Zivilgesellschaft, Sicherheitskräfte, Märkte, Schulen, Kirchen und Moscheen verübt. Auch Angriffe auf dort tätige humanitäre Hilfsorganisationen waren zu verzeichnen. 2021 fand ein schwerer Sprengstoffanschlag in Maiduguri, der Hauptstadt des Bundesstaats Borno, statt. 
 
 In den nördlichen bzw. nordwestlichen Bundesstaaten, insbesondere im Grenzgebiet zu Niger, kommt es verstärkt zu Entführungen und schweren Gewaltakten, deren Urheberschaft nicht eindeutig ist, die aber unter Umständen ebenfalls terroristischen Gruppen zuzuschreiben sind.
 
 In nigerianischen Metropolen besteht weiterhin grundsätzlich die Gefahr von Anschlägen. Auch in Abuja besteht ein allgemeines Risiko terroristischer oder krimineller Überfälle bzw. Übergriffe. Besondere Wachsamkeit und Umsicht wird empfohlen.
 
-2022 gab es zum wiederholten Male einen Sprengstoffanschlag auf die Zugstrecke von Abuja nach Kaduna, bei dem mehrere Insassen eines Zuges ums Leben kamen oder entführt wurden.
+2022 gab es zum wiederholten Male einen Sprengstoffanschlag auf die Zugstrecke von Abuja nach Kaduna, bei dem mehrere Insassen eines Zuges ums Leben kamen oder entführt wurden. Die Zugverbindung wurde nach achtmonatiger Sperre im Dezember 2022 wieder aufgenommen.
 
-**Vor der Nutzung der Zugverbindung wird daher gewarnt.**
+**Von der Nutzung der Zugverbindung wird abgeraten.**
 
 Belebte Orte wie Märkte, Moscheen, Kirchen, Hotels, Einkaufszentren und Verkehrsknotenpunkte wie Busbahnhöfe und große Taxistände, die nicht über verlässliche Sicherheitsvorkehrungen verfügen, bieten ein erhöhtes Risiko für Anschläge.
 
@@ -56,8 +52,6 @@ Das Risiko von terroristisch oder kriminell motivierten Entführungen ist hoch, 
 * Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
 ### Innenpolitische Lage
-
-Siehe *Aktuelles*
 
 In Nigeria können in allen Regionen unvorhersehbare lokale Konflikte aufbrechen. Ursachen und Anlässe der Konflikte können politischer, wirtschaftlicher, religiöser, gesellschaftlicher und/oder ethnischer Art sein.
 
@@ -112,8 +106,6 @@ Während der Regenzeit von Mai bis November ist mit intensiven Regenfällen zu r
 
 ### Infrastruktur/Verkehr
 
-Siehe *Aktuelles*
-
 Die Infrastruktur in Nigeria ist mangelhaft. Die Versorgungslage - insbesondere Benzin, Diesel, Strom- und Wasser - ist im gesamten Land häufig unzureichend. Kraftstoffe sind oft von mangelhafter Qualität.
 
 Nigeria verfügt über ein recht weitreichendes Inlandsflugnetz, bei dem der Sicherheitsstandard jedoch nicht immer europäischen Maßstäben entspricht. Es kommt häufig zu teils erheblichen Verspätungen und Flugausfällen.
@@ -128,7 +120,7 @@ Der Grenzübergang zu Benin in Sèmè-Kpodji ist offiziell wiedereröffnet, der 
 
 ### Führerschein
 
-Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### Kommunikation
 
@@ -159,7 +151,11 @@ Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Nigerias, wie z. B. dem [Nigerian Immigration Service](https://immigration.gov.ng/) und dem nigerianischen Seuchenkontrollzentrum [NCDC](https://www.ncdc.gov.ng/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Nigerias, wie z. B. dem [Nigerian Immigration Service](https://immigration.gov.ng/) und dem nigerianischen Seuchenkontrollzentrum [NCDC](https://www.ncdc.gov.ng/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende") 
+
+#### *Mpox-Ausbruch*
+
+Aufgrund eines Ausbruchs von Mpox-Viren in Zentralafrika (Affenpocken) verlangen die nigerianischen Gesundheitsbehörden seit dem 11. August 2024 die Vorlage einer [Gesundheitsbestätigung](https://healthapp.ncdc.gov.ng) (Health Declaration Form) bei der Einreise nach Nigeria, die auch online ausgefüllt und abgeschickt werden kann. Die Erklärung sollte online nach Möglichkeit vor dem Abflug ausgefüllt und abgeschickt werden, um eine zügige Einreise nach Nigeria zu ermöglichen.
 
 ### Reisedokumente
 
@@ -211,6 +207,8 @@ Für die Einfuhr von Heimtieren ist eine Einfuhrgenehmigung des [Federal Ministr
 ## Gesundheit
 
 ### Aktuelles
+
+***Siehe Einreise und Zoll – Mögliche Einreisebeschränkungen/COVID-19***  
 
 #### *Gelbfieber-Ausbruch*
 

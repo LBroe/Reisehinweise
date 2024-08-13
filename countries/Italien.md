@@ -63,9 +63,7 @@ Vor allem in den Sommermonaten kommt es in Italien aufgrund der herrschenden kli
 
 #### *Dürre in Mittel- und Süditalien*
 
-In den mittleren und südlichen Regionen Italiens, insbesondere auf Sizilien, herrscht aufgrund der aktuellen Wetterlage sowie ausbleibender Regenfälle bereits seit einigen Wochen erheblicher Wassermangel, es gelten Dürre-Warnungen der Stufe rot (höchste Warnstufe) für Sizilien sowie orange (zweithöchste Warnstufe) für die Regionen Marken, Latium, Umbrien, Abruzzen, Molise, Apulien, Kampanien, Kalabrien, Basilikata sowie für Sardinien. 
-
-Aktuelle Informationen bietet die [Webseite von ISPRA](https://www.isprambiente.gov.it/pre_meteo/idro/SeverIdrica.html).
+In den mittleren und südlichen Regionen Italiens, insbesondere auf Sizilien, herrscht aufgrund der aktuellen Wetterlage sowie ausbleibender Regenfälle bereits seit einigen Wochen erheblicher Wassermangel. Die italienischen Behörden haben deshalb Dürre-Warnungen für betroffene Regionen Italiens ausgegeben und auf der [Webseite von ISPRA](https://www.isprambiente.gov.it/pre_meteo/idro/SeverIdrica.html) veröffentlicht.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
