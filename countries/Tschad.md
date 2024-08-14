@@ -182,7 +182,7 @@ Die Ausfuhr von nach dem Washingtoner Artenschutzabkommen (CITES) geschützten P
 
 | Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Nur bei Einreise aus einem Gelbfiebergebiet ist ab dem Alter von neun Monaten eine Gelbfieberimpfung nachzuweisen. |
 | --- | --- |
-| Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist i.d.R. nicht notwendig. |
+| Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Gelbfieber, Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist i.d.R. nicht notwendig. |
 | Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
 
 ### 
@@ -197,7 +197,7 @@ Die medizinische Versorgung in Tschad ist nicht mit der Versorgung in Deutschlan
 
 ### Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen
 
-[Gelbfieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") und [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") sind schwerwiegende Erkrankungen, die durch Mücken übertragen werden. Der Anteil an der gefährlichen Malaria tropica (*P. falciparum*) beträgt über 99 %. Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika.pdf) zur Verfügung. Das Malariarisiko ist saisonal und regional unterschiedlich:
+[Gelbfieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") und [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") sind schwerwiegende Erkrankungen, die durch Mücken übertragen werden. Der Anteil an der gefährlichen Malaria tropica (*P. falciparum*) beträgt über 99%. Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika.pdf) zur Verfügung. Das Malariarisiko ist saisonal und regional unterschiedlich:
 
 * Ganzjährig hohes Risiko: südliche Hälfte einschl. N’Djamena
 * Saisonal hohes Risiko von Juni bis Dezember: Region zwischen Sahara und tropischen Landesteilen
