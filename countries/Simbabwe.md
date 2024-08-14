@@ -95,15 +95,13 @@ Das Fotografieren und Filmen von Militäranlagen und -fahrzeugen, Soldaten, Poli
 
 ### Geld/Kreditkarten
 
-Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landeswährung, den Zimbabwe Dollar (ZWL), ersetzt und die Verwendung ausländischer Währungen untersagt.
+Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landeswährung, den Zimbabwe Dollar (ZWL).
 
-Die Bezahlung mit USD ist jedoch in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZWL existieren bislang nur in begrenztem Umfang.
-
-Der elektronische Zahlungsverkehr wird ebenfalls in der neuen Landeswährung ZWL abgewickelt.
+Die Bezahlung mit USD ist in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZWL existieren bislang nur in begrenztem Umfang.
 
 Die Modalitäten des Zahlungsverkehrs unterliegen immer wieder kurzfristigen Änderungen.
 
-Die Bezahlung mit ausländischen Kreditkarten und das Abheben von Bargeld an Geldautomaten sind derzeit nicht landesweit sichergestellt. Kreditkarten werden nur sehr selten akzeptiert; wenn überhaupt, dann zumeist Visa und Mastercard. Reisende sollten ihre Reise daher mit ausreichend Bargeld antreten. Es ist ratsam, größere Geldbeträge im Hotel im Safe zu deponieren, um das Diebstahlrisiko zu minimieren.
+Die Bezahlung mit ausländischen Kreditkarten und das Abheben von Bargeld an Geldautomaten sind derzeit nicht landesweit sichergestellt. Kreditkarten werden nur selten akzeptiert; wenn überhaupt, dann zumeist VISA und Mastercard. Reisende sollten ihre Reise daher mit ausreichend Bargeld antreten. Es ist ratsam, größere Geldbeträge im Hotel im Safe zu deponieren, um das Diebstahlrisiko zu minimieren.
 
 Bei Geldmangel oder Verlust der mitgebrachten Reisemittel besteht die Möglichkeit, sich über die einschlägigen international operierenden Finanztransaktionsdienstleister Geld aus Deutschland in kleineren Mengen überweisen zu lassen. Es ist nicht ausgeschlossen, dass aufgrund des allgemeinen Devisenmangels einzelne Filialen dieser Finanztransaktionsdienstleister trotz erfolgter Überweisung nicht in der Lage sind, Bargeld auszuzahlen. Ausgenommen ist hiervon nach eigener Auskunft die Filiale in der Ecobank Zimbabwe, 2 Piers Road Sam Levy’s Village, Borrowdale, Harare, Tel.: +263-42-851642.
 
@@ -244,7 +242,7 @@ Medizinische Evakuierungen bietet im Gastland Emergency Medical Rescue Services 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

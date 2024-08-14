@@ -18,7 +18,7 @@ In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süde
 
 Es kann in allen Landesteilen zu Demonstrationen und anderen Kundgebungen kommen. Gewaltsame Zusammenstöße zwischen Demonstranten und Sicherheitskräften sind nicht auszuschließen. In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kann es zu Auseinandersetzungen und Anschlägen kommen. Hier gilt das Notstandsrecht.
 
-Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung, dem König und dem thailändischen Königshaus kann strafrechtlich relevant werden, insbesondere, wenn sie unter Nutzung elektronischer Medien geäußert wird.  
+Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung, dem König und dem thailändischen Königshaus kann strafrechtlich relevant werden, insbesondere, wenn sie unter Nutzung elektronischer Medien geäußert wird.
 
 * Seien Sie sich des strengen Majestätsbeleidigungsgesetzes in Thailand bewusst, *siehe Reiseinfos - Rechtliche Besonderheiten*.
 * Informieren Sie sich über die lokalen und internationalen Medien.
@@ -119,9 +119,9 @@ Der Diebstahl von Gegenständen mit geringem Wert kann mit sehr hohen Haftstrafe
 
 Der sexuelle Missbrauch von Minderjährigen in Thailand wird hart bestraft und auch in Deutschland strafrechtlich verfolgt, wenn die Tat in Thailand begangen wurde. Im Zweifel sollte man sich über das Alter der Partnerin/des Partners vergewissern. Ausweise sind allerdings häufig gefälscht.
 
-#### *Zugangsbeschränkungen zu Bars und Diskotheken*
+#### *Zugangsbeschränkungen zu Bars und Diskotheken/Alkoholkonsum*
 
-Personen unter 20 Jahren ist der Zutritt zu Bars, Diskotheken und Massagesalons generell verboten. Für Jugendliche unter 18 Jahren gilt eine Sperrstunde ab 22 Uhr. Jugendlichen, die nach dieser Zeit ohne elterliche Begleitung in der Öffentlichkeit angetroffen werden, droht die vorläufige Festnahme. Der Begriff "Öffentlichkeit" wird von den Behörden weit ausgelegt und umfasst neben Restaurants auch Kinos. Alkoholkonsum ist Jugendlichen unter 18 Jahren in der Öffentlichkeit verboten und wird bestraft. Generell ist das Trinken von Alkohol im Inneren eines fahrenden oder parkenden Fahrzeugs verboten; dies gilt für alle Insassen.
+Personen unter 20 Jahren ist der Zutritt zu Bars, Diskotheken und Massagesalons generell verboten. Für Jugendliche unter 18 Jahren gilt eine Sperrstunde ab 22 Uhr. Jugendlichen, die nach dieser Zeit ohne elterliche Begleitung in der Öffentlichkeit angetroffen werden, droht die vorläufige Festnahme. Der Begriff "Öffentlichkeit" wird von den Behörden weit ausgelegt und umfasst neben Restaurants auch Kinos. Alkoholkonsum ist Jugendlichen unter 20 Jahren in der Öffentlichkeit verboten und wird bestraft. Generell ist das Trinken von Alkohol im Inneren eines fahrenden oder parkenden Fahrzeugs verboten; dies gilt für alle Insassen.
 
 #### *Kleidungsvorschriften*
 
@@ -169,13 +169,7 @@ Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Thailands sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
-
-#### *Ein- und Ausreise*
-
-Reisende, die im Anschluss an ihren Aufenthalt in Thailand in ein Land zurück- oder weiterreisen, das bei Einreise ein negatives COVID-19-Testergebnis verlangt, müssen bei Einreise nach Thailand eine Krankenversicherung nachweisen, die den Zeitraum des geplanten Aufenthaltes in Thailand zuzüglich sieben weiterer Tage abdeckt und die Behandlungskosten im Falle einer COVID-19-Erkrankung einschließt.
-
-Zu Einreisefragen gibt die [zuständige thailändische Auslandsvertretung](https://berlin.thaiembassy.org/de) in Deutschland Auskunft.
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Thailands sowie der für Deutschland [zuständigen Vertretung.](https://berlin.thaiembassy.org/de) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
