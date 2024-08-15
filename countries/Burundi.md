@@ -195,14 +195,14 @@ In Burundi besteht eine Risiko für Erkrankungen wie [Meningokokken-Erkrankungen
 * Beachten Sie lokale Warnungen.
 * Beachten Sie lokale Warnungen. Lassen Sie sich bzgl. einer Meningokokken ACWY-Impfung ärztlich beraten.
 
-[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")  und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
 Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
 
-Das Mpox-Virus wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.

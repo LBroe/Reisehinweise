@@ -248,6 +248,17 @@ In Uganda besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen](
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
+### Mpox
+
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
+
 ### Durch Tierkontakt übertragene Erkrankungen
 
 [Leptospirose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leptospirose/2519598 "Leptospirose") wird durch Kontakt mit infektiösen Ausscheidungen von Nagetieren übertragen. Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") erfolgt vor allem über Hunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle. [Rift-Valley-Fieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/rvf/2559826 "Rift-Valley-Fieber (RVF)") wird u.a. durch den Kontakt mit Schlacht- und Milchprodukten infizierter Tiere übertragen. Bei [Milzbrand](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/anthrax/2642240 "Milzbrand (Anthrax)") handelt sich um eine bakterielle Infektion, die durch Kontakt mit erkrankten Huftieren (vor allem Schweine, Rinder, Schafe, Ziegen, Pferde und Wildtiere sowie deren Kadaver) übertragen werden kann. In Uganda leben eine Reihe gefährlicher, teils nachtaktiver Giftschlangen, giftiger Spinnen und Skorpione. Daneben kommen auch andere Tiere mit potentiell starker Giftwirkung wie z. B. auffällig gefärbte Schmetterlingsraupen und Hundertfüßer vor.
