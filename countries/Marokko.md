@@ -26,7 +26,7 @@ Die politische Lage in Marokko ist grundsätzlich stabil und ruhig. Vereinzelte,
 
 **Von Reisen in die unmittelbare Grenzregion mit Algerien** **wird** **dringend abgeraten.**
 
-Die Landgrenze nach Algerien ist seit 1994 geschlossen und wird streng kontrolliert. Die Grenzregion steht unter Beobachtung der marokkanischen Sicherheitsbehörden. Es besteht die Gefahr einer Festnahme, s. auch [Reise- und Sicherheitshinweise zu Algerien.](https://www.auswaertiges-amt.de/de/service/laender/algerien-node/algeriensicherheit/219044) Eine Beeinträchtigung der Sicherheit ausländischer Staatsangehöriger, die sich in der Region aufhalten, kann nicht ausgeschlossen werden.
+Die Landgrenze nach Algerien ist seit 1994 geschlossen und wird streng kontrolliert. Die Grenzregion steht unter Beobachtung der marokkanischen Sicherheitsbehörden. Es besteht die Gefahr einer Festnahme, siehe auch [Reise- und Sicherheitshinweise zu Algerien.](https://www.auswaertiges-amt.de/de/service/laender/algerien-node/algeriensicherheit/219044) Eine Beeinträchtigung der Sicherheit ausländischer Staatsangehöriger, die sich in der Region aufhalten, kann nicht ausgeschlossen werden.
 
 Wüstentouren in die Dünenlandschaften Südmarokkos (Erg Chebbi südlich von Merzouga bzw. Erg Chegaga und Erg Lihoudi südlich von Zagora) können mit einem ortskundigen Reiseveranstalter und vorzugsweise als Gruppe durchgeführt werden. Die aktuelle Sicherheitslage für solche Wüstentouren sollte vor jedem Reiseantritt bei dem jeweiligen Reiseveranstalter überprüft werden.
 
@@ -201,7 +201,7 @@ Für die Einreise aus Ländern mit aktuellem Poliomyelitis-Ausbruch, siehe auch 
 
 Für die direkte Einreise aus Deutschland sind keine Impfungen vorgeschrieben.
 
-* Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
+* Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden.
 * Als Reiseimpfungen werden Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch Hepatitis B, Typhus und Tollwut empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
