@@ -19,7 +19,7 @@ Kuba ist ein sozialistischer Einparteienstaat. Meinungs- und Pressefreiheit sind
 
 ### Kriminalität
 
-Auch in Kuba können Reisende Opfer von Eigentumsdelikten, Körperverletzungen, in seltenen Fällen auch von Gewaltverbrechen werden. Allein reisende Frauen können in Einzelfällen auch Opfer von Sexualstraftaten werden. Es ist vereinzelt von exhibitionistischen Handlungen sowie von versuchten Vergewaltigungen berichtet worden.
+Reisende können Opfer von Eigentumsdelikten, Körperverletzungen, in seltenen Fällen auch von Gewaltverbrechen werden. Alleinreisende Frauen können in Einzelfällen Opfer von Sexualstraftaten werden. Es ist vereinzelt von exhibitionistischen Handlungen sowie von versuchten Vergewaltigungen berichtet worden.
 
 Es kommt vermehrt zu Diebstählen von Taschen und anderen persönlichen Gegenständen an den Stränden (z.B. an den Playas del Este in der Nähe von Havanna sowie an anderen Stränden in der Nähe von Touristenorten, wie Trinidad oder Cienfuegos), aber auch an belebten Orten wie Havannas Innenstadt sowie nachts in unbeleuchteten Gegenden.
 
@@ -64,7 +64,7 @@ Kubanische Staatsangehörige benötigen für jegliche Art privater Geschäfte ei
 
 Im Straßenverkehr besteht eine erhöhte Unfallgefahr aufgrund des schlechten Straßenzustandes, mangelnder Straßenbeleuchtung, Tieren auf der Fahrbahn, unvorhersehbaren Fahrverhaltens sowie technischer Unzulänglichkeiten (keine Beleuchtung, Bremsversagen etc.). Kubanische Verkehrsteilnehmende verständigen sich im Straßenverkehr zum Teil durch ein System von Handzeichen, die für ausländische Personen zunächst nicht verständlich sind. Hier ist besondere Vorsicht geboten.
 
-Es herrscht Alkoholverbot am Steuer. Ferner ist der Konsum von Alkohol im Passagierraum eines Autos, also auch für Mitfahrende verboten. Es darf darüber hinaus auch kein Alkohol im Personenraum des Autos mitgeführt werden, wenn der Konsum offensichtlich ist.
+Es herrscht Alkoholverbot am Steuer. Ferner ist Alkoholkonsum im Passagierraum eines Autos, also auch für Mitfahrende, verboten.
 
 Bei Unfällen mit Personenschäden unter Beteiligung ausländischer Reisender kann es zu einer mehrwöchigen Ausreisesperre, evtl. auch zu Untersuchungshaft kommen. Wenn Personen verletzt oder getötet wurden, werden gegen ausländische Fahrer zum Teil drakonische Haftstrafen verhängt.
 
@@ -82,13 +82,13 @@ Der deutsche Führerschein wird für touristische Aufenthalte anerkannt. Bei ein
 
 ### LGBTIQ
 
-Homosexualität steht nicht unter Strafe. Die Toleranz in der Bevölkerung, vor allem im ländlichen Raum, ist gering.
+Homosexuelle Handlungen stehen nicht unter Strafe. Die Toleranz in der Bevölkerung, vor allem im ländlichen Raum, ist gering.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
 ### Rechtliche Besonderheiten
 
-Schon beim Fund geringer Mengen Drogen ist mit drastischen Strafen zu rechnen. Der Besitz von Kleinmengen wird bei ausländischen Personen zudem als Drogenschmuggel geahndet. Das Strafmaß hierfür beträgt vier bis 30 Jahre Haft, auf besonders schwere Fälle steht die Todesstrafe. Zur strafrechtlichen Verfolgung nach Verkehrsunfällen siehe *Reiseinfos Infrastruktur/Verkehr*. Wirtschaftliche Aktivitäten unterliegen in Kuba einer Vielzahl von Regulierungen und Beschränkungen. Insbesondere der Erwerb von Eigentum ist für ausländische Personen mit Touristenstatus nicht möglich. Verstöße gegen diese Vorschriften werden von den kubanischen Behörden mit zum Teil empfindlichen Haftstrafen geahndet. Dazu zählt auch der Erwerb von Eigentum über kubanische Mittler oder Familienangehörige. Politische Betätigung ist ausländischen Personen nicht gestattet.
+Der Besitz geringer Mengen an Drogen kann mit drastischen Strafen geahndet werden und wird bei ausländischen Personen zudem als Drogenschmuggel angesehen. Das Strafmaß hierfür beträgt vier bis 30 Jahre Haft, auf besonders schwere Fälle steht die Todesstrafe. Zur strafrechtlichen Verfolgung nach Verkehrsunfällen siehe *Reiseinfos Infrastruktur/Verkehr*. Wirtschaftliche Aktivitäten unterliegen in Kuba einer Vielzahl von Regulierungen und Beschränkungen. Insbesondere der Erwerb von Eigentum ist für ausländische Personen mit Touristenstatus nicht möglich. Verstöße gegen diese Vorschriften werden von den kubanischen Behörden mit zum Teil empfindlichen Haftstrafen geahndet. Dazu zählt auch der Erwerb von Eigentum über kubanische Mittler oder Familienangehörige. Politische Betätigung ist ausländischen Personen nicht gestattet.
 
 * Beachten Sie genau die lokalen Gesetze, insbesondere hinsichtlich Drogen und wirtschaftlicher und/oder politischer Betätigung.
 
@@ -102,7 +102,7 @@ In der Praxis werden Zahlungen für Dienstleistungen, Unterkünfte oder Restaura
 
 Debitkarten deutscher Banken (Girocard, Maestro, VPay) werden in Kuba nicht angenommen, auch eine Bargeldbeschaffung an Geldautomaten und in Wechselstuben (CADECA – „Casa de cambio“) ist mit diesen Karten nicht möglich.
 
-Kreditkarten deutscher Banken werden in der Regel in allen größeren Hotels zur Bezahlung akzeptiert, nicht jedoch die durch ein US-amerikanische Institut (z.B. American Express) herausgegeben werden. Dies schließt die deutschen Tochtergesellschaften US-amerikanischer Institute ein. An Geldautomaten kann mit Visa/Mastercard Bargeld in CUP abgehoben werden. Dies gilt jedoch nicht flächendeckend für das ganze Land und ist aufgrund gelegentlicher technischer Störungen nicht immer gewährleistet.
+Kreditkarten deutscher Banken werden in der Regel in allen größeren Hotels zur Bezahlung akzeptiert, nicht jedoch die durch ein US-amerikanische Institut (z.B. American Express) herausgegeben werden. Dies schließt die deutschen Tochtergesellschaften US-amerikanischer Institute ein. An Geldautomaten kann mit VISA/Mastercard Bargeld in CUP abgehoben werden. Dies gilt jedoch nicht flächendeckend für das ganze Land und ist aufgrund gelegentlicher technischer Störungen nicht immer gewährleistet.
 
 In den sogenannten Devisenläden kann neben einer zuvor beschafften Geldkarte (siehe Hinweise unten) i.d.R. auch mit einer ausländischen Kreditkarte bezahlt werden. Es wird empfohlen, vor Reiseantritt bei der eigenen Bank in Erfahrung zu bringen, ob Geldabhebung und Bezahlung in Kuba problemlos möglich sind.
 
@@ -114,7 +114,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Kubas](https://www.presidencia.gob.cu/en) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Kubas sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -135,6 +135,8 @@ Alle Einreisenden müssen eine Erklärung mit Informationen zu Einreise und Zoll
 ### Visum
 
 Eine Einreise nach Kuba zu touristischen Zwecken mit einer Aufenthaltsdauer von bis zu 90 Tagen ist nur mit Visum in Form einer sogenannten "Touristenkarte" möglich. Touristenkarten müssen vor Einreise erworben werden und sind bei der kubanischen Botschaft in Deutschland, einigen Fluggesellschaften am Flughafen sowie bei kommerziellen Anbietern im Internet erhältlich. Verschiedene Reiseveranstalter bieten den Verkauf der Touristenkarte ebenfalls an, jedoch ggf. nur zusammen mit anderen touristischen Leistungen. Die Verlängerung der Touristenkarte um weitere 90 Tage ist grundsätzlich möglich. Ob dem Antrag stattgegeben wird, liegt im Einzelfall jedoch im Ermessen der kubanischen Behörden.
+
+Seit dem 1. August 2024 wird von kubanischer Seite ein elektronisches Visumsverfahren für touristische Reisen eingeführt und wurde der Zugang zu weiteren Informationen und entsprechenden Antragsformularen für das neue [eVisaCuba](https://evisacuba.cu/) freigeschaltet. Dieses soll mittelfristig die bisherige Touristenkarte ersetzen. Erfahrungen mit dem elektronischen Visum liegen dem Auswärtigen Amt bisher nicht vor.
 
 Bei beabsichtigten längeren Aufenthalten oder solchen zu nicht-touristischen Zwecken ist ein Visum erforderlich, welches bei der kubanischen Auslandsvertretung im Herkunftsland zu beantragen ist. Hierfür ist unter Umständen eine Einladung erforderlich. Die Bearbeitungsdauer kann sich auf mehrere Wochen belaufen. Visa beziehungsweise Touristenkarten werden grundsätzlich nicht an der Grenze ausgestellt; darüber hinaus kontrollieren die Fluggesellschaften vor Abflug aus Deutschland ob Visum oder Touristenkarte vorhanden sind und verweigern u. U. die Mitnahme.
 
@@ -166,7 +168,7 @@ Einzelheiten zu den Versicherungsangeboten bieten [Asistur](https://www.facebook
 
 **Achtung:** Reisende, die sich - auch zu touristischen Zwecken - am oder nach dem 12. Januar 2021 in Kuba aufgehalten haben, können nicht mehr mit ESTA in die USA einreisen, sondern müssen vor Reisebeginn ein Visum beantragen. Dies gilt auch für Transitreisende, deutsch-kubanische Doppelstaater und Personen, die einen Wohnsitz oder langfristigen Aufenthaltstitel in Kuba haben/hatten. Reisende sollten rechtzeitig vor Reisebeginn zu diesem Thema mit der zuständigen US-Vertretung Kontakt aufnehmen.
 
-Touristische Reisen direkt von den USA nach Kuba sind nach geltenden US-Bestimmungen untersagt, dies betrifft auch Kreuzfahrten von den USA nach Kuba. Dies gilt auch für deutsche Reisende. Direkte Reisen von den USA nach Kuba sind nur erlaubt, wenn sie unter eine der 11 von den US-Behörden festgelegten Kategorien fallen, wie etwa kulturelle, wirtschaftliche, wissenschaftliche und religiöse Aktivitäten. Zur Kontrolle des von den Reisenden angegebenen Reisezwecks liegen bisher keine Erfahrungswerte vor. Änderungen können sich kurzfristig ergeben.  
+Touristische Reisen direkt aus den USA nach Kuba sind nach geltenden US-Bestimmungen untersagt, dies betrifft auch Kreuzfahrten aus den USA nach Kuba. Dies gilt auch für deutsche Reisende. Direkte Reisen aus den USA nach Kuba sind nur erlaubt, wenn sie unter eine der 11 von den US-Behörden festgelegten Kategorien fallen, wie etwa kulturelle, wirtschaftliche, wissenschaftliche und religiöse Aktivitäten. Zur Kontrolle des von den Reisenden angegebenen Reisezwecks liegen bisher keine Erfahrungswerte vor. Änderungen können sich kurzfristig ergeben.  
 Kubareisende sind nach US-amerikanischem Recht verpflichtet, über ihre Reise, ihre Aktivitäten, Ansprechpartner usw. genau Buch zu führen und entsprechende Belege zu sammeln, diese fünf Jahre aufzubewahren und den US-amerikanischen Behörden auf Verlangen vorzulegen, um diesen die Prüfung der Einhaltung der genannten Bestimmungen zu ermöglichen.  
 Außerdem haben die US-amerikanischen Behörden eine umfangreiche Liste von im Tourismusbereich tätigen kubanischen Staatsfirmen, auch Hotels, veröffentlicht, mit denen aus den USA kommende Reisende keine Geschäfte machen dürfen.   
 US-amerikanische Fluggesellschaften wenden zum Teil die o.g. Pflichten zum Nachweis des erlaubten Reisezwecks auch bei Reisen von Kuba in die USA an.
