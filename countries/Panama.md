@@ -22,20 +22,20 @@ Im Osten und Süden der Urwaldprovinz Darién, insbesondere im Grenzgebiet zu Ko
 ### Kriminalität
 
 Kleinkriminalität wie Taschendiebstahl und Handtaschenraub ist weit verbreitet.  
-In Panama-Stadt muss verbreitet mit Gewaltkriminalität gerechnet werden. Ein besonders großes Risiko von Raubüberfällen besteht in den Stadtteilen San Miguelito, Tocumen, Juan Díaz, 24 de Diciembre, El Chorrillo, Santa Ana, Curundu, Calidonia und Pacora sowie in der zweitgrößten Stadt Panamas Colon.
+In Panama-Stadt muss verbreitet mit Gewaltkriminalität gerechnet werden. Ein besonders großes Risiko von Raubüberfällen besteht in den Stadtteilen San Miguelito, Tocumen, Juan Díaz, 24 de Diciembre, El Chorrillo, Santa Ana, Curundu, Calidonia und Pacora sowie in der zweitgrößten Stadt Panamas Colón.
 
-Auch in anderen Stadtteilen von Panama-Stadt oder an bei Touristen beliebten Orten, wie der Inselkette Bocas del Toro oder dem Valle de Anton, kann es zu Diebstählen oder Überfällen, wie auch sexueller Belästigung und Nötigung bis hin zu Vergewaltigungen allein reisender Frauen kommen.
+Auch in anderen Stadtteilen von Panama-Stadt oder an bei Touristen beliebten Orten, wie der Inselkette Bocas del Toro oder dem Valle de Anton, kann es zu Diebstählen oder Überfällen, wie auch sexueller Belästigung und Nötigung bis hin zu Vergewaltigungen alleinreisender Frauen kommen.
 
 Es besteht das Risiko, zufälliges Opfer von Auseinandersetzungen krimineller Banden zu werden. Waffen sind verbreitet und es kommt vermehrt zu Raubüberfällen mit Waffeneinsatz, die unter Umständen auch ohne Vorwarnung eingesetzt werden.
 
 Bei Ankunft am Internationalen Flughafen Tocumen sind die am Taxistand in der Eingangshalle des Flughafens registrierten Taxis und auch in der Stadt registrierte oder online zu buchende Funktaxis und Fahrdienste wesentlich sicherer als Taxis, die an der Straße angehalten werden können. Auch das Zusteigen in Taxis, die bereits Fahrgäste befördern, birgt erhebliche Gefahren für Überfälle.
 
-Gelegentlich nutzen Kriminelle Straßensperrungen auf der Panamericana für Raubüberfälle auf Autofahrer und Plünderungen, s. auch *Reiseinfos – Infrastruktur/Verkehr.*
+Gelegentlich nutzen Kriminelle Straßensperrungen auf der Panamericana für Raubüberfälle auf Autofahrer und Plünderungen, siehe auch *Reiseinfos – Infrastruktur/Verkehr.*
 
 In Küstennähe frei ankernde Yachten sind in den karibischen Gewässern Panamas sowie im Archipel der Perleninseln im Pazifik ein potentielles Ziel für kriminelle Banden.
 
 * Seien Sie in Panama-Stadt besonders vorsichtig und verzichten Sie dort auf Spaziergänge nach Einbruch der Dunkelheit und Besuche der Armenviertel.
-* Unternehmen Sie Landausflüge in Colon nur organisiert und vermeiden Sie die Erkundung der Stadt und des Hafengeländes auf eigene Faust.
+* Unternehmen Sie Landausflüge in Colón nur organisiert und vermeiden Sie die Erkundung der Stadt und des Hafengeländes auf eigene Faust.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Leisten Sie bei einem Überfall keinen Widerstand, sondern halten Sie einen kleinen Geldbetrag zur Herausgabe bereit und geben Sie notfalls auch Wertsachen ab.
@@ -68,7 +68,7 @@ Unvorhersehbare Regenfälle können zu starken Flutwellen führen und Badende in
 
 ### Infrastruktur/Verkehr
 
-Es existiert ein Binnenflugnetz und dichte Busverbindungen. In den Städten gibt es Taxis und Mietwagen. Es gibt eine Eisenbahnstrecke zwischen Panama-Stadt und Colon, auf der in unregelmäßigen Abständen ein Panoramazug verkehrt. Das Straßennetz ist im regionalen Vergleich als gut einzustufen. Die von Panama-Stadt entlang der Pazifikküste bis an die costa-ricanische Grenze reichende „Panamericana“ befindet sich in meisten Teilen in gutem Zustand. Abseits der Hauptverkehrsstraßen trifft man nur noch vereinzelt auf asphaltierte Straßen; diese verwandeln sich nach einigen Kilometern gelegentlich in unbefestigte Wege und erweisen sich während der langen Regenzeit dann als unbefahrbar. Der Osten des Landes ist verkehrstechnisch kaum erschlossen, die Panamericana (asphaltierter Teil) endet weit vor der Grenze zu Kolumbien. Busse verkehren regelmäßig in alle größeren Orte des Landes. Vereinzelt können Straßen im Hochland von Chiriqui, Veraguas und Bocas Del Toro in Folge von Überschwemmungen stark beschädigt sein. Es empfiehlt sich, vorab Erkundigungen einzuholen, ob das Reiseziel in diesen Provinzen auf dem Landweg erreichbar ist.
+Es existieren ein Binnenflugnetz und dichte Busverbindungen. In den Städten gibt es Taxis und Mietwagen. Es gibt eine Eisenbahnstrecke zwischen Panama-Stadt und Colón, auf der in unregelmäßigen Abständen ein Panoramazug verkehrt. Das Straßennetz ist im regionalen Vergleich als gut einzustufen. Die von Panama-Stadt entlang der Pazifikküste bis an die costa-ricanische Grenze reichende „Panamericana“ befindet sich in meisten Teilen in gutem Zustand. Abseits der Hauptverkehrsstraßen trifft man nur noch vereinzelt auf asphaltierte Straßen; diese verwandeln sich nach einigen Kilometern gelegentlich in unbefestigte Wege und erweisen sich während der langen Regenzeit dann als unbefahrbar. Der Osten des Landes ist verkehrstechnisch kaum erschlossen, die Panamericana (asphaltierter Teil) endet weit vor der Grenze zu Kolumbien. Busse verkehren regelmäßig in alle größeren Orte des Landes. Vereinzelt können Straßen im Hochland von Chiriquí, Veraguas und Bocas Del Toro in Folge von Überschwemmungen stark beschädigt sein. Es empfiehlt sich, vorab Erkundigungen einzuholen, ob das Reiseziel in diesen Provinzen auf dem Landweg erreichbar ist.
 
 #### *Reisen auf der "Panamericana"*
 
@@ -86,7 +86,7 @@ Touristen dürfen in Panama bei einem Aufenthalt bis zu 90 Tagen mit einem gült
 
 ### LGBTIQ
 
-Homosexualität ist in Panama nicht strafbar. Die gesellschaftliche Akzeptanz ist jedoch nicht weit verbreitet. Insbesondere in ländlichen Gegenden kann es zu Anfeindungen kommen.
+Homosexuelle Handlungen sind in Panama nicht strafbar. Die gesellschaftliche Akzeptanz ist jedoch nicht weit verbreitet. Insbesondere in ländlichen Gegenden kann es zu Anfeindungen kommen.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -143,7 +143,7 @@ Touristen erhalten bei Einreise per Schiff lediglich ein Visum für 72 Stunden. 
 
 Bei der Einreise auf dem Seeweg über das Territorium Guna Yala (San Blas Inseln) ist unbedingt auf die ordnungsmäße Stempelung des Passes durch die Einwanderungsbehörde (Migración) zu achten. Reisende können sonst als Illegal-Eingereiste behandelt werden.  
 Sollte bei Ankunft mit einem Schiff kein Beamter der Migrationsbehörde vor Ort sein, obliegt es dem Reisenden, nach dem Büro der Migrationsbehörde zu fragen und sich unverzüglich einen Einreisestempel geben zu lassen, auch bei Einreise mit einem privaten Schiff/zu sehr früher und später Stunde.  
-Ist der Reisende erst einmal im Land (z.B. in Panama Stadt) kann diese Formalität nicht mehr nachgeholt werden und der Reisende gilt ausnahmslos als illegal.
+Ist der Reisende erst einmal im Land (z.B. in Panama-Stadt) kann diese Formalität nicht mehr nachgeholt werden und der Reisende gilt ausnahmslos als illegal.
 
 #### *Einreise von Costa Rica*
 
@@ -254,7 +254,7 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [
 
 ### Influenza A-Virus /H1N1- Grippe
 
-Im Distrikt Barú, Region Chiriqui, wurden vermehrt H1N1 - Influenzafälle mit Todesfällen gemeldet. Die zuständige Gesundheitsbehörde rät zu den üblichen präventiven Hygienemaßnahmen: häufiges Händewaschen, Abstandhalten zu Personen mit Symptomen einer akuten Atemwegserkrankung, engen Kontakt mit fremden Menschen reduzieren.
+Im Distrikt Barú, Region Chiriquí, wurden vermehrt H1N1 - Influenzafälle mit Todesfällen gemeldet. Die zuständige Gesundheitsbehörde rät zu den üblichen präventiven Hygienemaßnahmen: häufiges Händewaschen, Abstandhalten zu Personen mit Symptomen einer akuten Atemwegserkrankung, engen Kontakt mit fremden Menschen reduzieren.
 
 ### **Leishmaniasis**
 
