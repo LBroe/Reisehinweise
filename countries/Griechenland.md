@@ -8,8 +8,8 @@ Derzeit kommt es in Teilen Griechenlands aufgrund der seit Monaten anhaltenden H
 
 Siehe auch *Natur und Klima – Busch- und Waldbrände.*
 
+* Aktivieren Sie bitte auf Ihrem Mobiltelefon die Option „Notfallbenachrichtigungen (Cell Broadcast Alerts).“ Diese werden von den zuständigen griechischen Stellen regional per SMS bzw. als Push-Mitteilung in griechischer und englischer Sprache versandt. Hierüber werden Sie auch über Evakuierungsmaßnahmen informiert.
 * Bitte meiden Sie die betroffene Region.
-* Aktivieren Sie bitte auf Ihrem Mobiltelefon die Option, "Notfallbenachrichtigungen (Cell Broadcast Alerts)" zu erhalten, die von den zuständigen griechischen Stellen regional und aktuell per SMS in griechischer und englischer Sprache versandt werden. Hierüber werden Sie auch über Evakuierungsmaßnahmen informiert.
 * Eine Übersichtskarte der aktuellen Waldbrände bietet [folgende Webseite.](https://www.foties.gr/)
 * Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein.
 * Stellen Sie sicher, dass Ihr Telefon stets einsatzbereit ist, ggf. mittels einer Powerbank.

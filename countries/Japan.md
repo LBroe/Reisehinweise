@@ -41,8 +41,6 @@ Betrügereien, Raub und sexuelle Übergriffe, oft in Verbindung mit dem Einsatz 
 
 #### *Erdbeben*
 
-Am 8. August 2024 gab es ein starkes Erdbeben im Süden von Kyushu. Das Beben war auch in Osaka zu spüren. Pazifikseitige Küstengebiete entlang des Nankai-Seegrabens von der Präfektur Nagasaki bis zur Präfektur Shizuoka erleben aktuell verstärkt Erdbeben.
-
 Japan ist das erdbebenreichste Land der Erde und besitzt zahlreiche aktive Vulkane. Im Jahresdurchschnitt werden rund 1.500 Beben seismisch registriert, von denen mehrere auch in Tokyo deutlich wahrgenommen werden können.
 
 * Bitte verfolgen Sie die relevante Nachrichtenlage und beachten die Verhaltenshinweise seitens lokaler Behörden bzw. Ihres Reiseanbieters oder Hotels.

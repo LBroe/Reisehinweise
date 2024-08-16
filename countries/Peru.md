@@ -8,6 +8,8 @@ Im Zuge der verschlechterten Sicherheitslage in Ecuador (siehe auch Reise- und S
 
 Aufgrund einer Anordnung des ecuadorianischen Innenministeriums, wonach alle nicht in Ecuador lebenden Ausländer bei Einreise auf dem **Landweg** ein aktuelles [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) vorlegen müssen, kann es zu Verzögerungen bei oder Verweigerungen der Einreise von Peru nach Ecuador kommen. Weitere Informationen (auch über evtl. Ausnahmen) bieten die Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)
 
+Aufgrund von gewaltsamen Zusammenstößen zwischen Polizeikräften und der Bevölkerung in der Provinz Quispicanchi bittet die zuständige Regionalverwaltung (Gercetur) Tourveranstalter aktuell keine Touristen über die Zugangsstraßen zum Regenbogen-Berg Vinicunca zu schicken.
+
 In verschiedenen Regionen des Landes gilt ebenfalls weiterhin der Notstand, siehe *Sicherheit – Innenpolitische Lage*.
 
 Während des Notstands sind einige von der Verfassung geschützten Rechte der Bevölkerung eingeschränkt, so u.a. das Recht auf Versammlungsfreiheit und Bewegungsfreiheit, aber auch das Recht auf Unverletzbarkeit des Wohnraums. Zum anderen wird dem Militär die Möglichkeit eröffnet, die Polizei bei ihren Aufgaben zu unterstützen.
@@ -20,7 +22,7 @@ Im Amazonasgebiet Loreto besteht ein Konflikt um die Erdölförderung, der teilw
 * Halten Sie sich von Menschenansammlungen fern.
 * Fragen Sie ggf. in Ihrem Hotel nach, wie die Situation vor Ort aktuell ist, und gehen Sie keine unnötigen Risiken ein.
 * Bitte denken Sie auch daran, sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin "Krisenvorsorgeliste") einzutragen.
-* Versuchen Sie nicht, die Straßenblockaden zu überwinden. Dies kann zu aggressiven Handlungen der Demonstranten führen.
+* Versuchen Sie nicht, Straßenblockaden zu überwinden. Dies kann zu aggressiven Reaktionen der Demonstranten führen.
 * Begeben Sie sich nicht zum Flughafen, wenn Sie keinen bestätigten Flug haben, der Zutritt zum Flughafengebäude wird Ihnen nur gegen Vorlage eines Flugtickets gewährt.
 
 ## Sicherheit
@@ -63,7 +65,7 @@ Touristen wurden des Öfteren gegen ihren Willen und in Unkenntnis als „Drogen
 * Achten Sie bei der Wahl der Unterkunft auf Sicherheitsaspekte wie Nachtwächter, Hotelsafe und Zimmertelefon.
 * Lassen Sie Getränke nicht unbeaufsichtigt und nehmen Sie keine Getränke von Unbekannten an.
 * Tragen Sie bei Bahn- und Busreisen Wertsachen nicht im Handgepäck, sondern am Körper.
-* Verzichten Sie auf das öffentliche Vorzeigen großer Geldbeträge oder wertvollem Schmucks und Uhren und bewahren Sie diese in Fahrzeugen außer Sichtweite auf.
+* Verzichten Sie auf das öffentliche Vorzeigen großer Geldbeträge oder wertvollen Schmucks und Uhren und bewahren Sie diese in Fahrzeugen außer Sichtweite auf.
 * Rufen Sie im Notfall die „Policía de Turismo“ (Touristenpolizei) in Lima in der Calle General Vidal 230, Tel. +511 4601060, 4600849, 4600921.
 * Nehmen Sie kein Gepäck für Fremde mit und kontrollieren Sie den Inhalt des eigenen Gepäcks, siehe auch Abschnitt Strafrecht.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter und insbesondere bei Lockangeboten (z.B. Angebote über das Internet, auf Kosten anderer eine Reise durchzuführen) skeptisch und wenden Sie sich ggf. an die Polizei.
@@ -99,7 +101,7 @@ Der technische Zustand der Kleinflugzeuge, die am Flughafen „Maria Reiche“ i
 
 Die Städte und Sehenswürdigkeiten entlang der Küste können über die gesamte Länge mit privaten Pkw oder öffentlichen Verkehrsmitteln befahren werden. Dies gilt auch für Fahrten in die „Sierra“ (Andenhochland) nach Cajamarca, Huaraz (Callejón de Huaylas) Chanchamayo, von Pisco nach Ayacucho, von Nazca nach Cusco und weiter nach Puno, und nach Arequipa, einschließlich Cañón de Colca sowie die Weiterfahrt nach Puno. Im Landesinneren sind einige weitere Hauptverbindungsstraßen gut ausgebaut. In abgelegenen Gegenden sind Verbindungen zwischen größeren Orten oft nicht befestigt und im Hochland gelegentlich – insbesondere wegen Erdrutschen während der Regenzeit – nicht oder nur schwer befahrbar.
 
-Bei Überlandbussen kommt es häufig zu Unfällen mit einer großen Anzahl von Toten und Verletzten, auch auf dem Weg nach Machu Picchu mit dem Bus über Santa Teresa und Hidroelectrica, wo unbefestigte Gebirgsstraßen befahren werden. Sicherer ist die Anreise nach Machu Picchu mit dem Zug über Aguas Calientes.
+Bei Überlandbussen kommt es häufig zu Unfällen mit einer großen Anzahl Toter und Verletzter auch auf dem Weg nach Machu Picchu mit dem Bus über Santa Teresa und Hidroelectrica, wo unbefestigte Gebirgsstraßen befahren werden. Sicherer ist die Anreise nach Machu Picchu mit dem Zug über Aguas Calientes.
 
 * Informieren Sie sich daher fortlaufend über die aktuellen und zu erwartenden Witterungsbedingungen.
 
@@ -243,7 +245,7 @@ Für Heimtiere muss am Schalter des [National Agricultural Sanitation Service (S
 
 #### *Dengue-Fieber*
 
-Seit Beginn des Jahres 2024 steigen die Dengue-Fälle kontinuierlich an und sind im Februar bereits doppelt so hoch wie im gleichen Monat 2023. Der Höhepunkt der Dengue-Epidemie wird im Mai 2024 erwartet. Die Regierung hat für große Teile des Landes am 26. Februar 2024 den Gesundheitsnotstand ausgerufen, um die Versorgungssicherheit zu erhöhen.
+Seit Beginn des Jahres 2024 steigen die Dengue-Fälle kontinuierlich an und sind im Februar bereits doppelt so hoch wie im gleichen Monat 2023. Die Regierung hat für große Teile des Landes am 26. Februar 2024 den Gesundheitsnotstand ausgerufen, um die Versorgungssicherheit zu erhöhen.
 
 * Achten Sie tagsüber und in den Abendstunden besonders auf guten Mückenschutz. Mückenschutzmittel sind im Land zwar verfügbar, aber nicht alle in der notwendigen Konzentration. Sie sollten daher zumindest für den Anfang aus Deutschland mitgebracht werden.
 * Lassen Sie sich bezüglich einer Impfung individuell reisemedizinisch beraten. Der Impfstoff ist im Land derzeit nicht verfügbar.
