@@ -6,7 +6,7 @@
 
 ### Terrorismus
 
-Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand können Anschläge selbst in Urlaubsgebieten nicht ausgeschlossen werden. Zuletzt kam es 2019 in Bangkok an unterschiedlichen Orten zu kleineren Bombenexplosionen.
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand können Anschläge selbst in Urlaubsgebieten nicht ausgeschlossen werden. 
 
 In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kommt es regelmäßig zu Auseinandersetzungen zwischen Separatistengruppen und Sicherheitskräften sowie zu terroristischen Anschlägen, auch auf von Ausländern frequentierte Ziele. Dort gelten Notstandsgesetze. In einzelnen Distrikten, insbesondere an der Grenze zu Malaysia, kann es auch kurzfristig zur Verhängung nächtlicher Ausgangssperren kommen.
 
@@ -47,7 +47,7 @@ In entlegenen Gebieten und in den Grenzgebieten zu Kambodscha und Myanmar kann e
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf und speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in Bussen und an Stränden aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -81,7 +81,7 @@ Bei Tuk-Tuk-Fahrten werden Reisende oft am Ende mit stark überteuerten Forderun
 
 ### Führerschein
 
-Zum Führen von Kraftfahrzeugen sind entweder der internationale Führerschein (nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968), der nur in Verbindung mit dem nationalen deutschen Führerschein gültig ist, oder eine thailändische Fahrerlaubnis erforderlich. Deutsche nationale Führerscheine allein werden in Thailand nicht anerkannt.  
+Zum Führen von Kfz sind entweder der internationale Führerschein (nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968), der nur in Verbindung mit dem nationalen deutschen Führerschein gültig ist, oder eine thailändische Fahrerlaubnis erforderlich. Deutsche nationale Führerscheine allein werden in Thailand nicht anerkannt.  
 Für Aufenthalte von über drei Monaten ist grundsätzlich eine thailändische Fahrerlaubnis erforderlich.  
 Die Umschreibung einer deutschen in eine thailändische Fahrerlaubnis kann in Thailand beantragt werden. Verbindliche Informationen zur Antragstellung können beim [Department of Land Transport](https://www.dlt.go.th/en/) erfragt werden.
 
@@ -93,7 +93,7 @@ Thailand ist eine konstitutionelle Monarchie, in der der König sowohl als Staat
 
 ### LGBTIQ
 
-Thailand ist bekannt für seine Toleranz gegenüber der LGBTIQ-Community. Dies gilt insbesondere für die Großstädte. Homosexuelle Handlungen sind nicht kriminalisiert. Gleichgeschlechtliche Ehen sind jedoch bisher nicht anerkannt und es gibt keine rechtliche Gleichstellung hinsichtlich Steuern, Adoption, Namensrecht etc..
+Thailand ist bekannt für seine Toleranz gegenüber der LGBTIQ-Community. Dies gilt insbesondere für die Großstädte. Homosexuelle Handlungen sind nicht kriminalisiert. Ein Gesetz, das die vollständige Gleichstellung der gleichgeschlechtlichen Ehe zum Inhalt hat, wurde im Juli 2024 im Parlament verabschiedet und tritt voraussichtlich im Januar 2025 in Kraft.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -101,9 +101,9 @@ Thailand ist bekannt für seine Toleranz gegenüber der LGBTIQ-Community. Dies g
 
 #### *Drogen*
 
-**Vor Erwerb, Besitz, Verteilung sowie Ein- und Ausfuhr von Rauschgiften aller Art (auch Marihuana, Ecstasy und anderer Amphetamine) wird dringend gewarnt.** Schon der Besitz geringer Rauschgiftmengen führt zu hohen Freiheitsstrafen; für einzelne Delikte sehen die thailändischen Strafgesetze die Todesstrafe vor, die 2018 nach neun Jahren Aussetzung erstmals wieder vollstreckt wurde. Die Mitnahme bzw. der Transport von Gegenständen für Dritte ohne Kenntnis des Inhalts kann verhängnisvolle Folgen haben.
+**Vor Erwerb, Besitz, Verteilung sowie Ein- und Ausfuhr von Rauschgiften aller Art (auch Marihuana, Ecstasy und anderer Amphetamine) wird dringend gewarnt.** Schon der Besitz geringer Rauschgiftmengen führt zu hohen Freiheitsstrafen; für einzelne Delikte sehen die thailändischen Strafgesetze die Todesstrafe vor, die nach mehreren Jahren Aussetzung 2018 erstmals wieder vollstreckt wurde. Die Mitnahme bzw. der Transport von Gegenständen für Dritte ohne Kenntnis des Inhalts kann verhängnisvolle Folgen haben.
 
-Seit Juni 2022 werden bestimmte in Thailand produzierte Cannabis-Produkte mit einem THC-Gehalt von weniger als 0,2% nicht mehr als Droge eingestuft. Der Konsum in der Öffentlichkeit ist jedoch weiterhin illegal. Wegen bestehender Restriktionen bezüglich des Anbaus, Konsums und Vertriebs sowie noch fehlender Ausführungsvorschriften wird weiterhin zur Vorsicht geraten.
+Seit 2022 werden bestimmte in Thailand produzierte Cannabis-Produkte mit einem THC-Gehalt von weniger als 0,2% nicht mehr als Droge eingestuft. Der Konsum in der Öffentlichkeit ist jedoch weiterhin illegal. Wegen bestehender Restriktionen bezüglich des Anbaus, Konsums und Vertriebs sowie noch fehlender Ausführungsvorschriften wird weiterhin zur Vorsicht geraten.
 
 * Bitte beachten Sie, dass Besitz und Konsum auch geringer Mengen aller Drogenarten in mehreren Staaten Südostasiens streng bestraft wird (teilweise bis hin zur Todesstrafe). Dies gilt auch im Transitbereich der jeweiligen Flughäfen. Weitere Hinweise entnehmen Sie bitte den [Reise- und Sicherheitshinweisen](https://diplo.de/r) zu dem jeweiligen Land.
 
@@ -127,9 +127,9 @@ Personen unter 20 Jahren ist der Zutritt zu Bars, Diskotheken und Massagesalons 
 
 Nacktbaden, Baden ohne Bikinioberteil sowie sexuelle Handlungen in der Öffentlichkeit sind verboten und können bestraft werden.
 
-#### *Fotografier-Verbot*
+#### *Fotografierverbot*
 
-Abgesehen von militärischen Objekten besteht grundsätzlich kein Fotografier-Verbot. Beim Fotografieren von Menschen ist allerdings - wie überall - ein gewisses Taktgefühl angezeigt.
+Abgesehen von militärischen Objekten besteht grundsätzlich kein Fotografierverbot. Beim Fotografieren von Menschen ist allerdings - wie überall - ein gewisses Taktgefühl angezeigt.
 
 #### *Drohnen*
 
@@ -164,8 +164,7 @@ Vorsicht ist geboten vor in Umlauf befindlichem Falschgeld.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 

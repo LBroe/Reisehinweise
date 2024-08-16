@@ -2,8 +2,7 @@
 
 ## Aktuelles
 
-**Von Reisen in das Grenzgebiet der Türkei zu Syrien und Irak  
-wird dringend abgeraten.**
+**Von Reisen in das Grenzgebiet der Türkei zu Syrien und Irak wird dringend abgeraten.**
 
 Aufgrund des andauernden Konflikts in Israel und den Palästinensischen Gebieten kann es in der Türkei zu spontanen, pro-palästinensischen Protestkundgebungen und gewaltsamen Ausschreitungen kommen.
 

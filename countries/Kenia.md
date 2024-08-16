@@ -2,27 +2,29 @@
 
 ## Aktuelles
 
-### *Aufruf zu landesweiten Demonstrationen*
+### *Streikankündigung*
 
-In den sozialen Medien wird für Donnerstag, 8. August 2024, zu landesweiten Demonstrationen und zur Blockade des Parlaments und des Regierungsviertels in Nairobi aufgerufen.
+Ab Montag, 19. August 2024, hat die Gewerkschaft der Flughafenmitarbeiter einen siebentägigen Streik des Personals der Flughafenbehörde „Kenya Airports Authority“ am Jomo Kenyatta International Airport Nairobi angekündigt.
 
-Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias.
+Die Flughafenbehörde hat angekündigt, die notwendigen Maßnahmen zu ergreifen, damit der Flugbetrieb reibungslos weiterläuft. Dennoch ist nicht auszuschließen, dass es zu Verzögerungen bei der Abwicklung am Flughafen oder im Flugbetrieb kommt.
+
+In Ihrem eigenen Interesse wird empfohlen:
+
+* Fahren Sie rechtzeitig zum Flughafen, um Verzögerungen beim Check-in oder der Sicherheitskontrolle ausgleichen zu können.
+* Achten Sie auf eingehende Informationen Ihrer Fluggesellschaft vor Abflug.
+* Nehmen Sie ggf. rechtzeitig zu Ihrer Fluggesellschaft/Ihrem Reisebüro Kontakt auf, sollten Sie über Flugausfälle oder -verzögerungen benachrichtigt worden sein.
+
+### *Landesweite Demonstrationen*
+
+Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias. Seitens der Demonstrierenden wurde angekündigt, dass die Demonstration am 8. August 2024 vorerst die letzte Demonstration gewesen sei. Weitere kurzfristig anberaumte Demonstrationen können nicht ausgeschlossen werden.
 
 Reisende sollten folgende Vorsichtsmaßnahmen zur eigenen Sicherheit treffen:
 
-* Vermeiden Sie nicht notwendige Fahrten. Bleiben Sie an einem sicheren Ort.
+* Vermeiden Sie nicht notwendige Fahrten und bleiben Sie an einem sicheren Ort, falls Demonstrationen in Ihrer Nähe stattfinden.
 * Sollten Sie zum Flughafen fahren müssen, erkundigen Sie sich bitte zuvor in den Medien zur Situation auf den Zufahrtstraßen. Seien Sie besonders achtsam und umsichtig.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich über die lokalen Medien.
 * Führen Sie stets funktionsfähige Kommunikationsmittel mit sich. Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
-
-### *Überschwemmungen*
-
-Die Überschwemmungen in diesem Jahr haben zu Schäden an der Infrastruktur geführt; viele Straßen in Kenia sind derzeit beschädigt.
-
-* Fahren Sie deshalb besonders vorsichtig, insbesondere in Senken und in der Nähe von Wasserläufen.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Informieren Sie sich ggf. bei internationalen Wetterdiensten über die aktuellen Wetterverhältnisse und Gefahrensituation.
 
 ### *Gefahr terroristischer Anschläge*
 
@@ -138,7 +140,7 @@ Vor den Küsten besteht weiterhin ein Risiko von Piratenangriffen und Kaperungen
 
 ## Natur und Klima
 
-Siehe *Aktuelles*
+Die Überschwemmungen in diesem Jahr haben zu Schäden an der Infrastruktur geführt; viele Straßen in Kenia sind derzeit beschädigt.
 
 Kenia liegt in einer seismisch leicht aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann.
 
@@ -149,6 +151,7 @@ Extreme Trockenheit und Dürre kann die östlichen, nordöstlichen, aber auch K�
 In den Regenzeiten, die üblicherweise von Oktober bis November und von Ende März bis Mitte Juni gehen, können starke Regenfälle Überflutungen und Erdrutsche sowie Schäden an der Infrastruktur verursachen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Fahren Sie bei überfluteten Straßen besonders vorsichtig, insbesondere in Senken und in der Nähe von Wasserläufen.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Vulkanausbrüchen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
 
@@ -351,14 +354,14 @@ In Kenia besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen](h
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY-Impfung ärztlich beraten.
 
-[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
 Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
 
-Das Mpox-Virus wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
