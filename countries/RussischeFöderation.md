@@ -28,17 +28,17 @@ In den im Oktober 2022 von Russland völkerrechtswidrig annektierten ukrainische
 
 ### **Einschränkung der Meinungsfreiheit/willkürliche Festnahmen/Doppelstaater**
 
-Seit Beginn des russischen Angriffs auf die Ukraine ist die Presse-und Medienfreiheit in der Russischen Föderation insbesondere durch neue Zensurgesetze in höchstem Maße eingeschränkt (siehe *Rechtliche Besonderheiten*). In diesem Zusammenhang kommt es immer wieder zur willkürlichen Verhängung hoher Haftstrafen für regierungskritische öffentliche Äußerungen – zum Teil aufgrund privater Äußerungen in Sozialen Medien. 
+Seit Beginn des russischen Angriffs auf die Ukraine ist die Presse-und Medienfreiheit in der Russischen Föderation insbesondere durch neue Zensurgesetze in höchstem Maße eingeschränkt (siehe *Rechtliche Besonderheiten*). Verhaftungen und Verurteilungen können jederzeit, auch aufgrund konstruierter Vorwände, erfolgen. Sie können als politisches Druckmittel dienen; lange Haftstrafen unter harten Bedingungen sind möglich. Strafrechtliche Vorschriften sind zum Teil bewusst vage formuliert und können alltägliche Verhaltensweisen erfassen, die in Deutschland nicht strafbewehrt sind. Persönliche Aufzeichnungen wie Videos und Fotos, Messenger-Dienste, soziale Medien und private Korrespondenz können, selbst nach Löschung auf dem Handy, nachverfolgt, wiederhergestellt und ausgewertet und – gerade mit Blick auf regierungskritische Äußerungen – gegen Betroffene verwendet werden.
 
 **Auch aus diesem Grund wird von Reisen in die Russische Föderation dringend abgeraten.**
 
-In Zusammenhang mit nicht genehmigten Kundgebungen und Demonstrationen kann es im ganzen Land zu massiven, zum Teil gewaltsamen Vorgehen der Sicherheitskräfte kommen.
+In Zusammenhang mit nicht genehmigten Kundgebungen und Demonstrationen kann es im ganzen Land zu massivem, zum Teil gewaltsamem Vorgehen der Sicherheitskräfte kommen.
 
-Der russische Präsident Putin hat am 21. September 2022 eine Teilmobilmachung erlassen, die bisher nicht offiziell beendet wurde.
+Der russische Präsident Putin hat im September 2022 eine Teilmobilmachung erlassen, die bisher nicht offiziell beendet wurde.
 
-Deutsch-russische Doppelstaater müssen beachten, dass sie von den russischen Behörden ausschließlich als russische Staatsangehörige angesehen werden. Dies gilt auch im Fall einer möglichen Einberufung in die russischen Streitkräfte. Die Botschaft kann ihnen keinen konsularischen Schutz gewähren.
+Deutsch-russische Doppelstaater müssen beachten, dass sie von den russischen Behörden ausschließlich als russische Staatsangehörige angesehen werden. Dies gilt auch im Fall einer möglichen Einberufung in die russischen Streitkräfte. Die deutschen Vertretungen in Russland können ihnen keinen konsularischen Schutz gewähren.
 
-* Seien Sie bei politischen Äußerungen in Gesprächen und sozialen Medien äußerst vorsichtig und beachten Sie vor der Nutzung Sozialer Medien in der Russischen Föderation die Hinweise unter *Rechtliche Besonderheiten.*
+* Seien Sie bei politischen Äußerungen in Gesprächen und Sozialen Medien äußerst vorsichtig und beachten Sie vor der Nutzung Sozialer Medien in der Russischen Föderation die Hinweise unter *Rechtliche Besonderheiten.*
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen der lokalen Sicherheitskräfte.
 * Halten Sie Ihre Ausweispapiere immer griffbereit.
@@ -47,13 +47,13 @@ Deutsch-russische Doppelstaater müssen beachten, dass sie von den russischen Be
 
 Finnland hat bis auf Weiteres alle Grenzübergänge aus der und in die Russische Föderation geschlossen, siehe auch [Reise- und Sicherheitshinweise Finnland](https://www.auswaertiges-amt.de/de/service/laender/finnland-node/finnlandsicherheit/211624).
 
-Auf dem Landweg sind Ein- und Ausreise noch über einige wenige Grenzübergänge via Polen und Litauen (Kaliningrad), Estland, Lettland und Norwegen mit PKW oder Bus (Tickets online) möglich.
+Auf dem Landweg sind Ein- und Ausreise noch über einige wenige Grenzübergänge via Polen und Litauen (Kaliningrad), Estland, Lettland und Norwegen mit Pkw oder Bus (Tickets online) möglich.
 
 Der direkte Flugverkehr zwischen der Russischen Föderation und der EU sowie weiterer europäischer Staaten ist eingestellt; es bestehen jedoch Flugverbindungen über internationale Drehkreuze. Dabei können Flugverbindungen kurzfristig ausgesetzt oder reduziert werden.
 
 ### Geldversorgung
 
-Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sowie Geldüberweisungen in die Russische Föderation sind grundsätzlich nicht durchführbar. Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierter Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert. EUR-Banknoten dürfen nur für den Eigenbedarf mitgenommen werden. Der Eigenbedarf ist auf den persönlichen Gebrauch des Reisenden und mitreisender enger Familienangehöriger begrenzt (keine Mitnahme für Dritte, rein nicht-kommerzieller Gebrauch). Der Eigenbedarf und seine Höhe sind im Zweifel an der EU-Außengrenze plausibel nachzuweisen (z.B. anhand von Hotelbuchungen). Auf der Route Litauen – Kaliningrad hat Litauen die Ausfuhr von EUR nach RUS auf 60 EUR pro Person beschränkt. In Russland ist die Ausfuhr von Devisen im Wert von über 10.000 USD strafbar.
+Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sowie Geldüberweisungen in die Russische Föderation sind grundsätzlich nicht durchführbar. Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierter Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert. EUR-Banknoten dürfen nur für den Eigenbedarf mitgenommen werden. Der Eigenbedarf ist auf den persönlichen Gebrauch des Reisenden und mitreisender enger Familienangehöriger begrenzt (keine Mitnahme für Dritte, rein nicht-kommerzieller Gebrauch). Der Eigenbedarf und seine Höhe sind im Zweifel an der EU-Außengrenze plausibel nachzuweisen (z.B. anhand von Hotelbuchungen). Auf der Route Litauen – Kaliningrad hat Litauen die Ausfuhr nach Russland auf 60 EUR pro Person beschränkt. In Russland ist die Ausfuhr von Devisen im Wert von über 10.000 USD strafbar.
 
 ## Sicherheit
 
@@ -77,7 +77,7 @@ Zuletzt kam es am 22. März 2024 zu einem Terroranschlag auf das Veranstaltungs-
 Es besteht bei Reisen in den Föderalbezirk Nordkaukasus eine erhöhte Sicherheitsgefährdung durch mögliche Anschläge mit terroristischem Hintergrund, bewaffnete Auseinandersetzungen und Entführungen, v. a. in Inguschetien, Tschetschenien und Dagestan.  
 Zudem gilt für bestimmte Streckenabschnitte einiger Verkehrsstraßen im Nordkaukasus nur beschränkter Zutritt für Ausländer.
 
-Personen, die trotz der Risiken in die oben genannten Regionen reisen, können bei einem Notfall nur mit eingeschränkten Hilfsmöglichkeiten der Deutschen Vertretungen in Russland rechnen.  
+Personen, die trotz der Risiken in die oben genannten Regionen reisen, können bei einem Notfall nur mit eingeschränkten Hilfsmöglichkeiten der deutschen Vertretungen in Russland rechnen.
 
 Eine Einreise über die georgisch-russische Grenze in die georgischen Konfliktgebiete Abchasien und Südossetien wird von den georgischen Behörden weiterhin als illegaler Grenzübertritt geahndet, siehe [Reise- und Sicherheitshinweise Georgien](https://www.auswaertiges-amt.de/de/service/laender/georgien-node/georgiensicherheit/201918 "Georgien: Reise- und Sicherheitshinweise").
 
@@ -85,7 +85,7 @@ Eine Einreise über die georgisch-russische Grenze in die georgischen Konfliktge
 
 Es gibt insbesondere in grenznahen Gebieten weiterhin Zonen, die nur mit Zutrittserlaubnis bereist werden dürfen. Sowohl zu Belarus, Polen als auch Litauen gibt es viele Bereiche der „grünen“ Grenze, an denen Grenzübertritte einfach, aber illegal sind.
 
-Im Verlauf von nicht genehmigten Kundgebungen und Demonstrationen kann es im ganzen Land zu massiven, zum Teil gewaltsamen Vorgehen der Sicherheitskräfte kommen, darunter auch zu Festnahmen. Es kann nicht ausgeschlossen werden, dass Passanten in der Nähe von nicht genehmigten Veranstaltungen in Mitleidenschaft gezogen werden.
+Im Verlauf von nicht genehmigten Kundgebungen und Demonstrationen kann es im ganzen Land zu massivem, zum Teil gewaltsamem Vorgehen der Sicherheitskräfte kommen, darunter auch zu Festnahmen. Es kann nicht ausgeschlossen werden, dass Passanten in der Nähe von nicht genehmigten Veranstaltungen in Mitleidenschaft gezogen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -106,7 +106,7 @@ Aktuell gibt es vermehrt Fälle von Internetbetrug, indem Personen aus Westeurop
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in der Metro und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Wählen Sie Taxis sorgsam aus, nutzen Sie möglichst nur registrierte Taxiunternehmen, benutzen Apps oder bestellen Sie diese bereits im Hotel.
-* Notieren Sie bei Nachtfahrten vor dem Einsteigen in ein Taxi sichtbar das Kennzeichen und übermitteln Sie dieses als erkennbare Sicherheitsmaßnahme.
+* Notieren Sie bei Nachtfahrten vor dem Einsteigen in ein Taxi sichtbar das Kennzeichen als erkennbare Sicherheitsmaßnahme.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Lassen Sie Getränke und Nahrungsmittel in Bars und Clubs nie unbeaufsichtigt und kaufen Sie sie möglichst selbst.
 * Achten Sie auch bei der Auswahl Ihrer Unterkunft auf Sicherheitsaspekte.
@@ -161,7 +161,7 @@ Bei einem Unfall können zudem hohe Kosten für den Rücktransport des Fahrzeuge
 
 Bei Einreise mit dem Pkw oder mit dem Reisebus können an den Grenzübergangsstellen zur Russischen Föderation mehrstündige Wartezeiten entstehen. Die Einreise auf dem Landweg ist aktuell nur in besonderen Fällen möglich.
 
-* Beachten Sie bei Reisen auf dem Luftweg nach Russland bzw. innerhalb Russlands die [EU Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en).
+* Beachten Sie bei Reisen auf dem Luftweg nach Russland bzw. innerhalb Russlands die [EU-Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en).
 * Seien Sie bei Autofahrten insbesondere in der Dunkelheit besonders vorsichtig.
 * Planen Sie Autofahrten sorgsam und rechnen Sie Zeitverluste insbesondere bei Grenzübertritten ein.
 
@@ -177,7 +177,7 @@ Deutsch-russische Doppelstaater gelten in der Russischen Föderation als russisc
 
 Im Reiseverkehr über die Republik Belarus ist es an der Grenze zur Russischen Föderation zu Zurückweisungen von Reisenden gekommen, da die dortigen Grenzübergänge rechtlich nur für die Nutzung durch russische und belarussische Staatsangehörige zugelassen sind. Entlang der Grenze zu Belarus wurden zudem Grenzzonen eingerichtet, deren Betreten eine besondere Erlaubnis des Grenzdienstes des Föderalen Sicherheitsdienstes erfordert.
 
-Drittausländern mit gültigem russischem Visum ist es wieder erlaubt, vom Flughafen Minsk über acht Flughäfen, Moskau (alle vier), St. Petersburg, Kaliningrad, Krasnodar und Sotschi, in die Russische Föderation einzureisen bzw. in die Gegenrichtung auszureisen.
+Drittausländern mit gültigem russischen Visum ist es wieder erlaubt, vom Flughafen Minsk über acht Flughäfen, Moskau (alle vier), St. Petersburg, Kaliningrad, Krasnodar und Sotschi, in die Russische Föderation einzureisen bzw. in die Gegenrichtung auszureisen.
 
 * Achten Sie auf gültige Visa für beide Länder.
 * Reisen Sie möglichst nicht auf dem Landweg über Belarus in die Russische Föderation und umgekehrt.
@@ -189,11 +189,11 @@ Drittausländern mit gültigem russischem Visum ist es wieder erlaubt, vom Flugh
 
 Bei der Ausreise aus Kaliningrad nach Polen sollten die [Reise- und Sicherheitshinweise Polen](https://www.auswaertiges-amt.de/de/service/laender/polen-node/polensicherheit/199124) beachtet werden.
 
-### Betretenserlaubnis für bestimmte Gebiete
+### Besuchserlaubnis für bestimmte Gebiete
 
-Es gibt in der Russischen Föderation immer noch Gemeinden und Gebiete, die nur mit einer besonderen Erlaubnis der zuständigen staatlichen Organe betreten werden dürfen. Dies ist insbesondere bei Reisen in Grenzgebiete der Russischen Föderation wie im Gebiet Kaliningrad (z.B. zum Angeln in grenznahen Bereichen, bei individuellen Schiffstouren in den Küstengewässern, zur Jagd oder sonstigen Aufenthalten) und in den Nordkaukasus oder Teile der Halbinsel Kamtschatka zu beachten. Hier sind ggf. gesonderte Berechtigungsscheine für den Aufenthalt bei den zuständigen Grenzdienst- oder Kreisverwaltungen zu beantragen, siehe auch [Informationen der Deutschen Vertretungen in Russland](https://germania.diplo.de/ru-de/service/11-InformationenfuerTouristen/reglementierte-zonen/1588034).
+Es gibt in der Russischen Föderation immer noch Gemeinden und Gebiete, die nur mit einer besonderen Erlaubnis der zuständigen staatlichen Organe betreten werden dürfen. Dies ist insbesondere bei Reisen in Grenzgebiete der Russischen Föderation wie im Gebiet Kaliningrad (z.B. zum Angeln in grenznahen Bereichen, bei individuellen Schiffstouren in den Küstengewässern, zur Jagd oder sonstigen Aufenthalten) und in den Nordkaukasus oder Teile der Halbinsel Kamtschatka zu beachten. Hier sind ggf. gesonderte Berechtigungsscheine für den Aufenthalt bei den zuständigen Grenzdienst- oder Kreisverwaltungen zu beantragen, siehe auch [Informationen der deutschen Vertretungen in Russland](https://germania.diplo.de/ru-de/service/11-InformationenfuerTouristen/reglementierte-zonen/1588034).
 
-* Erkundigen Sie sich vor Reisebeginn bei Ihren Einladern, Ihrem Reisebüro oder bei den russischen Vertretungen in Deutschland, ob Sonderregelungen im beabsichtigten Reisegebiet bestehen.
+* Erkundigen Sie sich vor Reisebeginn bei Ihren Gastgebern, Ihrem Reisebüro oder bei den russischen Vertretungen in Deutschland, ob Sonderregelungen im beabsichtigten Reisegebiet bestehen.
 * Vermeiden Sie Reisen in diese Gebiete ohne Erlaubnis.
 
 ### LGBTIQ
@@ -227,7 +227,7 @@ Gleiches gilt für Gebiete im Nordkaukasus, Grenzzonen zu Belarus und die litaui
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Russische Rubel (RUB). Die Nutzung von Kreditkarten ist in Russland sehr weit verbreitet Die Nutzung deutscher Kreditkarten ist in Russland jedoch seit Ende Februar 2022 nicht mehr möglich, siehe *Aktuelles*. Der Geldwechsel auf der Straße ist verboten.
+Landeswährung ist der Russische Rubel (RUB). Die Nutzung von Kreditkarten ist in Russland sehr weit verbreitet, die Nutzung deutscher Kreditkarten jedoch seit Ende Februar 2022 nicht mehr möglich, siehe *Aktuelles*. Der Geldwechsel auf der Straße ist verboten.
 
 Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierter Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert.
 
@@ -266,7 +266,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 Deutsche Staatsangehörige benötigen zur Ein- und Ausreise sowie im Transit ein Visum oder eine Aufenthaltserlaubnis.  
 Das Visum muss grundsätzlich vor der Einreise bei der zuständigen russischen Auslandsvertretung beantragt werden.
 
-Eine Visumserteilung durch russische Grenzstellen ist nicht möglich. Weitere Informationen bietet die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).  
+Eine Visumserteilung durch russische Grenzstellen ist nicht möglich. Weitere Informationen bietet die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).
 
 #### *E-Visa*
 
@@ -274,7 +274,7 @@ Seit August 2023 stellt Russland in einem vereinfachten Verfahren wieder [E-Visa
 
 Die Erteilung eines E-Visums durch die russischen Grenzstellen ist nicht möglich.
 
-Die Ein- und Ausreise mit E-Visa ist nur an [bestimmten Grenzübergangsstellen](https://electronic-visa.kdmid.ru/index_en.html) möglich. Nähere Auskünfte zum Verfahren sowie weitere Informationen zu den Einreisebedingungen erteilt die zuständige [russische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenrussischefoederation/201544?openAccordionId=item-201678-0-panel)
+Die Ein- und Ausreise mit E-Visum ist nur an [bestimmten Grenzübergangsstellen](https://electronic-visa.kdmid.ru/index_en.html) möglich. Nähere Auskünfte zum Verfahren sowie weitere Informationen zu den Einreisebedingungen erteilt die zuständige [russische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenrussischefoederation/201544?openAccordionId=item-201678-0-panel)
 
 Bereits kleinste Schreibfehler im elektronischen Visumantrag (Name, Geburtsdatum, Geburtsort, Passnummer – in deutschen Pässen gibt es nur die Null „0“ aber nicht den Buchstaben „O“, Gültigkeitsdaten des Passes) führen zur Zurückweisung bei der Einreise.  
 Es müssen auch alle (Vor-)Namen im Antrag aufgeführt werden, die im Reisepass genannt sind. Umlaute und andere Sonderzeichen im Namen sind wie in der maschinenlesbaren Zeile des Reisepasses anzugeben.
@@ -287,7 +287,7 @@ Beförderungsunternehmen können die Existenz und Gültigkeit elektronischer Vis
 
 #### *Überschreitung des Aufenthalts*
 
-Das Überziehen des russischen Visums, einschließlich des E-Visa, ist grundsätzlich strafbar und kann dazu führen, dass Hotels, Pensionen und Hostels sich weigern, die Betroffenen aufzunehmen. Ist das Visum abgelaufen, ist die Ausreise nicht ohne Weiteres möglich.
+Das Überziehen des russischen Visums, einschließlich des E-Visums, ist grundsätzlich strafbar und kann dazu führen, dass Hotels, Pensionen und Hostels sich weigern, die Betroffenen aufzunehmen. Ist das Visum abgelaufen, ist die Ausreise nicht ohne Weiteres möglich.
 
 Es müssen beim örtlich zuständigen Büro der Hauptverwaltung für Migrationsangelegenheiten des russischen Innenministeriums (GUWM) Formalitäten in die Wege geleitet werden. In der Regel schließt sich ein gerichtliches Verfahren an, mit der Folge einer Geldstrafe und der Pflicht zur Beantragung eines kostenpflichtigen speziellen russischen Ausreisevisums („Transit visa no. 1“) bei der zuständigen russischen regionalen Verwaltung des Innenministeriums, das bis zu zwei Wochen in Anspruch nimmt, oder gar einer Ausweisung. Die Ausweisung ist wiederum mit einer Wiedereinreisesperre von fünf Jahren verbunden.
 

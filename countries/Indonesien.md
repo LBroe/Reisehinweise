@@ -2,6 +2,8 @@
 
 ## Aktuelles
 
+**Von nicht unbedingt erforderlichen Reisen in fünf der sechs Provinzen des indonesischen Teils der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.**
+
 ### *Vulkanische Aktivität*
 
 Im Osten Indonesiens ist erneut der Vulkan Ibu auf der Insel Halmahera ausgebrochen.
@@ -18,7 +20,7 @@ Weitere Vulkane in verschiedenen Landesteilen Indonesiens zeigen erhöhte Aktivi
 
 ## Sicherheit
 
-**Von nicht unbedingt erforderlichen Reisen in die Provinzen des indonesischen Teils der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird derzeit abgeraten**.**
+**Von nicht unbedingt erforderlichen Reisen in fünf der sechs Provinzen des indonesischen Teils der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.**
 
 ### Terrorismus
 
@@ -38,11 +40,15 @@ Insbesondere auf abgelegenen Inseln in den Grenzgebieten Ostkalimantans zu Malay
 
 In der auf den Molukken gelegenen Provinzhauptstadt Ambon sowie in Zentralsulawesi um die Stadt Poso kam es aufgrund ethnischer und religiöser Spannungen zu Unruhen mit Toten und Verletzten. Die Situation hat sich in beiden Regionen stabilisiert; Vorsicht bei Reisen in diese Gebiete wird dennoch empfohlen.
 
-Für Aufenthalte in den fünf Provinzen im indonesischen Teil der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) gelten besondere polizeiliche Vorschriften und Beschränkungen. Es kommt regelmäßig zu teilweise gewaltsamen Zusammenstößen zwischen Separatistengruppen und Sicherheitskräften.
+Im Zuge einer Verwaltungsreform wurde der indonesische Teil der Insel Neuguinea 2022 in sechs Provinzen aufgeteilt (Papua, Papua Barat (Westpapua), Papua Pegunungan (Papua Hochland), Papua Tengah (Zentralpapua), Papua Selatan (Südpapua) und Papua Barat Daya(Südwestpapua).
+
+Für Aufenthalte in fünf dieser o.g. sechs Provinzen (ausschließlich Südwestpapua mit der Inselgruppe Raja Ampat und dem Festland um Sorong) gelten besondere polizeiliche Vorschriften und Beschränkungen. Insbesondere in Zentralpapua (Papua Tengah) und im Hochland (Papua Pegunungan) kommt es regelmäßig zu teilweise gewaltsamen Zusammenstößen zwischen Separatistengruppen und Sicherheitskräften.
+
+Im Februar 2023 wurde ein neuseeländischer Staatsangehöriger in Nduga, Provinz Papua Hochland, durch Separatisten entführt, und die hierfür verantwortlich gemachte Gruppierung TPNPB-OPM erklärte nach Medienberichten, man werde weiter Flugzeuge und Piloten angreifen, einschließlich Ausländern. Am 5. August 2024 wurde in Zentralpapua ein neuseeländischer Hubschrauberpilot mutmaßlich von bewaffneten Separatisten erschossen.
 
 Auch in den übrigen Landesteilen und besonders in der Hauptstadt Jakarta kann es zu Demonstrationen kommen, bei denen gewaltsame Auseinandersetzungen und Verkehrsbeeinträchtigungen nicht ausgeschlossen werden können.
 
-* Von Reisen in die fünf Provinzen im indonesischen Teil der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.
+* Von Reisen in die o.g. fünf Provinzen im indonesischen Teil der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -51,9 +57,9 @@ Auch in den übrigen Landesteilen und besonders in der Hauptstadt Jakarta kann e
 
 Indonesien zählt zu den Ländern mit den strengsten Drogengesetzen weltweit. Vergehen gegen das Betäubungsmittelgesetz (auch im Transitbereich von Flughäfen) werden schon bei kleinsten Mengen und jeder Art von Drogen hart bestraft, siehe *Rechtliche Besonderheiten*. Schon bei der Mitnahme von nicht verschreibungspflichtigen Medikamenten oder bei der Mitnahme von Gegenständen für andere Personen ist Vorsicht geboten.
 
-Kleinkriminalität wie Taschendiebstähle, aber auch bewaffnete Überfälle, Handtaschen- und Mobiltelefonraub in öffentlichen Verkehrsmitteln, an belebten Plätzen und in Cafés und Restaurants touristisch beliebter Orte und von motoradfahrenden Reisenden wie auf Bali und Lombok sowie erzwungene Bargeldabhebungen am Geldautomaten kommen regelmäßig vor.
+Taschendiebstähle, aber auch bewaffnete Überfälle, Handtaschen- und Mobiltelefonraub kommen regelmäßig in öffentlichen Verkehrsmitteln, an belebten Plätzen und in Cafés und Restaurants touristisch beliebter Orte vor. Auch motoradfahrende Touristen können Opfer von Überfällen werden. Erzwungene Bargeldabhebungen an Geldautomaten kommen regelmäßig vor.
 
-In der Hauptstadt Jakarta besteht die Gefahr von Überfällen besonders für allein reisende Frauen. Taxis sollten nur von Bluebird, Silverbird oder Express genommen bzw. telefonisch bestellt werden.
+In der Hauptstadt Jakarta besteht die Gefahr, überfallen zu werden, besonders für alleinreisende Frauen. Taxis sollten nur von Bluebird, Silverbird oder Express genommen bzw. telefonisch bestellt werden.
 
 Vereinzelt kommt es auch zum Einsatz von K.-o.-Tropfen und Kreditkartenbetrug.  
 Auf Bali wie auch an vielen anderen Orten verleiten Falschspielerbanden Reisende zu verbotenen, manipulierten Glücksspielen.  
@@ -61,7 +67,7 @@ Die Polizei ist häufig nicht bereit, Anzeigen entgegenzunehmen. 
 
 * Vermeiden Sie jeden Kontakt mit Drogen und unbekannten Substanzen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Achten Sie auf Ihre Umgebung, insbesondere bei Fahrten mit Mietfahrzeugen, halten Sie möglichst nur an sicher erscheinenden Orten an und Fenster und Türen bei der Fahrt geschlossen.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie Getränke nie unbeaufsichtigt und beim Bezahlvorgang Ihre Kreditkarte nicht aus den Augen.
@@ -69,17 +75,17 @@ Die Polizei ist häufig nicht bereit, Anzeigen entgegenzunehmen. 
 
 ## Natur und Klima
 
-Siehe *Aktuelles*  
+Siehe *Aktuelles*
 
 #### *Erdbeben und Tsunamis*
 
 Indonesien liegt in einer seismisch sehr aktiven Zone, dem pazifischen Feuerring, sodass es häufig zu vulkanischen Aktivitäten sowie Erd- und Seebeben kommt und auch Tsunamis ausgelöst werden können.
 
-#### *Vulkane*
+#### *Vulkanausbrüche*
 
 Siehe *Aktuelles*
 
-Das [Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum](https://www.gfz-potsdam.de) bietet umfangreiche Informationen und Verhaltenshinweise für Reisende, deren Reiseziel die Gefahr von Naturkatastrophen wie Erdbeben, Tsunamis oder Vulkanausbrüchen birgt.  
+Das [Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum](https://www.gfz-potsdam.de) bietet umfangreiche Informationen und Verhaltenshinweise für Reisende, deren Reiseziel die Gefahr von Naturkatastrophen wie Erdbeben, Tsunamis oder Vulkanausbrüchen birgt.
 
 * Machen Sie sich bei einem Aufenthalt in erdbeben- oder tsunamigefährdeten Gebieten und vor einer Wanderung oder Besteigung eines Vulkans mit den Gefahren und Verhaltenshinweisen vertraut. Entsprechende Merkblätter hält das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) bereit. Verhaltenshinweise zu einem Vulkanausbruch bietet zudem das [International Volcanic Health Hazard Network IVHHN.](https://www.ivhhn.org/)
 * Beachten Sie unbedingt die entsprechenden [Hinweise der indonesischen Regierung](https://magma.vsi.esdm.go.id/).
