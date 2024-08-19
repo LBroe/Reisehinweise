@@ -2,17 +2,9 @@
 
 ## Aktuelles
 
-### *Streikankündigung*
+### *Streik*
 
-Ab Montag, 19. August 2024, hat die Gewerkschaft der Flughafenmitarbeiter einen siebentägigen Streik des Personals der Flughafenbehörde „Kenya Airports Authority“ am Jomo Kenyatta International Airport Nairobi angekündigt.
-
-Die Flughafenbehörde hat angekündigt, die notwendigen Maßnahmen zu ergreifen, damit der Flugbetrieb reibungslos weiterläuft. Dennoch ist nicht auszuschließen, dass es zu Verzögerungen bei der Abwicklung am Flughafen oder im Flugbetrieb kommt.
-
-In Ihrem eigenen Interesse wird empfohlen:
-
-* Fahren Sie rechtzeitig zum Flughafen, um Verzögerungen beim Check-in oder der Sicherheitskontrolle ausgleichen zu können.
-* Achten Sie auf eingehende Informationen Ihrer Fluggesellschaft vor Abflug.
-* Nehmen Sie ggf. rechtzeitig zu Ihrer Fluggesellschaft/Ihrem Reisebüro Kontakt auf, sollten Sie über Flugausfälle oder -verzögerungen benachrichtigt worden sein.
+Der ab Montag, den 19. August 2024, angekündigte siebentägige Streik des Personals der Flughafenbehörde *Kenya Airport Authority* wurde vorerst abgesagt.
 
 ### *Landesweite Demonstrationen*
 
@@ -402,7 +394,7 @@ Reisen in große Höhe können mit besonderen Gefahren verbunden sein.
 
 * Beachten Sie vor geplanten Aufstiegen auf den Mount Kenya unsere Informationen zur [Höhenkrankheit.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hoehenkrankheit/2519606 "Höhenkrankheit")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
