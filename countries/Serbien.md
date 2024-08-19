@@ -16,12 +16,12 @@ Die politische Lage ist stabil. In der Grenzregion zu Kosovo kann es zu Spannung
 
 ### Kriminalität
 
-Kleinkriminalität wie Taschendiebstähle und Trickbetrügereien kommen insbesondere in den Großstädten an von Touristen sehr frequentierten Orten vor.
+Kleinkriminalität wie Taschendiebstähle und Trickbetrügereien kommen insbesondere in den Großstädten an von Touristen stark frequentierten Orten vor.
 
 Fahrzeugaufbrüche kommen vor. Betrüger geben sich häufiger als falsche „gelbe Engel“ aus, bieten überteuerte Reparaturdienste an oder täuschen Pannen vor.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in öffentlichen Verkehrsmitteln und auf Märkten aufmerksam und achten Sie auf Ihre Wertsachen.
 * Übernachten Sie nicht an Raststätten oder Tankstellen entlang der Autobahn.
 * Lassen Sie keine Wertsachen im Fahrzeug zurück.
@@ -81,7 +81,7 @@ Führerscheine von Mitgliedstaaten der Europäischen Union, also auch der deutsc
 
 ### LGBTIQ
 
-Homosexuelle Handlungen sind in Serbien nicht strafbar; gleichwohl stehen große Teile der Gesellschaft Homosexualität ablehnend gegenüber. Es kommt zu vor allem verbalen, in Einzelfällen auch physischen Angriffen, auf Angehörige der LGBTIQ-Community. Während öffentlichkeitswirksamer LGBTIQ-Veranstaltungen wie der jährlich stattfindenden Belgrade Pride Week sollte auf dem Hin- und Rückweg aus Sicherheitsgründen vom Tragen sichtbarer Zeichen der Teilnahme abgesehen werden.
+Homosexuelle Handlungen sind in Serbien nicht strafbar; gleichwohl stehen große Teile der Gesellschaft Homosexualität ablehnend gegenüber. Es kommt zu vor allem verbalen, in Einzelfällen auch physischen Angriffen, auf Angehörige der LGBTIQ-Gemeinschaft. Während öffentlichkeitswirksamer LGBTIQ-Veranstaltungen wie der jährlich stattfindenden Belgrade Pride Week sollte auf dem Hin- und Rückweg aus Sicherheitsgründen vom Tragen sichtbarer Zeichen der Teilnahme abgesehen werden.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -124,14 +124,14 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Reisedokumente müssen für die Dauer des Aufenthalts gültig sein.
 
-Von der Einreise mit einem einmal als verloren oder gestohlen gemeldeten Ausweisdokument wird dringend abgeraten. Wird bei Ausreise festgestellt, dass das Dokument ausgeschrieben ist, sollte umgehend die ausschreibende Behörde kontaktiert und um dringende Löschung gebeten werden. Solange die Fahndungsausschreibung, die im Rahmen der Verlustmeldung von den deutschen Behörden veranlasst wird, auch in internationalen Registern nicht gelöscht ist, verweigern die serbischen Grenzbehörden die Einreise. Besonders am Flughafen Belgrad besteht die serbische Grenzpolizei auf eine Rückreise an den Herkunftsflughafen, selbst wenn dies mit mehrtägigen Wartezeiten verbunden ist. Die deutsche Botschaft in Belgrad hat hier keine Einflussmöglichkeit.
+Von der Einreise mit einem einmal als verloren oder gestohlen gemeldeten Ausweisdokument wird dringend abgeraten. Wird bei Ausreise festgestellt, dass das Dokument ausgeschrieben ist, sollte umgehend die ausschreibende Behörde kontaktiert und um dringende Löschung gebeten werden. Solange die Fahndungsausschreibung, die im Rahmen der Verlustmeldung von den deutschen Behörden veranlasst wird, auch in internationalen Registern nicht gelöscht ist, verweigern die serbischen Grenzbehörden die Einreise. Besonders am Flughafen Belgrad besteht die serbische Grenzpolizei auf einer Rückreise an den Herkunftsflughafen, selbst wenn dies mit mehrtägigen Wartezeiten verbunden ist. Die deutsche Botschaft in Belgrad hat hier keine Einflussmöglichkeit.
 
 ### Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen innerhalb von 180 Tagen zu touristischen Zwecken kein Visum.  
 Auf diese Dauer werden von den serbischen Behörden auch Aufenthalte in Kosovo angerechnet.
 
-Inhaber von deutschen Reisedokumenten für Ausländer, Flüchtlinge und Staatenlose benötigen ein Visum für die Einreise in die Republik Serbien.
+Inhaber deutscher Reisedokumente für Ausländer, Flüchtlinge und Staatenlose benötigen ein Visum für die Einreise in die Republik Serbien.
 
 #### *Längerfristiger Aufenthalt oder Arbeitsaufnahme*
 
@@ -158,7 +158,7 @@ Kosovarische Einreisestempel werden von den serbischen Behörden zumeist ungült
 
 ### Meldepflicht
 
-Ausländer müssen in Serbien innerhalb von 24 Stunden am Ort ihres Aufenthaltes polizeilich angemeldet werden. Zuständig hierfür sind die Gastgeber (Privatpersonen/Unterkunftsinhaber von Hotels, etc.), die entweder bei der zuständigen Polizeibehörde vorsprechen oder die Anmeldung über das [Regierungsportal „euprava“](https://euprava.gov.rs/usluge/4494) vornehmen. Nach erfolgter Anmeldung wird als Nachweis eine polizeiliche Bescheinigung ausgestellt. Für Camper, die sich weniger als 24 Stunden an einem Ort aufhalten, besteht keine Meldepflicht, aber sie sollen ihre ungefähre Reiseroute mit den jeweiligen Standorten den serbischen Innenbehörden in englischer Sprache mailen: [info@mup.gov.rs.](mailto:info@mup.gov.rs) Diese informieren dann die zuständigen Polizeistationen. Ab 24 Stunden Aufenthalt an einem Ort sind Camper verpflichtet, sich bei der für ihren Aufenthaltsort zuständigen Polizeibehörde anzumelden. Verstöße gegen die Meldepflicht können zu Schwierigkeiten bei der Ausreise führen und mit einer Geldstrafe geahndet werden.  
+Ausländer müssen in Serbien innerhalb von 24 Stunden am Ort ihres Aufenthaltes polizeilich angemeldet werden. Zuständig hierfür sind die Gastgeber (Privatpersonen/Unterkunftsinhaber von Hotels, etc.), die entweder bei der zuständigen Polizeibehörde vorsprechen oder die Anmeldung über das [Regierungsportal „euprava“](https://euprava.gov.rs/usluge/4494) vornehmen. Nach erfolgter Anmeldung wird als Nachweis eine polizeiliche Bescheinigung ausgestellt. Für Camper, die sich weniger als 24 Stunden an einem Ort aufhalten, besteht keine Meldepflicht, aber sie sollen ihre ungefähre Reiseroute mit den jeweiligen Standorten den serbischen Innenbehörden in englischer Sprache mailen: [infomup@mup.gov.rs.](mailto:info@mup.gov.rs) Diese informieren dann die zuständigen Polizeistationen. Ab 24 Stunden Aufenthalt an einem Ort sind Camper verpflichtet, sich bei der für ihren Aufenthaltsort zuständigen Polizeibehörde anzumelden. Verstöße gegen die Meldepflicht können zu Schwierigkeiten bei der Ausreise führen und mit einer Geldstrafe geahndet werden.  
 
 ### Hinweise für deutsch-serbische Doppelstaater
 
