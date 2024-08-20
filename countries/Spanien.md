@@ -11,19 +11,21 @@ Seit den terroristischen Anschlägen 2017 in Barcelona und Cambrils gilt weiterh
 
 ### Kriminalität
 
-Sowohl in größeren Städten als auch in den touristischen Zentren und Ausflugszielen auf den Balearen, entlang der Mittelmeerküste sowie auf den Kanaren ist Vorsicht vor Taschendiebstahl und Kleinkriminalität angebracht. In Barcelona hat es zuletzt eine Zunahme von Vorfällen mit Gewaltanwendung gegeben. Weiterhin sind Einbrüche in Ferienunterkünfte zu beobachten.  
+Sowohl in größeren Städten als auch in den touristischen Zentren und Ausflugszielen auf den Balearen, entlang der Mittelmeerküste sowie auf den Kanaren ist Vorsicht vor Taschendiebstahl und Kleinkriminalität angebracht.
+
+In Barcelona kommt es des Öfteren auch zu Vorfällen mit Gewaltanwendung. Weiterhin sind Einbrüche in Ferienunterkünfte zu beobachten.  
 Aufgrund der hohen Kriminalitätsrate in Tourismuszentren und der Gefahren des Drogenmissbrauchs sollte bei Jugendreisen besonderer Wert auf professionelle Betreuung und Aufsicht gelegt werden.
 
 Entlang der spanischen Autobahnen (insbesondere auf der A7 zwischen der französisch-spanischen Grenzstation La Jonquera und Barcelona, aber auch im weiteren Verlauf) kommt es öfter zu Überfällen auf Touristen. Die Betroffenen werden dabei von einem oder zwei auf gleicher Höhe fahrenden Fahrzeugen, häufig auch mit einem deutschen oder einem anderen ausländischen Kennzeichen, durch Hupen oder durch Werfen von Steinen auf vermeintliche oder tatsächliche Schäden am Fahrzeug (z. B. absichtlich herbeigeführte Reifenpanne) hingewiesen und es wird „Hilfeleistung“ angeboten.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher und möglichst getrennt voneinander auf und fertigen Sie (elektronische) Kopien. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen (auch im Sicherheitsbereich), Bahnhöfen, in der U-Bahn und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Machen Sie sich mit [Sicherheitshinweisen der spanischen Polizei](https://spanien.diplo.de/es-de/-/2281892) und für Besuche von Barcelona mit den [Sicherheitstipps und Verhaltensregeln der Stadt](https://spanien.diplo.de/blob/2238442/d12bbb33aef10628fb6e063fe6b001d1/sicherheitstips-stadt-barcelona-data.pdf) vertraut.
-* Halten Sie auf keinen Fall auf dem Seitenstreifen an, sondern fahren Sie bis zur nächsten Tankstelle oder belebten Raststätte weiter. Rufen Sie die Notrufnummer 112 an und schildern Sie den Vorfall.
+* Machen Sie sich mit den [Sicherheitshinweisen der spanischen Polizei](https://spanien.diplo.de/es-de/-/2281892) und für Besuche von Barcelona mit den [Sicherheitstipps und Verhaltensregeln der Stadt](https://spanien.diplo.de/blob/2238442/d12bbb33aef10628fb6e063fe6b001d1/sicherheitstips-stadt-barcelona-data.pdf) vertraut.
+* Halten Sie nicht auf dem Seitenstreifen an, sondern fahren Sie bis zur nächsten Tankstelle oder belebten Raststätte weiter. Rufen Sie die Notrufnummer 112 an und schildern Sie den Vorfall.
 * Lassen Sie beim Aufsuchen der nächsten Tankstelle, Raststätte oder des nächsten Parkplatzes keine offen sichtbaren (Wert-)Gegenstände im Fahrzeug liegen und schließen Sie das Fahrzeug ab – auch wenn Sie zu zweit sind.
 * Vergewissern Sie sich, dass im Fall einer Panne der zu Hilfe gerufene Abschleppwagen das Symbol von „Autopistas“ oder das Symbol des von Ihnen angeforderten Pannendienstes trägt.
-* Seien Sie bei ungewöhnlichen Anrufen, E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch, teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewöhnlichen Anrufen, E-Mails, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch, teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -37,9 +39,9 @@ Vor allem in den Sommermonaten kommt es auf dem Festland wie auf den Inseln imme
 
 Am Ende des Sommers kommt es in vielen Landesteilen häufig zu wolkenbruchartigen Regenfällen, die die im Sommer ausgetrocknete Erde nicht aufnehmen kann. Die überall an der Küste vorzufindenden „ramblas“ (span: Flussbetten) können sich dann unter Umständen in kürzester Zeit zu reißenden Flüssen entwickeln.
 
-Im Mittelmeer kann es zu vereinzelten schweren Herbst- und Winterstürmen bis hin zu sogenannten "Medicanes" kommen.
+Am Mittelmeer kann es zu vereinzelten schweren Herbst- und Winterstürmen bis hin zu sogenannten "Medicanes" kommen.
 
-#### *Erdbeben und Vulkane*
+#### *Erdbeben und Vulkanausbrüche*
 
 Die Kanarischen Inseln sind Vulkaninseln. Zwar wird die vulkanische Aktivität intensiv wissenschaftlich überwacht, Naturkatastrophen aufgrund von Erd- bzw. Seebeben oder gar Vulkanausbrüche sind jedoch nicht verlässlich vorhersagbar. Neben den Kanaren liegen auch die Pyrenäen und der Süden Spaniens in einer seismisch aktiven Zone, weshalb es in diesen Regionen zu leichteren Erdbeben kommen kann.
 
@@ -48,14 +50,14 @@ Der im September 2021 auf der Insel La Palma ausgebrochene Vulkan gilt seit Dez
 * Beachten Sie unbedingt das Betretungsverbot der Sperrzonen auf La Palma und befolgen Sie die Anweisungen der lokalen Behörden.
 * Informieren Sie sich über die Medien z.B. beim [staatlichen meteorologischen Institut AMET](http://www.aemet.es/es/portada).
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich ggf. mit Verhaltenshinweisen bei Erdbeben und Vulkanenvertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich ggf. mit Verhaltenshinweisen bei Erdbeben und Vulkanausbrüchen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
 
 ## Reiseinfos
 
 ### Ein- und Ausreise über Frankreich
 
-In Zusammenhang mit den bevorstehenden Olympischen und Paralympischen Spielen hat Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden angekündigt. Nähere Informationen dazu finden Sie in den Reise- und Sicherheitshinweisen zu [Frankreich.](https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524)
+In Zusammenhang mit den Olympischen und Paralympischen Spielen hat Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden angekündigt. Nähere Informationen dazu finden Sie in den Reise- und Sicherheitshinweisen zu [Frankreich.](https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524)
 
 Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
 
@@ -68,11 +70,11 @@ Es gibt ein Inlandsflugnetz, Fährverkehr zu den Inseln, Eisenbahnen mit gut aus
 
 Die Promillegrenze beträgt 0,5; für Fahranfänger in den ersten zwei Jahren und Berufsfahrer 0,3.
 
-Nur auf wenigen, noch privat betriebenen Autopistas, die mit „AP“ gekennzeichnet sind, wird eine Maut erhoben. An Mautstationen kann in bar oder mit Kreditkarte, jedoch nicht einer Bankkarte, bezahlt werden. Auf bestimmten mit „Telepeaje“, „VIA-T“ oder „T“ gekennzeichneten Fahrspuren kann die Maut auch mit der [VIA-T Box](https://www.autopistas.com/servicios/via-t/) automatisch entrichtet und damit Wartezeiten an Mautstellen vermieden werden.
+Nur auf wenigen, noch privat betriebenen Autopistas, die mit „AP“ gekennzeichnet sind, wird eine Maut erhoben. An Mautstationen kann in bar oder mit Kreditkarte, jedoch nicht mit einer Bankkarte (Girocard), bezahlt werden. Auf bestimmten mit „Telepeaje“, „VIA-T“ oder „T“ gekennzeichneten Fahrspuren kann die Maut auch mit der [VIA-T Box](https://www.autopistas.com/servicios/via-t/) automatisch entrichtet und damit Wartezeit an Mautstellen vermieden werden.
 
 In spanischen Städten gilt ein Tempolimit abhängig von der Anzahl der Fahrstreifen: Auf Straßen mit einer Fahrbahn pro Fahrtrichtung gilt ein Tempolimit von 30 km/h, auf Straßen mit einer einzigen Fahrspur für beide Fahrtrichtungen ohne Fahrbahnmarkierung und ohne Gehsteig sogar nur 20 km/h. Nur auf Straßen mit zwei oder mehr Fahrspuren pro Richtung gilt innerorts weiterhin ein Tempolimit von 50 km/h. Weitere Informationen bietet [die spanische Kraftfahrzeugbehörde.](https://www.dgt.es/inicio/)
 
-In mehreren Städten, darunter Madrid und Barcelona, gibt es Umweltzonen mit permanenten, temporären oder wetterabhängigen Fahrverboten, die zu beachten sind. Weitere Informationen, auch zu dem Erwerb einer spanischen Umweltplakette oder der Registrierung ausländischer Fahrzeuge bieten die zuständigen spanischen Behörden (z.B. [Madrid](https://sede.madrid.es/portal/site/tramites/menuitem.c61bb691882ed9d32e202e2084f1a5a0/?vgnextoid=c8e9a38813180210VgnVCM100000c90da8c0RCRD&vgnextchannel=c8e9a38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default) bzw. [Barcelona](https://zberegistre.ambmobilitat.cat/en)).
+In mehreren Städten, darunter Madrid und Barcelona, gibt es Umweltzonen mit permanenten, temporären oder wetterabhängigen Fahrverboten, die zu beachten sind. Weitere Informationen, auch zum Erwerb einer spanischen Umweltplakette oder der Registrierung ausländischer Fahrzeuge bieten die zuständigen spanischen Behörden (z.B. [Madrid](https://sede.madrid.es/portal/site/tramites/menuitem.c61bb691882ed9d32e202e2084f1a5a0/?vgnextoid=c8e9a38813180210VgnVCM100000c90da8c0RCRD&vgnextchannel=c8e9a38813180210VgnVCM100000c90da8c0RCRD&vgnextfmt=default) bzw. [Barcelona](https://zberegistre.ambmobilitat.cat/en)).
 
 Auf Formentera wird vom 1. Juli bis 31. August die Anzahl der Fahrzeuge mit Verbrennungsmotor begrenzt. Besucher mit Fahrzeug oder Motorrad benötigen dann eine kostenpflichtige Bewilligung, die beim [Consell Insular de Formentera](https://www.consellinsulardeformentera.cat/index.php?lang=es) beantragt werden kann.
 
@@ -85,7 +87,7 @@ Folgende Grenzübergangsstellen zwischen Frankreich und Spanien sind in Guipuzc
 * Die Fußgängerbrücke zwischen Irun und Hendaye,
 * die Grenzübergangsstellen in Izpegi, Alduide und Iturzaeta.
 
-Vom 1. November bis 31. März ist der Zutritt zur „Napoleonroute“ des Jakobswegs „Camino de Santiago Francés“ von der französischen Ortschaft Jean-Pied-de-Port nach Orreaga/Roncesvalles in Navarra, Spanien witterungsbedingt und aus Sicherheitsgründen untersagt. Verstöße werden mit hohen Bußgeldstrafen geahndet. Die alternative Strecke über Lucaide/Valcarlos nach Orreaga/Roncesvalles ist nicht betroffen. Nähere Informationen in englischer Sprache bietet [Turismo Navarra.](https://www.turismo.navarra.es/deu/Productos/Producto_camino-santiago/Relacionados/visitas-imprescindibles/orreaga-roncesvalles-viana/)
+Vom 1. November bis 31. März ist der Zutritt zur „Napoleonroute“ des Jakobswegs „Camino de Santiago Francés“ von der französischen Ortschaft Jean-Pied-de-Port nach Orreaga/Roncesvalles in Navarra, Spanien, witterungsbedingt und aus Sicherheitsgründen untersagt. Verstöße werden mit hohen Bußgeldstrafen geahndet. Die alternative Strecke über Lucaide/Valcarlos nach Orreaga/Roncesvalles ist nicht betroffen. Nähere Informationen in englischer Sprache bietet [Turismo Navarra.](https://www.turismo.navarra.es/deu/Productos/Producto_camino-santiago/Relacionados/visitas-imprescindibles/orreaga-roncesvalles-viana/)
 
 ### Führerschein
 
