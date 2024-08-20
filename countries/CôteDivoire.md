@@ -156,7 +156,7 @@ Bei der Einfuhr von Hunden und Katzen ist ein international gültiges Impfzeugni
 
 ### Medizinische Versorgung
 
-Die medizinische Versorgung in Cote d‘Ivoire ist nicht mit der Versorgung in Deutschland vergleichbar. Außerhalb der großen Zentren fehlen vielerorts medizinisches Fachpersonal. Planbare Operationen, Eingriffe und Diagnostik sollten in Europa durchgeführt werden. Notfall- und Basisversorgung ist in den großen staatlichen Krankenhäusern sowie etlichen Privatkliniken gewährleistet. Die Apotheken haben ein ausreichendes Sortiment wichtiger Standardmedikamente. Medikamentenfälschungen mit unsicherem Inhalt kommen vor.
+Die medizinische Versorgung in Cote d‘Ivoire ist nicht mit der Versorgung in Deutschland vergleichbar. Außerhalb der großen Zentren fehlt vielerorts medizinisches Fachpersonal. Planbare Operationen, Eingriffe und Diagnostik sollten in Europa durchgeführt werden. Notfall- und Basisversorgung ist in den großen staatlichen Krankenhäusern sowie etlichen Privatkliniken gewährleistet. Die Apotheken haben ein ausreichendes Sortiment wichtiger Standardmedikamente. Medikamentenfälschungen mit unsicherem Inhalt kommen vor.
 
 * Lassen Sie sich frühzeitig reisemedizinisch beraten und Ihren Impfschutz anpassen. Entsprechende reisemedizinische Praxen und Impfstellen sind u.a. über die [DTG](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG") zu finden.
 * Nehmen Sie eine Reiseapotheke sowie regelmäßig einzunehmende Medikamente mit. Lassen Sie sich für die Einreise ggf. die Notwendigkeit ärztlich auf Englisch bescheinigen.
@@ -187,7 +187,7 @@ Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können 
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
 
-In Cote d‘Ivoire besteht eine Risiko für Erkrankungen wie [Lassafieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") [Meningokokken-Erkrankungen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/meningokokken-erkrankungen/2553652 "Meningokokken-Erkrankungen") und [Tuberkulose.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tbc/2562914 "Tuberkulose") Diese werden durch den engen Kontakt mit infizierten Menschen übertragen. Die höchsten Erkrankungszahlen von Lassafieber und Meningokokken-Erkrankungen treten in der Trockenzeit von Dezember bis April auf.
+In Côte d‘Ivoire besteht ein Risiko für Erkrankungen wie [Lassafieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") [Meningokokken-Erkrankungen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/meningokokken-erkrankungen/2553652 "Meningokokken-Erkrankungen") und [Tuberkulose.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tbc/2562914 "Tuberkulose") Diese werden durch den engen Kontakt mit infizierten Menschen übertragen. Die höchsten Zahlen von Lassafieber- und Meningokokken-Erkrankungen treten in der Trockenzeit von Dezember bis April auf.
 
 * Halten Sie sich grundsätzlich von krank wirkenden Personen fern. Besuchen Sie keine Beerdigungen oder Krankenhäuser.
 * Beachten Sie lokale Warnungen.
@@ -198,15 +198,25 @@ In Cote d‘Ivoire besteht eine Risiko für Erkrankungen wie [Lassafieber,](http
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402) wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor einer Reise bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
+
 ### Durch Tierkontakt übertragene Erkrankungen
 
-[Lassafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") kann durch Kontakt mit infektiösen Ausscheidungen von Nagetieren und durch Kontakt mit Wildfleisch („bush meat“) übertragen werden. Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") erfolgt über Hunde, Affen und Flughunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle. Landesweit kommen Giftschlangen vor.
+[Lassafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") und Leptospirose können durch Kontakt mit infektiösen Ausscheidungen von Nagetieren, Lassafieber auch durch Kontakt mit Wildfleisch („bush meat“) übertragen werden. Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") erfolgt über Hunde, Katzen, Affen und Flughunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle. Landesweit kommen Giftschlangen vor.
 
 * Meiden Sie grundsätzlich den Kontakt zu Tieren und deren Ausscheidungen.
-* Sollten Sie von einem Hund, Affen, Flughund oder einer Giftschlange gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung. Gegengifte sind nur begrenzt erhältlich.
+* Sollten Sie von einem Hund, Affen, Flughund, einer Katze oder einer Giftschlange gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung. Gegengifte sind nur begrenzt erhältlich.
 * Meiden Sie den Kontakt zu stehenden oder langsam fließenden Gewässern, da diese mit Urin von Nagetieren verunreinigt sein können.
-* Vermeiden Sie Verzehr von Fleischgerichten unklaren Ursprungs.
+* Vermeiden Sie den Verzehr von Fleischgerichten unklaren Ursprungs. Konsumieren Sie nur zuvor erhitzte Lebensmittel.
 * Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Beachten Sie, dass Tollwutimpfstoffe nur sehr begrenzt und Immunglobuline nicht im Land erhältlich sind.
+* Achten Sie besonders in Lassa-Ausbruchsgebieten auf Lebensmittelhygiene und übernachten Sie nicht in einfachen Unterkünften.
 
 ### Weitere Gesundheitsgefahren
 
