@@ -4,36 +4,34 @@
 
 **Vor Reisen in die Ukraine wird gewarnt. Deutsche Staatsangehörige sind dringend aufgefordert, das Land zu verlassen.**
 
-**In der Ukraine finden Kampfhandlungen, Raketen- und Luftangriffe statt. Einzelheiten siehe** *Innenpolitische Lage***.**
+### Kampfhandlungen
 
-**Falls Sie das Land nicht auf einem sicheren Weg verlassen können, bleiben Sie vorläufig an einem geschützten Ort.** 
+In der Ukraine finden Kampfhandlungen, Raketen- und Luftangriffe statt.
 
-**Der Luftraum ist geschlossen. Eine Ausreise ist nur auf dem Landweg möglich.**
+**Rund um den Tag der ukrainischen Unabhängigkeit am 24. August 2024 kann es zu verstärkten Raketen- und Luftangriffen auf die Ballungszentren, insbesondere die Hauptstadt Kyjiw, kommen.**
 
-**Eine Evakuierung durch deutsche Behörden ist nicht möglich.**
+Der Luftraum ist geschlossen. Ein- und Ausreisen ist nur auf dem Landweg möglich. In Kyjiw und anderen Orten werden bei Bedarf – auch kurzfristig – Ausgangssperren verhängt.
 
-**In Kyjiw und anderen Orten werden bei Bedarf – auch kurzfristig – Ausgangssperren verhängt.** 
-
-Die Deutsche Botschaft hat den Dienstbetrieb in Kyjiw in eingeschränkter Form wiederaufgenommen, nimmt bis auf Weiteres jedoch nur in Ausnahmefällen konsularische Aufgaben wahr. Das Generalkonsulat in Donezk (mit Sitz in Dnipro) ist weiterhin geschlossen.
+Die deutsche Botschaft hat den Dienstbetrieb in Kyjiw in eingeschränkter Form wiederaufgenommen. Derzeit wahrgenommene konsularische Aufgaben können der [Rubrik Visa und Konsularservice](https://ukraine.diplo.de/ua-de/service) der deutschen Vertretungen in der Ukraine entnommen werden. . Das Generalkonsulat in Donezk (mit Sitz in Dnipro) ist weiterhin geschlossen.
 
 Männlichen ukrainischen Staatsbürgern im Alter von 18 bis 60 Jahren ist seit der Generalmobilmachung die Ausreise aus der Ukraine verboten. Weitere Staatsangehörigkeiten der Betreffenden werden von den ukrainischen Behörden in diesem Zusammenhang nicht berücksichtigt.
 
-* **Beachten Sie die geltende Reisewarnung.**
+* **Beachten Sie die geltende Reisewarnung und Ausreiseaufforderung.**
+* Wenn Sie trotz Reisewarnung für beruflich unvermeidbare Aufenthalte in die Ukraine reisen müssen, seien Sie sich der erheblichen Gefährdung bewusst und vergewissern Sie sich eines sorgfältig und professionell ausgearbeiteten Sicherheitskonzepts.
 * Verfolgen Sie die internationalen und lokalen Medien und achten Sie auch auf lokale Bekanntmachungen, auch in Hinblick auf kurzfristig verhängte Ausgangssperren.
 * Tragen Sie sich in die [Krisenvorsorgeliste des Auswärtigen Amts](https://krisenvorsorgeliste.diplo.de/signin) ein. Sollten Sie bereits die Ukraine verlassen haben, tragen Sie sich bitte umgehend aus der Krisenvorsorgeliste aus.
 * Aufgrund des russischen Angriffs auf die Ukraine sind die Möglichkeiten zur Unterstützung deutscher Staatsangehöriger sehr begrenzt.
-* Wenden Sie sich in Notfällen bitte an das Auswärtige Amt.
 * Halten Sie evtl. verhängte Ausgangssperren unbedingt ein.
 
 ## **Sicherheit - Reisewarnung**
 
-**Vor Reisen in die Ukraine wird gewarnt.**
+**Vor Reisen in die Ukraine wird gewarnt. Deutsche Staatsangehörige sind dringend aufgefordert, das Land zu verlassen.**
 
 ### **Innenpolitische Lage**
 
 Am 24. Februar 2022 haben russische Streitkräfte die Ukraine angegriffen. Kampfhandlungen konzentrieren sich derzeit auf den Osten und den Süden der Ukraine. Im ganzen Land finden Raketen- und Luftangriffe (neuerdings auch mit sog. Kamikaze-Drohnen) statt, bei denen auch ein Beschuss ziviler Infrastrukturen und Wohnbebauung nicht ausgeschlossen werden kann.
 
-Überall im Land besteht die Gefahr von nicht explodierter Munition, im Küstenbereich zudem von Seeminen. In den vormals von russischen Truppen gehaltenen und inzwischen durch ukrainische Truppen wieder befreiten Gebieten ist zudem die Gefahr von Minen und Sprengfallen hoch.  
+Überall im Land besteht die Gefahr nicht explodierter Munition, im Küstenbereich zudem von Seeminen. In den vormals von russischen Truppen gehaltenen und inzwischen durch ukrainische Truppen wieder befreiten Gebieten ist zudem die Gefahr von Minen und Sprengfallen hoch.  
 
 #### *Luhansk, Donestk, Saporischje und Cherson*
 
@@ -42,7 +40,7 @@ Konsularischer Schutz kann dort derzeit nicht gewährt werden.
 
 #### *Krim*
 
-Die Halbinsel Krim gehört völkerrechtlich weiterhin zur Ukraine, wird aber derzeit faktisch von Russland kontrolliert. Seit Juni 2015 ist für Reisen auf die Krim vom ukrainischen Festland aus eine Betretenserlaubnis der zuständigen ukrainischen Behörde nötig.  
+Die Halbinsel Krim gehört völkerrechtlich weiterhin zur Ukraine, wird aber derzeit faktisch von Russland kontrolliert. Seit Juni 2015 ist für Reisen auf die Krim vom ukrainischen Festland aus eine Besuchserlaubnis der zuständigen ukrainischen Behörde nötig.  
 Eine Einreise auf die Krim über russisches Staatsgebiet, auch auf dem Luft- oder Seeweg, stellt einen Verstoß gegen ukrainische Gesetze (illegale Einreise) dar und zieht ein Einreiseverbot in die Ukraine sowie unter Umständen Strafverfolgung nach sich. Häfen und Flughäfen auf der Krim sind geschlossen.  
 Konsularischer Schutz kann auf der Krim derzeit nicht gewährt werden.  
 Männer mit (auch) russischer Staatsangehörigkeit im Alter zwischen 16 und 60 Jahren unterliegen verschärften Einreisebestimmungen, siehe *Einreise und Zoll*.
@@ -59,7 +57,7 @@ Vor allem in den Sommermonaten kommt es im Osten und Süden der Ukraine aufgrund
 
 Im Westen der Ukraine kann es in den Winter- und Frühlingsmonaten nach Schmelzen von Eis und Schnee zu Überschwemmungen und Erdrutschen kommen.
 
-Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## **Reiseinfos**
 
@@ -110,7 +108,7 @@ Das Führen von Fahrzeugen im alkoholisierten Zustand oder unter Drogeneinfluss 
 
 Ein wiederholter Verstoß innerhalb eines Jahres wird mit Führerscheinentzug für vier bis fünf Jahre und Beschlagnahme des Kraftfahrzeuges oder 10 bis15 Tage Verwaltungsarrest plus Kfz-Beschlagnahme geahndet. Personen, die bei einer Kontrolle ihren Führerschein nicht vorzeigen können, haben mit einer Strafe von ca. 1.000 EUR und mit der Beschlagnahme des Fahrzeugs zu rechnen.
 
-Die Strafen bei Drogendelikten fallen in der Ukraine wesentlich höher aus als in Deutschland. Mehrjährige Gefängnisstrafen drohen bereits bei der Einfuhr, dem Besitz, dem Transport oder dem Eigenkonsum geringer Mengen weicher Drogen. Drogenschmuggel oder -handel innerhalb der Ukraine wird mit Freiheitsstrafen von bis zu 12 Jahren bestraft.
+Die Strafen bei Drogendelikten fallen in der Ukraine wesentlich höher aus als in Deutschland. Mehrjährige Gefängnisstrafen drohen bereits bei der Einfuhr, dem Besitz, dem Transport oder dem Eigenkonsum geringer Mengen weicher Drogen. Drogenschmuggel oder -handel innerhalb der Ukraine wird mit Freiheitsstrafen von bis zu zwölf Jahren bestraft.
 
 Beim Fotografieren technischer Einrichtungen ist Vorsicht geboten. Militärische Einrichtungen sollten grundsätzlich nicht fotografiert werden. Es kann nicht ausgeschlossen werden, dass aufgrund derartiger Fotos Anklage wegen Spionage erhoben wird. Bei einer darauf begründeten Verurteilung droht in der Ukraine eine Strafe von mindestens acht Jahren Haft.
 
