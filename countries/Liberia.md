@@ -4,16 +4,14 @@
 
 ### Terrorismus
 
-Terrorismus spielt bislang in Liberia keine Rolle. Aufgrund von terroristischen Vorkommnissen in der Region kann eine Gefährdung Liberias in Zukunft nicht ausgeschlossen werden.
+Terrorismus spielt bislang in Liberia keine Rolle. Aufgrund terroristischer Vorkommnisse in der Region kann eine Gefährdung Liberias in Zukunft nicht ausgeschlossen werden.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
-Im Januar 2024 fand die Vereidigung des neuen Staatspräsidenten, Joseph Boakai, statt.
-
-Die Sicherheitslage in Liberia ist zwar unter Kontrolle, aber weiterhin fragil.
+Im Januar 2024 fand die Vereidigung des neuen Staatspräsidenten, Joseph Boakai, statt. Die Sicherheitslage in Liberia ist zwar unter Kontrolle, aber weiterhin fragil. Vereinzelte Demonstrationen können zu temporären Verkehrsbehinderungen und Verzögerungen bei der Einreise führen.
 
 * Seien Sie bei Reisen nach Liberia besonders vorsichtig.
 * Verlassen Sie Straßen und Wege nicht unnötig und beachten Sie Warnschilder.
@@ -23,16 +21,16 @@ Die Sicherheitslage in Liberia ist zwar unter Kontrolle, aber weiterhin fragil.
 
 ### Kriminalität
 
-Die Kriminalität ist in Monrovia und in geringerem Maße auch in anderen Städten Liberias hoch. Es kommt zu Kleinkriminalität wie Diebstahl und Handtaschenraub, aber auch zu bewaffneten Überfällen. Besondere Vorsicht ist im Umfeld der Kunsthandwerksmärkte in der Nähe von internationalen Hotels geboten.
+Die Kriminalität ist in Monrovia und in geringerem Maße auch in anderen Städten Liberias hoch. Es kommt zu Kleinkriminalität wie Diebstahl und Handtaschenraub, aber auch zu bewaffneten Überfällen. Besondere Vorsicht ist im Umfeld der Kunsthandwerksmärkte in der Nähe internationaler Hotels geboten.
 
-Es wird immer wieder von Überfällen bei Fahrten von und zum Roberts International Airport berichtet, der außerhalb von Monrovia liegt. Nachtfahrten sollten vermieden werden. Am Flughafen Monrovia gibt es ein Flughafenhotel mit internationalem Standard.
+Es wird immer wieder von Überfällen bei Fahrten vom und zum Roberts International Airport berichtet, der außerhalb von Monrovia liegt. Nachtfahrten sollten vermieden werden. Am Flughafen Monrovia gibt es ein Flughafenhotel mit internationalem Standard.
 
 Sexuelle Übergriffe und Vergewaltigungen von Frauen und Mädchen werden häufig gemeldet.
 
 * Unternehmen Sie keine nächtlichen Spaziergänge in der Stadt.
 * Seien Sie als allein reisende Frau besonders umsichtig.
 * Organisieren Sie Ihre Abholung am Flughafen frühzeitig und vermeiden Sie Nachtfahrten.
-* Bevorzugen Sie vorbestellte Taxis gegenüber wartenden an Taxiständen.
+* Geben Sie vorbestellten Taxis gegenüber an Taxiständen wartenden den Vorzug.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen auf die Straße mit und zeigen Sie diese insbesondere nicht in der Öffentlichkeit.
 * Meiden Sie größere Menschenmengen.
@@ -69,7 +67,7 @@ Beim Besuch der Nationalparks Nimba und Grebo-Sapo ist die Begleitung durch ausg
 * Fahren Sie stets vorsichtig und defensiv und vermeiden Sie Mitfahrten auf Motorradtaxis.
 * Vermeiden Sie Überlandfahrten nach Einbruch der Dunkelheit. Hindernisse oder Schlaglöcher tauchen oftmals erst im letzten Moment auf. Während der Regenzeit ist es außerdem oft unmöglich einzuschätzen, wie tief Schlaglöcher sind.
 * Fahren Sie über Land möglichst nicht alleine, sondern zu zweit oder im Konvoi.
-* Unternehmen Sie Touren abseits der Hauptstraßen und Besuche von Nationalparks wie z.B. Nimba, Grebo-Sapo nur mit ortskundigen Führern.
+* Unternehmen Sie Touren abseits der Hauptstraßen und Besuche von Nationalparks wie z.B. Nimba und Grebo-Sapo nur mit ortskundigen Führern.
 
 ### Führerschein
 
