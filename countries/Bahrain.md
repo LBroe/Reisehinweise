@@ -4,7 +4,7 @@
 
 ### Aktuelles
 
-Aufgrund des Konflikts in Israel und den Palästinensischen Gebieten kann es in Bahrain zu Protestkundgebungen und Ausschreitungen kommen.
+Aufgrund des Konflikts in Israel und den Palästinensischen Gebieten kann es auch in Bahrain zu Protestkundgebungen und Ausschreitungen kommen.
 
 * Bleiben Sie wachsam.
 * Verfolgen Sie die aktuellen Nachrichten in den lokalen Medien,
@@ -25,7 +25,7 @@ Landesweit kann es immer wieder zur Einrichtung von Sicherheitscheckpoints durch
 
 * Leisten Sie unbedingt den Anweisungen lokaler Sicherheitskräfte Folge.
 * Informieren Sie sich über die lokalen Medien und verhalten Sie sich umsichtig.
-* Meiden und melden Sie verdächtige Gegenstände der Polizei unter 999.
+* Meiden Sie verdächtige Gegenstände und melden Sie sie der Polizei unter der Rufnummer 999.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 
 ### Kriminalität
@@ -36,7 +36,7 @@ Alleinreisende Frauen können leicht Opfer von Belästigungen und Übergriffen w
 
 * Seien Sie insbesondere nachts als alleinreisende Frau besonders vorsichtig.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit. Seien Sie in größeren Menschenmengen wie an Flughäfen und auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* GebenSie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit. Seien Sie in größeren Menschenmengen wie an Flughäfen und auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -62,7 +62,7 @@ Die Benutzung offizieller Taxis und Mietwagen ist empfehlenswert. Vom Fahrradfah
 
 ### Führerschein
 
-Zum Führen von Kraftfahrzeugen ist eine lokale Fahrerlaubnis erforderlich, die nach Einreise beim Straßenverkehrsamt [Traffic and Licensing Directorate](https://services.bahrain.bh/wps/portal/!ut/p/a1/jc_BDsIgEATQT2KgtMUjpaYgGmIMWrmYHowhUfRgjJ9v7V3s3jZ5k50lgfQkpOEVL8Mz3tNw_e6hOgnRKcoEW3V0LyCtg17ygkJVIziOoBRMaTsCV_ASkttt450u4DAvrzqpeb0GwAWDaRvd1osNYKp5efwY-ff-7pzIgYSJ5b6YQK7mBDI9Hjfv-7eJH8bmCgE!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/) gegen Vorlage des internationalen Führerscheins ausgestellt wird.
+Zum Führen von Kraftfahrzeugen ist der internationale Führerschein erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -137,11 +137,11 @@ Journalisten wird dringend davon abgeraten, mit einem nicht dem Aufenthaltszweck
 
 #### *Verlängerung des Aufenthalts/"residency"*
 
-Weitere Informationen zum Thema Aufenthaltstitel/„residency“ in Bahrain bietet das [zuständige Behördenportal.](https://services.bahrain.bh/wps/portal/rpinq_en)  
+Weitere Informationen zum Thema Aufenthaltstitel/„residency“ in Bahrain bietet das [zuständige Behördenportal.](https://services.bahrain.bh/wps/portal/rpinq_en)
 
 #### *Ausreiseverweigerung/“Travel Ban“*
 
-Sofern sich visapflichtige Personen ohne gültigen Aufenthaltstitel in Bahrain aufhalten, wird im Regelfall zunächst die Ausreise verweigert. Die Einwanderungsbehörde verhängt vor Erteilung einer Ausreisegenehmigung eine Geldbuße, deren Höhe im Ermessen des Richters liegt sowie vom Zeitraum des unerlaubten Aufenthalts abhängt. Mit hohen Geldstrafen ist zu rechnen.
+Sofern sich visumspflichtige Personen ohne gültigen Aufenthaltstitel in Bahrain aufhalten, wird im Regelfall zunächst die Ausreise verweigert. Die Einwanderungsbehörde verhängt vor Erteilung einer Ausreisegenehmigung eine Geldbuße, deren Höhe im Ermessen des Richters liegt und vom Zeitraum des unerlaubten Aufenthalts abhängt. Mit hohen Geldstrafen ist zu rechnen.
 
 In Einzelfällen ist es in Mitgliedsstaaten des Golfkooperationsrats vorgekommen, dass dort ansässige deutsche Staatsangehörige an der Ausreise gehindert wurden. Ein häufiger Grund sind arbeitsrechtliche Meinungsverschiedenheiten, die den Arbeitgeber („Sponsor“) veranlassen, die zuständigen Behörden um die Verhängung von aufenthaltsrechtlichen Maßnahmen im Sinne einer Ausreisesperre (engl. „travel ban“) auch außerhalb von Gerichtsverfahren zu ersuchen. Auch die Nichterfüllung finanzieller Forderungen durch den Arbeitnehmer hat in der Vergangenheit zur Verwehrung der Ausreise geführt. Es wird daher empfohlen, sich vor Aufnahme eines Arbeitsverhältnisses bzw. Beginn einer Geschäftstätigkeit über die geltende Rechtslage zu informieren.
 
