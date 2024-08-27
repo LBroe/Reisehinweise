@@ -1,5 +1,23 @@
 # Portugal: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+##### Mögliche Beeinträchtigung im Flugverkehr durch Streikmaßnahmen
+
+Die Lufthansa-Tochtergesellschaft Discover Airlines hat von Dienstag, dem 27. August, bis Freitag, dem 30. August einen Streik angekündigt. Hiervon können auch Flugreisende nach Portugal – insbesondere nach Madeira – betroffen sein.
+
+Für Samstag, den 31. August, und Sonntag, den 1. September, wurde seitens der portugiesischen Transportarbeitergewerkschaft ein landesweiter Streik des Abfertigungspersonals an den Flughäfen angekündigt. Auch hier kann es an beiden Tagen zu Beeinträchtigungen, Flugausfällen oder einer vollständigen Einstellung Flugverkehrs kommen
+
+#### *Busch- und Waldbrände*
+
+In den Sommermonaten kommt es in Portugal – vor allem im Zentrum und Norden des Landes sowie auch auf Madeira – aufgrund von Hitze und Trockenheit immer wieder zu Busch- und Waldbränden. Es kann deshalb zu Beeinträchtigungen der Infrastruktur einschließlich des Flugverkehrs kommen.
+
+* Informieren Sie sich über aktuelle Brände, z.B. bei [Fogos](https://fogos.pt/), und beachten Sie geltende Feuer- und Rauchverbote.
+* Leisten Sie den Anweisungen der lokalen Behörden unbedingt Folge und beachten Sie Warnschilder und -meldungen.
+* Vermeiden Sie Fahrten in die von Bränden betroffenen Gebiete.
+* Seien Sie bei Fahrten in bewaldeten Gebieten besonders vorsichtig und verfolgen Sie die lokalen Medien sowie die nationale Zivilschutzbehörde.
+* Wählen Sie den Notruf 112, wenn Sie einen Brand gesichtet haben.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -8,22 +26,22 @@
 
 ### Kriminalität
 
-Insbesondere in den größeren Touristenzentren kommt es zu Kleinkriminalität, die Anzahl von Taschendiebstählen ist recht hoch und hat im Laufe der letzten Monate zugenommen. Raubüberfälle und das Entreißen von Handtaschen kommen gelegentlich vor, Gewaltkriminalität ist jedoch selten. Die Kriminalitätsrate ist jedoch insgesamt niedrig.
+Insbesondere in den von Touristen stark frequentierten Stadtvierteln und Regionen kommt es zu Kleinkriminalität. Die Zahl der Taschendiebstähle ist im Laufe der letzten Jahre stetig angestiegen und befindet sich derzeit auf einem sehr hohen Niveau. Raubüberfälle und das Entreißen von Handtaschen kommen gelegentlich vor, Gewaltkriminalität ist jedoch selten.
 
-In Lissabon und Porto sind die touristischen Brennpunkte (z.B. Praça do Comércio, Rua Augusta, Castelo de São Jorge), aber auch die historischen Straßenbahnen, sowie Bahnhöfe und U-Bahn-Stationen besonders betroffen. In den Ausgehvierteln, insbesondere in Bairro Alto und Cais do Sodré, ist in den Abend- und Nachtstunden besondere Vorsicht angezeigt. In allen Touristenzentren kommt es vermehrt zu Einbrüchen in Ferienwohnungen oder –häusern. In vielen touristischen Hotspots und insbesondere in Strandnähe sind Autoaufbrüche, v.a. bei Mietwagen, keine Seltenheit.
+In Lissabon und Porto sind die touristischen Hochburgen (z.B. Praça do Comércio, Rua Augusta, Alfama und Castelo de São Jorge in Lissabon, in Porto die gesamte Altstadt, insbesondere das Viertel Ribeira), aber auch die historischen Straßenbahnen sowie Bahnhöfe und U-Bahn-Stationen besonders betroffen. In den Ausgehvierteln Lissabons ist in den späten Abend- und Nachtstunden besondere Vorsicht angezeigt. In allen Touristenzentren kommt es vermehrt zu Einbrüchen in Ferienwohnungen oder –häuser. In vielen touristischen Hotspots und insbesondere in Strandnähe sind Autoaufbrüche, v.a. bei Mietwagen, keine Seltenheit.
 
-* Seien Sie in größeren Menschenmengen wie an Flughäfen, an Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Halten Sie den Bargeldbestand klein, zahlen Sie lieber mit Kreditkarte oder Bankkarte und nehmen Sie Bankgebühren für mehrere Geldabhebungen in geringerem Wert in Kauf.
-* Verwahren Sie Geld, Ausweise, Führerschein, und andere wichtige Dokumente sicher, zum Beispiel im Hotel-Safe; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Tragen Sie Wertsachen am Körper und lassen Sie Fahrzeuge stets verschlossen.
-* Lassen Sie keine offen sichtbaren Wertgegenstände im Fahrzeug, v.a. auch in Mietfahrzeugen, liegen und parken Sie möglichst auf bewachten Parkplätzen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Halten Sie den Bargeldbestand klein und geben Sie bargeldlosen Zahlungen den Vorzug.
+* Verwahren Sie Geld, und wichtige Dokumente sicher und möglichst getrennt voneinander. Speichern Sie elektronische Kopien/Fotos Ihrer Dokumente. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
+* Tragen Sie Wertsachen und wichtige Dokumente möglichst nah am Körper und halten Sie Fahrzeuge stets verschlossen.
+* Lassen Sie keine offen sichtbaren Wertgegenstände im Fahrzeug, v.a. auch in Mietfahrzeugen, und parken Sie möglichst auf bewachten Parkplätzen.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
 #### *Tropenstürme, extreme Wetterlagen und Strömungen im Meer*
 
-Es herrscht Atlantik- bzw. Mittelmeerklima auf dem Festland, gemäßigtes Klima auf den Azoren und subtropisches auf Madeira.
+Es herrscht Atlantikklima auf dem Festland, gemäßigtes Klima auf den Azoren und subtropisches Klima auf Madeira. In den Sommermonaten gibt es zuweilen sehr große Temperaturschwankungen zwischen den Tages- und Abend- bzw. Nachtstunden.
 
 Zu Stürmen und Starkregen sowie extremen Wetterwechseln kann es in den Herbst- und Wintermonaten kommen.
 
@@ -31,7 +49,7 @@ An der portugiesischen Atlantikküste bestehen zum Teil lebensgefährliche Strö
 
 Insbesondere über den Azoren bilden sich von Mai bis November Tropenstürme. Im Nordatlantik ist in dieser Zeit Hurrikan-Saison.
 
-Auf Madeira kann es ganzjährig zu Stürmen, Starkregen und extremen Wetterwechseln kommen. Dortige Naturgewalten wie Erdrutsche, Erdlöcher, Meeresströmungen und -brandung werden häufig unterschätzt. Immer wieder verunglücken Touristen insbesondere beim Verlassen der markierten Wanderwege, z.B. an der Levada do Norte, mitunter auch tödlich.
+Auf Madeira kann es ganzjährig zu Stürmen, Starkregen und extremen Wetterwechseln kommen. Dortige Naturgewalten wie Erdrutsche, Erdlöcher, Meeresströmungen und -brandung werden häufig unterschätzt. Immer wieder verunglücken Touristen insbesondere beim Verlassen der markierten Wanderwege, z.B. an den Levadas, mitunter auch tödlich.
 
 * Beachten Sie unbedingt die Flaggenhinweise zur Badesicherheit und leisten Sie den Anweisungen der Rettungsschwimmer Folge.
 * Beachten Sie Wegmarkierungen und verlassen Sie gekennzeichnete Wanderwege nicht.
@@ -40,46 +58,44 @@ Auf Madeira kann es ganzjährig zu Stürmen, Starkregen und extremen Wetterwechs
 
 #### *Busch- und Waldbrände*
 
-In den Sommermonaten kommt es in Portugal - vor allem im Zentrum und im Norden des Landes - aufgrund der herrschenden klimatischen Bedingungen immer wieder zu Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
+In den Sommermonaten kommt es in Portugal - vor allem im Zentrum und Norden des Landes, aber auch auf Madeira - aufgrund von Hitze und Trockenheit immer wieder zu Busch- und Waldbränden. Es kann deshalb zu Beeinträchtigungen der Infrastruktur einschließlich des Flugverkehrs kommen.
 
-* Informieren Sie sich über aktuelle Brände z.B. bei [Fogos](https://fogos.pt/), und beachten Sie geltende Feuerverbote sowie Rauchverbote.
+* Informieren Sie sich über aktuelle Brände z.B. bei [Fogos](https://fogos.pt/), und beachten Sie geltende Feuer- und Rauchverbote.
 * Seien Sie bei Fahrten in bewaldeten Gebieten besonders vorsichtig  und achten Sie auf entsprechende Meldungen in den Medien sowie ggf. Hinweise der lokalen Behörden wie der [Nationalen Zivilschutzbehörde](http://www.prociv.pt/en-us/SITUACAOOPERACIONAL/Pages/default.aspx?cID=1).
 * Wählen Sie den Notruf 112, wenn Sie einen Brand gesichtet haben.
 
-#### *Erdbeben und Vulkane*
+#### *Erdbeben und Vulkanausbrüche*
 
 Portugal, insbesondere Madeira und die Azoren liegen in einer seismisch aktiven Zone, sodass es zu Erdbeben und vulkanischer Aktivität kommen kann.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Informieren Sie sich über seismische Aktivitäten beim [Portuguese Institute for Sea and Atmosphere IPMA](https://www.ipma.pt/en/geofisica/sismicidade).
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Infrastruktur/Verkehr
 
-Es gibt ein Inlandsflugnetz, Eisenbahnen- und insbesondere ein weit verzweigtes Netz von Busverbindungen (in Lissabon ab den Bahnhöfen Stete-Rios und Oriente). Im Fall von Streiks muss mit Behinderungen im öffentlichen Nah- und Fernverkehr sowie in der allgemeinen Versorgung (z.B. mit Treibstoff) gerechnet werden.
+Es gibt ein Inlandsflug- und Eisenbahnstreckennetz und insbesondere ein weit verzweigtes Netz von Busverbindungen. Im Fall von Streiks muss mit Behinderungen im öffentlichen Nah- und Fernverkehr gerechnet werden.
 
-In Kreisverkehren haben grundsätzlich im Kreisverkehr befindliche Fahrzeuge Vorfahrt. Bei mehrspurigen Kreisverkehren darf die äußerste, rechte Fahrspur nur zum Benutzen der nächsten Ausfahrt benutzt werden.
+In Kreisverkehren haben grundsätzlich im Kreisverkehr befindliche Fahrzeuge Vorfahrt. Bei mehrspurigen Kreisverkehren darf die äußerste, rechte Fahrspur nur zum Benutzen der nächsten Ausfahrt genutzt werden.
 
-Die Promillegrenze beträgt 0,5, für Fahranfänger in den ersten zwei Jahren und Berufsfahrer 0,2.
-
-Gelbe Markierungen am Fahrbahnrand bedeuten absolutes Parkverbot, bei Nichtbeachtung droht, dass ein Fahrzeug abgeschleppt wird. Bußgelder sind häufig direkt vor Ort zu begleichen. Das Parken in Innenstadtbereichen ist i.d.R. gebührenpflichtig. Bei Nichtbeachtung drohen Abschleppen oder Festsetzung (Radkralle).
+Die Alkoholgrenze beträgt 0,5 Promille, für Fahranfänger in den ersten drei Jahren nach Erwerb der Fahrerlaubnis und Berufsfahrer 0,2 Promille. Gelbe Markierungen am Fahrbahnrand bedeuten absolutes Parkverbot. Bei mobilen Radar- und Polizeikontrollen sind Bußgelder zuweilen direkt vor Ort zu begleichen. Das Parken in Innenstadtbereichen ist i.d.R. gebührenpflichtig. Bei Nichtbeachtung der oben genannten Vorschriften drohen Abschleppen oder Festsetzung (Radkralle).
 
 * Fahren Sie aufmerksam und vorsichtig.
 * Halten Sie insbesondere auf Überlandstraßen aufgrund einer erhöhten Unfallhäufigkeit die Verkehrs- und Geschwindigkeitsregeln (erlaubte Höchstgeschwindigkeit auf Autobahnen: 120 km/h und auf Landstraßen: 100 km/h) strikt ein.
 
 #### *Maut*
 
-Die meisten Autobahnen sind mautpflichtig, die Mautgebühren sind vergleichsweise hoch. Es gibt mehrere verschiedene Betreiberfirmen (z.B. Brisa, Ascendi). Bar- und Kartenzahlung an Zahlstationen sind nur bei bestimmten Betreibern möglich; zahlreiche Autobahnstrecken werden mit einem automatischen elektronischen Ablesesystem (Zahlbrücken) betrieben. Die Einfahrt in diese Streckenabschnitte erfolgt fließend und wird nicht kontrolliert. Bei mehreren (auch deutschen) Anbietern können vor der Reise Mautboxen zur automatischen Abrechnung gemietet werden. Alternativ kann an einigen großen Grenzübergängen (z.B. Vilar Formoso) an bemannten und unbemannten Helpdesks die Registrierung des Fahrzeugs und die Entrichtung des für die gesamte Fahrtstrecke zu erwartenden Betrages vorgenommen werden. Bei Anmietung eines Mietwagens wird empfohlen, die an der Windschutzscheibe innen befindliche und für alle Autobahnbetreiber gültige Mautbox „Via Verde“ einzuschließen. Die Abrechnung erfolgt über die Kreditkarte. Mit allen Mautboxen können an den Zahlstationen die haltefreien Sonderspuren, genannt „Via Verde“, benutzt werden.
+Die meisten Autobahnen sind mautpflichtig, die Mautgebühren sind vergleichsweise hoch. Bar- und Kartenzahlung an Zahlstationen sind nur bei bestimmten Betreibern möglich; zahlreiche Autobahnstrecken werden mit einem automatischen elektronischen Ablesesystem (Zahlbrücken) betrieben. Mautboxen zur automatischen Abrechnung können vor Reiseantritt gemietet werden. Alternativ kann an einigen großen Grenzübergängen (z.B. Vilar Formoso) die Registrierung des Fahrzeugs und die Entrichtung des für die gesamte Fahrstrecke zu erwartenden Betrages vorgenommen werden. Bei Anmietung eines Mietwagens wird empfohlen, die Mautbox „Via Verde“ zu buchen. Die Abrechnung erfolgt über die Kreditkarte. Mit allen Mautboxen können an den Zahlstationen die Sonderspuren, genannt „Via Verde“, genutzt werden.
 
-Nutzt man mit ausländischem Kennzeichen ohne Mautbox bzw. ohne Anmeldung des Kennzeichens entsprechende Autobahnabschnitte, so muss ggf. mit erheblich über die eigentliche Mautgebühr hinausgehenden Inkassoforderungen gerechnet werden.
+Nutzt man mit ausländischem Kennzeichen ohne Mautbox bzw. ohne Anmeldung des Kennzeichens entsprechende Autobahnabschnitte, muss mit erheblich über die eigentliche Mautgebühr hinausgehenden Inkassoforderungen gerechnet werden.
 
 * Informieren Sie sich vor Reiseantritt zu den zu erwartenden Mautgebühren und Abrechnungsoptionen, z.B. beim [ADAC](https://www.adac.de/reise-freizeit/maut-vignette/portugal/) oder unter [Portugal Tolls](http://www.portugaltolls.com/en).
 
 ### Führerschein
 
-Der deutsche Führerschein ist bei vorübergehenden Aufenthalten (i.d.R. bis zu 3 Monaten) ausreichend.
+Der deutsche Führerschein ist bei vorübergehenden Aufenthalten (i.d.R. bis zu drei Monaten) ausreichend.
 
 ### LGBTIQ
 
@@ -91,13 +107,13 @@ Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbeson
 
 Pfefferspray fällt in Portugal unter die Bestimmungen des Waffengesetzes, der Besitz ist nur Inhabern des Waffenscheins der Kat. E erlaubt. Zuwiderhandlungen haben in der Regel Strafanzeige zur Folge.
 
-Das Mitführen von sogenannten Scheckkartenmessern ist in Portugal verboten. Reisende werden häufig bei der (Hand-) Gepäckkontrolle in Portugal – besonders häufig auf Madeira - anlässlich der Rückreise nach Deutschland von der Polizei festgehalten und können ihren gebuchten Flug nicht antreten. Nach einem Gerichtstermin (in der Regel am nächsten Werktag) kann die Ausreise nach Zahlung eines Bußgeldes erfolgen.
+Das Mitführen sogenannter Scheckkartenmesser ist in Portugal verboten. Reisende werden bei Nichtbeachtung häufig bei der (Hand-) Gepäckkontrolle in Portugal – besonders häufig auf Madeira - anlässlich der Rückreise nach Deutschland von der Polizei festgehalten. Nach einem Gerichtstermin (meist am nächsten Werktag) und Zahlung eines Bußgeldes kann in der Regel die Ausreise erfolgen.
 
 ### Geld/Kreditkarten
 
 Zahlungsmittel ist der EUR. Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
 
-* Informieren Sie sich bitte bei der kartenausstellenden Bank/Gesellschaft, ob Ihre EC-/Maestro-Karte (auch V-Pay) in Portugal gültig ist.
+* Informieren Sie sich bitte bei der kartenausstellenden Bank/Gesellschaft, ob Ihre Girocard (Bankkarte) in Portugal gültig ist.
 
 ## Einreise und Zoll
 
@@ -115,14 +131,20 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Reisepass:** Ja
 * **Vorläufiger Reisepass:** Ja
 * **Personalausweis:** Ja
-* **Vorläufiger Personalausweis:** Ja, muss gültig sein, s. nachstehender Absatz
-* **Kinderreisepass:** Ja
+* **Vorläufiger Personalausweis:** Ja, muss gültig sein, siehe nachstehenden Absatz
+* **Kinderreisepass:** Ja, siehe nachstehende Ergänzung
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
 Portugal ist Vertragspartei des Europäischen Übereinkommens über die Regelung des Personenverkehrs zwischen den Mitgliedsstaaten des Europarates vom 13.12.1957.  Reisedokumente außer dem vorläufigen Personalausweis dürfen seit höchstens einem Jahr abgelaufen sein.
 
+Seit Januar 2024 werden keine Kinderreisepässe mehr ausgestellt. Zuvor ausgestellte Kinderreisepässe bleiben jedoch bis zum Erreichen des Gültigkeitsdatums gültig.
+
 Flugreisen von und nach Deutschland können nur mit einem gültigen Reisepass/Personalausweis bzw. bei dessen Verlust mit einem von den deutschen konsularischen Vertretungen in Portugal ausgestellten Passersatzdokument angetreten werden, siehe hierzu [Informationen der deutschen Botschaft in Lissabon.](https://lissabon.diplo.de/pt-de/service/passverlust/2431482)
+
+Bei Rückflügen über Großbritannien nach Deutschland (z.B. auch bei Alternativflügen nach Flugausfällen) reicht ein Personalausweis nicht aus. Seit dem Brexit benötigen auch Transitreisende für die Reise über Großbritannien zwingend einen Reisepass. Die kurzfristige Ausstellung eines vorläufigen Reisepasses durch die Botschaft in Lissabon ist in der Regel nicht möglich.
+
+* Führen Sie vorsichtshalber immer Ihren Reisepass stattnur eines Personalausweises bei Reisen nach Portugal mit sich.
 
 ### Minderjährige
 
