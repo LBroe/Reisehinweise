@@ -17,9 +17,9 @@ Macau ist eine Sonderverwaltungszone der Volksrepublik China, mit eigenen Einrei
 Die Kriminalitätsrate ist niedrig. Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere am Flughafen und von Touristen häufig frequentierten Orten wie z.B. in und vor Casinos vor.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie am Flughafen und in und vor Casinos besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -87,10 +87,10 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens drei Monate ü
 
 Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das bei Ankunft am Flughafen bzw. am Fähranleger in Macau für 90 Tage ausgestellt wird.
 
-Bei Einreise mit dem regulären biometrischen Reisepass wird das Visum bei Einreise kostenlos erteilt, bei Einreise mit dem vorläufigen Reisepass wird eine Gebühr von 100 MOP (ca. 11 EUR) fällig.
+Bei Nutzung eines regulären biometrischen Reisepasses wird das Visum bei Einreise kostenlos erteilt, bei Einreise mit dem vorläufigen Reisepass wird eine Gebühr von 100 MOP (ca. 11 EUR) fällig.
 
-Eine einmalige Verlängerung um weitere 30 Tage ist vor Ort bei der Public Security Police Force in Macau möglich.  
-Bei Überschreitung des Visums bzw. erlaubten Aufenthalts droht eine unmittelbare Ausreiseaufforderung und u. U. einjährige Wiedereinreisesperre.
+Eine einmalige Verlängerung um 30 Tage ist vor Ort bei der Public Security Police Force in Macau möglich.  
+Bei Überschreitung des Visums bzw. des erlaubten Aufenthalts droht eine unmittelbare Ausreiseaufforderung und u. U. einjährige Wiedereinreisesperre.
 
 Informationen zur zeitlich befristeten visumfreien Einreise in die Volksrepublik China bieten die [Reise- und Sicherheitshinweise China](https://www.auswaertiges-amt.de/de/service/laender/china-node/chinasicherheit/200466).
 
@@ -178,7 +178,7 @@ Die gesundheitliche Versorgung in Macau ist gut. Im Übrigen sind zahlreiche Spe
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
