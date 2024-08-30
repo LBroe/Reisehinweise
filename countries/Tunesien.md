@@ -128,7 +128,7 @@ Gleichgeschlechtliche Sexualbeziehungen sind verboten und können in Tunesien st
 
 Der Besitz schon kleinster Mengen Rauschgifts bzw. der öffentliche Konsum von Marihuana/Haschisch wird in Tunesien mit mindestens einem Jahr Haft und Geldstrafe geahndet. Das Strafmaß für Drogendelikte kann sich auf bis zu 20 Jahre Freiheitsstrafe belaufen. Der Besitz von Waffen (Feuerwaffen, Hieb- und Stichwaffen) ist untersagt. Ehebruch und homosexuelle Handlungen sind in Tunesien strafbar, siehe auch *Reiseinfos -* *LGBTIQ.*
 
-Das Fotografieren militärischer oder polizeilicher Anlagen, öffentlicher Gebäude oder sicherheitssensibler Bereiche und der Einsatz von Drohnen sind nicht erlaubt und können zu Inhaftierung wegen Terrorismusverdachts führen. Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden. 
+Das Fotografieren militärischer oder polizeilicher Anlagen, öffentlicher Gebäude oder sicherheitssensibler Bereiche und der Einsatz von Drohnen sind nicht erlaubt und können zu Inhaftierung wegen Terrorismusverdachts führen. Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden.
 
 Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden.
 
@@ -240,9 +240,17 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe a
 * Waschen Sie sich so oft wie möglich mit Seife die Hände, stets jedoch vor der Essenszubereitung und vor dem Essen.
 * Wenn möglich, desinfizieren Sie Ihre Hände mit Flüssigdesinfektionsmittel.
 
+### Durch Tierkontakt übertragene Erkrankungen
+
+Derzeit werden vermehrt Fälle von mit Tollwut infizierten Tieren gemeldet – insbesondere in Nordtunesien. Eine Ansteckung durch Tollwut erfolgt vorwiegend über Hunde, Katzen, Affen und Flughunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle.
+
+* Meiden Sie grundsätzlich den Kontakt zu Tieren und deren Ausscheidungen.
+* Sollten Sie von einem Hund, Affen oder Flughund oder einer Katze gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung.
+* Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Beachten Sie, dass Tollwutimpfstoffe nur sehr begrenzt und Immunglobuline im Land ggf. schwer erhältlich sind.
+
 ### Weitere Infektionskrankheiten
 
-Vereinzelt kommen jedes Jahr menschliche Tollwutfälle vor. Außerdem finden sich einige durch Mücken oder Zecken übertragene Infektionskrankheiten, diese sind insgesamt aber selten (z.B. Leishmaniose, West-Nil-Fieber, Phlebotomus Fieber). Insektenschutz beachten (z.B. Repellentien, Moskitonetz, langärmlige Kleidung).
+Es finden sich einige durch Mücken oder Zecken übertragene Infektionskrankheiten, diese sind insgesamt aber selten (z.B. Leishmaniose, West-Nil-Fieber, Phlebotomus Fieber). Insektenschutz beachten (z.B. Repellentien, Moskitonetz, langärmlige Kleidung).
 
 Die Gefahr der Übertragung einer Bilharziose besteht herdförmig in Gafsa und Schott Djerit beim Baden im Süßwasser.
 

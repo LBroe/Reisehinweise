@@ -198,6 +198,15 @@ Detaillierte Informationen über die kubanischen Ein- und Ausfuhrbestimmungen si
 
 ## Gesundheit
 
+### Aktuelles
+
+### Die Zahl der gemeldeten Infektionen mit dem Oropouche-Virus haben 2024 in mehreren mittel- und südamerikanischen Ländern erheblich zugenommen. Im Juni 2024 wurde der erste Fall von Oropouche-Fieber in Kuba gemeldet.
+
+Hinweise bestehen, dass eine Oropouche-Infektion während der Schwangerschaft zu Fehlbildungen beim ungeborenen Kind sowie zu Schwangerschaftskomplikationen inklusive Fehlgeburten führen kann. Hierzu laufen aktuell weitere Untersuchungen. Schwangere sollten die Notwendigkeit einer Reise kritisch abwägen. Weitere Informationen zu Oropouche-Fieber finden Sie [hier](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/oropouche-fieber/2673950 "Oropouche-Fieber").
+
+* Lassen Sie sich vor der Reise tropenmedizinisch beraten.
+* Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen eines [Schutzes vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") konsequent vor Mückenstichen, insbesondere abends und nachts.
+
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben.
