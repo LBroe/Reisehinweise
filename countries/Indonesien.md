@@ -4,15 +4,13 @@
 
 **Von nicht unbedingt erforderlichen Reisen in fünf der sechs Provinzen des indonesischen Teils der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.**
 
+**Seit dem 29. August 2024 müssen Einreisende aus dem Ausland aufgrund der Ausbreitung des Mpox-Erregers auf der [Webseite des indonesischen Gesundheitsministeriums](https://sshp.kemkes.go.id/) (sshp.kemkes.go.id) einen Gesundheitsfragebogen ausfüllen und damit einen QR-Code generieren, der beim Check-in und bei der Einreise vorzuzeigen ist.**
+
 ### *Vulkanische Aktivität*
 
-Im Osten Indonesiens ist erneut der Vulkan Ibu auf der Insel Halmahera ausgebrochen.
+Einige Vulkane in verschiedenen Landesteilen Indonesiens haben in jüngster Vergangenheit erhöhte Aktivität gezeigt. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen weiträumig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Mit Beeinträchtigungen im Flugverkehr bis zur Schließung von Flughäfen muss bei erhöhter vulkanischer Aktivität gerechnet werden. Siehe auch *Natur und Klima.*
 
-Anwohner und Touristen sind gehalten, einen Augenschutz und Atemmasken zu tragen und sich nicht in der Sperrzone von vier bis sieben Kilometern rund um den Vulkan aufzuhalten.
-
-Weitere Vulkane in verschiedenen Landesteilen Indonesiens zeigen erhöhte Aktivität. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen weiträumig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Mit Beeinträchtigungen im Flugverkehr bis zur Schließung von Flughäfen muss bei erhöhter vulkanischer Aktivität gerechnet werden. Siehe auch *Natur und Klima.*
-
-* Halten Sie sich nicht in der Sperrzone von vier bis sieben Kilometern rund um den Vulkan Ibu auf. Sollten Sie sich derzeit in der Region um den Vulkan Ibu aufhalten, tragen Sie einen Augenschutz und Atemmaske.
+* Halten Sie sich nicht in den ausgewiesenen Sperrzonen auf.
 * Bitte informieren Sie sich vor Reiseantritt über kurzfristige Schließungen, Flugausfälle und Verspätungen.
 * Bitte informieren Sie sich über die Verhaltenshinweise bei Vulkanausbrüchen des [International Volcanic Health Hazard Network IVHHN.](https://www.ivhhn.org/)
 * Machen Sie sich bei einem Aufenthalt in erdbeben- oder tsunamigefährdeten Gebieten und vor einer Wanderung oder Besteigung eines Vulkans mit den Gefahren und Verhaltenshinweisen vertraut. Entsprechende Merkblätter hält das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) bereit.
@@ -71,7 +69,7 @@ Die Polizei ist häufig nicht bereit, Anzeigen entgegenzunehmen. 
 * Achten Sie auf Ihre Umgebung, insbesondere bei Fahrten mit Mietfahrzeugen, halten Sie möglichst nur an sicher erscheinenden Orten an und Fenster und Türen bei der Fahrt geschlossen.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie Getränke nie unbeaufsichtigt und beim Bezahlvorgang Ihre Kreditkarte nicht aus den Augen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Messenger-Nachrichten, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Messenger-Nachrichten, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
