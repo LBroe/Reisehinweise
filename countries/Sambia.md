@@ -10,9 +10,9 @@
 
 ### Innenpolitische Lage
 
-Die schwierige wirtschaftliche Lage in Sambia kann zu Protesten der Bevölkerung gegen die erhöhten Lebenshaltungskosten und zu politisch aufgeheizten Demonstrationen führen. Gewalttätige Ausschreitungen zwischen den Sicherheitskräften und Demonstrierenden können derzeit nicht ausgeschlossen werden. Besonders betroffen sind erfahrungsgemäß städtische Ballungsgebiete (bevölkerungsreiche Stadtviertel, sog. „Compounds“), die Ausfallstraßen sowie die Umgebung von Hochschulen und Einkaufszentren. In Lusaka gab es zuletzt Versammlungen Anhänger verschiedener Parteien, bei denen es zu gewaltsamen Übergriffen und Plünderungen kam. Weitere ähnliche Vorfälle können nicht ausgeschlossen werden.
+Die schwierige wirtschaftliche Lage in Sambia kann zu Protesten der Bevölkerung gegen die erhöhten Lebenshaltungskosten und zu politisch aufgeheizten Demonstrationen führen. Gewalttätige Ausschreitungen zwischen den Sicherheitskräften und Demonstrierenden können derzeit nicht ausgeschlossen werden. Besonders betroffen sind erfahrungsgemäß städtische Ballungsgebiete (bevölkerungsreiche Stadtviertel, sog. „Compounds“), die Ausfallstraßen sowie die Umgebung von Hochschulen und Einkaufszentren. In Lusaka gab es zuletzt Versammlungen der Anhänger verschiedener Parteien, bei denen es zu gewaltsamen Übergriffen und Plünderungen kam. Weitere ähnliche Vorfälle können nicht ausgeschlossen werden.
 
-In der unmittelbaren Grenzregion zur Demokratischen Republik Kongo gibt es gelegentliche Übergriffe über die Grenze hinweg und weiterhin nicht gekennzeichnete Minenfelder. Diese bestehen weiterhin in den Grenzgebieten zu Angola und Mosambik.
+In der unmittelbaren Grenzregion zur Demokratischen Republik Kongo gibt es gelegentliche Übergriffe über die Grenze hinweg und nicht gekennzeichnete Minenfelder. Diese bestehen weiterhin in den Grenzgebieten zu Angola und Mosambik.
 
 * Meiden Sie das unmittelbare Grenzgebiet zur Demokratischen Republik Kongo und seien Sie auch in anderen Grenzgebieten besonders vorsichtig.
 * Informieren Sie sich über die lokalen Medien.
@@ -21,29 +21,29 @@ In der unmittelbaren Grenzregion zur Demokratischen Republik Kongo gibt es geleg
 
 ### Kriminalität
 
-Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in den Städten, touristischen Zentren und in öffentlichen Verkehrsmitteln und Bahnhöfen vor. Im Zuge der sich weiter verschlechternden wirtschaftlichen Lage und der aktuellen Dürre ist derzeit ein Anstieg der Kleinkriminalität zu beobachten. Bewaffnete Raubüberfälle kommen vereinzelt vor, konzentrieren sich hauptsächlich auf Lusaka, die Städte des sogenannten „Kupfergürtels“, können sich aber auch in anderen Tourismuszentren ereignen. Einbrüche kommen auch in Hotelzimmern der gehobenen Kategorie sowie zunehmend in guten Wohngegenden vor. Aufgrund der aktuell täglichen Stromabschaltungen („Loadshedding“) funktionieren teilweise Alarmsysteme und Elektrozäune nicht ordnungsgemäß.
+Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen insbesondere in den Städten, touristischen Zentren, in öffentlichen Verkehrsmitteln und Bahnhöfen vor. Im Zuge der sich weiter verschlechternden wirtschaftlichen Lage und der aktuellen Dürre ist derzeit ein Anstieg der Kleinkriminalität zu beobachten. Bewaffnete Raubüberfälle kommen vereinzelt vor, konzentrieren sich hauptsächlich auf Lusaka, die Städte des sogenannten „Kupfergürtels“, können sich aber auch in anderen Tourismuszentren ereignen. Einbrüche kommen auch in Hotelzimmern der gehobenen Kategorie sowie zunehmend in guten Wohngegenden vor. Aufgrund der aktuell täglichen Stromabschaltungen („Loadshedding“) funktionieren teilweise Alarmsysteme und Elektrozäune nicht ordnungsgemäß.
 
 Insbesondere in Lusaka werden Gewalttaten tendenziell in den frühen Morgenstunden verübt. Es wird davon abgeraten, sich nach Einbruch der Dunkelheit zu Fuß auf den Straßen der Hauptstadt zu bewegen.
 
 Es kommt gelegentlich zu Kreditkartenbetrug. Beim Einsatz der Kreditkarte wie Barabhebung oder Bezahlung können Daten abgegriffen und missbräuchlich verwendet werden.
 
-Das Vertrauen der Bevölkerung in die Polizei hat stark abgenommen. Bei Verkehrskontrollen verlangt die Polizei häufig unberechtigte Zahlungen. Sie ist zudem oft überfordert, zeigt sich wenig einsatzwillig bzw. es ist kein Kraftstoff für die Einsatzfahrzeuge vorhanden.
+Das Vertrauen der Bevölkerung in die Polizei hat stark abgenommen. Bei Verkehrskontrollen verlangt die Polizei häufig unberechtigte Zahlungen. Sie ist zudem oft überfordert, zeigt sich wenig einsatzwillig oder ist durch tatsächliche Mängel (kein Kraftstoff für die Dienstwagen) am Einsatz gehindert.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf, z. B. im Safe; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie an Flughäfen, an Bahnhöfen, auf Märkten, in öffentlichen Verkehrsmitteln und bei Veranstaltungen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Leisten Sie bei Überfällen unter keinen Umständen Widerstand.
-* Verriegeln Sie bei Autofahrten die Türen von innen und halten Sie Fenster geschlossen.
+* Verriegeln Sie bei Autofahrten die Türen von innen und halten Sie die Fenster geschlossen.
 * Lassen Sie keine Taschen und Wertgegenstände sichtbar im Fahrzeug liegen.
 * Warten Sie mit Ihrem Fahrzeug in Fahrtrichtung parallel zur Straße fluchtbereit, bis das Einfahrttor geöffnet wird.
 * Kontrollieren Sie regelmäßig Ihr Kreditkartenkonto. Seien Sie bei Abhebungen umsichtig, beachten Sie Ihre Umgebung und evtl. Veränderungen am Geldautomaten (Kamera, Karteneingabe). Seien Sie bei elektronischen Zahlungen besonders vorsichtig und lassen Sie Ihre Karte nie aus den Augen.
 * Erwarten Sie nicht zu viel Unterstützung von der Polizei und weisen Sie ggf. unberechtigte Geldforderungen zurück oder verlangen die Klärung angeblicher Vorwürfe auf der Dienststelle mit Vorgesetzten.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der von Glaubwürdigkeit.
 
 ## Natur und Klima
 
 Das Klima ist tropisch.  
-In der Regenzeit von Dezember bis April kommt es jedoch zu Erdrutschen und Überschwemmungen, die auch Straßen und Brücken unpassierbar machen und damit den Reiseverkehr als auch die Strom- und Wasserversorgung erheblich beeinträchtigen können. In der übrigen Zeit kommt es zunehmend zu Dürreperioden.
+In der Regenzeit von Dezember bis April kommt es jedoch zu Erdrutschen und Überschwemmungen, die auch Straßen und Brücken unpassierbar machen und damit den Reiseverkehr und die Strom- und Wasserversorgung erheblich beeinträchtigen können. In der übrigen Zeit kommt es zunehmend zu Dürreperioden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
@@ -53,9 +53,9 @@ In der Regenzeit von Dezember bis April kommt es jedoch zu Erdrutschen und Über
 
 Gerade in entlegenen Gebieten kommt es derzeit zu Kraftstoffknappheit, dies betrifft insbesondere Diesel. Bei Überlandfahrten ist es daher ratsam, genug Kraftstoffreserven mitzuführen.
 
-Aufgrund der aktuellen Dürre und der dadurch gestörten, von Wasserkraft abhängigen Stromversorgung, kommt es seit April 2024 zu täglichen Stromabschaltungen von 12 und mehr Stunden in allen Landesteilen („Loadshedding“). Der staatliche Stromversorger ZESCO ist nicht in der Lage, sich bei den Stromabschaltungen an die eigenen öffentlich kommunizierten Zeitpläne zu halten, was die negativen Auswirkungen zusätzlich verstärkt. Weitere unplanmäßige Stromausfälle („Blackouts“) können aufgrund der fortdauernden Dürre nicht ausgeschlossen werden. Daher ist die Funktionsfähigkeit in vielen Bereichen eingeschränkt (z. B. fehlende Beleuchtung, nicht vorhandene Kochmöglichkeit, keine Internetnutzung und keine Möglichkeit der Kartenzahlung, Mobiltelefone funktionieren jedoch meistens, eine Powerbank kann hier für ausreichende Ladung sorgen).
+Aufgrund der aktuellen Dürre und der dadurch gestörten, von Wasserkraft abhängigen Stromversorgung, kommt es seit April 2024 zu täglichen Stromabschaltungen von zwölf und mehr Stunden in allen Landesteilen („Loadshedding“). Der staatliche Stromversorger ZESCO ist nicht in der Lage, sich bei den Stromabschaltungen an die eigenen öffentlich kommunizierten Zeitpläne zu halten, was die negativen Auswirkungen zusätzlich verstärkt. Weitere unplanmäßige Stromausfälle („Blackouts“) können aufgrund der fortdauernden Dürre nicht ausgeschlossen werden. Daher ist die Funktionsfähigkeit in vielen Bereichen eingeschränkt (z. B. fehlende Beleuchtung, nicht vorhandene Kochmöglichkeit, keine Internetnutzung und keine Möglichkeit der Kartenzahlung, Mobiltelefone funktionieren jedoch meistens, eine Powerbank kann hier für ausreichende Ladung sorgen).
 
-Gehobene Hotels von den Stromabschaltungen weniger stark betroffen, da sie in der Regel über Generatoren verfügen. Gleiches gilt für Einkaufszentren und viele Restaurants.  
+Gehobene Hotels sind von den Stromabschaltungen weniger stark betroffen, da sie in der Regel über Generatoren verfügen. Gleiches gilt für Einkaufszentren und viele Restaurants.
 
 ### Sportliche Aktivitäten/Safaris
 
@@ -63,7 +63,7 @@ Die vorwiegend an den Viktoriafällen rund um die Städte Livingstone (Sambia) u
 
 Die sambischen Nationalparks sind keine Zoos mit Absperrung, sondern Lebensraum wilder Tiere, die sich auch in den Camps aufhalten können und von denen einige dem Menschen gefährlich werden können. Aufgrund der mangelnden bis nicht vorhanden Gesundheits- und Rettungsstruktur sowie den weiten Entfernungen können auch weniger schwere Verletzungen lebensgefährliche Folgen haben.
 
-* Folgen Sie unbedingt den Anweisungen der Veranstalter, wie Tourguides oder Lodgebetreibern.
+* Folgen Sie unbedingt den Anweisungen der Veranstalter, Tourguides und Lodgebetreiber.
 
 ### Führerschein
 
@@ -141,7 +141,7 @@ Es sind zudem vereinzelte Fälle bekannt geworden, in denen Fluggesellschaften b
 
 Bei der auf einem vor der Einreise eingeholten Visum angegebenen Gültigkeitsdauer handelt es sich um die Nutzungsfrist des Visums. Das bedeutet, dass die (ggf. erste) Einreise innerhalb der angegebenen Frist, im Regelfall drei Monate, erfolgen muss.  
 Die Dauer des zulässigen Aufenthalts von im Regelfall 30 Tage wird erst bei Einreise durch die Einwanderungsbehörden festgelegt und durch Stempel im Reisepass dokumentiert.  
-Besucher (Reisezweck Tourismus oder Besuch) dürfen sich binnen 12 Monaten max. 90 Tage in Sambia aufhalten; Geschäftsreisende max. 30 Tage innerhalb von 12 Monaten.  
+Besucher (Reisezweck Tourismus oder Besuch) dürfen sich binnen zwölf Monaten max. 90 Tage in Sambia aufhalten; Geschäftsreisende max. 30 Tage innerhalb von zwölf Monaten.  
 Es sind Fälle bekannt geworden, in denen ausländischen Staatsangehörigen trotz Besitzes eines für diese Reise ausgestellten Visums einer sambischen Botschaft die Einreise mit der Begründung verweigert worden ist, die 90 Tage seien überschritten.  
 Eine Aufenthaltserlaubnis für längere Aufenthalte kann je nach Einzelfall von den örtlich zuständigen Büros der Einwanderungsbehörde erteilt werden.
 
@@ -265,7 +265,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
