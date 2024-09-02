@@ -15,7 +15,7 @@ Auch in anderen Bundesstaaten besteht erhöhte Busch- und Waldbrandgefahr, vor a
 
 ### Terrorismus
 
-In den vergangenen Jahren wurden wiederholt terroristische Anschläge in den USA verübt. Die US-Regierung weist auf die Möglichkeit von weiteren Anschlägen hin und ruft zu besonderer Vorsicht auf. Angesichts der Lage in Gaza und dem Nahen Osten warnen US-Behörden aktuell auch vor einer erhöhten Anschlagsgefahr in den USA.
+In den vergangenen Jahren wurden wiederholt terroristische Anschläge in den USA verübt. Die US-Regierung weist auf die Möglichkeit weiterer Anschläge hin und ruft zu besonderer Vorsicht auf. Angesichts der Lage in Gaza und dem Nahen Osten warnen US-Behörden aktuell auch vor einer erhöhten Anschlagsgefahr in den USA.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
@@ -30,14 +30,14 @@ Amerikanische Großstädte sind landesweit mit einem Anstieg der Gewaltkriminali
 
 ### Kriminalität
 
-Taschendiebstähle, Überfälle und Autoeinbrüche kommen in vielen Ballungszentren der USA vor. Die Gefahr ist aber je nach Ortschaft und auch innerhalb einer Großstadt je nach Viertel stark unterschiedlich. In ärmeren Vierteln steigen Risiken für Reisende insbesondere nach Einbruch der Dunkelheit, wie auch teilweise in Touristenorten und in öffentlichen Verkehrsmitteln. Ladenüberfälle haben in einigen Städten in den letzten Monaten spürbar zugenommen.  
+Taschendiebstähle, Überfälle und Autoeinbrüche kommen in vielen Ballungszentren der USA vor. Die Gefahr ist aber je nach Ortschaft und innerhalb einer Großstadt je nach Viertel stark unterschiedlich. In ärmeren Vierteln steigen Risiken für Reisende insbesondere nach Einbruch der Dunkelheit, wie auch teilweise in Touristenorten und öffentlichen Verkehrsmitteln. Ladenüberfälle haben in einigen Städten in den letzten Monaten spürbar zugenommen.  
 In den USA ist es leicht, in den Besitz von Waffen zu gelangen, sodass es häufiger zum Schusswaffengebrauch und vereinzelt auch zu Amokläufen kommt. Die Zahl der Waffen- und Munitionskäufe nahmen in letzter Zeit beträchtlich zu.
 
 * Erkundigen Sie sich an Ihrem jeweiligen Aufenthaltsort über die lokalen Gegebenheiten und welche Gegenden gemieden werden sollten.
 * Leisten Sie im Falle eines bewaffneten Überfalls keinen Widerstand.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf (z.B. im Safe); speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Lassen Sie nichts in geparkten Fahrzeugen zurück, auch nicht auf anscheinend sicheren, bewachten Parkplätzen.
-* Bevorzugen Sie bargeldlose Zahlungen. Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug. Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Achten Sie auf Ihre Wertsachen, verschließen Sie Ihre Taschen.
 * Fertigen Sie von allen wichtigen Dokumenten (z.B. Reisepass, Flugtickets) Kopien an und bewahren Sie diese getrennt von den Originaldokumenten auf bzw. speichern Sie sie elektronisch.
 
@@ -113,7 +113,7 @@ Das innerstaatliche Bus-, Eisenbahn- und Linienflugnetz ist gut ausgebaut. In de
 
 #### *Teilnahme am Straßenverkehr*
 
-Die Regeln des Straßenverkehrs können von den Bundestaaten unterschiedlich geregt sein.
+Der Straßenverkehr kann in den Bundestaaten unterschiedlich geregelt sein.
 
 * Informieren Sie sich vor der Reise über die teilweise von den deutschen Vorschriften abweichenden Verkehrsregeln.
 
@@ -285,7 +285,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 
 ### Visum
 
-Als Teilnehmer am US-Visa Waiver Programm können deutsche Staatsangehörige zu Zwecken des Tourismus, für Geschäftsreisen oder im Transit visafrei in die USA einreisen, sofern sie über einen elektronischen Reisepass (E-Pass mit Chip), eine gültige elektronische Einreisegenehmigung (ESTA) sowie ein gültiges Rück- oder Weiterflugticket verfügen. Es gibt [folgende Ausnahmen](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) von der Teilnahme am US-Visa Waiver-Programm sowie Ausnahmen bei Reisenden mit Bezug zu Kuba, siehe *Reisen nach Kuba.*
+Als Teilnehmer am US-Visa Waiver Programm können deutsche Staatsangehörige zu Zwecken des Tourismus, für Geschäftsreisen oder im Transit visumsfrei in die USA einreisen, sofern sie über einen elektronischen Reisepass (E-Pass mit Chip), eine gültige elektronische Einreisegenehmigung (ESTA) sowie ein gültiges Rück- oder Weiterflugticket verfügen. Es gibt [folgende Ausnahmen](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) von der Teilnahme am US-Visa Waiver-Programm sowie Ausnahmen bei Reisenden mit Bezug zu Kuba, siehe *Reisen nach Kuba.*
 
 #### *Elektronische Reisegenehmigung (ESTA)*
 
@@ -330,7 +330,7 @@ Weitere die Einreise in die USA betreffende Fragen sollten rechtzeitig vor Abrei
 
 ### Minderjährige
 
-Minderjährige können nur dann visafrei einreisen, wenn sie über einen eigenen e-Pass und eine gültige ESTA-Genehmigung verfügen. Mit einem Kinderreisepass muss immer ein Visum beantragt werden, ESTA ist nicht möglich.
+Minderjährige können nur dann visumsfrei einreisen, wenn sie über einen eigenen E-Pass und eine gültige ESTA-Genehmigung verfügen. Mit einem Kinderreisepass muss immer ein Visum beantragt werden, ESTA ist nicht möglich.
 
 * Beachten Sie unbedingt die Hinweise der US-Behörden zu [Dokumenten](https://www.usa.gov/travel-documents-children) und [Einreisevoraussetzungen](https://help.cbp.gov/s/article/Article-1199?language=en_US) für Minderjährige sowie die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige").
 
@@ -407,6 +407,12 @@ Dengue-Viren können durch tagaktive *Aedes*-Mücken in den südlichen Bundessta
 Beim West-Nil-Fieber handelt es sich um eine durch Zugvögel verbreitete, von tagaktiven Mücken auf den Menschen übertragene Viruserkrankung. In den Sommermonaten kann es in den USA zu saisonalen Ausbrüchen kommen; aktuelle Fallzahlen bietet das [CDC](https://www.cdc.gov/dengue/data-research/facts-stats/index.html). Die Infektion verläuft überwiegend klinisch unauffällig,  in seltenen Fällen können jedoch schwere neurologische Symptome auftreten. Eine Schutzimpfung oder spezifische Behandlung existiert nicht, siehe [West-Nil-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/wnf/2562880 "West-Nil-Fieber")
 
 * Schützen Sie sich zur Vermeidung von West-Nil-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
+
+### Östliche Pferdeenzephalitis (EEE)
+
+Die durch dämmerungsaktive Mücken übertragenen EEE betrifft in der Regel Huftiere, kann aber auch Menschen gefährden. Die Erkrankung führt bei Menschen zu hohem Fieber und einer Gehirnentzündung. Die Fälle beim Menschen sind selten, können jedoch schwerwiegend verlaufen. Fallzahlen bietet die  [CDC](https://www.cdc.gov/eastern-equine-encephalitis/about/).
+
+* Beachten Sie insbesondere während des Tages und in den Dämmerungsstunden Maßnahmen des Mückenschutzes.
 
 ### Hantavirus
 
