@@ -15,7 +15,7 @@ Die innenpolitische Lage ist stabil. Demonstrationen können dennoch nicht ausge
 
 ### Kriminalität
 
-Die Kriminalitätsrate war auf einem niedrigen Niveau, ist jedoch in jüngster Zeit stark angestiegen. In Gaborone und anderen Städten kommen Taschendiebstähle und Kreditkartenraub vor. Einbrüche und Raubüberfälle auf Fußgänger und Autofahrer, insbesondere nach Einbruch der Dunkelheit, haben – auch unter Anwendung von Waffengewalt – zugenommen, sodass dann besondere Vorsicht geboten ist.
+Die Kriminalitätsrate war auf einem niedrigen Niveau, ist jedoch in jüngster Zeit stark angestiegen. In Gaborone und anderen Städten kommen Taschendiebstähle und Kreditkartenraub vor. Einbrüche und Raubüberfälle auf Fußgänger und Autofahrer, insbesondere nach Einbruch der Dunkelheit, haben – auch unter Anwendung von Waffengewalt – zugenommen, sodass besondere Vorsicht geboten ist.
 
 * Verhalten Sie sich unauffällig und verzichten Sie auf teuren Schmuck oder extravagante Kleidung.
 * Gehen Sie, wenn möglich, in kleinen Gruppen mit lokaler Begleitung aus.
@@ -23,9 +23,9 @@ Die Kriminalitätsrate war auf einem niedrigen Niveau, ist jedoch in jüngster Z
 * Halten Sie Fenster und Türen an Fahrzeugen verschlossen und verriegelt, um Raubüberfälle an roten Ampeln zu verhindern.
 * Leisten Sie bei einem Überfall keinen Widerstand.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie auf Flughäfen, an Busbahnhöfen oder auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -43,6 +43,8 @@ Diese überschreiten nur äußerst selten die Wahrnehmungsschwelle.
 ## Reiseinfos
 
 ### Infrastruktur/Verkehr
+
+Seit dem 16. August 2024 werden an allen Grenzübergängen bei der Einreise nach Botsuana Maßnahmen zur Eindämmung der MPOX-Ausbreitung durchgeführt. Diese bestehen in einer Temperaturmessung und dem Ausfüllen eines zweiseitigen Fragebogens. In Botsuana ist nach aktuellem Stand bisher kein Fall einer MPOX-Erkrankung gemeldet worden.
 
 Neben einem Inlandsflugnetz gibt es Eisenbahn- und Busverbindungen.  
 Es herrscht Linksverkehr. Nach Einbruch der Dunkelheit ist das Unfallrisiko aufgrund von schlecht oder gar nicht beleuchteten Fahrzeugen, Hindernissen (z.B. abgestellte oder liegengebliebene Fahrzeuge) und durch Wild- und freilaufende Haustiere (z.B. Rinder oder Esel) auf den Straßen extrem hoch.  
@@ -86,14 +88,14 @@ Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusä
 Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten möglich:
 
 * **Reisepass:** Ja
-* **Vorläufiger Reisepass:** Ja, aber nur mit gültigem Visum für Botsuana, s.u.
+* **Vorläufiger Reisepass:** Ja, aber nur mit gültigem Visum, s.u.
 * **Personalausweis:** Nein
 * **Vorläufiger Personalausweis:** Nein
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen bei Einreise noch mindestens sechs Monate gültig sein und sollten noch mindestens vier freie Seiten haben. Bei Reisen in mehrere Länder der Region sollten darüber hinaus noch weitere Seiten frei sein, da auch diese oft auf die Mindestseitenzahl achten. 
+Reisedokumente müssen bei Einreise noch mindestens sechs Monate gültig sein und sollten noch mindestens vier freie Seiten haben. Bei Reisen in mehrere Länder der Region sollten darüber hinaus noch weitere Seiten frei sein, da auch diese oft auf die Mindestseitenzahl achten.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
