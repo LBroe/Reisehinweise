@@ -22,7 +22,7 @@ In den Sommermonaten kommt es in Portugal – vor allem im Zentrum und Norden de
 
 Insbesondere in den von Touristen stark frequentierten Stadtvierteln und Regionen kommt es zu Kleinkriminalität. Die Zahl der Taschendiebstähle ist im Laufe der letzten Jahre stetig angestiegen und befindet sich derzeit auf einem sehr hohen Niveau. Raubüberfälle und das Entreißen von Handtaschen kommen gelegentlich vor, Gewaltkriminalität ist jedoch selten.
 
-In Lissabon und Porto sind die touristischen Hochburgen (z.B. Praça do Comércio, Rua Augusta, Alfama und Castelo de São Jorge in Lissabon, in Porto die gesamte Altstadt, insbesondere das Viertel Ribeira), aber auch die historischen Straßenbahnen sowie Bahnhöfe und U-Bahn-Stationen besonders betroffen. In den Ausgehvierteln Lissabons ist in den späten Abend- und Nachtstunden besondere Vorsicht angezeigt. In allen Touristenzentren kommt es vermehrt zu Einbrüchen in Ferienwohnungen oder –häuser. In vielen touristischen Hotspots und insbesondere in Strandnähe sind Autoaufbrüche, v.a. bei Mietwagen, keine Seltenheit.
+In Lissabon und Porto sind die touristischen Hochburgen (in Lissabon z.B. Praça do Comércio, Rua Augusta, Alfama und Castelo de São Jorge, in Porto die gesamte Altstadt, insbesondere das Viertel Ribeira), aber auch die historischen Straßenbahnen sowie Bahnhöfe und U-Bahn-Stationen besonders betroffen. In den Ausgehvierteln Lissabons ist in den späten Abend- und Nachtstunden besondere Vorsicht angezeigt. In allen Touristenzentren kommt es vermehrt zu Einbrüchen in Ferienwohnungen oder –häuser. In vielen touristischen Hotspots und insbesondere in Strandnähe sind Autoaufbrüche, v.a. bei Mietwagen, keine Seltenheit.
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Halten Sie den Bargeldbestand klein und geben Sie bargeldlosen Zahlungen den Vorzug.
@@ -70,7 +70,7 @@ Portugal, insbesondere Madeira und die Azoren liegen in einer seismisch aktiven 
 
 ### Infrastruktur/Verkehr
 
-Es gibt ein Inlandsflug- und Eisenbahnstreckennetz und insbesondere ein weit verzweigtes Netz von Busverbindungen. Im Fall von Streiks muss mit Behinderungen im öffentlichen Nah- und Fernverkehr gerechnet werden.
+Es gibt ein Inlandsflug- und Eisenbahnstreckennetz sowie insbesondere ein weit verzweigtes Netz von Busverbindungen. Im Fall von Streiks muss mit Behinderungen im öffentlichen Nah- und Fernverkehr gerechnet werden.
 
 In Kreisverkehren haben grundsätzlich im Kreisverkehr befindliche Fahrzeuge Vorfahrt. Bei mehrspurigen Kreisverkehren darf die äußerste, rechte Fahrspur nur zum Benutzen der nächsten Ausfahrt genutzt werden.
 
@@ -81,7 +81,7 @@ Die Alkoholgrenze beträgt 0,5 Promille, für Fahranfänger in den ersten drei J
 
 #### *Maut*
 
-Die meisten Autobahnen sind mautpflichtig, die Mautgebühren sind vergleichsweise hoch. Bar- und Kartenzahlung an Zahlstationen sind nur bei bestimmten Betreibern möglich; zahlreiche Autobahnstrecken werden mit einem automatischen elektronischen Ablesesystem (Zahlbrücken) betrieben. Mautboxen zur automatischen Abrechnung können vor Reiseantritt gemietet werden. Alternativ kann an einigen großen Grenzübergängen (z.B. Vilar Formoso) die Registrierung des Fahrzeugs und die Entrichtung des für die gesamte Fahrstrecke zu erwartenden Betrages vorgenommen werden. Bei Anmietung eines Mietwagens wird empfohlen, die Mautbox „Via Verde“ zu buchen. Die Abrechnung erfolgt über die Kreditkarte. Mit allen Mautboxen können an den Zahlstationen die Sonderspuren, genannt „Via Verde“, genutzt werden.
+Die meisten Autobahnen sind mautpflichtig, die Mautgebühren sind vergleichsweise hoch. Bar- und Kartenzahlung an Zahlstationen sind nur bei bestimmten Betreibern möglich; zahlreiche Autobahnstrecken werden mit einem automatischen elektronischen Ablesesystem (Zahlbrücken) betrieben. Mautboxen zur automatischen Abrechnung können vor Reiseantritt gemietet werden und sind vor Ort erhältlich. Alternativ kann an einigen großen Grenzübergängen (z.B. Vilar Formoso) die Registrierung des Fahrzeugs und die Entrichtung des für die gesamte Fahrstrecke zu erwartenden Betrages vorgenommen werden. Bei Anmietung eines Mietwagens wird empfohlen, die Mautbox „Via Verde“ zu buchen. Die Abrechnung erfolgt über die Kreditkarte. Mit allen Mautboxen können an den Zahlstationen die Sonderspuren, genannt „Via Verde“, genutzt werden.
 
 Nutzt man mit ausländischem Kennzeichen ohne Mautbox bzw. ohne Anmeldung des Kennzeichens entsprechende Autobahnabschnitte, muss mit erheblich über die eigentliche Mautgebühr hinausgehenden Inkassoforderungen gerechnet werden.
 
