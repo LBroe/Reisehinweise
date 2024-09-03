@@ -4,7 +4,9 @@
 
 **Von nicht unbedingt erforderlichen Reisen in fünf der sechs Provinzen des indonesischen Teils der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.**
 
-**Seit dem 29. August 2024 müssen Einreisende aus dem Ausland aufgrund der Ausbreitung des Mpox-Erregers auf der [Webseite des indonesischen Gesundheitsministeriums](https://sshp.kemkes.go.id/) (sshp.kemkes.go.id) einen Gesundheitsfragebogen ausfüllen und damit einen QR-Code generieren, der beim Check-in und bei der Einreise vorzuzeigen ist.**
+### *Mpox*
+
+Seit dem 29. August 2024 müssen Einreisende aus dem Ausland aufgrund der Ausbreitung des Mpox-Erregers auf der [Webseite des indonesischen Gesundheitsministeriums](https://sshp.kemkes.go.id/) einen Gesundheitsfragebogen ausfüllen und damit einen QR-Code generieren, der beim Check-in und bei der Einreise vorzuzeigen ist.
 
 ### *Vulkanische Aktivität*
 
@@ -263,6 +265,8 @@ Bei der Einfuhr von betäubungsmittelhaltigen Medikamenten und Psychopharmaka is
 Informationen bezüglich des Imports von Heimtieren nach Indonesien stellen die Fluggesellschaften bzw. die Botschaft oder eines der Generalkonsulate der Republik Indonesien auf Anfrage zur Verfügung.
 
 ## Gesundheit
+
+Siehe Abschnitt *Aktuelles - Mpox*  
 
 ### *Aktuelles*
 
