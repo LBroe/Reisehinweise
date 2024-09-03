@@ -8,13 +8,9 @@
 
 **In der Russischen Föderation besteht auch für deutsche Staatsangehörige und deutsch-russische Doppelstaater die Gefahr willkürlicher Festnahmen.**
 
-### Terroranschlag
-
-Am 22. März 2024 ereignete sich ein Terroranschlag im Veranstaltungs- und Einkaufszentrum Krokus City, ca. 25 km vom Zentrum Moskaus entfernt, mit über 130 Todesopfern und zahlreichen Verletzten. Für Moskau und St. Petersburg gilt die höchste Terrorwarnstufe. Auf Flughäfen, Bahnhöfen, in der Metro und im gesamten öffentlichen Raum ist bis auf Weiteres mit stark intensivierten Sicherheitsmaßnahmen zu rechnen.
-
 ### Sicherheitslage
 
-Die Stadt Moskau und vor allem das südliche Umland waren in den letzten Monaten mehrfach Ziel von Drohnenangriffen. Diese haben bisher begrenzte Sachschäden verursacht. Weitere Angriffe können nicht ausgeschlossen werden. Gleiches gilt für mögliche Angriffe auf das öffentliche Verkehrsnetz, insbesondere den Zugverkehr.
+Die Stadt Moskau und vor allem das südliche Umland, aber auch andere Orte in Russland waren in jüngster Zeit Ziel von Drohnenangriffen. Diese haben bisher begrenzte Sachschäden verursacht. Das Abwehrsystem um Moskau wurde deutlich ausgebaut. Möglich bleiben auch Angriffe auf das öffentliche Verkehrsnetz, insbesondere den Zugverkehr. In Verwaltungsgebieten entlang der russisch-ukrainischen Grenze (insb. in der Oblast Kursk) finden derzeit Kampfhandlungen statt. Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete wird gewarnt.
 
 In den im Oktober 2022 von Russland völkerrechtswidrig annektierten ukrainischen Gebieten Luhansk, Donezk, Cherson und Saporischschja gilt das Kriegsrecht. Für diese, wie für die übrigen Gebiete in der Ukraine gilt eine [Reisewarnung, *siehe Ukraine*.](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/ukraine-node/ukrainesicherheit/201946)
 
@@ -53,7 +49,7 @@ Der direkte Flugverkehr zwischen der Russischen Föderation und der EU sowie wei
 
 ### Geldversorgung
 
-Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sowie Geldüberweisungen in die Russische Föderation sind grundsätzlich nicht durchführbar. Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierter Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert. EUR-Banknoten dürfen nur für den Eigenbedarf mitgenommen werden. Der Eigenbedarf ist auf den persönlichen Gebrauch des Reisenden und mitreisender enger Familienangehöriger begrenzt (keine Mitnahme für Dritte, rein nicht-kommerzieller Gebrauch). Der Eigenbedarf und seine Höhe sind im Zweifel an der EU-Außengrenze plausibel nachzuweisen (z.B. anhand von Hotelbuchungen). Auf der Route Litauen – Kaliningrad hat Litauen die Ausfuhr nach Russland auf 60 EUR pro Person beschränkt. In Russland ist die Ausfuhr von Devisen im Wert von über 10.000 USD strafbar.
+Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sowie Geldüberweisungen in die Russische Föderation sind grundsätzlich nicht durchführbar. Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierten Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert. EUR-Banknoten dürfen nur für den Eigenbedarf mitgenommen werden. Der Eigenbedarf ist auf den persönlichen Gebrauch des Reisenden und mitreisender enger Familienangehöriger begrenzt (keine Mitnahme für Dritte, rein nicht-kommerzieller Gebrauch). Der Eigenbedarf und seine Höhe sind im Zweifel an der EU-Außengrenze plausibel nachzuweisen (z.B. anhand von Hotelbuchungen). Auf der Route Litauen – Kaliningrad hat Litauen die Ausfuhr nach Russland auf 60 EUR pro Person beschränkt. In Russland ist die Ausfuhr von Devisen im Wert von über 10.000 USD strafbar.
 
 ## Sicherheit
 
@@ -61,8 +57,9 @@ Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sow
 
 ### Terrorismus
 
-Zuletzt kam es am 22. März 2024 zu einem Terroranschlag auf das Veranstaltungs- und Einkaufszentrum Krokus City im Moskauer Umland, der mehr als 130 Todesopfer forderte. Die russischen Behörden warnen vor Anschlägen und rufen zu besonderer Vorsicht auf.
+Am 22. März 2024 kam es zu einem Terroranschlag auf das Veranstaltungs- und Einkaufszentrum Krokus City im Moskauer Umland, der mehr als 130 Todesopfer forderte. Die russischen Behörden warnen vor Anschlägen und rufen zu besonderer Vorsicht auf.
 
+* Rechnen Sie mit intensivierten Sicherheitsmaßnahmen, insbesondere an Flughäfen, Bahnhöfen und in der Metro.
 * Seien Sie weiterhin insbesondere an belebten Orten, bei Menschenansammlungen und bei der Nutzung öffentlicher Verkehrsmittel besonders aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
@@ -81,11 +78,15 @@ Personen, die trotz der Risiken in die oben genannten Regionen reisen, können b
 
 Eine Einreise über die georgisch-russische Grenze in die georgischen Konfliktgebiete Abchasien und Südossetien wird von den georgischen Behörden weiterhin als illegaler Grenzübertritt geahndet, siehe [Reise- und Sicherheitshinweise Georgien](https://www.auswaertiges-amt.de/de/service/laender/georgien-node/georgiensicherheit/201918 "Georgien: Reise- und Sicherheitshinweise").
 
+#### *Kamtschatka*
+
+Aufgrund der hohen Dichte militärischer Anlagen und der zahlreichen Sperrzonen auf Kamtschatka kommt es selbst bei Reisen mit Reiseagenturen und bei vermeintlicher Beachtung aller einschlägigen Vorschriften immer wieder zu Zwischenfällen., wie Vorladungen zu Verhören und daraus resultierenden freiheitsentziehenden Maßnahmen in Verbindung mit Unterstellung des Spionageverdachts.
+
 #### *Übrige Landesteile*
 
 Es gibt insbesondere in grenznahen Gebieten weiterhin Zonen, die nur mit Zutrittserlaubnis bereist werden dürfen. Sowohl zu Belarus, Polen als auch Litauen gibt es viele Bereiche der „grünen“ Grenze, an denen Grenzübertritte einfach, aber illegal sind.
 
-Im Verlauf von nicht genehmigten Kundgebungen und Demonstrationen kann es im ganzen Land zu massivem, zum Teil gewaltsamem Vorgehen der Sicherheitskräfte kommen, darunter auch zu Festnahmen. Es kann nicht ausgeschlossen werden, dass Passanten in der Nähe von nicht genehmigten Veranstaltungen in Mitleidenschaft gezogen werden.
+Im Verlauf nicht genehmigter Kundgebungen und Demonstrationen kann es im ganzen Land zu massivem, zum Teil gewaltsamem Vorgehen der Sicherheitskräfte kommen, darunter auch zu Festnahmen. Es kann nicht ausgeschlossen werden, dass Passanten in der Nähe von nicht genehmigten Veranstaltungen in Mitleidenschaft gezogen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -105,13 +106,13 @@ In nur offiziell aussehenden, aber nicht lizensierten Taxis sind Touristen Opfer
 Aktuell gibt es vermehrt Fälle von Internetbetrug, indem Personen aus Westeuropa und den USA aufgefordert werden, beispielsweise im Rahmen vermeintlicher länger angebahnter Liebesbeziehungen Geldzahlungen zu veranlassen. In der Regel besteht keine Möglichkeit, einmal überwiesene Geldbeträge zurückzuerlangen, siehe auch [Merkblatt der Deutschen Vertretungen in der Russischen Föderation](https://germania.diplo.de/ru-de/service/05-VisaEinreise/kurzfristigeAufenthalt).
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in der Metro und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Wählen Sie Taxis sorgsam aus, nutzen Sie möglichst nur registrierte Taxiunternehmen, benutzen Apps oder bestellen Sie diese bereits im Hotel.
+* Wählen Sie Taxis sorgsam aus, nutzen Sie möglichst nur registrierte Taxiunternehmen, benutzen Sie Apps oder bestellen Sie Taxis bereits im Hotel.
 * Notieren Sie bei Nachtfahrten vor dem Einsteigen in ein Taxi sichtbar das Kennzeichen als erkennbare Sicherheitsmaßnahme.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Lassen Sie Getränke und Nahrungsmittel in Bars und Clubs nie unbeaufsichtigt und kaufen Sie sie möglichst selbst.
 * Achten Sie auch bei der Auswahl Ihrer Unterkunft auf Sicherheitsaspekte.
 * Leisten Sie aufgrund der möglichen Verwendung von Schusswaffen bei Überfällen keinen Widerstand.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit. Bargeldlose Zahlungen sind derzeit nur eingeschränkt möglich, siehe *Aktuelles.*
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit. Bargeldlose Zahlungen sind derzeit nur eingeschränkt möglich, siehe *Aktuelles.*
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ### Halbinsel Krim
@@ -129,7 +130,7 @@ In weiten Teilen Russlands, insbesondere Sibirien, muss in den Wintermonaten mit
 
 Im Sommer muss in Sibirien, aber auch in der Nähe der Hauptstadt Moskau mit teilweise weit verbreiteten Busch- und Waldbränden gerechnet werden, die die Infrastruktur und Luftqualität erheblich beeinträchtigen können.
 
-#### *Erdbeben und Vulkane*
+#### *Erdbeben und Vulkanausbrüche*
 
 Teile der Russischen Föderation, insbesondere Tschetschenien, Kamtschatka und die Kurilen liegen in einer seismisch aktiven Zone, in der es zu Erdbeben und auch vulkanischer Aktivität kommen kann.  
 Der Shiveluch in Kamtschatka gehört zu den am häufigsten ausbrechenden Vulkanen weltweit und zeigte auch zuletzt verstärkte Aktivitäten. Es gilt eine hohe Gefahrenstufe.
@@ -137,7 +138,7 @@ Der Shiveluch in Kamtschatka gehört zu den am häufigsten ausbrechenden Vulkane
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Bleiben Sie von Gebieten fern, die von Naturkatastrophen betroffen sind.
 * Informieren Sie sich ggf. beim [russischen Ministerium für Katastrophenschutz](https://www.mchs.gov.ru/).
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Vulkanen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Vulkanausbrüchen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
@@ -147,9 +148,9 @@ Der russische Luftraum ist für Flugzeuge aus fast allen europäischen Staaten g
 
 Flug-, Zug- und Fährverkehr zwischen Deutschland und der Russischen Föderation sind eingestellt. Einige Flughäfen in Südrussland sind geschlossen. 
 
-Es gibt ein dichtes Inlandsflugnetz, Eisenbahn- und Busverbindungen sowie in Großstädten häufig gut funktionierende U-Bahnen. Mehrere russische Fluglinien wurden auf die [EU-Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en) gesetzt, da sie internationalen Sicherheitsstandards nicht genügen.
+Es gibt ein dichtes Inlandsflugnetz, Eisenbahn- und Busverbindungen sowie in Großstädten häufig gut funktionierende U-Bahnen. Nahezu alle russischen Fluglinien wurden auf die [EU-Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en) gesetzt, da sie internationalen Sicherheitsstandards nicht mehr genügen.
 
-Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt. Bei Einreise in die Russische Föderation muss eine alternative Kfz-Versicherung abgeschlossen werden, da Autofahrer aus den o.g. Ländern ansonsten als nicht Kfz-versichert gelten.
+Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt. Bei Einreise in die Russische Föderation muss eine alternative Kfz-Versicherung abgeschlossen werden, da Autofahrer aus den o.g. Ländern ansonsten als nicht versichert gelten.
 
 Die Straßenverhältnisse sind außerhalb der großen Städte teilweise schlecht, gefährliche Schlaglöcher können in der Dunkelheit oftmals nicht rechtzeitig erkannt werden.  
 Auf Autobahnen und außerhalb geschlossener Ortschaften gilt eine uneingeschränkte Lichtpflicht, so dass auch tagsüber mit Abblendlicht gefahren werden muss.  
@@ -208,13 +209,13 @@ Menschenrechtswidrig unter Strafe gestellt ist jedoch die sog. „Propaganda“ 
 
 Hinsichtlich weiterer rechtlicher Besonderheiten, siehe *Aktuelles*.
 
-Der Besitz von Betäubungsmitteln, sowie die Ein- und Ausfuhr auch geringer Mengen kann in Russland langjährige Gefängnisstrafen nach sich ziehen.  Als Drogen gelten auch in Deutschland legale Produkte, die Cannabis enthalten, wie etwa cannabishaltige Gummibärchen, Medikamente oder cannabishaltige Kosmetika.
+Der Besitz von Betäubungsmitteln sowie die Ein- und Ausfuhr auch geringer Mengen kann in Russland langjährige Gefängnisstrafen nach sich ziehen. Als Drogen gelten auch in Deutschland legal erworbene Produkte, die Substanzen aus Cannabis enthalten, wie zum Beispiel cannabishaltige Gummibärchen, Medikamente oder Kosmetika. Auch andere in Deutschland legal erhältliche Medikamente können dem Einfuhrverbot unterliegen.
 
 Die Ausfuhr von Antiquitäten und Kunstgegenständen, sofern sie aus der Zeit vor 1945 stammen, ist grundsätzlich verboten. Insbesondere bei Ikonen wird diese Regelung streng überwacht. In anderen Fällen ist in der Regel eine Bescheinigung des Kulturministeriums erforderlich. In Zweifelsfällen sollte der russische Zoll vorab kontaktiert werden. Die Ausfuhr von als „Kulturgut“ bezeichneten Gegenständen (hierunter fallen z.B. auch sowjetische Medaillen und Geldscheine, die auf Flohmärkten erworben werden können) ohne vorherige Genehmigung kann Geldstrafen bzw. langjährige Haftstrafen zur Folge haben.
 
-Bei einigen staatlichen Einrichtungen ist das Fotografieren verboten. Es wird zu Vorsicht geraten, da nicht alle Fotografierverbote gesondert ausgeschildert sind. Militärische Einrichtungen sollten grundsätzlich nicht fotografiert werden.
+Bei einigen staatlichen Einrichtungen ist das Fotografieren verboten. Es wird zu Vorsicht geraten, da nicht alle Fotografierverbote gesondert ausgeschildert sind. Militärische Einrichtungen und technische Produktionsstätten sollten grundsätzlich nicht fotografiert werden.
 
-Die Nutzung von VPN-Netzwerken wird kontrolliert, die eines nicht verifizierten VPN-Netzwerks ist strafbar.
+Die Nutzung von VPN-Netzwerken wird kontrolliert und zunehmend behindert, die eines nicht verifizierten VPN-Netzwerks ist strafbar.
 
 Seit 2022 gilt in der Russischen Föderation außerdem ein neues Mediengesetz (sog. Fake News Gesetz), das zu willkürlicher Verhängung hoher Haftstrafen für öffentliche Äußerungen (z.B. Websitebeiträge, Videokonferenzen) führen kann. Das schränkt die Arbeit ausländischer Journalisten und Medienschaffenden weiter ein. Sowohl private als auch geschäftliche kritische Äußerungen zu aktuellen politischen Entwicklungen in allen sozialen Medien können mit unberechenbaren persönlichen Risiken verbunden sein. Es wird zu äußerster Zurückhaltung geraten.
 
@@ -344,7 +345,7 @@ Bei der Einfuhr von geringeren Beträgen kann jeweils der grüne Zollkorridor be
 
 #### *Einreise mit dem Kfz*
 
-Besonderes Augenmerk sollte auf den Gültigkeitszeitraum der Zolleinfuhrbescheinigung für das Kfz gelegt werden. Wenn ein längerer Aufenthalt als in der Gültigkeit angegeben geplant ist, so muss die Zolleinfuhrerklärung vor Ablauf ihrer Gültigkeit bei der jeweils örtlich zuständigen Zollbehörde verlängert werden. Ohne gültige Einfuhrerklärung ist eine Kfz-Wiederausfuhr grundsätzlich nicht möglich. Fahren ohne gültige Zolldokumente kann zudem eine empfindliche Zollstrafe (Fahrzeugwert als grobe Richtlinie, dieser wird von den russischen Stellen ermittelt) nach sich ziehen. Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt, siehe *Reiseinfos – Infrastruktur/Verkehr*.
+Besonderes Augenmerk sollte auf den Gültigkeitszeitraum der Zolleinfuhrbescheinigung für das Kfz gelegt werden. Wenn ein längerer Aufenthalt als in der Gültigkeit angegeben geplant ist, muss die Zolleinfuhrerklärung vor Ablauf ihrer Gültigkeit bei der jeweils örtlich zuständigen Zollbehörde verlängert werden. Ohne gültige Einfuhrerklärung ist eine Kfz-Wiederausfuhr grundsätzlich nicht möglich. Fahren ohne gültige Zolldokumente kann zudem eine empfindliche Zollstrafe (Fahrzeugwert als grobe Richtlinie, dieser wird von den russischen Stellen ermittelt) nach sich ziehen. Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt, siehe *Reiseinfos – Infrastruktur/Verkehr*.
 
 ### Heimtiere
 
