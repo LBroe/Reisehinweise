@@ -2,12 +2,6 @@
 
 ## Aktuelles
 
-##### Mögliche Beeinträchtigung im Flugverkehr durch Streikmaßnahmen
-
-Die Lufthansa-Tochtergesellschaft Discover Airlines hat von Dienstag, dem 27. August, bis Freitag, dem 30. August, einen Streik angekündigt. Hiervon können auch Flugreisende nach Portugal – insbesondere nach Madeira – betroffen sein.
-
-Für Samstag, den 31. August, und Sonntag, den 1. September, wurde seitens der portugiesischen Transportarbeitergewerkschaft ein landesweiter Streik des Abfertigungspersonals an den Flughäfen angekündigt. Auch hier kann es an beiden Tagen zu Beeinträchtigungen, Flugausfällen oder einer vollständigen Einstellung des Flugverkehrs kommen
-
 #### *Busch- und Waldbrände*
 
 In den Sommermonaten kommt es in Portugal – vor allem im Zentrum und Norden des Landes sowie auch auf Madeira – aufgrund von Hitze und Trockenheit immer wieder zu Busch- und Waldbränden. Es kann deshalb zu Beeinträchtigungen der Infrastruktur einschließlich des Flugverkehrs kommen.
