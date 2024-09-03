@@ -183,7 +183,7 @@ Bei Ausreise aus Mosambik ist für Personen, die länger als vier Wochen im Land
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, Polio und Typhus, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Tollwut und Meningokokken-Krankheit (ACWY) empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reiseimpfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/fb5b0b933811f5a89eb825ce3c671962/reise-impfempfehlungen-aa-data.pdf).
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Dengue-Fieber und Chikungunya-Fieber
 

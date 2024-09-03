@@ -369,7 +369,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Tollwut sowie FSME empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Firmen sollen sicherstellen, dass ausländische Beschäftigte gegen Masern geimpft sind. Es finden keine individuellen Kontrollen statt.
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### HIV/AIDS
 

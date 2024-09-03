@@ -205,7 +205,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Japanische Enzephalitis (Reisen in die Bundesstaaten New South Wales, Queensland, Victoria und South Australia und die Inseln der Torres-Straße) und Dengue-Fieber (Vorkommen in Nordqueensland und Inseln der Torres-Straße) empfohlen.
 * Impfungen gegen Meningokokken (ACWY und B) sind in Australien Teil des normalen Impfschemas und können bei Schul- oder Universitätsbesuch u. U. vorausgesetzt werden.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 ### Dengue-Fieber
 

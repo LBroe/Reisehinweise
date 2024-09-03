@@ -203,7 +203,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Typhus und Tollwut empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 ### Dengue-Fieber
 
@@ -214,7 +214,7 @@ Diese von *Aedes*-Mücken übertragene Virusinfektion wird in den letzten Jahren
 
 ### Malaria
 
-Nach eigenen Angaben ist das Land malariafrei. Der letzte autochthone Fall ist 2009 aufgetreten. Es werden keine Maßnahmen empfohlen, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") 
+Nach eigenen Angaben ist das Land malariafrei. Der letzte autochthone Fall ist 2009 aufgetreten. Es werden keine Maßnahmen empfohlen, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") 
 
 ### HIV/AIDS
 

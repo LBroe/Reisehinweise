@@ -218,7 +218,7 @@ Bei Ausreise aus Pakistan ist für Personen, die länger als vier Wochen im Land
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalten oder besonderer Gefährdung auch gegen Dengue-Fieber, Hepatitis B, Typhus, Tollwut, Meningokokken-Meningitis ACWY und - bei Aufenthalten in der südlichen Provinz Sindh - auch gegen Japanische Enzephalitis empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Dengue-Fieber
 
@@ -245,7 +245,7 @@ Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophy
 * Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
 * Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
 
-Unterhalb einer Höhe von 2.500 m besteht in Pakistan in den nördlichen und nordwestlichen Provinzen, dem westlichen Teil von Punjab sowie in Teilgebieten im Süden des Landes von Mai bis November ein hohes sowie von Dezember bis April ein geringes Übertragungsrisiko für Malaria. In den restlichen Teilgebieten im Süden und Südwesten liegt ein geringes Risiko unter 2.500 m Höhe vor, siehe Karten des [Ständigen Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") In circa einem Viertel der Fälle handelt es sich um die potentiell lebensbedrohliche Malaria tropica.
+Unterhalb einer Höhe von 2.500 m besteht in Pakistan in den nördlichen und nordwestlichen Provinzen, dem westlichen Teil von Punjab sowie in Teilgebieten im Süden des Landes von Mai bis November ein hohes sowie von Dezember bis April ein geringes Übertragungsrisiko für Malaria. In den restlichen Teilgebieten im Süden und Südwesten liegt ein geringes Risiko unter 2.500 m Höhe vor, siehe Karten des [Ständigen Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") In circa einem Viertel der Fälle handelt es sich um die potentiell lebensbedrohliche Malaria tropica.
 
 Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
 

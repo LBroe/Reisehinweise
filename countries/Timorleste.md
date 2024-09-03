@@ -128,7 +128,7 @@ Es sind keine Pflichtimpfungen bei Einreise vorgeschrieben.
 * Als Reiseimpfungen werden Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Typhus, Tollwut und Japanische Enzephalitis empfohlen.
 * Reisende sollten einen vollständigen Impfschutz gegen Poliomyelitis (Kinderlähmung) mit Auffrischimpfungen alle zehn Jahre haben.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Dengue-Fieber
 

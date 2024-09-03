@@ -193,7 +193,7 @@ Für die Einreise nach Kanada sind keine Pflichtimpfungen vorgeschrieben.
 * Als Reiseimpfungen werden bei Aufenthalten in den nördlichen Landesteilen eine Impfung gegen Hepatitis B empfohlen, bei Langzeitaufenthalten oder besonderer Exposition auch gegen Tollwut.
 * Die Meningitisimpfung (Schutzimpfung gegen Hirnhautentzündung) gehört in Kanada zum Standardimpfprogramm für Kinder und Jugendliche, sie ist als Reiseimpfung für diesen Personenkreis empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 ### Medizinische Versorgung
 

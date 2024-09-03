@@ -24,7 +24,7 @@ Offizielle Informationen bieten die [polnischen Behörden](https://www.gov.pl/we
 
 ### *Situation an der Grenze zu Kaliningrad*
 
-An den Grenzübergangen Mamonowo/Grzechotki und Bagrationowsk/Bezledy kommt es (vor allem bei der Einreise nach Polen, aber auch bei der Ausreise aus Polen) zu langen Staus und Verzögerungen bei der Pkw-Abfertigung. Wartezeiten bis zu 23 Stunden können dort nicht ausgeschlossen werden.
+An den Grenzübergangen Mamonowo/Grzechotki und Bagrationowsk/Bezledy kommt es vor allem bei der Einreise nach Polen, aber auch bei der Ausreise aus Polen zu langen Staus und Verzögerungen bei der Pkw-Abfertigung. Wartezeiten bis zu 23 Stunden können dort nicht ausgeschlossen werden.
 
 ## Sicherheit
 
@@ -36,7 +36,7 @@ An den Grenzübergangen Mamonowo/Grzechotki und Bagrationowsk/Bezledy kommt es (
 
 In größeren Städten, den touristischen Zentren und Ausflugszielen, sowie in öffentlichen Verkehrsmitteln kommt es zu Kleinkriminalität wie Taschendiebstählen.
 
-In letzter Zeit haben Betrüger von Touristen finanzielle Hilfen erbeten, um nach dem angeblichen Diebstahl zumindest Fahrtkosten bestreiten zu können. In Bars und Clubs kommt es vereinzelt auch zum Einsatz von K.O.-Tropfen und Kreditkartenbetrug.
+In letzter Zeit haben Betrüger von Touristen finanzielle Hilfen erbeten, um nach einem angeblichen Diebstahl zumindest Fahrtkosten bestreiten zu können. In Bars und Clubs kommt es vereinzelt auch zum Einsatz von K.O.-Tropfen und Kreditkartenbetrug.
 
 Um Fahrzeuge zu entwenden, werden auch Pannen oder Unfälle vorgetäuscht.  
 Für geparkte Lastkraftwagen wird auf das Risiko des Ladungsdiebstahls durch Aufschneiden der Abdeckplanen hingewiesen.
@@ -44,7 +44,7 @@ Für geparkte Lastkraftwagen wird auf das Risiko des Ladungsdiebstahls durch Auf
 * Tragen Sie Wertsachen und Kameras in Städten nicht sichtbar und lassen Sie Ihr Gepäck nie unbeaufsichtigt.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Lassen Sie bei Hilfsersuchen Unbekannter Skepsis walten und vergewissern Sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Lassen Sie bei Hilfsersuchen Unbekannter Skepsis walten und vergewissern Sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 * Lassen Sie Getränke in Bars und Clubs nicht unbeaufsichtigt.
 * Parken Sie Fahrzeuge immer auf bewachten Parkplätzen und halten Sie sie während der Fahrt versperrt.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie im Zweifel keine Daten von sich mit.
@@ -68,35 +68,31 @@ Siehe *Aktuelles*
 
 ### Grenzkontrollen
 
-Mit dem Beitritt Polens zum Schengen-Raum sind die Personenkontrollen an der deutsch-polnischen Grenze entfallen, stichprobenartige Kontrollen oder die temporäre Wiedereinführung von Grenzkontrollen sind jedoch möglich. Infolgedessen kann es immer zu Verzögerungen beim Grenzübertritt kommen. Ein Reisedokument (Reisepass oder Personalausweis) muss beim Grenzübertritt immer mitgeführt werden.
+Mit dem Beitritt Polens zum Schengen-Raum sind die Personenkontrollen an der deutsch-polnischen Grenze entfallen, stichprobenartige Kontrollen oder die temporäre Wiedereinführung von Grenzkontrollen sind jedoch jederzeit möglich. Infolgedessen kann es insbesondere am Wochenende zu Verzögerungen beim Grenzübertritt kommen. Ein Reisedokument (Reisepass oder Personalausweis) muss beim Grenzübertritt immer mitgeführt werden.
 
 ### Infrastruktur/Verkehr
 
-Als öffentliche Verkehrsmittel stehen Inlandsflüge, ein dichtes Eisenbahnnetz sowie Überlandbusse, in den Städten Busse und Bahnen sowie Taxis zur Verfügung.
+An öffentlichen Verkehrsmitteln stehen Inlandsflüge, ein dichtes Eisenbahnnetz sowie Überlandbusse, in den Städten Busse, Bahnen und Taxis zur Verfügung.
 
-Für die Teilnahme am Straßenverkehr ist das Mitführen der Grünen Versicherungskarte weiterhin empfehlenswert.  
-Stimmt der Halter eines Fahrzeugs nicht mit dem Fahrer überein, muss unbedingt eine Nutzungsbevollmächtigung des Halters mitgeführt werden. Dies gilt auch dann, wenn der Halter Beifahrer ist. Ein Muster bietet die [polnische Botschaft in Berlin](https://www.gov.pl/web/deutschland/botschaft).
+Für die Teilnahme am Straßenverkehr ist das Mitführen der Grünen Versicherungskarte empfehlenswert. Stimmt der Halter eines Fahrzeugs nicht mit dem Fahrer überein, muss unbedingt eine Nutzungsbevollmächtigung des Halters mitgeführt werden. Dies gilt auch dann, wenn der Halter Beifahrer ist. Ein Muster ist über die [polnische Botschaft in Berlin](https://www.auswaertiges-amt.de/de/service/laender/polen-node/vertretungenpolen/199112?openAccordionId=item-199186-0-panel) erhältlich.
 
-In Polen sind Autobahnen in der Regel für alle Fahrzeuge mautpflichtig.  
-Die Maut kann sowohl bar bzw. mit Kredit- oder Bankkarte als auch elektronisch mit dem Sendegerät ViaAuto bezahlt werden. Die elektronische Bezahlung setzt eine vorherige Anmeldung bei [e-TOLL](https://etoll.gov.pl/de/) voraus oder die Ticketnutzung über e-TOLL PL BILET (Ticket) [App](https://etoll.gov.pl/de/leichte/e-toll-pl-ticket/uber-die-e-toll-pl-ticket-anwendung/).
+Für die meisten Autobahnen in Polen wurden die Mautgebühren für Pkws und Fahrzeuge bis 3,5 Tonnen zulässiges Gesamtgewicht aufgehoben.
 
-Fahrzeuge mit über 3,5 t zulässigem Gesamtgewicht müssen [Lkw-Fahrverbote in Polen](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-fahrverbot/482484) sowie ggf. [Beschränkungen in Warschau](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-warschau/484556) beachten, mit einem elektronischen [Sendegerät (OBU)](https://etoll.gov.pl/de/schwere/e-toll-system/gerate/uber-gps-gerate/) ausgestattet sein und Gebühren mittels [e-TOLL](https://etoll.gov.pl/de/) bezahlen.
+Mautpflichtig bleiben aktuell folgende Strecken:
 
-Seit 2023 entfällt die Mautpflicht auf den staatlichen Autobahnstrecken (A2 Konin-Stryków, A4 Wrocław-Sośnica) für Fahrzeuge mit zulässigem Gesamtgewicht bis 3,5 t. Aktuelle Informationen über mautpflichtige Straßen in Polen bietet diese [Karte.](https://etoll.gov.pl/de/mautstrassennetz/)  
-Weitere umfangreiche Informationen zum Pkw-, Lkw- und Omnibusverkehr in Polen bieten die [deutschen Vertretungen in Polen](https://polen.diplo.de/pl-de/03-service/03-08-rechts-konsularinformationen/03-08-15-verkehr).
+- A4 Kraków - Katowice (Krakau - Kattowitz); 61 km
 
-Es gilt eine 0,2 Promille-Grenze, auch für Fahrradfahrer. Für Fahranfänger in der Probezeit gilt ein absolutes Alkoholverbot. Auch geringfügige Überschreitungen können mit hohen Strafen, Führerscheinentzug, Fahrzeugsicherstellung und Freiheitsstrafen geahndet werden.
+Die Maut kann sowohl bar als auch mit Kredit- oder Bankkarte bezahlt werden.
 
-Es muss ganztägig mit Abblendlicht, bei guten Sichtverhältnissen mindestens mit Tagfahrlicht gefahren werden.  
-Neben einem Warndreieck muss ein Feuerlöscher mitgeführt werden.  
-Es besteht keine generelle Winterreifenpflicht, jedoch sind Winterreifen in den Wintermonaten dringend zu empfehlen.
+Fahrzeuge mit über 3,5 Tonnen zulässigem Gesamtgewicht müssen [Lkw-Fahrverbote in Polen](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-fahrverbot/482484)  und ggf. [Beschränkungen in Warschau](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-warschau/484556) beachten, mit einem elektronischen Sendegerät (OBU) ausgestattet sein und anfallende Gebühren mittels [E-TOLL](https://etoll.gov.pl/de/) bezahlen.
 
-Bußgelder sind hoch und sofort in PLN zu zahlen. Es drohen ggf. Fahrverbot, Fahrzeugsicherstellung und bei erheblichen Verstößen auch eine kurzzeitige Inhaftierung.
+Es muss ganztägig mit Tagfahrlicht gefahren werden. Ein Warndreieck muss, ein Feuerlöscher sollte mitgeführt werden.
 
-In manchen Fällen (besonders hoher Alkoholgehalt im Blut, Straftaten und Unfälle unter Alkohol- und Drogeneinfluss, Wiederholungstäter, etc.) wird das entsprechende Kfz konfisziert oder der Fahrer zur Zahlung des Gegenwerts des Fahrzeugs verpflichtet.
+Es gilt eine 0,2-Promille-Grenze – auch für Fahrradfahrer. Für Fahranfänger in der Probezeit gilt ein absolutes Alkoholverbot. Auch geringfügige Überschreitungen können mit hohen Strafen, Führerscheinentzug, Fahrzeugsicherstellung und Freiheitsstrafen geahndet werden.
 
-Für Fußgänger und Radfahrer, die sich im Dunkeln außerhalb von geschlossenen Ortschaften bewegen, ist das Tragen einer Warnweste bzw. von reflektierenden Leuchtstreifen auf der Kleidung Pflicht.  
-Fußgängerüberwege ohne Ampel bedeuten keine rechtliche Verpflichtung für Autofahrer, anzuhalten.
+Bußgelder für Verkehrsverstöße sind hoch und sofort in PLN zu zahlen. Es drohen ggf. Fahrverbot, Fahrzeugsicherstellung und bei erheblichen Verstößen auch eine kurzzeitige Inhaftierung, bis hin zu Konfiszierung des Kfz oder Verpflichtung des Fahrers zur Zahlung in Höhe des Gegenwerts des Fahrzeugs (z.B. bei starker Überschreitung der Promille-Grenze, Straftaten oder Unfälle unter Alkohol- und Drogeneinfluss, Wiederholungstäter etc.)
+
+Für Fußgänger und Radfahrer, die sich im Dunkeln außerhalb geschlossener Ortschaften bewegen, ist das Tragen einer Warnweste bzw. von reflektierenden Leuchtstreifen auf der Kleidung Pflicht. Fußgängerüberwege ohne Ampel bedeuten keine rechtliche Verpflichtung für Autofahrer anzuhalten.
 
 An den zahlreichen unbeschrankten Bahnübergängen im ganzen Land ist besondere Vorsicht geboten.
 
@@ -110,7 +106,7 @@ Der deutsche Führerschein ist gültig.
 
 ### Rechtliche Besonderheiten
 
-Der Konsum von Alkohol und anderen Rauschmitteln in der Öffentlichkeit ist verboten. Die Einfuhr und der Besitz von Drogen sind verboten.
+Der Konsum von Alkohol und anderer Rauschmittel in der Öffentlichkeit ist verboten. Die Einfuhr und der Besitz von Drogen sind verboten.
 
 Bestimmte gekennzeichnete militärische Anlagen oder Ämter dürfen nicht fotografiert werden.
 
@@ -118,7 +114,7 @@ Im Grenzgebiet Polen-Russische Föderation (Gebiet Kaliningrad) ist die „grün
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Złoty (PLN). Bankkarten (mit Maestro- oder V-Pay-Symbol) und gängige Kreditkarten werden als Zahlungsmittel akzeptiert. Bei Abhebungen an Geldautomaten in Polen sollten sich Reisende im Vorfeld sorgfältig über den aktuellen Wechselkurs des PLN informieren, da der angewandte Wechselkurs bis zu 10% zu Ungunsten des Karteninhabers variieren kann. Bei Bezahlung mit Debit- oder Kreditkarte (vor Buchung Bezahlung in PLN angeben) wird der günstigere Interbanken-Wechselkurs verwendet.
+Landeswährung ist der Złoty (PLN). Bankkarten (mit Maestro- oder V-Pay-Symbol) und gängige Kreditkarten werden als Zahlungsmittel akzeptiert. Bei Abhebungen an Geldautomaten in Polen sollten sich Reisende im Vorfeld sorgfältig über den aktuellen Wechselkurs des PLN informieren, da der angewandte Wechselkurs bis zu zehn Prozent zu Ungunsten des Karteninhabers variieren kann. Bei Bezahlung mit Debit- oder Kreditkarte (vor Buchung Bezahlung in PLN angeben) wird der günstigere Interbanken-Wechselkurs verwendet.
 
 In den touristischen Zentren wird zur Vorsicht beim Geldtausch geraten. Manche Wechselstuben locken Kunden mit missverständlichen Werbetafeln. Vor dem Tausch sollte der genaue Kurs für das beabsichtigte Tauschgeschäft erfragt werden. Bei seriösen Wechselstuben ist die Marge zwischen EUR-Ankaufs- (kupno) und Verkaufskurs (sprzedaż) gering.
 
@@ -160,7 +156,7 @@ Siehe *Aktuelles*
 
 Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz keiner Warenkontrollen schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus. Die Ein- und Ausfuhr von 10.000 EUR oder höher ist in der EU deklarationspflichtig.
 
-Die Ausfuhr von Gegenständen (z. B. Bücher, Kunstgegenstände, Schmuck, Möbel), aus der Zeit vor 1945 unterliegt besonderen Regelungen. Es wird deshalb empfohlen, vor einem Kauf eines solchen Gegenstandes, der nach Deutschland mitgenommen werden soll, die Ausfuhrmöglichkeit zu prüfen.
+Die Ausfuhr von Gegenständen (z. B. Bücher, Kunstgegenstände, Schmuck, Möbel), aus der Zeit vor 1945 unterliegt besonderen Regelungen. Es wird deshalb empfohlen, vor dem Kauf eines solchen Gegenstandes, der audgeführt werden soll, die Ausfuhrmöglichkeit zu prüfen.
 
 Bei der Wiedereinreise nach Deutschland ist zu beachten, dass die Freimenge für Zigaretten auf 800 Stück pro Person begrenzt ist.
 

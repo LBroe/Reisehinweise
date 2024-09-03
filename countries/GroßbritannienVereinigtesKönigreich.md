@@ -390,7 +390,7 @@ Für die direkte Einreise aus Deutschland in das Vereinigte Königreich (und auc
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 Im Vereinigten Königreich gehört die Impfung gegen Meningokokken C wie in Deutschland zum Standardimpfprogramm für Kinder. Sie wird darüber hinaus auch bis zum 24. Lebensjahr für Schüler und Studenten empfohlen. Dieser Personenkreis sollte deshalb für einen Langzeitaufenthalt eine Schutzimpfung entsprechend der Empfehlung des Vereinigten Königreichs erhalten, siehe [GOV.UK/department-of-health-and-social-care](https://www.gov.uk/government/organisations/department-of-health-and-social-care). 
 
@@ -399,7 +399,7 @@ Eine Impfung gegen die Frühsommerenzephalitis FSME ist nicht erforderlich.
 ### **Medizinische Hinweise für** **die Falklandinseln, St. Helena, Ascension und Tristan da Cunha**
 
 * Es bestehen keine internationalen Impfvorschriften. Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch Impfungen gegen Hepatitis B empfohlen.
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 ### Medizinische Hinweise für die Karibik: Anguilla, Bermuda, Montserrat, die Britischen Jungferninseln (British Virgin Islands), die Kaimaninseln (Cayman Islands) und die Turks- und Caicosinseln.
 
@@ -409,7 +409,7 @@ Reisende nach Montserrat müssen eine Gelbfieberimpfung nachweisen, wenn sie äl
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Dengue-Fieber und Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch Impfungen gegen Hepatitis B empfohlen.
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 #### Zika-Virus-Infektion
 
@@ -469,7 +469,7 @@ Reisende auf die Pitcairn Inseln müssen eine Gelbfieberimpfung nachweisen, wenn
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch Impfungen gegen Hepatitis B empfohlen.
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 #### *Andere*
 

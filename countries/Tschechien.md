@@ -172,7 +172,7 @@ Für die Einreise nach Tschechien sind keine Pflichtimpfungen vorgeschrieben.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Tollwut und Frühsommer-Meningoenzephalitis (FSME) empfohlen.
 * Beachten Sie für Langzeitaufenthalte von Schülern/Studenten, dass die Impfungen gegen Meningokokken B und ACWY in der Tschechischen Republik zum Standardprogramm im Kindes-/Jugendalter gehören. Ggf. klären Sie mit dem Schulträger, ob es für die Einschulung Impferfordernisse gibt.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
 ### West-Nil-Fieber
 

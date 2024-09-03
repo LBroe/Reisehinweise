@@ -181,7 +181,7 @@ Seit 2020 soll bei Einreise der Nachweis von Impfungen gegen [Gelbfieber](https:
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A und Polio, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Meningokokken-Krankheit (ACWY), Typhus und Tollwut empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Dengue-Fieber
 
@@ -208,7 +208,7 @@ Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophy
 * Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
 * Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
 
-Es besteht ganzjährig ein hohes  Malariarisiko im ganzen Lande inklusive der Städte, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
+Es besteht ganzjährig ein hohes  Malariarisiko im ganzen Lande inklusive der Städte, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
 
 Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
 

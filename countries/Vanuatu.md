@@ -139,7 +139,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A und Poliomyelitis, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B und Typhus empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Zika-Virus-Infektion
 
@@ -160,7 +160,7 @@ Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*
 
 * Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 
-Auf Vanuatu besteht ganzjährig ein Malariarisiko, hauptsächlich durch Pl. falciparum (ca. 25%) und Pl. vivax (ca. 74%). In Espíritu Santo und Malakula liegt ein hohes Risiko vor, in Aoba, Ambrym, Epi, Maéwo, Pentecost, Vanua Lava, Gaua sowie den Torres Inseln und weiteren Inseln ein geringes Risiko. Minimales Risiko besteht in Port-Vila und den Inseln Éfaté, Erromango, Tanna und Aneityam, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG](https://www.dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)").
+Auf Vanuatu besteht ganzjährig ein Malariarisiko, hauptsächlich durch Pl. falciparum (ca. 25%) und Pl. vivax (ca. 74%). In Espíritu Santo und Malakula liegt ein hohes Risiko vor, in Aoba, Ambrym, Epi, Maéwo, Pentecost, Vanua Lava, Gaua sowie den Torres Inseln und weiteren Inseln ein geringes Risiko. Minimales Risiko besteht in Port-Vila und den Inseln Éfaté, Erromango, Tanna und Aneityam, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)").
 
 Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
 

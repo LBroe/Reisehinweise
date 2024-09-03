@@ -229,7 +229,7 @@ Bei Einreise aus einem Gelbfieberendemiegebiet wie z.B. den Nachbarländern wird
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Typhus und Tollwut empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Zika-Virus-Infektion
 
@@ -251,7 +251,7 @@ Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*
 
 Hohes Risiko besteht ganzjährig in der Region südlich des Orinoko sowie in einem Streifen nördlich entlang des Orinoko, einschließlich dem Mündungsdelta im Bundestaat Delta Amacuro. Geringes Risiko in den Regionen nördlich davon, einschließlich Caracas und Isla Margarita.
 
-Der Haupterreger ist Plasmodium vivax (77%), der die Malaria tertiana auslöst. Daneben kommt die Malaria tropica (23%) in unterschiedlicher Häufigkeit vor. Siehe auch die aktuellen Verbreitungskarten des [Ständigen Ausschusses Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
+Der Haupterreger ist Plasmodium vivax (77%), der die Malaria tertiana auslöst. Daneben kommt die Malaria tropica (23%) in unterschiedlicher Häufigkeit vor. Siehe auch die aktuellen Verbreitungskarten des [Ständigen Ausschusses Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
 
 Die Notwendigkeit einer Chemoprophylaxe (Tabletteneinnahme) hängt von Ihrem Reiseprofil ab. Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner. Die Mitnahme eines ausreichenden Vorrats wird ggfs. empfohlen.
 

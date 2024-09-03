@@ -257,7 +257,7 @@ Eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/r
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B und Tollwut empfohlen. Bei längeren Aufenthalten in ländlichen Gebieten kann eine Typhusimpfung erwogen werden.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Zika-Virus-Infektion
 
@@ -286,7 +286,7 @@ Die Übertragung erfolgt durch den Stich blutsaugender dämmerungs- und nachtakt
 
 Hohes Risiko in der Provinz Loreto (hier überwiegenden Malaria tropica) und den nördlichen Regionen der Provinz Amazonas, nordöstliche Teilgebiete der Provinz San Martín. Geringes Risiko besteht in den Provinzen über 2.500 m östlich der Anden und im Stadtgebiet von Iquitos.
 
-Minimales Risiko im Rest des Landes über 2.500 m einschließlich der nördlichen Provinzen im Westen der Anden (Tumbes, Piura, Lambayeque, La Libertad u.a.). Malariafrei sind Lima, die Provinzen westlich der Anden südlich der Provinz Libertad sowie die touristischen Hochlandgebiete (Cusco, Machu Picchu, Titicacasee). Siehe auch die aktuellen Verbreitungskarten des [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
+Minimales Risiko im Rest des Landes über 2.500 m einschließlich der nördlichen Provinzen im Westen der Anden (Tumbes, Piura, Lambayeque, La Libertad u.a.). Malariafrei sind Lima, die Provinzen westlich der Anden südlich der Provinz Libertad sowie die touristischen Hochlandgebiete (Cusco, Machu Picchu, Titicacasee). Siehe auch die aktuellen Verbreitungskarten des [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
 
 Die Notwendigkeit einer Chemoprophylaxe (Tabletteneinnahme) hängt von Ihrem Reiseprofil ab. Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropen- oder Reisemediziner. Die Mitnahme eines ausreichenden Vorrats wird ggfs. empfohlen, siehe [Malaria.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria")
 

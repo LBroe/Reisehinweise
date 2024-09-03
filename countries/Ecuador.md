@@ -208,7 +208,7 @@ Aus Ecuador kommend kann die Impfung bei Weiterreise in ein Drittland verlangt w
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B und Tollwut empfohlen. Bei längeren Aufenthalten in ländlichen Gebieten kann eine Typhusimpfung erwogen werden.
 * Zu beachten ist, dass bei einer Gefährdung ein Schutz gegen Tollwut wichtig ist, da im ganzen Land kein Tollwutimmunglobulin zur Behandlung Ungeimpfter zur Verfügung steht.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Malaria
 

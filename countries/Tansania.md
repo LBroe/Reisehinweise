@@ -1,17 +1,5 @@
 # Tansania: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Überschwemmungen und Erdrutschgefahr*
-
-Aufgrund heftiger Regenfälle kommt es derzeit in weiten Teilen Tansanias (insbesondere Küstenregion und Daressalam sowie der tansanische Norden in der Kilimanjaro-Region) zu Überschwemmungen, reißenden Flüssen, Erdrutschen, Schlammlawinen, umstürzenden Bäumen sowie gerissenen Stromleitungen. Auch die Hauptstadt Daressalam und angrenzende Küstenregion ist hiervon betroffen.
-
-* Seien Sie besonders umsichtig und verlassen Sie Ihre sichere Unterkunft bei schweren Regenfällen nicht. Meiden Sie gesperrte bzw. überflutete Straßen.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Sollten Sie eine Reise nach Tansania planen, klären Sie ggf. mit Ihrem Reiseveranstalter, ob die eigene Reiseroute/der Aufenthaltsort von den Überschwemmungen betroffen ist.
-* Erkundigen Sie sich ggf. vor Ihrem Abflug bei Ihrer Fluggesellschaft, ob Ihr Flug nach und von Tansania wie geplant fliegen kann.
-* Informieren Sie sich ggf. bei internationalen Wetterdiensten über die aktuellen Wetterverhältnisse und Gefahrensituation.
-
 ## Sicherheit
 
 **Von nicht notwendigen Reisen in den südlichen Teil der Region Mtwara (unmittelbare Grenzregion zu Mosambik) wird**abgeraten.**
@@ -200,7 +188,7 @@ Für die Ein- und Ausfuhr von Heimtieren wird eine besondere Erlaubnis des Minis
 
 ### Aktuelles
 
-Seit Oktober 2023 treten vermehrt Malaria-Fälle auf Sansibar auf. Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika_2023.pdf) zur Verfügung.  
+Seit Oktober 2023 treten vermehrt Malaria-Fälle auf Sansibar auf. Eine Karte der Risikogebiete stellt die [DTG](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") zur Verfügung.  
 
 * Schützen Sie sich den ganzen Tag über konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
 * Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
@@ -216,7 +204,7 @@ Für längere Aufenthalte im Land und bei erhöhter Mückenexposition kann eine 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Hepatitis B, Gelbfieber, Typhus, Tollwut und Meningokokken-Krankheit (ACWY) empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2023_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
 
 ### Dengue-Fieber
 
@@ -229,7 +217,7 @@ Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen. Die 
 
 Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen. Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu lang anhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
 
-* Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
+* Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere tagsüber konsequent vor Mückenstichen.
 
 ### Malaria
 
@@ -237,9 +225,9 @@ Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*
 
 * Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 
-Ein hohes Malariarisiko besteht ganzjährig landesweit inklusive der Städte (auch Daressalam), Nationalparks und auf den Inseln Sansibar, Mafia und Pemba. Der Anteil der Malaria tropica (*P. falciparum*) beträgt über 99%. Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika_2023.pdf) zur Verfügung.  
+Ein hohes Malariarisiko besteht ganzjährig landesweit inklusive der Städte (auch Daressalam), Nationalparks und auf den Inseln Sansibar, Mafia und Pemba. Der Anteil der Malaria tropica (*P. falciparum*) beträgt über 99%. Eine Karte der Risikogebiete stellt die [DTG](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") zur Verfügung.  
 
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
+Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
 
 * Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
 * Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
@@ -327,9 +315,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und hä
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
