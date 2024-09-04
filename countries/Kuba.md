@@ -200,7 +200,7 @@ Detaillierte Informationen über die kubanischen Ein- und Ausfuhrbestimmungen si
 
 ### Aktuelles
 
-### Die Zahl der gemeldeten Infektionen mit dem Oropouche-Virus haben 2024 in mehreren mittel- und südamerikanischen Ländern erheblich zugenommen. Im Juni 2024 wurde der erste Fall von Oropouche-Fieber in Kuba gemeldet.
+Die Zahl der gemeldeten Infektionen mit dem Oropouche-Virus haben 2024 in mehreren mittel- und südamerikanischen Ländern erheblich zugenommen. Im Juni 2024 wurde der erste Fall von Oropouche-Fieber in Kuba gemeldet.
 
 Hinweise bestehen, dass eine Oropouche-Infektion während der Schwangerschaft zu Fehlbildungen beim ungeborenen Kind sowie zu Schwangerschaftskomplikationen inklusive Fehlgeburten führen kann. Hierzu laufen aktuell weitere Untersuchungen. Schwangere sollten die Notwendigkeit einer Reise kritisch abwägen. Weitere Informationen zu Oropouche-Fieber finden Sie [hier](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/oropouche-fieber/2673950 "Oropouche-Fieber").
 
@@ -231,9 +231,10 @@ Dengue-Viren werden ganzjährig, insbesondere jedoch während der Regenzeit, dur
 
 ### Oropouche-Fieber
 
-Oropouche-Fieber ist eine durch das gleichnamige Virus ausgelöste Infektionskrankheit, die ähnlich wie Dengue-Fieber mit plötzlichen Fieberanstieg, starken Kopfschmerzen, Übelkeit und Erbrechen, Gelenk- und Gliederschmerzen und selten einer Hirnhautentzündung verläuft. Die Erkrankung wird vorwiegend nachts über Stechgnitzen sowie Stechmücken übertragen. Eine Therapie oder Impfung existiert nicht.
+Oropouche-Fieber ist eine durch das gleichnamige Virus ausgelöste Infektionskrankheit, die ähnlich wie Dengue-Fieber mit plötzlichen Fieberanstieg, starken Kopfschmerzen, Übelkeit und Erbrechen, Gelenk- und Gliederschmerzen und selten einer Hirnhautentzündung verläuft. Die Erkrankung wird vorwiegend nachts über Stechgnitzen sowie Stechmücken übertragen. Eine Therapie oder Impfung existiert nicht. Es gibt Hinweise, dass eine Infektion mit Oropouche-Viren in der Schwangerschaft zu Fehlbildungen beim ungeborenen Kind sowie zu Schwangerschaftskomplikationen oder Fehlgeburten führen kann.
 
-* Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen einer Expositionsprophylaxe insbesondere abends und nachts konsequent vor Mückenstichen.
+* Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere abends und nachts konsequent vor Mückenstichen.
+* Meiden Sie nicht notwendige Reisen während der Schwangerschaft und lassen Sie sich vor der Reise von Tropen- und/oder Reisemedizinern beraten.
 
 ### Chikungunya-Fieber
 

@@ -133,7 +133,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Spanien ist Vertragspartei des Europäischen Übereinkommens über die Regelung des Personenverkehrs zwischen den Mitgliedsstaaten des Europarates vom 13.12.1957. Reisedokumente außer dem vorläufigen Personalausweis dürfen seit höchstens einem Jahr abgelaufen sein.
 
-Flugreisen von und nach Deutschland können nur mit einem gültigen Reisedokument bzw. bei dessen Verlust mit einem von den deutschen konsularischen Vertretungen in Spanien ausgestellten Passersatzdokument angetreten werden, siehe hierzu [Informationen der deutschen Vertretungen in Spanien](https://spanien.diplo.de/es-de/).
+Flugreisen, auch von Minderjährigen, können nur mit einem gültigen Reisedokument bzw. bei dessen Verlust mit einem von den deutschen konsularischen Vertretungen in Spanien ausgestellten Passersatzdokument angetreten werden, siehe hierzu [Informationen der deutschen Vertretungen in Spanien](https://spanien.diplo.de/es-de/service/-/2543238).
 
 Für Reisen auf Kreuzfahrtschiffen geben die Veranstalter die vorgeschriebenen Bestimmungen zur Ausweispflicht bekannt.
 

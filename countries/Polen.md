@@ -86,7 +86,7 @@ Die Maut kann sowohl bar als auch mit Kredit- oder Bankkarte bezahlt werden.
 
 Fahrzeuge mit über 3,5 Tonnen zulässigem Gesamtgewicht müssen [Lkw-Fahrverbote in Polen](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-fahrverbot/482484)  und ggf. [Beschränkungen in Warschau](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-warschau/484556) beachten, mit einem elektronischen Sendegerät (OBU) ausgestattet sein und anfallende Gebühren mittels [E-TOLL](https://etoll.gov.pl/de/) bezahlen.
 
-Es muss ganztägig mit Tagfahrlicht gefahren werden. Ein Warndreieck muss, ein Feuerlöscher sollte mitgeführt werden.
+Es muss ganztägig mit Tagfahrlicht gefahren werden. Neben einem Warndreieck sollte ein Feuerlöscher mitgeführt werden.
 
 Es gilt eine 0,2-Promille-Grenze – auch für Fahrradfahrer. Für Fahranfänger in der Probezeit gilt ein absolutes Alkoholverbot. Auch geringfügige Überschreitungen können mit hohen Strafen, Führerscheinentzug, Fahrzeugsicherstellung und Freiheitsstrafen geahndet werden.
 
@@ -98,7 +98,7 @@ An den zahlreichen unbeschrankten Bahnübergängen im ganzen Land ist besondere 
 
 ### Führerschein
 
-Der deutsche Führerschein ist gültig.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
