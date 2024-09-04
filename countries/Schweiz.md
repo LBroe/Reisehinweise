@@ -17,8 +17,8 @@ Die Kriminalitätsrate in der Schweiz ist niedrig. Insbesondere zur Reisezeit ka
 
 ## Natur und Klima
 
-Das Klima ist alpin-gemäßigt. Im Gebirge kann es zu schwerem Schneefall, Lawinenabgängen und Erdrutschen kommen. Die Wetterlage kann sich sehr schnell ändern und zu Gefahren führen.  
-Bei Tauwetter, aber auch bei Starkregenereignissen kommt es häufiger zu örtlichen Überflutungen und Erdrutschen.
+Das Klima ist alpin-gemäßigt. Im Gebirge kann es zu schwerem Schneefall, Lawinenabgängen und Erdrutschen kommen. Die Wetterlage kann sich sehr schnell ändern und zu Gefahren führen. Extremwetterlagen, insbesondere im alpinen Raum (Kantone Wallis, Graubünden, Tessin, Bern), aber auch in anderen Regionen mit Starkregen, Murgängen und Hochwasser, nehmen zu.  
+Bei Tauwetter kommt es häufiger zu örtlichen Überflutungen und Erdrutschen.
 
 * Informieren Sie sich zu aktuellen Hochwasser- und Lawinenwarnungen für Ihren jeweiligen Standort auch über die App [AlertSwiss.](http://www.alert.swiss/)
 * Holen Sie rechtzeitig Informationen beim [Schweizer Alpen Club - SAC](http://www.sac-cas.ch/) und von [Alpine Sicherheit](http://www.alpinesicherheit.ch/) ein.
@@ -32,19 +32,15 @@ Es sind derzeit vorübergehende Binnengrenzkontrollen an der deutsch-schweizeris
 
 ### Infrastruktur/Verkehr
 
-Die Schweiz hat ein hervorragendes, dichtes Netz von Verkehrsverbindungen mit Eisenbahnen, Bussen und Straßen- und Bergbahnen, die in der Regel bis in abgelegene Gebiete gut aufeinander abgestimmt sind.
+Die Schweiz hat ein hervorragendes, dichtes Netz von Verkehrsverbindungen mit Eisenbahnen, Bussen und Straßen- und Bergbahnen, die in der Regel bis in abgelegene Gebiete gut aufeinander abgestimmt sind. 
 
-Der Gotthard-Basistunnel ist nach der Entgleisung eines Güterzuges voraussichtlich bis September 2024 für den Personenverkehr gesperrt. Personenzüge verkehren auf der Gotthard-Panoramastrecke. Die Reisezeit verlängert sich dadurch um etwa eine Stunde. Weitere Informationen gibt die [Schweizerische Bundesbahnen AG (SBB).](https://www.sbb.ch/de)
+Auf allen Nationalstraßen (Autobahnen und Autostraßen) ist in der Schweiz eine Autobahnvignette erforderlich, die als Klebe- aber auch e-Vignette erhältlich ist. Informationen hierzu erteilt die [Eidgenössische Zollverwaltung](https://www.ezv.admin.ch/ezv/de/home/information-private/reisedokumente-und-strassenabgaben/vignette--autobahngebuehren-.html) und das [Online-Portal der Schweizer Behörden](https://www.ch.ch/de/autobahnvignette/).
 
-Auf allen Nationalstraßen (Autobahnen und Autostraßen) ist in der Schweiz eine Autobahnvignette erforderlich. Informationen hierzu erteilt die [Eidgenössische Zollverwaltung](https://www.ezv.admin.ch/ezv/de/home/information-private/reisedokumente-und-strassenabgaben/vignette--autobahngebuehren-.html) und das [Online-Portal der Schweizer Behörden](https://www.ch.ch/de/autobahnvignette/).
-
-Die Promillegrenze beträgt 0,5, für Fahranfänger (bis drei Jahre Fahrpraxis) 0,1. 
-
-Es besteht ganzjährig Lichtpflicht, d. h., dass auch tagsüber mit Abblend- oder Tagfahrlicht gefahren werden muss.
-
-Schienenfahrzeuge haben innerorts stets Vorrang. Auf Bergstraßen hat das aufwärtsfahrende Fahrzeug Vorfahrt.
-
-Eine Winterreifenpflicht besteht zwar nicht, jedoch kann eine Verkehrsbehinderung wegen Fahrens mit ungeeigneter Bereifung zu Geldbußen und ein Unfall mit Sommerreifen auf winterlichen Straßen zur Mithaftung führen. Lawinenabgänge und Erdrutsche können in den Bergregionen ganzjährig auftreten und zur temporären Sperrung von Straßen und Bahnstrecken führen.
+Die Promillegrenze beträgt 0,5, für Fahranfänger (bis drei Jahre Fahrpraxis) 0,1.  
+Es besteht ganzjährig Lichtpflicht, d. h., dass auch tagsüber mit Abblend- oder Tagfahrlicht gefahren werden muss.  
+Schienenfahrzeuge haben innerorts stets Vorrang. Auf Bergstraßen hat das aufwärtsfahrende Fahrzeug Vorfahrt.  
+Eine Winterreifenpflicht besteht zwar nicht, jedoch kann eine Verkehrsbehinderung wegen Fahrens mit ungeeigneter Bereifung zu Geldbußen und ein Unfall mit Sommerreifen auf winterlichen Straßen zur Mithaftung führen.  
+Lawinenabgänge, Erdrutsche und Überschwemmungen können in den Bergregionen ganzjährig auftreten und zur temporären Sperrung von Straßen und Bahnstrecken führen.
 
 Informationen zur aktuellen Straßen- und Verkehrslage können in der Schweiz unter Telefonnummer 163 sowie auf der Verkehrsinformationsseite des [Touring Clubs Schweiz (TCS)](https://www.tcs.ch/de/) abgefragt werden.
 
@@ -62,7 +58,7 @@ Weitere Informationen bieten das [Eidgenössische Bundesamt für Straßen ASTRA]
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -72,7 +68,7 @@ Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbeson
 
 ### Rechtliche Besonderheiten
 
-Die Geldstrafen für Verkehrsübertretungen sind in der Schweiz bedeutend höher als in Deutschland und können mit Wirkung vom 1. Mai 2024 auch dort vollstreckt werden. Bei erheblichen Geschwindigkeitsüberschreitungen (Rasen) drohen Geldstrafen, Freiheitsstrafen oder Entzug des Fahrzeugs bzw. Führerscheins, siehe auch *Infrastruktur/Verkehr.*
+Die Geldstrafen für Verkehrsübertretungen sind in der Schweiz bedeutend höher als in Deutschland und können seit Mai 2024 auch dort vollstreckt werden. Bei erheblichen Geschwindigkeitsüberschreitungen (Rasen) drohen Geldstrafen, Freiheitsstrafen oder Entzug des Fahrzeugs bzw. Führerscheins, siehe auch *Infrastruktur/Verkehr.*
 
 ### Geld/Kreditkarten
 

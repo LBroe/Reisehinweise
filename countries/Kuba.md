@@ -234,7 +234,7 @@ Dengue-Viren werden ganzjährig, insbesondere jedoch während der Regenzeit, dur
 Oropouche-Fieber ist eine durch das gleichnamige Virus ausgelöste Infektionskrankheit, die ähnlich wie Dengue-Fieber mit plötzlichen Fieberanstieg, starken Kopfschmerzen, Übelkeit und Erbrechen, Gelenk- und Gliederschmerzen und selten einer Hirnhautentzündung verläuft. Die Erkrankung wird vorwiegend nachts über Stechgnitzen sowie Stechmücken übertragen. Eine Therapie oder Impfung existiert nicht. Es gibt Hinweise, dass eine Infektion mit Oropouche-Viren in der Schwangerschaft zu Fehlbildungen beim ungeborenen Kind sowie zu Schwangerschaftskomplikationen oder Fehlgeburten führen kann.
 
 * Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere abends und nachts konsequent vor Mückenstichen.
-* Meiden Sie nicht notwendige Reisen während der Schwangerschaft und lassen Sie sich vor der Reise von Tropen- und/oder Reisemedizinern beraten.
+* Vermeiden Sie nicht notwendige Reisen während der Schwangerschaft und lassen Sie sich vor der Reise von Tropen- und/oder Reisemedizinern beraten.
 
 ### Chikungunya-Fieber
 
