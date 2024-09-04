@@ -191,7 +191,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht ein grundsätzliches HIV-Übertragungsrisiko.
 
-* Verwenden Sie stets Kondome.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 
 ### Durchfallerkrankungen
 

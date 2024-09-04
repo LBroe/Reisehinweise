@@ -12,7 +12,7 @@
 
 **Die Deutsche Botschaft Addis Abeba hat außerhalb der Hauptstadt Addis Abeba nur sehr eingeschränkte Möglichkeiten der konsularischen Hilfeleistung.** 
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### *Kampfhandlungen in der Region Amhara*
 
@@ -369,12 +369,12 @@ Die medizinische Versorgung in Äthiopien ist nicht mit der Versorgung in Deutsc
 
 ### Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen
 
-[Gelbfieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") und [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") sind schwerwiegende Erkrankungen, die durch Mücken übertragen werden. Der Anteil der gefährlichen Malaria tropica (*P. falciparum*) und Mischinfektionen beträgt 66%, 18% entfallen auf Malaria tertiana (*Plasmodium vivax*). Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") zur Verfügung. Das Malariarisiko ist saisonal und regional unterschiedlich:
+[Gelbfieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") und [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") sind schwerwiegende Erkrankungen, die durch Mücken übertragen werden. Der Anteil der gefährlichen Malaria tropica (*P. falciparum*) und Mischinfektionen beträgt 66%, 18% entfallen auf Malaria tertiana (*Plasmodium vivax*). Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Athiopien_Kenia.pdf) zur Verfügung. Das Malariarisiko ist saisonal und regional unterschiedlich:
 
 * Ganzjährig hohes Risiko: unterhalb von 2.500 Hm im ganzen Land inklusive der Stadt Lalibela
 * Ganzjährig geringes Risiko: Addis Abeba, Höhenlagen oberhalb 2.500 Hm
 
-Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjährig landesweit auftreten können: [Chikungunyafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber"), [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") , [Leishmaniasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") , [Lymphatische Filariosen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen") und [Zikavirus-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen").
+Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjährig landesweit auftreten können: [Chikungunyafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber") [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") [Leishmaniasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") [Lymphatische Filariosen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen") und [Zikavirus-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen").
 
 * Schützen Sie sich tagsüber, in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten").
 * Es gibt eine Impfung gegen Gelbfieber und Denguefieber. Lassen Sie sich bzgl. Ihres persönlichen Risikos beraten.
@@ -382,7 +382,7 @@ Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjähr
 
 ### Erkrankungen im Zusammenhang mit mangelnder Hygiene
 
-Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")), [Shigellose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/shigellose/2628936 "Shigellose") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") treten auch bei Reisenden auf. In Äthiopien wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") (cVDPV-2) nachgewiesen.
+Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E),](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") [Shigellose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/shigellose/2628936 "Shigellose") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") treten auch bei Reisenden auf. In Äthiopien wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") (cVDPV-2) nachgewiesen.
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise").
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
@@ -429,7 +429,7 @@ Reisen in große Höhe können mit besonderen Gefahren verbunden sein.
 
 * Beachten Sie unsere Informationen zur [Höhenkrankheit](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hoehenkrankheit/2519606 "Höhenkrankheit").
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
