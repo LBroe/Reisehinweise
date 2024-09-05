@@ -2,17 +2,20 @@
 
 ## Aktuelles
 
-### *Sicherheitslage*
-
 **Von Reisen in den Norden Kosovos (Gemeinden Zubin Potok, Leposavic, Zvecan und Nord-Mitrovica) wird abgeraten.**
 
-Im Norden Kosovos ist die Lage aufgrund politischer Zuspitzungen zwischen Kosovo und Serbien weiter angespannt. Im Verlauf des vergangenen Jahres kam es mehrfach zu Demonstrationen, Sachbeschädigungen und gewaltsamen Auseinandersetzungen, bei denen auch Dutzende von KFOR/NATO-Soldaten sowie mehrere Zivilisten und Polizisten verletzt wurden und im September 2023 u.a. ein Polizist getötet wurde.
+### *Sicherheitslage*
+
+Die Lage im Norden Kosovos ist weiterhin angespannt. Serbische Gruppen haben in den Medien dazu aufgerufen, Grenzübergänge zwischen Serbien bzw. Montenegro und Kosovo ab dem 6. September 2024 auf unbestimmte Zeit zu blockieren.
+
+Das kosovarische Außenministerium empfiehlt daher, Reisen nach und durch Serbien zu vermeiden.
+
+2023 kam es mehrfach zu Demonstrationen, Sachbeschädigungen und gewaltsamen Auseinandersetzungen, bei denen auch Dutzende von KFOR/NATO-Soldaten sowie mehrere Zivilisten und Polizisten verletzt wurden und im September 2023 u.a. ein Polizist getötet wurde.
 
 Die kosovarische Polizei, EULEX und KFOR haben ihre Präsenz in den betreffenden Gebieten verstärkt. Dennoch kann nicht ausgeschlossen werden, dass es zu weiteren sicherheitsrelevanten Vorkommnissen kommt, die auch Ausländer betreffen können. Ebenso kann es auch immer wieder anlassbezogene Schließungen einzelner Grenzübergänge zwischen Kosovo und Serbien geben.
 
-* Überprüfen Sie Ihre Reisepläne und verschieben Sie Reisen in den Norden Kosovos. Falls
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Meiden Sie Demonstrationen und Menschenansammlungen weiträumig.
+* Verfolgen Sie die Nachrichtenlage aufmerksam, überprüfen Sie ggf. Ihre Reisepläne und verschieben Sie Reisen in den Norden Kosovos. Falls Sie sich in den genannten Gebieten aufhalten, verzichten Sie möglichst auf Fahrten im Norden Kosovos.
+* Folgen Sie den Anweisungen lokaler Sicherheitskräfte und meiden Sie Demonstrationen und Menschenansammlungen weiträumig.
 * Informieren Sie sich in den lokalen Medien über die aktuelle Sicherheitslage.
 
 ## Sicherheit
@@ -24,6 +27,8 @@ Die kosovarische Polizei, EULEX und KFOR haben ihre Präsenz in den betreffenden
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
+
+Siehe *Aktuelles*
 
 Im Norden Kosovos ist die Lage weiterhin angespannt, insbesondere seitdem die Kosovo-Serben die kosovarischen Institutionen wie Polizei und Verwaltung im Herbst 2022 verlassen haben. Es besteht eine erhöhte Gefahr für gewaltsame Vorfälle. Trotz erhöhter Präsenz der internationalen Schutzmissionen EULEX und KFOR in den betreffenden Gebieten, gab es seit Ende Mai 2023 mehrfach sicherheitsrelevante Vorkommnisse, bei denen zum Teil auch Zivilpersonen zu Schaden kamen und am 24. September 2023 u.a. ein Polizist getötet wurde. Ebenso gab es über das Jahr hinweg auch immer wieder anlassbezogene Schließungen einzelner Grenzübergänge zwischen Kosovo und Serbien. Es kann nicht ausgeschlossen werden, dass es zu weiteren Vorfällen kommt, die auch Ausländer betreffen und die allgemeine Bewegungsfreiheit einschränken können.
 
@@ -40,12 +45,12 @@ Kosovo ist nach Einschätzung von UNMAAC mittlerweile weitgehend minenfrei. Denn
 
 ### Kriminalität
 
-Organisierte Kriminalität ist weit verbreitet. In Kosovo befinden sich mehrere hunderttausend illegale Schusswaffen in Privatbesitz; die Hemmschwelle zu deren Einsatz ist vergleichsweise niedrig. Die Kriminalität und der Einsatz von Waffengewalt richtet sich jedoch in aller Regel nicht gegen Ausländer. Kleinkriminalität wie Taschendiebstahl oder Handtaschenraub kommt nur vereinzelt vor.
+Organisierte Kriminalität ist weit verbreitet. In Kosovo befinden sich mehrere hunderttausend illegale Schusswaffen in Privatbesitz; die Hemmschwelle zu deren Einsatz ist vergleichsweise niedrig. Die Kriminalität und der Einsatz von Waffengewalt richten sich jedoch in aller Regel nicht gegen Ausländer. Kleinkriminalität wie Taschendiebstahl oder Handtaschenraub kommt nur vereinzelt vor.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen sowie am Flughafen, an Bahnhöfen und in Bussen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -68,7 +73,7 @@ Für Betrieb und Zulassung von Fahrzeugen in Kosovo ist an der Grenzübergangsst
 
 ### Führerschein
 
-Der deutsche Führerschein im EU- bzw. Kartenformat wird ohne weiteres akzeptiert.
+Der deutsche Führerschein im EU- bzw. Kartenformat wird anerkannt.
 
 ### LGBTIQ
 
@@ -82,7 +87,7 @@ Einverständliche sexuelle Handlungen unter Erwachsenen (abhängig von der Fallk
 
 ### Geld/Kreditkarten
 
-In Kosovo ist der EUR offizielle Währung. Zahlungen mit Kreditkarte sind in vielen Restaurants und größeren Geschäften möglich, nicht jedoch mit deutschen Bankkarten (auch EC-/Girokarten genannt). Das Bankensystem ist funktionstüchtig, das Netz der Geldautomaten mittlerweile auch außerhalb der großen Städte relativ gut ausgebaut. Auch an Geldautomaten ist die Nutzung von Kreditkarten zur Bargeldabhebung möglich, die Nutzung deutscher Bankkarten dagegen oft nicht.
+In Kosovo ist der EUR offizielle Währung. Zahlungen mit Kreditkarte sind in vielen Restaurants und größeren Geschäften möglich, nicht jedoch mit deutschen Debitkarten (Girocard). Das Bankensystem ist funktionstüchtig, das Netz der Geldautomaten mittlerweile auch außerhalb der großen Städte relativ gut ausgebaut. Auch an Geldautomaten ist die Nutzung von Kreditkarten zur Bargeldabhebung möglich, die Nutzung deutscher Bankkarten dagegen oft nicht.
 
 * Beachten Sie bei der Benutzung von Geldautomaten außerhalb von Bankfilialen die üblichen Vorsichtsmaßnahmen.
 
@@ -110,7 +115,7 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens drei Monate g�
 
 ### Visum
 
-Deutschen Staatsangehörige benötigen für die Einreise und den Aufenthalt von bis zu 90 Tagen kein Visum.
+Deutschen Staatsangehörige benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen kein Visum.
 
 Bei einem Aufenthalt von mehr als 90 Tagen muss eine Verlängerung der erlaubten Aufenthaltsdauer beantragt werden. Anträge auf Verlängerung der Aufenthaltsdauer sind 15 Tage vor Ablauf der 90-Tage-Frist beim Innenministerium, Abteilung DCAM, Referat für Ausländer, Visa und Aufenthaltserlaubnis zu stellen (Departamenti per Shtetesi, Azil dhe Migracion, Divizioni per te Huaj, Viza dhe Lejeqendrimi, Rr. Luan Haradinaj p. n., 10 000 Pristina).
 
@@ -193,7 +198,7 @@ Auch in Kosovo ist die klassische Geflügelpest (hochpathogene Form der aviären
 
 ### Luftverschmutzung
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone-App [IQAir](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -202,9 +207,7 @@ Eine medizinische Versorgung nach deutschem Standard ist in Kosovo nicht gewähr
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
