@@ -1,5 +1,9 @@
 # Brunei Darussalam: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Als Vorsorgemaßnahme gegen die Verbreitung des MPox-Virus werden seit dem 7. September 2024 Reisende vor Einreise in Brunei Darussalam aufgefordert, mittels der App „BruHealth“ eine Gesundheitserklärung („Travel Health Declaration“) abzugeben. Die „BruHealth“ App steht zum Download im App Store bei Apple bzw. über Google Play frei zur Verfügung. Näheres finden Sie auf der Webseite des [Gesundheitsministeriums von Brunei Darussalam.](https://www.moh.gov.bn/Pages/Home.aspx "Gesundheitsministerium") 
+
 ## Sicherheit
 
 ### Terrorismus
