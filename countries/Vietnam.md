@@ -1,5 +1,15 @@
 # Vietnam: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+**Von einem Besuch Nordvietnams – auch der Provinzen Sapa, Lao Cai und Ha Giang - wird dringend abgeraten.**
+
+In Nordvietnam besteht aktuell eine stark erhöhte Gefahr von Erdrutschen und Überschwemmungen. Ausgelöst durch Tropensturm Yagi haben schwere Niederschläge in den Provinzen nördlich und westlich von Hanoi Straßen, Verkehrswege und Infrastruktur beschädigt. Dies betrifft auch die Regionen Sapa, Lao Cai und Ha Giang. Straßen nach Sapa sind zum Teil von Erdrutschen betroffen, alle touristische Attraktionen sind geschlossen. In den kommenden Tagen wird mit weiteren Niederschlägen gerechnet.
+
+In den nördlichen Küstenregionen einschließlich der Halong-Bucht muss aufgrund von Schäden an der Infrastruktur und Stromversorgung mit Einschränkungen gerechnet werden. Bis auf Weiteres sind alle Ausflugsfahrten in der Halong-Bucht eingestellt.
+
+* Wenn Sie sich in diesen Regionen aufhalten, beachten Sie aktuelle Warnstufen der vietnamesischen Behörden und folgen Sie den Anweisungen der lokalen Autoritäten.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -10,11 +20,11 @@
 
 Demonstrationen in der Öffentlichkeit sind verboten und wurden in der Vergangenheit von den Sicherheitskräften aufgelöst. Die Teilnahme daran kann zu langer Untersuchungshaft und Verurteilung zu einer langen Freiheitsstrafe, unter harten Haftbedingungen führen, siehe Reiseinfos – *Rechtliche Besonderheiten, letzter Absatz*. Regierungskritische Posts in den sozialen Medien – auch wenn diese aus Deutschland heraus getätigt wurden - werden häufig strafrechtlich verfolgt.
 
-In den vergangenen Monaten gab es vereinzelte Fälle, in denen deutsche Staatsangehörige mit vietnamesischen Wurzeln vorübergehend an der Ausreise gehindert und polizeilich vernommen wurden. Hintergrund waren kritische Äußerungen über Vietnam/vietnamesische Politik in den sozialen Medien, z.T. auch aus dem Umfeld der Betroffenen. Eine Information der zuständigen deutschen Auslandsvertretungen durch die vietnamesischen Behörden erfolgte nicht.
+In den vergangenen Monaten gab es vereinzelte Fälle, in denen deutsche Staatsangehörige mit vietnamesischen Wurzeln vorübergehend an der Ausreise gehindert und polizeilich vernommen wurden. Hintergrund waren kritische Äußerungen über Vietnam und seine Politik in den sozialen Medien, z.T. auch aus dem Umfeld der Betroffenen. Eine Information der zuständigen deutschen Auslandsvertretungen durch die vietnamesischen Behörden erfolgte nicht.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Seien Sie sich bewusst, dass in Deutschland getätigte Äußerungen in den sozialen Medien in Vietnam wahrgenommen werden und aus Anlass von Vietnam-Reisen dort zu Konsequenzen (polizeiliche Verhöre, Ausreiseverweigerung oder –verzögerung) führen können.
+* Seien Sie sich bewusst, dass in Deutschland getätigte Äußerungen in den sozialen Medien in Vietnam wahrgenommen werden und aus Anlass einer Vietnam-Reise dort zu Konsequenzen (polizeiliche Verhöre, Ausreiseverweigerung oder –verzögerung) führen können.
 
 #### *Militärische Sperrgebiete und Aufenthalte in Grenznähe*
 
@@ -24,7 +34,7 @@ Diese sind nicht immer als solche gekennzeichnet bzw. lediglich durch Schilder i
 
 Bei beabsichtigten Besuchen in Grenznähe müssen gesondert zu beantragende Genehmigungen des Ministeriums für öffentliche Sicherheit mitgeführt werden.
 
-* Reisen Sie nicht in militärische Sperrgebiete, halten Sie sich nicht in der Nähe auf und achten Sie auf entsprechende Beschilderung.
+* Reisen Sie nicht in militärische Sperrgebiete, halten Sie sich nicht in ihrer Nähe auf und achten Sie auf entsprechende Beschilderung.
 * Beantragen Sie ggf. entsprechende Genehmigungen und führen diese mit sich. Erkundigen Sie sich ggf. vor Reiseantritt bei den örtlichen Volkskomitees oder Polizeibehörden, wenn Sie in Grenznähe und abseits der Hauptstrecken reisen möchten.
 
 ### Kriminalität
@@ -33,23 +43,23 @@ Die Kriminalitätsrate ist niedrig und es gibt wenig Gewaltkriminalität gegen A
 
 Reisende sollten bei Fahrten in Überlandbussen, insbesondere bei Nacht, Vorsicht walten lassen. Vereinzelt wurde von sexuellen Übergriffen berichtet, insbesondere alleinreisende Frauen sind betroffen. In solchen Fällen sollten Reisende immer auf einer Anzeige bestehen. Zuständig hierfür ist die Polizeibehörde am Zielbusbahnhof.
 
-In von Touristen frequentierten Bars oder Clubs größerer Städte als auch auf der Insel Cat Ba kommt es vereinzelt zum Einsatz von K.-o-Tropfen und in der Folge zu sexuellen Übergriffen.
+Sowohl in von Touristen frequentierten Bars oder Clubs größerer Städte als auch auf der Insel Cat Ba kommt es vereinzelt zum Einsatz von K.-o-Tropfen und in der Folge zu sexuellen Übergriffen.
 
-In Hanoi, vor allem am Hoan Kiem See, gibt es immer wieder Betrugsversuche. Vereinzelt verlangen Straßenverkäufer für das Fotografieren „Gebühren“, in anderen Fällen werden Schuhe von Touristen beschmutzt oder mit Klebstoff beschmiert, entzogen und eine „Rückgabegebühr“ verlangt. Fälle von Kreditkartenbetrug wurden bekannt, in denen Karten kopiert und Abbuchungen vorgenommen worden sind.
+In Hanoi, vor allem am Hoan-Kiem-See, gibt es immer wieder Betrugsversuche. Vereinzelt verlangen Straßenverkäufer für das Fotografieren „Gebühren“, in anderen Fällen werden Schuhe von Touristen beschmutzt oder mit Klebstoff beschmiert, entzogen und eine „Rückgabegebühr“ verlangt. Fälle von Kreditkartenbetrug wurden bekannt, in denen Karten kopiert und Abbuchungen vorgenommen worden sind.
 
 In Ho-Chi-Minh-Stadt, Nha Trang und Hanoi mehren sich Handtaschen- und Gepäckdiebstahl, sowohl von vorbeifahrenden Mopeds aus als auch nach Ablenkungsmanövern durch Kinderbanden, insbesondere bei Ankunft und Abreise vor dem Hotel.
 
-Ausländische Touristen werden in Ho-Chi-Minh-Stadt vermehrt unter verschiedenen Vorwänden angesprochen und in Privathäuser eingeladen beispielsweise mit Hinweisen auf eine Begegnung am Flughafen oder auf nahe Verwandte, die demnächst in Europa studieren oder arbeiten werden. Nach Schaffung einer gastfreundlichen und geselligen Atmosphäre werden die Opfer in fingierte Karten- bzw. Glücksspiele verwickelt, die sie verlieren, und unter Drohungen zur Zahlung angeblicher Spielschulden veranlasst werden. Der Einsatz von Drogen in Speisen oder Getränken kann nicht ausgeschlossen werden. Im Falle eines Diebstahls protokollieren weder die Ausländerpolizei in Hanoi noch andere Polizeidienststellen nachträglich Verlustanzeigen. In der Vergangenheit verweigerte die zuständige Polizeidienststelle mehrfach die Protokollaufnahme, vor allem dann, wenn Zweifel am Hergang der Tat oder an den Wertangaben bestanden.
+Ausländische Touristen werden in Ho-Chi-Minh-Stadt vermehrt unter verschiedenen Vorwänden angesprochen und in Privathäuser eingeladen beispielsweise mit Hinweisen auf eine Begegnung am Flughafen oder auf nahe Verwandte, die demnächst in Europa studieren oder arbeiten werden. Nach Schaffung einer gastfreundlichen und geselligen Atmosphäre werden die Opfer in fingierte Karten- bzw. Glücksspiele verwickelt, die sie verlieren, und unter Drohungen zur Zahlung angeblicher Spielschulden veranlasst. Der Einsatz von Drogen in Speisen oder Getränken kann nicht ausgeschlossen werden. Im Falle eines Diebstahls protokollieren weder die Ausländerpolizei in Hanoi noch andere Polizeidienststellen nachträglich Verlustanzeigen. In der Vergangenheit verweigerte die zuständige Polizeidienststelle mehrfach die Protokollaufnahme, vor allem dann, wenn Zweifel am Hergang der Tat oder an den Wertangaben bestanden.
 
 * Seien Sie in größeren Menschenmengen wie an Flughäfen und Bahnhöfen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf (z.B. im Safe); speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments. Denken Sie unbedingt daran, eine Kopie der Datenseite des Passes und des gültigen Einreisestempels mit sich zu führen, um sich bei einer Polizeikontrolle ausweisen zu können, siehe auch *Einreise und Zoll – Anmerkungen/Mindestrestgültigkeit.*
 * Lassen Sie - insbesondere in Bars oder Clubs - Ihre Getränke und Speisen  nicht unbeaufsichtigt.
-* Verzichten Sie nach Einbruch der Dunkelheit auf Fahrradtaxis (Cyclos) oder Motorradtaxis (Xe Om).
+* Verzichten Sie nach Einbruch der Dunkelheit auf Fahrradtaxis (Cyclos) und Motorradtaxis (Xe Om).
 * Fragen Sie vor dem Fotografieren von Straßenverkäufern um Erlaubnis.
 * Weisen Sie Angebote ggf. mit lauter Stimme als Abschreckungseffekt zurück und halten Sie sich von Schuhputzern möglichst fern.
 * Nehmen Sie keine Einladungen Ihnen Unbekannter in Privathäuser an.
 * Sollten Reisedokumente, Bargeld oder sonstige Wertgegenstände abhandenkommen, zeigen Sie den Verlust sofort bei der Polizei am Tatort an.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, privaten Einladungen und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, privaten Einladungen und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
