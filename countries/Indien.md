@@ -266,9 +266,9 @@ Der Besitz und die Nutzung von Satellitentelefonen ohne behördliche Genehmigung
 
 ### Aktuelles
 
-Im nördlichen Bezirk Kannur im indischen Bundesstaat Kerala wurden seit Ende Oktober 2023 mehrere Zikavirus-Infektionen bestätigt.
+Im westlichen Distrikt Pune im indischen Bundesstaat Maharashtra wird aktuell über einen Ausbruch von Zikavirus-Infektionen berichtet.
 
-Insbesondere Schwangeren und ihren Partnern sowie Paaren, die absehbar eine Schwangerschaft planen, wird bei Reisen nach Kannur eine ganztägige Expositionsprophylaxe sowie die Verwendung von Kondomen beim Geschlechtsverkehr während und nach der Reise empfohlen. Schwangere sollten die Notwendigkeit einer Reise kritisch abwägen. Nach einer Reise ins Ausbruchsgebiet sollte für den Rest der Schwangerschaft verhütet werden. Paare mit Kinderwunsch sollten nach Reiserückkehr für drei Monate verhüten, da die Zikavirus-Ausscheidung über das Sperma über diesen Zeitraum erfolgen kann, siehe *Zikavirus-Infektion**.*
+Insbesondere Schwangeren und ihren Partnern sowie Paaren, die absehbar eine Schwangerschaft planen, wird bei Reisen in den Bundesstaat Maharashtra eine ganztägige Expositionsprophylaxe gegen Mücken sowie die Verwendung von Kondomen beim Geschlechtsverkehr während und nach der Reise empfohlen. Schwangere sollten Reisen in diese Region vermeiden bzw. die Notwendigkeit einer Reise kritisch abwägen. Nach einer Reise ins Ausbruchsgebiet sollte für den Rest der Schwangerschaft verhütet werden. Paare mit Kinderwunsch sollten nach Reiserückkehr für drei Monate verhüten, da die Zikavirus-Übertragung über das Sperma über diesen Zeitraum erfolgen kann, siehe *Zikavirus-Infektion.*
 
 ### Impfschutz
 
@@ -277,10 +277,10 @@ Bei Einreise aus einem Gelbfiebergebiet ist eine [Gelbfieberimpfung](https://www
 
 Reisende mit Wohnsitz in Ländern mit [Poliomyelitis-Erkrankungen (Kinderlähmung)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") müssen eine Impfung nach WHO-Standard nachweisen, die mindestens vier Wochen und maximal ein Jahr vor Ausreise durchgeführt wurde. Für Ausländer, z. B. deutsche Staatsbürger, die in Poliomyelitis-infizierten Ländern leben und nach Indien reisen, ist eine Impfung nicht erforderlich. Genauso ist der Impfnachweis nicht erforderlich für Ausländer, die in Indien leben und in Poliomyelitis-infizierte Länder reisen.
 
-* Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
+* Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender der STIKO](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A und Typhus, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Tollwut, Hepatitis B und Japanische Enzephalitis empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen").
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://www.dtg.org/).
 
 ### Nipah-Virus-Infektion
 
@@ -292,7 +292,7 @@ Da für den Menschen weder eine Schutzimpfung noch eine ursächliche Therapie ge
 
 ### Zika-Virus-Infektion
 
-Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Viren kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen. In Indien konnten bereits mehrere Ausbrüche, zuletzt 2021 in Uttar Pradesh nachgewiesen werden.
+Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Viren kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen. In Indien kam es bereits zu mehreren Ausbrüchen. Erhöhte Fallzahlen wurden zuletzt 2023 aus Kerala gemeldet.
 
 * Beachten Sie für Ihre Reise die Empfehlungen, siehe [Zika-Virus-Infektion.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen")
 
@@ -311,19 +311,19 @@ Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen, zunehmend w
 
 ### Malaria
 
-Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche *Malaria tropica* bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria")
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132) ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Der Anteil an der überwiegend vorkommenden [Malaria tropica](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132) (*Plasmodium falciparum)* und Mischinfektionen beträgt 57%, 43% entfallen auf die [Malaria tertiana](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132) (*Plasmodium vivax*). Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudasien.pdf) zur Verfügung. Das Malariarisiko ist regional unterschiedlich.
 
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
+- Ganzjährig hohes Risiko: In Gebieten unter 2.000 Hm: Teilgebiete im Osten und Nordosten.
 
-Außer in Höhenlagen über 2.000 m von Himachal Pradesh, Jammu, Kashmir und Sikkim besteht in Indien ganzjährig ein Übertragungsrisiko für Malariaerkrankungen. Ein hohes Risiko besteht in den östlichen und nordöstlichen Teilgebieten unter 2.000 m. Ein mittleres Risiko liegt unter 2.000 m in weiteren Teilgebieten im Osten und Nordosten sowie auf den Nicobaren vor. Ein geringes Risiko besteht in den übrigen Gebieten unterhalb 2.000 m, inklusive Neu-Delhi, Kalkutta, Mumbai, Rajasthan sowie auf den Andamanen. Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html) zur Verfügung.
+- Ganzjährig mittleres Risiko: In Gebieten unter 2.000 Hm in weiteren Teilgebieten im Osten und Nordosten sowie auf den Nicobaren.
 
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
+- Ganzjährig geringes Risiko: In den übrigen Gebieten unterhalb 2.000 Hm, inklusive New Delhi, Kalkutta, Mumbai, Rajasthan sowie auf den Andamanen.
 
-* Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
-* Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
+- Malariafrei: In Höhenlagen über 2.000 Hm von Himachal Pradesh, Jammu, Kashmir und Sikkim.
 
-Bei Reisen in Gebiete mit mittlerem Malariarisiko, die mehr als 48 Stunden von der nächsten medizinischen Einrichtung mit Möglichkeit zur Malariadiagnostik und -therapie entfernt sind, ist die Mitnahme von entsprechenden Medikamenten zur notfallmäßigen Selbstbehandlung empfohlen.
+* Schützen Sie sich in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658).
+* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten .
+* Bei Reisen in Gebiete mit mittlerem Malariarisiko, die mehr als 48 Stunden von der nächsten medizinischen Einrichtung mit Möglichkeit zur Malariadiagnostik und -therapie entfernt sind, ist die Mitnahme entsprechender Medikamente zur notfallmäßigen Selbstbehandlung empfohlen. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### HIV/AIDS
 
