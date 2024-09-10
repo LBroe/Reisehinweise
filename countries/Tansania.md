@@ -1,5 +1,17 @@
 # Tansania: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+##### Verpflichtende Versicherung bei der Einreise nach Sansibar ab 1. Oktober 2024
+
+Ab dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
+
+Sie können diese Versicherung nur bei der ZIC abschließen. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können ab dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44,-USD pro Person. Weitere Informationen finden Sie auf der Website von [Visit Zanzibar](https://visitzanzibar.go.tz/).
+
+Die Einreise kann verweigert werden, wenn Sie nicht die richtige Versicherung haben.
+
+Wenn Sie Fragen haben, die nicht auf der Website beantwortet werden, wenden Sie sich unter der E-Mailadresse [inbound@zic.co.tz](mailto:inbound@zic.co.tz) unmittelbar an die ZIC.
+
 ## Sicherheit
 
 **Von nicht notwendigen Reisen in den südlichen Teil der Region Mtwara (unmittelbare Grenzregion zu Mosambik) wird**abgeraten.**
@@ -55,7 +67,7 @@ Es häufen sich zudem Fälle, bei denen Fußgängern Taschen oder Rucksäcke von
 * Meiden Sie nicht bewachte Strände und einsam gelegene Gegenden, aber auch Strände innerhalb der Küstenstädte auch tagsüber.
 * Leisten Sie bei einem Überfall keinen Widerstand.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und im Bus, aber auch beim Geldabheben, besonders vorsichtig.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen skeptisch und vorsichtig. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -158,6 +170,16 @@ Reisedokumente müssen noch mindestens sechs Monate über die Reise hinaus gült
 Deutsche Staatsangehörige benötigen für die Einreise nach Tansania ein Visum. Es sollte vor der Einreise als [E-Visum](https://visa.immigration.go.tz) beantragt und bezahlt werden. Die Bearbeitungszeit beträgt mindestens zehn Arbeitstage. Die Deutsche Botschaft Daressalam kann zum Stand der Bearbeitung keine Auskunft erteilen. Diese und ggf. weitere Informationen zum Verfahren erteilen das zuständige tansanische [Immigration Department](http://www.immigration.go.tz/index.php/immigration-services/visa-information) sowie die [Botschaft von Tansania in Berlin](https://de.tzembassy.go.tz/).
 
 Neben der vorherigen Einholung des Visums vor der Einreise kann zum Zweck touristischer Reisen ein sog. „Visa on Arrival“ bei Einreise beantragt werden. Die Ausstellung ist jedoch nicht garantiert und zudem muss mit Wartezeit gerechnet werden. Die Kosten betragen zurzeit 50 USD pro Visum (auch minderjährige Kinder), zahlbar bei Einreise per Kreditkarte oder bar in passenden USD-Noten (50/100 USD), siehe auch *Reiseinfos - Geld/Kreditkarten.*
+
+##### **Verpflichtende Versicherung bei Einreise nach Sansibar ab 1. Oktober 2024**
+
+Ab dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
+
+Sie können diese Versicherung nur bei der ZIC abschließen. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können ab dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44,-USD pro Person. Weitere Informationen finden Sie auf der Website von [Visit Zanzibar](https://visitzanzibar.go.tz/).
+
+Die Einreise kann verweigert werden, wenn Sie nicht die richtige Versicherung haben.
+
+Wenn Sie Fragen haben, die nicht auf der Website beantwortet werden, wenden Sie sich unter der E-Mailadresse [inbound@zic.co.tz](mailto:inbound@zic.co.tz) unmittelbar an die ZIC.
 
 ### Minderjährige
 
