@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Als Vorsorgemaßnahme gegen die Verbreitung des MPox-Virus werden seit dem 7. September 2024 Reisende vor Einreise in Brunei Darussalam aufgefordert, mittels der App „BruHealth“ eine Gesundheitserklärung („Travel Health Declaration“) abzugeben. Die „BruHealth“ App steht zum Download im App Store bei Apple bzw. über Google Play frei zur Verfügung. Näheres finden Sie auf der Webseite des [Gesundheitsministeriums von Brunei Darussalam.](https://www.moh.gov.bn/Pages/Home.aspx "Gesundheitsministerium") 
+Als Vorsorgemaßnahme gegen die Verbreitung des MPox-Virus müssen Reisende vor Einreise in Brunei Darussalam mittels der App „**[BruHealth](https://www.healthinfo.gov.bn/travel#/user/login)**“ eine Gesundheitserklärung („Travel Health Declaration“) abgeben. Die „BruHealth“-App kann kostenfrei im App Store von Apple oder über Google Play heruntergeladen werden. Alternativ kann die Erklärung auch mittels eines Online-Formulars abgegeben werden. Ausführlichere Auskünfte finden Sie auf der **[Webseite](https://www.moh.gov.bn/Pages/Home.aspx)** des Gesundheitsministeriums von Brunei Darussalam.
 
 ## Sicherheit
 
@@ -23,7 +23,7 @@ Die Kriminalitätsrate in Brunei Darussalam ist niedrig. Gewaltkriminalität kom
 
 * Lassen Sie die übliche Vorsicht gegen Kleinkriminalität walten.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdgkeit oder wenden Sie sich an die Polizei.
 
@@ -37,9 +37,9 @@ In der Regenzeit von September bis Januar und von Mai bis Juli kommt es zu monsu
 In den Gewässern Bruneis sind Krokodile heimisch. Sie wurden auch an Stränden und auf den Golfplätzen in Panaga und Pantai Mentiri gesichtet.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
-* Beachten Sie die vorhandenen Warnhinweise zu Krokodilvorkommen und seien Sie an der Küste, am Brunei River und seinen Zuflüssen sowie an küstennahen Teichen besonders aufmerksam.
+* Beachten Sie die vorhandenen Warnhinweise zu Krokodilvorkommen und seien Sie an der Küste, am Fluss Brunei und seinen Zuflüssen sowie an küstennahen Teichen besonders aufmerksam.
 
 ## Reiseinfos
 
@@ -74,15 +74,15 @@ Homosexuelle Handlungen, auch im Privatleben, sind strafbar.
 
 ### Rechtliche Besonderheiten
 
-Das Sultanat Brunei Darussalam hat Verschärfungen im Scharia-Strafrecht (Sharia Penal Code, SPC) umgesetzt. Es gilt parallel zu einem Strafrecht nach britischem Vorbild (common law).
+Das Sultanat Brunei Darussalam hat Verschärfungen im Scharia-Strafrecht (Sharia Penal Code, SPC) umgesetzt. Es gilt parallel zum säkularen Strafrecht nach englischem Vorbild (common law).
 
 Das SPC sieht u.a. harte Körperstrafen vor, bis hin zur Amputation von Gliedmaßen (Diebstahl) und der Todesstrafe durch Steinigung. Zahlreiche Straftatbestände im bruneiischen SPC betreffen auch Nicht-Muslime.
 
 In der Praxis wird in Brunei die Prügelstrafe auf der Basis des säkularen Rechts (common law) und auf der Basis des SPC verhängt und durchgeführt. Die Amputation von Gliedmaßen, die auf Basis des SPC möglich wäre, wurde bisher weder verhängt noch ausgeführt.
 
-Für die Vollstreckung der Todesstrafe sowohl auf Basis des säkularen Rechts wie auf Basis des SPC gilt ein zeitlich unbefristetes Moratorium; sie wird derzeit nicht vollstreckt (und wurde auf Basis des SPC bisher auch nicht verhängt).
+Die Todesstrafe wird in sehr seltenen Fällen verhängt, jedoch nicht vollstreckt.Für die Vollstreckung der Todesstrafe sowohl auf Basis des säkularen Rechts wie auf Basis des SPC gilt ein zeitlich unbefristetes Moratorium.
 
-Unabhängig von Nationalität oder Religionszugehörigkeit der Person kann unter anderem für die folgenden, im SPC benannten Straftatbestände die Todesstrafe durch Steinigung verhängt werden:
+Unabhängig von Nationalität und Religionszugehörigkeit der Person kann unter anderem für die folgenden, im SPC benannten Straftatbestände die Todesstrafe durch Steinigung verhängt werden:
 
 * Homosexuelle Handlungen, auch im Privatleben, wenn einer der Beteiligten Muslim oder Muslima ist,
 * Ehebruch, wenn einer der Beteiligten Muslim oder Muslima ist,
@@ -127,9 +127,9 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate 
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise nach Brunei zu touristischen oder geschäftlichen Zwecken kein Visum, wenn die Aufenthaltsdauer 90 Tage nicht überschreitet.
+Deutsche Staatsangehörige benötigen für die Einreise nach Brunei zu touristischen und geschäftlichen Zwecken kein Visum, wenn die Aufenthaltsdauer 90 Tage nicht überschreitet.
 
-Für Einreisen zu Studienzwecken oder eine Arbeitsaufnahme gelten Sonderregelungen.
+Für Einreisen zu Studienzwecken und zur Arbeitsaufnahme gilt die Visumspflicht.
 
 ### Minderjährige
 
@@ -137,15 +137,15 @@ Minderjährige können auch mit nur einem erziehungsberechtigten Elternteil zusa
 
 ### Einfuhrbestimmungen
 
-Die Einfuhr von Devisen ist unbeschränkt möglich, für hohe Summen besteht Deklarierungspflicht. Die entsprechenden Deklarierungsvorschriften auf den Einreisekarten sind zu beachten.
+Die Einfuhr von Devisen ist unbeschränkt möglich, für hohe Summen besteht Deklarierungspflicht. Die entsprechenden Deklarierungsvorschriften auf den elektronischen Einreisekarten sind zu beachten.
 
-Für Alkohol gilt eine Einfuhrbeschränkung für Nicht-Muslime über 17 Jahren auf zwei Liter-Flaschen Wein oder zwei Liter-Flaschen höherprozentige Getränke sowie 12 Dosen Bier (jeweils 330 ml) pro Person. Muslime dürfen keinen Alkohol einführen. Zwischen einer erneuten Einfuhr der o.g. Getränke müssen mindestens 48 Stunden liegen. Die Ware ist bei der Einreise zu deklarieren. Die Zollbescheinigung sollte wegen möglicher späterer Inspektionen vorgehalten werden, um sich nicht dem Verdacht der illegalen Einfuhr auszusetzen.
+Für Alkohol gilt eine Einfuhrbeschränkung für Nicht-Muslime über 17 Jahren auf zwei Liter-Flaschen Wein oder zwei Liter-Flaschen höherprozentige Getränke sowie zwölf Dosen Bier (jeweils 330 ml) pro Person. Muslime dürfen keinen Alkohol einführen. Zwischen einer erneuten Einfuhr der o.g. Getränke müssen mindestens 48 Stunden liegen. Die Ware ist vor der Einreise mittels der App „customs.bn“, die bei Apple im App Store und bei Google Play frei heruntergeladen werden kann, zu deklarieren. Sie kann auch an bei der Zollkontrolle bereitstehenden Terminals deklariert werden.
 
 Bei exotischen Souvenirs ist Vorsicht geboten. Reisende sollten sich bereits vor Antritt ihrer Reise darüber informieren, welche Reiseandenken aus Artenschutzgründen und aufgrund strenger Ausfuhrbestimmungen nicht ausgeführt werden dürfen.
 
 ### Heimtiere
 
-Die Einfuhr von Haustieren bedarf der vorherigen Genehmigung durch die Landwirtschaftsabteilung des bruneiischen Wirtschaftsministeriums. Diese setzt die Vorlage eines ärztlichen Gesundheitszeugnisses des Herkunftslandes sowie eines Nachweises über die Durchführung der für Katzen und Hunde vorgeschriebenen Tollwutimpfungen voraus. Eine mehrmonatige Quarantäne (bis zu 180 Tagen) zu Lasten des Tierhalters ist unumgänglich. Die lange Quarantäne kann auf Einzelantrag und je nach Umständen eventuell durch eine Hausquarantäne mit Überwachungsbesuchen der Behörden ersetzt bzw. verkürzt werden.
+Die Einfuhr von Haustieren bedarf der vorherigen Genehmigung durch die Landwirtschaftsabteilung des bruneiischen Wirtschaftsministeriums. Diese setzt die Vorlage eines ärztlichen Gesundheitszeugnisses des Herkunftslandes sowie eines Nachweises über die Durchführung der für Katzen und Hunde vorgeschriebenen Tollwutimpfungen voraus. Eine mehrmonatige Quarantäne (bis zu 180 Tagen) auf Kosten des Tierhalters ist unumgänglich. Die lange Quarantäne kann auf Einzelantrag und je nach Umständen eventuell durch eine Hausquarantäne mit Überwachungsbesuchen der Behörden ersetzt bzw. verkürzt werden.
 
 ## Gesundheit
 
