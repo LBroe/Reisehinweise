@@ -2,17 +2,17 @@
 
 ## Aktuelles
 
-In Nordvietnam besteht aktuell eine stark erhöhte Gefahr von Erdrutschen und Überschwemmungen. Ausgelöst durch Tropensturm Yagi haben schwere Niederschläge in den Provinzen nördlich und westlich von Hanoi Straßen, Verkehrswege und Infrastruktur beschädigt. Dies betrifft auch die Regionen Sapa, Lao Cai, Cao Bang, Ha Giang sowie Quang Ninh. Straßen nach Sapa sind zum Teil durch Erdrutsche betroffen, alle touristische Attraktionen sind geschlossen. In den kommenden Tagen wird mit weiteren Niederschlägen gerechnet.
+**Von einem Besuch Nordvietnams – auch der Provinzen Sapa, Lao Cai, Cao Bang, Quang Ninh und Ha Giang - wird dringend abgeraten.**
 
-**Es wird dringend davon abgeraten, in diese Gebiete zu reisen.**
+In Nordvietnam besteht aktuell eine stark erhöhte Gefahr von Erdrutschen und Überschwemmungen. Ausgelöst durch Tropensturm Yagi haben schwere Niederschläge in den Provinzen nördlich und westlich von Hanoi Straßen, Verkehrswege und Infrastruktur beschädigt. Dies betrifft auch die Regionen Sapa, Lao Cai, Cao Bang, Quang Ninh und Ha Giang. Straßen nach Sapa sind zum Teil durch Erdrutsche betroffen, alle touristische Attraktionen sind geschlossen. In den kommenden Tagen wird mit weiteren Niederschlägen gerechnet.
 
-Wenn Sie sich in diesen Regionen aufhalten, beachten Sie aktuelle Warnstufen der vietnamesischen Behörden und folgen Sie den Anweisungen der lokalen Behörden.
+In den nördlichen Küstenregionen einschließlich der Halong-Bucht muss aufgrund von Schäden an der Infrastruktur und Stromversorgung mit Einschränkungen gerechnet werden. Bis auf Weiteres sind alle Ausflugsfahrten in der Halong-Bucht eingestellt.
 
-In den nördlichen Küstenregionen, einschließlich Halong Bay, muss aufgrund von Schäden an der Infrastruktur und Stromversorgung mit Einschränkungen gerechnet werden. Bis auf Weiteres sind alle Ausflugsfahrten in der Halong Bucht eingestellt.
+Es besteht überall in der Region, einschließlich Hanoi, die Gefahr von Baumbruch und umstürzender Bäume.
 
-Es besteht überall in der Region, einschließlich Hanoi, die Gefahr von Baumbruch und umstürzenden Bäumen.
+Aufgrund starker Regenfälle steigen entlang des Roten Flusses aktuell die Wasserpegel stark an. In Hanoi werden daher in folgenden Bezirken Überschwemmungen erwartet: Tay Ho, vor allem Phu Truong/Ciputra, Long Bien, Hoan Kiem und Gia Lam. Die Brücke Chuong Duong in Hanoi ist ab dem Vormittag des 10. September 2024 für Lkws, Transporter und Busse gesperrt. Möglicherweise werden weitere Brücken gesperrt werden. Bis mindestens 11. September wird ein weiterer Anstieg der Wasserpegel des Roten Flusses wie auch anderer Flüsse in Nordvietnam erwartet. Für die kommenden Tage werden für ganz Nordvietnam, einschließlich Hanoi, weitere starke Regenfälle vorhergesagt.
 
-Aufgrund starker Regenfälle steigen entlang des Roten Flusses aktuell die Wasserpegel stark an. In Hanoi werden daher in folgenden Bezirken Überschwemmungen erwartet: Tay Ho, vor allem Phu Truong /Ciputra, Long Bien, Hoan Kiem und Gia Lam. Die Brücke Chuong Duong in Hanoi ist ab dem Vormittag des 10.09.2024 für LKW und Transporter/Busse gesperrt. Möglicherweise werden weitere Brücken gesperrt werden. Bis mindestens 11.09. wird ein weiterer Anstieg des Wasserpegels sowohl im Roten Fluss als auch in anderen Flüssen in Nordvietnam erwartet. Für die kommenden Tage werden in der ganzen Region Nordvietnam, einschließlich Hanoi, weitere starke Regenfälle erwartet.
+* Wenn Sie sich in diesen Regionen aufhalten, beachten Sie aktuelle Warnstufen der vietnamesischen Behörden und folgen Sie den Anweisungen der lokalen Autoritäten.
 
 ## Sicherheit
 
