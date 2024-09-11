@@ -6,7 +6,7 @@
 
 Mit Wirkung vom 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
-Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
+Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September 2024 erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
 
 Die Einreise kann verweigert werden, wenn nicht die richtige Versicherung nachgewiesen wird.
 

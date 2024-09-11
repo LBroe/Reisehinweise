@@ -112,7 +112,7 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate 
 
 Deutsche Staatsangehörige benötigen für die Einreise von bis zu 90 Tagen kein Visum.  
 Bei Einreise wird eine entsprechende Aufenthaltsgenehmigung für 90 Tage erteilt.  
-Die Überschreitung kann streng geahndet werden. Informationen zu Einreisebestimmungen bietet [Singapore Government](https://www.mfa.gov.sg/Services/Visitors/Visa-Information).
+Die Überschreitung kann streng geahndet werden. Informationen zu Einreisebestimmungen bietet [Singapore Government](https://www.mfa.gov.sg/Consular-Services/Visitors/Visa-Information).
 
 ### Längerfristiger Aufenthalt
 
