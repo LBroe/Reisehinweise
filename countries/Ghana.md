@@ -10,6 +10,10 @@
 
 **Von Reisen in den Norden in die Grenzgebiete zu C**ôte d’Ivoire wird abgeraten.**
 
+### *Kriminalität*
+
+In den Provinzen Northern Region, North-East, Savannah Region, Upper West und Upper East wird die Sicherheitslage durch gewalttätige Auseinandersetzungen zwischen lokalen Bevölkerungsgruppen untereinander und mit den eingesetzten Sicherheitskräften beeinträchtigt. Im Januar 2024 ereigneten sich fünf Vorfälle, bei denen insgesamt zwölf Menschen durch Schüsse getötet und weitere Menschen verletzt wurden. Die Angriffe erfolgen auch zur Tageszeit und an zentralen und belebten Orten. Nach Angaben der Polizei soll im selben Zeitraum außerdem ein Anschlag mittels einer Panzerfaust auf eine innerstädtische Tankstelle in Bawku verhindert worden sein.
+
 ### *Demonstrationen*
 
 Angesichts der erheblich verschlechterten wirtschaftlichen Lage kann es landesweit vermehrt zu Demonstrationen kommen, insbesondere in den größeren Städten Accra, Kumasi, Tamale und Takoradi. In der Vergangenheit sind diese friedlich verlaufen. Aufgrund der stark gewachsenen Unzufriedenheit der Bevölkerung können gewalttätige Auseinandersetzungen jedoch nicht ausgeschlossen werden.
@@ -51,6 +55,8 @@ Schließung von Geschäften und auch Verhängung von Ausgangssperren können die
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
+
+Siehe *Aktuelles*
 
 Die Kriminalitätsrate ist im regionalen Vergleich gering, steigt aber derzeit aufgrund der schlechten wirtschaftlichen Lage und der exponentiell angestiegenen Preise. Mit vermehrten Eigentumsdelikten (Raubüberfälle, Einbrüche, Diebstähle) muss gerechnet werden. Die Sichtbarkeit der Polizei wurde insbesondere in Accra erhöht.
 
@@ -130,7 +136,7 @@ Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 ### LGBTIQ
 
-Das ghanaische Strafrecht sieht für homosexuelle Handlungen mehrjährige Haftstrafen vor, auch wenn es bisher keine Verurteilungen gab. Am 28. Februar 2024 verabschiedete das ghanaische Parlament den „Human Sexual Rights and Family Values Act“, der bei Inkrafttreten den Straftatenkatalog erweitern und verschärfen würde. Darunter könnten auch die persönliche Identifikation als LGBTIQ+-Person sowie unterstützenden Aktivitäten fallen. Das Gesetzgebungsverfahren ist noch nicht abgeschlossen und sein Ausgang auch vor dem Hintergrund mehrerer anhängiger Klageverfahren ungewiss.
+Das ghanaische Strafrecht sieht für homosexuelle Handlungen mehrjährige Haftstrafen vor, auch wenn es bisher keine Verurteilungen gab. Im Februar 2024 verabschiedete das ghanaische Parlament den „Human Sexual Rights and Family Values Act“, der bei Inkrafttreten den Straftatenkatalog erweitern und verschärfen würde. Darunter könnten auch die persönliche Identifikation als LGBTIQ+-Person sowie unterstützenden Aktivitäten fallen. Das Gesetzgebungsverfahren ist noch nicht abgeschlossen und sein Ausgang auch vor dem Hintergrund mehrerer anhängiger Klageverfahren ungewiss.
 
 Unabhängig von der Gesetzeslage sind als queer erkennbare Menschen nicht selten in der Öffentlichkeit Anfeindungen ausgesetzt.  Die Toleranz gegenüber LGBTIQ-Personen ist sehr gering. Die meisten Ghanaer haben eine ablehnende Haltung.
 
@@ -178,7 +184,7 @@ Reisedokumente müssen sechs Monate über die Reise hinaus gültig sein.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vor der Einreise bei der [Botschaft der Republik Ghana in Berlin](https://ghanaemberlin.de/consular-section/visa/) beantragt werden muss.
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vor der Einreise bei der [Botschaft der Republik Ghana in Berlin](https://berlin.ghanagovernmentmission.com/portal/) beantragt werden muss.
 
 Der Antrag wird [online](https://berlin.ghanagovernmentmission.com/portal) gestellt, woraufhin Gebühren überwiesen und vollständige Antragsunterlagen einschließlich des Reisepasses an die Botschaft von Ghana in Berlin per Post oder persönlich übermittelt werden müssen.
 
@@ -294,9 +300,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
