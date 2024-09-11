@@ -16,14 +16,14 @@ Die Sicherheitslage in Timor-Leste ist grundsätzlich stabil, birgt jedoch anges
 
 ### Kriminalität
 
-Taschendiebstähle, teilweise auch bewaffnete Überfälle und Einbrüche kommen landesweit vor, am häufigsten in der Hauptstadt Dili. Außerdem kommt es zu Gewalttaten lokaler Banden.
+Taschendiebstähle, teilweise auch bewaffnete Überfälle und Einbrüche kommen landesweit gelegentlich vor, am häufigsten in der Hauptstadt Dili. Außerdem kommt es zu Gewalttaten lokaler Banden.
 
 Insbesondere alleinreisende Frauen sind einer erhöhten Gefährdung durch sexuelle Belästigung und Übergriffe in abgelegenen Stadtteilen, allein am Strand oder an wenig frequentierten Orten, ausgesetzt.
 
 * Benutzen Sie bei Dunkelheit auch für kürzere Strecken ein registriertes Taxi von Tür zu Tür (Corrotrans Taxi).
 * Seien Sie, wenn Sie als alleinreisende Frau unterwegs sind, besonders vorsichtig und meiden Sie abgelegene Orte.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen, sofern möglich, und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug, sofern möglich, und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen und in Bussen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen skeptisch und vorsichtig. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -76,7 +76,7 @@ Bei Verstößen gegen die lokalen Gesetze muss ggf. mit langer Untersuchungshaft
 
 ### Geld/Kreditkarten
 
-Zahlungsmittel ist der USD; ergänzend gibt es eigenes Münzgeld. Das Abheben von Bargeld an Geldautomaten ist nur begrenzt möglich; an Kreditkarten wird ausschließlich Visa akzeptiert, und dies nur an Geldautomaten von BNU (Banco Nacional Ultramarino) bis zu einem Betrag von 300 USD pro Abhebung bei maximal zwei Abhebungen pro Tag. Außerhalb der Hauptstadt Dili sind Geldautomaten kaum vorhanden und Kreditkarten werden kaum akzeptiert.. Die Mitnahme von Bargeld in USD ist empfehlenswert.
+Zahlungsmittel ist der USD; ergänzend gibt es eigenes Münzgeld. Das Abheben von Bargeld an Geldautomaten ist nur begrenzt möglich; an Kreditkarten werden Mastercard und Visa akzeptiert, und dies nur an Geldautomaten der BNU (Banco Nacional Ultramarino) bis zu einem Betrag von 300 USD pro Abhebung bei maximal drei Abhebungen pro Tag. Außerhalb der Hauptstadt Dili sind Geldautomaten kaum vorhanden und Kreditkarten werden kaum akzeptiert.. Die Mitnahme von Bargeld in USD ist empfehlenswert.
 
 ## Einreise und Zoll
 
@@ -112,7 +112,7 @@ Bezüglich der Einreise unbegleiteter Minderjähriger nach Timor-Leste wenden Si
 
 ### Einfuhrbestimmungen
 
-Die Ein- und Ausfuhr von Devisen ist unbegrenzt möglich.
+Bei einer Einfuhr von über 20. 000 USD wird eine Genehmigung der Zentralbank benötigt. Summen zwischen 5.000 und 20.000 USD müssen bei der Einreise angegeben werden.
 
 ### Heimtiere
 
