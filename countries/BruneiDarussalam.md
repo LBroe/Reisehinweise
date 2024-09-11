@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Als Vorsorgemaßnahme gegen die Verbreitung des MPox-Virus müssen Reisende vor Einreise in Brunei Darussalam mittels der App „**[BruHealth](https://www.healthinfo.gov.bn/travel#/user/login)**“ eine Gesundheitserklärung („Travel Health Declaration“) abgeben. Die „BruHealth“-App kann kostenfrei im App Store von Apple oder über Google Play heruntergeladen werden. Alternativ kann die Erklärung auch mittels eines Online-Formulars abgegeben werden. Ausführlichere Auskünfte finden Sie auf der **[Webseite](https://www.moh.gov.bn/Pages/Home.aspx)** des Gesundheitsministeriums von Brunei Darussalam.
+Als Vorsorgemaßnahme gegen die Verbreitung des MPox-Virus müssen Reisende vor Einreise in Brunei Darussalam mittels der App „**BruHealth**“ eine Gesundheitserklärung („Travel Health Declaration“) abgeben. Die „BruHealth“-App kann kostenfrei im App Store von Apple oder über Google Play heruntergeladen werden. Alternativ kann die Erklärung auch mittels eines [Online-Formulars](https://www.healthinfo.gov.bn/travel#/user/login) abgegeben werden. Ausführlichere Auskünfte finden Sie auf der **[Webseite](https://www.moh.gov.bn/Pages/Home.aspx)** des Gesundheitsministeriums von Brunei Darussalam.
 
 ## Sicherheit
 

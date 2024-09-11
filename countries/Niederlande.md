@@ -48,7 +48,7 @@ In Oranjestad, Aruba und in Willemstad, Curação gibt es [deutsche Honorarkonsu
 
 ### Infrastruktur/Verkehr
 
-Es gibt in den Niederlanden ein sehr dichtes Eisenbahn- und Busnetz sowie guten lokalen öffentlichen Nahverkehr. In Amsterdam und Rotterdam gibt es außerdem ein U-Bahnnetz. Als Routenplaner kann zum Beispiel [9292.nl](https://9292.nl/en/my9292-overview) genutzt werden.
+Es gibt in den Niederlanden ein sehr dichtes Eisenbahn- und Busnetz sowie guten lokalen öffentlichen Nahverkehr. In Amsterdam und Rotterdam gibt es außerdem ein U-Bahnnetz.
 
 In den meisten Hotels sowie an Bahnhöfen und touristisch stark frequentierten Standorten können Fahrräder angemietet werden. Viele Einkaufszentren und öffentliche Gebäude verfügen über überwachte Abstellmöglichkeiten. Bei Unfällen mit Radfahrern und Fußgängern haftet grundsätzlich der Autofahrer, unabhängig von der Schuldfrage.
 
@@ -59,7 +59,7 @@ Bußgeld- und Gebührenzahlungen werden in den Niederlanden sehr streng kontroll
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
