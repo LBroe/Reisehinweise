@@ -2,15 +2,15 @@
 
 ## Aktuelles
 
-##### Verpflichtende Versicherung bei der Einreise nach Sansibar ab 1. Oktober 2024
+##### Verpflichtende Versicherung bei der Einreise nach Sansibar mit Wirkung vom 1. Oktober 2024
 
-Ab dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
+Mit Wirkung vom 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
-Sie können diese Versicherung nur bei der ZIC abschließen. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können ab dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44,-USD pro Person. Weitere Informationen finden Sie auf der Website von [Visit Zanzibar](https://visitzanzibar.go.tz/).
+Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
 
-Die Einreise kann verweigert werden, wenn Sie nicht die richtige Versicherung haben.
+Die Einreise kann verweigert werden, wenn nicht die richtige Versicherung nachgewiesen wird.
 
-Wenn Sie Fragen haben, die nicht auf der Website beantwortet werden, wenden Sie sich unter der E-Mailadresse [inbound@zic.co.tz](mailto:inbound@zic.co.tz) unmittelbar an die ZIC.
+* Wenn Sie Fragen haben, die nicht auf der Website beantwortet werden, wenden Sie sich unter der [E-Mailadresse](mailto:inbound@zic.co.tz) inbound@zic.co.tz unmittelbar an die ZIC.
 
 ## Sicherheit
 
@@ -171,19 +171,19 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Tansania ein Visum.
 
 Neben der vorherigen Einholung des Visums vor der Einreise kann zum Zweck touristischer Reisen ein sog. „Visa on Arrival“ bei Einreise beantragt werden. Die Ausstellung ist jedoch nicht garantiert und zudem muss mit Wartezeit gerechnet werden. Die Kosten betragen zurzeit 50 USD pro Visum (auch minderjährige Kinder), zahlbar bei Einreise per Kreditkarte oder bar in passenden USD-Noten (50/100 USD), siehe auch *Reiseinfos - Geld/Kreditkarten.*
 
-##### **Verpflichtende Versicherung bei Einreise nach Sansibar ab 1. Oktober 2024**
+##### **Verpflichtende Versicherung bei Einreise nach Sansibar mit Wirkung vom 1. Oktober 2024**
 
-Ab dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
+Mit Wirkung vom 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
-Sie können diese Versicherung nur bei der ZIC abschließen. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können ab dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44,-USD pro Person. Weitere Informationen finden Sie auf der Website von [Visit Zanzibar](https://visitzanzibar.go.tz/).
+Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
 
-Die Einreise kann verweigert werden, wenn Sie nicht die richtige Versicherung haben.
+Die Einreise kann verweigert werden, wenn nicht die richtige Versicherung nachgewiesen wird.
 
-Wenn Sie Fragen haben, die nicht auf der Website beantwortet werden, wenden Sie sich unter der E-Mailadresse [inbound@zic.co.tz](mailto:inbound@zic.co.tz) unmittelbar an die ZIC.
+* Wenn Sie Fragen haben, die nicht auf der Website beantwortet werden, wenden Sie sich unter der [E-Mailadresse](mailto:inbound@zic.co.tz) inbound@zic.co.tz unmittelbar an die ZIC.
 
 ### Minderjährige
 
-Es sind keine besonderen Bestimmungen für die Einreise von Minderjährigen bekannt.
+Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt.
 
 * Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/newsroom/buergerservice-faq-kontakt/faq/11-kindohneeltern/606308).
 

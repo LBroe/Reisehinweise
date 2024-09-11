@@ -277,10 +277,10 @@ Bei Einreise aus einem Gelbfiebergebiet ist eine [Gelbfieberimpfung](https://www
 
 Reisende mit Wohnsitz in Ländern mit [Poliomyelitis-Erkrankungen (Kinderlähmung)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") müssen eine Impfung nach WHO-Standard nachweisen, die mindestens vier Wochen und maximal ein Jahr vor Ausreise durchgeführt wurde. Für Ausländer, z. B. deutsche Staatsbürger, die in Poliomyelitis-infizierten Ländern leben und nach Indien reisen, ist eine Impfung nicht erforderlich. Genauso ist der Impfnachweis nicht erforderlich für Ausländer, die in Indien leben und in Poliomyelitis-infizierte Länder reisen.
 
-* Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender der STIKO](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
+* Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A und Typhus, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Dengue-Fieber, Tollwut, Hepatitis B und Japanische Enzephalitis empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
-* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG](https://www.dtg.org/).
+* Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
 
 ### Nipah-Virus-Infektion
 
@@ -311,7 +311,7 @@ Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen, zunehmend w
 
 ### Malaria
 
-[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132) ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Der Anteil an der überwiegend vorkommenden [Malaria tropica](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132) (*Plasmodium falciparum)* und Mischinfektionen beträgt 57%, 43% entfallen auf die [Malaria tertiana](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132) (*Plasmodium vivax*). Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudasien.pdf) zur Verfügung. Das Malariarisiko ist regional unterschiedlich.
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Der Anteil an der überwiegend vorkommenden [Malaria tropica](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") (*Plasmodium falciparum)* und Mischinfektionen beträgt 57%; 43% entfallen auf die [Malaria tertiana](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") (*Plasmodium vivax*). Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudasien.pdf) zur Verfügung. Das Malariarisiko ist regional unterschiedlich.
 
 - Ganzjährig hohes Risiko: In Gebieten unter 2.000 Hm: Teilgebiete im Osten und Nordosten.
 
@@ -321,8 +321,8 @@ Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen, zunehmend w
 
 - Malariafrei: In Höhenlagen über 2.000 Hm von Himachal Pradesh, Jammu, Kashmir und Sikkim.
 
-* Schützen Sie sich in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658).
-* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten .
+* Schützen Sie sich in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
+* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 * Bei Reisen in Gebiete mit mittlerem Malariarisiko, die mehr als 48 Stunden von der nächsten medizinischen Einrichtung mit Möglichkeit zur Malariadiagnostik und -therapie entfernt sind, ist die Mitnahme entsprechender Medikamente zur notfallmäßigen Selbstbehandlung empfohlen. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### HIV/AIDS
@@ -402,7 +402,7 @@ In den großen Städten ist die medizinische Versorgung in allen Fachdisziplinen
 
 Die Versorgung mit zuverlässigen Medikamenten und eine ununterbrochene Kühlkette sind nicht überall gesichert. Es muss damit gerechnet werden, dass insbesondere in kleinen Apotheken auch gefälschte Produkte statt richtiger Medikamente verkauft werden. Die Apotheken der großen Privatkliniken bieten ein breites Spektrum zuverlässiger Medikamente an. Landesweit treten zahlreiche Resistenzen gegenüber häufig eingesetzter Antibiotika auf.
 
-Informationen zur medizinischen Versorgung vor Ort bieten die [deutschen Vertretungen in Indien](https://india.diplo.de/in-de/service/-/2243472 "Regionalarztpraxis").
+Informationen zur medizinischen Versorgung vor Ort bieten die [Deutschen Vertretungen in Indien](https://india.diplo.de/in-de/service/-/2243472 "Regionalarztpraxis").
 
 * Besprechen Sie ggf. Ihre Reisepläne ausführlich mit Ihrem behandelnden Arzt.
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
