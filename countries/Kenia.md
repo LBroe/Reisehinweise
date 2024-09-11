@@ -2,9 +2,17 @@
 
 ## Aktuelles
 
-### *Streik*
+### *Unbefristeter Streik des Personals der Flughafenbehörde*
 
-Der ab Montag, den 19. August 2024, angekündigte siebentägige Streik des Personals der Flughafenbehörde *Kenya Airport Authority* wurde vorerst abgesagt.
+Am 11. September 2024 hat die Gewerkschaft der Flughafenmitarbeiter einen unbefristeten Streik des Personals der Flughafenbehörde „Kenya Airports Authority“ am Jomo Kenyatta International Airport Nairobi und am Moi International Airport in Mombasa begonnen.
+
+Der Flugbetrieb ist derzeit eingestellt. Die Flughafenbehörde hat angekündigt, notwendige Maßnahmen zu ergreifen, damit der Flugbetrieb wieder aufgenommen werden kann. Mit weiteren Verzögerungen oder Ausfällen im Flugbetrieb muss gerechnet werden. Wie lange der Streik dauern wird, ist derzeit nicht absehbar.
+
+Der Flugbetrieb am Wilson Airport Nairobi ist vom Streik nicht betroffen. In Ihrem eigenen Interesse wird empfohlen:
+
+* Nehmen Sie ggf. rechtzeitig zu Ihrer Fluggesellschaft/Ihrem Reisebüro Kontakt auf, sollten Sie über Flugausfälle oder -verzögerungen benachrichtigt worden sein bzw. fragen Sie dort aktiv nach.
+* Fahren Sie rechtzeitig zum Flughafen, um Verzögerungen beim Check-in oder der Sicherheitskontrolle ausgleichen zu können.
+* Achten Sie auf aktuelle Informationen Ihrer Fluggesellschaft vor Abflug.
 
 ### *Landesweite Demonstrationen*
 
@@ -149,6 +157,8 @@ In den Regenzeiten, die üblicherweise von Oktober bis November und von Ende M�
 
 ## Reiseinfos
 
+Siehe *Aktuelles*
+
 ### Infrastruktur/Verkehr
 
 Es gibt ein Inlandsflugnetz, Eisenbahn- und Busverbindungen sowie Kleinbusse, Taxis und Motorad-Taxis „Boda-Boda“.
@@ -215,6 +225,8 @@ Es besteht ein allgemeines Verbot von Plastiktüten, schon der Besitz ist strafb
 Landeswährung ist der Kenya-Shilling (KES). Bargeld kann an Geldautomaten mit Kreditkarten und Debitkarten (Girocard) europäischer Banken abhängig von den Sicherheitsvorkehrungen der jeweiligen Bank bis maximal 40.000 KES abgehoben werden. Es ist hilfreich, einen kleineren Betrag in 1-USD-Noten griffbereit mitzuführen, um erste Kosten, z. B. für ein Taxi, bestreiten zu können.
 
 ## Einreise und Zoll
+
+Siehe *Aktuelles*
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
@@ -297,6 +309,14 @@ Für die Einfuhr von Katzen und Hunden stellt die [Botschaft von Kenia in Berlin
 
 ## Gesundheit
 
+### Aktuelles
+
+Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
+
+In Kenia wurde erstmals im August ein Mpox-Ausbruch der Klade Ib nachgewiesen. nachgewiesen. Hier handelt es sich um bisher um eine geringe Fallzahl. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+
 ### Impfschutz
 
 | Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet ist für alle Personen ab dem Alter von 12 Monaten eine Gelbfieberimpfung nachzuweisen. |
@@ -353,7 +373,7 @@ In Kenia besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen](h
 
 Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
