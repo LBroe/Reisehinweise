@@ -208,13 +208,15 @@ Für die Einfuhr von Heimtieren ist eine Einfuhrgenehmigung des [Federal Ministr
 
 ### Aktuelles
 
-***Siehe Einreise und Zoll – Mögliche Einreisebeschränkungen/COVID-19***  
+***Siehe Einreise und Zoll – Mögliche Einreisebeschränkungen/COVID-19***
 
-#### *Gelbfieber-Ausbruch*
+### ***Mpox***
 
-Nach Ausbrüchen von Gelbfieber 2020 und 2023 bleiben die Fallzahlen für Gelbfieber landesweit erhöht.
+Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate.
 
-* Eine Gelbfieberimpfung ist bei Einreise aus Deutschland nicht vorgeschrieben, wird jedoch dringend empfohlen. Lassen Sie sich diesbezüglich ärztlich beraten.
+In Nigeria wurden bisher nur Mpox-Fälle der Klade II gemeldet. Es ist jedoch bei Einreise ggf. vermehrt mit Mpox-Screeningmaßnahmen wie z.B. dem  Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
 
 ### Impfschutz
 
@@ -281,7 +283,7 @@ Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syp
 
 ### Weitere Gesundheitsgefahren
 
-[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosoma übertragen werden.
+[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosomiasis übertragen werden.
 
 * Sehen Sie vom Baden und Schwimmen in Binnengewässern ab.
 

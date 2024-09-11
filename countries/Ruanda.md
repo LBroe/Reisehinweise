@@ -56,7 +56,7 @@ Der Vulkan Nyiragongo [(Demokratische Republik Kongo)](https://www.auswaertiges-
 
 ### Grenzschließung
 
-Alle Grenzübergänge an der Landgrenze zwischen Ruanda und Burundi wurden am 11. Januar 2024 durch die burundische Seite geschlossen. Die Flugverbindungen zwischen beiden Ländern sind bislang davon nicht betroffen.
+Alle Grenzübergänge an der Landgrenze zwischen Ruanda und Burundi wurden im Januar 2024 durch die burundische Seite geschlossen. Die Flugverbindungen zwischen beiden Ländern sind bislang davon nicht betroffen.
 
 ### Infrastruktur/Verkehr
 
@@ -68,7 +68,7 @@ Alle Verkehrsteilnehmer, auch Fußgänger müssen beachten, dass offizielle Wage
 
 ### Führerschein
 
-Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -158,6 +158,16 @@ Für Reisen mit bestimmten Heimtieren (z.B. Hunde, Katzen) sind eine Herkunftsbe
 
 ## Gesundheit
 
+### Aktuelles
+
+Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
+
+In Ruanda wurden bisher vereinzelte Fälle von Mpox-Infektionen mit Klade Ib bestätigt.
+
+Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+
 ### Impfschutz
 
 Für die Einreise nach Ruanda aus Europa sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet müssen alle Personen ab einem Alter von 12 Monaten eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachweisen.
@@ -189,6 +199,8 @@ Aufgrund der mückengebundenen Infektionsrisiken wird allen Reisenden eine [Expo
 
 ### Sexuell übertragene Erkrankungen
 
+Siehe *Gesundheit - Aktuelles*
+
 Etwa 3 bis 4% der 15-49-Jährigen in Ruanda sind HIV-positiv; in den bekannten Risikogruppen sind es deutlich mehr.
 
 [HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
@@ -196,9 +208,9 @@ Etwa 3 bis 4% der 15-49-Jährigen in Ruanda sind HIV-positiv; in den bekannten R
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate.
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.

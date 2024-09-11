@@ -203,6 +203,16 @@ Einfuhrbestimmungen für Heimtiere hängen im Wesentlichen davon ab, aus welchem
 
 ## Gesundheit
 
+### Aktuelles
+
+Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate.
+
+In Südafrika handelt es sich bei den gemeldeten Fällen bisher ausschließlich um Mpox-Virus der Klade II. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
+
+Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Allerdings ist bei Einreise aus einem Gelbfiebergebiet eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachzuweisen. Das gilt auch für einen transitbedingten Zwischenaufenthalt von über 12 Stunden z.B. in Nairobi oder Addis Abeba. Eine Impfung wird auch bei kürzerem Transit empfohlen, da es zu Verspätungen kommen bzw. in Einzelfällen die Aufenthaltszeit im Transit nicht nachvollzogen werden kann. Eine einzige Impfung gilt inzwischen als lebenslanger Impfnachweis im internationalen Reiseverkehr.
@@ -244,7 +254,7 @@ Eine Gefahr der Tuberkuloseansteckung über Tröpfcheninfektion besteht nur in e
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
@@ -288,7 +298,7 @@ Für ärztliche Leistungen und Krankenhausbehandlung ist grundsätzlich Vorauska
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

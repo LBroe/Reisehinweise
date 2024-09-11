@@ -221,11 +221,13 @@ Heimtiere benötigen zur Einreise eine Tollwut-Schutzimpfung, eine amtstierärzt
 
 ### Aktuelles
 
-Der [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")-Ausbruch in der Demokratischen Republik Kongo hat sich im Frühjahr 2024 auf einen Großteil des Landes ausgebreitet, einschließlich der Hauptstadt Kinshasa. Im Gegensatz zum internationalen Mpox-Ausbruch der Klade II, der seit 2022 große Teile der Welt betrifft, wird der Ausbruch in der Demokratischen Republik Kongo durch die Klade I verursacht. Das Virus der Klade 1 ist virulenter und hat eine höhere Sterblichkeitsrate. Dies ist der erste Ausbruch von Klade 1, bei dem es zu einer homo- und heterosexuellen Übertragung gekommen ist. Das Risiko für Reisende wird aktuell als gering eingeschätzt.
+Der [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")-Ausbruch in der Demokratischen Republik Kongo hat sich seit Frühjahr 2024 auf einen Großteil des Landes ausgebreitet, einschließlich der Hauptstadt Kinshasa. Im Gegensatz zum internationalen Mpox-Ausbruch der Klade II, der seit 2022 große Teile der Welt betrifft, wird der Ausbruch in der Demokratischen Republik Kongo durch die Klade I (Klade Ia und Ib) verursacht. Das Virus der Klade I ist virulenter und hat eine höhere Sterblichkeitsrate. Dies ist der erste Ausbruch von Klade I, bei dem es sowohl zu homo- und heterosexuellen Übertragungen kommt. Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus.
 
-* Verwenden Sie auf Reisen grundsätzlich Kondome, um das Ansteckungsrisiko mit sexuell übertragbaren Infektionen zu minimieren.
-* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
-* Stellen Sie sich bei typischen Symptomen ärztlich vor.
+Bei der Einreise in betroffene Länder ist ggf. mit Mpox-Screeningmaßnahmen, wie z.B. dem Ausfüllen von Fragebögen oder Temperaturmessungen, zu rechnen. Weitere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") finden Sie hier.
+
+Derzeit werden weiterhin steigende Fallzahlen in der Demokratischen Republik Kongo berichtet. Das Risiko einer Infektion mit dem Mpox-Virus für touristisch Reisende wird aktuell jedoch weiterhin als gering eingeschätzt. Ein erhöhtes Risiko kann bei beruflichen Reisen mit Tätigkeiten im unmittelbaren Kontext zu Mpox, wie z.B. ärztlichen oder medizinisch-technischen Einsätzen vor Ort, vorliegen. Vermeiden Sie daher Hautkontakte und das Berühren von Wunden und Ausschlägen.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
 
 ### Impfschutz
 
@@ -278,7 +280,7 @@ In der Demokratischen Republik Kongo besteht ein Risiko für Erkrankungen wie [M
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")  wird vorrangig durch Kontakt mit Wunden, Körperflüssigkeiten einschließlich Atemtröpfchen von Erkrankten und durch kontaminierte Gegenstände übertragen Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.

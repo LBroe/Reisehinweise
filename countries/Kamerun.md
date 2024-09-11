@@ -124,8 +124,7 @@ Landeswährung ist der CFA-Franc (Äquatorial XAF). Das Abheben von Bargeld an G
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland")  
-Die Zollbestimmungen für Deutschland können Sie auf der [Webseite des deutschen Zolls](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)  und per [App "Zoll und Reise"](https://www.zoll.de/DE/Privatpersonen/Reisen/Abgabenrecher-Zoll-und-Reise/abgabenrecher-zoll-und-reise_node.html "App Zoll und Reise") finden oder dort telefonisch erfragen.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -186,6 +185,16 @@ Bei Ausfuhr von Hunden und Katzen kann ein örtlicher Tierarzt die für die EU b
 
 ## Gesundheit
 
+### Aktuelles
+
+Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
+
+2024 wurden aus Kamerun nur wenige Mpox-Fälle sowohl der Klade II als auch der Klade I (Ia) berichtet.
+
+Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+
 ### Impfschutz
 
 Eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") ist für alle Reisenden ab dem 12. Lebensmonat bei Einreise vorgeschrieben und auch medizinisch sinnvoll.
@@ -237,7 +246,7 @@ Die HIV-Prävalenz in der Bevölkerung liegt landesweit bei ca. 4%, in Risikogru
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
