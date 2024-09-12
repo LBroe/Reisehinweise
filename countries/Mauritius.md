@@ -1,11 +1,5 @@
 # Mauritius: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Die mauritische Regierung hat strenge Regelungen zum Konsum von Tabak in der Öffentlichkeit und der Einfuhr von Tabakwaren, E-Zigaretten, Wasserpfeifen, etc. und deren Bestandteilen/Zubehör erlassen.
-
-Das Rauchen in Fahrzeugen und in der Öffentlichkeit unterliegt [strengen Bestimmungen.](https://www.mcci.org/media/331538/public-health-restrictions-on-tobacco-products-regulations-2022.pdf) Bei Zuwiderhandlung drohen hohe Geldbußen oder Haftstrafen, siehe *Reiseinfos – Rechtliche Besonderheiten* und *Einreise und Zoll – Einfuhrbestimmungen.*
-
 ## Sicherheit
 
 ### Terrorismus
@@ -31,7 +25,7 @@ Gewaltkriminalität ist selten, in letzter Zeit haben jedoch auch bewaffnete Rau
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Leisten Sie bei einem Überfall keine Gegenwehr.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -66,7 +60,7 @@ Fahrzeuge können für Selbstfahrer ab einem Alter von 21 Jahren und alternativ 
 
 ### Führerschein
 
-Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig, der mindestens ein Jahr alt sein muss.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig, der mindestens ein Jahr alt sein muss.
 
 Ersatzweise können Reisende ohne Internationalen Führerschein auch den nationalen deutschen Führerschein bei der Verkehrsabteilung des Polizeihauptquartiers in Port Louis, Line Barracks, vorlegen und dort eine temporäre Fahrerlaubnis erhalten. Der deutsche Führerschein im Kartenformat wird in der Praxis toleriert.
 
@@ -79,9 +73,9 @@ Homosexuelle Handlungen stehen rechtlich unter Strafe, auch wenn eine strafrecht
 
 ### Rechtliche Besonderheiten
 
-S. auch *Einreise und Zoll - Einfuhrbestimmungen*
+Siehe auch *Einreise und Zoll - Einfuhrbestimmungen*
 
-Die mauritische Regierung hat strenge Maßnahmen zum Konsum und der Einfuhr von Tabakwaren und E-Zigaretten erlassen.
+Die mauritische Regierung hat strenge Regelungen zum Konsum von Tabak in der Öffentlichkeit und der Einfuhr von Tabakwaren, E-Zigaretten, Wasserpfeifen, etc. und deren Bestandteilen/Zubehör erlassen.
 
 Das Rauchen im öffentlichen Raum ist verboten; hierzu zählen unter anderem Bars, Restaurants, öffentliche Gebäude, Geschäfte, öffentliche Verkehrsmittel, Bildungseinrichtungen, Kinos, Märkte, Strände, Gärten und Parkanlagen. Das Rauchen in Fahrzeugen und in der Öffentlichkeit unterliegt [strengen Bestimmungen.](https://www.mcci.org/media/331538/public-health-restrictions-on-tobacco-products-regulations-2022.pdf) Bei Zuwiderhandlung drohen hohe Geldbußen oder Haftstrafen.
 
@@ -155,7 +149,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekann
 Landes- und Fremdwährung kann in unbegrenzter Höhe eingeführt werden, müssen ab einem Wert von 500.000 MUR (ca. 10.000 EUR) deklariert werden.  
 Die mauritischen Devisenbestimmungen erlauben keine Barzahlungen über 500.000 MUR, auch keine Bareinzahlungen bei Banken. Verstöße werden streng geahndet.
 
-Drogen aller Art (auch Zigarettenpapier), inklusive Tabakwaren, E-Zigaretten sowie Wasserpfeifen, etc. und deren Bestandteile bzw. Zubehör, Methadonersatzstoffe (wie z.B. Subutex), sind verboten. Bei Zuwiderhandlung drohen hohe Geldbußen oder Haftstrafen, [s. Government Notice No. 139/2022.](https://www.mcci.org/media/331538/public-health-restrictions-on-tobacco-products-regulations-2022.pdf)
+Drogen aller Art (auch Zigarettenpapier), inklusive Tabakwaren, E-Zigaretten sowie Wasserpfeifen, etc. und deren Bestandteile bzw. Zubehör, Methadonersatzstoffe (wie z.B. Subutex), sind verboten. Bei Zuwiderhandlung drohen hohe Geldbußen oder Haftstrafen, [siehe Government Notice No. 139/2022.](https://www.mcci.org/media/331538/public-health-restrictions-on-tobacco-products-regulations-2022.pdf)
 
 Die Einfuhr von Pflanzen und Lebensmitteln ist streng verboten.
 
@@ -193,7 +187,7 @@ Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen. Die Erkrank
 
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
 
-* Verwenden Sie stets Kondome.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 
 ### Durchfallerkrankungen
 
@@ -215,9 +209,7 @@ Die medizinische Versorgung im Land ist ausreichend.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

@@ -10,7 +10,7 @@
 
 ### Innenpolitische Lage
 
-Im Nachgang der Präsidentschaftswahlen am 16. November 2023 ist die innenpolitische Lage relativ stabil. Gewaltsame Zusammenstöße zwischen Demonstranten und Sicherheitskräften können jedoch nicht ausgeschlossen werden.
+Im Nachgang der Präsidentschaftswahlen im November 2023 ist die innenpolitische Lage relativ stabil. Gewaltsame Zusammenstöße zwischen Demonstranten und Sicherheitskräften können jedoch nicht ausgeschlossen werden.
 
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -28,8 +28,8 @@ Im Südosten des Landes, insbesondere in der Region Anosy (Hauptort Betroka) fü
 
 Vor allem im Stadtgebiet von Antananarivo, zunehmend aber auch in den touristisch frequentierten Küstenstädten, finden am Abend und in der Nacht Polizeikontrollen statt, bei denen der Reisepass im Original vorzuzeigen ist.
 
-* **Vom Besuch des nördlich der Stadt Tulear gelegenen Battery Beach, den Flussufern des Tsiribihina-Flusses und dem Pic Saint-Louis wird abgeraten**.
-* Seien Sie insbesondere bei Individualreisen durch das Land und bei Fahrten in die Region Anosy (Hauptort Betroka) besonders vorsichtig.
+* **Vom Besuch des nördlich der Stadt Tulear gelegenen Battery Beach, den Flussufern des Tsiribihina-Flusses und dem Pic Saint-Louis wird aufgrund hoher Kriminalitätsbelastung abgeraten.**
+* ​​​​​​​Seien Sie insbesondere bei Individualreisen durch das Land und bei Fahrten in die Region Anosy (Hauptort Betroka) besonders vorsichtig.
 * Verzichten Sie insbesondere nach Einbruch der Dunkelheit in allen städtischen Gebieten auf Spaziergänge, ob allein oder zu mehreren.
 * Bewegen Sie sich nach Einbruch der Dunkelheit nur mit Einzeltaxis.
 * Halten Sie in Fahrzeugen insbesondere in Ballungszentren zu jeder Tages- und Nachtzeit die Türen von innen verriegelt und nach Möglichkeit die Fenster geschlossen.
@@ -38,7 +38,7 @@ Vor allem im Stadtgebiet von Antananarivo, zunehmend aber auch in den touristisc
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, im Bus besonders aufmerksam und achten Sie auch in Hotels auf Ihre Wertsachen.
 * Leisten Sie im Fall eines Überfalls keinen Widerstand.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ### Piraterie auf hoher See
 
@@ -50,21 +50,21 @@ Vor den Küsten besteht weiterhin ein Risiko von Piratenangriffen und Kaperungen
 
 Es herrscht tropisches Tiefland- und Bergklima.  
 In Madagaskar ist von Dezember bis April Wirbelsturm-Saison. In dieser Zeit ist insbesondere an den Küsten mit Tropenstürmen und intensiven Regenfällen zu rechnen.  
-In dieser Zeit kann es auch zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen kommen. Plötzliche Regengüsse können insbesondere in den Schluchten des Isalo Massivs schwere, möglicherweise tödliche Überschwemmungen verursachen.
+In dieser Zeit kann es auch zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen kommen. Plötzliche Regengüsse können insbesondere in den Schluchten des Isalo-Massivs schwere, möglicherweise tödliche Überschwemmungen verursachen.
 
 Madagaskar liegt in einer seismisch leicht aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann.
 
 * Verfolgen Sie regelmäßig Wetterberichte.
 * Vermeiden Sie Wanderungen in den Schluchten des Isalo-Massivs während der Regenzeit.
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") im Fall einer Sturmwarnung.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Zuständige Auslandsvertretung
 
-Die [deutsche Botschaft in Antananarivo](https://antananarivo.diplo.de/mg-de) bietet nur eingeschränkt konsularische Dienstleistungen an, s. *Amtsbezirk Madagaskar auf der Botschaftswebseite*.
+Die [deutsche Botschaft in Antananarivo](https://antananarivo.diplo.de/mg-de) bietet nur eingeschränkt konsularische Dienstleistungen an, siehe *Amtsbezirk Madagaskar auf der Botschaftswebseite*.
 
 ### Sprache
 
@@ -85,7 +85,7 @@ Auf den Hauptverbindungsstraßen zwischen der Hauptstadt und den anderen größe
 
 ### Führerschein
 
-Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -97,7 +97,7 @@ Für militärische und sicherheitsrelevante Einrichtungen (z.B. Flughafen, Brüc
 
 Die Einfuhr und das Tragen militärischer Tarnkleidung sind verboten. Verstöße werden mit hohen Geldstrafen geahndet. In schweren Fällen sind auch Haftstrafen möglich.
 
-Verschiedene Orte sind „fady”, d.h. (für Ausländer) mit bestimmten, dem Brauchtum entspringenden Beschränkungen belegt oder teilweise auch völlig tabu**.** In Zweifelsfällen wird empfohlen, sich bei ortskundigen Personen über gegebenenfalls bestehende „Fadys“ zu informieren.
+Verschiedene Orte sind „fady”, d.h. (für Ausländer) mit bestimmten, dem Brauchtum entspringenden Beschränkungen belegt oder teilweise auch völlig tabu.In Zweifelsfällen wird empfohlen, sich bei ortskundigen Personen über gegebenenfalls bestehende „Fadys“ zu informieren.
 
 In Madagaskar wird Ehebruch mit Freiheits- oder Geldstrafe geahndet. Hinzu kommt ein Schadenersatzanspruch gegen die Täter.
 
@@ -171,7 +171,7 @@ Personen mit Wohnsitz außerhalb Madagaskars dürfen bis zu ein Kilogramm Schmuc
 
 ### Heimtiere
 
-Zur Einfuhr von Heimtieren ist ein veterinärärztliches Gesundheitszeugnis bzw. eine Seuchenfreiheitsbescheinigung, das bei Einreise nicht älter als drei Tage sein darf, und ein Impfbuch erforderlich. Die Tollwutimpfung ist vorgeschrieben; zudem müssen in jedem Fall ein aktueller Tollwut-Antikörpertest und ein Attest zum Bandwurmausschluss (Stuhltest) vorgelegt werden.
+Zur Einfuhr von Heimtieren sind ein veterinärärztliches Gesundheitszeugnis bzw. eine Seuchenfreiheitsbescheinigung, dass bei Einreise nicht älter als drei Tage sein darf, und ein EU-Heimtierausweis/Impfbuch erforderlich. Die Tollwutimpfung ist vorgeschrieben; zudem müssen in jedem Fall ein aktueller Tollwut-Antikörpertest und ein Attest zum Bandwurmausschluss (Stuhltest) vorgelegt werden.
 
 ## Gesundheit
 
@@ -222,7 +222,7 @@ Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine C
 
 Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes HIV-Übertragungsrisiko.
 
-* Verwenden Sie stets Kondome.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 
 ### Durchfallerkrankungen
 
@@ -271,15 +271,13 @@ In Madagaskar gibt es keine Giftschlangen. Dagegen kommen einige giftige Spinnen
 
 ### Medizinische Versorgung
 
-Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist vielfach personell, technisch, apparativ und/ oder hygienisch hoch problematisch. Englischsprachiges medizinisches Fachpersonal ist außerhalb der Hauptstadt kaum zu finden.
+Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist vielfach personell, technisch, apparativ und/oder hygienisch hoch problematisch. Englischsprachiges medizinisches Fachpersonal ist außerhalb der Hauptstadt kaum zu finden.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
