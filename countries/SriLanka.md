@@ -138,25 +138,12 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate g�
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das entweder vor der Einreise [online](https://www.srilankaevisa.lk/) oder bei Einreise („on arrival“) beantragt werden kann.
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das zurzeit ausschließlich bei Einreise („on arrival“) am Flughafen oder vor Reisebeginn bei der zuständigen Botschaft in Berlin beantragt werden kann.
 
-Touristenvisa werden entweder für eine Dauer von 30 Tagen und für zwei Einreisen oder für 180 Tage und eine Einreise ausgestellt. Verlängerungen von Touristenvisa sind möglich, aber äußerst zeitaufwändig. Eine [frühzeitige Aufnahme per E-Mail](mailto:adcvisa@immigration.gov.lk) mit dem Department of Immigration and Emigration, 45 Ananda Kumaraswamy Mawatha, Colombo 8, wird dringend empfohlen.
+* Bitte achten Sie darauf, bei der Visumsbeantragung am Flughafen unbedingt den richtigen Reisezweck anzugeben. Reisende, die ihr Visum für einen nicht genannten Reisezweck missbrauchen (z. B. geschäftliche Aktivitäten oder Teilnahme an Konferenzen mit einem Touristenvisum) riskieren verhaftet und abgeschoben zu werden.
+* Beachten Sie zudem, dass sich die sri-lankischen Einreisebestimmungen teilweise sehr spontan und ohne Informationen auf den Regierungswebseiten ändern können. Um möglichst aktuelle Informationen zu erhalten, kontaktieren Sie die zuständige sri-lankische Auslandsvertretung direkt.
 
-#### *Visum vor der Einreise*
-
-Das Online-Verfahren zur Beantragung von Visa zur Einreise nach Sri Lanka wurde kurzfristig eingestellt. Touristen können das erforderliche Einreisevisum derzeit nur am Flughafen erlangen, siehe [Deutsche Botschaft Colombo.](https://colombo.diplo.de/lk-de)  
-
-Das erforderliche Visum sollte dringend vor Einreise [online](https://www.srilankaevisa.lk/) beantragt werden. Bei der Beantragung im Online-Verfahren achten Sie bitte unbedingt darauf,
-
-* dass Sie ausschließlich die [offizielle Webseite](https://www.srilankaevisa.lk/) nutzen, um mögliche Vermittlungsgebühren zu vermeiden,
-* dass alle Angaben korrekt sind. Die sri-lankischen Behörden bestehen auch bei kleinen Fehlern (z. B. Zahlendreher oder versehentliche Eintragung des Buchstaben „O“ anstatt der Zahl „0“ in der Passnummer) auf der Ausstellung eines neuen Visums am Flughafen.
-* Bitte achten Sie zudem darauf, bei der Visumbeantragung unbedingt den richtigen Reisezweck anzugeben. Reisende, die ihr Visum für einen nicht genannten Reisezweck missbrauchen (z. B. geschäftliche Aktivitäten oder Teilnahme an Konferenzen mit einem Touristenvisum) riskieren, verhaftet und deportiert zu werden.
-
-#### *Visum bei Einreise („on arrival“)*
-
-Deutsche Staatsangehörige können das erforderliche Visum auch am Flughafen als „Visa on arrival“ beantragen.
-
-* Bitte beachten Sie jedoch, dass hierfür nur eingeschränkte Kapazitäten am Flughafen zur Verfügung stehen und mit langen Wartezeiten zu rechnen ist. Um diese zu vermeiden, wird empfohlen, das Einreisevisum vorab [online](https://www.srilankaevisa.lk/) zu beantragen.
+Touristenvisa werden entweder für eine Dauer von 30 Tagen und für zwei Einreisen oder für 180 Tage und eine Einreise ausgestellt. Verlängerungen von Touristenvisa sind möglich, aber äußerst zeitaufwändig. Eine [frühzeitige Aufnahme per E-Mail](mailto:adcvisa@immigration.gov.lk) mit dem Department of Immigration and Emigration, 45 Ananda Kumaraswamy Mawatha, Colombo 8, wird dringend empfohlen.  
 
 #### *Längerfristige Aufenthalte*
 
@@ -164,12 +151,6 @@ Die Ausstellung eines längerfristigen Visums ist nur durch eine sri-lankische A
 
 * Wenden Sie sich bitte an die zuständige sri-lankische Auslandsvertretung oder informieren Sie sich [online.](https://www.srilankaevisa.lk/)
 * Bitte wenden Sie sich auch bei technischen Problemen bei der Beantragung eines E-Visums an die [zuständige Behörde.](https://www.srilankaevisa.lk/contact-us)
-
-### Einreisekarte (Arrival e-Card)
-
-Reisende (außer sri-lankische Staatsangehörige) müssen eine Einreisekarte ausfüllen. Dies kann in Papierform oder auch [online](http://www.immigration.gov.lk/index_e.php) erfolgen:
-
-Wichtig ist, dass die Einreisekarte (Arrival/Departure e-Card) nur über den auf der Webseite der Einwanderungsbehörde angebrachten QR-Code aufrufbar ist und frühestens 72 Stunden vor Einreise ausgefüllt werden kann.
 
 ### Minderjährige
 
@@ -280,9 +261,7 @@ Aufgrund der andauernden Wirtschaftskrise gibt es Importbeschränkungen und Lief
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

@@ -2,13 +2,13 @@
 
 ## Aktuelles
 
-### *Unbefristeter Streik des Personals der Flughafenbehörde*
+### *Streik vorerst beendet*
 
-Am 11. September 2024 hat die Gewerkschaft der Flughafenmitarbeiter einen unbefristeten Streik des Personals der Flughafenbehörde „Kenya Airports Authority“ am Jomo Kenyatta International Airport Nairobi und am Moi International Airport in Mombasa begonnen.
+Der am 11. September 2024 von der Gewerkschaft der Flughafenmitarbeiter begonnene unbefristete Streik des Personals der Flughafenbehörde „Kenya Airports Authority“ wurde gestern nach Verhandlungen vorerst beendet. Die Verhandlungen sollen in zehn Tagen fortgesetzt werden; eine Wiederaufnahme der Streiks ist nicht ausgeschlossen.
 
-Der Flugbetrieb ist derzeit eingestellt. Die Flughafenbehörde hat angekündigt, notwendige Maßnahmen zu ergreifen, damit der Flugbetrieb wieder aufgenommen werden kann. Mit weiteren Verzögerungen oder Ausfällen im Flugbetrieb muss gerechnet werden. Wie lange der Streik dauern wird, ist derzeit nicht absehbar.
+Der Flugbetrieb läuft wieder normal.
 
-Der Flugbetrieb am Wilson Airport Nairobi ist vom Streik nicht betroffen. In Ihrem eigenen Interesse wird empfohlen:
+In Ihrem eigenen Interesse wird empfohlen:
 
 * Nehmen Sie ggf. rechtzeitig zu Ihrer Fluggesellschaft/Ihrem Reisebüro Kontakt auf, sollten Sie über Flugausfälle oder -verzögerungen benachrichtigt worden sein bzw. fragen Sie dort aktiv nach.
 * Fahren Sie rechtzeitig zum Flughafen, um Verzögerungen beim Check-in oder der Sicherheitskontrolle ausgleichen zu können.
