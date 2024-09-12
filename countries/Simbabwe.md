@@ -1,12 +1,5 @@
 # Simbabwe: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Anlässlich des SADC-Gipfels (Southern African Development Community) am 17. August 2024 in Harare wird eine Vielzahl an Staats- und Regierungschefs erwartet.
-
-* Informieren Sie sich ggf. über die [SADC-Webseite.](https://www.sadc.int/node/4959)
-* Rechnen Sie bitte – vor und auch nach diesem Datum - mit erhöhten Sicherheitsmaßnahmen und ggf. Reisebeschränkungen, neben erhöhtem Verkehrsaufkommen und ggf. Straßensperren.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -16,7 +9,7 @@ Anlässlich des SADC-Gipfels (Southern African Development Community) am 17. Aug
 ### Innenpolitische Lage
 
 Aufgrund der angespannten wirtschaftlichen Lage und der daraus resultierenden sozialen Spannungen muss in den städtischen Ballungsräumen mit Demonstrationen und teilweise auch mit gewaltsamen Auseinandersetzungen gerechnet werden.  
-Ausländer dürfen ohne staatliche Akkreditierung nicht über die aktuellen Entwicklungen im Land berichten. Das schließt auch jegliches Sammeln von Informationen, Gespräche mit der Bevölkerung oder das Fotografieren mit der Handykamera ein, da dies als illegale journalistische Tätigkeit ausgelegt werden kann. In Notfällen ist von Sicherheitskräften in der Regel keine Hilfe zu erwarten.
+Ausländer dürfen ohne staatliche Akkreditierung nicht über die aktuellen Entwicklungen im Land berichten. Das schließt auch jegliches Sammeln von Informationen, Gespräche mit der Bevölkerung oder das Fotografieren und Filmen mit der Handykamera ein, da dies als illegale journalistische Tätigkeit ausgelegt werden kann. In Notfällen ist von Sicherheitskräften in der Regel keine Hilfe zu erwarten.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig und fotografieren Sie diese nicht.
 * Beteiligen Sie sich nicht an Diskussionen mit politischem Inhalt, auch nicht in den sozialen Medien.
@@ -48,10 +41,6 @@ Simbabwe liegt in einer latent seismisch aktiven Zone, weshalb es zu Erdbeben ko
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
-
-### Aktuelles
-
-In Vorbereitung des 44. SADC Gipfels, der Mitte August 2024 in Harare stattfinden wird, unternimmt die Regierung Straßenreparaturen. Diese führen zu Straßensperrungen in diversen Stadtbezirken, in der Innenstadt auch zur Sperrung von Ausfallstraßen, die Verkehrsknotenpunkte betreffen (aktuell virulent Harare Drive von/nach Mazowe/Bindura Road bis 30. Juni 2024). In der Folge kommt es zu einer Zunahme von Staus und Gefahren im Straßenverkehr.
 
 ### Infrastruktur/Verkehr
 
@@ -95,13 +84,11 @@ Das Fotografieren und Filmen von Militäranlagen und -fahrzeugen, Soldaten, Poli
 
 ### Geld/Kreditkarten
 
-Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landeswährung, den Zimbabwe Dollar (ZWL).
+Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landeswährung, den Zimbabwe Dollar (ZWL), ersetzt.
 
-Die Bezahlung mit USD ist in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZWL existieren bislang nur in begrenztem Umfang.
+Die Bezahlung mit USD ist in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZWL existieren bislang nur in begrenztem Umfang. Die Modalitäten des Zahlungsverkehrs unterliegen immer wieder kurzfristigen Änderungen.
 
-Die Modalitäten des Zahlungsverkehrs unterliegen immer wieder kurzfristigen Änderungen.
-
-Die Bezahlung mit ausländischen Kreditkarten und das Abheben von Bargeld an Geldautomaten sind derzeit nicht landesweit sichergestellt. Kreditkarten werden nur selten akzeptiert; wenn überhaupt, dann zumeist VISA und Mastercard. Reisende sollten ihre Reise daher mit ausreichend Bargeld antreten. Es ist ratsam, größere Geldbeträge im Hotel im Safe zu deponieren, um das Diebstahlrisiko zu minimieren.
+Die Bezahlung mit ausländischen Kreditkarten und das Abheben von Bargeld an Geldautomaten sind derzeit nicht landesweit sichergestellt. Kreditkarten werden nur selten akzeptiert; wenn überhaupt, dann zumeist VISA und Mastercard. Reisende sollten ihre Reise daher mit ausreichend Bargeld antreten. Es ist ratsam, größere Geldbeträge im Hotel im Safe zu deponieren, um das Diebstahlrisiko zu minimieren.
 
 Bei Geldmangel oder Verlust der mitgebrachten Reisemittel besteht die Möglichkeit, sich über die einschlägigen international operierenden Finanztransaktionsdienstleister Geld aus Deutschland in kleineren Mengen überweisen zu lassen. Es ist nicht ausgeschlossen, dass aufgrund des allgemeinen Devisenmangels einzelne Filialen dieser Finanztransaktionsdienstleister trotz erfolgter Überweisung nicht in der Lage sind, Bargeld auszuzahlen. Ausgenommen ist hiervon nach eigener Auskunft die Filiale in der Ecobank Zimbabwe, 2 Piers Road Sam Levy’s Village, Borrowdale, Harare, Tel.: +263-42-851642.
 
@@ -139,7 +126,11 @@ Sowohl die südafrikanischen als auch die simbabwischen Einreisebehörden verlan
 
 Deutsche Staatsangehörige benötigen für die Einreise ein Visum. Dieses kann nur bei der Einreise sowohl an den Landesgrenzen als auch an den Flughäfen erteilt werden. Detaillierte Informationen sind beim Department of Immigration Zimbabwe oder bei der [simbabwischen Botschaft in Berlin](https://www.zimembassyberlin.com) erhältlich.
 
-Einreisevisa mit einer Gültigkeit von 30 Tagen werden gegen eine Gebühr von 30 USD an den beiden internationalen Flughäfen Harare und Victoria Falls ausgestellt.
+Einreisevisa mit einer Gültigkeit von 30 Tagen werden gegen eine Gebühr von 30 USD an den beiden internationalen Flughäfen Harare und Victoria Falls sowie an den Landesgrenzen ausgestellt.
+
+Einreisevisa können ebenfalls [online beantragt](https://evisa.gov.zw) und bezahlt werden.
+
+Weitere Informationen erteilt die simbabwische Einwanderungsbehörde [per E-Mail](mailto:evisazim@gmail.com) evisazim@gmail.com oder telefonisch 00263-716801141/772257364/712321210/772225625).
 
 Das bei der Einreise erhältliche Visum ist ein touristisches Visum, das keine Aufnahme von Tätigkeiten im Land erlaubt. Auch ehrenamtliche Praktika stellen einen Verstoß gegen simbabwische Aufenthaltsbestimmungen dar, die zu hohen Geld- und Haftstrafen führen können.
 

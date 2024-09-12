@@ -17,7 +17,7 @@ Die Lage im Land ist insgesamt ruhig. Aus innenpolitischen Gründen kann es aber
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
-Im Osten und Süden der Urwaldprovinz Darién, insbesondere im Grenzgebiet zu Kolumbien, bestehen hohe Sicherheitsrisiken. In diesem Gebiet operieren kriminelle Organisationen und vereinzelt illegale, bewaffnete Drogenbanden aus Kolumbien, die auch vor Waffengebrauch nicht zurückschrecken. Vielerorts gibt es Zugangssperren, es liegt im Ermessen polizeilicher Kontrollposten, Reisenden die Weiterfahrt zu erlauben.
+Im Osten und Süden der Urwaldprovinz Darién, insbesondere im Grenzgebiet zu Kolumbien, bestehen hohe Sicherheitsrisiken. In diesem Gebiet operieren kriminelle Organisationen und vereinzelt illegale, bewaffnete Drogenbanden aus Kolumbien, die auch vor Waffengebrauch nicht zurückschrecken. Vielerorts gibt es Zugangssperren; es liegt im Ermessen polizeilicher Kontrollposten, Reisenden die Weiterfahrt zu erlauben.
 
 ### Kriminalität
 
@@ -62,7 +62,7 @@ Unvorhersehbare Regenfälle können zu starken Flutwellen führen und Badende in
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 * Vermeiden Sie das Schwimmen in Flüssen.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
@@ -101,6 +101,9 @@ Bootseigentümer müssen auch zwingend vor Einfahrt in die Gewässer der Comarca
 Der Konsum alkoholischer Getränke in der Öffentlichkeit ist verboten und kann zur Inhaftierung führen.
 
 Rauchen ist in weiten Teilen des öffentlichen Raums verboten und im Allgemeinen innerhalb der panamaischen Gesellschaft verpönt. Ein Verstoß gegen das Rauchverbot kann mit Geldstrafen geahndet werden.
+
+In der Provinz Colón und dem Distrikt San Miguelito wurde am Ende August/Anfang September im Rahmen der Bekämpfung der organisierten Kriminalität eine Ausgangssperre für Minderjährige verhängt, die nicht durch Erziehungsberechtigte begleitet werden. In Colón gilt diese sonntags bis donnerstags von 20 Uhr bis 5 Uhr und freitags und samstags von 21 Uhr bis 6 Uhr am Folgetag; in San Miguelito sonntags bis donnerstags von 21 Uhr bis 5 Uhr und freitags und samstags von 22 Uhr bis 6 Uhr.  
+Einzelne Ausnahmen zur Ausgangssperre sind in den jeweiligen Dekreten geregelt.
 
 ### Geld/Kreditkarten
 
@@ -145,7 +148,7 @@ Bei der Einreise auf dem Seeweg über das Territorium Guna Yala (San Blas Inseln
 Sollte bei Ankunft mit einem Schiff kein Beamter der Migrationsbehörde vor Ort sein, obliegt es dem Reisenden, nach dem Büro der Migrationsbehörde zu fragen und sich unverzüglich einen Einreisestempel geben zu lassen, auch bei Einreise mit einem privaten Schiff/zu sehr früher und später Stunde.  
 Ist der Reisende erst einmal im Land (z.B. in Panama-Stadt) kann diese Formalität nicht mehr nachgeholt werden und der Reisende gilt ausnahmslos als illegal.
 
-#### *Einreise von Costa Rica*
+#### *Einreise aus Costa Rica*
 
 Bei der Einreise von Costa Rica nach Panama auf dem Landweg sollte unbedingt darauf geachtet werden, dass sowohl der costa-ricanische Ausreisestempel als auch der panamaische Einreisestempel im Reisepass angebracht werden.
 
@@ -166,6 +169,8 @@ Es wird darauf hingewiesen, dass deutsche Staatsangehörige, die sich länger al
 Für Ausländer gilt in Panama eine Ausweispflicht. Ausweiskontrollen werden regelmäßig durchgeführt.
 
 ### Minderjährige
+
+Siehe *Reiseinfos – Rechtliche Besonderheiten*
 
 Bei der Ausreise aus Panama werden von panamaischen Kindern (auch Doppelstaater) und ausländischen Kindern mit Wohnsitz in Panama regelmäßig die Geburtsurkunden der mitreisenden Kinder verlangt. Familien mit Kindern und Wohnsitz in Panama sollten daher (internationale) Geburtsurkunden aller Kinder mit sich führen. Will ein Elternteil allein mit einem/mehreren Kindern mit Wohnsitz in Panama ausreisen, ist die Vorlage einer notariell beglaubigten Vollmacht des anderen Elternteils – in spanischer Sprache – zwingend notwendig.
 

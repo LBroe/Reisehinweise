@@ -2,13 +2,13 @@
 
 ## Aktuelles
 
-**Von Reisen nach Bangladesch wird derzeit dringend abgeraten.**
+**Von nicht notwendigen Reisen nach Bangladesch wird derzeit abgeraten.**
 
-Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli ist am 5. August 2024 Premierministerin Hasina zurückgetreten und hat Bangladesch verlassen. Danach kam es erneut zu Ausschreitungen im ganzen Land, die inzwischen weitgehend beendet sind. Die bestehende Ausgangssperre wurde am 6. August 2024 aufgehoben. Das Internet und das mobile Internet sind wieder funktionsfähig, mit kurzfristigen Unterbrechungen muss jedoch weiterhin gerechnet werden.
+Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli ist am 5. August 2024 Premierministerin Hasina zurückgetreten und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am 8. August 2024 vereidigt.  
 
-Der Flughafen Dhaka ist geöffnet, die Sicherheitsmaßnahmen am Flughafen wurden erhöht. Geschäfte und Büros sind ebenfalls geöffnet. Am Abend des 8. August 2024 soll eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus vereidigt werden. Polizeikräfte sollen unter neuer Führung ihren Dienst wieder aufnehmen.
+Der Flughafen Dhaka ist zwar geöffnet, die Sicherheitsmaßnahmen wurden jedoch erhöht.
 
-Demonstrationen und gewalttätige Auseinandersetzungen treten punktuell immer noch auf und können auch weiterhin nicht ausgeschlossen werden.
+Nach wie vor kommt es im ganzen Land zu punktuellen Demonstrationen und gewalttätigen Auseinandersetzungen.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -17,7 +17,7 @@ Demonstrationen und gewalttätige Auseinandersetzungen treten punktuell immer no
 
 ## Sicherheit
 
-**Von Reisen nach Bangladesch wird derzeit dringend abgeraten.**
+**Von nicht notwendigen Reisen nach Bangladesch wird derzeit abgeraten.**
 
 ### Terrorismus
 
@@ -35,9 +35,7 @@ Die Gefahr terroristischer Anschläge, auch gegen Ausländer bzw. an Orten, die 
 
 Siehe *Aktuelles*
 
-2018 wurde das Quotensystem zur Bevorzugung von sog. Freiheitskämpfern im Unabhängigkeitskrieg und deren Kindern und Kindeskindern bei der Vergabe von Arbeitsplätzen im öffentlichen Dienst per Regierungsbeschluss beendet. Im Juni 2024 wurde die Quote durch Beschluss des obersten Gerichts wieder eingeführt. Studenten im ganzen Land riefen daraufhin zu Demonstrationen und Protesten auf.
-
-Nachdem die Studentenproteste landesweit eskalierten und sich immer mehr Bevölkerungsgruppen den Protesten anschlossen, ist Premierministerin Hasina am 5. August 2024 zurückgetreten und hat das Land verlassen. Danach kam es zu Plünderungen, zum Niederbrennen von Polizeistationen, Fabriken, Hindutempeln und anderen religiösen Einrichtungen von Minderheiten. Das Militär und die Polizei haben die Situation inzwischen weitgehend unter Kontrolle. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus soll am Abend des 8. August 2024 vereidigt werden. Die Lage im gesamten Land ist volatil.
+Nachdem Studentenproteste landesweit eskalierten und sich immer mehr Bevölkerungsgruppen den Protesten anschlossen, trat Premierministerin Hasina am 5. August 2024 zurück und hat das Land verlassen. Danach kam es zu Plünderungen, zum Niederbrennen von Polizeistationen, Fabriken, Hindutempeln und anderen religiösen Einrichtungen von Minderheiten. Das Militär und die Polizei haben die Situation inzwischen weitgehend unter Kontrolle. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am Abend des 8. August 2024 vereidigt. Die Lage in Dhaka ist weitestgehend stabil, im Rest des Landes noch etwas volatiler.
 
 Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar verschlechtert sich weiter. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
 
