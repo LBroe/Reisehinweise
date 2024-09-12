@@ -153,6 +153,13 @@ Heimtiere können nur über den internationalen Flughafen Bujumbura Melchior NDA
 
 ## Gesundheit
 
+### Aktuelles
+
+Seit dem Frühjahr 2024 breitet sich das Mpox-Virus der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationales [Mpox-Geschehen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") überwiegend der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. In Burundi ist dies der erste gemeldete Ausbruch von Mpox. Es erfolgte der Nachweis von Mpox Klade Ib. Aktuell werden steigende Fallzahlen berichtet. Nähere Informationen zu Mpox erhalten Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") 
+
+Bei der Einreise in betroffene Länder ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie z.B. dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.  
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+
 ### Impfschutz
 
 | Pflichtimpfungen: | Eine Gelbfieberimpfung ist für alle Personen ab dem Alter von neun Monaten zur Einreise vorgeschrieben und auch medizinisch sinnvoll. |
@@ -200,9 +207,9 @@ In Burundi besteht eine Risiko für Erkrankungen wie [Meningokokken-Erkrankungen
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+Seit dem Frühjahr 2024 breitet sich das Mpox-Virus der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationales [Mpox-Geschehen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") überwiegend der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. 
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.

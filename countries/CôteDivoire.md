@@ -48,7 +48,7 @@ Bewaffnete Überfälle auf Einzelpersonen und auf Fahrzeuge, insbesondere auf we
 * Vergewissern Sie sich über die Sicherheit Ihrer Unterkunft.
 * Seien Sie in größeren Menschenmengen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Leisten Sie im Falle eines Überfalls keinesfalls Widerstand.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch, siehe auch [Warnung vor Betrügereien](https://abidjan.diplo.de/ci-de/service/warnung-vor-internetbetrug/1844014). Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch, siehe auch [Warnung vor Betrügereien](https://abidjan.diplo.de/ci-de/service/warnung-vor-internetbetrug/1844014). Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 * Reisen Sie nicht aufgrund von Internetbekanntschaften oder um Geld wiederzuerlangen nach Côte d'Ivoire.
 
 ## Natur und Klima
@@ -91,8 +91,7 @@ Landeswährung ist der westafrikanische CFA-Franc (XOF). Kreditkarten werden au�
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland").  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -147,6 +146,16 @@ Bei der Einfuhr von Hunden und Katzen ist ein international gültiges Impfzeugni
 
 ## Gesundheit
 
+### Aktuelles
+
+Seit dem Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationales [Mpox-Geschehen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") überwiegend der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate.
+
+Für Reisende wird das Risiko einer Infektion aktuell als gering eingeschätzt. Bisher wurden aus Côte d'Ivoire nur Fälle der Klade II gemeldet; aktuell werden steigende Fallzahlen berichtet. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
+
+Bei der Einreise in betroffene Länder ist ggf. mit Mpox-Screeningmaßnahmen, wie z.B. dem Ausfüllen von Fragebögen oder Temperaturmessungen, zu rechnen.
+
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+
 ### Impfschutz
 
 | Pflichtimpfungen: | Eine Gelbfieberimpfung ist für alle Personen ab dem Alter von neun Monaten zur Einreise vorgeschrieben und auch medizinisch sinnvoll. |
@@ -198,9 +207,9 @@ In Côte d‘Ivoire besteht ein Risiko für Erkrankungen wie [Lassafieber,](http
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+Seit dem Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationales Mpox-Geschehen überwiegend der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
 
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402) wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402) wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
 
 * Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
@@ -209,7 +218,7 @@ Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-ges
 
 ### Durch Tierkontakt übertragene Erkrankungen
 
-[Lassafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") und Leptospirose können durch Kontakt mit infektiösen Ausscheidungen von Nagetieren, Lassafieber auch durch Kontakt mit Wildfleisch („bush meat“) übertragen werden. Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") erfolgt über Hunde, Katzen, Affen und Flughunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle. Landesweit kommen Giftschlangen vor.
+[Lassafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lassafieber/2562902 "Lassafieber") und [Leptospirose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leptospirose/2519598 "Leptospirose") können durch Kontakt mit infektiösen Ausscheidungen von Nagetieren, Lassafieber auch durch Kontakt mit Wildfleisch („bush meat“) übertragen werden. Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") erfolgt über Hunde, Katzen, Affen und Flughunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle. Landesweit kommen Giftschlangen vor.
 
 * Meiden Sie grundsätzlich den Kontakt zu Tieren und deren Ausscheidungen.
 * Sollten Sie von einem Hund, Affen, Flughund, einer Katze oder einer Giftschlange gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung. Gegengifte sind nur begrenzt erhältlich.
