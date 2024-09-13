@@ -53,7 +53,7 @@ In den nördlichen Landesteilen einschließlich Buenos Aires kann Starkregen Üb
 
 * Verfolgen Sie die Wettervorhersagen.
 * Beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Vulkanen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Vulkanausbrüchen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
@@ -147,7 +147,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Das Reisedokument muss bei der Einreise gültig sein. Eine Gültigkeitsdauer über die Dauer des geplanten Aufenthalts hinaus wird empfohlen.
 
-Seit April 2022 wird die Datenerfassung bei Einreise von Stempeln auf die elektronische Erfassung der Reisedaten umgestellt. Derzeit werden beide Systeme zur Erfassung der Ein- und Ausreisedaten an verschiedenen Grenzübertrittsstellen genutzt.  
+Die Datenerfassung bei Einreise wird sukzessive von Stempeln auf die elektronische Erfassung der Reisedaten umgestellt. Derzeit werden beide Systeme zur Erfassung der Ein- und Ausreisedaten an verschiedenen Grenzübertrittsstellen genutzt.  
 Von der Weiterreise mit bereits als gestohlen gemeldeten, aber wieder aufgefundenen Reisepässen wird abgeraten, da eine Sachfahndung nicht mehr rückgängig gemacht werden kann.  
 Im Falle des Verlusts des Reisepasses ist die polizeiliche Verlustanzeige (Denuncia) für die Wiederausreise unerlässlich.
 
@@ -158,7 +158,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 
 ### Visum
 
-Deutsche Staatsangehörige mit einem gültigen biometrischen Reisepass benötigen für die Einreise und den Aufenthalt von bis zu 90 Tagen als Tourist kein Visum. Eine Einreise mit einem vorläufigen deutschen Reisepass ist nur mit einem gültigen Visum möglich. Weitere Informationen erteilt die zuständige [argentinische Auslandsvertretung](https://www.auswaertiges-amt.de/de/service/laender/argentinien-node/vertretungenargentinien/201332) in Deutschland.
+Deutsche Staatsangehörige mit biometrischem oder vorläufigem Reisepass benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen als Tourist kein Visum. Weitere Informationen erteilt die zuständige [argentinische Auslandsvertretung](https://www.auswaertiges-amt.de/de/service/laender/argentinien-node/vertretungenargentinien/201332) in Deutschland.
 
 ### Verlängerung des Aufenthalts
 
