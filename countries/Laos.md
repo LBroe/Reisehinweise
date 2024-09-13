@@ -1,5 +1,14 @@
 # Laos: Reise- und Sicherheitshinweise
 
+# Eilmeldung
+
+Der Tropensturm Yagi und anhaltend starke Regenfälle forderten bereits mehrere Hundert Tote. Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
+
+Für die kommenden Tage werden besonders im Norden und Nordosten Thailands, Laos und Vietnam weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
+
+* Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
+* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Verfolgen Sie Vorhersagen zu erhöhten Pegelständen und Überschwemmungen z.B. bei der [Mekong River Commission.](http://www.mrcmekong.org/)
 ## Sicherheit
 
 ### Terrorismus
@@ -16,11 +25,11 @@ Im zweiten Indochina-Krieg (1964-1973) wurden mehr als zwei Millionen Tonnen St
 
 #### *Provinz Attapeu*
 
-Im Zusammenhang mit Grenzverlaufsverhandlungen zwischen Laos und Kambodscha ist es in der Grenzregion zwischen den Distrikten Phouvong und Sanamxay zu Spannungen gekommen. Auf beiden Seiten wurden militärische Einheiten stationiert. Das laotische Militär hat eine restriktive Zugangspolitik für den Bereich des Grenzstreifens mit einer Länge von 140 Kilometer verhängt.
+Im Zusammenhang mit Grenzverlaufsverhandlungen zwischen Laos und Kambodscha ist es in der Vergangenheit in der Grenzregion zwischen den Distrikten Phouvong und Sanamxay zu Spannungen gekommen. Auf beiden Seiten wurden militärische Einheiten stationiert. Das laotische Militär hat eine restriktive Zugangspolitik für den Bereich des Grenzstreifens mit einer Länge von 140 Kilometer verhängt.
 
 #### *Provinz Xaisomboun*
 
-In der Provinz Xaisomboun gab es wiederholt gewalttätige Auseinandersetzungen zwischen bewaffneten Gruppen und Sicherheitskräften. Einzelne Protestaktionen können nicht gänzlich ausgeschlossen werden.
+In der Provinz Xaisomboun gab es bis 2021 gewalttätige Auseinandersetzungen zwischen bewaffneten Gruppen und Sicherheitskräften. Einzelne Protestaktionen können nicht gänzlich ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen und internationalen Medien.
 * Meiden Sie größere Menschenansammlungen.
@@ -55,6 +64,8 @@ In der Sonderwirtschaftszone „Goldenes Dreieck“ im Distrikt Ton Pheung in de
 
 ## Natur und Klima
 
+Siehe *Aktuelles*
+
 Es herrscht tropisches Monsunklima.  
 In der Regenzeit von Mai bis November können monsunartige Regenfälle weitreichende Überschwemmungen und Erdrutsche insbesondere entlang des Mekong-Flusses und in gebirgigen Regionen verursachen.
 
@@ -72,7 +83,7 @@ Der Sicherheitsstandard des Luftverkehrs hat sich mit dem Einsatz neuer Maschine
 
 Die Schnellboote (Speed Boats) sind häufig in Unfälle verwickelt, gelegentlich mit tödlichem Ausgang. Auf fast allen Strecken verkehren auch normale Boote (sog. Slow Boats).
 
-In vielen Provinzen kann das Straßen- und Brückennetz durch starke Regenfälle stark beeinträchtigt werden. Viele Straßen befinden sich dann in einem noch schlechteren Zustand als normalerweise. Insbesondere in der Regenzeit kommt es häufig vor, dass ganze Straßenabschnitte, gerade in ländlichen Gegenden, überflutet oder weggespült werden und kaum oder gar nicht mehr befahrbar sind. In der Dunkelheit sind Gefahren unkalkulierbar.  
+In vielen Provinzen kann das Straßen- und Brückennetz durch starke Regenfälle erheblich beeinträchtigt werden. Viele Straßen befinden sich dann in einem noch schlechteren Zustand als normalerweise. Insbesondere in der Regenzeit kommt es häufig vor, dass ganze Straßenabschnitte, gerade in ländlichen Gegenden, überflutet oder weggespült werden und kaum oder gar nicht mehr befahrbar sind. In der Dunkelheit sind Gefahren unkalkulierbar.  
 Zudem birgt der Straßenverkehr aufgrund des Verhaltens der Verkehrsteilnehmer und des Zustandes vieler Fahrzeuge (nicht zuletzt der Überlandbusse) besondere Risiken. Gerade abends und an Feiertagen tragen alkoholisierte Fahrer zum hohen Verkehrsrisiko bei. Die Unfallrate (auch mit Todesfolge) ist hoch.  
 Nutzer motorisierter Zweiräder müssen einen Schutzhelm tragen.
 
@@ -91,7 +102,7 @@ Der internationale Führerschein wird empfohlen und ist nur in Verbindung mit de
 
 ### Besondere Verhaltenshinweise
 
-Die Bevölkerung von Laos ist aus sehr vielen Ethnien zusammengesetzt, deren Verhaltensweisen und Bräuche respektiert werden sollten. Dies gilt insbesondere, aber nicht nur für religiöse Stätten und Zeremonien, etwa hinsichtlich der Bekleidung bei Betreten buddhistischer Klöster. Beim Baden an öffentlichen Stellen wird Frauen empfohlen, ein T-Shirt und eine kurze Hose über der Badekleidung zu tragen.
+In Laos ist leben zahlreiche unterschiedliche Ethnien, deren Verhaltensweisen und Bräuche respektiert werden sollten. Dies gilt insbesondere für die Bekleidung beim Betreten buddhistischer Klöster oder bei der Teilnahme an traditionellen Zeremonien. Beim Baden an öffentlichen Stellen wird Frauen empfohlen, ein T-Shirt und eine kurze Hose über der Badekleidung zu tragen.
 
 ### LGBTIQ
 
@@ -103,11 +114,11 @@ Es gibt keine strafrechtliche Verfolgung von LGBTIQ-Personen. Gleichgeschlechtli
 
 Rauschgiftdelikte wie der Erwerb, die Verteilung und die Ein- und Ausfuhr von Drogen aller Art werden strafrechtlich streng verfolgt.
 
-Bei schweren Drogenvergehen drohen lebenslängliche Haftstrafen oder sogar die Todesstrafe (Besitz oder Handel von mehr als 500 g Heroin, 3 kg Amphetamine und/oder 10 kg Chemikalien für die Drogenherstellung). Todesurteile wurden bereits verhängt, wenn auch bisher nicht vollstreckt. Die steigende Zahl der Todesfälle ausländischer Drogenkonsumenten weist darauf hin, dass die Qualität der Drogen offenbar falsch eingeschätzt wird.
+Bei schweren Drogenvergehen drohen lebenslängliche Haftstrafen oder sogar die Todesstrafe (Besitz oder Handel von mehr als 500 g Heroin, 3 kg Amphetamine und/oder 10 kg Chemikalien für die Drogenherstellung). Todesurteile wurden verhängt, wenn auch nicht vollstreckt.
 
-Auch der Besitz geringer Mengen, auch im Transitbereich von Flughäfen, kann zu mehrjährigen Freiheitsstrafen führen. Die Strafverfahren entsprechen nicht rechtsstaatlichen Vorstellungen (jahrelange Untersuchungshaft, teure und unzureichende anwaltliche Vertretung, harte Haftbedingungen). Bereits das Rauchen eines Joints kann zur Festnahme und in der Regel zur Zahlung einer erheblichen Geldstrafe führen. Zunehmend wird Drogenerwerb, -konsum und mittlerweile sogar der Aufenthalt in unmittelbarer Nähe eines Konsumenten wie eine Art Mittäterschaft von interessierten Kreisen zur Erpressung der Betroffenen genutzt.
+Der Besitz bereits geringer Mengen, auch im Transitbereich von Flughäfen, kann zu mehrjährigen Freiheitsstrafen führen. Die Strafverfahren entsprechen nicht rechtsstaatlichen  Grundsätzen (jahrelange Untersuchungshaft, teure und unzureichende anwaltliche Vertretung, harte Haftbedingungen). Bereits das Rauchen eines Joints kann zur Festnahme und in der Regel zur Zahlung einer erheblichen Geldstrafe führen. Zunehmend wird Drogenerwerb, -konsum und mittlerweile sogar der Aufenthalt in unmittelbarer Nähe eines Konsumenten wie eine Art Mittäterschaft von interessierten Kreisen zur Erpressung der Betroffenen genutzt.
 
-Außereheliche sexuelle Kontakte sind in Laos traditionell nicht gestattet. Dies gilt im Besonderen für intime Beziehungen zwischen Ausländern und Laoten. Bereits vermutete Verstöße wurden in der Vergangenheit in Einzelfällen mit mehr als symbolischen Geld- oder Haftstrafen geahndet (offizielles Strafmaß liegt bei 500 bis 5.000 USD). Fälle von Erpressung, nächtliche Razzien in Hotels und Privatunterkünften sind keine Seltenheit.
+Außereheliche sexuelle Kontakte sind in Laos traditionell nicht gestattet. Dies gilt im Besonderen für intime Beziehungen zwischen Ausländern und Laoten. Bereits vermutete Verstöße  können in Einzelfällen mit mehr als symbolischen Geld- oder Haftstrafen geahndet werden (offizielles Strafmaß liegt bei 500 bis 5.000 USD). Fälle von Erpressung, nächtliche Razzien in Hotels und Privatunterkünften sind keine Seltenheit.
 
 Geschlechtsverkehr mit Personen unter 18 Jahren ist nach laotischem Recht strafbar. Der sexuelle Missbrauch Minderjähriger durch deutsche Staatsangehörige wird auch dann in Deutschland strafrechtlich verfolgt, wenn die Tat in Laos begangen wurde.
 
@@ -123,9 +134,9 @@ Ein konsularischer Beistand ist außerhalb von Vientiane wegen der unzureichende
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Laotische Kip (LAK). LAK, THB (thailändische Baht) und USD können mit Kreditkarte (Visa und teils Mastercard) in verschiedenen Banken in Vientiane abgehoben werden. Die Gebühren liegen je nach Bank und Währung zwischen 2,7 und 5%, zuzüglich der Gebühren der Heimatbank. Nahezu alle in Vientiane ansässigen Banken und auch einige in Luang Prabang bieten verschiedene Formen von Blitzüberweisungen an.
+Landeswährung ist der laotische Kip (LAK). LAK, THB (thailändische Baht) und USD können mit Kreditkarte (VISA und teils Mastercard) in verschiedenen Banken in Vientiane abgehoben werden. Die Gebühren liegen je nach Bank und Währung zwischen 2,7 und 5%, zuzüglich der Gebühren der Heimatbank. Nahezu alle in Vientiane ansässigen Banken und auch einige in Luang Prabang bieten verschiedene Formen von Blitzüberweisungen an.
 
-An den meisten Geldautomaten kann Geld gegen Zahlung einer Gebühr mit Kreditkarte abgehoben werden. Der an Geldautomaten auszahlbare Höchstbetrag ist von Bank zu Bank verschieden und liegt in der Regel bei 2.000.000 KIP. Bei einigen Banken sind mehrere Abhebungen an einem Tag möglich.
+Der an Geldautomaten auszahlbare Höchstbetrag ist von Bank zu Bank verschieden und liegt in der Regel bei 2 Mio. LAK. Bei einigen Banken sind mehrere Abhebungen an einem Tag möglich.
 
 ## Einreise und Zoll
 
@@ -133,7 +144,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Laos sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen in Laos sowie der für Deutschland [zuständigen laotischen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
 
 ### Reisedokumente
 
@@ -156,15 +167,15 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Laos ein Visum, das
 
 Grundsätzlich ist das Visum vor der Einreise bei einer laotischen Auslandsvertretung zu beantragen. Zuständig für die Visumerteilung sind die [Botschaft der Demokratischen Volksrepublik Laos in Berlin](http://www.laos-botschaft.de/), die laotische Botschaft in Bangkok (520.502/1-3 Soi Sahakarnpramoon, Phacha-Uthit Road, Wangthonglang, Bangkok 10310, Tel.: (+662) 539 3642, (+662) 539 3827, [E-Mail](mailto:laoembassyinbkk@gmail.com): laoembassyinbkk@gmail.com) oder das laotische Konsulat in Khon Kaen (512/2 Tombon Sila Amphae Mueang Khonkaen 4000, Tel.: (+6643) 393 402, [E-Mail:](mailto:Ckklao@hotmail.com) Ckklao@hotmail.com).
 
-Im Rahmen des laotischen [Tourismusjahres "Visit Laos 2024"](https://www.tourismlaos.org/updates/) kann über die [Botschaft von Laos in Berlin](https://www.laos-botschaft.de/) ein Mehrfachreisevisum für Laos beantragt und die Dauer des Aufenthalts von 30 Tagen auf 60 Tage verlängert werden. Diese Regelung gilt noch bis 31. Dezember 2024.
+Im Rahmen des laotischen [Tourismusjahres "Visit Laos 2024"](https://www.tourismlaos.org/updates/) kann über die [laotische Botschaft in Berlin](https://www.laos-botschaft.de/) ein Mehrfachreisevisum für Laos beantragt und die Dauer des Aufenthalts von 30 Tagen auf 60 Tage verlängert werden. Diese Regelung gilt bis zum 31. Dezember 2024.
 
-Beim Visum bei Einreise oder E-Visa bleibt es bei einer einzigen Einreise mit der Möglichkeit, die Dauer des Aufenthalts von 30 Tagen auf 60 Tage verlängern.
+Bei einem Visum bei Einreise oder E-Visum bleibt es bei einer einmaligen Einreise mit der Möglichkeit, die Dauer des Aufenthalts von 30 Tagen auf 60 Tage zu verlängern.
 
 #### *Online-Visum (E-Visa)*
 
 Siehe auch *Visum vor der Einreise*
 
-Für Touristen ist es ebenfalls möglich, für einen Aufenthalt von 30 Tagen vor Einreise ein elektronisches [E-Visa](https://laoevisa.gov.la/) zu erhalten. Derzeit berechtigt das elektronische Visum nur zur Einreise an den Grenzstellen Wattay International Airport, Lao-Thai Friendship Bridge in Vientiane, Luang Prabang International Airport, Pakse International Airport und Lao-Thai Friendship Bridge II in Savannakhet. Eine Ausweitung auf andere Grenzstellen ist geplant. Das elektronische Visum ist für 30 Tage gültig. Die Visumgebühr beträgt 50 USD. Die Bearbeitungszeit beträgt drei Arbeitstage.
+Für Touristen ist es möglich, für einen Aufenthalt von 30 Tagen vor Einreise ein elektronisches [E-Visum](https://laoevisa.gov.la/) zu erhalten. Derzeit berechtigt das elektronische Visum nur zur Einreise an den Grenzstellen Wattay International Airport, Lao-Thai Friendship Bridge in Vientiane, Luang Prabang International Airport, Pakse International Airport und Lao-Thai Friendship Bridge II in Savannakhet. Eine Ausweitung auf andere Grenzstellen ist geplant. Das elektronische Visum ist für 30 Tage gültig. Die Visumgebühr beträgt 50 USD. Die Bearbeitungszeit beträgt drei Arbeitstage.
 
 #### *Visum bei Einreise (Visa on Arrival)*
 

@@ -1,5 +1,14 @@
 # Vietnam: Reise- und Sicherheitshinweise
 
+# Eilmeldung
+
+Der Tropensturm Yagi und anhaltend starke Regenfälle forderten bereits mehrere Hundert Tote. Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
+
+Für die kommenden Tage werden besonders im Norden und Nordosten Thailands, Laos und Vietnam weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
+
+* Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
+* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Verfolgen Sie Vorhersagen zu erhöhten Pegelständen und Überschwemmungen z.B. bei der [Mekong River Commission.](http://www.mrcmekong.org/)
 ## Aktuelles
 
 **Von einem Besuch Nordvietnams – auch der Provinzen Sapa, Lao Cai, Cao Bang, Quang Ninh und Ha Giang - wird dringend abgeraten.**
@@ -68,6 +77,8 @@ Ausländische Touristen werden in Ho-Chi-Minh-Stadt vermehrt unter verschiedenen
 ## Natur und Klima
 
 #### *Tropenstürme, Überschwemmungen*
+
+Siehe *Aktuelles*  
 
 Es herrscht tropisches bis subtropisches Klima.  
 In den Provinzen von Mittelvietnam und dem Mekong-Delta, aber auch in einigen Provinzen im Süden Vietnams, kann es besonders zwischen Juni und November zu Taifunen kommen, die großflächige Überschwemmungen, Erdrutsche und Beeinträchtigungen der Infrastruktur verursachen können.

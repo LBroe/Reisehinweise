@@ -1,8 +1,28 @@
 # Thailand: Reise- und Sicherheitshinweise
 
+# Eilmeldung
+
+Der Tropensturm Yagi und anhaltend starke Regenfälle forderten bereits mehrere Hundert Tote. Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
+
+Für die kommenden Tage werden besonders im Norden und Nordosten Thailands, Laos und Vietnam weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
+
+* Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
+* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Verfolgen Sie Vorhersagen zu erhöhten Pegelständen und Überschwemmungen z.B. bei der [Mekong River Commission.](http://www.mrcmekong.org/)
+## Aktuelles
+
+**Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.** 
+
+Betroffene können sich für Fragen und Hilfe rund um die Uhr an die (englischsprachige) Hotline des Disaster Warning Centers unter der Telefonnummer 1784 oder an die thailändische Touristenpolizei unter 1155 wenden.
+
+* Wenn Sie sich in betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
+* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+
 ## Sicherheit
 
 **Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**
+
+**Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.**   
 
 ### Terrorismus
 
@@ -50,6 +70,8 @@ In entlegenen Gebieten und in den Grenzgebieten zu Kambodscha und Myanmar kann e
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 Es herrscht tropisches Klima.  
 Insbesondere in der Regenzeit von Mai bis Oktober kommt es häufig zu großflächigen Überschwemmungen und Erdrutschen, denen oft Menschen zum Opfer fallen.  
