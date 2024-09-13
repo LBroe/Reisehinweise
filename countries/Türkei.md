@@ -129,13 +129,13 @@ Ausflüge werden oft mit Werksbesichtigung und Kaufgelegenheiten angeboten. Dies
 
 ### Führerschein
 
-Der deutsche Führerschein ist für touristische Aufenthalte ausreichend.
+Der deutsche Führerschein wird bei touristischen Aufenthalten anerkannt.
 
 ### Besondere Verhaltenshinweise
 
 Die Türkei ist ein muslimisch geprägtes Land. Abseits der touristischen Badestrände empfiehlt es sich, das Verhalten und die Kleidung den lokalen Gepflogenheiten anzupassen. Während des Ramadan gibt es außerhalb der von Touristen frequentierten Gebiete Einschränkungen, und das Essen, Trinken und Rauchen werden tagsüber ggf. nicht geduldet.
 
-Das Fotografieren von militärischen und anderen der Sicherheit dienenden Einrichtungen sowie von Grenzanlagen und Angehörigen der Sicherheitskräfte ist nicht erlaubt. Auch an bestimmten Orten wie Friedhöfen, religiösen Stätten oder privaten Anwesen kann das Fotografieren zu negativen Reaktionen bei Bevölkerung und Sicherheitskräften führen.
+Das Fotografieren militärischer und anderer der Sicherheit dienender Einrichtungen sowie von Grenzanlagen und Angehörigen der Sicherheitskräfte ist nicht erlaubt. Auch an bestimmten Orten wie Friedhöfen, religiösen Stätten oder privaten Anwesen kann das Fotografieren zu negativen Reaktionen bei Bevölkerung und Sicherheitskräften führen.
 
 Die türkische Regulierungsbehörde für Tabakwaren und Alkoholika (*TAPDK*) macht auf die Gefahr durch den Verzehr gepanschten Alkohols aufmerksam und empfiehlt, beim Kauf von Alkohol auf die Originalverpackung und Lizenzierung (*TAPDK*-Logo auf dem Flaschendeckel, unbeschädigte, blau-türkisfarbene Banderole) zu achten.
 
@@ -160,6 +160,8 @@ Ausreisesperren führen oft zu monatelangen oder sogar über mehrere Jahre dauer
 Das Fotografieren militärischer Anlagen und Angehöriger der Sicherheitskräfte oder in militärischer Sicherheitszonen ist verboten.  
 In der Türkei werden Drogendelikte besonders hart bestraft, zehn bis 20 Jahre Gefängnis für die Einfuhr, sechs bis 12 Jahre für die Ausfuhr von Drogen.
 
+Auch die Ein-/Ausfuhr sowie der Gebrauch von Cannabis sind in der Türkei weiterhin verboten; dies gilt auch für Aufenthalte im Transitbereich türkischer Flughäfen.
+
 Ebenfalls mit Gefängnisstrafen bis zu zehn Jahren wird der Erwerb, Besitz und die Ausfuhr von „Kultur- und Naturgütern“ geahndet, da diese als staatliches Eigentum gelten. Bei Verstößen sind auch für Touristen mehrere Monate Untersuchungshaft und hohe Kautionszahlungen z. B. von 9.000 EUR gängige Praxis, auch wenn es sich um Antiquitäten bzw. alt aussehende Gegenstände von vermeintlich geringem Wert handelt. In Einzelfällen wurden Haftstrafen verhängt. Es wird daher nachdrücklich davor gewarnt, von Händlern z. B. Antiquitäten, alte Münzen, Fossilien etc. anzukaufen oder selbst mitzunehmen. Polizei und Zollbehörden legen den Begriff „Antiquitäten“ weit aus. Jeder bearbeitete Stein kann darunterfallen. Da es für Reisende praktisch unmöglich ist, selbst zu erkennen, ob ein solcher Gegenstand als Antiquität geschützt ist, sollten Reisende, die über keine entsprechende Genehmigung der zuständigen türkischen Behörden verfügen, generell Steine, Münzen, Fossilien und alt aussehende Gegenstände nicht in ihrem Reisegepäck auszuführen versuchen. Grundsätzlich besteht jedoch die Möglichkeit, bei den dem türkischen Kulturministerium unterstehenden Museen und an einigen Zollstellen eine Ausfuhrgenehmigung einzuholen.
 
 Die Einfuhr von Waffen und Schneidwerkzeug, auch Camping-Messern, ist ohne besondere Erlaubnis verboten.
@@ -173,7 +175,7 @@ Als allgemeiner Grundsatz gilt, dass in der Türkei unter Strafe steht, was auch
 
 ### Geld/Kreditkarten
 
-Landeswährung ist die Türkische Lira (TRY). Mit einer deutschen Bankkarte kann an vielen Geldautomaten problemlos Geld abgehoben werden; die türkischen Banken verlangen jedoch mittlerweile überwiegend eine Gebühr, die von den deutschen Banken nicht erstattet wird.  
+Landeswährung ist die Türkische Lira (TRY). Mit einer deutschen Debitkarte (Girocard) kann an vielen Geldautomaten problemlos Geld abgehoben werden; die türkischen Banken verlangen jedoch mittlerweile überwiegend eine Gebühr, die von den deutschen Banken nicht erstattet wird.  
 Auch Kreditkarten werden als Zahlungsmittel akzeptiert. Teilweise muss man dazu zusätzlich den Reisepass oder Personalausweis vorlegen. Unter Angabe der PIN kann man mit der Kreditkarte außerdem Geld bei Banken oder an entsprechend gekennzeichneten Automaten Bargeld abheben.
 
 ## Einreise und Zoll

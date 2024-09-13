@@ -10,6 +10,8 @@
 
 ### Sicherheitslage
 
+Teile Russlands und die Stadt Moskau sind vermehrt Ziel von Drohnenangriffen.
+
 Die Stadt Moskau und vor allem das südliche Umland, aber auch andere Orte in Russland waren in jüngster Zeit Ziel von Drohnenangriffen. Diese haben bisher begrenzte Sachschäden verursacht. Das Abwehrsystem um Moskau wurde deutlich ausgebaut. Möglich bleiben auch Angriffe auf das öffentliche Verkehrsnetz, insbesondere den Zugverkehr. In Verwaltungsgebieten entlang der russisch-ukrainischen Grenze (insb. in der Oblast Kursk) finden derzeit Kampfhandlungen statt. Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete wird gewarnt.
 
 In den im Oktober 2022 von Russland völkerrechtswidrig annektierten ukrainischen Gebieten Luhansk, Donezk, Cherson und Saporischschja gilt das Kriegsrecht. Für diese, wie für die übrigen Gebiete in der Ukraine gilt eine [Reisewarnung, *siehe Ukraine*.](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/ukraine-node/ukrainesicherheit/201946)
@@ -55,9 +57,17 @@ Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sow
 
 **Von Reisen in die Russische Föderation wird dringend abgeraten. Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete (Belgorod, Kursk, Brjansk, Woronesch, Rostow, Krasnodar) wird gewarnt.**In der Russischen Föderation besteht auch für deutsche Staatsangehörige und deutsch-russische Doppelstaater die Gefahr willkürlicher Festnahmen,**siehe *Aktuelles.*** 
 
+### Drohnen
+
+Die Stadt Moskau, das südliche Umland aber auch Teile Zentralrusslands sind vermehrt Ziele von Drohnenangriffen.
+
+* Suchen Sie bei Einschlägen oder Explosionen sofort einen sicheren Ort auf (z.B. Metrostationen, Tiefgaragen).
+* Entfernen Sie sich umgehend von Glasfassaden. Rechnen Sie damit, dass Trümmerteile herabstürzen können.
+* Folgen Sie den Anweisungen der Sicherheitskräfte.
+
 ### Terrorismus
 
-Am 22. März 2024 kam es zu einem Terroranschlag auf das Veranstaltungs- und Einkaufszentrum Krokus City im Moskauer Umland, der mehr als 130 Todesopfer forderte. Die russischen Behörden warnen vor Anschlägen und rufen zu besonderer Vorsicht auf.
+Im März 2024 kam es zu einem Terroranschlag auf das Veranstaltungs- und Einkaufszentrum Krokus City im Moskauer Umland, der mehr als 130 Todesopfer forderte. Die russischen Behörden warnen vor Anschlägen und rufen zu besonderer Vorsicht auf.
 
 * Rechnen Sie mit intensivierten Sicherheitsmaßnahmen, insbesondere an Flughäfen, Bahnhöfen und in der Metro.
 * Seien Sie weiterhin insbesondere an belebten Orten, bei Menschenansammlungen und bei der Nutzung öffentlicher Verkehrsmittel besonders aufmerksam.

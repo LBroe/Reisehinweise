@@ -1,5 +1,12 @@
 # Tschechische Republik: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+In Tschechien wird landesweit vor extremem Hochwasser gewarnt. Der Schwerpunkt der Regenfälle wird im Osten des Landes (Süd- und Nordmähren), aber auch im Böhmerwald und in Nordböhmen entlang der Elbe sowie im Altvatergebirge und der Vysočina erwartet. Die Warnung gilt auch für Prag. Es kann lokal zu Evakuierungen kommen. Die Behörden raten wegen des gleichzeitig aufkommenden starken Windes davon ab, sich in den betroffenen Gebieten in Wäldern oder Parks aufzuhalten aufgrund der Gefahr umstürzender Bäume.
+
+* Informieren Sie sich in den lokalen Nachrichten über die aktuelle Lage.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -32,6 +39,8 @@ In Notfällen kann die tschechische Polizei über die Notrufnummer 158 oder 112 
 
 ## Natur und Klima
 
+Siehe *Aktuelles*
+
 Es herrscht gemäßigtes Kontinentalklima.
 
 In den Wintermonaten bestehen in Gebirgsregionen Gefahren durch abgängige Lawinen, insbesondere abseits von ausgewiesenen Pisten und Loipen.
@@ -54,7 +63,7 @@ Im Öffentlichen Nahverkehr müssen Einzelfahrkarten vor Fahrtbeginn gekauft und
 
 Die tschechische Polizei informiert auf ihrer Webseite in englischer Sprache über die [wesentlichen Verkehrsregeln](https://www.ibesip.cz/Tematicke-stranky/Pravidla-silnicniho-provozu/BASIC-TRAFFIC-RULES-IN-THE-CZECH-REPUBLIC) in der Tschechischen Republik. Straßenbahnen haben immer Vorfahrt, auch beim Abbiegen und an Fußgängerüberwegen.
 
-Bei durchgezogenen gelben Linien am Fahrbahnrand gilt Halteverbot, bei gestrichelten gelben Linien Parkverbot. In Prag gelten viele Parkeinschränkungen. Die Stadt Prag informiert auf ihrer [Webseite](https://www.prague.eu/de/praktisches) über Parkmöglichkeiten und Parkzonen.
+Bei durchgezogenen gelben Linien am Fahrbahnrand gilt Halteverbot, bei gestrichelten gelben Linien Parkverbot. In Prag gelten viele Parkeinschränkungen. Die Stadt Prag informiert auf ihrer [Webseite](https://www.praha.eu/web/eng) über Parkmöglichkeiten und Parkzonen.
 
 Das Befahren von Bus- oder Rettungsgassen ist verboten und wird mit Bußgeld geahndet.
 
