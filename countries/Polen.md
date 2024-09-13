@@ -2,6 +2,15 @@
 
 ## Aktuelles
 
+Für den Süden Polens sind für das Wochenende heftige Regenfälle und Hochwasser vorhergesagt.
+
+Die Nummer +47 8713 011 für den Diensthabenden der Polizei ist auch im Fall einer Hochwassergefahrenlage zu nutzen. Von deutschen oder englischen Sprachkenntnissen kann jedoch nicht in jedem Fall ausgegangen werden.
+
+* Bitte leisten Sie den Anweisungen und Empfehlungen der Funkzellennachrichten der polnischen Behörden Folge, die an ausländische Nummern auch in englischer Sprache versandt werden.
+* Über die aktuelle Lage können Sie sich auf der Website des polnischen Wetterinstituts [www.imgw.pl](http://www.imgw.pl/) auf dem Laufenden halten.
+* Halten Sie sich fern von Bächen und Flüssen, diese können durch Zufluss schnell anschwellen, auch wenn Regen lokal moderat ist.
+* Bitte seien Sie besonders vorsichtig in den polnischen Gebirgsregionen.
+
 ### *Verbot der Einreise für Kfz mit Zulassung in der Russischen Föderation*
 
 Seit 2023 dürfen Kfz mit Zulassung in der Russischen Föderation grundsätzlich nicht mehr die Grenze nach Polen überqueren. Weitergehende Informationen (auch zu ggf. möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der zuständigen Zollbehörde erhältlich.
@@ -50,6 +59,8 @@ Für geparkte Lastkraftwagen wird auf das Risiko des Ladungsdiebstahls durch Auf
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie im Zweifel keine Daten von sich mit.
 
 ## Natur und Klima
+
+Siehe *Aktuelles* 
 
 Es herrscht gemäßigtes Übergangsklima, teilweise mit kalten Wintern.
 

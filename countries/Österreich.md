@@ -1,5 +1,13 @@
 # Österreich: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Bis Montagnacht (Sonntag, 15. September bzw. Montag, 16. September 2024) werden in Österreich heftige Unwetter, extreme Niederschläge und Sturm erwartet. Anhaltender starker Regen- und in höheren Lagen Schneefall haben bereits zu mehreren Straßensperren und Unterbrechungen von Zugstrecken geführt. Die [österreichische Bahn](https://oesterreich.orf.at/stories/3272884/) rät bis Sonntagabend von nicht notwendigen Reisen ab.
+
+* Informieren Sie sich über die [aktuelle Wetterlage](https://wetter.orf.at/oes/) über die österreichischen Medien.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.
+* Beachten Sie die [regionalen Wetter- und Verkehrshinweise](https://www.oeamtc.at/) und verhalten Sie sich adäquat.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -19,6 +27,8 @@ Kleinkriminalität wie Taschendiebstähle und Handtaschenraub kommen insbesonder
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 Es herrscht gemäßigtes Alpin-Klima mit zunehmend kontinentalem Einfluss nach Osten.  
 Im Winter kommt es in den Bergen immer wieder zu Lawinenabgängen und auch Sperrungen von Gebieten wie insbesondere von Tälern.  
@@ -72,7 +82,7 @@ Es ist an allen öffentlichen Orten nicht mehr erlaubt, das Gesicht durch Kleidu
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der EUR. Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
+Landeswährung ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
 
 ## Einreise und Zoll
 
