@@ -139,7 +139,7 @@ Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusä
 Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten möglich:
 
 * **Reisepass:** Ja
-* **Vorläufiger Reisepass:** Ja, jedoch nur mit gültigem Visum
+* **Vorläufiger Reisepass:** Ja
 * **Personalausweis:** Nein
 * **Vorläufiger Personalausweis:** Nein
 * **Kinderreisepass:** Ja

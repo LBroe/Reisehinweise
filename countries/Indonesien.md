@@ -128,7 +128,7 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 Bei dem aus tausenden Inseln bestehenden indonesischen Archipel sind vielfältige regionale und lokale Besonderheiten zu beachten, von denen hier nur auf die Wichtigsten hingewiesen werden kann.
 
-In der östlichen Provinz Aceh finden Teile der Scharia Anwendung, und zwar sowohl auf muslimische Personen als auch auf Reisende nicht-muslimischen Glaubens. Homosexuelle Beziehungen, Glücksspiel, Alkoholkonsum oder außerehelicher Geschlechtsverkehr können mit Prügelstrafen geahndet werden. In unterschiedlichen Abstufungen gilt Ähnliches in einigen der angrenzenden Gebiete.
+In der Provinz Aceh im Nordwesten Sumatras finden Teile der Scharia Anwendung, und zwar sowohl auf muslimische Personen als auch auf Reisende nicht-muslimischen Glaubens. Homosexuelle Beziehungen, Glücksspiel, Alkoholkonsum oder außerehelicher Geschlechtsverkehr können mit Prügelstrafen geahndet werden. In unterschiedlichen Abstufungen gilt Ähnliches in einigen der angrenzenden Gebiete.
 
 Indonesien ist mit Ausnahme von Bali ein überwiegend islamisch geprägtes Land. Die allgemeinen Verhaltensregeln, die für Reisende (insbesondere Frauen) in islamischen Ländern gelten, sollten daher (außer auf Bali) insbesondere in ländlichen Gegenden Indonesiens beachtet werden.
 
