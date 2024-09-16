@@ -4,7 +4,7 @@
 
 Der Tropensturm Yagi und anhaltend starke Regenfälle forderten bereits mehrere Hundert Tote. Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
 
-Für die kommenden Tage werden besonders im Norden und Nordosten Thailands, Laos und Vietnam weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
+Für die kommenden Tage werden besonders im Norden und Nordosten Thailands und Laos weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
 
 * Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
 * Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -22,7 +22,7 @@ Betroffene können sich für Fragen und Hilfe rund um die Uhr an die (englischsp
 
 **Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**
 
-**Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.**   
+**Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.** 
 
 ### Terrorismus
 
@@ -274,7 +274,7 @@ Informationen zu Beschränkungen und Antragsformulare zur Medikamenteneinfuhr in
 
 ### Heimtiere
 
-Für die Einreise mit Heimtieren sind ein Formular des [Thai Department of Livestock Development](http://thaiembdc.org/wp-content/uploads/2015/05/Permit-form-R-1-1.pdf) und ein amtstierärztliches Zeugnis erforderlich, das maximal 10 Tage vor der Einreise ausgestellt sein muss. Hunde und Katzen müssen geimpft sein. Weitere Informationen erteilt das Suvarnabhumi Airport Cargo Clearance Customs Office.
+Für die Einreise mit Heimtieren sind ein Formular des Thai Department of Livestock Development und ein amtstierärztliches Zeugnis erforderlich, das maximal 10 Tage vor der Einreise ausgestellt sein muss. Hunde und Katzen müssen geimpft sein. Weitere Informationen erteilt das [Suvarnabhumi Airport Cargo Clearance Customs Office](https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_F01_160913_01&ini_menu=menu_individual_submenu_02&lang=en&left_menu=menu_individual_submenu_02_160421_02). Praktische Hinweise zu dem Thema finden sich auf den Webseiten der thailändischen Botschaften in [Den Haag](https://hague.thaiembassy.org/th/publicservice/bringing-pets-to-thailand) und [Helsinki](https://helsinki.thaiembassy.org/en/publicservice/26932-bringing-pets-to-thailand).
 
 ## Gesundheit
 

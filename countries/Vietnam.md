@@ -1,27 +1,12 @@
 # Vietnam: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Der Tropensturm Yagi und anhaltend starke Regenfälle forderten bereits mehrere Hundert Tote. Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
-
-Für die kommenden Tage werden besonders im Norden und Nordosten Thailands, Laos und Vietnam weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
-
-* Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
-* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Verfolgen Sie Vorhersagen zu erhöhten Pegelständen und Überschwemmungen z.B. bei der [Mekong River Commission.](http://www.mrcmekong.org/)
 ## Aktuelles
 
-**Von einem Besuch Nordvietnams – auch der Provinzen Sapa, Lao Cai, Cao Bang, Quang Ninh und Ha Giang - wird dringend abgeraten.**
-
-In Nordvietnam besteht aktuell eine stark erhöhte Gefahr von Erdrutschen und Überschwemmungen. Ausgelöst durch Tropensturm Yagi haben schwere Niederschläge in den Provinzen nördlich und westlich von Hanoi Straßen, Verkehrswege und Infrastruktur beschädigt. Dies betrifft auch die Regionen Sapa, Lao Cai, Cao Bang, Quang Ninh und Ha Giang. Straßen nach Sapa sind zum Teil durch Erdrutsche betroffen, alle touristische Attraktionen sind geschlossen. In den kommenden Tagen wird mit weiteren Niederschlägen gerechnet.
-
-In den nördlichen Küstenregionen einschließlich der Halong-Bucht muss aufgrund von Schäden an der Infrastruktur und Stromversorgung mit Einschränkungen gerechnet werden. Bis auf Weiteres sind alle Ausflugsfahrten in der Halong-Bucht eingestellt.
+Tropensturm Yagi hat in den nördlichen Küstenregionen und Provinzen die Infrastruktur und Stromversorgung beschädigt, was zu Beeinträchtigungen und Einschränkungen führt. Bis auf Weiteres sind auch alle Ausflugsfahrten in der Halong Bucht eingestellt.
 
 Es besteht überall in der Region, einschließlich Hanoi, die Gefahr von Baumbruch und umstürzender Bäume.
 
-Aufgrund starker Regenfälle steigen entlang des Roten Flusses aktuell die Wasserpegel stark an. In Hanoi werden daher in folgenden Bezirken Überschwemmungen erwartet: Tay Ho, vor allem Phu Truong/Ciputra, Long Bien, Hoan Kiem und Gia Lam. Die Brücke Chuong Duong in Hanoi ist ab dem Vormittag des 10. September 2024 für Lkws, Transporter und Busse gesperrt. Möglicherweise werden weitere Brücken gesperrt werden. Bis mindestens 11. September wird ein weiterer Anstieg der Wasserpegel des Roten Flusses wie auch anderer Flüsse in Nordvietnam erwartet. Für die kommenden Tage werden für ganz Nordvietnam, einschließlich Hanoi, weitere starke Regenfälle vorhergesagt.
-
-* Wenn Sie sich in diesen Regionen aufhalten, beachten Sie aktuelle Warnstufen der vietnamesischen Behörden und folgen Sie den Anweisungen der lokalen Autoritäten.
+* Wenn Sie sich in diesen Regionen aufhalten, beachten Sie aktuelle Warnstufen der vietnamesischen Behörden und folgen Sie den Anweisungen der lokalen Behörden.
 
 ## Sicherheit
 
