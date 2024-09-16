@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Bis Montagnacht (Sonntag, 15. September bzw. Montag, 16. September 2024) werden in Österreich heftige Unwetter, extreme Niederschläge und Sturm erwartet. Anhaltender starker Regen- und in höheren Lagen Schneefall haben bereits zu mehreren Straßensperren und Unterbrechungen von Zugstrecken geführt. Die [österreichische Bahn](https://oesterreich.orf.at/stories/3272884/) rät bis Sonntagabend von nicht notwendigen Reisen ab.
+Die heftigen Unwetter in Österreich mit extremen Niederschlägen und Sturm werden voraussichtlich bis Dienstagnacht (17. September 2024) andauern. Anhaltender starker Regen- und in höheren Lagen Schneefall haben bereits zu mehreren Straßensperren und Unterbrechungen von Zugstrecken geführt. Am 15. September 2024 wurde ganz Niederösterreich zum Katastrophengebiet erklärt. Im Burgenland gilt eine Hochwasserwarnung. Die [österreichische Bahn](https://oesterreich.orf.at/stories/3272884/) rät bis einschließlich Donnerstag, 19. September 2024, von nicht notwendigen Reisen ab. Alle wichtigen Bahnverbindungen von und nach Wien sind zumindest bis Betriebsschluss am Dienstag, 17. September 2024, gesperrt. In Wien ist der öffentliche Nahverkehr bis auf Weiteres stark eingeschränkt.
 
 * Informieren Sie sich über die [aktuelle Wetterlage](https://wetter.orf.at/oes/) über die österreichischen Medien.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.

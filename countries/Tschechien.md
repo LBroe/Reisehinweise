@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-In Tschechien wird landesweit vor extremem Hochwasser gewarnt. Der Schwerpunkt der Regenfälle wird im Osten des Landes (Süd- und Nordmähren), aber auch im Böhmerwald und in Nordböhmen entlang der Elbe sowie im Altvatergebirge und der Vysočina erwartet. Die Warnung gilt auch für Prag. Es kann lokal zu Evakuierungen kommen. Die Behörden raten wegen des gleichzeitig aufkommenden starken Windes davon ab, sich in den betroffenen Gebieten in Wäldern oder Parks aufzuhalten aufgrund der Gefahr umstürzender Bäume.
+In Tschechien sind viele Regionen von extremem Hochwasser betroffen. Tausende Menschen wurden evakuiert; teilweise kommt es zu Stromausfällen. Betroffen sind insbesondere Nordmähren (Ostrava, Opava/Troppau, Jeseníky/Altvatergebirge), aber auch Teile von Südmähren und Nordböhmen (insbesondere Frýdlant). Weitere Regenfälle in der Vysočina und im Böhmerwald werden in den nächsten Tagen erwartet. Die Behörden raten, sich wegen des aufgeweichten Bodens nicht in Wäldern oder Parks sowie in Flussnähe aufzuhalten. Es wird dringend empfohlen, den Anweisungen der Behörden Folge zu leisten.
 
 * Informieren Sie sich in den lokalen Nachrichten über die aktuelle Lage.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
