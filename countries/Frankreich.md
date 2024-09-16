@@ -6,7 +6,11 @@ Einschließlich **Französische Überseegebiete**
 
 ### *Grenzkontrollen*
 
-Im Nachgang der Olympischen und Paralympischen Spiele führt Frankreich noch bis Ende Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig. Auch Deutschland führt an der deutsch-französischen land- und luftseitigen Grenze bis Ende September Binnengrenzkontrollen durch.
+Im Nachgang der Olympischen und Paralympischen Spiele führt Frankreich noch bis Ende Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig. 
+
+Am 16. September 2024 hat Deutschland bis einschließlich 15. März 2025 Binnengrenzkontrollen an den Grenzen zu Frankreich, Luxemburg, Belgien, den Niederlanden und Dänemark eingeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
 
 Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
 

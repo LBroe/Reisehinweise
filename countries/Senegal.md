@@ -2,7 +2,7 @@
 
 ## Sicherheit
 
-**Von nicht erforderlichen Reisen in die unmittelbaren Grenzgebiete zu Mali und zum südlichen Teil von Mauretanien im Département Matam wird abgeraten.**
+**Von nicht erforderlichen Reisen in die unmittelbaren Grenzgebiete zu Mali sowie von nicht erforderlichen Reisen in den südlichen Teil Mauretaniens (Département Matam) wird abgeraten.**
 
 ### Terrorismus
 
@@ -19,15 +19,15 @@ Auf malischem Staatsgebiet besteht in den grenznahen Gebieten zu Senegal, insbes
 
 ### Innenpolitische Lage
 
-Nach der ruhig verlaufenden Präsidentschaftswahl am 24. März 2024 und der Vereidigung des Präsidenten am 2. April 2024 ist die Lage derzeit stabil.
+Die innenpolitische Lage ist derzeit stabil.
 
 ### Kriminalität
 
-Landesweit kann es zu Belästigungen durch Händler, Obdachlose und selbsternannte Touristenführer kommen. Taschendiebstähle, Handtaschenraub und seltener auch gewalttätige Übergriffe können landesweit vorkommen. Häufig nähern sich die Diebe auf Motorrädern.
+Landesweit kann es zu Belästigungen durch Händler, Obdachlose und selbsternannte Touristenführer kommen. Diebstähle, Handtaschenraub und gewalttätige Übergriffe können landesweit vorkommen. Häufig nähern sich die Täter auf Motorrädern oder am Strand.
 
-Es besteht neben Internetbetrügereien (Scams) eine erhöhte Gefahr von Entführungen und Erpressungen im Zusammenhang mit per Internet angebahnten Liebesbeziehungen. Mehrere Deutsche, die ihre senegalesische Internet-Bekanntschaft besuchen wollten, wurden von den angeblichen Familienmitgliedern oder Freunden teilweise über mehrere Tage hinweg festgehalten und erst gegen Zahlung größerer Geldbeträge wieder freigelassen.
+Es besteht neben Internetbetrügereien (Scams) eine erhöhte Gefahr von Entführungen und Erpressungen im Zusammenhang mit per Internet angebahnten Liebesbeziehungen.
 
-* Unternehmen Sie keine nächtlichen Spaziergänge.
+* Unternehmen Sie keine nächtlichen (Strand-)Spaziergänge.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
 * Seien Sie in größeren Menschenmengen wie auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
@@ -37,7 +37,7 @@ Es besteht neben Internetbetrügereien (Scams) eine erhöhte Gefahr von Entführ
 
 Es herrscht subtropisches Klima. Im nördlichen Teil des Landes (Sahelzone) dauert die jährliche Regenzeit üblicherweise von ca. Juli bis September, in der subtropischen Casamance in der Regel von Mai bis Oktober. In dieser Zeit kann es zu Überschwemmungen und starken Stürmen kommen, was zu Zerstörungen führen kann, die einzelne Abschnitte des Landes zeitweise unzugänglich machen.
 
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Sicherheitskräfte.
 
 ## Reiseinfos
 
@@ -222,9 +222,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

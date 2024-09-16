@@ -40,6 +40,12 @@ Die karibischen Inseln des Königreichs der Niederlande und insbesondere Aruba l
 
 ## Reiseinfos
 
+### Grenzkontrollen
+
+Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der Landgrenze zwischen den Niederlanden und Deutschland Binnengrenzkontrollen durchgeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
+
 ### **Zuständige Auslandsvertretung**
 
 Das Königreich der Niederlande besteht aus den Niederlanden und den Ländern Curação, St. Martin (Sint Maarten) und Aruba sowie den besonderen Gemeinden der Niederlande, Bonaire, St. Eustatius und Saba (Karibischer Teil des Königreichs der Niederlande).  
@@ -139,7 +145,7 @@ Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesminister
 
 ### Impfschutz
 
-| Pflichtimpfungen: | Für die direkte Einreise aus Deutschland in die Niederlande sind keine Pflichtimpfungen vorgeschrieben.Auf den karibischen Inseln des Königreichs der NiederlandeAruba, Curaçao, St. Maarten und Bonaire müssen alle Personen ab einem Alter von 9 Monaten, die aus einem Gelbfiebergebiet einreisen, eine Gelbfieberimpfung nachweisen. Auf St. Eustatius ist eine Gelbfieberimpfung ab dem Alter von 6 Monaten vorgeschrieben. Auf Aruba, Curaçao und Bonaire gelten diese Vorschriften auch für Reisende, die sich 12 Stunden oder länger im Transit eines Gelbfiebergebiets aufgehalten haben. Für Saba besteht keine Impfpflicht für Gelbfieber. |
+| Pflichtimpfungen: | Für die direkte Einreise aus Deutschland in die Niederlande sind keine Pflichtimpfungen vorgeschrieben.Auf den karibischen Inseln des Königreichs der Niederlande Aruba, Curaçao, St. Maarten und Bonaire müssen alle Personen ab einem Alter von 9 Monaten, die aus einem Gelbfiebergebiet einreisen, eine Gelbfieberimpfung nachweisen. Auf St. Eustatius ist eine Gelbfieberimpfung ab dem Alter von 6 Monaten vorgeschrieben. Auf Aruba, Curaçao und Bonaire gelten diese Vorschriften auch für Reisende, die sich 12 Stunden oder länger im Transit eines Gelbfiebergebiets aufgehalten haben. Für Saba besteht keine Impfpflicht für Gelbfieber. |
 | --- | --- |
 | Reiseimpfungen: | Nach individueller Indikation wird für die Niederlande eine Impfung gegen Hepatitis B empfohlen. Für die karibischen Inseln des Königreichs der Niederlande Aruba, Curaçao und St. Martin sowie die besonderen Gemeinden Bonaire, St. Eustatius und Saba sind Impfungen gegen Hepatitis A und Hepatitis B empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Denguefieber, Typhus und Tollwut angeraten. |
 | Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf dem aktuellen Stand befinden. |

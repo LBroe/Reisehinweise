@@ -12,9 +12,9 @@ In der gesamten Sahelregion besteht seit Jahren eine islamistische terroristisch
 
 ### Innenpolitische Lage
 
-Guinea-Bissau zählt zu den ärmsten Ländern der Welt. Aufgrund des Anstiegs der Lebenshaltungskosten und deren sozialen Auswirkungen kann es jederzeit zu Demonstrationen kommen. Am 4. Dezember 2023 löste Präsident Sissoco Embaló das Parlament auf und ernannte am 20. Dezember 2023 einen neuen Premierminister.
+Guinea-Bissau zählt zu den ärmsten Ländern der Welt. Aufgrund des Anstiegs der Lebenshaltungskosten und deren sozialen Auswirkungen kann es jederzeit zu Demonstrationen kommen. Im Dezember 2023 löste Präsident Sissoco Embaló das Parlament auf und ernannte am 20. Dezember 2023 einen neuen Premierminister.
 
-Nach Aussagen der Vereinten Nationen ist Guinea-Bissau seit 2011 von Anti-Personen-Minen weitgehend geräumt. Dennoch kann in entlegenen Landesteilen (insbesondere nördliche Grenzregion zur Casamance/Senegal) eine Minengefahr nicht ausgeschlossen werden.
+Nach Aussagen der Vereinten Nationen ist Guinea-Bissau von Anti-Personen-Minen weitgehend geräumt. Dennoch kann in entlegenen Landesteilen (insbesondere nördliche Grenzregion zur Casamance/Senegal) eine Minengefahr nicht ausgeschlossen werden.
 
 * Seien Sie insbesondere in der Hauptstadt Bissau vorsichtig.
 * Informieren Sie sich über die lokalen Medien.
@@ -82,12 +82,11 @@ Militärische Objekte, Soldaten und Polizisten dürfen nicht fotografiert werden
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der CFA Franc (XOF). Kreditkarten (z.B. Visa) werden nur in größeren Hotels akzeptiert, Mastercard wird nicht mehr akzeptiert, es empfiehlt sich die Mitnahme von USD oder EUR in bar.
+Landeswährung ist der CFA Franc (XOF). Kreditkarten (z.B. Visa) werden nur in größeren Hotels akzeptiert; Mastercard wird nicht mehr akzeptiert. Es empfiehlt sich die Mitnahme von USD oder EUR in bar.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland").  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen zur Einfuhr von Waren erhalten Sie nur direkt bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -128,7 +127,7 @@ Die Ein- und Ausfuhr von Fremd- und Landeswährung ist bis zu einem Wert von XOF
 
 Bei der Einfuhr von Heimtieren muss der internationale Impfpass mitgeführt werden. Es gibt keine Beschränkung oder Klassifizierung von Listenhunden.
 
-Tiere ohne gültigen Impfpass werden  in einer Quarantänestation im Veterinäramt untergebracht, die nur minimale Standards erfüllt.
+Tiere ohne gültigen Impfpass werden in einer Quarantänestation im Veterinäramt untergebracht, die nur minimale Standards erfüllt.
 
 ## Gesundheit
 

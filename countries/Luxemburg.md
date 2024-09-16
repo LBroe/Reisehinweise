@@ -21,6 +21,12 @@ Es herrscht gemäßigtes Klima.
 
 ## Reiseinfos
 
+### Grenzkontrollen
+
+Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der Landgrenze zwischen Luxemburg und Deutschland Binnengrenzkontrollen durchgeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
+
 ### Infrastruktur/Verkehr
 
 Es gibt Eisenbahn- und Busverbindungen.  
@@ -34,11 +40,11 @@ Es ist zudem Pflicht, mindestens eine Warnweste sowie ein Warndreieck mitzuführ
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
-Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist gut ausgeprägt.
+Es gibt keine Hinweise auf besondere Schwierigkeiten; die Akzeptanz ist gut ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
 

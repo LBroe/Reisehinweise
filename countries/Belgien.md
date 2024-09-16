@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-In der Vergangenheit wurden mehrere terroristische Anschläge in Belgien verübt. Zuletzt im Zentrum von Brüssel, wo ein Attentäter am 16. Oktober 2023 zwei Personen erschoss. 2016 wurden zwei Anschläge verübt: Einer davon am internationalen Flughafen Zaventem, der andere in einer innerstädtischen U-Bahnstation. 2017 gab es einen Anschlagsversuch am Brüsseler Zentralbahnhof.
+In der Vergangenheit wurden mehrere terroristische Anschläge in Belgien verübt. Zuletzt im Zentrum von Brüssel, wo ein Attentäter am 16. Oktober 2023 zwei Personen erschoss. 
 
 Der Grad der Terrorgefahr wird von der belgischen Regierung auf einer Skala von eins bis vier festgelegt und befindet sich gegenwärtig auf Stufe drei („la menace est grave“ - die Bedrohung ist ernst). An Flughäfen, Bahnhöfen und Regierungsgebäuden ist mit einer erhöhten Polizeipräsenz zu rechnen.
 
@@ -33,6 +33,12 @@ Es herrscht gemäßigtes Klima.
 
 ## Reiseinfos
 
+### Grenzkontrollen
+
+Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der Landgrenze zwischen Belgien und Deutschland Binnengrenzkontrollen durchgeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
+
 ### Infrastruktur/Verkehr
 
 Es gibt ein sehr gutes Eisenbahnnetz und Busverbindungen. Der öffentliche Verkehr kann von Streik- und Protestaktionen betroffen sein. Aktuelle Informationen bieten die [belgische Bahn SNCB](http://www.sncb.be/) und die [Brüsseler Verkehrsbetriebe STIB](https://www.stib-mivb.be/index.htm?l=en).
@@ -52,7 +58,7 @@ Insbesondere im Europaviertel und in touristischen Zonen sind E-Roller ein belie
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -66,12 +72,11 @@ Verbindliche Auskünfte zu speziellen strafrechtlichen Bestimmungen können dire
 
 ### Geld/Kreditkarten
 
-Zahlungsmittel ist der EUR. Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Giro- und Kreditkarten sind überall möglich.
+Zahlungsmittel ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Debit- (Girocard) und Kreditkarten sind überall möglich.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 

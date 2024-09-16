@@ -1,14 +1,5 @@
 # Argentinien: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Organisierte Kriminalität im Großraum Rosario*
-
-Im Großraum Rosario kommt es seit Anfang März 2024 zu einem Anstieg organisierter Kriminalität, betroffen sind auch öffentliche Bereiche (Tankstellen) und der öffentliche Personennahverkehr (Taxis, Busse). Die argentinische Bundesregierung hat zusätzliche Sicherheitskräfte nach Rosario entsandt.
-
-* Wenn Sie sich in Rosario aufhalten oder nach Rosario reisen, lassen Sie bitte erhöhte Vorsicht walten.
-* Informieren Sie sich bei lokalen Medien über die Situation im Großraum Rosario.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -36,7 +27,7 @@ Die Kriminalitätsrate ist in Argentinien recht hoch. Landesweit ist Vorsicht un
 
 An belebten Orten und in öffentlichen Verkehrsmitteln sind Trickdiebstähle (Beschmutzertrick) gängig. In den öffentlich zugänglichen Räumen (Lobby etc.) von Hotels aller Kategorien kommen häufig Diebstähle vor. Besondere Aufmerksamkeit ist bei Bargeldabhebungen oder –tausch sowie an den touristischen Anziehungspunkten von Buenos Aires wie La Boca (insbesondere an Werktagen und in wenig bevölkerten Nebenstraßen abseits der Calle Caminito), San Telmo, der Bahnstation Retiro und im Stadtzentrum angebracht. Nach Einbruch der Dunkelheit ist überall besondere Vorsicht geboten.
 
-Buenos Aires hat ein Kommissariat für Touristen eingerichtet, in dem auch in Fremdsprachen Hilfestellung geleistet werden kann: Avenida Corrientes Nr. 436 (Plaza San Nicolás), Tel. 0054 115050-3293 oder über den allgemeinen Notruf  911, [E-Mail](mailto:divsegcorredoresturisticos@gmail.com) divsegcorredoresturisticos@gmail.com
+Buenos Aires hat ein Kommissariat für Touristen eingerichtet, in dem auch in Fremdsprachen Hilfestellung geleistet werden kann: Avenida Corrientes Nr. 436 (Plaza San Nicolás), Tel. 0054 115050-3293/-9260 oder über den allgemeinen Notruf 911, E-Mail: [divsegcorredoresturisticos@gmail.com](mailto:divsegcorredoresturisticos@gmail.com) bzw. [serv.turista@gmail.com](mailto:serv.turista@gmail.com) bzw. [policiaturistica@buenosaires.gob.ar](mailto:policiaturistica@buenosaires.gob.ar)
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf. Schicken Sie Kopien wichtiger Dokumente per Mail an sich selbst. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld – ggf. in einem einfachen Zweitgeldbeutel - und keine unnötigen Wertsachen mit.
