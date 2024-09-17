@@ -50,8 +50,13 @@ Grönland hat ein arktisches Extremklima. An und vor den Küsten sind zudem seis
 
 ### Grenzkontrollen
 
+Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der deutsch-dänischen Landgrenze Binnengrenzkontrollen durchgeführt.  
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
+
+#### *Grenzübertritt nach Dänemark*
+
 Dänemark führt stichprobenartige Grenzkontrollen an der deutsch-dänischen Grenze durch. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.  
-Sofern Fahrzeuginsassen keine gültigen Ausweispapiere mit sich führen, die zum legalen Aufenthalt in Dänemark berechtigen, müssen Fahrer des Autos mit einer Inhaftierung und Anklage und Verurteilung zu einer Haftstrafe wegen Menschenschmuggels rechnen.
+Sofern Fahrzeuginsassen keine gültigen Ausweispapiere mit sich führen, die zum legalen Aufenthalt in Dänemark berechtigen, müssen Fahrer des Kfz mit einer Inhaftierung und Anklage und Verurteilung zu einer Haftstrafe wegen Menschenschmuggels rechnen.
 
 * Führen Sie auch bei Reisen nach Dänemark einen gültigen Personalausweis oder Reisepass und ggf. einen Nachweis eines gültigen deutschen Aufenthaltstitels, der zum Aufenthalt in Dänemark berechtigt, mit.
 * Nehmen Sie keine Anhalter oder andere Ihnen unbekannten Personen oder fremde Waren über die Grenze nach Dänemark mit.

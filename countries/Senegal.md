@@ -2,7 +2,7 @@
 
 ## Sicherheit
 
-**Von nicht erforderlichen Reisen in die unmittelbaren Grenzgebiete zu Mali sowie von nicht erforderlichen Reisen in den südlichen Teil Mauretaniens (Département Matam) wird abgeraten.**
+**Von nicht erforderlichen Reisen in die unmittelbaren Grenzgebiete zu Mali und zu Mauretanien im Département Matam wird abgeraten.**
 
 ### Terrorismus
 
