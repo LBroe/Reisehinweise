@@ -1,5 +1,13 @@
 # Ungarn: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Ungarn hat für Budapest ab Donnerstag, 19. September 2024, die höchste Warnstufe ausgerufen. Einige Uferstraßen in Budapest sind bereits vorsorglich gesperrt. Der Zugverkehr zwischen Ungarn und Österreich ist aktuell eingeschränkt. Auch in anderen Teilen Ungarns (z.B. am Donauknie) muss mit Hochwasser, Überschwemmungen und weiteren Einschränkungen gerechnet werden.
+
+* Überprüfen Sie vor einer geplanten Fahrt (Auto/Zug/Bus) eventuelle Streckensperrungen, auch in den Nachbarländern.
+* Informieren Sie sich über die aktuelle Wetterlage in den internationalen und ungarischen Medien.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der ungarischen Sicherheitskräfte.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -35,6 +43,8 @@ Bei Zufallsbekanntschaften und Einladungen in Bars oder Clubs, zum Teil durch Em
 
 ## Natur und Klima
 
+Siehe *Aktuelles*
+
 Es herrscht Kontinentalklima.
 
 Vor allem in den Sommermonaten kann es aufgrund der herrschenden klimatischen Bedingungen zu Busch- und Waldbränden kommen.
@@ -49,7 +59,7 @@ Vor allem in den Sommermonaten kann es aufgrund der herrschenden klimatischen Be
 
 Die Nachbarländer Kroatien, Österreich, die Slowakei und Slowenien sind Teil des Schengen-Gebietes. An den Grenzen müssen alle Reisenden (einschließlich Kinder) dennoch in der Lage sein, sich durch Pässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht. Es droht ein Bußgeld oder sogar die Festnahme zur Einleitung strafrechtlicher Ermittlungen. Mit polizeilichen Fahrzeugkontrollen ist zu rechnen, insbesondere bei Einreisen nach Österreich, in die Slowakei und nach Slowenien. Es kann daher zu Verzögerungen an den Grenzübergängen kommen.
 
-Aufgrund der Teilaufnahme Rumäniens in das Schengengebiet sind an den internen Luft- und Seegrenzen mit Wirkung vom 1. April 2024 keine Personenkontrollen mehr vorgesehen. Grenzkontrollen finden jedoch weiterhin statt, sodass Reisende auf dem Landweg mit Wartezeiten rechnen müssen.
+Aufgrund der Teilaufnahme Rumäniens in das Schengengebiet sind an den internen Luft- und Seegrenzen seit April 2024 keine Personenkontrollen mehr vorgesehen. Grenzkontrollen finden jedoch weiterhin statt, sodass Reisende auf dem Landweg mit Wartezeiten rechnen müssen.
 
 Bei Überschreiten der EU-Außengrenzen wird nicht nur die Gültigkeit der Reisedokumente aller Reisenden überprüft, sondern jedes Reisedokument systematisch in entsprechenden Datenbanken abgeglichen. Daher kann es zu längeren Wartezeiten an der ungarisch-serbischen und der ungarisch-ukrainischen Grenze kommen. Personalausweise, Reisepässe und Kinderreisepässe, deren Gültigkeit abgelaufen ist, werden zur Weiterreise z. B. nach Serbien oder in die Türkei nicht akzeptiert. Reisende werden dann an den Grenzen zurückgewiesen.
 
@@ -83,7 +93,7 @@ Von der Einreise mit deutschen Kurzzeitkennzeichen („gelbe Kennzeichen“) wir
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -91,7 +101,7 @@ Der deutsche Führerschein ist ausreichend.
 
 ### Rechtliche Besonderheiten
 
-Der Handel, Besitz und die Einfuhr sowie derKonsum von Drogen werden in Ungarn deutlich härter als in Deutschland geahndet. Schon der Fund geringer Mengenauch von z.B. Haschisch, Marihuana und synthetischer Drogen (MDMA bzw. Ectasy) kann zu längeren Haftstrafen führen.
+Der Handel, Besitz und die Einfuhr sowie der Konsum von Drogen werden in Ungarn deutlich härter als in Deutschland geahndet. Schon der Fund geringer Mengen auch von z.B. Haschisch, Marihuana und synthetischer Drogen (MDMA bzw. Ecstasy) kann zu längeren Haftstrafen führen.
 
 ### Geld/Kreditkarten
 
@@ -99,8 +109,7 @@ Landeswährung ist der Forint (HUF). Von Geldumtausch außerhalb von Hotels, Wec
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -122,8 +131,6 @@ Reisedokumente müssen zum Zeitpunkt der Einreise gültig sein.
 
 ### Minderjährige
 
-Deutsche Kinderreisepässe werden seit Januar 2021 nur noch mit einer Gültigkeit von einem Jahr ausgestellt. Vor einem Urlaub sollte überprüft werden, ob der Kinderpass für Hin- und Rückreise gültig ist, insbesondere wenn eine Weiterreise z. B. in die Türkei geplant ist.
-
 Es bestehen keine besonderen Bestimmungen für die Einreise Minderjähriger.
 
 * Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/newsroom/buergerservice-faq-kontakt/faq/11-kindohneeltern/606308).
@@ -135,7 +142,7 @@ Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Un
 
 Bei der Einreise nach Ungarn aus Nicht-EU-Staaten, Ukraine, Serbien) dürfen nur 40 Zigaretten (entspricht etwa zwei Päckchen) oder 20 Zigarillos oder zehn Zigarren oder 50 g Rauchtabak im gesamten Reisegepäck mitgeführt werden. Dies gilt auch für Transitreisende. Bei Flugreisen gelten die üblichen Freimengen.
 
-Bei Überschreitung der Freimengen werden empfindliche Bußgelder verhängt. Weitere Informationen zur zollfreien Wareneinfuhr bietet der [ungarische Zoll](http://nav.gov.hu/en/intormation_on_customs_matters/General_Customs_Information).
+Bei Überschreitung der Freimengen werden empfindliche Bußgelder verhängt. Weitere Informationen zur zollfreien Wareneinfuhr bietet der [ungarische Zoll.](http://nav.gov.hu/en/intormation_on_customs_matters/General_Customs_Information)
 
 Alkoholische Getränke dürfen nach Ungarn – auch im Transitverkehr – nur eingeführt werden, wenn diese sich im Ursprungsland (auch in einem anderen EU-Mitgliedsstaat, z.B. Rumänien) bereits im sog. freien Verkehr befanden und vorschriftsmäßig versteuert wurden. Dies ist per Steuerbanderole oder Kaufbeleg nachzuweisen. Die Einfuhr und Durchfuhr privat hergestellter Spirituosen, zu denen ein Nachweis der entrichteten Monopol- und Verbrauchssteuern fehlt, wird als Ordnungswidrigkeit mit einer Strafe von mindestens 20.000 HUF (ca. 55 EUR) geahndet. Mit entsprechenden Kontrollen ist zu rechnen.
 
