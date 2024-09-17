@@ -2,15 +2,15 @@
 
 ## Aktuelles
 
-### *Terrorbedrohung*
+### *Terrorismus*
 
-Vorwiegend islamistische Terrorgruppen sind in ganz Mali aktiv, insbesondere im Norden und im Zentrum des Landes, zunehmend jedoch auch im Süden. Weiterhin kommt es zu Angriffen auf staatliche Sicherheitskräfte. Dabei kommt es auch zu zivilen Opfern. 
+Nach Auskunft der malischen Behörden ereigneten sich am Morgen des 17. September 2024 in der Hauptstadt Bamako terroristische Angriffe auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (in Flughafennähe). Die Lage ist unübersichtlich. Es liegen keine gesicherten Erkenntnisse darüber vor, ob die Angriffe bereits vollständig abgewehrt werden konnten und wie sich die Lage weiterentwickeln wird.
 
-Für westliche Ausländer besteht im ganzen Land neben der Gefahr, Opfer eines Anschlags zu werden, ein hohes Entführungsrisiko.
+Angesichts der aktuellen Lage - und auch mit Blick auf den bevorstehenden malischen Nationalfeiertag am Sonntag, dem 22. Sptember - wird zu besonderer Vorsicht geraten.
 
-* **Beachten Sie die Reisewarnungen für einzelne Regionen Malis**, siehe *Sicherheit.*
-* Reisen Sie keinesfalls nachts und treffen Sie Sicherheitsvorkehrungen, siehe *Terrorismus*.
-* Vermeiden Sie alle Überlandfahrten.
+* Beschränken Sie Ihre Bewegungen innerhalb Bamakos daher auf das Notwendige und bleiben Sie möglichst zu Hause*.*
+* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
+* Meiden Sie unbedingt die Zonen um Faladié, den Tour d'Afrique und Sénou einschließlich des internationalen Flughafens Bamako.
 
 ## Sicherheit - Teilreisewarnung
 
@@ -30,20 +30,21 @@ Für westliche Ausländer besteht im ganzen Land neben der Gefahr, Opfer eines A
 
 ### Terrorismus
 
-Anschläge sind in Mali überall und jederzeit möglich. Insbesondere im Norden und im Zentrum Malis (Region Mopti) kommt es regelmäßig zu Anschlägen und militärischen Kampfhandlungen. In den nord-östlichen und zentralen Landesteilen sowie in Gebieten entlang der Grenzen zu Mauretanien, Burkina Faso und Côte d’Ivoire sind Terrorgruppen besonders aktiv.
+Anschläge sind in Mali überall und jederzeit möglich. Vorwiegend islamistische Terrorgruppen sind in ganz Mali aktiv, insbesondere im Norden und im Zentrum (Region Mopti) des Landes, zunehmend jedoch auch im Süden. Dort kommt es regelmäßig zu Anschlägen und militärischen Kampfhandlungen. In den nord-östlichen und zentralen Landesteilen sowie in Gebieten entlang der Grenzen zu Mauretanien, Burkina Faso und Côte d’Ivoire sind Terrorgruppen besonders aktiv.
 
-Für Angehörige westlicher Staaten besteht, insbesondere außerhalb von Bamako, ein hohes Risiko, Opfer von Entführungen und gezielten Anschlägen, aber auch von Landminen bzw. Sprengfallen zu werden.
+Weiterhin kommt es zu Angriffen auf staatliche Sicherheitskräfte. Dabei kommt es auch zu zivilen Opfern. Für Angehörige westlicher Staaten besteht, insbesondere außerhalb von Bamako, ein hohes Risiko, Opfer von Entführungen und gezielten Anschlägen, aber auch von Landminen bzw. Sprengfallen zu werden.
 
 Auf Überlandstrecken ist es 2022 und 2023 auch im Süden Malis zu Überfällen sowie zu mutmaßlich terroristischen Angriffen auf malische Sicherheitskräfte gekommen. Dies betraf mehrfach die Strecken Bamako – Ségou und Bamako – Kayes (via Kolokani und via Kita). Es gibt auch im Süden verstärkt Berichte über die Präsenz bewaffneter Gruppierungen, dies gilt einschließlich der Verbindung von Bamako in Richtung Guinea (Gebiet um Siby).
 
-Auch in der Hauptstadt Bamako sowie deren Umgebung besteht eine generelle Gefährdung durch terroristische Gruppen. Bei den letzten großen Anschlägen in Bamako 2015-2017 waren auch Ausländer betroffen.
+Auch in der Hauptstadt Bamako sowie deren Umgebung besteht eine generelle Gefährdung durch terroristische Gruppen.
 
 * Führen Sie Reisen und Aufenthalte nur unter zeitnaher vorheriger Abklärung der allgemeinen Sicherheitslage durch und planen Sie entsprechend.
 * Seien Sie auch in der Hauptstadt Bamako besonders vorsichtig und meiden Sie nach Möglichkeit Orte und Ausflugsziele, die regelmäßig von Ausländern aufgesucht werden.
-* Seien Sie an belebten Orten und bei besonderen Anlässen besonders aufmerksam.
 * Meiden Sie Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
+* Beachten Sie die Reisewarnungen für einzelne Regionen Malis, siehe Sicherheit.
+* Reisen Sie keinesfalls nachts und treffen Sie Sicherheitsvorkehrungen.
+* Vermeiden Sie Überlandfahrten.
 
 ### Innenpolitische Lage
 

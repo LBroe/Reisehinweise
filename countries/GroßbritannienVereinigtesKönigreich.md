@@ -32,9 +32,14 @@ In Nordirland ist das Aufflammen lokaler Gewalt insbesondere während der „Mar
 
 ### Kriminalität
 
-In Großstädten und dort insbesondere an bei Touristen beliebten Plätzen und in öffentlichen Verkehrsmitteln kommt es zu Kleinkriminalität wie Taschendiebstählen, vereinzelt auch zu Gewaltdelikten. In einzelnen Vierteln von Großstädten, aber insbesondere auch in den Britischen Überseegebieten kann die Kriminalität und Gewaltbereitschaft erheblich variieren.
+In Großstädten und dort insbesondere an bei Touristen beliebten Plätzen und in öffentlichen Verkehrsmitteln kommt es zu Kleinkriminalität wie Taschendiebstählen, vereinzelt auch zu Gewaltdelikten. Vor allem in Großstädten werden vermehrt Mobiltelefone von auf Fahrrädern vorbeifahrenden Tätern entrissen (Snatching). 
+
+In einzelnen Vierteln von Großstädten, aber insbesondere auch in den Britischen Überseegebieten kann die Kriminalität und Gewaltbereitschaft erheblich variieren.
 
 * Beachten Sie die hilfreichen Tipps der [British Transport Police](https://www.btp.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/) gegen u.a. Taschendiebe.
+* Notieren Sie sich die IMEI-Nummer(n) und die Seriennummer (Geben Sie den Tastencode \*#06# auf Ihrem Ziffernblock an, dann werden diese schnell angezeigt), und lesen Sie [diese Tipps.](https://www.heise.de/tipps-tricks/Handy-mit-IMEI-sperren-geht-das-6121312.html)
+* Nutzen Sie Ihr Mobiltelefon in der Öffentlichkeit so wenig wie möglich und halten Sie die Entsperrdauer des Bildschirms so gering wie möglich, um nicht Opfer von Entreißdiebstahl „Snatching“ zu werden. Sichern Sie Ihr Mobiltelefon am besten mit einem starken Passwort.
+* Lassen Sie Ihre SIM-Karte sperren (im Ausland: +49 30 4050 4050), siehe [Tipps.](https://www.heise.de/tipps-tricks/Handy-mit-IMEI-sperren-geht-das-6121312.html) Um wichtige Daten auf Ihrem Gerät im Falle eines Diebstahls sperren lassen und das Gerät ggf. orten zu können, benutzen Sie bitte die Sperrfunktionen in Android- und iOS. Melden Sie zudem Ihr Gerät bei der Polizei als gestohlen.
 * Erkundigen Sie sich bei Bekannten, Geschäftspartnern oder im Hotel nach der Sicherheit von Vierteln, die Sie nicht kennen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen, nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -155,10 +160,10 @@ Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusä
 Die Einreise in das Vereinigte Königreich ist für deutsche Staatsangehörige mit folgenden Dokumenten möglich:
 
 * **Reisepass:** Ja
-* **Vorläufiger Reisepass:** Ja
+* **Vorläufiger Reisepass:** Ja, derzeit noch, bald nur noch mit Visum
 * **Personalausweis:** Nein, Ausnahme: Gibraltar
 * **Vorläufiger Personalausweis:** Nein
-* **Kinderreisepass:** Ja, vereinzelt Probleme bei der Anerkennung von verlängerten Kinderreisepässen
+* **Kinderreisepass:** Ja, vereinzelt Probleme bei der Anerkennung von verlängerten Kinderreisepässen; derzeit noch, bald nur noch mit Visum
 
 **Anmerkungen/Mindestrestgültigkeit:**
 
@@ -170,14 +175,21 @@ Die britische Regierung besteht für den Reiseverkehr grundsätzlich auf einem R
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für Besuchs- und Geschäftsreisen von längstens 180 Tagen kein Visum. 
+Deutsche Staatsangehörige benötigen für Besuchs- und Geschäftsreisen von längstens 180 Tagen kein Visum. Ab dem 2. April 2025 ist für jede Reise eine gültige Elektronische Reisegenehmigung (ETA) vorzuweisen (siehe unten), wenn nicht bereits ein anderer Aufenthaltstitel/Visum vorliegt.
 
 In vielen anderen Fällen ist seit Oktober 2021 ein Visum erforderlich. Einreisen für Au-Pair-Aufenthalte sind gar nicht mehr und für Praktika nur noch unter sehr eingeschränkten Bedingungen bei vorheriger Einholung eines Visums erlaubt. EU- Studierende müssen vorab ein Studentenvisum beantragen, wenn der geplante Aufenthalt sechs Monate überschreitet. In diesen Fällen ist eine Einreise zum Studienantritt ohne vorheriges Visum nicht möglich und hat bereits zu Zurückweisungen an der Grenze und Rückflügen nach Deutschland geführt.
 
 Weitere Informationen finden sich auf der Webseite der [britischen Regierung](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen). 
 
-Die britische Regierung führt schrittweise das Erfordernis einer elektronischen Einreiseanmeldung (Electronic travel authorisation/ETA) ein. Das genaue Inkrafttreten dieses Erfordernisses für deutsche Staatsangehörige ist noch nicht bekannt.  
-Weitere Informationen bietet die [britische Regierung.](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta)  
+#### *Elektronische Reisegenehmigung (ETA)*
+
+Die britische Regierung führt schrittweise das Erfordernis einer elektronischen Einreisegenehmigung (Electronic travel authorisation/ETA) ein. Für deutsche Staatsangehörige wird dies ab dem 2. April 2025 gelten; ein entsprechender Antrag auf eine ETA kann bereits ab dem 5. März 2025 gestellt werden.
+
+Die einmal erteilte Reisegenehmigung gilt für beliebig viele Einreisen für die Dauer von jeweils max. 180 Tagen innerhalb eines Zeitraums von zwei Jahren (oder, sollte dies vor Ablauf der zwei Jahre der Fall sein, bis der für die Beantragung genutzte Reisepass seine Gültigkeit verliert).
+
+Die ETA-Beantragung ist gebührenpflichtig (zehn GBP).
+
+Weitere Informationen und zu gegebener Zeit auch Links zur Beantragung des ETA bietet die [britische Regierung.](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) 
 
 ### Minderjährige
 

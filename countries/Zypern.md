@@ -10,7 +10,7 @@
 
 Die Republik Zypern ist EU-Vollmitglied, bleibt aber weiterhin faktisch in zwei Teile geteilt. Die international anerkannte Republik Zypern übt die tatsächliche Kontrolle nur im Südteil der Insel aus, nicht hingegen im Nordteil, der durch eine Demarkationslinie (Grüne Linie/Green Line) vom Südteil abgegrenzt ist. Nur die Türkei erkennt den von ihr besetzten Nordteil als eigenständigen Staat ("Türkische Republik Nordzypern") an. Weiterführende Informationen, auch zu Aufenthalten im Nordteil der Insel, bietet die [zyprische Botschaft](http://www.mfa.gov.cy/mfa/Embassies/embassy_berlin.nsf/page06_de/page06_de) in Berlin.
 
-UN-Einheiten kontrollieren die Pufferzone zwischen dem Norden und dem Süden, die militärisches Sperrgebiet und zudem teilweise vermint ist. Es wird zu Vorsicht bei Annäherung an die Pufferzone geraten, und davor gewarnt, die seeseitige Verlängerung der Demarkationslinie schwimmend oder mit Booten zu überqueren. Nicht unbedingt als solche ausgewiesene militärische Einrichtungen auf der ganzen Insel und das dort geltende Fotografierverbot sollten unbedingt respektiert werden, Beschilderungen sind nicht immer gut sichtbar. Aufgrund der faktischen Teilung kann die deutsche Botschaft in Nikosia konsularischen Schutz im Nordteil der Insel nur eingeschränkt leisten.
+UN-Einheiten kontrollieren die Pufferzone zwischen dem Norden und dem Süden, die militärisches Sperrgebiet und zudem teilweise vermint ist. Es wird zu Vorsicht bei Annäherung an die Pufferzone geraten und davor gewarnt, die seeseitige Verlängerung der Demarkationslinie schwimmend oder mit Booten zu überqueren. Nicht unbedingt als solche ausgewiesene militärische Einrichtungen auf der ganzen Insel und das dort geltende Fotografierverbot sollten unbedingt respektiert werden, Beschilderungen sind nicht immer gut sichtbar. Aufgrund der faktischen Teilung kann die deutsche Botschaft in Nikosia konsularischen Schutz im Nordteil der Insel nur eingeschränkt leisten.
 
 * Beachten Sie für Reisen in den Nordteil Zyperns und Einreisen vom Nordteil in den Südteil die Informationen unter *Einreise und Zoll*.
 
@@ -19,9 +19,9 @@ UN-Einheiten kontrollieren die Pufferzone zwischen dem Norden und dem Süden, di
 Die Kriminalitätsrate in Zypern ist niedrig. Taschendiebstähle und Handtaschenraub wie auch Trickdiebstahl kommen insbesondere in touristisch frequentierten Gegenden vereinzelt vor.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie keine unnötigen Wertsachen mit.
 * Nehmen Sie keine Wertsachen mit an den Strand.
-* Seien Sie in größeren Menschenmengen wie an Flughäfen und an Bahnhöfen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Seien Sie in größeren Menschenmengen wie an Flughäfen und Bahnhöfen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -61,6 +61,8 @@ Homosexuelle Handlungen sind auf der gesamten Insel nicht strafbar, die soziale 
 
 ### Rechtliche Besonderheiten
 
+Der Erwerb von und Handel mit Immobilien auf Zypern ist aufgrund möglicherweise ungeklärter Eigentumsverhältnisse insbesondere im nördlichen Teil der Insel mit erheblichen rechtlichen und finanziellen Risiken verbunden. Mit einer strafrechtlichen Verfolgung bis hin zu Inhaftierung durch die Behörden der Republik Zypern muss aktuell gerechnet werden.
+
 Auch der Besitz kleinster Mengen von Drogen, inklusive sogenanntes Lachgas, ist strafbar.
 
 Die Beihilfe zur Ausreise unter Nutzung fremder Ausweisdokumente wird mit Gefängnisstrafe geahndet.
@@ -69,7 +71,7 @@ In der Nähe der Pufferzone und von Militäreinrichtungen herrscht auf der ganze
 
 Der Besitz von Waffen bei der Einreise ist grundsätzlich nicht gestattet und strafbar. Ausnahmegenehmigungen werden jedoch erteilt.
 
-Nackt- und oberkörperfreies -Baden sowie Handlungen in der Öffentlichkeit, bei denen intime Körperstellen entblößt werden, sind verpönt.
+Nacktbaden sowie Handlungen in der Öffentlichkeit, bei denen intime Körperstellen entblößt werden, sind verpönt.
 
 ### Geld/Kreditkarten
 

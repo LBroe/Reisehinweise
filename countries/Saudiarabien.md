@@ -2,19 +2,19 @@
 
 ## Sicherheit
 
-**Von Reisen in das Grenzgebiet zu Jemen, Provinzen Nadschran, Asir und Jazan, wird dringend abgeraten.**
+**Von Reisen in das Grenzgebiet zu Jemen (30 km Grenzstreifen in den Provinzen Nadschran, Asir und Dschaizan), wird dringend abgeraten.**
 
 **Von nicht erforderlich Reisen in den Bezirk Qatif in der Ostprovinz wird abgeraten**.
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### Terrorismus
 
-Obwohl die saudi-arabischen Sicherheitskräfte in den letzten Jahren Erfolge im Kampf gegen terroristische Gruppen wie Al-Qaida auf der Arabischen Halbinsel (AQAH) und den IS erzielen, ist die Bedrohung durch terroristische Anschläge weiterhin hoch. 2021 wurde ein französischer Teilnehmer der Rallye Dakar in Djidda bei einer Explosion in seinem Auto schwer verletzt. Ein terroristischer Hintergrund kann nicht ausgeschlossen werden. Zuvor wurde in Djidda ein Wachmann vor dem französischen Generalkonsulat mit einem Messer angegriffen. Zwei weitere Personen wurden 2020 bei einem Sprengstoffanschlag auf eine von Frankreich ausgerichtete Veranstaltung leicht verletzt.
+Obwohl die saudi-arabischen Sicherheitskräfte in den letzten Jahren Erfolge im Kampf gegen terroristische Gruppen wie Al-Qaida auf der Arabischen Halbinsel (AQAH) und den IS erzielen, ist die Bedrohung durch terroristische Anschläge weiterhin hoch. 2021 wurde ein französischer Teilnehmer der Rallye Dakar in Djidda bei einer Explosion in seinem Auto schwer verletzt. Ein terroristischer Hintergrund kann nicht ausgeschlossen werden. 2023 wurde in Djidda ein Wachmann vor dem US-Generalkonsulat von einem Einzeltäter erschossen.
 
 In der Vergangenheit kamen bei weiteren Anschlägen, die Sicherheitskräfte, Regierungsgebäude und schiitische Einrichtungen zum Ziel hatten, saudi-arabische Sicherheitskräfte ums Leben.
 
-In der Ostprovinz kam es in den letzten Jahren zu Auseinandersetzungen mit den lokalen Sicherheitsbehörden, insbesondere im Raum al-Qativ.  
+In der Ostprovinz kam es in den letzten Jahren zu Auseinandersetzungen mit den lokalen Sicherheitsbehörden, insbesondere im Raum Qatif.
 
 * **Von nicht erforderlichen Reisen in den Bezirk Qatif in der Ostprovinz wird abgeraten**.
 * Seien Sie insbesondere an belebten Orten, Moscheen, Energieinfrastruktureinrichtungen sowie Einkaufszentren besonders aufmerksam.
@@ -23,7 +23,7 @@ In der Ostprovinz kam es in den letzten Jahren zu Auseinandersetzungen mit den l
 
 ### Innenpolitische Lage
 
-Nach wie vor kommt es zu einzelnen, lokal begrenzten Kampfhandlungen an der jemenitisch-saudischen Grenze.  
+Nach wie vor kommt es zu einzelnen, lokal begrenzten Kampfhandlungen an der jemenitisch-saudi-arabischen Grenze.
 
 Angesichts vergrößerter Reichweiten der genutzten Raketen und Drohnen sind Angriffe auch auf andere Provinzen und auf wichtige Infrastruktureinrichtungen weiterhin nicht auszuschließen.
 
@@ -33,9 +33,9 @@ Angesichts vergrößerter Reichweiten der genutzten Raketen und Drohnen sind Ang
 
 ### Kriminalität
 
-Die Kriminalitätsrate bewegt sich auf vergleichbar niedrigem Niveau. Telefonbetrug ist weit verbreitet.
+Die Kriminalitätsrate bewegt sich auf vergleichsweise niedrigem Niveau. Telefonbetrug ist weit verbreitet.
 
-* Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
+* Bewahren Sie Geld, Ausweise, Führerscheine und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Seien Sie in größeren Menschenmengen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Geben Sie niemals Ihre Bank- oder Iqamadaten preis, diese werden in Saudi-Arabien niemals telefonisch abgefragt.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen skeptisch und vorsichtig. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
@@ -53,7 +53,7 @@ Starke Regenfälle können zwischen November und Februar auf trockenem Boden zu 
 
 ### Infrastruktur/Verkehr
 
-Es gibt ein Inlandsflugnetz und Eisenbahn- (zwischen Riad und Dammam, Riad/Al-Qassim/Hail/Sakaka und Jeddah/Mekka/Medina) sowie Busverbindungen. In den Städten gibt es bisher nur wenig öffentliche Verkehrsmittel, sondern nur Taxis und Mietwagen.  
+Es gibt ein Inlandsflugnetz und Eisenbahn- (zwischen Riad/Dammam, Riad/Al-Qassim/Hail/Sakaka und Jeddah/Mekka/Medina) sowie Busverbindungen. In den Städten gibt es bisher nur wenig öffentliche Verkehrsmittel, sondern nur Taxis und Mietwagen.  
 Die Land-, Luft- und Seegrenzen zu Katar sind geöffnet. Der Zustand der Straßen ist in den Städten und zwischen großen Ballungszentren sehr gut, allerdings liegen Tankstellen auf weniger frequentierten Fernstraßen zum Teil weit auseinander. Ausschilderungen sind oftmals in Arabisch. Die Verkehrsverhältnisse erfordern ein hohes Maß an Aufmerksamkeit und Vorsicht.
 
 Die saudi-arabischen Behörden verbieten Reisen in die Wüste (Durchquerung der Rub al-Khali-Wüste) aus Sorge um die Sicherheit ausdrücklich. Die touristische Infrastruktur des Landes befindet sich noch im Aufbau. Besuchsmodalitäten von Sehenswürdigkeiten und historischen Stätten können sich kurzfristig ändern. Bei Fragen können sich Reisende an das [Tourismus-Ministerium](https://mt.gov.sa/en/Pages/default.aspx#2) bzw. seine Tourismus-Hotline 930 wenden.
@@ -97,13 +97,13 @@ Unverheirateten Frauen wird angesichts möglicher rechtlicher Konsequenzen dring
 
 Die unerwünschte Kontaktaufnahme ausländischer Männer zu nicht verwandten saudi-arabischen Frauen kann zu einer Anzeige wegen sexueller Belästigung führen. Körperlicher Kontakt muss für dieses Vergehen nicht vorliegen, es reicht zum Teil, dass sich eine Frau sexuell belästigt fühlt.
 
-Das Fotografieren von Sicherheitseinrichtungen, Fahrzeugen oder Personen aus dem Sicherheitsbereich kann zur Festnahme führen. Menschen sollten nicht ungefragt fotografiert werden.  Die Veröffentlichung von Fotos ohne Zustimmung der betroffenen Person kann mit Geld- und Freiheitsstrafen geahndet werden. Ein ausdrückliches Fotografieverbot besteht in und um die beiden Heiligen Moscheen. Grundsätzlich muss damit gerechnet werden, dass bei unerlaubtem Fotografieren Kamera und Filme bzw. Speicherkarten konfisziert werden.
+Das Fotografieren von Sicherheitseinrichtungen, Fahrzeugen oder Personen aus dem Sicherheitsbereich kann zur Festnahme führen. Menschen sollten nicht ungefragt fotografiert werden.  Die Veröffentlichung von Fotos ohne Zustimmung der betroffenen Person kann mit Geld- und Freiheitsstrafen geahndet werden. Ein ausdrückliches Fotografierverbot besteht in und um die beiden Heiligen Moscheen in Mekka und Medina. Grundsätzlich muss damit gerechnet werden, dass bei unerlaubtem Fotografieren Kamera und Filme bzw. Speicherkarten konfisziert werden.
 
 Die Sozialen Medien werden streng überwacht. In jüngerer Vergangenheit wurden zahlreiche – auch ausländische – Personen aufgrund als kritische empfundener Äußerungen zu teils hohen Freiheitsstrafen verurteilt. Auch das einfache Weiterleiten von Nachrichten mit politischen Inhalten oder das Weiterverbreiten als kritisch empfundener Inhalte kann zu Verhaftungen und hohen Freiheitsstrafen führen.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der saudi-arabische Riyal (SAR). Kreditkarten sind weit verbreitet, auch Kleinstbeträge können damit bezahlt werden. Bargeld kann an Geldautomaten mit Bank- und Kreditkarten abgehoben werden. Es empfiehlt sich dennoch die Mitnahme von EUR und USD.
+Landeswährung ist der saudi-arabische Riyal (SAR). Kreditkarten sind weit verbreitet, auch Kleinstbeträge können damit bezahlt werden. Bargeld kann an Geldautomaten mit Debit- (Girocard) und Bank- und Kreditkarten abgehoben werden. Es empfiehlt sich dennoch die Mitnahme von EUR und USD.
 
 ## Einreise und Zoll
 
@@ -132,9 +132,9 @@ Reisedokumente müssen zum Zeitpunkt der Einreise bzw. der Beantragung des Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise nach Saudi-Arabien ein Visum.
 
-Deutsche Staatsangehörige können ein Tourismus-Visum elektronisch vor Antritt der Reise als [eVisa](https://visa.visitsaudi.com/) beantragen.
+Deutsche Staatsangehörige können ein Tourismus-Visum elektronisch vor Antritt der Reise als [E-Visum](https://visa.visitsaudi.com/) beantragen.
 
-Grundsätzlich ist auch die Beantragung eines „Visa on Arrival“ zu touristischen Zwecken möglich; es wird jedoch dazu geraten, rechtzeitig vor Reiseantritt ein Visum einholen.
+Grundsätzlich ist auch die Beantragung eines „Visa on Arrival“ zu touristischen Zwecken möglich; es wird dazu geraten, rechtzeitig vor Reiseantritt ein Visum einholen.
 
 Verbindliche Informationen zu Transitvisa sind ggf. bei der zuständigen saudi-arabischen Vertretung oder der jeweiligen Fluggesellschaft einzuholen. Aufgrund des Umstands, dass Saudi-Arabien sich erst in letzter Zeit zu einem Reise- und Transitland entwickelt, besteht teilweise noch Unsicherheit bei staatlichen Stellen und Airlines über die an saudi-arabischen Flughäfen anzuwendenden Vorschriften. Dies sollte bei Transitreisen berücksichtigt werden.
 
@@ -144,7 +144,7 @@ Geschäftsreisende benötigen ein Schreiben ihres Unternehmens, das von der Indu
 
 Es besteht gegebenenfalls auch die Möglichkeit der Erteilung eines Visums durch [SAGIA](https://sagia.gov.sa/en/). Dies ist auch von Drittländern aus möglich.
 
-Für mehrmalige Einreise kann ein Jahresvisum an Geschäftsleute, Investoren und Firmenbeauftragte erteilt werden, die ihre saudi-arabischen Geschäftspartner besuchen möchten. Nach Mitteilung der saudi-arabischen Botschaft gelten als Geschäftsleute Firmenbesitzer, Vorstandsvorsitzende, Vorstandsmitglieder, Firmenvertreter und Generaldirektoren. Diese Regelung bezieht sich sowohl auf Männer als auch auf Frauen. Für diese Personen ist keine Einladung durch eine saudi-arabische Firma erforderlich.
+Für mehrmalige Einreisen kann ein Jahresvisum an Geschäftsleute, Investoren und Firmenbeauftragte erteilt werden, die ihre saudi-arabischen Geschäftspartner besuchen möchten. Nach Mitteilung der saudi-arabischen Botschaft gelten als Geschäftsleute Firmenbesitzer, Vorstandsvorsitzende, Vorstandsmitglieder, Firmenvertreter und Generaldirektoren. Diese Regelung bezieht sich sowohl auf Männer als auch auf Frauen. Für diese Personen ist keine Einladung durch eine saudi-arabische Firma erforderlich.
 
 Für die kleine und große Pilgerfahrt werden besondere Einreisevisa von den saudi-arabischen Behörden erteilt. Während der Pilgerzeit gelten für die Einreise von Pilgern besondere Gesundheits- und Hygienebestimmungen (siehe medizinische Hinweise). Mit diesen Visa ist es allerdings nicht möglich, außerhalb Mekkas und Medinas zu reisen oder etwa eine Ehe zu schließen.
 
@@ -154,7 +154,7 @@ Ein HIV-Test wird dann verlangt und auch durchgeführt, wenn ein Langzeit- (Arbe
 
 ### Arbeitsaufnahme
 
-In Einzelfällen ist es in Mitgliedsstaaten des Golfkooperationsrats vorgekommen, dass dort ansässige deutsche Staatsangehörige an der Ausreise gehindert wurden. Ein häufiger Grund sind arbeitsrechtliche Meinungsverschiedenheiten, die den Arbeitgeber („Sponsor“) veranlassen, die zuständigen Behörden um die Verhängung von aufenthaltsrechtlichen Maßnahmen i. S. einer „Ausreisesperre“ (engl. „travel ban“) auch außerhalb von Gerichtsverfahren zu ersuchen. Auch die Nichterfüllung finanzieller Forderungen durch den Arbeitnehmer hat in der Vergangenheit zur Verwehrung der Ausreise geführt. Es wird daher empfohlen, sich vor Aufnahme eines Arbeitsverhältnisses bzw. Beginn einer Geschäftstätigkeit über die geltende Rechtslage zu informieren.
+In Einzelfällen ist es in Mitgliedsstaaten des Golfkooperationsrats vorgekommen, dass dort ansässige deutsche Staatsangehörige an der Ausreise gehindert wurden. Ein häufiger Grund sind arbeitsrechtliche Meinungsverschiedenheiten, die den Arbeitgeber („Sponsor“) veranlassen, die zuständigen Behörden um die Verhängung von aufenthaltsrechtlichen Maßnahmen im Sinne einer „Ausreisesperre“ (engl. „travel ban“) auch außerhalb von Gerichtsverfahren zu ersuchen. Auch die Nichterfüllung finanzieller Forderungen durch den Arbeitnehmer hat in der Vergangenheit zur Verwehrung der Ausreise geführt. Es wird daher empfohlen, sich vor Aufnahme eines Arbeitsverhältnisses bzw. Beginn einer Geschäftstätigkeit über die geltende Rechtslage zu informieren.
 
 ### Minderjährige
 
@@ -169,15 +169,15 @@ Konsularische Hilfe durch die deutsche Botschaft in Riad ist für diesen Persone
 
 ### Einfuhrbestimmungen
 
-Ein- bzw. Ausfuhr von Bargeld, konvertierbaren Mitteln, Edelmetallen und Edelsteinen: diese müssen vor der Einreise deklariert werden, wenn ihr Gesamtwert 60.000 SAR (ca. 12.000 EUR) überschreitet. Hierzu muss beim Zoll eine Zollerklärung („Declaration Form“) des saudi-arabischen Ministeriums für Finanzen ausgefüllt werden (Angabe von Reisegründen, Persönliche Daten, Art und Höhe der eingeführten Werte). Die Erklärung sowie nähere Informationen sind auf [der Webseite des saudi-arabischen Zolls](https://www.customs.gov.sa/en/declare) erhältlich.
+Ein- und Ausfuhr von Bargeld, konvertierbaren Mitteln, Edelmetallen und Edelsteinen müssen vor der Einreise deklariert werden, wenn ihr Gesamtwert 60.000 SAR (ca. 12.000 EUR) überschreitet. Hierzu muss beim Zoll eine Zollerklärung („Declaration Form“) des saudi-arabischen Ministeriums für Finanzen ausgefüllt werden (Angabe von Reisegründen, persönliche Daten, Art und Höhe der eingeführten Werte). Die Erklärung sowie nähere Informationen sind auf [der Webseite des saudi-arabischen Zolls](https://www.customs.gov.sa/en/declare) erhältlich.
 
 Die Einfuhr von Drogen, Waffen, Alkohol Schweinefleisch und pornografischem Material ist strengstens verboten.
 
-Bei illegaler Einfuhr schon von geringen Mengen von Drogen, u.a. auch Captagon, kann die Todesstrafe drohen. Als pornografisches Material wird jegliche Darstellung von körperlicher Freizügigkeit, auch auf DVDs und CDs, angesehen.
+Bei illegaler Einfuhr schon geringer Mengen von Drogen, u.a. auch Captagon, kann die Todesstrafe drohen. Als pornografisches Material wird jegliche Darstellung körperlicher Freizügigkeit, auch auf DVDs und CDs, angesehen.
 
-Bei Einreise nach Saudi-Arabien darf eine für maximal 90 Tage ausreichende Menge an verschreibungspflichtigen Medikamenten für den persönlichen Bedarf mitgeführt werden. Dabei sind ein ärztliches Attest und das Rezept für die entsprechenden Medikamente mitzuführen und den Mitarbeitern der Saudi-Arabischen Behörde für Lebensmittel und Medikamente (SFDA) an der jeweiligen Grenzübergangsstelle vorzulegen.
+Bei Einreise nach Saudi-Arabien darf eine für maximal 90 Tage ausreichende Menge an verschreibungspflichtigen Medikamenten für den persönlichen Bedarf mitgeführt werden. Dabei sind ein ärztliches Attest und das Rezept für die entsprechenden Medikamente mitzuführen und den Mitarbeitern der saudi-arabischen Behörde für Lebensmittel und Medikamente (SFDA) an der jeweiligen Grenzübergangsstelle vorzulegen.
 
-Bei der Einfuhr von Bibeln, Koranen und religiösen Schriften kann es an der Grenze zu erheblichen Schwierigkeiten und Beschlagnahmungen kommen.
+Bei Einfuhr von Bibeln, Koranen und religiösen Schriften kann es an der Grenze zu erheblichen Schwierigkeiten und Beschlagnahmungen kommen.
 
 ### Heimtiere
 

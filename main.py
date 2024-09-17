@@ -39,7 +39,7 @@ def save_general_info(p, track_changes):
     write_with_tracking("Haftungsausschluss.md", "Haftungsausschluss", disclaimer, track_changes)
 
     soup = BeautifulSoup(p["content"], features="html.parser")
-    infobox = soup.find(string="Lagen können sich schnell verändern und entwickeln. Wir empfehlen Ihnen:").parent.parent
+    infobox = soup.find(string=re.compile("Lagen können sich schnell verändern und entwickeln. Wir empfehlen Ihnen:")).parent.parent
 
     write_with_tracking("AllgemeineEmpfehlung.md", "Allgemeine Empfehlung", "# Allgemeine Empfehlung\n\n" + to_markdown(str(infobox)), track_changes)
 
@@ -55,7 +55,7 @@ def to_filename(n):
 
 def create_content(p):
     soup = BeautifulSoup(p["content"], features="html.parser") 
-    infobox = soup.find(string="Lagen können sich schnell verändern und entwickeln. Wir empfehlen Ihnen:").parent.parent
+    infobox = soup.find(string=re.compile("Lagen können sich schnell verändern und entwickeln. Wir empfehlen Ihnen:")).parent.parent
     infobox.clear()
 
     furtherInfoHead = soup.find(string="Weitere Hinweise für Ihre Reise").parent

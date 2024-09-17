@@ -59,7 +59,7 @@ Vor allem in den Sommermonaten kann es aufgrund der herrschenden klimatischen Be
 
 Die Nachbarländer Kroatien, Österreich, die Slowakei und Slowenien sind Teil des Schengen-Gebietes. An den Grenzen müssen alle Reisenden (einschließlich Kinder) dennoch in der Lage sein, sich durch Pässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht. Es droht ein Bußgeld oder sogar die Festnahme zur Einleitung strafrechtlicher Ermittlungen. Mit polizeilichen Fahrzeugkontrollen ist zu rechnen, insbesondere bei Einreisen nach Österreich, in die Slowakei und nach Slowenien. Es kann daher zu Verzögerungen an den Grenzübergängen kommen.
 
-Aufgrund der Teilaufnahme Rumäniens in das Schengengebiet sind an den internen Luft- und Seegrenzen seit April 2024 keine Personenkontrollen mehr vorgesehen. Grenzkontrollen finden jedoch weiterhin statt, sodass Reisende auf dem Landweg mit Wartezeiten rechnen müssen.
+Aufgrund der Teilaufnahme Rumäniens in das Schengengebiet sind an den internen Luft- und Seegrenzen seit April 2024 keine Personenkontrollen mehr vorgesehen. Grenzkontrollen finden jedoch weiterhin statt, sodass Reisende auf dem Landweg mit Wartezeiten rechnen müssen.
 
 Bei Überschreiten der EU-Außengrenzen wird nicht nur die Gültigkeit der Reisedokumente aller Reisenden überprüft, sondern jedes Reisedokument systematisch in entsprechenden Datenbanken abgeglichen. Daher kann es zu längeren Wartezeiten an der ungarisch-serbischen und der ungarisch-ukrainischen Grenze kommen. Personalausweise, Reisepässe und Kinderreisepässe, deren Gültigkeit abgelaufen ist, werden zur Weiterreise z. B. nach Serbien oder in die Türkei nicht akzeptiert. Reisende werden dann an den Grenzen zurückgewiesen.
 
@@ -130,6 +130,8 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 Reisedokumente müssen zum Zeitpunkt der Einreise gültig sein.
 
 ### Minderjährige
+
+Vor einem Urlaub sollte überprüft werden, ob die Pässe oder Personalausweise aller Familienmitglieder für die Hin- und Rückreise gültig sind, insbesondere, wenn eine Weiterreise z.B. in die Türkei geplant ist.
 
 Es bestehen keine besonderen Bestimmungen für die Einreise Minderjähriger.
 
