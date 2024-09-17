@@ -2,7 +2,9 @@
 
 ## Aktuelles
 
-Die heftigen Unwetter in Österreich mit extremen Niederschlägen und Sturm werden voraussichtlich bis Dienstagnacht (17. September 2024) andauern. Anhaltender starker Regen- und in höheren Lagen Schneefall haben bereits zu mehreren Straßensperren und Unterbrechungen von Zugstrecken geführt. Am 15. September 2024 wurde ganz Niederösterreich zum Katastrophengebiet erklärt. Im Burgenland gilt eine Hochwasserwarnung. Die [österreichische Bahn](https://www.oebb.at/de/neuigkeiten/unwetterwarnung) rät bis einschließlich Donnerstag, 19. September 2024, von nicht notwendigen Reisen ab. Alle wichtigen Bahnverbindungen von und nach Wien sind zumindest bis Betriebsschluss am Dienstag, 17. September 2024, gesperrt. In Wien ist der öffentliche Nahverkehr bis auf Weiteres stark eingeschränkt.
+Die durch extreme Niederschläge verursachte Hochwasserlage dauert an. Es besteht die Gefahr von Hangrutschen. Am 15. September 2024 wurde ganz Niederösterreich zum Katastrophengebiet erklärt. Starkregen und in höheren Lagen Schneefall haben zu vielen Straßensperren und Unterbrechungen von Zugstrecken geführt. Die [österreichische Bahn](https://www.oebb.at/de/neuigkeiten/unwetterwarnung) rät bis einschließlich Donnerstag, 19. September 2024, von nicht notwendigen Reisen ab.
+
+Alle wichtigen Bahnverbindungen von und nach Wien und die gesamte Weststrecke zwischen Wien und Deutschland sind derzeit noch unterbrochen. In Wien ist der öffentliche Nahverkehr bis auf Weiteres stark eingeschränkt.
 
 * Informieren Sie sich über die [aktuelle Wetterlage](https://wetter.orf.at/oes/) über die österreichischen Medien.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.
@@ -12,13 +14,13 @@ Die heftigen Unwetter in Österreich mit extremen Niederschlägen und Sturm werd
 
 ### Terrorismus
 
-Bereits Anfang Oktober 2023 wurde für Österreich eine erhöhte Terrorwarnstufe ausgerufen. In der Wiener Innenstadt wurde im November 2020 ein terroristischer Angriff verübt.
+Terroristische Anschläge können auch in Österreich nicht ausgeschlossen werden. Anfang Oktober 2023 wurde für Österreich eine erhöhte Terrorwarnstufe ausgerufen. In der Wiener Innenstadt wurde im November 2020 ein terroristischer Angriff verübt.
 
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Kriminalität
 
-Kleinkriminalität wie Taschendiebstähle und Handtaschenraub kommen insbesondere in den Großstädten an von Touristen sehr frequentierten Orten vor. Gewaltkriminalität ist selten.
+Kleinkriminalität wie Taschendiebstähle und Handtaschenraub kommen insbesondere in den Großstädten an von Touristen stark frequentierten Orten vor. Gewaltkriminalität ist selten.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
@@ -34,7 +36,7 @@ Es herrscht gemäßigtes Alpin-Klima mit zunehmend kontinentalem Einfluss nach O
 Im Winter kommt es in den Bergen immer wieder zu Lawinenabgängen und auch Sperrungen von Gebieten wie insbesondere von Tälern.  
 Schnee- und Gletscherschmelze können auch im Frühjahr Lawinen und Erdrutsche verursachen. Ganzjährig kann es zu Berg- und Felsstürzen sowie Gerölllawinen kommen.
 
-* Informieren Sie sich vor Aktivitäten in den Bergen stets über die aktuelle Witterung, insbesondere über die Schnee- und Lawinensituation, z.B. bei der [österreichischen Zentralanstalt für Meteorologie und Geodynamik](https://www.zamg.ac.at/cms/de/aktuell).
+* Informieren Sie sich vor Aktivitäten in den Bergen über die örtlichen Gegebenheiten, um das Risiko eines Wetterumschwungs einschätzen zu können, die eigenen Kräfte nicht zu überschätzen und mit adäquater Kleidung und Ausrüstung aufzubrechen. Informationen über die aktuelle Witterung, insbesondere über die Schnee- und Lawinensituation, bietet die [österreichische Zentralanstalt für Meteorologie und Geodynamik](https://www.zamg.ac.at/cms/de/aktuell).
 * Bleiben Sie stets auf ausgewiesene Pisten und Loipen.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Beachten Sie die [regionalen Wetter- und Verkehrshinweise](https://www.oeamtc.at/) und verhalten Sie sich adäquat.
@@ -43,7 +45,13 @@ Schnee- und Gletscherschmelze können auch im Frühjahr Lawinen und Erdrutsche v
 
 ### Grenzkontrollen
 
-Österreich führt regelmäßig Grenzkontrollen sowohl an der österreichisch-ungarischen als auch an der österreichisch-slowenischen Grenze durch. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.
+Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der deutsch-österreichischen Grenze Binnengrenzkontrollen durchgeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.  
+
+#### *Grenzübertritt nach Österreich*
+
+Österreich ist Teil des sog. Schengenraums; gleichwohl muss mit Grenzkontrollen an den Landesgrenzen gerechnet werden. Das gilt sowohl für den Auto,- Bus,- und Zugverkehr als auch für Flughäfen. Österreich führt regelmäßig Grenzkontrollen sowohl an der österreichisch-ungarischen als auch an der österreichisch-slowenischen Grenze durch. Dies kann unter Umständen zu Wartezeiten im grenzüberschreitenden Verkehr führen.
 
 * Beachten Sie aktuelle Verkehrsinformationen, auch zu Grenzwartezeiten, z.B. der [österreichischen Bundesgesellschaft ASFiNAG](https://www.asfinag.at/).
 
@@ -60,13 +68,17 @@ Die Vignette kann neben der bisherigen Form als Klebevignette auch als digitale 
 Klebevignetten dürfen nur auf die Windschutzscheibe, z. B. am linken Rand oder hinter dem Rückspiegel, mit direktem Kontakt geklebt werden, bei Motorrädern sichtbar an einem nicht oder nur schwer zu entfernenden Teil des Motorrades. Nicht geklebte Vignetten sowie nicht gelochte Zeitvignetten (2-Monats-Vignetten, 10-Tages-Vignetten) sind ungültig.  
 Der untere Vignettenabschnitt muss aufbewahrt werden, die Trägerfolie mit Seriennummer dient als Kaufnachweis.
 
-Kontrollen werden durch Polizei, Zollwache und Mautaufsichtsorgane meist automatisiert durchgeführt, wobei Fahrzeuge aus Deutschland durch eine Abfrage beim Kraftfahrzeugregister Flensburg identifiziert werden. Bei fehlender, nicht ordnungsgemäß angebrachter oder manipulierter Vignette werden hohe Strafen erhoben. Fehlerhaft angebrachte Vignetten werden bei den automatischen Kontrollen nicht erfasst.
+Kontrollen werden durch Polizei, Zollwache und Mautaufsichtsorgane meist automatisiert durchgeführt, wobei Kfz aus Deutschland durch eine Abfrage beim Kraftfahrzeugregister Flensburg identifiziert werden. Bei fehlender, nicht ordnungsgemäß angebrachter oder manipulierter Vignette werden hohe Strafen erhoben. Fehlerhaft angebrachte Vignetten werden bei den automatischen Kontrollen nicht erfasst.
 
 Vom 1. November bis 15. April müssen Fahrzeuge bei winterlichen Straßenverhältnissen mit Winterreifen oder Schneeketten ausgerüstet sein.
 
 Die Promillegrenze beträgt 0,5. Für Personen, die den Führerschein noch keine zwei Jahre besitzen, gilt 0,1 Promille.
 
 Für in- und ausländische Lenker mehrspuriger Fahrzeuge gilt eine Mitführ- und Tragepflicht von Warnwesten. Verstöße sind bußgeldbewehrt.
+
+Bei Überschreiten des [Tempolimits](https://www.oeamtc.at/thema/vorschriften-strafen/zulaessige-hoechstgeschwindigkeiten-in-oesterreich-16182124) drohen empfindliche Geldbußen.
+
+* Vermeiden Sie Einfahrten auf und das (kurze) Halten vor Privatgrundstücken. Anwohner, Besitzer (auch Mieter) und Eigentümer können eine [Besitzstörungsklage](https://www.oesterreich.gv.at/lexicon/B/besitzstoerungsklage.html) einreichen. Bei Verstößen drohen Geldstrafen von mehreren Hundert Euro.
 
 ### Führerschein
 
@@ -82,7 +94,7 @@ Es ist an allen öffentlichen Orten nicht mehr erlaubt, das Gesicht durch Kleidu
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind überall möglich.
+Landeswährung ist der Euro (EUR). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind vielerorts möglich. Nicht alle Dienstleistungen sind bargeldlos möglich; insbesondere in der Gastronomie wird häufig nur Barzahlung akzeptiert.
 
 ## Einreise und Zoll
 
