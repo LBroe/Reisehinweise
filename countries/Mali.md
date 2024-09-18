@@ -6,7 +6,7 @@
 
 Nach Auskunft der malischen Behörden ereigneten sich am Morgen des 17. September 2024 in der Hauptstadt Bamako terroristische Angriffe auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (in Flughafennähe). Die Lage ist unübersichtlich. Es liegen keine gesicherten Erkenntnisse darüber vor, ob die Angriffe bereits vollständig abgewehrt werden konnten und wie sich die Lage weiterentwickeln wird.
 
-Angesichts der aktuellen Lage - und auch mit Blick auf den bevorstehenden malischen Nationalfeiertag am Sonntag, dem 22. Sptember - wird zu besonderer Vorsicht geraten.
+Angesichts der aktuellen Lage - und auch mit Blick auf den bevorstehenden malischen Nationalfeiertag am Sonntag, den 22. September 2024 - wird zu besonderer Vorsicht geraten.
 
 * Beschränken Sie Ihre Bewegungen innerhalb Bamakos daher auf das Notwendige und bleiben Sie möglichst zu Hause*.*
 * Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.

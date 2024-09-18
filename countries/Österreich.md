@@ -2,9 +2,9 @@
 
 ## Aktuelles
 
-Die durch extreme Niederschläge verursachte Hochwasserlage dauert an. Es besteht die Gefahr von Hangrutschen. Am 15. September 2024 wurde ganz Niederösterreich zum Katastrophengebiet erklärt. Starkregen und in höheren Lagen Schneefall haben zu vielen Straßensperren und Unterbrechungen von Zugstrecken geführt. Die [österreichische Bahn](https://www.oebb.at/de/neuigkeiten/unwetterwarnung) rät bis einschließlich Donnerstag, 19. September 2024, von nicht notwendigen Reisen ab.
+Die durch extreme Niederschläge verursachte Hochwasserlage dauert an. Es besteht die Gefahr von Hangrutschen. Am 15. September 2024 wurde ganz Niederösterreich zum Katastrophengebiet erklärt. Starkregen und in höheren Lagen Schneefall führen noch zu zahlreichen Einschränkungen, Straßensperren und Unterbrechungen von Zugstrecken. Die [österreichische Bahn](https://www.oebb.at/de/neuigkeiten/unwetterwarnung) rät bis einschließlich Donnerstag, 19. September 2024, von nicht notwendigen Reisen ab.
 
-Alle wichtigen Bahnverbindungen von und nach Wien und die gesamte Weststrecke zwischen Wien und Deutschland sind derzeit noch unterbrochen. In Wien ist der öffentliche Nahverkehr bis auf Weiteres stark eingeschränkt.
+Derzeit sind noch alle wichtigen Bahnverbindungen von und nach Wien und in Richtung Deutschland unterbrochen. Aktuelle Informationen über Fahrpläne und Streckenunterbrechungen sind über [SCOTTY der österreichischen Bahn](https://fahrplan.oebb.at/webapp/#!P|HimSearch!H|199974) abrufbar.
 
 * Informieren Sie sich über die [aktuelle Wetterlage](https://wetter.orf.at/oes/) über die österreichischen Medien.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.
@@ -47,7 +47,7 @@ Schnee- und Gletscherschmelze können auch im Frühjahr Lawinen und Erdrutsche v
 
 Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der deutsch-österreichischen Grenze Binnengrenzkontrollen durchgeführt.
 
-Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.  
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
 
 #### *Grenzübertritt nach Österreich*
 
