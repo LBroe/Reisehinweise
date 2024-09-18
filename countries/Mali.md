@@ -2,27 +2,25 @@
 
 ## Aktuelles
 
-### *Terrorismus*
+### *Terrorbedrohung*
 
-Nach Auskunft der malischen Behörden ereigneten sich am Morgen des 17. September 2024 in der Hauptstadt Bamako terroristische Angriffe auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (in Flughafennähe). Die Lage ist unübersichtlich. Es liegen keine gesicherten Erkenntnisse darüber vor, ob die Angriffe bereits vollständig abgewehrt werden konnten und wie sich die Lage weiterentwickeln wird.
+Nach Auskunft der malischen Behörden ereigneten sich am Morgen des 17. September 2024 in der Hauptstadt Bamako terroristische Angriffe auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (am Flughafen). Die Lage ist unübersichtlich, Sicherheitsmaßnahmen in der Hauptstadt wurden verstärkt. Der Flughafen wurde bei den Angriffen beschädigt, daher ist der internationale Flugverkehr beeinträchtigt.
 
-Angesichts der aktuellen Lage - und auch mit Blick auf den bevorstehenden malischen Nationalfeiertag am Sonntag, den 22. September 2024 - wird zu besonderer Vorsicht geraten.
+* Informieren Sie sich rechtzeitig vor Abflug bei Ihrer Fluggesellschaft.
 
-* Beschränken Sie Ihre Bewegungen innerhalb Bamakos daher auf das Notwendige und bleiben Sie möglichst zu Hause*.*
+Angesichts der aktuellen Lage – und auch mit Blick auf den bevorstehenden malischen Nationalfeiertag am kommenden Sonntag, den 22. September 2024 – wird zu besonderer Vorsicht geraten.
+
+* Beschränken Sie Ihre Bewegungen innerhalb Bamakos auf das Notwendige und bleiben Sie wachsam.
 * Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
-* Meiden Sie unbedingt die Zonen um Faladié, den Tour d'Afrique und Sénou einschließlich des internationalen Flughafens Bamako.
 
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in**
 
-- in die Regionen **Timbuktu, Kidal, Gao, Taoudenni, Ménaka, Mopti und Ségou,**
-
-- **in die** **nördlichen Teile der Regionen Kayes und Koulikoro,**(nördlich und östlich der Stadt Koulikoro)
-
-- **die** **nördlichen und östlichen Teile der Region Sikasso** sowie
-
-- das **erweiterte Grenzgebiet Mali – Côte d’Ivoire südlich der Verbindung Bougouni – Sikasso** 
+* in die Regionen **Timbuktu, Kidal, Gao, Taoudenni, Ménaka, Mopti und Ségou,**
+* **in die** **nördlichen Teile der Regionen Kayes und Koulikoro,**(nördlich und östlich der Stadt Koulikoro)
+* **die** **nördlichen und östlichen Teile der Region Sikasso** sowie
+* das **erweiterte Grenzgebiet Mali – Côte d’Ivoire südlich der Verbindung Bougouni – Sikasso**
 
 **wird gewarnt.**
 
@@ -34,9 +32,7 @@ Anschläge sind in Mali überall und jederzeit möglich. Vorwiegend islamistisch
 
 Weiterhin kommt es zu Angriffen auf staatliche Sicherheitskräfte. Dabei kommt es auch zu zivilen Opfern. Für Angehörige westlicher Staaten besteht, insbesondere außerhalb von Bamako, ein hohes Risiko, Opfer von Entführungen und gezielten Anschlägen, aber auch von Landminen bzw. Sprengfallen zu werden.
 
-Auf Überlandstrecken ist es 2022 und 2023 auch im Süden Malis zu Überfällen sowie zu mutmaßlich terroristischen Angriffen auf malische Sicherheitskräfte gekommen. Dies betraf mehrfach die Strecken Bamako – Ségou und Bamako – Kayes (via Kolokani und via Kita). Es gibt auch im Süden verstärkt Berichte über die Präsenz bewaffneter Gruppierungen, dies gilt einschließlich der Verbindung von Bamako in Richtung Guinea (Gebiet um Siby).
-
-Auch in der Hauptstadt Bamako sowie deren Umgebung besteht eine generelle Gefährdung durch terroristische Gruppen.
+Auf Überlandstrecken ist es 2022 und 2023 auch im Süden Malis zu Überfällen sowie zu mutmaßlich terroristischen Angriffen auf malische Sicherheitskräfte gekommen. Dies betraf mehrfach die Strecken Bamako – Ségou und Bamako – Kayes (via Kolokani und via Kita). Es gibt auch im Süden verstärkt Berichte über die Präsenz bewaffneter Gruppierungen, dies gilt einschließlich der Verbindung von Bamako in Richtung Guinea (Gebiet um Siby).
 
 * Führen Sie Reisen und Aufenthalte nur unter zeitnaher vorheriger Abklärung der allgemeinen Sicherheitslage durch und planen Sie entsprechend.
 * Seien Sie auch in der Hauptstadt Bamako besonders vorsichtig und meiden Sie nach Möglichkeit Orte und Ausflugsziele, die regelmäßig von Ausländern aufgesucht werden.
@@ -45,6 +41,7 @@ Auch in der Hauptstadt Bamako sowie deren Umgebung besteht eine generelle Gefäh
 * Beachten Sie die Reisewarnungen für einzelne Regionen Malis, siehe Sicherheit.
 * Reisen Sie keinesfalls nachts und treffen Sie Sicherheitsvorkehrungen.
 * Vermeiden Sie Überlandfahrten.
+* Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
@@ -96,11 +93,11 @@ Gefahren bestehen auch durch fehlende Verkehrszeichen, unbeleuchtete und auch ü
 
 ### Führerschein
 
-Der Internationale Führerschein ist empfehlenswert und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist empfehlenswert und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
-Homosexualität ist formal nicht verboten. Die Toleranz gegenüber LGBTIQ ist eher gering ausgeprägt.
+Homosexuelle Handlungen sind formal nicht verboten. Die Toleranz gegenüber LGBTIQ ist eher gering ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -118,8 +115,7 @@ Landeswährung ist der an den EUR gekoppelte Franc CFA (1 EUR = 656 FCFA). Grö�
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -136,7 +132,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
+Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 ### Visum
 
@@ -227,7 +223,7 @@ In Mali besteht ein Risiko für Erkrankungen wie [Lassafieber,](https://www.ausw
 
 ### Weitere Gesundheitsgefahren
 
-[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosoma übertragen werden.
+[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosomiasis übertragen werden.
 
 * Sehen Sie vom Baden und Schwimmen in Binnengewässern ab.
 
@@ -239,9 +235,7 @@ Intensive Sonneneinstrahlung kann zu kurz- und langfristigen Haut- und Augensch�
 
 * Informieren Sie sich z.B. über die App [SunSmart](https://www.who.int/news/item/21-06-2022-sunsmart-global-uv-app-helps-protect-you-from-the-dangers-of-the-sun-and-promotes-public-health "App SunSmart") über notwendige Sonnenschutzmaßnahmen.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

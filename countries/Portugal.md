@@ -4,13 +4,22 @@
 
 #### *Busch- und Waldbrände*
 
-In den Sommermonaten kommt es in Portugal – vor allem im Zentrum und Norden des Landes sowie auch auf Madeira – aufgrund von Hitze und Trockenheit immer wieder zu Busch- und Waldbränden. Es kann deshalb zu Beeinträchtigungen der Infrastruktur einschließlich des Flugverkehrs kommen.
+Derzeit herrscht im ganzen Land ein besonders erhöhtes (Wald-)Brandrisiko. Aktuell warnt die portugiesische Katastrophen- und Zivilschutzbehörde ANEPC vor mehr als 40, teils schweren und unkontrollierten Brandherden, hauptsächlich bei Aveiro sowie in der Region zwischen Porto und Braga sowie bei Coimbra. Der regionale Notstand wurde in den betroffenen Gebieten ausgerufen. Dieser soll vorläufig bis einschließlich Donnerstag, 19. September 2024, gelten.
 
-* Informieren Sie sich über aktuelle Brände, z.B. bei [Fogos](https://fogos.pt/), und beachten Sie geltende Feuer- und Rauchverbote.
-* Leisten Sie den Anweisungen der lokalen Behörden unbedingt Folge und beachten Sie Warnschilder und -meldungen.
+Gleichzeitig wurde für das gesamte kontinentale Territorium die Warnstufe ausgerufen. Es ist u.a. verboten, sich in Waldgebieten, inklusive auf in Waldgebieten befindlichen Wanderwegen und Straßen, aufzuhalten.  
+
+Aktuelle Information können Sie der Webseite der [Nationalen Katstrophen- und Zivilschutzbehörde ANEPC](https://prociv.gov.pt/en/home/) entnehmen (auch in englischer Sprache). ANEPC hat eine SMS-Warnung an die Bevölkerung herausgegeben, mit der Bürgerinnen und Bürger über die Risikosituation informiert wurden. Die SMS-Warnung enthält zwei ANEPC-Kontakttelefonnummern (+351 214 247 247; +351 800 246 246), die bis Freitag, 20. September 2024, 0 Uhr für Rückfragen der Bevölkerung freigeschaltet sind.
+
+Siehe auch *Natur und Klima – Busch- und Waldbrände.*
+
+* Informieren Sie sich über aktuelle Brände. Übersichtkarten finden Sie u.a. bei [Fogos](https://fogos.pt/) und [ANEPC](https://prociv-portal.geomai.mai.gov.pt/arcgis/apps/experiencebuilder/experience/?id=29e83f11f7a34339b35364e483e3846f). Beachten Sie geltende Feuerhinweise und Rauchverbote.
+* Wählen Sie den Notruf 112, wenn Sie einen Brand gesichtet haben oder wenn Sie sich in einer Notlage befinden.
+* Leisten Sie den Anweisungen der lokalen Behörden unbedingt Folge. Beachten Sie stets Warnschilder, Warnmeldungen und Verbote. Achten Sie gesondert auf SMS der Nationalen Katstrophen- und Zivilschutzbehörde ANEPC.
 * Vermeiden Sie Fahrten in die von Bränden betroffenen Gebiete.
-* Seien Sie bei Fahrten in bewaldeten Gebieten besonders vorsichtig und verfolgen Sie die lokalen Medien sowie die nationale Zivilschutzbehörde.
-* Wählen Sie den Notruf 112, wenn Sie einen Brand gesichtet haben.
+* Seien Sie grundsätzlich bei Fahrten in bewaldeten Gebieten besonders vorsichtig. Beachten Sie das aktuelle Verbot, sich in kontinentalen Waldgebieten, inklusive auf in Waldgebieten befindlichen Wanderwegen und Straßen, aufzuhalten und verfolgen Sie die lokalen Medien sowie Meldungen der Nationalen Katastrophen- und Zivilschutzbehörde ANEPC.
+* Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein.
+* Stellen Sie sicher, dass Ihr Telefon stets einsatzbereit ist, ggf. mittels einer Powerbank.
+* Sollten Sie Reisen über Reiseveranstalter gebucht haben und von Evakuierungsmaßnahmen betroffen sein, wenden Sie sich bitte für Fragen der Unterbringung, der Verpflegung, des Transports und ggf. des Verbleibs Ihres Gepäcks an Ihren Reiseveranstalter.
 
 ## Sicherheit
 
@@ -33,6 +42,8 @@ In Lissabon und Porto sind die touristischen Hochburgen (in Lissabon z.B. Praça
 
 ## Natur und Klima
 
+Siehe *Aktuelles*
+
 #### *Tropenstürme, extreme Wetterlagen und Strömungen im Meer*
 
 Es herrscht Atlantikklima auf dem Festland, gemäßigtes Klima auf den Azoren und subtropisches Klima auf Madeira. In den Sommermonaten gibt es zuweilen sehr große Temperaturschwankungen zwischen den Tages- und Abend- bzw. Nachtstunden.
@@ -52,7 +63,7 @@ Auf Madeira kann es ganzjährig zu Stürmen, Starkregen und extremen Wetterwechs
 
 #### *Busch- und Waldbrände*
 
-In den Sommermonaten kommt es in Portugal - vor allem im Zentrum und Norden des Landes, aber auch auf Madeira - aufgrund von Hitze und Trockenheit immer wieder zu Busch- und Waldbränden. Es kann deshalb zu Beeinträchtigungen der Infrastruktur einschließlich des Flugverkehrs kommen.
+In den Sommermonaten kommt es in Portugal - vor allem im Zentrum und Norden des Landes, aber auch auf Madeira - aufgrund von Hitze und Trockenheit immer wieder zu Busch- und Waldbränden. Es kann deshalb zu Beeinträchtigungen der Infrastruktur (Sperrung von Verkehrswegen, Ausfall von Bus- oder Bahnverbindungen) einschließlich des Flugverkehrs kommen.
 
 * Informieren Sie sich über aktuelle Brände z.B. bei [Fogos](https://fogos.pt/), und beachten Sie geltende Feuer- und Rauchverbote.
 * Seien Sie bei Fahrten in bewaldeten Gebieten besonders vorsichtig  und achten Sie auf entsprechende Meldungen in den Medien sowie ggf. Hinweise der lokalen Behörden wie der [Nationalen Zivilschutzbehörde](http://www.prociv.pt/en-us/SITUACAOOPERACIONAL/Pages/default.aspx?cID=1).
