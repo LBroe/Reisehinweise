@@ -2,14 +2,17 @@
 
 ## Aktuelles
 
-Für den Süden Polens sind für das Wochenende heftige Regenfälle und Hochwasser vorhergesagt.
+Für den Süden und Westen Polens gelten weiterhin Hochwasserwarnungen und teilweise Hochwasseralarm. Weite Teile der Grenzregion zu Tschechien wurden für 30 Tage zum Katastrophengebiet erklärt.
 
-Die Nummer +47 8713 011 für den Diensthabenden der Polizei ist auch im Fall einer Hochwassergefahrenlage zu nutzen. Von deutschen oder englischen Sprachkenntnissen kann jedoch nicht in jedem Fall ausgegangen werden.
+Es ist weiterhin mit Hochwasser, Überschwemmungen und Straßensperrungen zu rechnen.
 
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der lokalen Sicherheitskräfte und Behörden.
+* Halten Sie sich fern von Bach- und Flussläufen, da diese auch bei normaler Witterung schnell anschwellen können.
+* Betreten Sie keine Deiche oder Uferbefestigungen, da diese instabil sein können.
+* Wählen Sie den Notruf 112, wenn Sie sich in einer Notlage befinden.
+* Bitte halten Sie sich über die lokalen Medien und über die Webseite des polnischen Wetterinstituts [www.imgw.pl](http://www.imgw.pl/) auf dem Laufenden.
 * Bitte leisten Sie den Anweisungen und Empfehlungen der Funkzellennachrichten der polnischen Behörden Folge, die an ausländische Nummern auch in englischer Sprache versandt werden.
-* Über die aktuelle Lage können Sie sich auf der Website des polnischen Wetterinstituts [www.imgw.pl](http://www.imgw.pl/) auf dem Laufenden halten.
-* Halten Sie sich fern von Bächen und Flüssen, diese können durch Zufluss schnell anschwellen, auch wenn Regen lokal moderat ist.
-* Bitte seien Sie besonders vorsichtig in den polnischen Gebirgsregionen.
+* Bitte seien Sie in Gebirgsregionen besonders vorsichtig, da es zu Hang- und Erdrutschen kommen kann.
 
 ### *Verbot der Einreise für Kfz mit Zulassung in der Russischen Föderation*
 
@@ -79,7 +82,11 @@ Siehe *Aktuelles*
 
 ### Grenzkontrollen
 
-Mit dem Beitritt Polens zum Schengen-Raum sind die Personenkontrollen an der deutsch-polnischen Grenze entfallen, stichprobenartige Kontrollen oder die temporäre Wiedereinführung von Grenzkontrollen sind jedoch jederzeit möglich. Infolgedessen kann es insbesondere am Wochenende zu Verzögerungen beim Grenzübertritt kommen. Ein Reisedokument (Reisepass oder Personalausweis) muss beim Grenzübertritt immer mitgeführt werden.
+An der deutsch-polnischen Grenze werden derzeit Binnengrenzkontrollen durchgeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
+
+Es kann zu Verzögerungen beim Grenzübertritt kommen. Ein Reisedokument (Reisepass oder Personalausweis) muss beim Grenzübertritt für alle Mitreisenden stets mitgeführt werden.
 
 ### Infrastruktur/Verkehr
 
