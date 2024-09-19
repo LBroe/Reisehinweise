@@ -91,16 +91,15 @@ Strafverfahren in Paraguay sind langwierig und entsprechen oft nicht deutschen S
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Guaraní (PYG). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind in weiten Teilen des Landes möglich. Die Höchstgrenze für Geldabhebungen liegt in der Regel bei 1.500.000 – 3.000.000 PYG (rund 220 – 440 EUR) pro Tag.
+Landeswährung ist der Guaraní (PYG). Das Abheben von Bargeld an Geldautomaten und die Bezahlung mit Kreditkarten sind in weiten Teilen des Landes möglich. Die Höchstgrenze für Geldabhebungen liegt in der Regel bei 1,5-3 Mio. PYG (rund 220 – 440 EUR) pro Tag.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Paraguays](https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay)  und dem [paraguayischen Gesundheitsministerium](http://www.mspbs.gov.py/covid-19.php) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Paraguays](https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -155,14 +154,11 @@ Informationen über die Einfuhr von Tieren nach Paraguay erteilt die zuständige
 
 ### Aktuelles
 
-#### *Dengue-Fieber*
+#### *Luftqualität*
 
-Seit Dezember 2023 verzeichnet Paraguay einen großen landesweiten Dengue-Fieber-Ausbruch. Die Gesundheitsbehörden befürchten einen weiteren Anstieg der Fallzahlen durch die derzeitige Regenzeit sowie das Ende der Schulferien. Es wird hauptsächlich Dengue-Typ 2 beobachtet.
+Aufgrund der andauernden Waldbrände im Norden Paraguays und in den Nachbarländern Bolivien und Brasilien ist die aktuelle Luftqualität in den meisten Teilen des Landes und auch in der Hauptstadt Asunción sehr schlecht und mit Rauchpartikeln belastet. Das paraguayische Gesundheitsministerium empfiehlt die Vermeidung von Aufenthalten an der Luft und das Schließen von Fenstern und Türen. 
 
-* Achten Sie tagsüber und in den Abendstunden besonders auf guten Mückenschutz. Mückenschutzmittel sind im Land zwar verfügbar, aber nicht alle in der notwendigen Konzentration. Sie sollten daher zumindest für den Anfang aus Deutschland mitgebracht werden.
-* Lassen Sie sich bezüglich einer Impfung individuell reisemedizinisch beraten. Die Impfung ist in Paraguay nicht verfügbar.
-
-### Impfschutz
+Impfschutz
 
 Bei Einreise und Transit länger als 24 Stunden aus einigen gelbfieberendemischen Gebieten ist eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") für alle Reisenden ab dem vollendeten ersten Lebensjahr vorgeschrieben. Dazu gehören derzeit Brasilien, Bolivien, Peru und Venezuela*.*
 
@@ -175,10 +171,12 @@ Eine Gelbfieberimpfung ist auch für den Aufenthalt im Land, ausgenommen Asunc�
 
 ### Dengue-Fieber
 
+Seit Dezember 2023 verzeichnet Paraguay einen großen landesweiten Dengue-Fieber-Ausbruch. Die Gesundheitsbehörden befürchten einen weiteren Anstieg der Fallzahlen durch die derzeitige Regenzeit sowie das Ende der Schulferien. Es wird hauptsächlich Dengue-Typ 2 beobachtet.  
+
 Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen. Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher und betrifft zunehmend auch Reisende. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
-* Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere tagsüber konsequent vor Mückenstichen.
-* Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
+* Achten Sie tagsüber und in den Abendstunden besonders auf guten [Mückenschutz.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") Mückenschutzmittel sind im Land zwar verfügbar, aber nicht alle in der notwendigen Konzentration. Sie sollten daher zumindest für den Anfang aus Deutschland mitgebracht werden.
+* Lassen Sie sich bezüglich einer Impfung individuell reisemedizinisch beraten. Die Impfung ist in Paraguay nicht verfügbar.
 
 ### Chikungunya-Fieber
 
