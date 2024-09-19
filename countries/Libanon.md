@@ -10,13 +10,13 @@
 
 Die Sicherheitslage in der Region ist hoch volatil. Im Grenzgebiet zwischen Libanon und Israel dauern intensive militärische Auseinandersetzungen an, auch andere Regionen Libanons waren bereits betroffen.
 
-**Aktuell gibt es viele Anzeichen für eine mögliche weitere Verschärfung und Ausweitung des Konflikts. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts, den Raum Saida und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel. Eine weitere Eskalation könnte wegen der damit verbundenen Gefährdung des zivilen Luftverkehrs auch zur Schließung des Flughafens Beirut (Rafiq-Hariri-Airport) führen. Die Ausreise aus Libanon auf dem Luftweg wäre dann für unbestimmbare Zeit nicht mehr möglich.**
+**Am 17.und 18. September 2024 kam es zu einer Vielzahl kleinerer Explosionen von Kommunikationsgeräten in verschiedenen Landesteilen Libanons, einschließlich des Stadtgebietes Beirut, mit einer hohen Anzahl an Verletzten und einigen Toten. Weitere sicherheitsrelevante Vorfälle sind nicht auszuschließen, diese können auch für Unbeteiligte eine erhebliche Gefahr darstellen. Auch darüber hinaus mehren sich Anzeichen für eine mögliche weitere Verschärfung der Lage und Ausweitung des Konflikts. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts, den Raum Saida und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel. Eine weitere Eskalation könnte wegen der damit verbundenen Gefährdung des zivilen Luftverkehrs auch zur Schließung des Flughafens Beirut (Rafiq-Hariri-Airport) führen. Die Ausreise aus Libanon auf dem Luftweg wäre dann für unbestimmbare Zeit nicht mehr möglich.**
 
 Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen und Protestkundgebungen gerechnet werden. Im Umfeld solcher Aktionen kann es zu Ausschreitungen kommen.
 
 * **Beachten Sie die geltende [Reisewarnung und Ausreiseaufforderung.](http://www.auswaertiges-amt.de/de/ReiseUndSicherheit/10.2.8Reisewarnungen)**
 * Nutzen Sie bestehende kommerzielle Reisemöglichkeiten zur sicheren Ausreise.
-* Sollten Sie eine Ausreise auf dem Landweg erwägen, beachten Sie bitte die bestehende **Reisewarnung des Auswärtigen Amtes für Syrien.** Es wird außerdem darauf hingewiesen, dass eine Einreise auf dem Landweg aus Syrien in die Türkei derzeit nicht möglich erscheint. Eine konsularische Unterstützung für deutsche Staatsangehörige in Syrien ist der Deutschen Botschaft Beirut nicht möglich.
+* Sollten Sie eine Ausreise auf dem Landweg erwägen, beachten Sie die bestehende **Reisewarnung für Syrien.** Es wird außerdem darauf hingewiesen, dass eine Einreise auf dem Landweg aus Syrien in die Türkei derzeit nicht möglich erscheint. Eine konsularische Unterstützung für deutsche Staatsangehörige in Syrien ist der Deutschen Botschaft Beirut nicht möglich.
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) und aktualisieren Sie bitte regelmäßig Ihre Daten. Sollten Sie Libanon inzwischen verlassen haben, vermerken Sie dies bitte dort ebenfalls. Ermuntern Sie auch andere, Ihnen in Libanon bekannte deutsche Staatsangehörige zur Registrierung.
 * Meiden Sie Kundgebungen, Demonstrationen und größere Menschenansammlungen.
 * Wenn Sie in Ihrem Umfeld Schüsse hören, begeben Sie sich unverzüglich unter einen festen Unterstand und halten sich von Freiflächen, Balkonen, Terrassen und Fensterflächen fern.
@@ -54,8 +54,8 @@ Im Grenzgebiet zu Israel können die derzeit erhöhten Spannungen jederzeit weit
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen, größere Menschenansammlungen und Straßenblockaden weiträumig
-* Bitte beachten Sie, dass sich auch in anderen Stadt- und Landesteilen kurzfristig gewalttätige Auseinandersetzungen entwickeln können.
-* Befolgen Sie die Anweisungen der lokalen Behörden und der Sicherheitskräfte
+* Beachten Sie, dass sich auch in anderen Stadt- und Landesteilen kurzfristig gewalttätige Auseinandersetzungen entwickeln können.
+* Befolgen Sie die Anweisungen der lokalen Behörden und der Sicherheitskräfte.
 * Meiden Sie südlich von Saida im Abschnitt zwischen dem Zahrani-Kraftwerk und der Stadt Sarafand Fahrten bzw. Halte abseits der Straße 51, einschließlich Besuche der Stadt Sarafand.
 
 ### Finanz- und Wirtschaftskrise/Versorgungsengpässe
@@ -74,13 +74,13 @@ Es kann weiterhin zu Versorgungsengpässen kommen, insbesondere bei Benzin, Dies
 
 Siehe *Aktuelles*
 
-Als Folge der andauernden Finanz- und Wirtschaftskrise hat sich die allgemeine Sicherheitslage verschlechtert, besonders in ärmeren Stadtteilen in Beirut und Tripoli sowie in einigen ländlichen Regionen. Gewaltsame Überfälle, Entführungsversuche und sexuelle Übergriffe kommen vereinzelt vor. Die Anzahl an Personen, die legale oder auch nicht registrierte Waffen besitzen, ist sehr hoch. Es muss jederzeit damit gerechnet werden, dass Waffen bei der Begehung von Straftaten oder bei Auseinandersetzungen auch eingesetzt werden. Die Gefahr ist in Sammeltaxis und Taxis mit unbekannten Fahrern ebenso erhöht wie bei Überlandfahrten in die Bekaa-Ebene oder in abgelegene Landesteile.
+Als Folge der andauernden Finanz- und Wirtschaftskrise hat sich die allgemeine Sicherheitslage verschlechtert, besonders in ärmeren Stadtteilen in Beirut und Tripoli sowie in einigen ländlichen Regionen. Gewaltsame Überfälle, Entführungsversuche und sexuelle Übergriffe kommen vereinzelt vor. Die Anzahl an Personen, die legale oder auch nicht registrierte Waffen besitzen, ist sehr hoch. Es muss jederzeit damit gerechnet werden, dass Waffen für Straftaten oder bei Auseinandersetzungen auch eingesetzt werden. Die Gefahr ist in Sammeltaxis und Taxis mit unbekannten Fahrern ebenso erhöht wie bei Überlandfahrten in die Bekaa-Ebene oder in abgelegene Landesteile.
 
 * Bereiten Sie Reisen, auch Familienbesuche, Dienst- und Geschäftsreisen, sorgfältig vor – u.a. durch Einholen aktueller Informationen.
 * Beauftragen Sie für Ihre Abholung, Ihren Transport und Ihre Unterkunft Ortskundige, die über langjährige Erfahrung zum Verhalten bei Konflikten und der Gewährleistung Ihrer Sicherheit verfügen.
 * Unternehmen Sie Fahrten möglichst in Begleitung ortskundiger libanesischer Vertrauenspersonen bzw. anerkannter Touristenführer.
 * Vermeiden Sie insbesondere in ländlichen Gebieten Überlandfahrten bei Nacht.
-* Benutzen Sie möglichst nur vom Hotel bereitgestellte oder vorbestellte Taxis und verzichten Sie insbesondere als allein reisende Frau auf die Benutzung von Sammeltaxis oder Taxis mit unbekannten Fahrern.
+* Benutzen Sie möglichst nur vom Hotel bereitgestellte oder vorbestellte Taxis und verzichten Sie insbesondere als alleinreisende Frau auf die Benutzung von Sammeltaxis oder Taxis mit unbekannten Fahrern.
 * Seien Sie in größeren Menschenmengen und in eng bebauten Bereichen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
