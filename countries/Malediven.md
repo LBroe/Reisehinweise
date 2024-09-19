@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-Terroristische Anschläge können auch in den Malediven nicht ausgeschlossen werden. 2017 wurden einige Personen unter dem Verdacht, einen terroristischen Anschlag in Malé geplant zu haben, festgenommen. 2020 erfolgte die Festnahme mehrerer Personen im Zusammenhang mit einem Messerangriff auf ausländische Staatsangehörige in Hulhumalé. Zu dem Angriff hat sich eine radikale Gruppierung bekannt. Sicherheitskräfte an belebten Orten wie den internationalen Flughäfen wurden daraufhin verstärkt.
+Terroristische Anschläge können auch in den Malediven nicht ausgeschlossen werden. 
 
 * Seien Sie insbesondere an belebten Orten außerhalb der Resort-Inseln und nahe religiöser Stätten wie Moscheen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
@@ -38,7 +38,7 @@ Es herrscht tropisches Klima mit relativ hoher Luftfeuchtigkeit.
 Die Regenzeit erstreckt sich im Norden in der Regel von November bis April und im Süden von Mai bis Oktober. In dieser Zeit ist mit vereinzelten Tropenstürmen zu rechnen.
 
 * Verfolgen Sie regelmäßig Wetterberichte.
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") im Fall einer Sturmwarnung.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bietet das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
@@ -57,7 +57,7 @@ Der Verkehr zwischen den maledivischen Inseln wird mit Booten und Wasserflugzeug
 
 ### Führerschein
 
-Der Internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### **Besondere Verhaltenshinweise/Ramadan**
 
@@ -75,7 +75,7 @@ Homosexuelle Handlungen sind in den Malediven strafbar. Bei Nichtbeachtung droht
 
 ### Rechtliche Besonderheiten
 
-In den Malediven ist jeglicher Rauschgiftbesitz strikt verboten. Verstöße können selbst bei geringen Mengen schwere Strafen zur Folge haben. Auch Touristen wurden bereits zu lebenslanger Haft verurteilt.
+In den Malediven ist jeglicher Drogenbesitz strikt verboten. Verstöße können selbst bei geringen Mengen schwere Strafen zur Folge haben. Auch Touristen wurden bereits zu lebenslanger Haft verurteilt.
 
 In den Malediven ist der Islam (sunnitischer Richtung) Staatsreligion, die Rechtsordnung orientiert sich an der Scharia. Jegliches Verhalten, das als christliche Missionstätigkeit ausgelegt werden kann, ist untersagt.
 
@@ -98,7 +98,7 @@ Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusä
 
 #### *Einreise*
 
-Die elektronische Einreiseerklärung muss 96 Stunden vor Abflug (auf der Webseite steht genau "96 Stunden zur Abflugszeit, zwischen Ankunft und Abflug") auf der [Internetseite der maledivischen Grenzbehörden](https://imuga.immigration.gov.mv/ethd) ausgefüllt und abgeschickt werden.
+Die elektronische Einreiseerklärung muss innerhalb von 96 Stunden vor Abflug auf der [Webseite der maledivischen Grenzbehörden](https://imuga.immigration.gov.mv) ausgefüllt und abgeschickt werden.
 
 ### Reisedokumente
 

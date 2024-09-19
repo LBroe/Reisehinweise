@@ -1,27 +1,8 @@
 # Guinea: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-In der Nacht des 17. auf den 18. Dezember 2023 kam es im zentralen Treibstofflager im Stadtteil Kaloum der Hauptstadt Conakry zu einer schweren Explosion mit anschließendem Großbrand. Umliegende Gebäude wurden teils schwer beschädigt; mehrere Menschen kamen ums Leben oder wurden verletzt. Das betroffene Gelände ist seither abgesperrt.
-
-Die in Folge der Explosion eingetretene Unterversorgung des Landes mit Treibstoff zieht eine Beeinträchtigung der Versorgungs- und Sicherheitslage nach sich. Derzeit sind der Verkauf und Transport von Kraftstoffen erheblich eingeschränkt. Güter des täglichen Bedarfs sind aufgrund gestiegener Transportkosten entweder nicht durchgehend oder nur zu erhöhten Preisen erhältlich. Gewaltsame Auseinandersetzungen können vor diesem Hintergrund derzeit nicht ausgeschlossen werden.
-
-In dringenden Fällen ist ein Bereitschaftsdienst eingerichtet, siehe [Webseite der Deutschen Botschaft Conakry.](https://conakry.diplo.de/gn-de/uber-uns/-/1220796)
-
-* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) bzw. halten Sie Ihre Daten aktuell.
-* Meiden Sie den betroffenen Bereich weiträumig.
-* Folgen Sie den Anweisungen der Sicherheitskräfte.
-* Tragen Sie zum eigenen Schutz ggf. einen Mund-Nasen-Schutz.
-* Meiden Sie Demonstrationen und Menschenansammlungen weiträumig.
-* Versorgen Sie sich mit ausreichend Trinkwasser und haltbaren Lebensmitteln.
-* Stellen Sie stets die Einsatzbereitschaft Ihrer Kommunikationsmittel sicher (geladener Akku; ggf. Powerbank). Informieren Sie Ihre Kontakte, dass Sie ggf. nicht erreichbar seien könnten.
-* Stellen Sie sich auch mittelfristig auf Kraftstoffknappheit ein und nutzen Sie Kraftstoff sparsam.
-
 ## Sicherheit
 
 ### Terrorismus
-
-Die Sicherheitslage im Nachbarland Mali ist prekär. Vereinzelt waren von einer erhöhten Gefahr von Terroranschlägen und Entführungen auch Nachbarländer betroffen. Guinea ist davon bisher ausgenommen.
 
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
@@ -36,16 +17,14 @@ Die Sicherheitslage ist weiterhin angespannt. An strategischen Punkten, vor alle
 * Informieren Sie sich über die lokalen und Sozialen Medien.
 * Vermeiden Sie, wenn möglich, Fahrten auf Überlandstraßen, besonders in der Dämmerung.
 
-Aufgrund von Auseinandersetzungen zwischen Regierung und Oppositionskräften kommt es derzeit immer wieder zu – auch unangekündigten – Demonstrationen und Protestmärschen. Gewaltsame Zusammenstöße mit Sicherheitskräften können nicht ausgeschlossen werden.
-
-2021 kam es in der Hauptstadt Conakry zu bewaffneten Auseinandersetzungen. Die Regierung des Landes wurde von Einheiten des Militärs für abgesetzt und die Verfassung für ungültig erklärt. Im Oktober 2021 wurde der Interimspräsident vereidigt. Guinea befindet derzeit in einer Übergangsphase, an deren Ende demokratische Neuwahlen stehen sollen. Änderungen der Situation können spontan eintreten. Die Sicherheitsbestimmungen können ohne Vorankündigungen geändert werden.
+In Folge eines Militärputsches im September 2021 befindet sich Guinea nach wie vor in einer politischen Übergangsphase außerhalb einer verfassungsmäßigen Ordnung. Veränderungen der innenpolitischen Situation und der Sicherheitslage können kurzfristig eintreten. Die Sicherheitsbestimmungen können ohne Vorankündigungen geändert werden.
 
 Aufgrund der für den Großteil der Bevölkerung sehr schwierigen wirtschaftlichen Lage kommt es in Conakry, aber auch im Landesinneren, immer wieder zu spontanen Demonstrationen, Vandalismus oder Straßenblockaden. Proteste führten in der Vergangenheit zu Todesopfern und Verletzten.  
 Auch gewaltsame Konflikte zwischen sozialen oder politischen Gruppen können auftreten.
 
-Arbeitskämpfe wie Streiks und politische Konflikte führen immer wieder zu Protestaktionen und somit zu Behinderungen im öffentlichen Raum, vereinzelt auch zu gewaltsamen Auseinandersetzungen.
+Streiks und politische Konflikte können zu Protestaktionen und des öffentlichen Lebens führen, vereinzelt auch zu gewaltsamen Auseinandersetzungen.
 
-Besonders betroffen sind die Hauptstadt Conakry, dort insbesondere auch staatliche Einrichtungen und größere Städte im Landesinnern sowie die Regionen Waldguinea (Guinée forestière), Boké und der Fouta Djallon. Aktionen richten sich nicht gezielt gegen Ausländer. Dennoch besteht die Gefahr, von solchen Ausschreitungen und Gegenmaßnahmen der Sicherheitskräfte beeinträchtigt zu werden.
+Besonders betroffen sind die Hauptstadt Conakry, dort insbesondere staatliche Einrichtungen und größere Städte im Landesinnern sowie die Regionen Waldguinea (Guinée forestière), Boké und im Fouta Djallon. Aktionen richten sich nicht gezielt gegen Ausländer. Dennoch besteht die Gefahr, von solchen Ausschreitungen und Gegenmaßnahmen der Sicherheitskräfte beeinträchtigt zu werden.
 
 In Waldguinea und den südlichen Grenzgebieten zu Liberia, Sierra Leone und Côte d‘Ivoire kann es jederzeit zu ethnischen Spannungen mit gewaltsamen Auseinandersetzungen kommen.
 
@@ -56,7 +35,9 @@ In Waldguinea und den südlichen Grenzgebieten zu Liberia, Sierra Leone und Côt
 
 ### Kriminalität
 
-Die Kriminalitätsrate hat sowohl in Conakry als auch im Landesinnern stark zugenommen. Vor allem im städtischen Milieu sind nächtliche Überfälle auf Passanten, Wohnhäuser und Geschäfte verbreitet. Bewaffnete Überfälle auf Fahrzeuge in der Nacht oder der Dämmerung werden von einzelnen Überlandstraßen gemeldet. Die Täter treten teilweise uniformiert auf.
+Die Kriminalitätsrate hat sowohl in Conakry als auch im Landesinnern stark zugenommen. Vor allem in größeren Städten besteht ein hohes Risiko für nächtliche Überfälle auf Passanten, Wohnhäuser und Geschäfte.
+
+Bewaffnete Überfälle auf Fahrzeuge in der Nacht oder der Dämmerung werden von einzelnen Überlandstraßen gemeldet. Die Täter treten teilweise uniformiert auf.
 
 * Verzichten Sie auf nächtliche Überlandfahrten und planen Sie ausreichend Zeit ein, um auch bei unvorhergesehenen Verspätungen Ihr Reiseziel bei Tag erreichen zu können.
 * Halten Sie während der Fahrten Fenster und Türen verschlossen und verriegelt.
@@ -71,7 +52,7 @@ Die Kriminalitätsrate hat sowohl in Conakry als auch im Landesinnern stark zuge
 
 Es herrscht tropisches, feuchtheißes Klima.
 
-Die jährliche Regenzeit dauert von Mai bis September. In dieser Zeit können Überschwemmungen und Erdrutsche zu erheblichen Behinderungen im Reiseverkehr und Beeinträchtigungen der Infrastruktur führen. Straßen und Brücken können unpassierbar werden.
+Die jährliche Regenzeit dauert von Mai bis September. Besonders an Hängen und in tiefer gelegenen Gegenden muss jederzeit und überall mit Überschwemmungen und Erdrutschen gerechnet werden. Derzeit sind einzelne Stadtteile Conakrys in den Außenbezirken überflutet. Straßen und Brücken im Landesinnern sind aktuell zum Teil unpassierbar.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
@@ -83,13 +64,13 @@ Eine touristische Infrastruktur existiert nur in Ansätzen. Ein öffentliches Ve
 
 Das guineische Straßennetz ist in einem maroden Zustand, in der Regenzeit muss mit erheblichen Straßenschäden gerechnet werden. Insbesondere im Landesinneren wechseln sich befestigte mit unbefestigten Streckenabschnitten ab. Die Benutzung öffentlicher Verkehrsmittel (Taxis, Busse) ist wegen des technischen Zustands der Fahrzeuge nicht ohne Risiken. Schwere Unfälle sind häufig.
 
-Auf den Überlandstraßen und in Städten muss mit Kontrollen bewaffneter Sicherheitskräften an festen oder zeitweilig eingerichteten Kontrollposten gerechnet werden. Dies gilt auch für den Innenstadtbereich von Conakry, nachts ab ca. 22 Uhr.
+Auf den Überlandstraßen und in Städten muss mit Kontrollen bewaffneter Sicherheitskräfte an festen oder zeitweilig eingerichteten Kontrollposten gerechnet werden. Dies gilt auch für den Innenstadtbereich von Conakry, nachts ab ca. 22 Uhr.
 
 * Verzichten Sie auf die Benutzung öffentlicher Verkehrsmittel.
 
 ### Führerschein
 
-Der Internationale Führerschein ist empfehlenswert und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist empfehlenswert und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -218,17 +199,17 @@ Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syp
 * Sollten Sie von einem Hund oder einer Giftschlange gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung.
 * Meiden Sie den Kontakt zu stehenden oder langsam fließenden Gewässern, da diese mit Urin von Nagetieren verunreinigt sein können.
 * Vermeiden Sie Verzehr von Fleischgerichten unklaren Ursprungs.
-* Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Große Krankenhäusern in Guinea verfügen i.d.R. über Tollwutimpfstoffe, Immunglobuline sind jedoch nicht im Land erhältlich.
+* Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Große Krankenhäuser in Guinea verfügen i.d.R. über Tollwutimpfstoffe, Immunglobuline sind jedoch nicht im Land erhältlich.
 
 ## Weitere Gesundheitsgefahren
 
-[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosoma übertragen werden.
+[Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosomiasis übertragen werden.
 
 * Sehen Sie vom Baden und Schwimmen in Binnengewässern ab.
 
 Insbesondere in großen Städten kann es durch Luftverschmutzung zu gesundheitlichen Beschwerden kommen. Durch die Müllverbrennung besteht eine kontinuierliche Belastung. In der Harmattan-Saison kommt es im ersten Jahresquartal zur besonderen Luftverschmutzung. 
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone-App [IQAir](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 Intensive Sonneneinstrahlung kann zu kurz- und langfristigen Haut- und Augenschäden führen.
 
@@ -239,9 +220,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
