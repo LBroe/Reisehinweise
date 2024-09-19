@@ -4,9 +4,9 @@
 
 ### Terrorismus
 
-Die Sicherheitsvorkehrungen wurden deutlich und erkennbar verschärft und die Präsenz der Sicherheitskräfte landesweit verstärkt. Terroristische Anschläge können nicht ausgeschlossen werden.
+Die Sicherheitsvorkehrungen in Sri Lanka wurden seit den Protesten 2022 deutlich und erkennbar erhöht und die Präsenz der Sicherheitskräfte landesweit verstärkt. Terroristische Anschläge können weiterhin nicht ausgeschlossen werden.
 
-Generell können Ausgangssperren kurzfristig verhängt und soziale Medien blockiert werden. Am Flughafen gelten weiterhin verstärkte Sicherheitsvorkehrungen.
+Ausgangssperren können je nach Lage weiterhin ad hoc verhängt werden. Auch Blockaden sozialer Medien sind möglich. Am Flughafen gelten weiterhin verstärkte Sicherheitsvorkehrungen.
 
 * Reisen Sie trotz der wieder hergestellten öffentlichen Ordnung mit erhöhter Vorsicht.
 * Verfolgen Sie die lokalen Medien, halten Sie engen Kontakt zu Reiseveranstaltern und Fluggesellschaften.
@@ -16,9 +16,9 @@ Generell können Ausgangssperren kurzfristig verhängt und soziale Medien blocki
 
 ### Innenpolitische Lage
 
-Spontane lokale Proteste sind jederzeit und im ganzen Land möglich. Sollte sich die Versorgungslage, *s. Reiseinfos – Versorgungslage*, wieder verschlechtern, ist ein Wiederaufflammen landesweiter Proteste nicht auszuschließen. Bei solchen Protesten sind auch gewaltsame Ausschreitungen nicht auszuschließen (wie im Frühjahr 2022).
+Am 21. September 2024 finden Präsidentschaftswahlen statt. Auch wenn aktuell keine Hinweise auf Protestveranstaltungen vorliegen, empfiehlt sich besondere Aufmerksamkeit im Umfeld der Wahlen.
 
-Auch gibt es immer wieder Konflikte zwischen Anhängern der buddhistischen Bevölkerungsmehrheit und anderen Glaubensgemeinschaften. Gewaltsame Ausschreitungen waren aber in den letzten Monaten nicht zu registrieren.
+Spontane lokale Proteste können im ganzen Land auftreten, sind allerdings aufgrund der deutlich verbesserten Versorgungslage, siehe*Reiseinfos – Versorgungslage*, zurückgegangen. Gewaltsame Ausschreitungen während dieser Proteste können nicht ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen, politische Kundgebungen und größere Menschenansammlungen.
@@ -28,7 +28,7 @@ Auch gibt es immer wieder Konflikte zwischen Anhängern der buddhistischen Bevö
 
 Am häufigsten gibt es Gewaltkriminalität innerhalb der lokalen Gesellschaften. Ausländer bleiben allgemein unbehelligt. Gleichwohl sind vereinzelt Ausländer, insbesondere allein oder in kleinen Gruppen reisende Frauen – auch in Touristenzentren – von gewaltsamen, auch sexuellen Übergriffen betroffen. Dazu werden teilweise Drogen oder K.-o.-Tropfen über Getränke verabreicht.
 
-Es gibt Einbrüche in Hotels und „Guesthouses“. Insbesondere bei Einkäufen hoch-preisiger Güter (z.B. Edelsteine/Schmuck) sollten Besuchende sich vor Betrugsversuchen in Acht nehmen.
+Es gibt Einbrüche in Hotels und „Guesthouses“. Insbesondere bei Einkäufen hochpreisiger Güter (z.B. Edelsteine/Schmuck) sollten Besuchende sich vor Betrugsversuchen in Acht nehmen.
 
 Die sri-lankische Polizei nimmt unter der rund um die Uhr erreichbaren Telefonnummer 1938 Beschwerden zu sexuellen Übergriffen auf. Sri Lanka verfügt in den Haupttourismusgebieten entlang der Südwestküste über spezielle Touristenpolizei-Stationen, bei denen Anzeigen aufgegeben werden können.
 
@@ -55,11 +55,11 @@ Sri Lanka liegt in einer seismisch aktiven Zone, sodass es zu Erdbeben und Tsuna
 
 ### *Versorgungslage*
 
-Sri Lanka befindet sich weiterhin in einer Wirtschaftskrise. Es kam zwischenzeitlich zu Versorgungsengpässen bei essenziellen Gütern wie Treibstoffen, Nahrungsmitteln und Medikamenten. Die Versorgungslage hat sich seit einigen Monaten verbessert, wenngleich es immer wieder zu Engpässen, insbesondere bei Medikamenten kommen kann, s. Abschnitte *Sicherheit – Innenpolitische Lage* und *Gesundheit – Medizinische Versorgung.*
+Sri Lanka befindet sich seit dem Staatsbankrott 2022 in einer Wirtschaftskrise, gleichwohl verstetigen sich die Erfolge zur Stabilisierung des Landes. Temporäre Engpässe bei essenziellen Gütern wie Treibstoffen, Nahrungsmitteln und insbesondere Medikamenten können nicht ausgeschlossen werden, siehe Abschnitt *Gesundheit – Medizinische Versorgung.*
 
-Die Importbeschränkungen wurden aufgehoben. Gleichwohl ist davon auszugehen, dass die Wiederherstellung funktionierender Lieferketten nicht zeitnah erfolgen kann.
+Die Importbeschränkungen wurden größtenteils aufgehoben. Die Wiederherstellung funktionierender Lieferketten ist aber noch nicht überall lückenlos erfolgt.
 
-Strom wird noch immer rationiert, sodass es überall im Land zu längeren Stromabschaltungen kommen kann. Allerdings hat die Regierung das staatliche Stromversorgungsunternehmen angewiesen, auf Stromabschaltungen in von Touristen frequentierten Gebieten zu verzichten.
+Strom ist immer noch knapp, sodass es überall im Land zu längeren Stromabschaltungen kommen kann. Allerdings hat die Regierung das staatliche Stromversorgungsunternehmen angewiesen, auf Stromabschaltungen in von Touristen frequentierten Gebieten zu verzichten.
 
 ### Infrastruktur/Verkehr
 
@@ -143,7 +143,7 @@ Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das zurzeit a
 * Bitte achten Sie darauf, bei der Visumsbeantragung am Flughafen unbedingt den richtigen Reisezweck anzugeben. Reisende, die ihr Visum für einen nicht genannten Reisezweck missbrauchen (z. B. geschäftliche Aktivitäten oder Teilnahme an Konferenzen mit einem Touristenvisum) riskieren verhaftet und abgeschoben zu werden.
 * Beachten Sie zudem, dass sich die sri-lankischen Einreisebestimmungen teilweise sehr spontan und ohne Informationen auf den Regierungswebseiten ändern können. Um möglichst aktuelle Informationen zu erhalten, kontaktieren Sie die zuständige sri-lankische Auslandsvertretung direkt.
 
-Touristenvisa werden entweder für eine Dauer von 30 Tagen und für zwei Einreisen oder für 180 Tage und eine Einreise ausgestellt. Verlängerungen von Touristenvisa sind möglich, aber äußerst zeitaufwändig. Eine [frühzeitige Aufnahme per E-Mail](mailto:adcvisa@immigration.gov.lk) mit dem Department of Immigration and Emigration, 45 Ananda Kumaraswamy Mawatha, Colombo 8, wird dringend empfohlen.  
+Derzeit werden Touristenvisa entweder für eine Dauer von 30 Tagen und für zwei Einreisen oder für 180 Tage und eine Einreise ausgestellt. Verlängerungen von Touristenvisa sind möglich, aber sehr zeitaufwändig. Eine [frühzeitige Aufnahme per E-Mail](mailto:adcvisa@immigration.gov.lk) mit dem Department of Immigration and Emigration, 45 Ananda Kumaraswamy Mawatha, Colombo 8, wird dringend empfohlen.  
 
 #### *Längerfristige Aufenthalte*
 
@@ -254,7 +254,7 @@ Die Intensität der Sonneneinstrahlung wird von Urlaubern oft unterschätzt. Auf
 
 ### Medizinische Versorgung
 
-Aufgrund der andauernden Wirtschaftskrise gibt es Importbeschränkungen und Lieferengpässe, wovon auch die Medikamentenversorgung betroffen ist. Besonders in ländlichen Gebieten und staatlichen Institutionen sind nicht immer alle Medikamente erhältlich. Die medizinische Versorgung ist im allgemeinen in den großen Städten und Tourismuszentren ausreichend bis gut, entspricht aber nicht überall europäischem Standard. In Colombo ist die medizinische Versorgung in einzelnen Fachbereichen durchaus auch auf einem hohen bis sehr hohen Niveau.
+Importbeschränkungen und Lieferengpässe konnten nach der Wirtschaftskrise noch nicht lückenlos behoben werden, wovon insbesondere auch die Medikamentenversorgung betroffen ist. Besonders in ländlichen Gebieten und staatlichen Institutionen sind nicht immer alle Medikamente erhältlich. Die medizinische Versorgung ist im allgemeinen in den großen Städten und Tourismuszentren ausreichend bis gut, entspricht aber nicht überall europäischem Standard. In Colombo ist die medizinische Versorgung in einzelnen Fachbereichen durchaus auch auf einem hohen bis sehr hohen Niveau.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie notwendige Medikamente aus Deutschland mit.
