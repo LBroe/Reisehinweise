@@ -4,14 +4,13 @@
 
 ### *Terrorbedrohung*
 
-Nach Auskunft der malischen Behörden ereigneten sich am Morgen des 17. September 2024 in der Hauptstadt Bamako terroristische Angriffe auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (am Flughafen). Die Lage ist unübersichtlich, Sicherheitsmaßnahmen in der Hauptstadt wurden verstärkt. Der Flughafen wurde bei den Angriffen beschädigt, daher ist der internationale Flugverkehr beeinträchtigt.
+Am Morgen des 17. September 2024 ereigneten sich in der Hauptstadt Bamako terroristische Anschläge auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (am internationalen  Flughafen). Einige Fluggesellschaften haben ihre Flüge von/nach Bamako bis auf Weiteres suspendiert. Informieren Sie sich rechtzeitig vor Abflug bei Ihrer Fluggesellschaft.
 
-* Informieren Sie sich rechtzeitig vor Abflug bei Ihrer Fluggesellschaft.
+Angesichts der aktuell angespannten Lage in der Hauptstadt – und mit Blick auf den malischen Nationalfeiertag am Sonntag, den 22. September 2024 – wird zu besonderer Vorsicht geraten.
 
-Angesichts der aktuellen Lage – und auch mit Blick auf den bevorstehenden malischen Nationalfeiertag am kommenden Sonntag, den 22. September 2024 – wird zu besonderer Vorsicht geraten.
-
-* Beschränken Sie Ihre Bewegungen innerhalb Bamakos auf das Notwendige und bleiben Sie wachsam.
-* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
+* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich
+* Meiden Sie Menschenansammlungen sowie Einrichtungen der malischen Sicherheitskräfte (z.b. Kasernen und andere militärische Anlagen) und Regierungsgebäude (z.B. Cité Administrative).
+* Beschränken Sie Ihre Bewegungen dieses Wochenende auf das Notwendige (insbesondere nachts).
 
 ## Sicherheit - Teilreisewarnung
 
