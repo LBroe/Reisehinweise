@@ -1,13 +1,5 @@
 # Laos: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
-
-Für die kommenden Tage werden besonders im Norden und Nordosten Thailands weiterhin große Niederschlagsmengen und Überschwemmungen erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
-
-* Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
-* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 ## Sicherheit
 
 ### Terrorismus
@@ -62,8 +54,6 @@ In der Sonderwirtschaftszone „Goldenes Dreieck“ im Distrikt Ton Pheung in de
 * Kontaktieren Sie im Notfall die Polizei unter +856 1191. Bei Verkehrsunfällen kontaktieren Sie die Polizei unter +856 21212703.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 Es herrscht tropisches Monsunklima.  
 In der Regenzeit von Mai bis November können monsunartige Regenfälle weitreichende Überschwemmungen und Erdrutsche insbesondere entlang des Mekong-Flusses und in gebirgigen Regionen verursachen.
