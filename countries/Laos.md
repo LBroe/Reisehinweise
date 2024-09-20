@@ -2,13 +2,12 @@
 
 # Eilmeldung
 
-Der Tropensturm Yagi und anhaltend starke Regenfälle forderten bereits mehrere Hundert Tote. Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
+Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
 
-Für die kommenden Tage werden besonders im Norden und Nordosten Thailands und Laos weiterhin große Niederschlagsmengen und Überschwemmungen entlang des Mekong-Flusses erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
+Für die kommenden Tage werden besonders im Norden und Nordosten Thailands weiterhin große Niederschlagsmengen und Überschwemmungen erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
 
 * Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
 * Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Verfolgen Sie Vorhersagen zu erhöhten Pegelständen und Überschwemmungen z.B. bei der [Mekong River Commission.](http://www.mrcmekong.org/)
 ## Sicherheit
 
 ### Terrorismus

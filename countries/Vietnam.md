@@ -1,13 +1,5 @@
 # Vietnam: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Tropensturm Yagi hat in den nördlichen Küstenregionen und Provinzen die Infrastruktur und Stromversorgung beschädigt, was zu Beeinträchtigungen und Einschränkungen führt. Bis auf Weiteres sind auch alle Ausflugsfahrten in der Halong Bucht eingestellt.
-
-Es besteht überall in der Region, einschließlich Hanoi, die Gefahr von Baumbruch und umstürzender Bäume.
-
-* Wenn Sie sich in diesen Regionen aufhalten, beachten Sie aktuelle Warnstufen der vietnamesischen Behörden und folgen Sie den Anweisungen der lokalen Behörden.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -63,19 +55,19 @@ Ausländische Touristen werden in Ho-Chi-Minh-Stadt vermehrt unter verschiedenen
 
 #### *Tropenstürme, Überschwemmungen*
 
-Siehe *Aktuelles*  
-
 Es herrscht tropisches bis subtropisches Klima.  
 In den Provinzen von Mittelvietnam und dem Mekong-Delta, aber auch in einigen Provinzen im Süden Vietnams, kann es besonders zwischen Juni und November zu Taifunen kommen, die großflächige Überschwemmungen, Erdrutsche und Beeinträchtigungen der Infrastruktur verursachen können.
 
 Starke Regenfälle führen auch in der Regen- bzw. Monsunzeit von Juni bis September im Norden und Süden und von Oktober bis Dezember in Mittelvietnam zu Überschwemmungen und Erdrutschen. Hanoi, insbesondere entlang des Red Rivers, und die Mekong-Flussdelta-Regionen im Süden sind regelmäßig betroffen.
+
+* Wenn Sie sich in diesen Regionen aufhalten, beobachten Sie die Wettervorhersagen und aktuelle Warnstufen der vietnamesischen Behörden zur Gefahr von Erdrutschen und Überschwemmungen.
 
 #### *Erdbeben und Tsunamis*
 
 Vietnam liegt in einer nur leicht seismisch aktiven Zone, sodass die Erdbebengefahr nicht besonders hoch ist. Tsunamis, die durch Erdbeben im südostasiatischen Raum ausgelöst werden, können auch Vietnam erreichen.
 
 * Verfolgen Sie regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Center for Hydro-Meteorological Forecasting](https://thoitietvietnam.gov.vn/KttvE/en-US/2/hydrology-2055-18.html) oder des [Joint Typhoon Warning Center](https://www.metoc.navy.mil/jtwc/jtwc.html).
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter") im Fall einer Sturmwarnung.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
