@@ -14,7 +14,7 @@ Wenn ein Kfz mit einem Kennzeichen der Russischen Föderation an einem Grenzpunk
 
 Seit März 2024 sind nur noch die folgenden Grenzübergänge geöffnet: Medininkai-Kamenny Log sowie Šalčininkai-Benyakoni. Beide Grenzübergänge können seit März 2024 jedoch nicht mehr durch Fußgänger oder Fahrradfahrer genutzt werden. Die übrigen Grenzübergänge (Šumskas-Losha, Tverečius-Vidzy, Lavoriškės-Kotlovka und Raigardas-Privalka) von Litauen nach Belarus sind geschlossen. Es kann zu längeren Wartezeiten kommen (siehe auch *Einreise und Zoll*).
 
-Die Einreise mit in Belarus zugelassenen Pkws nach Lettland ist seit dem 18. Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der [litauischen Zollbehörde](https://lrmuitine.lt/web/guest/titulinis#en) erhältlich.
+Die Einreise mit in Belarus zugelassenen Pkws nach Litauen ist seit Juli 2024 aufgrund Art. 1ra der [EU-Verordnung 2024/1865](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401865&qid=1721309027290) vom 29. Juni 2024 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen) sind bei der [litauischen Zollbehörde](https://lrmuitine.lt/web/guest/titulinis#en) erhältlich.
 
 ## Sicherheit
 
