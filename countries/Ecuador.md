@@ -1,5 +1,12 @@
 # Ecuador: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Die ecuadorianische Regierung hat vermehrte Stromabschaltungen und Ausgangssperren, in der Regel zwischen 22 und 6 Uhr morgens, angekündigt. Ausgangssperren sollen in den Provinzen Guayas, Los Rios, Manabí, Orellana, Santa Elena, El Oro und im Kanton Ponce Enriquez gelten.
+
+* Aktuelle Informationen erteilt die Regierung kurzfristig.
+* Bitte informieren Sie sich daher in der lokalen Presse und über die sozialen Medien und halten Sie sich an die Vorgaben der lokalen Behörden.
+
 ## Sicherheit
 
 **Von nicht notwendigen Reisen in das unmittelbare Grenzgebiet zu Kolumbien wird**, mit Ausnahme des Grenzübergangs Tulcán, **abgeraten.**
@@ -86,7 +93,7 @@ Vor allem in den Sommermonaten kommt es aufgrund der herrschenden klimatischen 
 Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru oder Kolumbien die Vorlage eines [polizeilichen Führungszeugnisses](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) mit Apostille und Übersetzung aus dem Wohnsitzstaat erforderlich. Ohne das korrekte Führungszeugnis kann die Einreise verweigert werden. Von der Vorlage befreit sind Minderjährige in Begleitung von Familienangehörigen bis zum vierten Verwandtschaftsgrad bzw. Touristen auf der Durchreise (Aufenthaltsdauer max. zehn Tage, Nachweise darüber sind erforderlich). Das Erfordernis gilt nicht für Einreisen auf dem Luftweg.
 
 * Bitte beachten Sie, dass ein [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) ggf. auch über die deutschen Auslandsvertretungen in der Region beantragt werden kann und erkundigen Sie sich vorab nach den Bearbeitungszeiten.
-* Sollte kein aktuelles polizeiliches Führungszeugnis vorliegen, kann seitens der ecuadorianischen Behörden direkt bei der Einreise durch Abfrage der Datenbanken geprüft werden, ob Einreisehindernisse nach Ecuador bestehen. Es wird keine Gewähr übernommen, dass Abfragen jederzeit und an jedem Grenzübergang möglich sind.
+* Sollte kein aktuelles polizeiliches Führungszeugnis vorliegen, kann seitens der ecuadorianischen Behörden direkt bei der Einreise Abfrage der ecuadorianischen Einreisedatenbank (SIMIEC) geprüft werden, ob Einreisehindernisse nach Ecuador bestehen. Es wird keine Gewähr übernommen, dass Abfragen jederzeit und an jedem Grenzübergang möglich sind.
 
 ### Infrastruktur/Verkehr
 
@@ -179,7 +186,7 @@ Siehe auch *Reiseinfos – Infrastruktur/Verkehr*
 
 Für den Besuch der Galapagos-Inseln wird zusätzlich die Vorlage eines Hin- und Rückflugtickets und der Hotelreservierung für die geplante Aufenthaltsdauer verlangt. Nähere Informationen sind in spanischer Sprache beim [ecuadorianischen Außenministerium](https://cancilleria.gob.ec) zu finden.
 
-Die sogenannte Tarjeta de Control de Tránsito/Transit Control Card, ausgestellt von der Lokalverwaltung der Galapagosinseln (Consejo de Gobierno de Régimen Especial de Galápagos) muss bei Einreise vorgelegt werden.
+Die sogenannte Tarjeta de Control de Tránsito/Transit Control Card, ausgestellt von der Lokalverwaltung der Galapagosinseln (Consejo de Gobierno de Régimen Especial de Galápagos), muss vor Abflug am Flughafen Quito erworben und bei Einreise vorgelegt werden.
 
 ### Minderjährige
 
@@ -216,7 +223,7 @@ Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*
 
 * Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 
-In Ecuador kommt hauptsächlich die Malaria tertiana vor (89%). Ein mittleres Risiko besteht in manchen Gebieten des Amazonasbeckens inklusive dem Nationalpark Yasuní. Ein geringes  Risiko besteht im Rest des Landes unter 1.500 m Höhe und den Inseln Puntas und Mondragon. Malariafrei sind Höhenlagen über 2.500 m inklusive Quito, Guayaquil und Galapagos. Eine Karte der Risikogebiete stellt die [DTG](https://www.dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudamerika_2023.pdf) zur Verfügung. 
+In Ecuador kommt hauptsächlich die Malaria tertiana vor (89%). Ein mittleres Risiko besteht in manchen Gebieten des Amazonasbeckens inklusive dem Nationalpark Yasuní. Ein geringes  Risiko besteht im Rest des Landes unter 1.500 m Höhe und den Inseln Puntas und Mondragon. Malariafrei sind Höhenlagen über 2.500 m inklusive Quito, Guayaquil und Galapagos. Eine Karte der Risikogebiete stellt die [DTG](https://www.dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudamerika.pdf) zur Verfügung. 
 
 Die Notwendigkeit einer Chemoprophylaxe (Tabletteneinnahme) oder der Mitnahme einer Notfallselbstbehandlung hängt von Ihrem Reiseprofil ab. Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner. Die Mitnahme eines ausreichenden Vorrats wird ggfs. empfohlen.
 
