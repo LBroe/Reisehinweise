@@ -2,11 +2,10 @@
 
 ## Aktuelles
 
-Die durch extreme Niederschläge verursachte Hochwasserlage dauert an. Es besteht die Gefahr von Hangrutschen. Am 15. September 2024 wurde ganz Niederösterreich zum Katastrophengebiet erklärt. Starkregen und in höheren Lagen Schneefall führen noch zu zahlreichen Einschränkungen, Straßensperren und Unterbrechungen von Zugstrecken. Die [österreichische Bahn](https://www.oebb.at/de/neuigkeiten/unwetterwarnung) rät bis einschließlich Donnerstag, 19. September 2024, von nicht notwendigen Reisen ab.
+Die durch extreme Niederschläge verursachte Hochwasserlage entspannt sich zunehmend. Größere Verkehrsbehinderungen gibt es vor allem noch in Niederösterreich.
 
-Derzeit sind noch alle wichtigen Bahnverbindungen von und nach Wien und in Richtung Deutschland unterbrochen. Aktuelle Informationen über Fahrpläne und Streckenunterbrechungen sind über [SCOTTY der österreichischen Bahn](https://fahrplan.oebb.at/webapp/#!P|HimSearch!H|199974) abrufbar.
+Aktuelle Informationen über Fahrpläne und Streckenunterbrechungen sind über [SCOTTY der österreichischen Bahn](https://fahrplan.oebb.at/webapp/#!P|HimSearch!H|199974) abrufbar.
 
-* Informieren Sie sich über die [aktuelle Wetterlage](https://wetter.orf.at/oes/) über die österreichischen Medien.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.
 * Beachten Sie die [regionalen Wetter- und Verkehrshinweise](https://www.oeamtc.at/) und verhalten Sie sich adäquat.
 

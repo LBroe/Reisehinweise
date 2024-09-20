@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-In Tschechien sind viele Regionen von extremem Hochwasser betroffen. Tausende Menschen wurden evakuiert; teilweise kommt es zu Stromausfällen. Betroffen sind insbesondere Nordmähren (Ostrava, Opava/Troppau, Jeseníky/Altvatergebirge), aber auch Teile von Südmähren und Nordböhmen (insbesondere Frýdlant). Weitere Regenfälle in der Vysočina und im Böhmerwald werden in den nächsten Tagen erwartet. Die Behörden raten, sich wegen des aufgeweichten Bodens nicht in Wäldern oder Parks sowie in Flussnähe aufzuhalten. Es wird dringend empfohlen, den Anweisungen der Behörden Folge zu leisten.
+In Tschechien sind viele Regionen von extremem Hochwasser betroffen. Tausende Menschen wurden evakuiert; manche Gemeinden sind nach wie vor ohne Strom. Betroffen ist insbesondere Nordmähren (Ostrava, Opava/Troppau, Jeseníky/Altvatergebirge). In den betroffenen Gebieten ist der Straßen- und Zugverkehr weiterhin eingeschränkt. Die Behörden raten, sich wegen des aufgeweichten Bodens nicht in Wäldern oder Parks sowie in Flussnähe aufzuhalten.
 
 * Informieren Sie sich in den lokalen Nachrichten über die aktuelle Lage.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -112,7 +112,7 @@ In einigen (militärischen) Sperrzonen sowie in der Regel in Museen und bestimmt
 
 Das Rauchen in Gaststätten ist in ganz Tschechien verboten. Dies betrifft alle Arten von Gaststätten und Bars. Bei Verstoß wird ein Bußgeld von 5.000 CZK (ca. 195 EUR), für den Gaststättenbetreiber bis zu 50.000 CZK (ca. 1.950 EUR) erhoben. Ebenso wird der Verkauf von Alkohol an Jugendliche unter 18 Jahren streng geahndet.
 
-An [zahlreichen öffentlichen Plätzen sowie am Flussufer in Prag](https://www.praha.eu/jnp/cz/o_meste/zivot_v_praze/bezpecnost/mapa_prostranstvi_alkohol.html) ist es zwischen 24 und 9 Uhr verboten, Alkohol zu trinken. Verstöße werden mit Bußgeldern bis zu 100.000 CZK (ca. 4.200 EUR) bestraft.
+An zahlreichen öffentlichen Plätzen sowie am Flussufer in Prag ist es zwischen 24 und 9 Uhr verboten, Alkohol zu trinken. Verstöße werden mit Bußgeldern bis zu 100.000 CZK (ca. 4.200 EUR) bestraft.
 
 Gesetzesverstöße (wie z.B. Geschwindigkeitsüberschreitungen, Nutzung von Mobiltelefonen ohne Freisprecheinrichtung, öffentlicher Verkehrsmittel ohne gültigen Fahrschein, etc.) werden erfahrungsgemäß streng verfolgt. Geldstrafen sind in der Regel sofort zu entrichten und werden ordnungsgemäß quittiert. Eine Besonderheit im tschechischen Recht stellt das sogenannte Blockstrafverfahren dar. Eine Zahlung der Geldstrafe im Blockverfahren bedeutet, dass der Betroffene auf weitere Rechtsmittel verzichtet. Es kann daher auch nur angewandt werden, wenn er mit dieser verfahrensbeschleunigenden Vorgehensweise einverstanden ist. Sofern er die auferlegte Strafe für unberechtigt hält und deshalb nicht an Ort und Stelle zahlen will, ist ein Verwaltungsverfahren bei der zuständigen Verwaltungsbehörde einzuleiten. Hierbei handelt es sich um ein zeitaufwendiges Verfahren, in dem die Niederschrift eines Protokolls unter Hinzuziehen eines Dolmetschers erforderlich ist und eine Kaution in Höhe der möglichen Geldstrafe erhoben werden kann.
 
@@ -125,8 +125,7 @@ Aus touristischen Gebieten ist beim Umtausch von EUR an Wechselstuben die Praxis
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
