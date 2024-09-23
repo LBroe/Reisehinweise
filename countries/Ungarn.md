@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Ungarn hat für Budapest ab Donnerstag, 19. September 2024, die höchste Warnstufe ausgerufen. Einige Uferstraßen in Budapest sind bereits vorsorglich gesperrt. Der Zugverkehr zwischen Ungarn und Österreich ist aktuell eingeschränkt. Auch in anderen Teilen Ungarns (z.B. am Donauknie) muss mit Hochwasser, Überschwemmungen und weiteren Einschränkungen gerechnet werden.
+Der durch das Hochwasser eingeschränkte Zugverkehr zwischen Ungarn und Österreich ist weitgehend wiederhergestellt. Südlich von Budapest ist weiterhin mit Überschwemmungen und Einschränkungen zu rechnen. Auf mehreren Flussabschnitten gilt die höchste Warnstufe.
 
 * Überprüfen Sie vor einer geplanten Fahrt (Auto/Zug/Bus) eventuelle Streckensperrungen, auch in den Nachbarländern.
 * Informieren Sie sich über die aktuelle Wetterlage in den internationalen und ungarischen Medien.
