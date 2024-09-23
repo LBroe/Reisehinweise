@@ -35,6 +35,8 @@ Das tropische Klima ist wegen großer Nord-Süd-Ausdehnung des Landes und starke
 
 In der Regenzeit von November bis April kommt es regelmäßig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.
 
+In den Monaten Februar/März können vereinzelt Zyklone verheerende Auswirkungen auf die gesamte Infrastruktur des Landes haben.
+
 * Informieren Sie sich über die Wetter- und Straßenlage, insbesondere, wenn Reisen über Land geplant sind.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Vulkanausbrüchen vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
@@ -47,9 +49,9 @@ Malawi ist, abseits der wenigen größeren Tourismusdestinationen, ein schlecht 
 
 Öffentliche Verkehrsmittel gibt es nicht, allerdings privat betriebene Minibusse und diverse Buslinien, die Überlandfahrten anbieten. Die Sicherheitsstandards der Busse sowie die Fahrweise der Busfahrer sind bedenklich, sodass es immer wieder zu schweren Unfällen kommt.
 
-Es herrscht Linksverkehr. Fahrten nach Einbruch der Dunkelheit, insbesondere außerhalb von Städten, sowie Fahrten abseits der Hauptstraßen bergen erhöhte Unfall- und Überfallrisiken. Abendliche und nächtliche Spaziergänge sind aufgrund der teils aggressiven streunenden Hunde und Tollwutgefahr gefährlich.
+Es herrscht Linksverkehr. Fahrten nach Einbruch der Dunkelheit, insbesondere außerhalb von Städten, sowie Fahrten abseits der Hauptstraßen bergen erhöhte Unfall- und Überfallrisiken. Abendliche und nächtliche Spaziergänge sind aufgrund der teils aggressiven streunenden Hunde und der von ihnen ausgehenden Tollwutgefahr gefährlich.
 
-Es gibt in Malawi keine funktionierende Notarztversorgung, und Verkehrsunfälle enden oft tödlich. Autofahrer müssen jederzeit damit rechnen, dass Kinder, Ziegen, Kühe, Esel oder Affen die Straße überqueren. Die wenigen Teerstraßen sind in vielen Teilen mit Schlaglöchern durchsetzt oder zu den Seitenrändern hin stark ausgefranst, sodass teilweise nur eine Fahrspur zur Verfügung steht. Sie dienen zudem fast überall als Wege für Karawanen von Menschen, die ohne Geh- oder gar Radwege die Straße benutzen.
+Es gibt in Malawi keine funktionierende Notarztversorgung, und Verkehrsunfälle enden oft tödlich. Autofahrer müssen jederzeit damit rechnen, dass Kinder, Ziegen, Kühe, Esel oder Affen die Straße überqueren. Die wenigen Teerstraßen sind in vielen Teilen mit Schlaglöchern durchsetzt oder zu den Seitenrändern hin stark ausgefranst, sodass teilweise nur eine Fahrspur zur Verfügung steht. Sie dienen zudem fast überall als Wege für Karawanen von Menschen, die mangels Geh- oder Radwegen die Straße benutzen.
 
 Im Straßenbild Malawis ist die Beförderung als Anhalter zwar normal, aber das Mitfahren auf den Ladeflächen von Lkws oder Pickups ist extrem gefährlich; es kommt häufig zu schwersten Unfällen.
 
@@ -63,7 +65,7 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 ### Besondere Verhaltenshinweise
 
-Auch wenn es offiziell diesbezüglich keine Vorschriften gibt, wird vor allem bei Aufenthalten in ländlichen Gebieten erwartet, dass sich auch Ausländer den lokalen Gepflogenheiten bei der Wahl der Kleidung anpassen. Malawische Frauen tragen in aller Regel lange Röcke ("chitenje") und Oberteile, die die Schultern bedecken. Kurze Röcke oder Hosen sind auf dem Land nicht üblich und in Einzelfällen schon Auslöser für Beschimpfungen und Übergriffe auf Frauen gewesen.
+Auch wenn es offiziell diesbezüglich keine Vorschriften gibt, wird vor allem bei Aufenthalten in ländlichen Gebieten erwartet, dass sich auch Ausländer den lokalen Gepflogenheiten bei der Wahl der Kleidung anpassen. Malawische Frauen tragen in aller Regel lange Wickelröcke ("chitenje") und Oberteile, die die Schultern bedecken. Kurze Röcke oder Hosen sind auf dem Land nicht üblich und in Einzelfällen schon Auslöser für Beschimpfungen und Übergriffe auf Frauen gewesen.
 
 ### LGBTIQ
 
@@ -85,8 +87,7 @@ Landeswährung ist der Malawi Kwacha (MWK). Der Umtausch von EUR in Landeswähru
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -105,13 +106,13 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente müssen noch mindestens sechs Monate ab Einreise gültig sein.
 
-Reisende müssen sich stets ausweisen können. Dazu sollten je eine Kopie des Reisepasses und der Datenseite mit gültiger malawischer Aufenthaltsgenehmigung/Einreisestempel (die Gültigkeitsdauer muss anhand des Einreisestempels erkenntlich sein) stets mitgeführt werden. Der Nachweis des legalen Aufenthalts in Malawi wird regelmäßig bei den auf allen Überlandstraßen errichteten Straßensperren mit Polizeikontrollen („road blocks“) verlangt. Wird der Nachweis nicht erbracht, können sich Strafzahlungen ergeben. Der Reisepass selbst sollte bei Überlandfahrten mitgeführt werden, aber nach Möglichkeit sicher verwahrt werden, um die Gefahr von Verlust oder Diebstahl zu vermindern.
+Reisende müssen sich stets ausweisen können. Dazu sollten je eine Kopie des Reisepasses und der Datenseite mit gültiger malawischer Aufenthaltsgenehmigung/Einreisestempel (die Gültigkeitsdauer muss anhand des Einreisestempels erkenntlich sein) stets mitgeführt werden. Der Nachweis des legalen Aufenthalts in Malawi wird regelmäßig bei den auf allen Überlandstraßen errichteten Straßensperren mit Polizeikontrollen („road blocks“) verlangt. Wird der Nachweis nicht erbracht, können sich Strafzahlungen ergeben. Der Reisepass selbst sollte bei Überlandfahrten mitgeführt, aber nach Möglichkeit sicher verwahrt werden, um die Gefahr von Verlust oder Diebstahl zu vermindern.
 
 ### Visum
 
 Deutsche Staatsangehörige benötigen kein Visum vor der Einreise nach Malawi.
 
-* Bitte prüfen Sie direkt nach der Einreise, welche Aufenthaltsdauer in Ihren Pass eingetragen worden ist und beantragen Sie rechtzeitig innerhalb des vermerkten Zeitraumes eine Verlängerung des Aufenthalts, um Gebühren bei Überziehung des Gültigkeitszeitraumes („Overstay“) zu vermeiden.
+* Bitte prüfen Sie direkt nach der Einreise, welche Aufenthaltsdauer in den Einreisestempel Ihres Passes eingetragen worden ist und beantragen Sie rechtzeitig innerhalb des vermerkten Zeitraumes eine Verlängerung des Aufenthalts, um Gebühren bei Überziehung des Gültigkeitszeitraumes („Overstay“) zu vermeiden.
 
 ### Minderjährige
 
