@@ -4,12 +4,13 @@
 
 ### *Wahlen*
 
-Nach der Präsidentschaftswahl in Venezuela am 28. Juli 2024 kam es im ganzen Land sowie in Caracas zu Demonstrationen und zum Teil heftigen Protesten. Auch der internationale Flughafen in Maiquetía sowie die Verbindungstraße von Caracas zum Flughafen waren am 29. Juli 2024 vom Demonstrationsgeschehen betroffen. Weitere Demonstrationen wurden angekündigt.
+Nach der Präsidentschaftswahl in Venezuela im Juli 2024 kam es im ganzen Land sowie in Caracas zu Demonstrationen und zum Teil heftigen Protesten. Auch der internationale Flughafen in Maiquetía sowie die Verbindungstraße von Caracas zum Flughafen waren in der Folge vom Demonstrationsgeschehen betroffen. Es finden weiterhin regelmäßig Demonstrationen statt.
 
-Außerdem hat die venezolanische Regierung bekannt gegeben, dass Flüge von und nach Panamá sowie in die Dominikanische Republik ab dem 31. Juli 2024, von 20 Uhr bis auf Weiteres ausgesetzt werden.
+Direktflüge von und in verschiedene Länder der Region (z.B. Panamá, Peru, die Dominikanische Republik) sind bis auf weiteres ausgesetzt.
 
-Abhängig von den Entwicklungen in den nächsten Tagen kann ebenfalls nicht ausgeschlossen werden, dass es zu weiteren Flugstreichungen kommen wird.
+Abhängig von der aktuellen Entwicklung kann nicht ausgeschlossen werden, dass es zu weiteren Flugstreichungen kommen wird.
 
+* Informieren Sie sich vor Abreise bei Ihrer Fluggesellschaft.
 * Buchen Sie keine Flugverbindungen über Flughäfen in Venezuela, insbesondere über den internationalen Flughafen Maiquetía.
 * Verfolgen Sie die Nachrichten, einschließlich der Meldungen in den sozialen Medien aufmerksam.
 * Meiden Sie Menschenansammlungen, leisten Sie den Anweisungen der Sicherheitskräfte Folge und fertigen Sie keine Fotos von Menschenansammlungen und Sicherheitskräften.
