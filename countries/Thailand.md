@@ -1,13 +1,5 @@
 # Thailand: Reise- und Sicherheitshinweise
 
-# Eilmeldung
-
-Aktuell kommt es vielerorts zu Hochwasser, Erdrutschen und dadurch auch zu beschädigten Straßen und Infrastruktur; Transport- und Versorgungsprobleme sowie Stromausfälle können daher auftreten. Des Weiteren können Gefahren auch von überfluteten elektrischen Anlagen ausgehen (Stromschlag).
-
-Für die kommenden Tage werden besonders im Norden und Nordosten Thailands weiterhin große Niederschlagsmengen und Überschwemmungen erwartet. Derzeit besteht eine große Gefahr von Erdrutschen, Überschwemmungen und Hochwasser.
-
-* Wenn Sie sich in den betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
-* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 ## Aktuelles
 
 **Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.** 
