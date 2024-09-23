@@ -2,26 +2,13 @@
 
 ## Aktuelles
 
-### *Starkregen, Überschwemmungen und Erdrutschgefahr*
-
-Der nationale chinesische Wetterdienst hat für die bevorstehenden Tage vor Starkregenfällen und sich daraus ergebenden Sekundärschäden in folgenden Risikogebieten gewarnt: Sichuan, Gansu, Shaanxi, Beijing-Tianjin-Hebei, Shandong, Jilin, Liaoning.  
-Außerdem bestehen Taifun-Warnungen für die Provinzen Hainan, Guangdong, Guangxi sowie die Region Ostchina.
-
-Aufgrund der länger andauernden Regenfälle und Überflutungen kann es vereinzelt zu Strom- und Wasserausfällen kommen.
-
-* Klären Sie, ob Ihre Reiseroute oder Ihr Aufenthaltsort von den Extremwetterereignissen betroffen ist, und sehen Sie von nicht notwendigen, touristischen Reisen in die oben genannten Risikogebiete ab. In den Provinzen Shaanxi und Sichuan, ist es im Juli zu Sturzfluten und Brückeneinstürzen gekommen, die mehrere Tote forderten.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Klären Sie mit Ihrem Reiseveranstalter, ob die eigene Reiseroute/der Aufenthaltsort von den Überschwemmungen betroffen ist.
-* Informieren Sie sich vor Reisen in den lokalen Medien (z.B. [ChinaDaily](http://www.chinadaily.com.cn/china/) englischsprachig) über die Wetterlage und etwaige wetterbedingte Gefahrensituationen.
-* Informieren Sie sich ggf. bei internationalen Wetterdiensten über die aktuellen Wetterverhältnisse und Gefahrensituation.
-
-### Visumsfreie Einreise
+### *Visumsfreie Einreise*
 
 Bis voraussichtlich 31. Dezember 2025 können deutsche Staatsangehörige unter bestimmten Bedingungen visumsfrei für Aufenthalte von bis zu 15 Tagen in die VR China einreisen. Bei privater Unterkunft ist insbesondere die Registrierungspflicht zu beachten, siehe *Einreise und Zoll -* *Visum*.
 
 * Erkundigen Sie sich rechtzeitig vor Reiseantritt bei der zuständigen chinesischen Vertretung zu den aktuellen Einreisevorschriften. Nur diese kann verbindlich Auskunft erteilen.
 
-### Ausreisesperren
+### *Ausreisesperren*
 
 Ausreisesperren gegen in China wohnhafte Ausländer (auch deutsche Staatsangehörige), können nicht ausgeschlossen werden. Ausreisesperren können insbesondere gegen Beteiligte oder Zeugen in Zivil- und Strafverfahren verhängt werden, siehe *Reiseinfos -* *Rechtliche Besonderheiten*.
 
@@ -51,7 +38,7 @@ Demonstrationen sind ohne vorherige Genehmigung der Regierung illegal, finden gl
 
 Der Zugang zum Internet wird staatlich kontrolliert. Der Zugriff auf verschiedene Online-Angebote ist blockiert, darunter die von Google, Facebook, X, Whatsapp und weiteren. Die Nutzung von VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist verboten, siehe auch *Rechtliche Besonderheiten*.
 
-Besonders bei Reisen in mehrheitlich von ethnischen Minderheiten und an die Autonomen Regionen Xinjiang und Tibet angrenzenden Regionen kann es zu unverdeckter Beobachtung und Kontrolle ausländischer Reisender durch die lokalen Sicherheitsorgane kommen.
+Besonders bei Reisen in mehrheitlich von ethnischen Minderheiten bewohnten und an die Autonomen Regionen Xinjiang und Tibet angrenzenden Regionen kann es zu unverdeckter Beobachtung und Kontrolle ausländischer Reisender durch die lokalen Sicherheitsorgane kommen.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -138,7 +125,7 @@ Auch wenn bislang keine Fälle bekannt geworden sind, in denen Ausländer wegen 
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Renminbi Yuan (RMB). Das Abheben von Bargeld an Bankautomaten ist mit allen gängigen Kreditkarten möglich. Deutsche Debitkarten (Girocard) sind nur sehr eingeschränkt an Geldautomaten einsetzbar. Vielerorts werden internationale Kreditkarten nicht akzeptiert. In der Regel werden die meisten Zahlungen über gängige chinesische Apps geleistet.
+Landeswährung ist der Renminbi Yuan (RMB). Das Abheben von Bargeld an Bankautomaten ist mit allen gängigen Kreditkarten möglich. Deutsche Debitkarten (Girocard) sind nur sehr eingeschränkt an Geldautomaten einsetzbar. Vielerorts werden internationale Kreditkarten nicht akzeptiert. In der Regel werden die meisten Zahlungen über gängige chinesische Apps wie Alipay oder Weixin Pay (im chinesischen Messenger WeChat integriert) geleistet.
 
 * Halten Sie in jedem Fall vorsorglich Bargeld vor, da ein Bezahlen auf elektronischem Weg über die einschlägigen sozialen Dienste für ausländische Touristen nicht immer möglich ist.
 
@@ -193,14 +180,15 @@ Hier finden Sie [weitere Informationen](http://en.hnftp.gov.cn/tips/policy/20200
 
 #### *Erwerbstätigkeiten*
 
-Es gelten derzeit „Vorläufige Anwendungshinweise betreffend die kurzfristige Arbeitsaufnahme von Ausländern in China“. Diese Regelungen weiten die Pflicht zur Einholung einer Arbeitserlaubnis bzw. eines Arbeitsvisums erheblich aus.  
-Viele kurzfristige Tätigkeiten, die bisher mit Geschäftsreisevisum (Typ M) ausgeübt werden konnten, sind jetzt nur noch mit Arbeitsvisum (Typ Z) nach Einholung einer Arbeitserlaubnis möglich.
+Es gelten „Vorläufige Anwendungshinweise betreffend die kurzfristige Arbeitsaufnahme von Ausländern in China“. Diese Regelungen haben die Pflicht zur Einholung einer Arbeitserlaubnis bzw. eines Arbeitsvisums erheblich ausgeweitet.  
+Viele kurzfristige Tätigkeiten, die früher mit Geschäftsreisevisum (Typ M) ausgeübt werden konnten, sind jetzt nur noch mit Arbeitsvisum (Typ Z) nach Einholung einer Arbeitserlaubnis möglich.
 
 Hierunter fallen z.B. 
 
 * Forschungstätigkeiten, sportliche Trainingsaufenthalte, Teilnahme an Modeschauen/Modeling sowie Dreharbeiten/Filmaufnahmen – selbst wenn der Aufenthalt weniger als 90 Tage dauert - sowie
 * Montage- und Servicearbeiten an abgenommenen Anlagen, Baustellenaufsicht, Entsendung von Mitarbeitern zu Tochterunternehmen/Repräsentanzen sowie Freiwilligenarbeit oder unentgeltliche Tätigkeiten ab einer Aufenthaltsdauer von 90 Tagen.
 * Halten Sie Rücksprache mit dem Arbeitgeber/Ansprechpartner in China, um die korrekte Visumkategorie zu beantragen.
+* Beantragen Sie bei einer Reise mit einem Z-Visum innerhalb von 30 Tagen nach der Einreise eine Arbeitserlaubnis beim lokalen Public Security Bureau (Entry-Exit-Administration).
 * Beachten Sie, dass Sie einen Wechsel des Arbeitgebers oder Arbeitsorts beim für den Wohnort zuständigen Public Security Bureau (Entry-Exit-Administration) anzeigen müssen.
 
 #### *Reisen nach Hongkong und Macau*
@@ -227,7 +215,6 @@ Eine Überziehung des Visums zieht mindestens ein empfindliches Bußgeld nach si
 ### Erfassung biometrischer Daten
 
 An allen für Ausländer geöffneten Grenzen führen die chinesischen Grenzkontrollbehörden sukzessive Fingerabdruckscanner ein. Grundsätzlich müssen alle Ausländer zwischen 14 und 70 Jahren ihre Fingerabdrücke abgeben, sofern dies möglich ist.  
-Nach derzeitigem Kenntnisstand wurde diese Regelung an den Pilotflughäfen Peking, Shanghai, Shenyang, Guangzhou, Xi‘an und Changsha und in Shenzhen eingeführt.
 
 ### Meldepflicht/Registrierung
 
