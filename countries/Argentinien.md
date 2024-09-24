@@ -1,5 +1,15 @@
 # Argentinien: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+**Von nicht notwendigen, touristischen Reisen in die Provinz Córdoba wird derzeit abgeraten.**
+
+Aktuell kommt es in der Provinz Córdoba vermehrt zu teils schweren Waldbränden, insbesondere in den Regionen Punilla, Calamuchita, Sierras Chicas und Chancaní. Es ist nicht auszuschließen, dass die Brände auf weitere Regionen übergreifen.
+
+* Meiden Sie nicht notwendige, touristische Reisen in die Provinz Córdoba.
+* Informieren Sie sich über aktuelle Brände und achten Sie auf Meldungen und behördliche Hinweise in den Medien.
+* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie Anweisungen der lokalen Sicherheitskräfte und Behörden.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -36,6 +46,8 @@ Buenos Aires hat ein Kommissariat für Touristen eingerichtet, in dem auch in Fr
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 Die Andenkette liegt in einer seismisch aktiven Zone, weshalb es insbesondere in den Provinzen von San Juan und Mendoza zu Erdbeben und vulkanischen Aktivitäten kommen kann. Mehrere Vulkane in der Grenzregion zu Chile sind aktiv; dies kann zu Evakuierungsmaßnahmen und Beeinträchtigungen im Reiseverkehr führen. Der Vulkan Copahue zeigt des Öfteren verstärkte Aktivität.
 

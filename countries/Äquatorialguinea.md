@@ -8,9 +8,9 @@
 
 ### Innenpolitische Lage
 
-Grundrechte werden in Äquatorialguinea nur unzureichend gewährt. Dies gilt insbesondere auch für das Recht auf freie Meinungsäußerung sowie die Versammlungs- und Bewegungsfreiheit. Regierungskritische Äußerungen können von den Sicherheitsorganen verfolgt werden.
+Grundrechte werden in Äquatorialguinea nur unzureichend gewährt. Dies gilt insbesondere auch für das Recht auf freie Meinungsäußerung sowie die Versammlungs- und Bewegungsfreiheit. Regierungskritische Äußerungen werden von den Sicherheitsorganen verfolgt und können zu Verhaftungen führen.  
 
-Auf den Hauptverkehrsstraßen auf dem Festland trifft man häufig auf Kontrollpunkte von Polizei und Armee. Dort werden Fahrzeug- und Personenkontrollen durchgeführt und nach dem Ziel und Grund der Reise gefragt. Wer sich nicht ausweisen kann, riskiert eine Festnahme. Auf der Insel Bioko besteht keine Bewegungsfreiheit außerhalb Malabos und an den Ausgängen der Stadt befinden sich ebenfalls Kontrollpunkte.
+Auf den Hauptverkehrsstraßen auf dem Festland trifft man häufig auf Kontrollpunkte von Polizei und Armee. Dort werden Fahrzeug- und Personenkontrollen durchgeführt und nach dem Ziel und Grund der Reise gefragt. Wer sich nicht ausweisen kann, riskiert eine Festnahme.
 
 * Informieren Sie sich über die lokalen Medien.
 * Vermeiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -57,7 +57,7 @@ Der Luftverkehr entspricht nicht europäischen Sicherheitsstandards. Die beiden 
 
 Flüge der genannten Fluggesellschaften können in der Regel nicht über das Internet, sondern nur bei ausgewählten Reisebüros oder vor Ort gebucht und bar bezahlt werden. Nur für CEIBA Intercontinental ist eine Buchung auch über Internetportale zeitweise möglich. Es muss mit kurzfristigen Flugstreichungen ohne Angabe von Gründen und Rückerstattung gerechnet werden.
 
-Der Zustand der Straßen ist gut. Die Hauptverkehrsadern sind geteert und für den wenigen Verkehr teilweise sogar überdimensioniert. Hohe Geschwindigkeiten und die geringe Fahrdisziplin der Verkehrsteilnehmer erhöhen das Unfallrisiko. Schwere Verkehrsunfälle ereignen sich vorwiegend am Wochenende aufgrund alkoholisierten Fahrens und meist nicht verkehrssicherer Fahrzeuge. Wer mit einem (gemieteten) Fahrzeug in einen Unfall mit schwerem Personenschaden oder Todesfolge verwickelt ist, muss mit längerer Untersuchungshaft und einem Strafprozess rechnen.
+Der Zustand der Straßen ist sehr gut. Die Hauptverkehrsadern sind geteert und für den wenigen Verkehr teilweise sogar überdimensioniert. Hohe Geschwindigkeiten und die geringe Fahrdisziplin der Verkehrsteilnehmer erhöhen das Unfallrisiko. Schwere Verkehrsunfälle ereignen sich vorwiegend am Wochenende aufgrund alkoholisierten Fahrens und meist nicht verkehrssicherer Fahrzeuge. Wer mit einem (gemieteten) Fahrzeug in einen Unfall mit schwerem Personenschaden oder Todesfolge verwickelt ist, muss mit längerer Untersuchungshaft und einem Strafprozess rechnen.
 
 Die Behörden kontrollieren Ausländer besonders genau auf ordnungsgemäße Papiere (Visum, gültiger Pass, Impfnachweis, etc.) und gehen streng gegen tatsächliche und vermutete Unregelmäßigkeiten vor. An den zahlreichen Check-Points muss mit willkürlichen Kontrollen und Erpressungsversuchen durch die Sicherheitsbeamten gerechnet werden.
 
@@ -69,7 +69,7 @@ Zwischen der Insel und dem Festland verkehren wöchentlich drei Fähren.
 
 ### Führerschein
 
-Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein kann hilfreich sein und ist nur in Verbindung mit dem nationalen deutschen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -85,7 +85,7 @@ Das Tragen von Uniformen, insbesondere Tarnkleidung (Camouflage), ist in Äquato
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der CFA-Franc (XAF). Die Preise in Äquatorialguinea sind vergleichsweise hoch. Gängige Kreditkarten (z. B. Visa, Mastercard) werden nicht überall akzeptiert. An Geldautomaten werden manchmal nur die Karten der eigenen Institute akzeptiert. Die Authentifizierung wird durch die schlechte Internetverbindung erschwert. Es sollte ausreichend Bargeld in EUR mitgenommen werden, das vor Ort gewechselt werden kann.
+Landeswährung ist der CFA-Franc (XAF). Die Preise in Äquatorialguinea sind vergleichsweise hoch. Gängige Kreditkarten (z. B. VISA, Mastercard) werden nicht überall akzeptiert. An Geldautomaten werden manchmal nur die Karten der eigenen Institute akzeptiert. Die Authentifizierung wird durch die schlechte Internetverbindung erschwert. Es sollte ausreichend Bargeld in EUR mitgenommen werden, das vor Ort gewechselt werden kann.
 
 ## Einreise und Zoll
 
@@ -223,9 +223,7 @@ In den beiden größeren Städten Malabo und Bata gibt es Apotheken, die im Rege
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

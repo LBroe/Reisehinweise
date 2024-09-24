@@ -6,12 +6,10 @@
 
 ### *Demonstrationen und Proteste*
 
-Derzeit finden in Tiflis und anderen größeren Städten Georgiens Proteste gegen das am 14. Mai 2024 verabschiedete Gesetz über die Transparenz ausländischer Einflussnahme statt.
-
-Insbesondere rund um das Parlament in Tiflis finden seit mehreren Wochen Demonstrationen mit hohen Teilnehmerzahlen statt. Dabei kam es bereits zu gewaltsamen Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften. Aufgrund von Straßensperrungen und Blockaden muss zudem mit Verkehrsbehinderungen, insbesondere im Innenstadtbereich und in den Abendstunden, gerechnet werden. Weitere, auch gewaltsame, Auseinandersetzungen können nicht ausgeschlossen werden. Es wird zu besonderer Vorsicht geraten.
+Bei den Massenprotesten im Frühjahr 2024 kam es teilweise zu gewaltsamen Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften. Proteste in Tiflis und anderen größeren Städten in Georgien sind weiterhin möglich, insbesondere im Vorfeld und im Anschluss an die Parlamentswahlen am 26. Oktober 2024. Vor allem in der näheren Umgebung des Parlaments in Tiflis können Demonstrationen mit hohen Teilnehmerzahlen nicht ausgeschlossen werden. Es wird zu besonderer Vorsicht geraten.
 
 * Informieren Sie sich tagesaktuell über die lokalen, internationalen und sozialen Medien über die aktuelle Lage.
-* Beschränken Sie Fahrten in der Nähe des Parlaments auf das absolut Notwendigste.
+* Beschränken Sie Fahrten in der Nähe des Parlaments auf das absolut Notwendigste. Berücksichtigen Sie dies bitte bereits bei der Wahl Ihrer Unterkunft.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen der Sicherheitskräfte.
 
@@ -82,6 +80,8 @@ Ein in der EU ausgestellter Führerschein bzw. der internationale Führerschein 
 ### LGBTIQ
 
 Homosexuelle Handlungen sind in Georgien nicht strafbar, es gilt ein Anti-Diskriminierungsgesetz. Die Akzeptanz von LGBTIQ ist in Teilen der georgischen Gesellschaft jedoch weiterhin sehr gering. Daher können Übergriffe auf diese Personengruppen nicht ausgeschlossen werden. LGBTIQ-Demonstrationen und öffentliche Veranstaltungen wurden in den vergangenen Jahren von der Polizei geschützt; dennoch konnten Tätlichkeiten und Übergriffe von radikalen Gegendemonstranten nicht gänzlich verhindert werden.
+
+Das georgische Parlament hat am 17. September 2024 das sogenannte Gesetz zum „Schutz von Familienwerten und Minderjährigen“ verabschiedet. Es soll 60 Tage nach Verabschiedung in Kraft treten. Damit wird u.a. die sogenannte „Förderung“ gleichgeschlechtlicher Beziehungen unter Strafe gestellt werden. Der Begriff „Förderung“ könnte sehr weit ausgelegt werden, er könnte jede Erwähnung, Weitergabe von Informationen oder Zurschaustellung von LGBTIQ-Themen umfassen. Das Gesetzespaket verbietet die Verbreitung von Informationen in Bildungseinrichtungen, Medien oder Werbung, die „darauf abzielen, die Zugehörigkeit zu einem anderen Geschlecht, gleichgeschlechtliche Beziehungen oder Inzest zu fördern“. Zudem verbietet das Gesetz u.a. Geschlechtsangleichungen und Adoptionen durch homosexuelle oder Transmenschen.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
 
