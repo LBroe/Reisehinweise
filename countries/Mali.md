@@ -2,27 +2,18 @@
 
 ## Aktuelles
 
+**Vor Reisen nach Mali wird gewarnt.**
+
 ### *Terrorbedrohung*
 
-Am Morgen des 17. September 2024 ereigneten sich in der Hauptstadt Bamako terroristische Anschläge auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou (am internationalen Flughafen). Einige Fluggesellschaften haben ihre Flüge von/nach Bamako bis auf Weiteres suspendiert. Informieren Sie sich rechtzeitig vor Abflug bei Ihrer Fluggesellschaft.
+Am Morgen des 17. September 2024 ereigneten sich in der Hauptstadt Bamako terroristische Anschläge auf eine Gendarmerieschule in Faladié sowie einen Stützpunkt der malischen Armee in Sénou. 
 
-Angesichts der aktuell angespannten Lage in der Hauptstadt wird zu besonderer Vorsicht geraten.
-
-* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich
+* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
 * Meiden Sie Menschenansammlungen sowie Einrichtungen der malischen Sicherheitskräfte (z.b. Kasernen und andere militärische Anlagen) und Regierungsgebäude (z.B. Cité Administrative).
 
-## Sicherheit - Teilreisewarnung
+## Sicherheit - Reisewarnung
 
-**Vor Reisen in**
-
-* in die Regionen **Timbuktu, Kidal, Gao, Taoudenni, Ménaka, Mopti und Ségou,**
-* **in die** **nördlichen Teile der Regionen Kayes und Koulikoro,**(nördlich und östlich der Stadt Koulikoro)
-* **die** **nördlichen und östlichen Teile der Region Sikasso** sowie
-* das **erweiterte Grenzgebiet Mali – Côte d’Ivoire südlich der Verbindung Bougouni – Sikasso**
-
-**wird gewarnt.**
-
-**Von nicht dringend erforderlichen Reisen in die übrigen Landesteile** von Mali, einschließlich der Hauptstadt Bamako, **wird abgeraten**.
+**Vor Reisen nach Mali wird gewarnt.**
 
 ### Terrorismus
 
