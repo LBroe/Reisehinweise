@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-In Tschechien sind viele Regionen von extremem Hochwasser betroffen. Tausende Menschen wurden evakuiert; manche Gemeinden sind nach wie vor ohne Strom. Betroffen ist insbesondere Nordmähren (Ostrava, Opava/Troppau, Jeseníky/Altvatergebirge). In den betroffenen Gebieten ist der Straßen- und Zugverkehr weiterhin eingeschränkt. Die Behörden raten, sich wegen des aufgeweichten Bodens nicht in Wäldern oder Parks sowie in Flussnähe aufzuhalten.
+In Tschechien sind viele Regionen von extremem Hochwasser betroffen, insbesondere Nordmähren (Ostrava, Opava/Troppau, Jeseníky/Altvatergebirge). Hier finden Aufräumarbeiten statt und es kann nach wie vor zu Einschränkungen im Straßen- und Zugverkehr kommen.  
 
 * Informieren Sie sich in den lokalen Nachrichten über die aktuelle Lage.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -98,7 +98,7 @@ Wird bei einer Fahrzeugkontrolle festgestellt, dass wegen eines früheren Verkeh
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
