@@ -52,7 +52,7 @@ Es existieren lokale sowie internationale Busverbindungen. Der Zugverkehr ist fa
 Die serbischen Landstraßen sind teilweise in mangelhaftem Zustand und schlecht beleuchtet. Auch auf Autobahnen fahren Fahrzeuge zuweilen ohne ausreichende Beleuchtung.  
 Abseits der Hauptstraßen in der Grenzregion zu Kosovo besteht weiterhin noch die Gefahr von Landminen.
 
-Auf allen Straßen Serbiens muss ganzjährig auch tagsüber mit Abblend- oder Tagfahrlicht gefahren werden muss.  
+Auf allen Straßen Serbiens muss ganzjährig auch tagsüber mit Abblend- oder Tagfahrlicht gefahren werden.  
 Vom 1. November bis 1. April besteht bei winterlichen Straßenverhältnissen Winterreifenpflicht (mindestens Reifen mit M+S-Kennung).  
 Die Promillegrenze in Serbien beträgt 0,3; für Berufsfahrer und Fahranfänger 0,0. Wegen der Schuldzuweisung bei Unfällen wird jedoch dringend empfohlen, im Straßenverkehr ganz auf Alkohol zu verzichten.
 

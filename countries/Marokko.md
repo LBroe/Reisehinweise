@@ -195,6 +195,10 @@ Eingeführte Kfz, die nicht wieder ausgeführt werden (z. B. bei Verkauf, Unfall
 
 ## Gesundheit
 
+### Aktuelles
+
+Mpox, eine durch das Mpox-Virus verursachte Erkrankung, breitet sich seit 2022 global aus. Im September 2024 wurde erstmalig über eine Mpox-Infektion in Marokko berichtet. Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum Erreger, zur Erkrankung und zu Präventionsmaßnahmen einschließlich Impfung siehe [Mpox.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
+
 ### Impfschutz
 
 Für die Einreise aus Ländern mit aktuellem Poliomyelitis-Ausbruch, siehe auch [Poliomyelitis,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") wird ein internationaler Impfnachweis über eine Polioimpfung eingefordert, die 12 Monate bis vier Wochen vor Ausreise aus dem Land mit Poliomyelitis-Ausbruch durchgeführt wurde.

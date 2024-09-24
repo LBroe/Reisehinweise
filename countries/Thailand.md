@@ -1,19 +1,8 @@
 # Thailand: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-**Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.** 
-
-Betroffene können sich für Fragen und Hilfe rund um die Uhr an die (englischsprachige) Hotline des Disaster Warning Centers unter der Telefonnummer 1784 oder an die thailändische Touristenpolizei unter 1155 wenden.
-
-* Wenn Sie sich in betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
-* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-
 ## Sicherheit
 
-**Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**
-
-**Von einem Besuch der Provinzen Chiang Rai, Chiang Mai, Tak und Loei in Nordthailand wird derzeit abgeraten.** 
+**Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**  
 
 ### Terrorismus
 
@@ -62,13 +51,20 @@ In entlegenen Gebieten und in den Grenzgebieten zu Kambodscha und Myanmar kann e
 
 ## Natur und Klima
 
-Siehe *Aktuelles*
+### *Stürme, Überschwemmungen und Erdrutsche*
 
 Es herrscht tropisches Klima.  
-Insbesondere in der Regenzeit von Mai bis Oktober kommt es häufig zu großflächigen Überschwemmungen und Erdrutschen, denen oft Menschen zum Opfer fallen.  
+Insbesondere in der Regenzeit von Mai bis Oktober kommt es häufig zu großflächigen Überschwemmungen und Erdrutschen, denen oft Menschen zum Opfer fallen.  
 Im Südosten der Thai-Halbinsel (u.a. auch auf Koh Samui) kommt es auch von November bis Januar zu Starkregen und vereinzelten Tropenstürmen.
 
-Thailand befindet sich in einer seismisch aktiven Zone, in der mit Erd- und Seebeben gerechnet werden muss.
+Betroffene können sich für Fragen und Hilfe rund um die Uhr an die (englischsprachige) Hotline des Disaster Warning Centers unter der Telefonnummer 1784 oder an die thailändische Touristenpolizei unter 1155 wenden.
+
+* Wenn Sie sich in betroffenen Regionen aufhalten, lassen Sie bitte besondere Vorsicht walten.
+* Beachten Sie die Hinweise des [thailändischen Amts für Meteorologie](https://www.tmd.go.th/en) und beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+
+### *Erd- und Seebeben*
+
+### Thailand befindet sich in einer seismisch aktiven Zone, in der mit Erd- und Seebeben gerechnet werden muss.
 
 * Achten Sie stets auf Warnmeldungen des thailändischen [Meteorological Department](https://www.tmd.go.th/en).
 * Beachten Sie Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
