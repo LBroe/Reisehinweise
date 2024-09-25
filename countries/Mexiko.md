@@ -44,7 +44,7 @@ In der Karibik hat sich der Tropensturm „Helene“ gebildet. Er wird nach akt
 
 ### Innenpolitische Lage
 
-Am 2. Juni 2024 fanden in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten statt. Claudia Sheinbaum wurde mit großer Mehrheit zur Staatspräsidentin gewählt. Planmäßig werden das neue Parlament am 1. September 2024 und die neue Präsidentin am 1. Oktober 2024 ihre Arbeit aufnehmen. Demonstrationen können nicht ausgeschlossen werden.
+Im Juni 2024 fanden in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten statt. Claudia Sheinbaum wurde mit großer Mehrheit zur Staatspräsidentin gewählt. Planmäßig werden das neue Parlament am 1. September 2024 und die neue Präsidentin am 1. Oktober 2024 ihre Arbeit aufnehmen. Demonstrationen können nicht ausgeschlossen werden.
 
 Die größte Gefahr für die innere Sicherheit des Landes geht vom organisierten Verbrechen aus.
 
@@ -97,6 +97,8 @@ Geldautomaten können manipuliert sein, um Daten zu kopieren, auch Kreditkartenm
 * Der Deutschen Botschaft Mexiko-Stadt liegen Berichte vor, wonach uniformierte Sicherheitskräfte, auch Polizisten, hohe Bußgelder verlangen oder mit Festnahme drohen. Bleiben Sie bei unklarer Rechtslage kritisch und nehmen Sie im Zweifel Kontakt zum mexikanischen Notruf 911 (auch Englisch) bzw. dem [Bereitschaftsdienst](https://mexiko.diplo.de/mx-de/service/-/1050806) der Botschaft auf. Leisten Sie keine Zahlungen, wenn Sie die vorgeworfene Tat nicht begangen haben, das geforderte Bußgeld unangemessen hoch erscheint oder wenn Ihnen keine Quittung/kein Protokoll ausgestellt werden kann. Notieren Sie sich die Personalien, Dienstnummern bzw. Kfz.-Kennzeichen der kontrollierenden Sicherheitskräfte.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 #### *Tropenstürme und Überschwemmungen*
 
@@ -222,7 +224,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Mexikos](http://www.gob.mx) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Mexikos sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
