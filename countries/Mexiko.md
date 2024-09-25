@@ -4,7 +4,7 @@
 
 ### *Hurrikan "Helene"*
 
-In der Karibik hat sich der Tropensturm „Helene“ gebildet. Er wird nach aktuellen Prognosen voraussichtlich ab Mittwoch, 25.09.2024, vor der mexikanischen Halbinsel Yucatán Hurrikan-Stärke erreichen. Mit Extremwetter, sehr starken Winden, Starkregen und Überschwemmungen ist zu rechnen. Beeinträchtigungen im Reiseverkehr sind möglich. Es kann auch zu längeren Stromausfällen kommen.  Betroffen sind die Bundesstaaten Quintana Roo, Yucatán und Campeche.
+In der Karibik hat sich der Tropensturm „Helene“ gebildet. Er wird nach aktuellen Prognosen voraussichtlich ab Mittwoch, 25. September 2024, vor der mexikanischen Halbinsel Yucatán Hurrikan-Stärke erreichen. Mit Extremwetter, sehr starken Winden, Starkregen und Überschwemmungen ist zu rechnen. Beeinträchtigungen im Reiseverkehr sind möglich. Es kann auch zu längeren Stromausfällen kommen.  Betroffen sind die Bundesstaaten Quintana Roo, Yucatán und Campeche.
 
 * Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
 * Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden und Ihres Hotel- bzw. Reiseanbieters unbedingt Folge.
