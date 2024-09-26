@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Die durch extreme Niederschläge verursachte Hochwasserlage entspannt sich zunehmend. Größere Verkehrsbehinderungen gibt es vor allem noch in Niederösterreich.
+Die durch extreme Niederschläge verursachte Hochwasserlage entspannt sich zunehmend. 
 
 Aktuelle Informationen über Fahrpläne und Streckenunterbrechungen sind über [SCOTTY der österreichischen Bahn](https://fahrplan.oebb.at/webapp/#!P|HimSearch!H|199974) abrufbar.
 

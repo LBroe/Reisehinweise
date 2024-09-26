@@ -6,9 +6,7 @@
 
 ### *Sicherheitslage*
 
-Die Lage im Norden Kosovos ist weiterhin angespannt. Serbische Gruppen haben in den Medien dazu aufgerufen, Grenzübergänge zwischen Serbien bzw. Montenegro und Kosovo ab dem 6. September 2024 auf unbestimmte Zeit zu blockieren.
-
-Das kosovarische Außenministerium empfiehlt daher, Reisen nach und durch Serbien zu vermeiden.
+Die Lage im Norden Kosovos ist weiterhin angespannt.
 
 2023 kam es mehrfach zu Demonstrationen, Sachbeschädigungen und gewaltsamen Auseinandersetzungen, bei denen auch Dutzende von KFOR/NATO-Soldaten sowie mehrere Zivilisten und Polizisten verletzt wurden und im September 2023 u.a. ein Polizist getötet wurde.
 

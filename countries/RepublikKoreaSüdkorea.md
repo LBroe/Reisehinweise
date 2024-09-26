@@ -8,20 +8,21 @@
 
 ### Innenpolitische Lage
 
-Die Republik Korea gilt als vergleichsweise sicheres Reiseland. Die Folgen der Teilung der koreanischen Halbinsel und die schwierigen politischen Beziehungen zwischen der Republik Korea (Südkorea) und der Demokratischen Volksrepublik Korea (Nordkorea) haben die Sicherheitslage für Reisende in Südkorea bisher nicht beeinträchtigt.  
-Es ist möglich, dass es – auch vor dem Hintergrund der komplexen Beziehungen zwischen Nordkorea und den USA – kurzfristig erneut zu Spannungen zwischen Nordkorea und Südkorea kommen kann. Eine konkrete Gefährdung deutscher Staatsangehöriger wird in diesem Zusammenhang bislang nicht gesehen.  
-Die südkoreanischen Behörden führen gelegentlich Notfall- und Krisenübungen durch. In diesem Zusammenhang ertönen Sirenen, der Straßen- und öffentliche Verkehr wird gestoppt und Passanten werden gebeten, sich zu den nächsten Notunterkünften zu begeben. Die Teilnahme ist für ausländische Staatsangehörige nicht vorgeschrieben, aber empfehlenswert.
+Die Republik Korea ist ein demokratisch verfasster Staat mit einer lebendigen Zivilgesellschaft. Das äußert sich insbesondere in den Großstädten in einer Vielzahl von Demonstrationen, die diszipliniert durchgeführt werden und nahezu ausnahmslos friedlich bleiben.  
+Die schwierigen politischen Beziehungen zwischen der Republik Korea (Südkorea) und der Demokratischen Volksrepublik Korea (Nordkorea) haben in den vergangenen Jahren keine Auswirkung auf die Sicherheitslage für Reisende gehabt.  
+Kurzfristige Lageänderungen aufgrund von Spannungen zwischen Nord- und Südkorea können jedoch nicht ausgeschlossen werden.  
+Die südkoreanischen Behörden führen deshalb gelegentlich Notfall- und Krisenübungen durch. In diesem Zusammenhang ertönen Sirenen, der Straßen- und öffentliche Verkehr wird gestoppt und Passanten werden gebeten, sich zu den nächsten Schutzräumen (in der Regel in U-Bahnschächten oder Tiefgaragen) zu begeben. Die Teilnahme ist für ausländische Staatsangehörige nicht vorgeschrieben, aber empfehlenswert.
 
 * Informieren Sie sich über die lokalen Medien.
 * Nutzen Sie ggf. die EmergencyReadyApp für [iOS](https://itunes.apple.com/de/app/emergencyreadyapp/id826120919?mt=8) und [Android](https://play.google.com/store/apps/details?id=kr.go.nema.disasteralert_eng) für Verhaltenstipps und Warnmeldungen, die nächste Notunterkunft, Polizeistation und Notaufnahme
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist niedrig. Kleinkriminalität wie Taschendiebstähle kommen in größeren Städten und an touristischen Orten vor.
+Die Kriminalitätsrate ist niedrig. Kleinkriminalität wie Taschendiebstähle kommt kaum vor.
 
-* Lassen Sie aufgrund von Kleinkriminalität wie Taschendiebstählen die übliche Vorsicht walten.
+* Lassen Sie dennoch die übliche Vorsicht walten.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -34,7 +35,7 @@ Es gibt vier ausgeprägte Jahreszeiten: Die Monsunzeit von Juni bis August ist f
 Insbesondere zwischen Juli und September kann es zu Taifunen und heftigen Regenfällen, Überflutungen und Erdrutschen kommen, die auch zu Behinderungen im Reiseverkehr führen können.
 
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter") im Fall einer Sturmwarnung.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
@@ -45,7 +46,7 @@ Südkorea verfügt über ein sehr gut ausgebautes öffentliches Verkehrsnetz mit
 
 ### Grenzgebiet zu Nordkorea
 
-Etwa entlang des 38. Breitengrades zieht sich ein vier Kilometer breiter Grenzstreifen, in dessen Vorfeld beiderseitig umfangreiche Truppenkontingente stationiert sind. Auf südkoreanischer Seite verhindert die Ausweisung eines militärischen Sperrgebietes die unmittelbare Annäherung an die Teilungslinie. Erst seit wenigen Jahren existiert im Osten und Westen des Grenzverlaufs je ein Grenzübergang. Diese waren zeitweise und nur von Süden her für touristische Tagesausflüge von Süd- nach Nordkorea passierbar, gegenwärtig sind sie geschlossen. Die formelle Einreise nach Nordkorea ist von Südkorea aus nicht möglich; hierzu muss der Transfer über Drittstaaten (VR China, Russland) erfolgen.
+Etwa entlang des 38. Breitengrades zieht sich ein vier Kilometer breiter Grenzstreifen, in dessen Vorfeld beiderseitig umfangreiche Truppenkontingente stationiert sind. Auf südkoreanischer Seite verhindert die Ausweisung eines militärischen Sperrgebietes die unmittelbare Annäherung an die Teilungslinie. Erst seit wenigen Jahren existiert im Osten und Westen des Grenzverlaufs je ein Grenzübergang. Diese waren zeitweise und nur von Süden her für touristische Tagesausflüge von Süd- nach Nordkorea passierbar, gegenwärtig sind sie geschlossen. Die formelle Einreise nach Nordkorea ist von Südkorea aus nicht möglich; hierzu muss der Transfer über Drittstaaten (Volksrepublik China, Russland) erfolgen.
 
 ### Führerschein
 
@@ -61,11 +62,13 @@ In Südkorea sind gleichgeschlechtliche sexuelle Aktivitäten legal; gleichgesch
 
 Militärische Einrichtungen dürfen nicht fotografiert werden.
 
+Für das Aufsteigenlassen von Drohnen sind Genehmigungen erforderlich.
+
 Drogendelikte werden mit hohen Haftstrafen geahndet. Das südkoreanische Recht unterscheidet nicht zwischen „harten“ und „weichen“ Drogen. Auch der Besitz geringer Mengen illegaler Drogen wird strafrechtlich geahndet.
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Won (KRW). Geldwechsel ist am Flughafen, bei allen Banken und größeren Hotels sowie Wechselstuben möglich. Barabhebungen mit gängigen internationalen Kreditkarten sind an gekennzeichneten Geldautomaten möglich, soweit dies nicht durch individuelle Beschränkungen der deutschen Kreditinstitute ausgeschlossen ist. Auch in vielen Hotels, Restaurants und Geschäften kann mit Kreditkarte bezahlt werden. Das Abheben von Bargeld mit deutschen Debitkarten (Girocard) ist kaum möglich.
+Landeswährung ist der Won (KRW). Geldwechsel ist am Flughafen, bei allen Banken und größeren Hotels sowie Wechselstuben möglich. Barabhebungen mit gängigen internationalen Kreditkarten sind an gekennzeichneten Geldautomaten („Global ATM“) möglich, soweit dies nicht durch individuelle Beschränkungen der deutschen Kreditinstitute ausgeschlossen ist. Auch in vielen Hotels, Restaurants und Geschäften kann mit Kreditkarte bezahlt werden. Das Abheben von Bargeld mit deutschen Debitkarten (Girocard) ist kaum möglich.
 
 * Erkundigen Sie sich vor der Reise beim deutschen Geldinstitut über die Bedingungen zur Bargeldabhebung im außereuropäischen Ausland.
 
@@ -75,7 +78,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Südkoreas](https://mohw.go.kr/eng/index.jsp), der [Stadt Seoul](http://english.seoul.go.kr/covid/) sowie der [südkoreanischen Botschaft](https://overseas.mofa.go.kr/de-de/index.do). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Südkoreas sowie der [südkoreanischen Botschaft](https://overseas.mofa.go.kr/de-de/index.do). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -98,7 +101,7 @@ Visumfreie Einreise
 Staatsangehörige der EU- und Schengen-Staaten können für Kurzzeitaufenthalte (weniger als 90 Tage- und keine Erwerbstätigkeit) visumfrei in die Republik Korea (Südkorea) einreisen.
 
 K-ETA (Korea Electronic Travel Authorization)  
-Seit 1. April 2023 bis zum 31. Dezember 2024 benötigen deutsche Staatsangehörige keine K-ETA mehr, um visumfrei nach Südkorea einzureisen. Weitere Informationen können auf der [K-ETA Webseite](http://www.k-eta.go.kr/) eingesehen werden.
+Bis zum 31. Dezember 2024 benötigen deutsche Staatsangehörige keine K-ETA mehr, um visumfrei nach Südkorea einzureisen. Weitere Informationen können auf der [K-ETA Webseite](http://www.k-eta.go.kr/) eingesehen werden.
 
 Wiedereinreiseerlaubnis  
 Single-Entry-Visum-Inhaber (Aufenthaltsdauer über 90 Tage), die während der genehmigten Aufenthaltsdauer die Republik Korea verlassen und wieder einreisen möchten, müssen bei der zuständigen regionalen Ausländerbehörde (Immigration Office) eine Genehmigung zur Wiedereinreise ('Reentry Permit') beantragen. Detaillierte Auskünfte können bei der zuständigen regionalen [Ausländerbehörde](https://www.immigration.go.kr/immigration_eng/index.do) erfragt werden.
@@ -139,6 +142,8 @@ Die Einfuhr von Waffen ist untersagt.
 Zum Schutz vor Tierseuchen in Europa (z. B. BSE, Maul- und Klauenseuche, Vogelgrippe) ist die Einfuhr von Fleisch- und Wurstwaren sowie Milchprodukten streng verboten. Untersagt ist ebenso die Einfuhr von Obst und Gemüse sowie von Nüssen und Reis.
 
 Die Zollkontrollen bei der Einreise wurden deutlich verschärft. Bei Einfuhr von tierischen Erzeugnissen wie Fleisch und Wurstwaren, Käse u. Ä. drohen hohe Geldstrafen, insbesondere wenn es sich um Waren aus Ländern handelt, in denen die Asiatische Schweinepest ausgebrochen ist.
+
+Bezüglich der Einfuhr von Medikamenten empfiehlt es sich grundsätzlich und vor allem bei verschreibungspflichtigen Medikamenten oder größeren Mengen ein englischsprachiges Schreiben des Arztes mitzuführen. Betäubungsmittel und Psychoaktive Substanzen müssen vor der Reise beim [Ministry for Food and Drug Safety (Mfds)](https://www.mfds.go.kr/eng/brd/m_60/view.do?seq=75669) angemeldet werden. Das Mfds kann unter dieser [E-Mailadresse](mailto:E-Mailadresse) kontaktiert werden: narcotics@korea.kr.
 
 ### Heimtiere
 
@@ -199,13 +204,15 @@ Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) u
 
 ### Luftverschmutzung
 
-Ganzjährig, aber insbesondere in der Zeit von März bis Mai kann es zu erhöhter Luftverschmutzung kommen.
+Insbesondere in den Ballungsräumen kann es zu erhöhter Luftverschmutzung kommen.
 
 * Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
 Die medizinische Versorgung in Südkorea entspricht europäischem Niveau und ist in der Hauptstadt ausgezeichnet. Wenn man nicht eine der internationalen Abteilungen großer Krankenhäuser aufsucht, kann die Verständigung problematisch sein, da Englisch sprechende Ärzte häufig fehlen. Seoul ist (wegen moderner Therapieformen zu einem günstigen Preis) das Ziel vieler sogenannter Medizintouristen.
+
+Aufgrund von politischen Auseinandersetzungen im Gesundheitswesen kann es zu Einschränkungen bei der Notfallversorgung, insbesondere an wichtigen Feiertagen, kommen.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
