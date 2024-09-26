@@ -19,34 +19,35 @@ Kuba ist ein sozialistischer Einparteienstaat. Meinungs- und Pressefreiheit sind
 
 ### Kriminalität
 
-Reisende können Opfer von Eigentumsdelikten, Körperverletzungen, in seltenen Fällen auch von Gewaltverbrechen werden. Alleinreisende Frauen können in Einzelfällen Opfer von Sexualstraftaten werden. Es ist vereinzelt von exhibitionistischen Handlungen sowie von versuchten Vergewaltigungen berichtet worden.
+Reisende können Opfer von Eigentumsdelikten, Körperverletzungen, in seltenen Fällen auch von Gewaltverbrechen werden. Alleinreisende Frauen können in Einzelfällen Opfer von Sexualstraftaten werden. Es ist vereinzelt von exhibitionistischen Handlungen sowie von versuchten Vergewaltigungen berichtet worden.  
 
-Es kommt vermehrt zu Diebstählen von Taschen und anderen persönlichen Gegenständen an den Stränden (z.B. an den Playas del Este in der Nähe von Havanna sowie an anderen Stränden in der Nähe von Touristenorten, wie Trinidad oder Cienfuegos), aber auch an belebten Orten wie Havannas Innenstadt sowie nachts in unbeleuchteten Gegenden.
+Es kommt vermehrt zu Diebstählen von Taschen und anderen persönlichen Gegenständen an den Stränden (z.B. an den Playas del Este in der Nähe von Havanna sowie an anderen Stränden in der Nähe von Touristenorten, wie Trinidad oder Cienfuegos), aber auch an belebten Orten wie Havannas Innenstadt sowie nachts in unbeleuchteten Gegenden. Am Flughafen Havanna kann es zu Diebstählen, auch aus aufgegebenem Gepäck kommen.
+
+Die Anzeige einer Straftat (z.B. Raub, Diebstahl) bei den kubanischen Polizeibehörden kann mit langen Wartezeiten verbunden sein. Gelegentlich weigern sich die Behörden, die Anzeige eines Ausländers aufzunehmen.
 
 Ausländische Personen müssen jederzeit in der Lage sein, sich auszuweisen (Passkopie genügt in der Regel). Reisende, die ohne Ausweise und/oder Geldmittel angetroffen werden, werden von der kubanischen Einreisebehörde ggf. für mehrere Tage in einer kostenpflichtigen Unterkunft festgesetzt, bis ihr Status geklärt und die Finanzierung des Aufenthalts gesichert ist – selbst dann, wenn Reisende Opfer einer Straftat wurden.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Lassen Sie Taschen, Wertgegenstände und anderen persönlichen Besitz nie unbeaufsichtigt.
-* Nehmen Sie keine unnötigen Wertsachen und nur das für den Tag benötigte Bargeld, verteilt an mehreren Stellen am Körper, mit.
+* Nehmen Sie keine unnötigen Wertsachen und nur das für den Tag benötigte Bargeld mit, verteilt an mehreren Stellen am Körper.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie Getränke nie unbeaufsichtigt.
-* Transportieren Sie wertvolle Gegenstände im Handgepäck.
-* Weisen Sie als Frau ungewollte Flirtversuche deutlich zurück und seien Sie nachts grundsätzlich nur in Begleitung unterwegs.
+* Transportieren Sie wertvolle Gegenstände im Handgepäck und zeigen Sie Diebstähle bei der Fluggesellschaft und der kubanischen Polizei an.
+* Weisen Sie ungewollte Flirtversuche deutlich zurück und seien Sie nachts grundsätzlich nur in Begleitung unterwegs.
 * Vermeiden Sie Überlandfahrten mit Taxis bei Dunkelheit.
 * Seien Sie bei Reifenpannen und an Tankstellen sowie bei der Mitnahme von Anhaltern im Mietwagen besonders vorsichtig.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der  Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
-Es herrscht tropisch-feuchtheißes Meeresklima.  
-Von Mai bis November ist Hurrikan-Saison. In dieser Zeit ist mit Tropenstürmen und intensiven Regenfällen zu rechnen, die zu Überschwemmungen und Erdrutschen führen können.
+Kuba liegt in einer seismisch aktiven Zone, sodass es zu Erdbeben kommen kann.
 
-Kuba liegt in einer seismisch aktiven Zone, so dass es zu Erdbeben kommen kann.
+In Mexiko, in Zentralamerika, der Karibik und den südlichen Bundesstaaten der USA ist von Mai bis November Hurrikan-Saison. Reisende müssen in dieser Zeit mit Tropenstürmen, die Hurrikan-Stärke erreichen können, intensiven Regenfällen, Überschwemmungen und Einschränkungen der Infrastruktur rechnen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
-* Informieren Sie sich über das Instituto Meteorología de Cuba oder das [National Hurricane Center](https://www.nhc.noaa.gov/) in der Hurrikan-Saison.
-* Beachten Sie bei einer Sturmwarnung die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
+* Verfolgen Sie, insbesondere in der Hurrikan-Saison, regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen, z.B. über das [Instituto Meteorología de Cuba](http://www.insmet.cu/) oder das [National Hurricane Center.](https://www.nhc.noaa.gov/)
+* Beachten Sie die [Hinweise zu „Wirbelstürmen im Ausland"](https://studio.auswaertiges-amt.de/blueprint/servlet/page/de/ReiseUndSicherheit/-/200794) im Fall einer Sturmwarnung.
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 
 ## Reiseinfos
 
@@ -54,11 +55,13 @@ Kuba liegt in einer seismisch aktiven Zone, so dass es zu Erdbeben kommen kann.
 
 Auf innerkubanischen Flügen kommt es immer wieder zu zum Teil großen Verspätungen (teilweise über mehrere Tage) oder auch Streichungen von Flügen.
 
+In der Provinz Pinar del Rio (zu der der beliebte Ort Viñales gehört) wurde bis auf Weiteres der öffentliche Nahverkehr eingestellt. Privater Transport ist, je nach Verfügbarkeit, weiterhin möglich.
+
 Für Rundreisen im Land kommen in erster Linie Busse (Viazul), organisierte Bustouren und Mietwagen in Betracht, wobei Busfahrten hinsichtlich der Verkehrssicherheit weniger problematisch sind. Aufgrund von Benzinknappheit können Tankstellen geschlossen sein bzw. kann es zu sehr langen Wartezeiten kommen. Mit Mietwagen kann ausschließlich an Tankstellen, an denen mit Devisen (internationaler Kreditkarte) bezahlt werden kann, getankt werden. Es wird empfohlen, die genauen Standorte und Modalitäten vorab bei der Mietwagenfirma zu erfragen.
 
-Es kann zu Engpässen bei Dingen des täglichen Bedarfs und Medikamenten kommen.
+Es kann überall in Kuba zu Engpässen bei Dingen des täglichen Bedarfs und insbesondere bei Medikamenten kommen.
 
-Außerhalb der touristischen Zentren kommt es immer wieder zu teils mehrstündigen, in der Regel vorab angekündigten, Stromausfällen aufgrund von Brennstoffknappheit, was auch zu Beeinträchtigungen der Wasserversorgung und Kommunikation führen kann. Währenddessen sind Geschäfte und Tankstellen in der Regel nicht geöffnet. Privatunterkünfte haben oft keine Generatoren.
+Es kommt landesweit immer wieder zu teils mehrstündigen, in der Regel vorab angekündigten, Stromausfällen aufgrund von Brennstoffknappheit, was auch zu teilweise lang andauernden Beeinträchtigungen der Wasserversorgung und Kommunikation führen kann, gerade abseits der größeren internationalen Hotels. Währenddessen sind Geschäfte und Tankstellen in der Regel nicht geöffnet. Privatunterkünfte haben oft keine Generatoren.
 
 Kubanische Staatsangehörige benötigen für jegliche Art privater Geschäfte einer Genehmigung der Behörden. Vor Unterbringung in Privathaushalten sollte nach der erforderlichen behördlichen Genehmigung gefragt werden, da sonst für beide Teile (Gastgeber und Gast) Schwierigkeiten mit der Polizei zu befürchten sind.
 
@@ -104,7 +107,7 @@ Debitkarten deutscher Banken (Girocard, Maestro, VPay) werden in Kuba nicht ange
 
 Kreditkarten deutscher Banken werden in der Regel in allen größeren Hotels zur Bezahlung akzeptiert, nicht jedoch die durch ein US-amerikanische Institut (z.B. American Express) herausgegeben werden. Dies schließt die deutschen Tochtergesellschaften US-amerikanischer Institute ein. An Geldautomaten kann mit VISA/Mastercard Bargeld in CUP abgehoben werden. Dies gilt jedoch nicht flächendeckend für das ganze Land und ist aufgrund gelegentlicher technischer Störungen nicht immer gewährleistet.
 
-In den sogenannten Devisenläden kann neben einer zuvor beschafften Geldkarte (siehe Hinweise unten) i.d.R. auch mit einer ausländischen Kreditkarte bezahlt werden. Es wird empfohlen, vor Reiseantritt bei der eigenen Bank in Erfahrung zu bringen, ob Geldabhebung und Bezahlung in Kuba problemlos möglich sind.
+In den sogenannten Devisenläden kann neben einer zuvor beschafften Geldkarte (siehe Hinweise unten) in der Regel auch mit einer ausländischen Kreditkarte bezahlt werden. Es wird empfohlen, vor Reiseantritt bei der eigenen Bank in Erfahrung zu bringen, ob Geldabhebung und Bezahlung in Kuba problemlos möglich sind.
 
 Touristen können auch sog. Prepaid-Geldkarten erwerben, mit der Waren und Dienstleistungen in frei konvertibler Währung (MLC) erworben werden können. Die Karten können am Flughafen oder in den Wechselstuben CADECA beschafft werden und ausschließlich mit Bargeld in ausländischer Währung (keine USD) aufgeladen werden. Weitere Informationen bietet das [kubanische Tourismus-Portal.](https://www.cuba.travel/en/useful-information/cuban-currency)
 
@@ -136,7 +139,7 @@ Alle Einreisenden müssen eine Erklärung mit Informationen zu Einreise und Zoll
 
 Eine Einreise nach Kuba zu touristischen Zwecken mit einer Aufenthaltsdauer von bis zu 90 Tagen ist nur mit Visum in Form einer sogenannten "Touristenkarte" möglich. Touristenkarten müssen vor Einreise erworben werden und sind bei der kubanischen Botschaft in Deutschland, einigen Fluggesellschaften am Flughafen sowie bei kommerziellen Anbietern im Internet erhältlich. Verschiedene Reiseveranstalter bieten den Verkauf der Touristenkarte ebenfalls an, jedoch ggf. nur zusammen mit anderen touristischen Leistungen. Die Verlängerung der Touristenkarte um weitere 90 Tage ist grundsätzlich möglich. Ob dem Antrag stattgegeben wird, liegt im Einzelfall jedoch im Ermessen der kubanischen Behörden.
 
-Seit dem 1. August 2024 wird von kubanischer Seite ein elektronisches Visumsverfahren für touristische Reisen eingeführt und wurde der Zugang zu weiteren Informationen und entsprechenden Antragsformularen für das neue [eVisaCuba](https://evisacuba.cu/) freigeschaltet. Dieses soll mittelfristig die bisherige Touristenkarte ersetzen. Erfahrungen mit dem elektronischen Visum liegen dem Auswärtigen Amt bisher nicht vor.
+Seit August 2024 wird von kubanischer Seite ein elektronisches Visumsverfahren für touristische Reisen eingeführt und wurde der Zugang zu weiteren Informationen und entsprechenden Antragsformularen für das neue [eVisaCuba](https://evisacuba.cu/) freigeschaltet. Dieses soll mittelfristig die bisherige Touristenkarte ersetzen. Erfahrungen mit dem elektronischen Visum liegen dem Auswärtigen Amt bisher nicht vor.
 
 Bei beabsichtigten längeren Aufenthalten oder solchen zu nicht-touristischen Zwecken ist ein Visum erforderlich, welches bei der kubanischen Auslandsvertretung im Herkunftsland zu beantragen ist. Hierfür ist unter Umständen eine Einladung erforderlich. Die Bearbeitungsdauer kann sich auf mehrere Wochen belaufen. Visa beziehungsweise Touristenkarten werden grundsätzlich nicht an der Grenze ausgestellt; darüber hinaus kontrollieren die Fluggesellschaften vor Abflug aus Deutschland ob Visum oder Touristenkarte vorhanden sind und verweigern u. U. die Mitnahme.
 
@@ -286,7 +289,7 @@ Es gibt in Kuba kein verlässliches Rettungssystem, d.h. es kann weder davon aus
 
 Medizinische Behandlung für Ausländer ist in Kuba nur in speziellen Ausländerkrankenhäusern bzw. Ausländerabteilungen von Krankenhäusern vorgesehen. Bei akuten Notfällen wird prinzipiell auch in anderen Krankhäusern eine (kostenpflichtige) Erstbehandlung vorgenommen. Die Kosten können die in Deutschland üblichen übersteigen.
 
-Das Angebot zur Gesundheits- und Notfallversorgung ist insbesondere in vielen ländlichen Gebieten häufig nicht mit europäischen Standards vergleichbar.
+Das Angebot zur Gesundheits- und Notfallversorgung ist, insbesondere in vielen ländlichen Gebieten, häufig nicht mit europäischen Standards vergleichbar.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
