@@ -2,6 +2,14 @@
 
 ## Aktuelles
 
+#### *Gesundheit*
+
+Am 27.9.2024 berichtete das Gesundheitsministerium von Ruanda über mehrere bestätigte Marburg-Virus-Infektionen. Die genaue Anzahl ist bis jetzt nicht bekannt. Die erkrankten Personen werden in verschiedenen Kliniken in der Hauptstadt Kigali behandelt, umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden ergriffen. Die Ausbruchsursache ist bis jetzt nicht geklärt.
+
+Das Marburg-Virus kann durch Flughunde, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen.
+
+#### 
+
 #### *Sicherheitslage im Grenzgebiet*
 
 Die Sicherheitslage im Osten der Demokratischen Republik Kongo an der Grenze zu Ruanda ist weiterhin schlecht. Es kommt immer wieder zu Kämpfen zwischen der kongolesischen Armee und bewaffneten Gruppen, wie z.B. M23, im Grenzgebiet zu Ruanda.
