@@ -1,17 +1,5 @@
 # Mexiko: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Hurrikan "Helene"*
-
-In der Karibik hat sich der Tropensturm „Helene“ gebildet. Er wird nach aktuellen Prognosen voraussichtlich ab Mittwoch, 25. September 2024, vor der mexikanischen Halbinsel Yucatán Hurrikan-Stärke erreichen. Mit Extremwetter, sehr starken Winden, Starkregen und Überschwemmungen ist zu rechnen. Beeinträchtigungen im Reiseverkehr sind möglich. Es kann auch zu längeren Stromausfällen kommen.  Betroffen sind die Bundesstaaten Quintana Roo, Yucatán und Campeche.
-
-* Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
-* Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden und Ihres Hotel- bzw. Reiseanbieters unbedingt Folge.
-* Wenn Sie sich in Mexiko aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-* Der voraussichtlich am schwersten betroffene Bundesstaat Quintana Roo hat temporäre Schutzorte ausgewiesen. Diese finden Sie nach Orten getrennt unter <https://qroo.gob.mx/coeproc/index.php/refugios/>
-* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://studio.auswaertiges-amt.de/blueprint/servlet/page/de/ReiseUndSicherheit/-/200794) bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/notsituationen_node.html)
-
 ## Sicherheit
 
 **Von Reisen in folgende Regionen wird dringend abgeraten:**
@@ -97,8 +85,6 @@ Geldautomaten können manipuliert sein, um Daten zu kopieren, auch Kreditkartenm
 * Der Deutschen Botschaft Mexiko-Stadt liegen Berichte vor, wonach uniformierte Sicherheitskräfte, auch Polizisten, hohe Bußgelder verlangen oder mit Festnahme drohen. Bleiben Sie bei unklarer Rechtslage kritisch und nehmen Sie im Zweifel Kontakt zum mexikanischen Notruf 911 (auch Englisch) bzw. dem [Bereitschaftsdienst](https://mexiko.diplo.de/mx-de/service/-/1050806) der Botschaft auf. Leisten Sie keine Zahlungen, wenn Sie die vorgeworfene Tat nicht begangen haben, das geforderte Bußgeld unangemessen hoch erscheint oder wenn Ihnen keine Quittung/kein Protokoll ausgestellt werden kann. Notieren Sie sich die Personalien, Dienstnummern bzw. Kfz.-Kennzeichen der kontrollierenden Sicherheitskräfte.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 #### *Tropenstürme und Überschwemmungen*
 

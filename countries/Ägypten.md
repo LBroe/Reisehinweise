@@ -7,8 +7,6 @@ Von unbegleiteten, individuellen Ausflügen und Überlandfahrten im Süden der S
 
 [Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
-Derzeit kommt es in Ägypten immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Großdemonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, ist auch in den nächsten Wochen zu rechnen, dies vor allem freitags nach dem Mittagsgebet.
-
 Am 8. Oktober 2023 hat ein Polizist an einer touristischen Stätte in Alexandria zwei israelische Touristen und einen ägyptischen Tourguide erschossen. Der Polizist wurde von den ägyptischen Sicherheitsbehörden festgenommen. Es handelt sich um einen Einzelfall.
 
 Am 27. Oktober 2023 kam es zum Einschlag durch Flugkörper (vermutlich fehlgeleitete Drohnen) in den Orten Taba und Nuweiba auf dem Sinai. Mehrere Menschen wurden verletzt.
@@ -27,7 +25,7 @@ Von unbegleiteten, individuellen Ausflügen und Überlandfahrten im Süden der S
 
 ### Terrorismus
 
-Es besteht landesweit weiterhin ein Risiko terroristischer Anschläge. Diese richteten sich in der Vergangenheit meist gegen ägyptische Sicherheitsbehörden, teilweise gegen koptische Einrichtungen und vereinzelt auch gegen ausländische Ziele und Staatsangehörige. Zuletzt forderte 2019 ein Autobombenanschlag im Zentrum von Kairo mindestens 20 Todesopfer und zahlreiche Verletzte.
+Es besteht landesweit weiterhin ein Risiko terroristischer Anschläge. Diese richteten sich in der Vergangenheit meist gegen ägyptische Sicherheitsbehörden, teilweise gegen koptische Einrichtungen und vereinzelt auch gegen ausländische Ziele und Staatsangehörige. 
 
 Auch nach Aufhebung des Ausnahmezustandes 2021 haben die Sicherheitskräfte und das Militär im Zuge der Terrorismusbekämpfung erhebliche Eingriffsbefugnisse. Vor allem nachts ist mit verstärkten Kontrollen durch Sicherheitskräfte zu rechnen.
 
@@ -42,19 +40,19 @@ Auch nach Aufhebung des Ausnahmezustandes 2021 haben die Sicherheitskräfte und 
 In diesen Regionen finden militärische Operationen statt, da es in der Vergangenheit zu terroristischen Anschlägen kam.  
 Im Gouvernorat Nordsinai gilt der Ausnahmezustand, der mit nächtlichen Ausgangssperren einhergeht. Die Straße von Suez nach Taba ist für nichtmilitärische Fahrzeuge gesperrt.
 
-Vor Reisen in den angrenzenden [Gazastreifen](https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit/203674 "Palästinensische Gebiete: Reise- und Sicherheitshinweise") wird gewarnt; dies gilt insbesondere auch für Personen mit Familienangehörigen im Gazastreifen. Der Grenzübergang Rafah zwischen Ägypten und dem Gazastreifen wird aufgrund der aktuellen, unübersichtlichen Sicherheitslage allenfalls in unregelmäßigen Abständen für einen eingeschränkten Personenkreis geöffnet. Die Überlandfahrt nach Rafah ist besonders gefährlich.
+Vor Reisen in den angrenzenden [Gazastreifen](https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit/203674 "Palästinensische Gebiete: Reise- und Sicherheitshinweise") wird gewarnt; dies gilt insbesondere auch für Personen mit Familienangehörigen im Gazastreifen. Die Überlandfahrt nach Rafah ist besonders gefährlich.
 
 Im **Süden der Sinai-Halbinsel**, das Gouvernorat Südsinai mit den Küstenorten Sharm el-Sheikh, Dahab, Nuweiba und Taba am Roten Meer, **wird von unbegleiteten, individuellen Ausflügen und Überlandfahrten abgeraten**.
 
 * Beachten Sie die Hinweise von Hotels und Reiseveranstaltern.
-* Unternehmen Sie Tauch- und Schnorchel-Touren, Bergwanderungen sowie Ausflüge in die Wüste nur in hierfür lizenzierter ortsansässiger Begleitung.
+* Unternehmen Sie Tauch- und Schnorcheltouren, Bergwanderungen sowie Ausflüge in die Wüste nur in hierfür lizenzierter ortsansässiger Begleitung.
 * Buchen Sie Ausflüge nur mit hierfür lizenzierter ortsansässiger Begleitung.
 
 #### *Übrige Landesteile*
 
 **Vor Reisen in entlegene Gebiete der Sahara einschließlich der Grenzgebiete zu Libyen und Sudan wird gewarnt.** 
 
-Die ägyptischen Behörden haben die Grenzregionen zu Libyen und zum Sudan zu Sperrgebieten erklärt und Reisen dorthin untersagt. Die Ausdehnung der bestehenden Sperrgebiete unterliegt ständigen Veränderungen.
+Die ägyptischen Behörden haben die Grenzregionen zu Libyen und Sudan zu Sperrgebieten erklärt und Reisen dorthin untersagt. Die Ausdehnung der bestehenden Sperrgebiete unterliegt ständigen Veränderungen.
 
 Ausflugsziele, die sich in den entlegenen westlichen und südlichen Wüstengebieten befinden, können grundsätzlich mit einer Sondergenehmigung bereist werden. Die Reise muss mit einem durch das Tourismusministerium anerkannten Reiseanbieter erfolgen. Auch bereits genehmigte Wüstenexkursionen können durch Militär und Sicherheitsbehörden kurzfristig untersagt werden.
 
@@ -68,7 +66,7 @@ Schwerwiegende terroristische Anschläge auf ägyptische Sicherheitskräfte und 
 Demonstrationen können weiterhin vor allem in Kairo und anderen Städten nicht ausgeschlossen werden.  
 Im Zuge der Terrorismusbekämpfung haben Sicherheitskräfte und Militär erhebliche Eingriffsbefugnisse. Vor allem nachts und bei Demonstrationen ist mit verstärkten Kontrollen durch Sicherheitskräfte zu rechnen.
 
-Kritische Äußerungen über Ägypten und politische Kommentare, auch in den sozialen Medien, können unter anderem als strafbare Beleidigung und Diffamierung Ägyptens oder des Staatspräsidenten bzw. als strafbares „Verbreiten falscher Nachrichten“ angesehen werden und eine Strafverfolgung nach sich ziehen. Bei Kontrollen ist eine Durchsuchung nach solchen Kommentaren möglich. Zuletzt kam es im öffentlichen Raum insbesondere in Kairo verstärkt zu Personenkontrollen auch durch Polizisten in Zivil und zur Durchsuchung u.a. von Mobiltelefonen. Weigerungen, den (zivil-)polizeilichen Aufforderungen Folge zu leisten, kann zumindest kurzfristige Freiheitsbeschränkungen bzw. Festnahmen zur Folge haben.
+Kritische Äußerungen über Ägypten und politische Kommentare, auch in den sozialen Medien, können unter anderem als strafbare Beleidigung und Diffamierung Ägyptens oder des Staatspräsidenten bzw. als strafbares „Verbreiten falscher Nachrichten“ angesehen werden und eine Strafverfolgung nach sich ziehen. Bei Kontrollen ist eine Durchsuchung nach solchen Kommentaren möglich. Zuletzt kam es im öffentlichen Raum insbesondere in Kairo verstärkt zu Personenkontrollen auch durch Polizisten in Zivil und zur Durchsuchung u.a. von Mobiltelefonen. Weigerungen, den (zivil-)polizeilichen Aufforderungen Folge zu leisten, können zumindest kurzfristige Freiheitsbeschränkungen bzw. Festnahmen zur Folge haben.
 
 * Seien Sie wachsam und informieren Sie sich über die lokalen Medien oder Ihren Reiseveranstalter.
 * Beachten Sie Hinweise der Hotels und Reiseveranstalter.
@@ -117,13 +115,13 @@ Das ägyptische Schienennetz ist teilweise veraltet. Es kommt immer wieder zu sc
 
 Die Sicherheitsstandards auf den Fährschiffen, wie sie etwa zur Passage über das Rote Meer eingesetzt werden, entsprechen nicht immer internationalen Standards.
 
-Unfälle mit Touristen- und Tauchbooten bzw. –schiffen sind in letzter Zeit vermehrt vorgekommen.
+Unfälle mit Touristen- und Tauchbooten bzw. -schiffen sind in letzter Zeit vermehrt vorgekommen.
 
 Es gibt vielerorts lokal anmietbare Sammelbusse und Sondertaxis. Die Fahrweise von Fahrzeuglenkern ist oft äußerst riskant, das Unfallrisiko sehr hoch.
 
-Unfälle aufgrund des schlechten Zustands von Fahrzeugen, Geräten und Ausstattungen wie z.B. Heißluftballons, Tauchausrüstungen, Quads passieren verhältnismäßig oft.
+Unfälle, aufgrund des schlechten Zustands von Fahrzeugen, Geräten und Ausstattungen wie z.B. Heißluftballons, Tauchausrüstungen und Quads, passieren verhältnismäßig oft.
 
-Die meisten touristisch interessanten Straßenverbindungen sind geteert, für Wüstenpisten ist ein Geländefahrzeug mit Allradantrieb notwendig. **Für den Bereich des Sinai (Zufahrt zum Suez-Tunnel) existieren derzeit Zufahrtsbeschränkungen für Geländefahrzeuge.**
+Die meisten touristisch interessanten Straßenverbindungen sind geteert, für Wüstenpisten ist ein Geländefahrzeug mit Allradantrieb (und entsprechendem Zubehör wie Sandblechen, Sandschaufel, Extrabenzin-/Dieselkanister etc.) notwendig. **Für den Bereich des Sinai (Zufahrt zum Suez-Tunnel) existieren derzeit Zufahrtsbeschränkungen für Geländefahrzeuge.**
 
 Für die Einreise mit eigenem Fahrzeug ist ein „Carnet de Passage“ und eine lokale Personenhaftpflichtversicherung erforderlich. Zudem wird häufig eine Kaution verlangt, die nicht immer vollständig zurückerstattet wird. Da ägyptische Fahrzeuge oft nur minimale Versicherungen für Personenschäden haben, sollte unbedingt eine zusätzliche Kaskoversicherung abgeschlossen werden.  
 Übliche verkehrsrechtliche Grundsätze und Vorschriften finden wenig Beachtung. Technischer Zustand und insbesondere die Beleuchtung von Fahrzeugen sind oft mangelhaft.  
@@ -173,8 +171,7 @@ Landeswährung ist das ägyptische Pfund (EGP). Die Bezahlung mit Kreditkarten i
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -231,7 +228,7 @@ Möchte man hingegen weitere Teile Ägyptens bereisen, ist das Visum zuvor in De
 
 ### Minderjährige
 
-Nach ägyptischem Recht dürfen minderjährige Kinder (unter 21 Jahren), die (auch) die ägyptische Staatsangehörigkeit besitzen, ohne Zustimmung des (ägyptischen) Vaters nicht ausreisen. Konsularische Hilfe durch die deutsche Botschaft in Kairo ist für diesen Personenkreis in aller Regel nicht möglich.
+Nach ägyptischem Recht dürfen minderjährige Kinder (unter 21 Jahren), die (auch) die ägyptische Staatsangehörigkeit besitzen, ohne Zustimmung des (ägyptischen) Vaters nicht ausreisen. Konsularische Hilfe durch die deutsche Botschaft in Kairo ist für diesen Personenkreis in der Regel nicht möglich.
 
 ### Einfuhrbestimmungen
 
