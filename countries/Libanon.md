@@ -4,13 +4,15 @@
 
 **Vor Reisen nach Libanon wird gewarnt.**
 
-**Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**  
+**Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**
 
 ### *Sicherheitslage*
 
-Die Sicherheitslage in der Region ist hoch volatil. Im Grenzgebiet zwischen Libanon und Israel dauern intensive militärische Auseinandersetzungen an, auch andere Regionen Libanons waren bereits betroffen.
+Die Sicherheitslage in der Region ist hoch volatil.
 
-**Am 17.und 18. September 2024 kam es zu einer Vielzahl kleinerer Explosionen von Kommunikationsgeräten in verschiedenen Landesteilen Libanons, einschließlich des Stadtgebietes Beirut, mit einer hohen Anzahl an Verletzten und einigen Toten. Weitere sicherheitsrelevante Vorfälle sind nicht auszuschließen, diese können auch für Unbeteiligte eine erhebliche Gefahr darstellen. Auch darüber hinaus mehren sich Anzeichen für eine mögliche weitere Verschärfung der Lage und Ausweitung des Konflikts. Dies gilt vor allem für** **die südlichen Teile Libanons bis einschließlich der südlichen Stadtgebiete Beiruts, den Raum Saida und die Bekaa-Ebene einschließlich des Bezirks Baalbek-Hermel. Eine weitere Eskalation könnte wegen der damit verbundenen Gefährdung des zivilen Luftverkehrs auch zur Schließung des Flughafens Beirut (Rafiq-Hariri-Airport) führen. Die Ausreise aus Libanon auf dem Luftweg wäre dann für unbestimmbare Zeit nicht mehr möglich.**
+**Die israelischen Streitkräfte greifen seit 23. September verstärkt Ziele im Libanon an, was zu massenhaften Fluchtbewegungen, bisher vor allem aus dem Süden und der Bekaa, führt. Der Großraum Beirut, das Gouvernement Berg-Libanon und zunehmend der Norden sind durch die steigende Zahl an Binnenflüchtlingen erheblich belastet, was zu Versorgungsengpässen bei Wohnraum und Gütern des täglichen Bedarfs und zu Spannungen innerhalb der Bevölkerung führen kann.** **Eine weitere Eskalation kann nicht ausgeschlossen werden. Der zivile Flugverkehr ist stark eingeschränkt. Nur noch wenige Fluglinien fliegen den Flughafen Beirut (Rafiq-Hariri-Airport) an.** 
+
+**Bei einer weiteren Eskalation ist eine vollständige Schließung des Flughafens nicht ausgeschlossen. Die Ausreise aus Libanon auf dem Luftweg wäre dann für unbestimmbare Zeit nicht mehr möglich.**
 
 Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen und Protestkundgebungen gerechnet werden. Im Umfeld solcher Aktionen kann es zu Ausschreitungen kommen.
 
@@ -26,7 +28,7 @@ Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen 
 
 **Vor Reise nach Libanon wird gewarnt.**
 
-**Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**  
+**Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**
 
 ### Terrorismus
 
