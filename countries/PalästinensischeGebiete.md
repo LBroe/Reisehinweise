@@ -16,7 +16,7 @@ Dies ist ein gemeinsamer Reisehinweis für Israel und die Palästinensischen Geb
 
 Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert. 
 
-Die libanesische Hisbollah-Miliz hat am 21. und 22. September zahlreiche Raketen auf den Norden Israels bis hin zur Linie Haifa – Nazareth abgeschossen. Von weiteren Auseinandersetzungen zwischen der Hisbollah-Miliz und Israel muss ausgegangen werden.
+Nachdem die israelische Armee am 27. September 2024 das Hauptquartier der Hisbollah in Beirut bombardiert hat, bei dem der Anführer der Hisbollah offenbar getötet wurde, ist damit zu rechnen, dass es zu verstärkten Raketenangriffen auf Israel kommt. Bereits in der Nacht zum 28. September 2024 ist es zum Beschuss auf Ziele unterhalb der Linie Haifa-Nazareth gekommen, so dass nicht ausgeschlossen werden kann, dass der Angriff auch auf das gesamte Gebiet Israels ausgeweitet wird.
 
 Im Westjordanland kommt es regelmäßig zu Militäreinsätzen mit in der Folge massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Angriffe israelischer Siedler auf ausländische Besucher und Aktivisten haben, insbesondere in der Nähe von Nablus und Hebron, deutlich zugenommen.
 
