@@ -1,5 +1,18 @@
 # Nepal: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Extreme Niederschläge haben zu zahlreichen Erdrutschen und Überschwemmungen geführt. Besonders betroffen sind das Kathmandu-Tal (Provinz Bagmati) und die Provinzen Koshi und Madesh. Alle Straßen von und nach Kathmandu und weitere Straßen sind derzeit unpassierbar. Fahrten in die von Touristen häufig besuchte Stadt Pokhara sind aktuell nicht möglich. Die Gefahr weiterer Erdrutsche dauert an.
+
+Auch Inlandsflüge sind teilweise ausgesetzt, darunter alle Flüge von und nach Lukla und Ramechhap (Flugroute Mount Everest). In allen betroffenen Provinzen muss mit Einschränkungen bei der Stromversorgung, der Telekommunikation und Infrastruktur gerechnet werden.
+
+* Seien Sie besonders achtsam und umsichtig.
+* Vermeiden Sie Überlandfahrten in die/in den betroffenen Provinzen.
+* Bleiben Sie Überschwemmungsgebieten fern.
+* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
+* Halten Sie sich unbedingt an die Empfehlungen und Anweisungen der nepalesischen (Katastrophenschutz-)Behörden.
+* Verfolgen Sie die aktuelle Wettervorhersage.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -180,7 +193,7 @@ Aufgrund neuer Richtlinien werden die Überziehung erteilter Visa und vor allem 
 
 #### *Arbeitsaufnahme/Freiwilligendienst*
 
-Zur Ausübung einer Erwerbstätigkeit wie von Freiwilligendiensten muss eine Arbeitserlaubnis beantragt werden. Die Ausübung dieser Tätigkeiten mit einem Touristenvisum ist illegal und wird bestraft. Dies gilt auch für medizinische Hilfsaktionen in Nepal (sog. „Health Camps“), die zusätzlich immer die Zustimmung des „Nepal Medical Councils“ benötigen.
+Zur Ausübung einer Erwerbstätigkeit und von Freiwilligendiensten muss eine Arbeitserlaubnis beantragt werden. Die Ausübung dieser Tätigkeiten mit einem Touristenvisum ist illegal und wird bestraft. Dies gilt auch für medizinische Hilfsaktionen in Nepal (sog. „Health Camps“), die zusätzlich immer die Zustimmung des „Nepal Medical Councils“ benötigen.
 
 ### Aus- und Weiterreise nach Indien und in die VR China
 
@@ -188,7 +201,7 @@ Ausländische Staatangehörige können derzeit nicht von Nepal aus auf dem Landw
 
 Die Weiterreise nach Indien auf dem Landweg ist für ausländische Staatangehörige nur an folgenden Grenzübergängen möglich: Sonauli/Belahiya (Bhairawa) und Raxaul/Birgunj. Kurzfristige Schließungen einzelner Grenzübergänge sind ohne Vorankündigung möglich.
 
-Über Reisebüros oder andere Vermittler in Nepal beantragte Visa zur Weiterreise nach Indien oder in die VR China erwiesen sich in der Vergangenheit mehrfach als gefälscht. So kam es schon bei der Ausreise aus Nepal zu Komplikationen.  
+Über Reisebüros oder andere Vermittler in Nepal beantragte Visa zur Weiterreise nach Indien oder in die VR China erwiesen sich in der Vergangenheit mehrfach als gefälscht, was schon bei der Ausreise aus Nepal zu Komplikationen führte.  
 Probleme bei Reisedokumenten, die Visa anderer Staaten enthalten, gibt es nicht.
 
 * Beantragen Sie erforderliche Visa für Weiterreisen direkt bei den entsprechenden Vertretungen der Länder und nicht über Reisebüros oder andere Vermittler, außer bei Gruppenreisen nach Tibet.
@@ -211,7 +224,7 @@ Bereits gebrauchte Gegenstände, Nahrungsmittel und Medikamente für den persön
 
 In Nepal hergestellte Produkte dürfen vorbehaltlich eines Ausfuhrverbots, siehe [Department of Customs](https://www.customs.gov.np/en/), bis zu dem bei Einreise von Reisenden deklarierten Betrag in ausländischer Währung, der bei einer Bank oder bei einer staatlich autorisierten Wechselstube getauscht wurde, genehmigungsfrei ausgeführt werden.
 
-Bei der Ausfuhr von Gütern ist die Negativliste des nepalesischen Zolls zu geschützten Kulturgütern sowie zu Produkten geschützter Tier- und Pflanzenarten des [Department of Customs](https://www.customs.gov.np/en/faq.html) zu beachten.
+Bei der Ausfuhr von Gütern ist die Negativliste des nepalesischen Zolls zu geschützten Kulturgütern sowie zu Produkten geschützter Tier- und Pflanzenarten des [Department of Customs](https://www.customs.gov.np/faq) zu beachten.
 
 Für die Einfuhr und Nutzung von Drohnen (UAV – Unmanned Aerial Vehicle) ist die vorherige Einholung zahlreicher Genehmigungen erforderlich. Zumindest die Tourismusbehörde und das Innenministerium und ggf. die Verwaltung des betroffenen Naturschutzgebietes müssen die Genehmigung erteilt haben; bei Drohnen über 2 kg Gewicht auch die Zivile Luftfahrtbehörde (CAAN). Bei Forschungsvorhaben gelten zusätzliche Regeln.
 
@@ -332,9 +345,7 @@ Die Versorgung mit zuverlässigen Medikamenten und eine ununterbrochene Kühlket
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
