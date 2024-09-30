@@ -8,11 +8,11 @@
 
 ### Sicherheitslage in Iran
 
-Die Lage in der gesamten Region ist volatil und sehr angespannt.
+Die Lage in der gesamten Region bleibt volatil und sehr angespannt.
 
-Am 31. Juli 2024 wurde der Politbüro-Chef der Hamas, Ismail Haniyeh, in Teheran getötet. Die Islamische Republik Iran hat Vergeltungsmaßnahmen gegen Israel angekündigt. In der Folge kann es auch zu Auswirkungen auf Flugverbindungen von und nach Iran kommen. Längere Schließungen des iranischen Luftraums, der Flughäfen sowie der Landgrenzen können nicht ausgeschlossen werden.
+Nach einem israelischen Luftangriff im Südlibanon wurde am 28. September 2024 der Tod des Hisbollah-Führers Hassan Nasrallah bestätigt. In der Folge kann es auch zu Auswirkungen auf Flugverbindungen von und nach Iran kommen. Längere Schließungen des iranischen Luftraums, der Flughäfen sowie der Landgrenzen können nicht ausgeschlossen werden.
 
-Die Lufthansa-Gruppe hat ihre Flüge von und nach Teheran zunächst bis auf weiteres eingestellt. Andere Fluglinien operieren teilweise nur noch tagsüber und bieten nur noch vereinzelt Tickets an.
+Die Lufthansa-Gruppe hat ihre Flüge von und nach Teheran bis auf weiteres eingestellt.
 
 Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentrums Hamburg e.V. sowie dessen bundesweiter Teilorganisationen bekannt gegeben. Eine Verschärfung der Sicherheitslage für deutsche Staatsangehörige und Doppelstaater ist in der Folge insbesondere hinsichtlich willkürlicher Festnahmen nicht ausgeschlossen.
 
