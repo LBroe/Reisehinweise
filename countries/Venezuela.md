@@ -2,6 +2,16 @@
 
 ## Aktuelles
 
+**Von nicht notwendigen Reisen nach Venezuela wird derzeit dringend abgeraten.**
+
+**Vor Reisen in die unmittelbaren Grenzgebiete zu Kolumbien und Brasilien wird gewarnt.** 
+
+### *Festnahmen*
+
+Bei der Einreise nach Venezuela müssen Ausländer mit verschärften, langwierigen Personenkontrollen und Befragungen rechnen.  Bestätigt sind Verhaftungen von EU-Staatsangehörigen, denen vorgeworfen wird, den Terrorismus zu unterstützen. Eine konsularische Betreuung durch die zuständigen diplomatischen Vertretungen ist in diesen Fällen bisher nicht möglich gewesen.
+
+Das Risiko einer Festnahme ist auch für deutsche Staatsangehörige nicht auszuschließen. Eine konsularische Betreuung durch die deutsche Botschaft in Caracas könnte in einem solchen Fall stark eingeschränkt sein.
+
 ### *Wahlen*
 
 Nach der Präsidentschaftswahl in Venezuela im Juli 2024 kam es im ganzen Land sowie in Caracas zu Demonstrationen und zum Teil heftigen Protesten. Auch der internationale Flughafen in Maiquetía sowie die Verbindungstraße von Caracas zum Flughafen waren in der Folge vom Demonstrationsgeschehen betroffen. Es finden weiterhin regelmäßig Demonstrationen statt.
@@ -30,8 +40,9 @@ Soweit Wasser über öffentliche Versorgungsnetze verfügbar ist, wird dieses ni
 
 ## Sicherheit - Teilreisewarnung
 
-**Vor Reisen in die unmittelbaren Grenzgebiete zu Kolumbien und Brasilien wird gewarnt.  
-Von Reisen in die übrigen Landesteile wird dringend abgeraten.**
+**Von nicht notwendigen Reisen nach Venezuela wird derzeit dringend abgeraten.**
+
+**Vor Reisen in die unmittelbaren Grenzgebiete zu Kolumbien und Brasilien wird gewarnt.**
 
 ### Terrorismus
 

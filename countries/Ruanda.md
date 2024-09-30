@@ -4,11 +4,9 @@
 
 #### *Gesundheit*
 
-Am 27.9.2024 berichtete das Gesundheitsministerium von Ruanda über mehrere bestätigte Marburg-Virus-Infektionen. Die genaue Anzahl ist bis jetzt nicht bekannt. Die erkrankten Personen werden in verschiedenen Kliniken in der Hauptstadt Kigali behandelt, umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden ergriffen. Die Ausbruchsursache ist bis jetzt nicht geklärt.
+Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über mehrere bestätigte Marburg-Virus-Infektionen im Land. Momentan werden ein Anstieg der Fallzahlen sowie Todesfälle in verschiedenen Regionen des Landes, einschließlich der Hauptstadt Kigali, gemeldet. Umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden mit Unterstützung der WHO intensiviert. Die Ausbruchsursache ist weiterhin nicht geklärt.
 
-Das Marburg-Virus kann durch Flughunde, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen.
-
-#### 
+Das Marburg-Virus kann durch Fledermäuse, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen.
 
 #### *Sicherheitslage im Grenzgebiet*
 
@@ -168,13 +166,13 @@ Für Reisen mit bestimmten Heimtieren (z.B. Hunde, Katzen) sind eine Herkunftsbe
 
 ### Aktuelles
 
-Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
+Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu [Mpox.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 In Ruanda wurden bisher vereinzelte Fälle von Mpox-Infektionen mit Klade Ib bestätigt.
 
 Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
 
-Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 ### Impfschutz
 
