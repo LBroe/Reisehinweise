@@ -16,9 +16,9 @@ Ausgangssperren können je nach Lage weiterhin ad hoc verhängt werden. Auch Blo
 
 ### Innenpolitische Lage
 
-Am 21. September 2024 finden Präsidentschaftswahlen statt. Auch wenn aktuell keine Hinweise auf Protestveranstaltungen vorliegen, empfiehlt sich besondere Aufmerksamkeit im Umfeld der Wahlen.
+Für den 14. November 2024 wurde die Neuwahl des aufgelösten Parlaments angekündigt. Im Umfeld von Wahlkampfveranstaltungen empfiehlt sich besondere Aufmerksamkeit.
 
-Spontane lokale Proteste können im ganzen Land auftreten, sind allerdings aufgrund der deutlich verbesserten Versorgungslage, siehe*Reiseinfos – Versorgungslage*, zurückgegangen. Gewaltsame Ausschreitungen während dieser Proteste können nicht ausgeschlossen werden.
+Spontane lokale Proteste können im ganzen Land auftreten, sind allerdings aufgrund der deutlich verbesserten Versorgungslage, siehe *Reiseinfos – Versorgungslage*, zurückgegangen. Gewaltsame Ausschreitungen während dieser Proteste können nicht ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen, politische Kundgebungen und größere Menschenansammlungen.
@@ -138,12 +138,23 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate g�
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das zurzeit ausschließlich bei Einreise („on arrival“) am Flughafen oder vor Reisebeginn bei der zuständigen Botschaft in Berlin beantragt werden kann.
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das entweder vor der Einreise [online über das Electronic Travel Authorization (ETA)-Portal der Einwanderungsbehörde](https://www.eta.gov.lk) oder bei Einreise („on arrival“) beantragt werden kann.
 
-* Bitte achten Sie darauf, bei der Visumsbeantragung am Flughafen unbedingt den richtigen Reisezweck anzugeben. Reisende, die ihr Visum für einen nicht genannten Reisezweck missbrauchen (z. B. geschäftliche Aktivitäten oder Teilnahme an Konferenzen mit einem Touristenvisum) riskieren verhaftet und abgeschoben zu werden.
-* Beachten Sie zudem, dass sich die sri-lankischen Einreisebestimmungen teilweise sehr spontan und ohne Informationen auf den Regierungswebseiten ändern können. Um möglichst aktuelle Informationen zu erhalten, kontaktieren Sie die zuständige sri-lankische Auslandsvertretung direkt.
+Touristenvisa werden entweder für eine Dauer von 30 Tagen und für zwei Einreisen oder für 180 Tage und eine Einreise ausgestellt. Verlängerungen von Touristenvisa sind möglich, aber äußerst zeitaufwändig. Eine frühzeitige Aufnahme mit der Einwanderungsbehörde „Department of Immigration and Emigration, 45 Ananda Kumaraswamy Mawatha, Colombo 8“ [per E-Mail](mailto:adcvisa@immigration.gov.lk) adcvisa@immigration.gov.lk wird dringend empfohlen.
 
-Derzeit werden Touristenvisa entweder für eine Dauer von 30 Tagen und für zwei Einreisen oder für 180 Tage und eine Einreise ausgestellt. Verlängerungen von Touristenvisa sind möglich, aber sehr zeitaufwändig. Eine [frühzeitige Aufnahme per E-Mail](mailto:adcvisa@immigration.gov.lk) mit dem Department of Immigration and Emigration, 45 Ananda Kumaraswamy Mawatha, Colombo 8, wird dringend empfohlen.  
+#### *Visum vor der Einreise*
+
+Das erforderliche Visum sollte vor Einreise online im [Sri Lanka Electronic Travel Authorization System (ETA)](http://www.eta.gov.lk/) beantragt werden. Bei der Beantragung im Online-Verfahren achten Sie bitte unbedingt darauf,
+
+* dass Sie ausschließlich die offizielle Webseite [ETA](http://www.eta.gov.lk/) nutzen, um gegebenenfalls Vermittlungsgebühren zu vermeiden,
+* dass alle Angaben korrekt sind. Die sri-lankischen Behörden bestehen auch bei kleinen Fehlern (z. B. Zahlendreher oder versehentliche Eintragung des Buchstaben „O“ anstatt der Zahl „0“ in der Passnummer) auf der Ausstellung eines neuen Visums am Flughafen.
+* Bitte achten Sie zudem darauf, bei der Visumbeantragung unbedingt den richtigen Reisezweck anzugeben. Reisende, die ihr Visum für einen nicht genannten Reisezweck missbrauchen (z. B. geschäftliche Aktivitäten oder Teilnahme an Konferenzen mit einem Touristenvisum) riskieren verhaftet und deportiert zu werden.
+
+#### *Visum bei Einreise („on arrival“)*
+
+Das Visum kann auch am Flughafen als Visum bei Einreise beantragt werden. Um Wartezeiten zu vermeiden, wird empfohlen, das Einreisevisum vorab im [Sri Lanka Electronic Travel Authorization System (ETA)](http://www.eta.gov.lk/) zu beantragen.
+
+* Bitte beachten Sie jedoch, dass es für das Visum bei Einreise nur eingeschränkte Kapazitäten am Flughafen zur Verfügung stehen und es zu längeren Wartezeiten kommen kann. Bitte beantragen Sie daher das Einreisevisum vorab im [Sri Lanka Electronic Travel Authorization System (ETA)](http://www.eta.gov.lk/).
 
 #### *Längerfristige Aufenthalte*
 
