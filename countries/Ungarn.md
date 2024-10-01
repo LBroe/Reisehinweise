@@ -1,13 +1,5 @@
 # Ungarn: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Der durch das Hochwasser eingeschränkte Zugverkehr zwischen Ungarn und Österreich ist weitgehend wiederhergestellt. Südlich von Budapest ist weiterhin mit Überschwemmungen und Einschränkungen zu rechnen. Auf mehreren Flussabschnitten gilt die höchste Warnstufe.
-
-* Überprüfen Sie vor einer geplanten Fahrt (Auto/Zug/Bus) eventuelle Streckensperrungen, auch in den Nachbarländern.
-* Informieren Sie sich über die aktuelle Wetterlage in den internationalen und ungarischen Medien.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der ungarischen Sicherheitskräfte.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -42,8 +34,6 @@ Bei Zufallsbekanntschaften und Einladungen in Bars oder Clubs, zum Teil durch Em
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Zufallsbekanntschaften und Einladungen skeptisch, erkundigen Sie sich genau über Preise. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich im Bedarfsfall an die örtliche Polizei.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 Es herrscht Kontinentalklima.
 
