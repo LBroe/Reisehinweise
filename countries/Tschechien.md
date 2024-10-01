@@ -1,12 +1,5 @@
 # Tschechische Republik: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-In Tschechien sind viele Regionen von extremem Hochwasser betroffen, insbesondere Nordmähren (Ostrava, Opava/Troppau, Jeseníky/Altvatergebirge). Hier finden Aufräumarbeiten statt und es kann nach wie vor zu Einschränkungen im Straßen- und Zugverkehr kommen.  
-
-* Informieren Sie sich in den lokalen Nachrichten über die aktuelle Lage.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -38,8 +31,6 @@ In Notfällen kann die tschechische Polizei über die Notrufnummer 158 oder 112 
 * Teilen Sie keine Daten von sich mit und überweisen Sie kein Geld vorab an unbekannte Personen, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 Es herrscht gemäßigtes Kontinentalklima.
 
