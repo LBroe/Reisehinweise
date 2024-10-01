@@ -4,9 +4,7 @@
 
 ### *Terrorismus*
 
-In Stockholm kam es in jüngerer Zeit mehrfach zu Fällen von Koranschändungen. Die Gefahr terroristischer Anschläge in Schweden hat sich nach Einschätzung des schwedischen Sicherheitsdienstes [SÄPO](https://sakerhetspolisen.se/ovriga-sidor/other-languages/english-engelska/press-room/news/news/2023-07-26-security-situation-worsens-as-the-image-of-sweden-changes.html) und des schwedischen [Nationalen Sicherheitsberaters](https://www.government.se/statements/2023/08/statement-from-the-prime-ministers-office/?mtm_campaign=Statement&mtm_source=Statement&mtm_medium=email) durch diese Ereignisse erhöht; die festgelegte Warnstufe wurde am 17. August 2023 auf vier (von fünf) angehoben, siehe auch *Sicherheit*.
-
-Zudem kam es zu mutmaßlichen Anschlagsversuchen auf die im Innenstadtbereich liegende israelische Botschaft, die durch schwedische Sicherheitsbehörden verhindert werden konnten.
+In Stockholm kam es in jüngerer Zeit mehrfach zu Fällen von Koranschändungen. Die Gefahr terroristischer Anschläge in Schweden hat sich nach Einschätzung des schwedischen Sicherheitsdienstes [SÄPO](https://sakerhetspolisen.se/ovriga-sidor/other-languages/english-engelska/press-room/news/news/2023-07-26-security-situation-worsens-as-the-image-of-sweden-changes.html) und des schwedischen [Nationalen Sicherheitsberaters](https://www.government.se/statements/2023/08/statement-from-the-prime-ministers-office/?mtm_campaign=Statement&mtm_source=Statement&mtm_medium=email) durch diese Ereignisse erhöht; die festgelegte Warnstufe wurde im August 2023 auf vier (von fünf) angehoben, siehe auch *Sicherheit*. 
 
 * Seien Sie insbesondere an belebten Orten und bei ungewöhnlichen, nicht alltäglichen Ereignissen aufmerksam.
 * Beachten Sie die Hinweise der [schwedischen Zivilschutzbehörde.](https://www.krisinformation.se/en/hazards-and-risks/terrorism)
@@ -41,7 +39,7 @@ Es herrscht kühles, im Landesinneren trockenes Kontinentalklima, das durch den 
 
 Im Sommer kann es in Schweden insbesondere nach Trockenperioden zu Busch- und Waldbränden kommen*.*
 
-Im Winter sind Temperaturstürze und extreme Kälte im Norden sowie Schneestürme und Eisregen an der Tageordnung.
+Im Winter sind Temperaturstürze und extreme Kälte im Norden sowie Schneestürme und Eisregen möglich.
 
 Ausreichende Sicherheitsvorkehrungen (Kartenmaterial, Schwimmwesten, Mobiltelefon, Leinen, Trinkwasser, Proviant, Erste-Hilfe-Kit etc.) sollten bei Ausflügen auf den zahlreichen Seen und an der Küste, auch aufgrund der niedrigen Wassertemperaturen, unbedingt getroffen werden.
 
@@ -63,7 +61,7 @@ Schweden hat vorübergehend stichprobenartige Kontrollen an allen Grenzübergang
 Es häufen sich Fälle, insbesondere auf den Rastplätzen vor der Öresundbrücke in Dänemark, bei denen Anhalter um die entgeltliche oder unentgeltliche Mitnahme nach Schweden bitten. Bei Grenzkontrollen auf der schwedischen Seite der Brücke müssen deutsche Autofahrer mit einer Festnahme und Anklage wegen Menschenschmuggels rechnen, wenn sich herausstellt, dass die mitgenommenen Personen über kein gültiges Reisedokument bzw. keinen gültigen Schengen-Aufenthaltstitel verfügen. Gleiches gilt im Fall von Drogenschmuggel.
 
 * Führen Sie grundsätzlich ein gültiges Reisedokument mit sich.
-* Nehmen Sie keine unbekannten Personen oder fremde Waren über die dänisch-schwedische Grenze mit.
+* Nehmen Sie keine unbekannten Personen oder fremde Waren über die Grenzen mit.
 
 ### Infrastruktur/Verkehr
 
@@ -101,7 +99,7 @@ Anders als in Deutschland sind nach dem schwedischen Waffengesetz das Führen, 
 
 Das Führen von Messern ist auf öffentlichen Plätzen verboten. Taschenmesser werden jedoch in der Regel geduldet.
 
-Prostitution ist in Schweden strafbar. Freiern drohen Geldbußen oder Haftstrafen von bis zu einem Jahr.
+Prostitution ist in Schweden für den Kunden strafbar. Freiern drohen Geldbußen oder Haftstrafen von bis zu einem Jahr.
 
 Drogenbesitz und -konsum – auch in geringen Mengen zum eigenen Verbrauch – sind in Schweden verboten (Freiheitsstrafe bis zu drei Jahren, in schweren Fällen sind auch bedeutend längere Strafen möglich).
 
@@ -116,7 +114,7 @@ Das Schutzalter für sexuelle Handlungen liegt in Schweden bei mindestens 15 Jah
 
 ### Geld/Kreditkarten
 
-Landeswährung ist die Schwedische Krone (SEK). In Schweden werden auch Kleinstbeträge mit Debit- (Girocard) oder Kreditkarte gezahlt. Viele Geschäfte, insbesondere kleinere, nehmen mittlerweile gar kein Bargeld mehr an. Auch an Parkautomaten und im öffentlichen Nahverkehr wird regelmäßig keine Barzahlung akzeptiert. Die Mitnahme einer international gültigen Kredit- oder Debitkarte wird empfohlen.
+Landeswährung ist die Schwedische Krone (SEK). In Schweden werden auch Kleinstbeträge mit Debit- (Girocard) oder Kreditkarte gezahlt. Viele, insbesondere kleinere Geschäfte, nehmen gar kein Bargeld an. Auch an Parkautomaten und im öffentlichen Nahverkehr wird keine Barzahlung akzeptiert. Die Mitnahme einer international gültigen Kredit- oder Debitkarte wird empfohlen.
 
 ## Einreise und Zoll
 
@@ -157,11 +155,9 @@ Seit 2018 besteht in Schweden Wehrpflicht für alle schwedischen Staatsangehöri
 
 ### Einfuhrbestimmungen
 
-Die Ein- und Ausfuhr von Waren unterliegen den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz, dass Warenkontrollen nicht stattfinden, schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus.
+Die Ein- und Ausfuhr von Waren unterliegen den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz, dass Warenkontrollen nicht stattfinden, schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus.  
 
-Vorschriften für die Einfuhr von Alkohol, Tabak und Lebensmitteln aus Deutschland nach Schweden
-
-Aktuelle Informationen zu Zollbestimmungen bietet der schwedische Zoll [Tullverket](https://www.tullverket.se/4.a62602917de14e432714e9.html).
+Aktuelle Informationen zur Einfuhr von Alkohol, Tabak und Lebensmitteln aus Deutschland nach Schweden und weiteren Zollbestimmungen bietet der schwedische Zoll [Tullverket](https://www.tullverket.se/4.a62602917de14e432714e9.html).
 
 Personen, die jünger als 20 Jahre alt sind, dürfen generell keinen Alkohol, Personen, die jünger als 18 Jahre alt sind, generell keinen Tabak nach Schweden einführen. Für den Eigenbedarf können Personen, die 20 bzw. 18 Jahre oder älter sind, Alkohol und Tabak nach Schweden mitnehmen.
 
@@ -188,11 +184,11 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 ### Von Zecken übertragbare Krankheiten
 
 FSME kommt besonders an der Ostküste des Landes im Großraum Stockholm vor. Besonders exponierte Personen sollten sich impfen lassen (Risiko ca.1 von 100 Zecken).  
-Für Borreliose gilt ein Übertragungsrisiko durch 1/3 aller Zecken. Das Erkrankungsrisiko ist aber gering. Eine Impfung ist nicht möglich. Schützende Kleidung und die direkte Entfernung der Zecke werden empfohlen.
+Für Borreliose gilt ein Übertragungsrisiko durch ein Drittel aller Zecken. Das Erkrankungsrisiko ist aber gering. Eine Impfung ist nicht möglich. Schützende Kleidung und die direkte Entfernung der Zecke werden empfohlen.
 
 ### Fuchsbandwurm
 
-Vereinzelt sind Fälle von bisher in Schweden nicht vorgekommenem Fuchsbandwurm (hier: dvärgbandmask) aufgetreten, die schwedische Lebensmittelbehörde (livsmedelsverket) rät jedoch nicht allgemein vom Verzehr von Blaubeeren/Preiselbeeren/Pilzen ab.
+Vereinzelt sind Fälle des Fuchsbandwurms (hier: dvärgbandmask) aufgetreten, die schwedische Lebensmittelbehörde (livsmedelsverket) rät jedoch nicht allgemein vom Verzehr von Blaubeeren/Preiselbeeren/Pilzen ab.
 
 ### Medizinische Versorgung
 
