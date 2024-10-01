@@ -15,7 +15,7 @@ Fahrzeug-Diebstähle und Einbrüche kommen gelegentlich vor, wobei höherwertige
 * Stellen Sie Wohnmobile und Campingwagen nur auf bewachten Campingplätzen ab und lassen Sie in geparkten Fahrzeugen Gegenstände nicht sichtbar liegen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf.
 * Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -45,7 +45,7 @@ Das Verkehrsaufkommen (überwiegend LKW im Transitverkehr) auf den Fernstraßen 
 
 Für Fahrzeuge ist eine [Straßenbenutzungsgebühr](https://rumaenien.diplo.de/ro-de/service/-/2595778) zu entrichten: Die [Rovinieta](http://www.roviniete.ro/de) kann online, an Tankstellen oder Grenzübergängen erworben werden. Die Fahrzeugdaten werden in einer Datenbank gespeichert, die von der Polizei bei Kontrollen abgefragt werden kann. Bei nicht vorhandener Rovinieta werden hohe Geldbußen verhängt.
 
-Gefahrenstellen wie Schlaglöcher oder Unterspülungen am Fahrbahnrand sind oftmals schlecht oder gar nicht ausgeschildert. Fahrten nach Einbruch der Dunkelheit sollten vermieden werden. Im Winter ist insbesondere auf Nebenstraßen mit zum Teil erheblichen Behinderungen durch Schnee und Schneeverwehungen zu rechnen
+Gefahrenstellen wie Schlaglöcher oder Unterspülungen am Fahrbahnrand sind oftmals schlecht oder gar nicht ausgeschildert. Fahrten nach Einbruch der Dunkelheit sollten vermieden werden. Im Winter ist insbesondere auf Nebenstraßen mit zum Teil erheblichen Behinderungen durch Schnee und Schneeverwehungen zu rechnen.
 
 In Rumänien gilt absolutes Alkoholverbot. Auf Autobahnen, Schnellstraßen („Drumurile expres“) und Europastraßen ist auch tagsüber mit Abblendlicht zu fahren.  
 Bei winterlichen Straßenverhältnissen gilt eine Winterreifenpflicht.  
@@ -164,7 +164,7 @@ Die in Rumänien vorkommende Erkrankung [FSME](https://www.auswaertiges-amt.de/d
 
 ### Erkrankungen im Zusammenhang mit mangelnder Hygiene
 
-Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene kann eine Viruserkrankungen der Leber ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) auftreten.
+Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene kann eine Viruserkrankung der Leber ([Virushepatitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")) auftreten.
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise").
 * Lassen Sie sich bzgl. einer Hepatitis A-Impfung beraten.
@@ -178,7 +178,7 @@ Durch sexuelle Kontakte können neben klassischen Geschlechtskrankheiten wie Syp
 
 ### Durch Tierkontakt übertragene Erkrankungen
 
-[Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") wird in Rumänien selten vorrangig über Füchse übertragen. Vereinzelte Fälle von Tollwut bei Hunden sind beschrieben. Der Nachweis von Tollwut beim Menschen erfolgte zuletzt 2012. Im Jahr 2022 wurden in der Region Suceava bei verschiedenen Tieren Tollwut nachgewiesen. Tollwutimpfstoffe und Immunglobulin sind nicht sicher im ganzen Land erhältlich.
+[Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") ist extrem selten in Rumänien und kann, abgesehen von Fledermäusen, sowohl durch Füchse als auch durch Hunde übertragen werden, wobei die infizierten Tiere selbst daran erkranken. Den letzten humanen Tollwutfall in Rumänien gab es 2022. Zudem wurde im Jahr 2022 in der Region Suceava bei verschiedenen Tieren Tollwut nachgewiesen. Es kann nicht davon ausgegangen werden, dass Tollwutimpfstoffe und Immunglobulin im ganzen Land verfügbar sind.
 
 * Meiden Sie grundsätzlich den Kontakt zu Tieren.
 * Sollten Sie von einem Fuchs oder Hund gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung.
