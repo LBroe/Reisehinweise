@@ -1,14 +1,5 @@
 # Österreich: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Die durch extreme Niederschläge verursachte Hochwasserlage entspannt sich zunehmend. 
-
-Aktuelle Informationen über Fahrpläne und Streckenunterbrechungen sind über [SCOTTY der österreichischen Bahn](https://fahrplan.oebb.at/webapp/#!P|HimSearch!H|199974) abrufbar.
-
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.
-* Beachten Sie die [regionalen Wetter- und Verkehrshinweise](https://www.oeamtc.at/) und verhalten Sie sich adäquat.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -29,22 +20,26 @@ Kleinkriminalität wie Taschendiebstähle und Handtaschenraub kommen insbesonder
 
 ## Natur und Klima
 
-Siehe *Aktuelles*
+Die durch extreme Niederschläge verursachte Hochwasserlage hat sich entspannt.
 
-Es herrscht gemäßigtes Alpin-Klima mit zunehmend kontinentalem Einfluss nach Osten.  
-Im Winter kommt es in den Bergen immer wieder zu Lawinenabgängen und auch Sperrungen von Gebieten wie insbesondere von Tälern.  
+Aktuelle Informationen über Fahrpläne und Streckenunterbrechungen sind über [SCOTTY der österreichischen Bahn](https://fahrplan.oebb.at/webapp/#!P|HimSearch!H|199974) abrufbar.
+
+Es herrscht gemäßigtes Alpin-Klima mit zunehmend kontinentalem Einfluss nach Osten.
+
+Im Winter kommt es in den Bergen immer wieder zu Lawinenabgängen und auch Sperrungen von Gebieten wie insbesondere von Tälern.
+
 Schnee- und Gletscherschmelze können auch im Frühjahr Lawinen und Erdrutsche verursachen. Ganzjährig kann es zu Berg- und Felsstürzen sowie Gerölllawinen kommen.
 
 * Informieren Sie sich vor Aktivitäten in den Bergen über die örtlichen Gegebenheiten, um das Risiko eines Wetterumschwungs einschätzen zu können, die eigenen Kräfte nicht zu überschätzen und mit adäquater Kleidung und Ausrüstung aufzubrechen. Informationen über die aktuelle Witterung, insbesondere über die Schnee- und Lawinensituation, bietet die [österreichische Zentralanstalt für Meteorologie und Geodynamik](https://www.zamg.ac.at/cms/de/aktuell).
 * Bleiben Sie stets auf ausgewiesene Pisten und Loipen.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der österreichischen Behörden.
 * Beachten Sie die [regionalen Wetter- und Verkehrshinweise](https://www.oeamtc.at/) und verhalten Sie sich adäquat.
 
 ## Reiseinfos
 
 ### Grenzkontrollen
 
-Vom 16. September 2024 bis einschließlich 15. März 2025 werden an der deutsch-österreichischen Grenze Binnengrenzkontrollen durchgeführt.
+Seit dem 16. September 2024 bis einschließlich zum 15. März 2025 werden an der deutsch-österreichischen Grenze Binnengrenzkontrollen durchgeführt. 
 
 Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
 
