@@ -24,7 +24,7 @@ Malta liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanis
 
 Es herrscht Mittelmeerklima. Insbesondere von August bis November kann es vereinzelt zu schweren Herbststürmen bis hin zu Medicanes kommen. Intensive Regenfälle können dann Überschwemmungen und Erdrutsche verursachen.
 
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 * Beachten Sie ggf. die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 
 ## Reiseinfos
@@ -127,14 +127,14 @@ Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) u
 
 ### Weitere Infektionskrankheiten
 
-Brucellose kann beim Verzehr von unpasteurisiertem Käse übertragen werden. Durch den Stich von Sandmücken besteht grundsätzlich die Gefahr an Leishmaniasis zu erkranken.
+Brucellose kann beim Verzehr von unpasteurisiertem Käse übertragen werden. Durch den Stich von Sandmücken besteht grundsätzlich die Gefahr an Leishmaniose zu erkranken.
 
 * Tragen Sie möglichst körperbedeckende helle Kleidung (lange Hosen, lange Hemden).
 * Tragen Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen auf.
 
 ### Sonstige Gesundheitsgefahren
 
-Starke Sonnen- und UV-Strahlung insbesondere im Sommer und dadurch ebenfalls erhöhte Ozonbelastung der Luft.
+Insbesondere im Sommer gibt es eine starke Sonnen- und UV-Strahlung und dadurch ebenfalls erhöhte Ozonbelastung der Luft.
 
 ### Luftverschmutzung
 
