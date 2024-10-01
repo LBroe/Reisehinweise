@@ -84,7 +84,9 @@ Menschen, die große Höhen nicht gewohnt sind, können auf Bergtouren schnell u
 
 ### Grenzgebiete
 
-In den Grenzgebieten zu Usbekistan, Tadschikistan, Kasachstan und China gelten besondere Regeln (z.B. Fotografierverbote), es besteht mancherorts zudem Minengefahr. Der Grenzverlauf ist an vielen Stellen nicht klar ausgeschildert. Bei Grenzübertritten abseits offizieller Grenzkontrollpunkte drohen längere Haftstrafen.  
+In den Grenzgebieten zu Usbekistan, Tadschikistan, Kasachstan und China gelten besondere Regeln (z.B. Fotografierverbote), es besteht mancherorts zudem Minengefahr. Der Grenzverlauf ist an vielen Stellen nicht klar ausgeschildert. Bei Grenzübertritten abseits offizieller Grenzkontrollpunkte drohen längere Haftstrafen.
+
+Für Besuche in den Grenzgebieten zu China und Tadschikistan ist vorab eine entsprechende Genehmigung einzuholen. Diese kann persönlich bei der Registrierungsbehörde OWIR oder den lokalen Grenzbehörden erfolgen. Auch Reisebüros unterstützen bei der Beantragung.  
 Grenzübergänge können kurzfristig geschlossen werden. Eine verlässliche Auskunft kann hierzu nicht gegeben werden. Nach bewaffneten Auseinandersetzungen an der kirgisisch-tadschikischen Grenze wurden die Landgrenzen nach Tadschikistan geschlossen. Laut Auskunft der kirgisischen Behörden ist die Überquerung der kirgisisch-tadschikischen Grenze jedoch für Touristen an ausgewählten Grenzübergängen möglich. Dazu ist eine Genehmigung der Grenzbehörden erforderlich, die über ortsansässige Reiseveranstalter eingeholt werden kann.
 
 * Bereisen Sie die Grenzregionen nicht ohne ortskundige Reiseführer, auch weil der genaue Grenzverlauf oftmals nicht erkennbar ist und illegale Übertritte streng geahndet werden.
@@ -119,9 +121,9 @@ Fahrzeugführer, die in einen Unfall mit Verletzten oder Todesfolge verwickelt w
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Som (KGS). Kredit- und Debitkarten (Girocard) werden in Hotels und Restaurants in Bischkek üblicherweise akzeptiert, im ländlichen Raum aber nur selten. Die Bargeldabhebung mit Karten funktioniert an Geldautomaten in der Regel problemlos. Geldautomaten sind in den Städten verbreitet; in entlegenen Gebieten werden Kreditkarten meist nicht akzeptiert. Insofern sollte ausreichend Bargeld mitgeführt werden.
+Landeswährung ist der Som (KGS). Kredit- und Debitkarten (Girocard) werden in Hotels und Restaurants in Bischkek üblicherweise akzeptiert, im ländlichen Raum aber nur seltener. Die Bargeldabhebung mit Kreditkarten funktioniert an Geldautomaten in der Regel problemlos. Geldautomaten sind nur in größeren Ortschaften verbreitet; in entlegenen Gebieten werden Kreditkarten meist nicht akzeptiert. Insofern sollte ausreichend Bargeld mitgeführt werden.
 
-Der Umtausch von Bargeld - EUR oder USD - ist in den größeren Städten möglich. Es sollten möglichst nur neuere Banknoten in einwandfreiem Zustand mitgebracht werden, da Noten mit kleineren Rissen oder verknitterte/verschmutzte Banknoten häufig nicht umgetauscht werden. Kleine Banknoten (5, 10 und 20 EUR) werden oft nur zu einem etwas schlechteren Kurs getauscht.
+Der Umtausch von Bargeld - EUR oder USD - ist in größeren Ortschaften möglich. Es sollten möglichst nur neuere Banknoten in einwandfreiem Zustand mitgebracht werden, da Noten mit kleineren Rissen oder verknitterte/verschmutzte Banknoten häufig nicht umgetauscht werden. Kleine Banknoten (5, 10 und 20 EUR) werden oft nur zu einem etwas schlechteren Kurs getauscht.
 
 ## Einreise und Zoll
 
@@ -129,7 +131,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -142,13 +144,13 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-Reisedokumente müssen drei Monate über die geplante Ausreise bzw. die Gültigkeit des Visums hinaus gültig sein und sollten unbeschädigt sein. Fehlende oder zerrissene Seiten im Pass führen zur Einreiseverweigerung.
+Reisedokumente müssen drei Monate über die geplante Ausreise bzw. die Gültigkeit des Visums hinaus gültig und sollten unbeschädigt sein. Fehlende oder beschädigte Seiten im Pass können zur Einreiseverweigerung führen. 
 
 Personen, gegen die in einem GUS-Staat eine Fahndungsausschreibung vorliegt, müssen mit Zurückweisung bei der Einreise nach Kirgisistan rechnen.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen unabhängig vom Reisezweck für Aufenthalt von bis zu 60 Tagen kein Visum.
+Deutsche Staatsangehörige benötigen unabhängig vom Reisezweck für einen Aufenthalt bis zu 60 Tagen innerhalb von 120 Tagen kein Visum. 
 
 Für Aufenthalte von mehr als 60 Tagen ist ein Visum erforderlich, das vorab bei der dafür zuständigen [kirgisischen Auslandsvertretung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenkirgisistan/206746?openAccordionId=item-206906-0-panel) oder online in Form eines [E-Visums](http://www.evisa.e-gov.kg/) eingeholt werden muss. 
 
@@ -173,7 +175,7 @@ Alleinreisende Minderjährige sollten eine Einverständniserklärung der Eltern 
 
 ### Einfuhrbestimmungen
 
-Die Ein- und Ausfuhr ausländischer Währungen unterliegt keinen Beschränkungen, müssen allerdings ab einem Wert von 10.000 USD pro Person deklariert werden. Gegenstände für den persönlichen Bedarf inklusive 1.000 Zigaretten oder 1.000 g Tabak sowie 1,5 l Alkohol und 2 l Wein können zollfrei eingeführt werden. Wertvolle Gegenstände sollten bei Einreise deklariert werden. Unverpackte Lebensmittel dürfen nicht eingeführt werden.
+Die Ein- und Ausfuhr ausländischer Währungen unterliegt keinen Beschränkungen, müssen allerdings ab einem Wert von 10.000 USD pro Person deklariert werden. Gegenstände für den persönlichen Bedarf inklusive 1.000 Zigaretten oder 1.000 g Tabak sowie 1,5 l Alkohol und 2 l Wein können zollfrei eingeführt werden. Drohnen und wertvolle Gegenstände sollten bei Einreise deklariert werden. Unverpackte Lebensmittel dürfen nicht eingeführt werden.
 
 ### Einreise mit dem Pkw
 
@@ -196,7 +198,7 @@ Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschri
 
 ### HIV/AIDS
 
-Das HIV Vorkommen in der Bevölkerung ist bisher gering (Prävalenz <0,1%). Zu den Hauptrisikogruppen gehören intravenöse Drogenbenutzer und Prostituierte.
+Das HIV-Vorkommen in der Bevölkerung ist bisher gering (Prävalenz <0,1%). Zu den Hauptrisikogruppen gehören intravenöse Drogenbenutzer und Prostituierte.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 

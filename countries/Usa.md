@@ -2,17 +2,6 @@
 
 ## Aktuelles
 
-### *Hurrikan "Helene"*
-
-Der Hurrikan „Helene“ steuert auf die Halbinsel Florida zu. Der Landfall des Hurrikans wurde für den Nordwesten der Golfküste an der Big Bend Coast für 26. September 2024 Ortszeit vorhergesagt. Für die gesamte Golfküste gilt eine Hurrikan- bzw. Tropensturmwarnung. Auch in großer Entfernung vom Zentrum des Sturms muss mit Starkwinden und großflächigen Überschwemmungen gerechnet werden. Für beinahe den ganzen Bundesstaat Florida wurde der Ausnahmezustand ausgerufen.
-
-* Leisten Sie den Anweisungen der lokalen Behörden unbedingt Folge.
-* Verfolgen Sie insbesondere in den genannten Gebieten regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/) und beachten Sie die Webseite [FloridaDisaster.org](https://www.floridadisaster.org/updates/) und verfolgen Sie die [aktuellen Posts des Florida Division of Emergency Managements.](https://twitter.com/FLSERT)
-* Erkundigen Sie sich über aktuelle Beeinträchtigungen bei der [FEMA](https://www.fema.gov/) (Federal Emergency Management Agency) oder nutzen Sie die [FEMA-App](https://www.fema.gov/mobile-app), die neben aktuellen Alarmmeldungen auch nächstgelegene Notunterkünfte anzeigt.
-* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://studio.auswaertiges-amt.de/blueprint/servlet/page/de/ReiseUndSicherheit/-/200794) bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/notsituationen_node.html)
-
-### 
-
 ### *Busch- und Waldbrände*
 
 Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
