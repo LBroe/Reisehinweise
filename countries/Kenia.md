@@ -2,18 +2,6 @@
 
 ## Aktuelles
 
-### *Streik vorerst beendet*
-
-Der am 11. September 2024 von der Gewerkschaft der Flughafenmitarbeiter begonnene unbefristete Streik des Personals der Flughafenbehörde „Kenya Airports Authority“ wurde gestern nach Verhandlungen vorerst beendet. Die Verhandlungen sollen in zehn Tagen fortgesetzt werden; eine Wiederaufnahme der Streiks ist nicht ausgeschlossen.
-
-Der Flugbetrieb läuft wieder normal.
-
-In Ihrem eigenen Interesse wird empfohlen:
-
-* Nehmen Sie ggf. rechtzeitig zu Ihrer Fluggesellschaft/Ihrem Reisebüro Kontakt auf, sollten Sie über Flugausfälle oder -verzögerungen benachrichtigt worden sein bzw. fragen Sie dort aktiv nach.
-* Fahren Sie rechtzeitig zum Flughafen, um Verzögerungen beim Check-in oder der Sicherheitskontrolle ausgleichen zu können.
-* Achten Sie auf aktuelle Informationen Ihrer Fluggesellschaft vor Abflug.
-
 ### *Landesweite Demonstrationen*
 
 Bereits seit Ende Juni 2024 gibt es aufgrund geplanter Steuererhöhungen gewaltsame Demonstrationen, Proteste und Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden in Nairobi und anderen Städten Kenias. Seitens der Demonstrierenden wurde angekündigt, dass die Demonstration am 8. August 2024 vorerst die letzte Demonstration gewesen sei. Weitere kurzfristig anberaumte Demonstrationen können nicht ausgeschlossen werden.
@@ -52,12 +40,12 @@ Vor dem Hintergrund des Konflikts im Nahen Osten und angesichts der ohnehin vorh
 ### Terrorismus
 
 In Kenia besteht eine erhöhte Gefahr terroristischer Anschläge. Die somalische Al-Shabaab-Terrororganisation hat mit Vergeltungsaktionen als Reaktion auf die Beteiligung der kenianischen Streitkräfte an der ATMIS-Mission (ehemals AMISOM-Mission) in Somalia gedroht und zu Solidaritätsaktionen mit der Hamas aufgerufen.  
-Mehrere Anschläge und eine Reihe vereitelter Anschläge haben die Entschlossenheit der Terroristen unter Beweis gestellt. So erfolgte 2019 ein Anschlag auf den DusitD2-Hotel- und Bürokomplex; 2020 ein Selbstmordanschlag auf ein kenianisches Militärlager in der Provinz Lamu.  
-Regierungsgebäude, Hotels, Bars und Restaurants, Einkaufszentren, kirchliche Einrichtungen, öffentliche Verkehrsmittel wie Busse, Kleinbusse, Fähren, Flughäfen und andere stark frequentierte Einrichtungen zählen zu den Orten mit erhöhter Gefährdung.
+Mehrere Anschläge und eine Reihe vereitelter Anschläge haben die Entschlossenheit der Terroristen unter Beweis gestellt. Regierungsgebäude, Hotels, Bars und Restaurants, Einkaufszentren, kirchliche Einrichtungen, öffentliche Verkehrsmittel wie Busse, Kleinbusse, Fähren, Flughäfen und andere stark frequentierte Einrichtungen zählen zu den Orten mit erhöhter Gefährdung.
 
 **Von Besuchen des Grenzgebietes zu Somalia im Nordosten Kenias, einschließlich der Provinz Lamu, wird wegen terroristischer Aktivitäten dringend abgeraten.**  
-Lamu Island und Manda Island sind bislang nicht Ziel von Anschlägen geworden. Es gibt jedoch ein verstärktes Aufkommen aktiver terroristischer Zellen, die bis in die Nähe des Archipels vordringen.  
-Bei Aufenthalten und Reisen in abgelegene Orte oder Nebenstrecken der Küstenregion mit Ausnahme der touristischen Einrichtungen besteht ein erhöhtes Entführungsrisiko.
+Lamu Island und Manda Island sind bislang nicht Ziel von Anschlägen geworden. Es gibt jedoch ein verstärktes Aufkommen aktiver terroristischer Zellen, die bis in die Nähe des Archipels vordringen.
+
+Bei Aufenthalten und Reisen in abgelegene Orte oder Nebenstrecken der Küstenregion besteht ein erhöhtes Entführungs- und Anschlagsrisiko.  
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Meiden Sie möglichst größere Menschenansammlungen.
@@ -125,7 +113,7 @@ Auch beim Besuch von Bars, Restaurants und Nachtclubs ist es insbesondere an der
 * Seien Sie beim Einsatz von Bank- und Kreditkarten und beim Abheben am Geldautomaten besonders vorsichtig.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter als auch bei Verabredungen über Dating-Plattformen skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
-Seit Ende 2022 kam es bisher zu mindestens drei Raubüberfällen auf deutsche Staatsangehörige, bei denen mit einer Schusswaffe gedroht beziehungsweise eine Schusswaffe als Hiebwaffe benutzt wurde.
+Seit Ende 2022 kam es zu mindestens drei Raubüberfällen auf deutsche Staatsangehörige, bei denen mit einer Schusswaffe gedroht beziehungsweise eine Schusswaffe als Hiebwaffe benutzt wurde.
 
 * Meiden Sie daher entlegene Gegenden. Telefonieren Sie in der Öffentlichkeit nur falls unbedingt nötig, ansonsten verwahren Sie Ihr Mobiltelefon sicher. Falls Sie eine Tasche mitführen, tragen Sie diese auf der von der Straße abgewandten Seite. Führen Sie nur so viel Bargeld mit wie unbedingt notwendig. Tragen Sie die Wertsachen am Körper verteilt.
 * Achten Sie insbesondere auf „Boda Bodas“ (Motorradtaxis).
@@ -156,8 +144,6 @@ In den Regenzeiten, die üblicherweise von Oktober bis November und von Ende M�
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
 
 ## Reiseinfos
-
-Siehe *Aktuelles*
 
 ### Infrastruktur/Verkehr
 
@@ -315,7 +301,7 @@ Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länder�
 
 In Kenia wurde erstmals im August ein Mpox-Ausbruch der Klade Ib nachgewiesen. nachgewiesen. Hier handelt es sich um bisher um eine geringe Fallzahl. Nähere Informationen zu [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") erhalten Sie hier.
 
-Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 ### Impfschutz
 
