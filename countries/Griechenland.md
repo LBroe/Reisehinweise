@@ -4,7 +4,7 @@
 
 #### *Waldbrände*
 
-Derzeit kommt es in Teilen Griechenlands aufgrund der seit Monaten anhaltenden Hitze und großen Trockenheit zu mitunter schweren Waldbränden. Der am 11. August 2024 ausgebrochene, zeitweise bis an die Athener Stadtgrenze herangerückte, Großbrand in der Region Ost-Attika nördlich von Athen konnte mittlerweile gelöscht werden.
+Die Waldbrandgefahr in Teilen Griechenlands ist weiterhin hoch. Der am 29. September 2024 ausgebrochene Großbrand in der Region Korinthia auf der Halbinsel Peloponnes ist bisher noch nicht gelöscht.  
 
 Siehe auch *Natur und Klima – Busch- und Waldbrände.*
 
@@ -73,10 +73,17 @@ Das Festland und die Inseln Griechenlands liegen in einer seismisch aktiven Zon
 
 #### *Stürme und Überschwemmungen*
 
-Im Mittelmeer kann es insbesondere von August bis November vereinzelt zu schweren Herbststürmen bis hin zu sogenannten Medicanes kommen. Diese führen häufig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.  
+Im Mittelmeer kann es insbesondere von August bis November vereinzelt zu schweren Herbststürmen bis hin zu sogenannten Medicanes kommen. Diese führen häufig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.
 
+* Aktivieren Sie bitte auf Ihrem Mobiltelefon die Option „Notfallbenachrichtigungen (Cell Broadcast Alerts).“ Diese werden von den zuständigen griechischen Stellen regional per SMS bzw. als Push-Mitteilung in griechischer und englischer Sprache versandt. Hierüber werden Sie auch über Evakuierungsmaßnahmen informiert.
+* Befolgen Sie die Anweisungen aus den Notfallbenachrichtigungen, beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte.
+* Nehmen Sie im Zweifel eine Powerbank mit, damit Ihr Telefon möglichst lange in Betrieb bleiben kann.
+* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. Sie können dann sofort geortet werden, sodass entsprechende Rettungsmaßnahmen eingeleitet werden können.
 * Trinken Sie in den von Überschwemmungen betroffenen Gebieten kein Leitungswasser.
+* Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter/-veranstalter über von Naturkatastrophen betroffene Gebiete und meiden Sie diese.
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028)
 * Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Auf der Webseite des [griechischen Katastrophenschutzes](https://civilprotection.gov.gr/odigies-prostasias/genikes-odigies?lang=de) finden Sie allgemeine Hinweise zu Verhaltensweisen bei Naturkatastrophen in deutscher Sprache. Eine gute Übersichtskarte für Wetterwarnungen innerhalb Europas bietet [Meteoalarm.org.](https://www.meteoalarm.org/en/live/)
 
 ## Reiseinfos
 
@@ -144,7 +151,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Griechenlands](https://www.visitgreece.gr/before-travelling-to-greece/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Griechenlands](https://www.visitgreece.gr/before-travelling-to-greece/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
