@@ -8,7 +8,10 @@
 
 ### Sicherheitslage Jordanien
 
-Derzeit kommt es in Jordanien immer wieder zu pro–palästinensischen Demonstrationen mit teilweise hohen Teilnehmerzahlen. Mit weiteren Demonstrationen, insbesondere bei einer zunehmenden Verschärfung der Lage in Gaza, im Westjordanland oder auch in Libanon, ist auch in näherer Zukunft zu rechnen, dies vor allem freitags nach dem Mittagsgebet. Dabei kommt es vermehrt zu antiwestlicher Stimmung.  
+Im Rahmen des iranischen Raketenangriffs auf Israel am 1. Oktober 2024 kam es auch in Jordanien zu herabfallenden Trümmern in Folge von Abfangbemühungen.  
+Weitere regionale militärische Konfrontationen sind nicht auszuschließen. Mit temporären Schließungen des jordanischen Luftraumes im Eskalationsfall ist zu rechnen.
+
+Derzeit kommt es in Jordanien in Folge der regionalen Konflikte immer wieder zu Demonstrationen mit teilweise hohen Teilnehmerzahlen. Weitere Demonstrationen, vor allem freitags nach dem Mittagsgebetsind wahrscheinlich. Dabei kommt es vermehrt zu antiwestlicher Stimmung.
 
 Aufgrund der Lage in Gaza und der angespannten Situation in Israel und den Palästinensischen Gebieten kann es immer wieder zu kurzfristigen Änderungen der Öffnungszeiten sowie auch der zeitweisen Schließung der Grenzübergänge zwischen Israel und Jordanien kommen, insbesondere auch am Grenzübergang King-Hussein-Brücke (Allenby-Brücke) bei Ausreise aus dem Westjordanland, siehe *Einreise und Zoll – Einreise von Israel.*
 
