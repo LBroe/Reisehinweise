@@ -12,15 +12,20 @@
 
 ### Sicherheitslage
 
-Nach dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 dauern die intensiven militärischen Operationen im Gazastreifen an. Der Beschuss durch Raketen aus Gaza auf alle Teile Israels einschließlich Tel Aviv und Jerusalem, aus jemenitischem Gebiet in Richtung auf die südliche Küste Israels und aus dem Libanon auf den Norden Israels hält weiterhin an und die Lage bleibt hoch volatil. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
+Am 1. Oktober 2024 wurde das gesamte Staatsgebiet Israels von Iran aus mit ballistischen Raketen angegriffen. Es ist damit zu rechnen, dass es infolgedessen zu weiteren kriegerischen Auseinandersetzungen kommen wird.
 
-Nachdem die israelische Armee am 27. September 2024 das Hauptquartier der Hisbollah in Beirut bombardiert hat, bei dem der Anführer der Hisbollah offenbar getötet wurde, ist damit zu rechnen, dass es zu verstärkten Raketenangriffen auf Israel kommt. Bereits in der Nacht zum 28. September 2024 ist es zum Beschuss auf Ziele unterhalb der Linie Haifa-Nazareth gekommen, sodass nicht ausgeschlossen werden kann, dass der Angriff auch auf das gesamte Gebiet Israels ausgeweitet wird.
+Zudem kommt es täglich zu Raketenangriffen seitens der Hisbollah aus Libanon auf israelisches Territorium. Die Angriffe treffen im Schwerpunkt den nördlichen Teil Israels. Es werden aber auch Ziele unterhalb der Linie Haifa-Nazareth angegriffen. Zudem kann nicht ausgeschlossen werden, dass die Hisbollah ihre Angriffe auch auf ganz Israel ausweitet.
+
+Am 1. Oktober 2024 kam außerdem es zu einem Attentat im südlichen Stadtteil von Tel Aviv, Jaffa. Die beiden Attentäter schossen an einer Tramhaltestelle auf Zivilisten. Dabei wurden sieben Personen getötet. Zahlreiche weitere wurden verletzt.
+
+Die Militäroperation im Gazastreifen, die infolge des Angriffes der Terrororganisation Hamas auf Israel am 7. Oktober 2023 begann, dauert weiterhin an. Mit Beschuss durch Raketen aus Gaza ist weiterhin zu rechnen. Zudem wird der Süden Israels immer wieder aus jemenitischem Gebiet beschossen. Die Lage bleibt somit hoch volatil. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
 
 Im Westjordanland kommt es regelmäßig zu Militäreinsätzen mit in der Folge massiven gewalttätigen Ausschreitungen mit Todesopfern und zahlreichen Verletzten. Es muss vermehrt mit der Einrichtung sogenannter „fliegender“ Checkpoints gerechnet werden. Angriffe israelischer Siedler auf ausländische Besucher und Aktivisten haben, insbesondere in der Nähe von Nablus und Hebron, deutlich zugenommen.
 
 Die derzeitigen Spannungen in der Region bergen die Gefahr einer erheblichen weiteren Eskalation. Die Sicherheitslage, insbesondere an Feiertagen, kann sich schnell und ohne Vorwarnung weiter verschärfen.
 
 * **Beachten Sie die geltende Reisewarnung.**
+* Beachten Sie die Sicherheitshinweise im Abschnitt *Sicherheit – Terrorismus.*
 * Machen Sie sich mit den vorhandenen Schutzvorkehrungen (Lage der Schutzräume) und [Hinweisen des israelischen Zivilschutzes](https://tel-aviv.diplo.de/blob/1603264/a40f0816942d69c288b15f6216227142/hinweise-des-israelischen-heimatschutzes-data.pdf) vertraut.
 * Befolgen Sie ggf. die Anweisungen des israelischen Zivilschutzes [Home Front Command](https://www.oref.org.il/894-en/Pakar.aspx) (nur in Israel aufrufbar) oder erkundigen Sie sich telefonisch unter der Rufnummer 104 in englischer Sprache.
 * Befolgen Sie unbedingt die Anweisungen der lokalen Sicherheitskräfte, verfolgen Sie Meldungen in Medien aufmerksam, laden und nutzen Sie die App „Red Alert (Nofzam)“ vor Ort. Suchen Sie beim Ertönen von Alarmsirenen umgehend (innerhalb von 90 Sekunden) nahegelegene Schutzräume auf und verweilen sie dort für mindestens zehn Minuten nach Abklingen der Sirenen. Sollten keine Schutzräume zur Verfügung stehen, halten Sie sich im Inneren des Gebäudes auf und bleiben Sie Fenstern fern.
