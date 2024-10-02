@@ -10,9 +10,15 @@
 
 Die Lage in der gesamten Region bleibt volatil und sehr angespannt.
 
-Nach einem israelischen Luftangriff im Südlibanon wurde am 28. September 2024 der Tod des Hisbollah-Führers Hassan Nasrallah bestätigt. In der Folge kann es auch zu Auswirkungen auf Flugverbindungen von und nach Iran kommen. Längere Schließungen des iranischen Luftraums, der Flughäfen sowie der Landgrenzen können nicht ausgeschlossen werden.
+Am 1. Oktober 2024 haben die iranischen Streitkräfte einen Raketenangriff auf Israel durchgeführt. Mit einer Gegenantwort der israelischen Streitkräfte ist zu rechnen. Auch Angriffe auf iranisches Territorium sind dabei nicht auszuschließen.
 
-Die Lufthansa-Gruppe hat ihre Flüge von und nach Teheran bis auf weiteres eingestellt.
+Bereits jetzt kommt es zu Auswirkungen auf Flugverbindungen von und nach Iran. Aktuell ist der Luftraum bis 3. Oktober 2024, 5:30 Uhr geschlossen.
+
+Längere Schließungen des iranischen Luftraums, der Flughäfen und der Landgrenzen sowie weitere Streichungen von Flugverbindungen können nicht ausgeschlossen werden.
+
+* Bitte halten Sie sich über die aktuellen Nachrichtenlage in den internationalen und lokalen Medien informiert.
+
+Nach einem israelischen Luftangriff im Südlibanon wurde am 28. September 2024 der Tod des Hisbollah-Führers Hassan Nasrallah bestätigt.
 
 Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentrums Hamburg e.V. sowie dessen bundesweiter Teilorganisationen bekannt gegeben. Eine Verschärfung der Sicherheitslage für deutsche Staatsangehörige und Doppelstaater ist in der Folge insbesondere hinsichtlich willkürlicher Festnahmen nicht ausgeschlossen.
 
