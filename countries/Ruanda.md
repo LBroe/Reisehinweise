@@ -6,7 +6,7 @@
 
 Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über mehrere bestätigte Marburg-Virus-Infektionen im Land. Momentan werden ein Anstieg der Fallzahlen sowie Todesfälle in verschiedenen Regionen des Landes, einschließlich der Hauptstadt Kigali, gemeldet. Umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden mit Unterstützung der WHO intensiviert. Die Ausbruchsursache ist weiterhin nicht geklärt.
 
-Das Marburg-Virus kann durch Fledermäuse, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen.
+Das [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") kann durch Fledermäuse, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen.
 
 #### *Sicherheitslage im Grenzgebiet*
 
