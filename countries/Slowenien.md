@@ -25,8 +25,6 @@ Zudem sind Fälle bekannt, in denen bei Autopannen überhöhte Abschleppgebühre
 
 ## Natur und Klima
 
-Siehe *Aktuelles*
-
 Im Westen und Nordwesten herrscht alpines, im Norden und Osten kontinentales sowie an der Adriaküste mediterranes Klima.
 
 In den Bergregionen Sloweniens ereignen sich häufig plötzliche Wetterumschwünge, die eine Gefahr für alpine Wandernde bedeuten.
