@@ -4,7 +4,7 @@
 
 #### *Gesundheit*
 
-Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über mehrere bestätigte Marburg-Virus-Infektionen im Land. Es wird ein Anstieg der Fallzahlen einschließlich Todesfälle in verschiedenen Regionen des Landes gemeldet, insbesondere in der Hauptstadt Kigali. Dabei ist v.a. medizinisches Personal betroffen. Umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden mit Unterstützung der WHO intensiviert. Die Ausbruchsursache ist weiterhin nicht geklärt.
+Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über mehrere bestätigte Marburg-Virus-Infektionen im Land. Es wird ein Anstieg der Fallzahlen einschließlich Todesfälle in verschiedenen Regionen des Landes gemeldet, insbesondere in der Hauptstadt Kigali. Dabei ist v.a. medizinisches Personal betroffen. Umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden mit Unterstützung der WHO intensiviert.
 
 Das [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") kann durch Fledermäuse, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen. Weitere Informationen zum Marburg-Virus und zum Vorgehen bei Verdacht auf eine Infektion oder bei Kontakt zu einer am Marburg-Virus erkrankten Person finden Sie auf den [Seiten des RKI](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Marburgvirus.html).
 
