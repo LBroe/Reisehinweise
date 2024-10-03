@@ -4,9 +4,11 @@
 
 #### *Gesundheit*
 
-Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über mehrere bestätigte Marburg-Virus-Infektionen im Land. Momentan werden ein Anstieg der Fallzahlen sowie Todesfälle in verschiedenen Regionen des Landes, einschließlich der Hauptstadt Kigali, gemeldet. Umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden mit Unterstützung der WHO intensiviert. Die Ausbruchsursache ist weiterhin nicht geklärt.
+Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über mehrere bestätigte Marburg-Virus-Infektionen im Land. Es wird ein Anstieg der Fallzahlen einschließlich Todesfälle in verschiedenen Regionen des Landes gemeldet, insbesondere in der Hauptstadt Kigali. Dabei ist v.a. medizinisches Personal betroffen. Umfassende Maßnahmen zur Verhinderung einer Ausbreitung des Virus wurden durch die zuständigen Behörden mit Unterstützung der WHO intensiviert. Die Ausbruchsursache ist weiterhin nicht geklärt.
 
-Das [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") kann durch Fledermäuse, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen.
+Das [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") kann durch Fledermäuse, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen. Weitere Informationen zum Marburg-Virus und zum Vorgehen bei Verdacht auf eine Infektion oder bei Kontakt zu einer am Marburg-Virus erkrankten Person finden Sie auf den [Seiten des RKI](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Marburgvirus.html).
+
+Reisende sollten sich zusätzlich vor Reisebeginn und während des Aufenthaltes über die aktuelle Lage mittels Bekanntgaben der regionalen Behörden informieren.
 
 #### *Sicherheitslage im Grenzgebiet*
 
@@ -166,7 +168,9 @@ Für Reisen mit bestimmten Heimtieren (z.B. Hunde, Katzen) sind eine Herkunftsbe
 
 ### Aktuelles
 
-Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu [Mpox.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
+Marburg-Virus-Ausbruch: s.o. Reise- und Sicherheitswarnungen Aktuelles.
+
+Mpox: Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I (Ia und Ib) länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt, einschließlich einiger afrikanischer Länder, betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu [Mpox.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 In Ruanda wurden bisher vereinzelte Fälle von Mpox-Infektionen mit Klade Ib bestätigt.
 
