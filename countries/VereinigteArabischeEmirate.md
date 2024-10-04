@@ -45,17 +45,17 @@ In ausgetrockneten Flusstälern und -betten („Wadi“) ist insbesondere in den
 
 ### Infrastruktur/Verkehr
 
-Zwischen Ballungszentren verkehren Autobusse, ansonsten gibt es Taxis und Sammeltaxis. Der Zustand der Straßen ist sehr gut.
+Zwischen Ballungszentren verkehren Autobusse; ansonsten gibt es Taxis und Sammeltaxis. Der Zustand der Straßen ist sehr gut.
 
 Für Fehlverhalten im Straßenverkehr werden drastische Strafen verhängt, z.B. wird das Fahrzeug nach Überfahren einer roten Ampel in den Emiraten Abu Dhabi und Dubai konfisziert, und kann nur gegen Zahlung von 50.000 AED freigekauft werden. Die jeweiligen Rechtsvorschriften sind zum Teil nicht in englischer Sprache und nicht vollständig online einsehbar.
 
 Alkohol am Steuer ist strafbar. Es gilt eine Null-Promille-Grenze.
 
-Bei Einreise aus Saudi-Arabien über den Grenzübergang Al Ghuwaifat Port Station muss das Fahrzeug ausreichenden Versicherungsschutz aufweisen, welcher über die „Shory Aber“-App erworben werden kann.
+Bei Einreise aus Saudi-Arabien über den Grenzübergang Al-Ghuwaifat Port Station muss das Fahrzeug ausreichenden Versicherungsschutz aufweisen, welcher über die „Shory Aber“-App erworben werden kann.
 
 ### Führerschein
 
-Für die Mietwagenanmietung bei einem touristischen oder sonstigen Kurzaufenthalt ist der EU-Führerschein grundsätzlich anerkannt. Von Personen mit langfristiger emiratischer Aufenthaltserlaubnis („residency visa“) wird ein umgeschriebener emiratischer Führerschein verlangt. In den letzten Jahren sind wenige Fälle bekannt geworden, in denen von Personen mit deutschem EU-Führerschein, aber ohne deutsche Staatsangehörigkeit, ein internationaler Führerschein verlangt wurde. Im Zweifel empfiehlt sich eine vorherige schriftliche Anfrage an den Mietwagenanbieter. Die Mietbedingungen sollten genauestens geprüft werden. Meist muss bei Anmietung eine echte Kreditkarte (keine Debitkarte) vorgelegt werden.
+Für die Mietwagenanmietung bei einem touristischen oder sonstigen Kurzaufenthalt wird der EU-Führerschein grundsätzlich anerkannt. Von Personen mit langfristiger emiratischer Aufenthaltserlaubnis („residency visa“) wird ein umgeschriebener emiratischer Führerschein verlangt. In den letzten Jahren sind wenige Fälle bekannt geworden, in denen von Personen mit deutschem EU-Führerschein, aber ohne deutsche Staatsangehörigkeit, ein internationaler Führerschein verlangt wurde. Im Zweifel empfiehlt sich eine vorherige schriftliche Anfrage an den Mietwagenanbieter. Die Mietbedingungen sollten genauestens geprüft werden. Meist muss bei Anmietung eine Kreditkarte (keine Debitkarte) vorgelegt werden.
 
 ### Besondere Verhaltenshinweise
 
@@ -150,15 +150,23 @@ Betroffene Passagiere werden dann wieder an ihren Abflugort zurückgeschickt.
 
 Konsularische Hilfe in Passangelegenheiten durch die [deutschen Vertretungen in den VAE](https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vae/202318 "Deutsche Vertretungen in den Vereinigten Arabischen Emiraten") ist erst nach der Einreise möglich, d.h. nicht innerhalb des internationalen Transitbereichs.
 
+### Einreisekontrolle und Erfassung biometrischer Daten
+
+Bei Ein- und Ausreise erfolgt die Passkontrolle mit Hilfe eines biometrischen Iris-Scans.
+
+An den Flughäfen werden Transitreisende auch auf Drogen kontrolliert. Für den Besitz auch nur geringster Mengen (weniger als 0,1 g) in Reisegepäck, Kleidung oder am Körper drohen langjährige Haftstrafen, siehe *Reiseinfos - Rechtliche Besonderheiten*.
+
+Deutsche Staatsangehörige, insbesondere arabischer Abstammung, müssen damit rechnen, im Rahmen der Einreisekontrollen durch die emiratischen Sicherheitsbehörden befragt oder im Einzelfall zurückgewiesen zu werden. Rückfragen hierzu müssen unmittelbar mit den zuständigen emiratischen Behörden bzw. [Auslandsvertretungen](https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vertretungenvereinigtearabischeemirate/202322) aufgenommen werden.
+
 ### Besonderheiten für Deutsche mit Daueraufenthalt in den VAE („residents“)
 
-Die Ausreise aus den VAE mit Reiseausweisen als Passersatz oder vorläufigen Reisepässen ist für Inhaber emiratischer Aufenthaltstitel („residency visas“ und „Emirates IDs“) nur nach vorheriger Aufhebung der emiratischen Aufenthaltstitel durch die zuständige Behörde („Immigration“) möglich. Dies kann nicht spontan am Flughafen erfolgen; die Bearbeitungsdauer beträgt mindestens 24 Stunden. Um dies zu vermeiden, müssen Inhaber emiratischer Aufenthaltstitel mit biometrischen Reisepässen ausreisen.
+Die Ausreise aus den VAE mit Reiseausweisen als Passersatz oder vorläufigen Reisepässen ist für Inhaber emiratischer Aufenthaltstitel („residency visas“ und „Emirates IDs“) nur nach vorheriger Aufhebung der emiratischen Aufenthaltstitel durch die zuständige Behörde („Immigration“ (General Directorate of Residency and Foreigners Affairs) des jeweiligen Emirats) möglich. Dies kann nicht am Flughafen erfolgen; die Bearbeitungsdauer beträgt mindestens 24 Stunden. Um dies zu vermeiden, müssen Inhaber emiratischer Aufenthaltstitel mit biometrischen Reisepässen ausreisen.
 
-Für Inhaber biometrischer Pässe ist die Ausreise, noch während ihre emiratische Aufenthaltserlaubnis verlängert wird, nur möglich, wenn sie den Behörden gegenüber den Verzicht auf ihren Aufenthaltstitel erklären und die Behörden den Verzicht bestätigt haben.
+Während der Verlängerung ihrer emiratischen Aufenthaltserlaubnis ist die Ausreise für Inhaber biometrischer Pässe nur möglich, wenn sie den Verzicht auf ihren Aufenthaltstitel den Behörden gegenüber erklärt und die Behörden den Verzicht bestätigt haben.
 
 ### Flughafentransit
 
-Der Transit über den Dubai International Airport (DXB) und Abu Dhabi International Airport (AUH) ist auch mit einem gültigen Reiseausweis zur Rückkehr als Passersatz möglich, sofern der internationale Transitbereich des jeweiligen Flughafens nicht verlassen (nicht eingereist) wird.
+Der Transit über den Dubai International Airport (DXB) und Abu Dhabi International Airport (AUH) ist auch mit einem gültigen Reiseausweis zur Rückkehr als Passersatz möglich, sofern der internationale Transitbereich des jeweiligen Flughafens nicht verlassen (nicht eingereist) wird. Siehe oben (*Besonderheiten für Deutsche mit Daueraufenthalt in den VAE („residents“*)
 
 ### Visum
 
@@ -167,13 +175,7 @@ Ihnen ist es nicht erlaubt, in den VAE entgeltlich oder unentgeltlich zu arbeite
 
 Wenn ein nicht-touristischer Aufenthalt in den VAE angestrebt wird, sollten die aktuellen Einreisebestimmungen rechtzeitig vor der Ausreise bei den [Auslandsvertretungen der VAE in Deutschland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenvereinigtearabischeemirate/202322) erfragt werden.
 
-Bei Überschreiten des erlaubten Aufenthaltszeitraums drohen je nach Länge des illegalen Aufenthalts empfindliche Geldstrafen und die Ausweisung. Bei längerer Überschreitung ist eine Inhaftierung nicht ausgeschlossen
-
-### Einreisekontrolle und Erfassung biometrischer Daten
-
-Bei der Ein- und Ausreise erfolgt die Passkontrolle mit Hilfe eines biometrischen Iris-Scans.
-
-An den Flughäfen werden Transitreisende auch auf Drogen kontrolliert. Für den Besitz auch nur geringster Mengen (weniger als 0,1 g) in Reisegepäck, Kleidung oder am Körper drohen langjährige Haftstrafen, siehe auch *Rechtliche Besonderheiten*.
+Bei Überschreiten des erlaubten Aufenthaltszeitraums drohen je nach Länge des illegalen Aufenthalts empfindliche Geldstrafen und die Ausweisung. Bei längerer Überschreitung ist eine Inhaftierung nicht ausgeschlossen  
 
 ### Minderjährige
 
