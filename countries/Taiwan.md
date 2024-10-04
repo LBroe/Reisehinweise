@@ -1,21 +1,5 @@
 # Taiwan*: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Der starke Taifun „Krathon“ nähert sich aktuell dem Süden Taiwans und wird voraussichtlich dort seinen Landfall machen. „Krathon“ könnte sich im weiteren Verlauf noch in einen Supertaifun der Stufe 5 entwickeln.
-
-Das taiwanische Emergency Operations Center warnt vor starken Regenfällen, Überschwemmungen, Überflutungen an der Küste und an Flüssen sowie vor Erdrutschen.
-
-Alle Hilfs- und Rettungsmaßnahmen während dieser Naturkatastrophe werden von den taiwanischen Behörden durchgeführt, die auf solche Aufgaben sehr gut vorbereitet sind.
-
-Falls die Evakuierung bestimmter gefährdeter Gebiete angeordnet werden sollte, werden die Behörden für Notunterkünfte sorgen.
-
-* Bitte folgen Sie unbedingt den Anweisungen der taiwanischen Behörden.
-* Verfolgen Sie regelmäßig Wetterberichte, u.a. im lokalen Rundfunk (englischer Radiosender ICRT 100,7 FM) und achten Sie auf Warnungen des [taiwanischen Wetteramts](http://www.cwa.gov.tw/eng/).
-* Kaufen Sie eine taiwanische (Prepaid-)SIM-Karte und installieren sie auf Ihrem Mobilgerät.
-* Laden Sie danach die App der taiwanischen Feuerwehr (für [Android;](https://play.google.com/store/apps/details?id=com.nfa.report&hl=zh_TW&gl=US&pli=1&fbclid=IwAR0l-UXdh2GGrKKrkoK-jR9HZwBfZeT2zV9FahB6I15rf9R0HpN69zEciks) für [iOS)](https://apps.apple.com/tw/app/%E6%B6%88%E9%98%B2%E9%98%B2%E7%81%BDe%E9%BB%9E%E9%80%9A/id1500403641) auf Ihr Mobilgerät, um aktuelle Warnhinweise, etc. zu erhalten.
-* Wenn Sie sich in Taiwan aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](http://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -39,8 +23,6 @@ Die Kriminalitätsrate ist niedrig. Insbesondere in den Großstädten kommt es z
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen skeptisch und vorsichtig. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 #### *Erdbeben*
 
