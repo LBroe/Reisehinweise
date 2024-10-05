@@ -12,7 +12,7 @@ Die Lage in der gesamten Region bleibt volatil und sehr angespannt.
 
 Am 1. Oktober 2024 haben die iranischen Streitkräfte einen Raketenangriff auf Israel durchgeführt. Mit einer Gegenantwort der israelischen Streitkräfte ist zu rechnen. Auch Angriffe auf iranisches Territorium sind dabei nicht auszuschließen. Iran befindet sich nach Aussagen des Informationsministeriums im Kriegszustand.
 
-Bereits jetzt kommt es zu Auswirkungen auf Flugverbindungen von und nach Iran. Der zivile Luftverkehr ist bis 5. Oktober 2024, 03:30 Uhr Ortszeit, ausgesetzt.
+Bereits jetzt kommt es zu Auswirkungen auf Flugverbindungen von und nach Iran, der zivile Luftverkehr war zwischenzeitlich ganz ausgesetzt.
 
 Längere Schließungen des iranischen Luftraums, der Flughäfen und der Landgrenzen sowie weitere Streichungen von Flugverbindungen können nicht ausgeschlossen werden.
 
