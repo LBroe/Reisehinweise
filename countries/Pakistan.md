@@ -4,6 +4,10 @@
 
 ### *Sicherheitslage*
 
+Aufgrund von nicht genehmigten Kundgebungen der Opposition kann es derzeit vor allem in Islamabad, Rawalpindi, auf den Verbindungsstraßen zwischen Islamabad und Peschawar sowie in Lahore zu Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden kommen. Auch andere Landesteile vor allem in Punjab können betroffen sein.
+
+Auf dem Weg zum und vom Flughafen Islamabad kommt es zu erheblichen Verzögerungen.
+
 In Pakistan kann es jederzeit zu gewaltsamen Auseinandersetzungen und terroristischen Anschlägen in Islamabad und anderen Städten Pakistans kommen, in deren Fokus auch ausländische Staatsangehörige stehen können. Auch mit Großdemonstrationen ist zu rechnen, dies vor allem freitags nach dem Mittagsgebet.
 
 Die islamistischen, gewaltbereiten pakistanischen Taliban hatten Ende 2022 einseitig eine mit der Regierung vereinbarte Waffenruhe für beendet erklärt und ihre Kämpfer zu Anschlägen im ganzen Land aufgerufen. Seitdem wurden vermehrt Terror- und Selbstmordanschläge mit zahlreichen Toten und Verletzten, insbesondere in Teilen der Provinzen Khyber Pakthunkhwa und Belutschistan verübt. Auch andere islamistische Terrorgruppen, z.B. der Islamische Staat Pakistan (ISPK) sowie belutschische Nationalisten verüben vermehrt Anschläge in diesen Regionen.
