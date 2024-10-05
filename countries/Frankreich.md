@@ -4,12 +4,6 @@ Einschließlich **Französische Überseegebiete**
 
 ## Aktuelles
 
-### *Streik*
-
-Wegen eines Streiks sind aktuell und bis auf Weiteres alle Fährhäfen und Flughäfen auf Korsika in ihrem Betrieb stark eingeschränkt.
-
-* Bitte rechnen Sie mit starken Verzögerungen und verfolgen Sie aufmerksam die Lage in den Medien vor Ort.
-
 ### *Grenzkontrollen*
 
 Im Nachgang der Olympischen und Paralympischen Spiele führt Frankreich noch bis Ende Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig. 
