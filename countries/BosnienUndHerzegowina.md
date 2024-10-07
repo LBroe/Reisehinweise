@@ -32,9 +32,22 @@ Fahrzeuge mit ausländischen Kennzeichen oder Mietwagen sind ein bevorzugtes Zie
 
 ## Natur und Klima
 
+Es herrscht Kontinentalklima, zur Küste hin Mittelmeerklima.  
+
+### *Überschwemmungen*
+
+Am 3./4. Oktober 2024 führten heftige Regenfälle in Teilen Zentralbosniens und im Kanton Herzegowina-Neretva zu verheerenden Überschwemmungen und Erdrutschen. Zahlreiche Verkehrsverbindungen bleiben gesperrt, insbesondere die Hauptstraße Sarajewo-Mostar bei Jablanica. Es besteht weiterhin die Gefahr von Erdrutschen und Felsstürzen. Die Eisenbahnstrecke Ploce-Sarajewo ist bis auf Weiteres gesperrt.
+
+* Umfahren sie die betroffenen Gebiete weiträumig.
+* Informieren Sie sich über die aktuelle Lage in den Medien.
+* Leisten Sie den Anweisungen der lokalen Behörden und Sicherheitskräfte Folge.
+
+### Erdbeben
+
 Bosnien und Herzegowina liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben kommen kann.
 
-Es herrscht Kontinentalklima, zur Küste hin Mittelmeerklima.  
+### Busch- und Waldbrände
+
 In den Sommermonaten kommt es aufgrund der herrschenden klimatischen Bedingungen in den südlicheren Landesteilen zu Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur muss in diesen Fällen gerechnet werden.
 
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
@@ -42,7 +55,9 @@ In den Sommermonaten kommt es aufgrund der herrschenden klimatischen Bedingungen
 
 ## Reiseinfos
 
-### **Grenzkontrollen**
+Siehe *Natur und Klima*  
+
+### ​​​​​​​**Grenzkontrollen**
 
 Beim Überschreiten der Schengener Außengrenzen werden nicht nur die Gültigkeit von Reisedokumenten überprüft, sondern auch alle Reisedokumente systematisch mit einschlägigen Datenbanken abgeglichen. Dies gilt auch für EU-Bürger und andere freizügigkeitsberechtigte Personen.
 
@@ -50,6 +65,8 @@ Verlängerte Wartezeiten an den kroatisch-bosnischen Grenzübergängen, insbeson
 Reisenden wird empfohlen die Medienberichterstattung hierzu zu verfolgen.
 
 ### Infrastruktur/Verkehr
+
+Siehe *Natur und Klima*  
 
 Es existieren verlässliche Zug- und Busverbindungen.
 
