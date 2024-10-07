@@ -10,7 +10,7 @@
 
 Die Sicherheitslage in der Region ist hoch volatil.
 
-**Die israelischen Streitkräfte greifen seit 23. September aus der Luft verstärkt Ziele in vielen Landesteilen des Libanon an. Bisher betroffen sind in besonderem Maße, aber nicht ausschließlich, der Süden des Landes, die Bekaa und die südlichen Vororte von Beirut (sog. Dahiyeh).  Am 2. Oktober hat Israel den Beginn von begrenzten und zielgerichteten Bodenoperationen im grenznahen Gebiet des Südlibanon verkündet; seither ist es dort zu militärischen Zusammenstößen zwischen israelischen Streitkräften und Kämpfern der Hisbollah-Miliz gekommen. Die Konfliktverschärfung führt zu anhaltenden massenhaften Fluchtbewegungen. Der Großraum Beirut, das Gouvernement Berg-Libanon und zunehmend der Norden sind durch die steigende Zahl an Binnenflüchtlingen erheblich belastet, was zu Versorgungsengpässen bei Wohnraum und Gütern des täglichen Bedarfs und zu Spannungen innerhalb der Bevölkerung führen kann.** **Eine weitere Eskalation kann nicht ausgeschlossen werden. Der zivile Flugverkehr ist stark eingeschränkt. Nur noch wenige Fluglinien fliegen den Flughafen Beirut (Rafiq-Hariri-Airport) an.** 
+**Die israelischen Streitkräfte greifen seit 23. September 2024 aus der Luft verstärkt Ziele in vielen Landesteilen Libanons an. Bisher betroffen sind in besonderem Maße, aber nicht ausschließlich, der Süden des Landes, die Bekaa und die südlichen Vororte von Beirut (sog. Dahiyeh). Am 2. Oktober 2024 hat Israel den Beginn von begrenzten und zielgerichteten Bodenoperationen im grenznahen Gebiet des Südlibanon verkündet; seither ist es dort zu militärischen Zusammenstößen zwischen israelischen Streitkräften und Kämpfern der Hisbollah-Miliz gekommen. Die Konfliktverschärfung führt zu anhaltenden massenhaften Fluchtbewegungen. Der Großraum Beirut, das Gouvernement Berg-Libanon und zunehmend der Norden sind durch die steigende Zahl an Binnenflüchtlingen erheblich belastet, was zu Versorgungsengpässen bei Wohnraum und Gütern des täglichen Bedarfs und zu Spannungen innerhalb der Bevölkerung führen kann.** **Eine weitere Eskalation kann nicht ausgeschlossen werden. Der zivile Flugverkehr ist stark eingeschränkt. Nur noch wenige Fluglinien fliegen den Flughafen Beirut (Rafiq-Hariri-Airport) an.** 
 
 **Bei einer weiteren Eskalation ist eine vollständige Schließung des Flughafens nicht ausgeschlossen. Die Ausreise aus Libanon auf dem Luftweg wäre dann für unbestimmbare Zeit nicht mehr möglich.**
 
@@ -26,7 +26,7 @@ Im Zusammenhang mit den Spannungen in der Region muss zudem mit Demonstrationen 
 
 ## Sicherheit - Reisewarnung
 
-**Vor Reise nach Libanon wird gewarnt.**
+**Vor Reisen nach Libanon wird gewarnt.**
 
 **Deutsche Staatsangehörige werden dringend aufgefordert, Libanon zu verlassen.**
 
@@ -52,7 +52,7 @@ Demonstrationen, Proteste und Straßenblockaden, auch auf den wichtigen Verkehrs
 
 Im palästinensischen Flüchtlingslager Ain El Helweh am Südende der Stadt Saida kam es zwischen Juli und Oktober 2023 zu bewaffneten Auseinandersetzungen mit mehreren Todesopfern. Projektile, Mörsergranaten und Panzerabwehrraketen (RPG-Geschosse) waren wiederholt auch außerhalb des Flüchtlingslagers niedergegangen (z.B. im Stadtzentrum von Saida und auf der Überlandstraße 51) und haben zu zahlreichen Verletzten und Gebäudeschäden geführt. Ein Wiederaufflammen der Auseinandersetzungen kann nicht ausgeschlossen werden. In und am Rand der Stadt Saida kommt es mitunter zu Straßensperrungen und Verkehrsumleitungen durch die libanesischen Streitkräfte.
 
-Im südlichen Libanon und darüber hinaus können die Kampfhandlungen jederzeit weiter eskalieren. Vereinzelte Luftschläge auch in anderen Landesteilen haben bereits stattgefunden (u.a. Orte nördlich von Saida, Stadtzentrum von Beirut, Chouf, Berg-Libanon, Faraya) und können auch absehbar nicht ausgeschlossen werden.
+Im Süden Libanons und darüber hinaus können die Kampfhandlungen jederzeit weiter eskalieren. Vereinzelte Luftschläge auch in anderen Landesteilen haben bereits stattgefunden (u.a. Orte nördlich von Saida, Stadtzentrum von Beirut, Chouf, Berg-Libanon, Faraya) und können auch absehbar nicht ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen, größere Menschenansammlungen und Straßenblockaden weiträumig
