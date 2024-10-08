@@ -4,22 +4,19 @@
 
 ### *Sicherheitslage*
 
-Aufgrund von nicht genehmigten Kundgebungen der Opposition kann es derzeit vor allem in Islamabad, Rawalpindi, auf den Verbindungsstraßen zwischen Islamabad und Peschawar sowie in Lahore zu Auseinandersetzungen zwischen Sicherheitskräften und Demonstrierenden kommen. Auch andere Landesteile vor allem in Punjab können betroffen sein.
+Am 15./16. Oktober 2024 findet in Islamabad das Treffen der Regierungschefs der Shanghai Cooperation Organization (SCO) statt. Bis zum 17. Oktober 2024 befinden sich daher Militäreinheiten in Islamabad Capital Territory und Rawalpindi im Einsatz. Drei Feiertage (14.-16. Oktober 2024) wurden ausschließlich für diese beiden Städte ausgerufen.
 
-Auf dem Weg zum und vom Flughafen Islamabad kommt es zu erheblichen Verzögerungen.
-
-In Pakistan kann es jederzeit zu gewaltsamen Auseinandersetzungen und terroristischen Anschlägen in Islamabad und anderen Städten Pakistans kommen, in deren Fokus auch ausländische Staatsangehörige stehen können. Auch mit Großdemonstrationen ist zu rechnen, dies vor allem freitags nach dem Mittagsgebet.
-
-Die islamistischen, gewaltbereiten pakistanischen Taliban hatten Ende 2022 einseitig eine mit der Regierung vereinbarte Waffenruhe für beendet erklärt und ihre Kämpfer zu Anschlägen im ganzen Land aufgerufen. Seitdem wurden vermehrt Terror- und Selbstmordanschläge mit zahlreichen Toten und Verletzten, insbesondere in Teilen der Provinzen Khyber Pakthunkhwa und Belutschistan verübt. Auch andere islamistische Terrorgruppen, z.B. der Islamische Staat Pakistan (ISPK) sowie belutschische Nationalisten verüben vermehrt Anschläge in diesen Regionen.
+In Pakistan kann es jederzeit zu nicht genehmigten politischen Kundgebungen (wie am 4./5. Oktober 2024), gewaltsamen Auseinandersetzungen und terroristischen Anschlägen in Islamabad und anderen Städten Pakistans kommen, in deren Fokus auch ausländische Staatsangehörige stehen können. Auch mit Großdemonstrationen, unangekündigten Demonstrationen und Ausschreitungen zwischen Sicherheitskräften und Demonstrierenden muss gerechnet werden.
 
 Allgemein ist aufgrund der angespannten innenpolitischen Lage mit landesweiten Demonstrationen, Straßenblockaden, erheblicher Präsenz der Sicherheitskräfte, Abschaltungen des Mobilfunknetzes und eventuell gewaltsamen Ausschreitungen zu rechnen, insbesondere in den Großstädten Islamabad, Lahore und Karachi.
+
+Die islamistischen, gewaltbereiten pakistanischen Taliban hatten Ende 2022 einseitig eine mit der Regierung vereinbarte Waffenruhe für beendet erklärt und ihre Kämpfer zu Anschlägen im ganzen Land aufgerufen. Seitdem wurden vermehrt Terror- und Selbstmordanschläge mit zahlreichen Toten und Verletzten, insbesondere in Teilen der Provinzen Khyber Pakthunkhwa und Belutschistan verübt. Auch andere islamistische Terrorgruppen, z.B. der Islamische Staat Pakistan (ISPK) sowie belutschische Nationalisten verüben vermehrt Anschläge in diesen Regionen.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen sowie beim Besuch von Einrichtungen mit internationalem Publikumsverkehr und bekannten Treffpunkten von Ausländern besonders aufmerksam.
 * Informieren Sie sich über die sozialen und lokalen Medien.
 * Meiden Sie Demonstrationen und Menschenansammlungen weiträumig.
 * Meiden Sie Diskussionen zu Religion und zu politisch aufgeladenen Themen wie zum Beispiel Nahost/Gaza. Emotionen können in ungünstigen Fällen unvermittelt in Hass und Gewalt umschlagen.
-
-Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ## Sicherheit - Teilreisewarnung
 
@@ -51,9 +48,11 @@ In Karachi kommt es zu religiös, ethnisch oder kriminell motivierten Anschläge
 
 ### Innenpolitische Lage
 
-Die Koalitionsregierung von Premierminister Shabaz Sharif aus PML-N, PPP und mehreren kleinen Parteien hat nur eine knappe Mehrheit im Parlament in Islamabad. Anhänger des Ex-Premierministers Imran Khan sowie Mitglieder seiner Partei PTI sind nach teils gewaltsamen Ausschreitungen gegen das Militär im Mai 2023 inhaftiert oder anderweitig zurückgedrängt worden. Diese angespannte Stimmung kann zu Demonstrationen mit Eskalationspotential führen. Im ganzen Land, insbesondere in Großstädten, können sich immer wieder spontane oder organisierte Demonstrationen aus unterschiedlichsten Anlässen ereignen, z.B. nach den Freitagsgebeten. Auch wenn diese zunächst friedlich verlaufen, können sie zu gewalttätigen Auseinandersetzungen und Verkehrsbeeinträchtigungen führen und zum Ziel terroristischer Anschläge werden.
+Die Koalitionsregierung von Premierminister Shabaz Sharif aus PML-N, PPP und mehreren kleinen Parteien hat nur eine knappe Mehrheit im Parlament in Islamabad. Anhänger des Ex-Premierministers Imran Khan sowie Mitglieder seiner Partei PTI sind nach teils gewaltsamen Ausschreitungen gegen das Militär im Mai 2023 inhaftiert oder anderweitig zurückgedrängt worden. Im September und Oktober 2024 fanden die größten Demonstrationen seit Mai 2023 statt. Zudem befindet sich das Land weiterhin in einer Wirtschaftskrise mit hoher Inflation, die das Alltagsleben weiter Teile der Bevölkerung belastet.
 
-In Belutschistan sowie in den sogenannten „merged districts“ (MDs) in Khyber Pakhtunkhwa kommt es immer wieder zu bewaffneten Auseinandersetzungen zwischen Sicherheitskräften und militanten Gruppen, denen auch unbeteiligte Zivilisten zum Opfer fallen können. Weite Teile dieser Gebiete sind für Ausländer gesperrt.
+Diese angespannte politische, wirtschaftliche Stimmung kann zu weiteren Demonstrationen mit Eskalationspotential führen. Im ganzen Land, insbesondere in Großstädten, können sich immer wieder spontane oder organisierte Demonstrationen aus unterschiedlichsten Anlässen ereignen, z.B. nach den Freitagsgebeten. Auch wenn diese zunächst friedlich verlaufen, können sie zu gewalttätigen Auseinandersetzungen und Verkehrsbeeinträchtigungen führen und zum Ziel terroristischer Anschläge werden.
+
+In Belutschistan sowie in den sogenannten „merged districts“ (MDs) in Khyber Pakhtunkhwa kommt es immer wieder zu bewaffneten Auseinandersetzungen zwischen Sicherheitskräften und militanten Gruppen, denen auch unbeteiligte Zivilisten zum Opfer fallen können. In Belutschistan werden immer wieder tatsächliche oder vermeintliche chinesische Staatsangehörige gezielt angegriffen. Auch andere Ausländer müssen mit Anfeindungen bis hin zu Übergriffen rechnen. Weite Teile dieser Gebiete sind für Ausländer gesperrt.
 
 Die pakistanischen Behörden stellen keine aktuelle Liste der für Ausländer gesperrten Gebiete im Internet ein. Für einige dieser Gebiete können offizielle Reisegenehmigungen bei pakistanischen Behörden beantragt werden. Die Beantragung einer solchen Genehmigung ist in der Regel sehr zeitintensiv. Bei Aufenthalten in solchen Gebieten ohne erforderliche Genehmigung droht eine Inhaftierung für mehrere Tage.
 
@@ -350,9 +349,7 @@ Die Versorgung mit zuverlässigen Medikamenten und eine ununterbrochene Kühlket
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
