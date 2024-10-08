@@ -1,18 +1,5 @@
 # Nepal: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Extreme Niederschläge haben zu zahlreichen Erdrutschen und Überschwemmungen geführt. Besonders betroffen sind das Kathmandu-Tal (Provinz Bagmati) und die Provinzen Koshi und Madesh. Alle Straßen von und nach Kathmandu und weitere Straßen sind derzeit unpassierbar. Fahrten in die von Touristen häufig besuchte Stadt Pokhara sind aktuell nicht möglich. Die Gefahr weiterer Erdrutsche dauert an.
-
-Auch Inlandsflüge sind teilweise ausgesetzt, darunter alle Flüge von und nach Lukla und Ramechhap (Flugroute Mount Everest). In allen betroffenen Provinzen muss mit Einschränkungen bei der Stromversorgung, der Telekommunikation und Infrastruktur gerechnet werden.
-
-* Seien Sie besonders achtsam und umsichtig.
-* Vermeiden Sie Überlandfahrten in die/in den betroffenen Provinzen.
-* Bleiben Sie Überschwemmungsgebieten fern.
-* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
-* Halten Sie sich unbedingt an die Empfehlungen und Anweisungen der nepalesischen (Katastrophenschutz-)Behörden.
-* Verfolgen Sie die aktuelle Wettervorhersage.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -55,11 +42,24 @@ Im Umgang mit staatlichen Sicherheitskräften, die oftmals nur über geringe Fre
 
 ## Natur und Klima
 
+### *Überschwemmungen/Erdrutschgefahr*
+
+Derzeit kann es aufgrund von Überschwemmungen/Erdrutschen noch zu Einschränkungen im Straßenverkehr kommen, insbesondere auf den Schnellstraßen rund um das Kathmandu-Tal. Trotz zunehmender Normalisierung der Situation bleibt weiterhin Vorsicht geboten.
+
+* Seien Sie besonders achtsam und umsichtig.
+* Führen Sie stets einsatzfähige Kommunikationsmittel mit sich.
+* Halten Sie sich unbedingt an die Empfehlungen und Anweisungen der nepalesischen (Katastrophenschutz-)Behörden.
+* Verfolgen Sie die aktuelle Wettervorhersage.
+
+### Erdbeben
+
 Nepal liegt in einer seismisch aktiven Zone, insbesondere das Himalaya-Gebiet gilt als stark erdbebengefährdet. Im November 2023 erschütterten Erdbeben der Stärke 6,4 die Region und forderten Tote und zahlreiche Verletze sowie erhebliche Sachschäden. Die Folgen der Beben beeinträchtigen die Infrastruktur (Straßen, Strom-, Wasserversorgung u.a.) weiterhin.  
 Im Falle erneuter schwerer Erdbeben muss davon ausgegangen werden, dass medizinische Einrichtungen und generelle Notfallausstattungen überlastet sind.
 
+### Klima
+
 Es herrscht Monsunklima, im Norden durch die Höhenlage gemildert.  
-Während der von Juni bis Anfang Oktober andauernden Monsunzeit entstehen in ganz Nepal durch plötzlich auftretende und oft länger anhaltende Unwetter immer wieder Überschwemmungen, Sturzfluten und Erdrutsche, die auch die Hauptreisewege betreffen und einschränken können.
+Während der von etwa Juni bis Anfang Oktober andauernden Monsunzeit entstehen in ganz Nepal durch plötzlich auftretende und oft länger anhaltende Unwetter immer wieder Überschwemmungen, Sturzfluten und Erdrutsche, die auch die Hauptreisewege betreffen und einschränken können.
 
 * Beachten Sie die Unwetterwarnungen des [Department of Hydrology and Meteorology](http://www.mfd.gov.np/) und lassen Sie insbesondere an Berghängen und Flüssen besondere Vorsicht walten.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -114,7 +114,7 @@ Wiederholt kam es zu Erpressungen von Trekkern, die mit frei angeheuerten, nicht
 
 ### LGBTIQ
 
-Homosexuelle Handlungen sind in Nepal nicht mehr strafbar, eine Zurückhaltung von möglicherweise als provokativ empfundenen Handlungen in der Öffentlichkeit und der Respekt vor lokalen Gebräuchen sind dennoch angezeigt.
+Homosexuelle Handlungen sind in Nepal nicht mehr strafbar; eine Zurückhaltung von möglicherweise als provokativ empfundenen Handlungen in der Öffentlichkeit und der Respekt vor lokalen Gebräuchen sind dennoch angezeigt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -134,7 +134,7 @@ Die Benutzung von Drohnen ohne erforderliche Genehmigungen kann zur Konfiszierun
 
 ### Geld/Kreditkarten
 
-Landeswährung ist die nepalesische Rupie (NPR). Im Kathmandu-Tal besteht die Möglichkeit, sich über Geldautomaten mit Bargeld zu versorgen. Die meisten Automaten akzeptieren Visa- und Master-Kreditkarten; EC-Karten werden kaum akzeptiert.
+Landeswährung ist die nepalesische Rupie (NPR). Im Kathmandu-Tal besteht die Möglichkeit, sich über Geldautomaten mit Bargeld zu versorgen. Die meisten Automaten akzeptieren VISA- und Mastercard-Kreditkarten; Debitkarten werden kaum akzeptiert.
 
 Neben Kreditkarten empfiehlt sich die Mitnahme von EUR oder USD in bar, insbesondere bei Reisen in weniger besiedelte Regionen.
 
@@ -146,7 +146,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Nepals](http://www.immigration.gov.np/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")  
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Nepals sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")  
 
 ### Reisedokumente
 

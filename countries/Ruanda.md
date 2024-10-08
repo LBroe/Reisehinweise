@@ -10,6 +10,10 @@ Das Marburg-Virus kann durch Fledermäuse, aber auch von Mensch zu Mensch übert
 
 Reisende sollten sich zusätzlich vor Reisebeginn und während des Aufenthaltes über die aktuelle Lage mittels Bekanntgaben der regionalen Behörden informieren.
 
+Aufgrund des Marburg-Virus-Ausbruch werden in Geschäften und bei Veranstaltungen Temperaturmessungen durchgeführt, Handwaschstationen und Desinfektionsmittel zählen vor Einlass zu den Hygienestandards.
+
+Vor Ausreise wird an den Grenzen ebenfalls eine Temperaturmessung durchgeführt. Ergänzend sind Reisende aufgefordert, einen Fragebogen zu möglichen Symptomen des Marburg-Virus auszufüllen.
+
 ### *Sicherheitslage im Grenzgebiet*
 
 Die Sicherheitslage im Osten der Demokratischen Republik Kongo an der Grenze zu Ruanda ist weiterhin schlecht. Es kommt immer wieder zu Kämpfen zwischen der kongolesischen Armee und bewaffneten Gruppen, wie z.B. M23, im Grenzgebiet zu Ruanda.
