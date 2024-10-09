@@ -11,7 +11,7 @@ Terrorismus spielt bislang in Liberia keine Rolle. Aufgrund terroristischer Vork
 
 ### Innenpolitische Lage
 
-Im Januar 2024 fand die Vereidigung des neuen Staatspräsidenten, Joseph Boakai, statt. Die Sicherheitslage in Liberia ist zwar unter Kontrolle, aber weiterhin fragil. Vereinzelte Demonstrationen können zu temporären Verkehrsbehinderungen und Verzögerungen bei der Einreise führen.
+Im Januar 2024 fand die Vereidigung des Staatspräsidenten, Joseph Boakai, statt. Die Sicherheitslage in Liberia ist zwar unter Kontrolle, aber weiterhin fragil. Vereinzelte Demonstrationen können zu temporären Verkehrsbehinderungen und Verzögerungen bei der Einreise führen.
 
 * Seien Sie bei Reisen nach Liberia besonders vorsichtig.
 * Verlassen Sie Straßen und Wege nicht unnötig und beachten Sie Warnschilder.
@@ -87,13 +87,13 @@ Polizisten und Soldaten sowie polizeiliche und militärische Einrichtungen dürf
 
 ### Geld/Kreditkarten
 
-Hauptlandeswährung für Reisende ist der USD.  
-Nur in wenigen größeren Hotels stehen stabile technische Verbindungen zur Zahlung mit Kreditkarten (meist nur Visa und evtl. Mastercard) zur Verfügung. Für die Kartenzahlung wird dann oftmals ein Zuschlag von etwa 3,5% erhoben. Andere Einrichtungen, auch kleinere Hotels und Kliniken, bieten theoretisch Kartenzahlungsmöglichkeiten an, die in der Praxis jedoch oft nicht funktionieren.
+Hauptlandeswährung für Reisende ist der US-Dollar (USD).  
+Nur in wenigen größeren Hotels stehen stabile technische Verbindungen zur Zahlung mit Kreditkarten (meist nur VISA und evtl. Mastercard) zur Verfügung. Für die Kartenzahlung wird dann oftmals ein Zuschlag von etwa 3,5% erhoben. Andere Einrichtungen, auch kleinere Hotels und Kliniken, bieten theoretisch Kartenzahlungsmöglichkeiten an, die in der Praxis jedoch oft nicht funktionieren.
 
-Geldautomaten (ATM) stehen bei einigen größeren Hotels und Banken zur Verfügung, sind jedoch nicht immer funktionsfähig. Es können dann oft nur kleinere Beträge abgehoben werden, so dass aufgrund von erforderlicher Mehrfachziehung evtl. hohe Gebühren anfallen können.  
+Geldautomaten (ATM) stehen bei einigen größeren Hotels und Banken zur Verfügung, sind jedoch nicht immer funktionsfähig. Es können dann oft nur kleinere Beträge abgehoben werden, sodass aufgrund von erforderlicher Mehrfachziehung evtl. hohe Gebühren anfallen können.  
 Der Wechsel von EUR oder anderen Währungen in USD ist schwierig und, falls überhaupt möglich, nur zu einem sehr ungünstigen Wechselkurs.
 
-* Bringen Sie am besten das für Ihre Reise erforderliche Bargeld in US-Dollar mit.
+* Bringen Sie am besten das für Ihre Reise erforderliche Bargeld in USD mit.
 
 ## Einreise und Zoll
 
@@ -101,7 +101,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Liberias](https://moh.gov.lr/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Liberias sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -218,11 +218,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### 
-
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")** 
 
 ## Länderinfos zu Ihrem Reiseland
 

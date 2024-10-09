@@ -8,7 +8,7 @@
 
 ### Innenpolitische Lage
 
-Die Lage im gesamten Land ist ruhig. Vereinzelte, auch gewalttätige Proteste und Demonstrationen in der Hauptstadt Tirana und anderen Städten können nicht ausgeschlossen werden.
+In den letzten Monaten kam es bei vereinzelten Protesten und Demonstrationen im Zentrum der Hauptstadt Tirana zu gewalttätigen Ausschreitungen, die auch zu Verkehrsbeeinträchtigungen führten. Weitere Proteste können weder in Tirana noch in anderen Städten ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
@@ -70,7 +70,7 @@ Wege sind zum Teil schlecht ausgeschildert. Albanien verfügt zudem über keine 
 * Planen Sie genügend Zeit ein, sodass die Ankunft bzw. Rückkehr vor Einbruch der Dunkelheit erfolgt.
 * Beachten Sie Warnschilder. Betreten Sie keine umzäunten Gelände. Leisten Sie Folge, falls Sie zum Verlassen eines Weges oder eines Geländes aufgefordert werden.
 * Versuchen Sie bei einer Begegnung mit aggressiven Hirtenhunden direkten Kontakt zu den Hirten aufzunehmen. Ziehen Sie sich ggf. langsam zurück und umgehen Sie das Gelände weiträumig.
-* Machen Sie sich mit dem [Verhalten des sicheren Bergwanderns](https://www.sbs.sachsen.de/download/sbs/Bergwandern-Planen_Sicher_und_Umweltbewusst.pdf) vertraut.
+* Der deutsche Alpenverein bietet Tipps für [sicheres Bergwandern.](https://www.alpenverein.de/artikel/bergwandern-so-geht-das_a4d75757-a8f4-4312-ba9f-b4e2f19a57cb)
 
 ### LGBTIQ
 
