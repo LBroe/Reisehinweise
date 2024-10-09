@@ -2,6 +2,20 @@
 
 ## Aktuelles
 
+### *Hurrikan „Milton“*
+
+Der Hurrikan „Milton“ wird am späten Mittwochabend des 9. Oktober 2024 auf den US-Bundesstaat Florida treffen. Es wird erwartet, dass das Zentrum des Sturms im Raum Tampa-Sarasota auf Land trifft und in nordöstliche Richtung nahe Orlando über die Halbinsel zieht.
+
+* Sollten Sie in diesen Tagen eine Reise nach Florida geplant haben, sehen Sie bitte davon ab.
+
+Im gesamten Bundesstaat Florida muss mit schweren Zerstörungen durch starken Wind, Starkregen, Sturmfluten, Überschwemmungen, und Tornados gerechnet werden. Auch kann es zu länger anhaltenden Stromausfällen, sowie Straßensperrungen und Ausfällen im Flug- und Bahnverkehr kommen.
+
+* Leisten Sie den Anweisungen der lokalen Behörden unbedingt Folge.
+* Machen Sie sich mit den aktuell geltenden Empfehlungen zur Vorsorge und den Warn- und Evakuierungsverfahren der Behörden an Ihrem Wohnort vertraut.
+* Verfolgen Sie regelmäßig Wetterberichte, achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/), beachten Sie die Webseite [FloridaDisaster.org](https://www.floridadisaster.org/updates/) und verfolgen Sie die [aktuellen Posts des Florida Division of Emergency Managements.](https://twitter.com/FLSERT)
+* Erkundigen Sie sich über aktuelle Beeinträchtigungen bei der [FEMA](https://www.fema.gov/) (Federal Emergency Management Agency) oder nutzen Sie die [FEMA-App](https://www.fema.gov/mobile-app), die neben aktuellen Alarmmeldungen auch nächstgelegene Notunterkünfte anzeigt.
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+
 ### *Busch- und Waldbrände*
 
 Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
@@ -171,7 +185,7 @@ Zahlreiche kubanische Staatsfirmen, darunter auch des Touristiksektors, wurden v
 * Sammeln Sie entsprechende Belege.
 * Legen Sie Ihre Notizen auf Verlangen den US-Behörden vor.
 * Machen Sie keine Geschäfte mit Firmen, die auf der entsprechenden Liste der US-amerikanischen Behörden stehen.
-* Informieren Sie sich über weitere Details bei den zuständigen US-amerikanischen Behörden [Customs and Border Protection (CBP)](https://help.cbp.gov/), das [Department of the Treasury – Office of Foreign Assets Control (OFAC)](https://www.treasury.gov/resource-center/sanctions/Programs/Documents/guidance_cuba_travel.pdf) (nur in den USA aufrufbar) und der [US-Botschaft in Havanna](https://cu.usembassy.gov/services/traveling-to-cuba/) oder auch direkt bei den US-amerikanischen Fluglinien wie z. B. [American Airlines](https://www.aa.com/i18n/travel-info/international-travel/cuba.jsp).
+* Informieren Sie sich über weitere Details bei den zuständigen US-amerikanischen Behörden [Customs and Border Protection (CBP)](https://www.cbp.gov/), das [Department of the Treasury – Office of Foreign Assets Control (OFAC)](https://www.treasury.gov/resource-center/sanctions/Programs/Documents/guidance_cuba_travel.pdf) (nur in den USA aufrufbar) und der [US-Botschaft in Havanna](https://cu.usembassy.gov/services/traveling-to-cuba/) oder auch direkt bei den US-amerikanischen Fluglinien wie z. B. [American Airlines](https://www.aa.com/i18n/travel-info/international-travel/cuba.jsp).
 
 ### LGBTIQ
 
@@ -397,7 +411,7 @@ Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion kann in der
 
 ### Dengue-Fieber
 
-Dengue-Viren können durch tagaktive *Aedes*-Mücken in den südlichen Bundesstaaten sowie Guam, Puerto-Rico, den amerikanischen Jungferninseln und Amerikanisch-Samoa übertragen werden. Aktuelle Fallzahlen bieten die [CDC](https://www.cdc.gov/dengue/statistics-maps/index.html). Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
+Dengue-Viren können durch tagaktive *Aedes*-Mücken in den südlichen Bundesstaaten sowie Guam, Puerto-Rico, den amerikanischen Jungferninseln und Amerikanisch-Samoa übertragen werden. Aktuelle Fallzahlen bieten die [CDC](https://www.cdc.gov/dengue). Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
 * Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
 * Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
@@ -416,7 +430,7 @@ Die durch dämmerungsaktive Mücken übertragenen EEE betrifft in der Regel Huft
 
 ### Hantavirus
 
-Diese seltene virale Erkrankung wird durch Aufnahme von kontaminierten Sekreten infizierter Nagetiere über die Atemwege bzw. den Magen-Darm-Trakt übertragen. Aktuelle Fallzahlen bieten die [CDC](https://www.cdc.gov/hantavirus/surveillance/index.html). Nach zwei bis vier Wochen kann es zu grippeähnlichen Symptomen wie Kopf- und Gliederschmerzen kommen. In seltenen Fällen können tödliche Komplikationen durch Befall der Nieren oder des Herz-Lungensystems entstehen. Eine Impfung bzw. medikamentöse Prophylaxe existiert nicht, siehe [Hantavirus.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hantavirus-infektionen/2562872 "Hantavirus-Infektionen")
+Diese seltene virale Erkrankung wird durch Aufnahme von kontaminierten Sekreten infizierter Nagetiere über die Atemwege bzw. den Magen-Darm-Trakt übertragen. Aktuelle Fallzahlen bieten die [CDC](https://www.cdc.gov/hantavirus/data-research/cases/?CDC_AAref_Val=https://www.cdc.gov/hantavirus/surveillance/index.html). Nach zwei bis vier Wochen kann es zu grippeähnlichen Symptomen wie Kopf- und Gliederschmerzen kommen. In seltenen Fällen können tödliche Komplikationen durch Befall der Nieren oder des Herz-Lungensystems entstehen. Eine Impfung bzw. medikamentöse Prophylaxe existiert nicht, siehe [Hantavirus.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hantavirus-infektionen/2562872 "Hantavirus-Infektionen")
 
 * Vermeiden Sie den Kontakt mit den Ausscheidungen von Nagetieren.
 
