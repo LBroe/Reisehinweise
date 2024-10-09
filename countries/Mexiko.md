@@ -1,16 +1,5 @@
 # Mexiko: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### *Hurrikan „Milton“*
-
-Im Golf von Mexiko hat sich der Tropensturm „Milton“ gebildet. Er wird nach aktuellen Prognosen voraussichtlich am frühen Montagabend, 7. Oktober 2024, mit Hurrikanstärke fünf zwischen Celestún und Progreso, Bundesstaat Yucatán, auf Land treffen. Mit Extremwetter, sehr starken Winden, Starkregen, hohem Wellengang und Überschwemmungen ist zu rechnen. Beeinträchtigungen im Reiseverkehr sind zu erwarten. Auch kann es zu längeren Stromausfällen kommen. Betroffen sind die Bundesstaaten Yucatán, Campeche und der Norden von Quintana Roo. **Von nicht notwendigen Reisen in diese Bundesstaaten wird abgeraten.**
-
-* Verfolgen Sie regelmäßig die örtlichen Nachrichten, Wetterberichte und achten Sie auf Warnungen des [mexikanischen Wetterdienstes.](https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-atlantico)
-* Leisten Sie den Warn- und Sicherheitshinweisen der lokalen Behörden und Ihres Hotel- bzw. Reiseanbieters unbedingt Folge.
-* Wenn Sie sich in Mexiko aufhalten, registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
-* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
-
 ## Sicherheit
 
 **Von Reisen in folgende Regionen wird dringend abgeraten:**
