@@ -51,7 +51,7 @@ Es gibt Taxis und Mietwagen. Während der Regenzeit (Oktober bis Mai) sind die S
 
 ### Führerschein
 
-Für die Benutzung von Mietwagen sollte man unbedingt den internationalen Führerschein mitführen.
+Für die Benutzung von Mietwagen sollte man unbedingt den internationalen Führerschein mitführen. Dieser ist nur in Verbindung mit dem nationalen Führerschein gültig.
 
 ### LGBTIQ
 
@@ -74,7 +74,7 @@ Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich mit der Pandemielage häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen bei der [saotomeischen Regierung](https://www.facebook.com/MSaudeSTeP/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich mit der Pandemielage häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen bei der saotomeischen Regierung sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -177,9 +177,7 @@ Die medizinische Versorgung entspricht bei weitem nicht den europäischen Standa
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
