@@ -4,7 +4,7 @@
 
 #### *Kontrollposten in Ouagadougou*
 
-In der Innenstadt von Ouagadougou kommt es wiederholt zur Einrichtung von Kontrollposten. Diese werden von der Zivilbevölkerung errichtet, vereinzelt auch durch Sicherheitskräfte. Nach wiederholten Zwischenfällen am Sicherungsperimeter um das Premierministeramt (Primature) in der Innenstadt wird empfohlen, den Bereich von 21 bis 5 Uhr weiträumig zu umfahren.   
+In der Innenstadt von Ouagadougou kommt es wiederholt zur Einrichtung von Kontrollposten. Diese werden von der Zivilbevölkerung errichtet, vereinzelt auch durch Sicherheitskräfte. Nach wiederholten Zwischenfällen am Sicherungsperimeter um das Premierministeramt (Primature) in der Innenstadt wird empfohlen, den Bereich von 21 bis 5 Uhr weiträumig zu umfahren. 
 
 ## Sicherheit - Teilreisewarnung
 
@@ -58,9 +58,9 @@ Im September 2022 kam es in Burkina Faso zu einem erneuten Militärputsch. Die L
 * Folgen Sie den Anweisungen der Behörden und Sicherheitskräfte.
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Burkina Faso aufhalten. Wenn Sie bereits registriert sind, kontrollieren Sie, ob Ihre Daten noch aktuell sind.
 
-Die Sicherheitslage außerhalb der großen Städte bleibt sehr angespannt. Die Sicherheitskräfte gehen landesweit gegen terroristische Gruppen vor. In diesem Zusammenhang kann es zur Verhängung von Reisebeschränkungen, nächtlichen Ausgangssperren, spontanen Hausdurchsuchungen und Abriegelung bestimmter Zonen kommen.  
+Die Sicherheitslage außerhalb der großen Städte bleibt sehr angespannt. Die Sicherheitskräfte gehen landesweit gegen terroristische Gruppen vor. In diesem Zusammenhang kann es zur Verhängung von Reisebeschränkungen, nächtlichen Ausgangssperren, spontanen Hausdurchsuchungen und Abriegelung bestimmter Zonen kommen.
 
-Die Regierung hat **folgende Zonen und Gebiete** **zu militärischen Sperrzonen erklärt. Jeder Aufenthalt in diesen Gebieten ist Zivilisten untersagt:**  
+Die Regierung hat **folgende Zonen und Gebiete** **zu militärischen Sperrzonen erklärt. Jeder Aufenthalt in diesen Gebieten ist Zivilisten untersagt:**
 
 * Parc National du „W“,
 * Réserve Totale de Faune de Singou,
@@ -130,7 +130,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen der burkinischen Regierung sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich über die aktuellen Einreisebestimmungen der burkinischen Regierung sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -148,7 +148,7 @@ Reisedokumente müssen zum Zeitpunkt der Visumsantragsstellung noch mindestens s
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen ein Visum zur Einreise nach Burkina Faso. Das Visum soll seit Februar 2023 vor Reiseantritt [online](http://www.visaburkina.bf) beantragt werden. Eine Visumsbeantragung bei der [Botschaft von Burkina Faso](http://www.embassy-bf.org/) bleibt jedoch weiterhin möglich, wenn Antragsteller bei der Einreichung der Unterlagen persönlich vorsprechen.
+Deutsche Staatsangehörige benötigen ein Visum zur Einreise nach Burkina Faso. Das Visum muss vor Reiseantritt [online](http://www.visaburkina.bf) beantragt werden. Eine Visumsbeantragung bei der [Botschaft von Burkina Faso](http://www.embassy-bf.org/) ist nicht mehr möglich. Von der Beantragung eines „Visa on Arrival“ wird abgeraten. Nur in begründeten, dringlichen Ausnahmefällen werden diese von den Grenzbeamten entgegengenommen. Es kam bereits vor, dass Personen je nach Begründung kein „Visa on Arrival“ erhalten haben und nicht einreisen konnten.
 
 ### Minderjährige
 
