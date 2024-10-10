@@ -253,6 +253,8 @@ Das Krim-Kongo-Fieber ist eine Viruserkrankung, die i.d.R. von Zecken auf den Me
 
 In Griechenland besteht für alle Personen, die in Deutschland gesetzlich versichert sind, ein Anspruch auf dringend erforderliche Behandlung bei Ärzten, Zahnärzten und in Krankenhäusern, die vom ausländischen gesetzlichen Krankenversicherungsträger zugelassen sind. Als Nachweis ist die europäische Krankenversicherungskarte (EHIC) bzw. eine Ersatzbescheinigung vorzulegen. Beide Dokumente erhalten Sie von Ihrer Krankenkasse.
 
+Die gesundheitliche Versorgung in Griechenland ist auf dem Festland im allgemeinen gut, kann auf den Inseln jedoch unzureichend sein. Auf einigen Inseln besteht ein Mangel an Rettungswagen und auf anderen muss mit einer längeren Wartezeit bis zum Eintreffen eines Rettungswagens gerechnet werden.
+
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie bei Reisen in ländliche Gebiete Griechenlands oder bei besonderem Bedarf an speziellen Medikamenten eine individuelle Reiseapotheke mit.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")

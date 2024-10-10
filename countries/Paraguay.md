@@ -158,7 +158,7 @@ Informationen über die Einfuhr von Tieren nach Paraguay erteilt die zuständige
 
 Aufgrund der andauernden Waldbrände im Norden Paraguays und in den Nachbarländern Bolivien und Brasilien ist die aktuelle Luftqualität in den meisten Teilen des Landes und auch in der Hauptstadt Asunción sehr schlecht und mit Rauchpartikeln belastet. Das paraguayische Gesundheitsministerium empfiehlt die Vermeidung von Aufenthalten an der Luft und das Schließen von Fenstern und Türen. 
 
-Impfschutz
+### Impfschutz
 
 Bei Einreise und Transit länger als 24 Stunden aus einigen gelbfieberendemischen Gebieten ist eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") für alle Reisenden ab dem vollendeten ersten Lebensjahr vorgeschrieben. Dazu gehören derzeit Brasilien, Bolivien, Peru und Venezuela*.*
 

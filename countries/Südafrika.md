@@ -1,5 +1,26 @@
 # Südafrika: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### *Krüger Nationalpark*
+
+Die südafrikanische Nationalparkverwaltung unternimmt jegliche Anstrengung, die Sicherheit von Touristen in und um den Krüger-Nationalpark zu gewährleisten und hat für Reisende in die Provinz Mpumalanga folgende Help Line eingerichtet: +27-(0)6630 0 0991.
+
+* Bitte berücksichtigen Sie bei Ihren Reiseplanungen, dass es in der Umgebung des Numbi-Gates bereits mehrfach zu Raubüberfällen auf Touristen, teils unter erheblicher (in Einzelfällen tödlicher) Gewaltanwendung kam.
+* Seien Sie auf der Zubringerstraße zwischen White River und Hazyview (R538) besonders wachsam bezüglich möglicher Überfallversuche auf KFZ.
+
+### *Kapstadt und Garden Route*
+
+Die Tourismusbehörden der Provinz Westkap ([Kontakt Provinz Westkap](https://www.westerncape.gov.za/site-page/economic-sector-support-tourism-safety-safety-tips)) sowie der Stadtverwaltung Kapstadt ([Kontakt Kapstadt)](https://www.capetown.travel/travelwise/emergency-contacts/) bieten internationalen Reisenden Unterstützung an, geben Sicherheitstipps und teilen Notfallnummern mit. Reisenden wird empfohlen, die Notfallnummern nach Ankunft einspeichern und stets griffbereit haben.
+
+Wanderungen in der Region sollten niemals alleine, sondern ausschließlich in Gruppen durchgeführt werden. Auf eine angemessene Wanderausrüstung ist zu achten. Besonders auf den beliebten Wanderwegen rund um den Tafelberg (Devil’s Peak, Lion’s Head und Signal Hill) kam es bereits zu Raubüberfällen auf Touristen.
+
+### *Addo Elephant Park*
+
+Die Südafrikanische Nationalparkverwaltung empfiehlt Reisenden aus Sicherheitsgründen, bei einer Anfahrt von Port Elizabeth (Gqeberha) von der Nutzung der R335 über Motherwell abzusehen und alternativ die N2 über Colchester für die Anfahrt zum Addo Elephant Park zu nutzen.
+
+* Verzichten Sie bei einem Überfall auf jede Gegenwehr, die Täter könnten bewaffnet sein und Stich- oder Schusswaffen ohne Zögern einsetzen.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -8,21 +29,11 @@
 
 ### Innenpolitische Lage
 
-Angesichts der erheblichen sozialen Unterschiede im Land und nicht zuletzt aufgrund der sich verschärfenden Stromversorgungskrise kann es zu Protesten und Demonstrationen kommen. Gewaltsame Auseinandersetzungen und Verkehrsbehinderungen können nicht ausgeschlossen werden. So gab es z.B. bereits wiederholt gewaltsame Aktionen im Großraum Emalahleni (an der Hauptverbindungsstraße zwischen Johannesburg und touristischen Zielen im Osten des Landes, wie dem Blyde River Canyon und dem Krüger Nationalpark).
+Angesichts der erheblichen sozialen Unterschiede im Land kann es zu Protesten und Demonstrationen kommen. Gewaltsame Auseinandersetzungen und Verkehrsbehinderungen können nicht ausgeschlossen werden. So gab es z.B. bereits wiederholt gewaltsame Aktionen im Großraum Emalahleni (an der Hauptverbindungsstraße zwischen Johannesburg und touristischen Zielen im Osten des Landes, wie dem Blyde River Canyon und dem Krüger Nationalpark).
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-
-### *Elektrizitätskrise*
-
-Die Elektrizitätskrise mit häufigen und länger anhaltenden Stromabschaltungen besteht weiter. Diese führen zu zeitweisen Stromausfällen, unter anderem bei privaten Unterkünften, Geschäften, Banken und Geldautomaten, bei der öffentlichen Beleuchtung, Ampeln und Sicherheitsanlagen. Die Stromausfälle können sich auch auf die Wasserversorgung und -qualität auswirken und weiterhin zu Einschränkungen der Internetverbindungen und des Mobilfunks führen. Auch Tankstellen können davon zeitweise beeinträchtigt sein.
-
-* Tragen Sie sich, unabhängig von der Dauer Ihres Aufenthalts in Südafrika, in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
-* Berücksichtigen Sie die Stromabschaltungen und die oben genannten möglichen Einschränkungen bei Ihren Reiseplanungen.
-* Ermitteln Sie die voraussichtlichen Uhrzeiten der an Ihrem Aufenthaltsort vorgesehenen Stromabschaltungen auf der Webseite des Stromversorgers [Eskom](https://www.eskom.co.za) oder über Loadshedding-Apps.
-* Erkundigen Sie sich bei Hotels und Unterkünften, ob dort Maßnahmen getroffen wurden, um Stromabschaltungen zu überbrücken (Generatoren, Solaranlagen).
-* Halten Sie Taschenlampen, Batterien und Ladegeräte einsatzbereit.
 
 ### Kriminalität
 
@@ -56,23 +67,6 @@ Bei Autobahnfahrten im städtischen Umland, insbesondere beim Transit durch best
 * Nutzen Sie bei Ausflügen in öffentlich zugängliche Naturflächen und Parks und zu bekannten Sehenswürdigkeiten keine einsam gelegenen Straßen oder Wanderwege und meiden Sie unbelebte Gegenden. Unternehmen Sie Township-Besuche nur in organisierter Form und nur mit ortskundiger Führung.
 * Achten Sie als Rucksacktourist auf sichere Unterkünfte. Einschlägige Reiseführer geben Empfehlungen für Backpacker Hostels ab; trotzdem ist Vorsicht geboten.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
-
-#### *Krüger Nationalpark*
-
-Die Südafrikanische Nationalparkverwaltung empfiehlt Reisenden aus Sicherheitsgründen, von der Nutzung des sog. Numbi-Gates bei Einfahrt in den Krüger Nationalpark abzusehen und alternative Einfahrtstore zu nutzen. In der Umgebung des Numbi-Gates kam es bereits mehrfach zu Raubüberfällen auf Touristen, teils unter erheblicher (in Einzelfällen tödlicher) Gewaltanwendung.
-
-* Meiden Sie das Numbi-Gate bei der Ein- und Ausfahrt in den Krüger Nationalpark.
-* Seien Sie auf der Zubringerstraße zwischen White River und Hazyview (R538) besonders wachsam bezüglich möglicher Überfallversuche auf KFZ.
-
-#### *Kapstadt und Garden Route*
-
-Die Tourismus-Sicherheitseinheit der Regierung des Westkaps empfiehlt Reisenden aus Sicherheitsgründen, Wanderungen nicht alleine und nur in Gruppen durchzuführen. Vor allem auf den Wanderwegen um den Tafelberg (Devil’s Peak, Lion’s Head und Signal Hill) in Kapstadt kam es zuletzt mehrfach zu Raubüberfällen auf Touristen. Die Tourismus-Sicherheitseinheit bietet, insbesondere für den Großraum Kapstadt und entlang der Garden Route, internationalen Reisenden Unterstützung an, gibt [Sicherheitstipps und teilt Notfallnummern](https://www.westerncape.gov.za/site-page/economic-sector-support-tourism-safety-safety-tips) mit.
-
-#### *Addo Elephant Park*
-
-Die Südafrikanische Nationalparkverwaltung empfiehlt Reisenden aus Sicherheitsgründen, bei einer Anfahrt von Port Elizabeth (Gqeberha) von der Nutzung der R335 über Motherwell abzusehen und alternativ die N2 über Colchester für die Anfahrt zum Addo Elephant Park zu nutzen.
-
-* Verzichten Sie bei einem Überfall auf jede Gegenwehr, die Täter könnten bewaffnet sein und Stich- oder Schusswaffen ohne Zögern einsetzen.
 
 ## Natur und Klima
 
@@ -142,7 +136,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei offiziellen Stellen wie [South African Tourism](https://www.southafrica.net/de/de/travel/category/reiseplanung-und-informationen/aktuelle-reisehinweise-coronavirus-covid-19) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei offiziellen Stellen wie [South African Tourism](https://www.southafrica.net/de/de/travel/category/reiseplanung-und-informationen/aktuelle-reisehinweise-coronavirus-covid-19) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -180,7 +174,7 @@ Minderjährige deutsche Staatsangehörige, die mit mindestens einem Elternteil z
 Reist ein Minderjähriger ohne Begleitung eines Erwachsenen, sind neben dem gültigen Pass folgende Unterlagen mitzuführen:
 
 * Internationale Geburtsurkunde (oder eine Geburtsurkunde mit englischer Übersetzung),
-* Zustimmungserklärung der Eltern in englischer Sprache, z.B. mittels Muster „[Parental consent letter“](http://www.dha.gov.za/files/Parental-Consent-Letter_Suggested-Format_v8.pdf),
+* Zustimmungserklärung der Eltern in englischer Sprache, z.B. mittels Muster „Parental consent letter“,
 * Passkopien der Eltern/Sorgeberechtigten, bei Alleinsorge Gerichtsbeschluss über das alleinige Sorgerecht oder Sterbeurkunde des anderen Elternteils jeweils mit Übersetzung in die englische Sprache,
 * Kontaktdetails der Eltern/Sorgeberechtigten,
 * Bestätigungsschreiben in englischer Sprache und Kontaktdaten sowie Passkopie der Person, zu welcher der Minderjährige reisen soll.
@@ -211,7 +205,7 @@ In Südafrika handelt es sich bei den gemeldeten Fällen bisher ausschließlich 
 
 Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.
 
-Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des Auswärtigen Amts, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen siehe [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus").
 
 ### Impfschutz
 
