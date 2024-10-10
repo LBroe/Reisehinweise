@@ -158,7 +158,7 @@ Für die direkte Einreise aus Deutschland sind keine Impfungen vorgeschrieben. B
 Bei der Tollwut handelt es sich um eine tödlich verlaufende Infektionskrankheit, die durch Viren verursacht wird, welche mit dem Speichel infizierter Tiere oder Menschen übertragen werden. Landesweit besteht ein Risiko an Bissverletzungen durch streunende Hunde und Katzen, siehe [Tollwut.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut")
 
 * Vermeiden Sie den Kontakt mit Tieren.
-* Lassen Sie sich hinsichtlich einer Tollwut-Impfung beraten und impfen. Die Impfserie sollte unbedingt vor Reiseantritt abgeschlossen sein, da Impfstoff in Albanien in der Regel nicht zur Verfügung steht.
+* Lassen Sie sich hinsichtlich einer Tollwut-Impfung beraten und impfen, insbesondere vor Langzeitaufenthalten. Die Impfserie sollte unbedingt vor Reiseantritt abgeschlossen sein, da Impfstoff und das Immunglobulin bei Bedarf in Albanien in der Regel nicht zuverlässig zur Verfügung stehen.
 * Suchen Sie auch bei bestehender Impfung nach Kontakt mit einem potentiell infizierten Tier oder Menschen (Biss, Belecken verletzter Hautareale oder Speicheltröpfchen auf den Schleimhäuten von Mund, Nase und Augen) umgehend einen Arzt auf.
 
 ### Medizinische Versorgung
