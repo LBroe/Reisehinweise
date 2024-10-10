@@ -202,7 +202,7 @@ Bei der Einfuhr von Heimtieren ist ein maximal sechs Tage vor der Einreise ausge
 
 Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu Mpox erhalten Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie das Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.  
 Seit Juli 2024 treten zunehmend Mpox-Fälle auf, welche alle als Klade Ib identifiziert wurden.  
-Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 ### Impfschutz
 

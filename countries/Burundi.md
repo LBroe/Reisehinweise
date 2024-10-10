@@ -158,7 +158,7 @@ Heimtiere können nur über den internationalen Flughafen Bujumbura Melchior NDA
 Seit dem Frühjahr 2024 breitet sich das Mpox-Virus der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationales [Mpox-Geschehen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") überwiegend der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. In Burundi ist dies der erste gemeldete Ausbruch von Mpox. Es erfolgte der Nachweis von Mpox Klade Ib. Aktuell werden steigende Fallzahlen berichtet. Nähere Informationen zu Mpox erhalten Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") 
 
 Bei der Einreise in betroffene Länder ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie z.B. dem Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.  
-Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.rki.de/DE/Content/InfAZ/A/Affenpocken/Affenpocken_Mpox.html)
+Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 ### Impfschutz
 
