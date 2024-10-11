@@ -8,7 +8,7 @@
 
 ### Kriminalität
 
-Die Kriminalitätsrate Islands ist generell niedrig, Kleinkriminalität wie Taschendiebstahl kommt vor. 
+Die Kriminalitätsrate Islands ist generell niedrig; Kleinkriminalität wie Taschendiebstahl kommt vor. 
 
 * Seien Sie wachsam, wenn Sie sich im Stadtzentrum von Reykjavik bewegen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -20,7 +20,7 @@ Die Kriminalitätsrate Islands ist generell niedrig, Kleinkriminalität wie Tasc
 
 Es herrscht subarktisches Meeresklima mit kühlen Sommern und relativ milden Wintern.
 
-Island liegt in einer seismisch aktiven Zone. Bereits seit Oktober 2023 gibt es immer wieder kleinere Erdbeben auf der südwestlichen Halbinsel (Reykjanes-Halbinsel). Teilweise waren diese Beben auch im 50 km entfernten Reykjavik zu spüren.
+Island liegt in einer seismisch aktiven Zone. Seit Oktober 2023 gibt es immer wieder kleinere Erdbeben auf der südwestlichen Halbinsel (Reykjanes-Halbinsel). Teilweise waren diese Beben auch im 50 km entfernten Reykjavik zu spüren.
 
 Das isländische [Department of Civil Protection and Emergency Management](https://www.almannavarnir.is/english/) sendet ggf. Warnmeldungen per Textnachricht an alle in der jeweils betroffenen Gegend eingeschalteten Mobiltelefone.
 
@@ -65,12 +65,11 @@ Landeswährung ist die Isländische Krone (ISK). Das Abheben von Bargeld an Geld
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich bei den offiziellen Stellen Islands sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich bei den offiziellen Stellen Islands sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
 
 ### Reisedokumente
 

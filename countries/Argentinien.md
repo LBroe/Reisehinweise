@@ -1,15 +1,5 @@
 # Argentinien: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-**Von nicht notwendigen, touristischen Reisen in die Provinz Córdoba wird derzeit abgeraten.**
-
-Aktuell kommt es in der Provinz Córdoba vermehrt zu teils schweren Waldbränden, insbesondere in den Regionen Punilla, Calamuchita, Sierras Chicas und Chancaní. Es ist nicht auszuschließen, dass die Brände auf weitere Regionen übergreifen.
-
-* Meiden Sie nicht notwendige, touristische Reisen in die Provinz Córdoba.
-* Informieren Sie sich über aktuelle Brände und achten Sie auf Meldungen und behördliche Hinweise in den Medien.
-* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie Anweisungen der lokalen Sicherheitskräfte und Behörden.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -46,8 +36,6 @@ Buenos Aires hat ein Kommissariat für Touristen eingerichtet, in dem auch in Fr
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
-
-Siehe *Aktuelles*
 
 Die Andenkette liegt in einer seismisch aktiven Zone, weshalb es insbesondere in den Provinzen von San Juan und Mendoza zu Erdbeben und vulkanischen Aktivitäten kommen kann. Mehrere Vulkane in der Grenzregion zu Chile sind aktiv; dies kann zu Evakuierungsmaßnahmen und Beeinträchtigungen im Reiseverkehr führen. Der Vulkan Copahue zeigt des Öfteren verstärkte Aktivität.
 
@@ -120,7 +108,7 @@ Unabhängig von den argentinischen Regelungen bestehen auch in Deutschland Einfu
 
 Landeswährung ist der argentinische Peso (ARS). Mit Debit- (Girocard) und Kreditkarten kann an Geldautomaten gegen hohe Gebühren Bargeld abgehoben werden. Bedingt durch die hohe Inflation im Land, kann sich der mögliche Höchstbetrag relativ schnell ändern. Eine günstige Alternative sind Online-Transferdienste.
 
-USD lassen sich in der Regel im ganzen Land tauschen, EUR außerhalb von Buenos Aires dagegen seltener.
+USD lassen sich in der Regel im ganzen Land tauschen, EUR außerhalb von Buenos Aires dagegen seltener.
 
 Die Akzeptanz von Debit-/Kreditkarten ist insbesondere in Buenos Aires weit verbreitet. Für Reisen außerhalb empfiehlt sich, ausreichend Bargeld mitzuführen.
 
@@ -135,7 +123,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den bei den [offiziellen Stellen Argentiniens](https://www.argentina.gob.ar/interior/migraciones/) sowie der für [Deutschland zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den bei den [offiziellen Stellen Argentiniens](https://www.argentina.gob.ar/interior/migraciones/) sowie der für [Deutschland zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
