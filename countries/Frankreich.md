@@ -4,6 +4,18 @@ Einschließlich **Französische Überseegebiete**
 
 ## Aktuelles
 
+### *Martinique*
+
+**Von nicht unbedingt notwendigen Reisen nach Martinique wird derzeit abgeraten.**
+
+Im französischen Überseegebiet Martinique kam es in den vergangenen Tagen erneut zu Demonstrationen wegen der hohen Lebensmittelpreise vor Ort. Im Zuge dessen wurde am 11. Oktober 2024 der internationale Flughafen in Fort-de-France von Demonstrierenden gestürmt; einige Flüge mussten in der Region umgeleitet werden. Der Flughafen befindet sich aktuell wieder unter Kontrolle der Sicherheitskräfte, bleibt aber bis auf Weiteres geschlossen.
+
+Eine Ausgangssperre und ein Versammlungsverbot wurden verhängt.
+
+* Bitte informieren Sie sich bei der [Präfektur von Martinique](https://www.martinique.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
+* Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
+* Befolgen Sie Anweisungen der lokalen Sicherheitskräfte.
+
 ### *Grenzkontrollen*
 
 Im Nachgang der Olympischen und Paralympischen Spiele führt Frankreich noch bis Ende Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig. 

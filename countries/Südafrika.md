@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-### *Krüger Nationalpark*
+### *Krüger-Nationalpark*
 
 Die südafrikanische Nationalparkverwaltung unternimmt jegliche Anstrengung, die Sicherheit von Touristen in und um den Krüger-Nationalpark zu gewährleisten und hat für Reisende in die Provinz Mpumalanga folgende Help Line eingerichtet: +27-(0)6630 0 0991.
 
@@ -45,9 +45,9 @@ Reisende bzw. Reisegruppen werden auf Autobahnen oder -zufahrten angehalten und 
 
 In dichtem Verkehr und an roten Ampeln erfolgen häufiger Blitzeinbrüche, sog. „smash-and-grab“- Überfälle, bei denen Autotüren geöffnet oder Scheiben eingeschlagen werden, um Wertgegenstände aus dem Auto zu entwenden. Nach Einbruch der Dunkelheit besteht an weniger befahrenen Straßenkreuzungen die Gefahr von Fahrzeugentführungen (sog. „carjackings“).
 
-Bei Autobahnfahrten im städtischen Umland, insbesondere beim Transit durch bestimmte Vorortgebiete (z.B. Kapstadt: N2 Weg zum und vom Flughafen, Strecke Kapstadt – Stellenbosch/Somerset West-Kapstadt; Pretoria: Fahrten auf der N4 zum Pilanesberg oder zum Flughafen Lanseria auf der N14) besteht bei Dämmerung und Dunkelheit ein erhöhtes Risiko des sog. „Stoning“, d. h. Fahrzeuge werden durch Steinwurf oder auf der Fahrbahn platzierte Steinblöcke zum Abbremsen und Stoppen gezwungen. Die daraus resultierende Situation wird für einen Überfall auf die Insassen genutzt.
+Bei Autobahnfahrten im städtischen Umland, insbesondere beim Transit durch bestimmte Vorortgebiete (z.B. Kapstadt: N2 Weg zum und vom Flughafen, Strecke Kapstadt – Stellenbosch/Somerset West-Kapstadt; Pretoria: Fahrten auf der N4 zum Pilanesberg oder zum Flughafen Lanseria auf der N14) besteht bei Dämmerung und Dunkelheit ein erhöhtes Risiko des sog. „Spiking“, d.h. Fahrzeuge werden z.B. durch Steinwurf oder auf der Fahrbahn platzierte Steinblöcke zum Abbremsen und Stoppen gezwungen. Die daraus resultierende Situation wird für einen Überfall auf die Insassen genutzt.
 
-* Führen Sie während Ihres Aufenthalts in Südafrika ein Mobiltelefon mit und tragen Sie dieses im innerstädtischen Bereich nicht sichtbar. Notrufnummern: Polizei 10 111, Rettungsdienste 10 177 oder 112.
+* Führen Sie während Ihres Aufenthalts in Südafrika ein Mobiltelefon mit und tragen Sie dieses im innerstädtischen Bereich nicht sichtbar. Notrufnummern: Polizei 10 111, Rettungsdienste 10 177 oder 112. Bei Ankunft am Flughafen können südafrikanische SIM-Karten (Internet und Gesprächsguthaben) günstig erworben werden.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; tragen Sie eine beglaubigte Kopie bei sich und speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Tragen Sie Wertsachen nicht zur Schau; verzichten Sie möglichst auf große, wertvolle Handtaschen.
 * Behalten Sie Ihre Wertgegenstände in Bars oder Restaurants stets im Auge.
@@ -174,7 +174,7 @@ Minderjährige deutsche Staatsangehörige, die mit mindestens einem Elternteil z
 Reist ein Minderjähriger ohne Begleitung eines Erwachsenen, sind neben dem gültigen Pass folgende Unterlagen mitzuführen:
 
 * Internationale Geburtsurkunde (oder eine Geburtsurkunde mit englischer Übersetzung),
-* Zustimmungserklärung der Eltern in englischer Sprache, z.B. mittels Muster „Parental consent letter“,
+* Zustimmungserklärung der Eltern in englischer Sprache, z.B. mittels Muster [„Parental consent letter“,](https://www.google.de/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.suedafrika.org/downloads/Parental_consent_letter.doc&ved=2ahUKEwimiqu80YWJAxWJVfEDHTslDesQFnoECBsQAQ&usg=AOvVaw30oPzneSCW3KlDqAFe514W)
 * Passkopien der Eltern/Sorgeberechtigten, bei Alleinsorge Gerichtsbeschluss über das alleinige Sorgerecht oder Sterbeurkunde des anderen Elternteils jeweils mit Übersetzung in die englische Sprache,
 * Kontaktdetails der Eltern/Sorgeberechtigten,
 * Bestätigungsschreiben in englischer Sprache und Kontaktdaten sowie Passkopie der Person, zu welcher der Minderjährige reisen soll.

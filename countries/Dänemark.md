@@ -83,13 +83,13 @@ Vorwiegend in den Sommermonaten finden auf den Färöer-Inseln traditionell Grin
 
 ### LGBTIQ
 
-Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
+Es gibt keine Hinweise auf besondere Schwierigkeiten; die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
 
 ### Rechtliche Besonderheiten
 
-Das Führen von Dolchen oder Messern ist in der Öffentlichkeit verboten. Daher sollte man z.B. darauf verzichten, an einem dänischen Rastplatz ein Messer bei sich zu tragen, sondern es vorschriftsgemäß im abgeschlossenen Kfz aufbewahren.
+Das Mitführen von Dolchen oder Messern ist in der Öffentlichkeit verboten. Daher sollte man z.B. darauf verzichten, an einem dänischen Rastplatz ein Messer bei sich zu tragen, sondern es vorschriftsgemäß im abgeschlossenen Kfz aufbewahren.
 
 Anders als in Deutschland sind auch das Führen, der Handel und die Einfuhr von Tränengasspray verboten.
 
@@ -165,7 +165,7 @@ Waffen dürfen ohne vorherige Genehmigung durch die dänische Polizei oder das D
 Für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) ist ein EU-Heimtierausweis erforderlich. Er dient u. a. als Nachweis, dass das Tier gegen Tollwut geimpft ist.  
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)
 
-Nähere Informationen zu den Bestimmungen über Haustiere und eine Liste der in Dänemark verbotenen Hunderassen bieten die [dänische Botschaft in Berlin](http://tyskland.um.dk/de/reise-und-aufenthalt/reisen-mit-tieren) und die [dänische Behörde für Ernährung. "Fødevarestyrelsen".](https://www.foedevarestyrelsen.dk/english/Pages/default.aspx)
+Nähere Informationen zu den Bestimmungen über Haustiere und eine Liste der in Dänemark verbotenen Hunderassen bieten die [dänische Botschaft in Berlin](http://tyskland.um.dk/de/reise-und-aufenthalt/reisen-mit-tieren) und die [dänische Behörde für Ernährung. "Fødevarestyrelsen".](https://www.foedevarestyrelsen.dk/english/Pages/default.aspx) In Bezug auf Bissverletzungen und deren Folgen für den Hund, der gebissen hat, wird insbesondere auf das dänische [Hundegesetz](https://tyskland.um.dk/de/reise-und-aufenthalt/reisen-mit-tieren/reisen-mit-hunden) hingewiesen.  
 
 #### *Besondere Regelungen für die Färöer und für Grönland*
 
