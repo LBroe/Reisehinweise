@@ -8,9 +8,11 @@ Einschließlich **Französische Überseegebiete**
 
 **Von nicht unbedingt notwendigen Reisen nach Martinique wird derzeit abgeraten.**
 
-Im französischen Überseegebiet Martinique kam es in den vergangenen Tagen erneut zu Demonstrationen wegen der hohen Lebensmittelpreise vor Ort. Im Zuge dessen wurde am 11. Oktober 2024 der internationale Flughafen in Fort-de-France von Demonstrierenden gestürmt; einige Flüge mussten in der Region umgeleitet werden. Der Flughafen befindet sich aktuell wieder unter Kontrolle der Sicherheitskräfte, bleibt aber bis auf Weiteres geschlossen.
+Im französischen Überseegebiet Martinique ist die Lage vor dem Hintergrund von Demonstrationen wegen hoher Lebenshaltungskosten weiterhin angespannt.
 
-Eine Ausgangssperre und ein Versammlungsverbot wurden verhängt.
+Der Flugbetrieb auf dem internationalen Flughafen in Fort-de-France war zwischenzeitlich eingestellt, wurde nun jedoch wieder aufgenommen.
+
+Es bestehen weiterhin eine Ausgangssperre und ein Versammlungsverbot.
 
 * Bitte informieren Sie sich bei der [Präfektur von Martinique](https://www.martinique.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
