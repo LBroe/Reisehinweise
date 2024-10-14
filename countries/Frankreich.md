@@ -54,6 +54,8 @@ Im Überseedépartement Mayotte kann es weiterhin aufgrund innenpolitischer Span
 
 ## Sicherheit
 
+**Von nicht unbedingt notwendigen Reisen nach Martinique wird derzeit abgeraten.**
+
 **Von nicht unbedingt notwendigen Reisen nach Neukaledonien wird derzeit abgeraten.**
 
 ### Terrorismus

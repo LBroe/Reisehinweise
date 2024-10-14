@@ -1,8 +1,22 @@
 # Norwegen: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+In Hinblick auf die militärischen Auseinandersetzungen in Nahost und der Bedrohungszunahme gegen jüdische und israelische Einrichtungen in Norwegen hat der norwegische Polizeisicherheitsdienst die Sicherheitsstufe am 9. Oktober 2024 (von drei auf vier auf einer Skala von fünf) erhöht. Nach Aussage der Behörde liegen jedoch keine Informationen über konkrete Anschlagspläne vor.
+
+Bitte beachten Sie neben dem u.g. weltweiten Sicherheitshinweis folgende Verhaltensregeln während Ihres Aufenthalts in Norwegen:
+
+* Seien Sie insbesondere an belebten Orten und bei ungewöhnlichen, nicht alltäglichen Ereignissen aufmerksam.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Meiden Sie politische Demonstrationen und größere Menschenansammlungen.
+* Verfolgen Sie die lokalen und internationalen Medien und achten Sie auf lokale Bekanntmachungen.
+
 ## Sicherheit
 
 ### Terrorismus
+
+Siehe *Aktuelles*
 
 Norwegische Behörden weisen auf das Risiko terroristischer Anschläge hin.
 
@@ -80,7 +94,7 @@ In abgelegenen Gebieten Norwegens gibt es kein Mobilfunknetz, weshalb es bei lä
 
 ### LGBTIQ
 
-Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbesondere in Städten gut ausgeprägt.
+Es gibt keine Hinweise auf besondere Schwierigkeiten; die Akzeptanz ist insbesondere in Städten gut ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -102,12 +116,11 @@ Landeswährung ist die Norwegische Krone (NOK). Das Abheben von Bargeld an Gelda
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Norwegens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Norwegens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
