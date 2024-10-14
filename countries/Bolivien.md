@@ -10,11 +10,11 @@
 
 In Bolivien kommt es immer wieder regional zu sozialen Unruhen, die schnell eskalieren und zu gewaltsamen Auseinandersetzungen führen können. Die Reisemöglichkeiten werden dann zum Teil stark eingeschränkt, z.B. durch Straßenblockaden.
 
-* Informieren Sie sich über die lokalen Medien.
+* Informieren Sie sich über die lokalen Medien zur aktuellen Lage und planen Sie Ihren Aufenthalt entsprechend.
+* Folgen Sie stets den Anweisungen der lokalen Sicherheitsbehörden.
 * Meiden Sie Protestveranstaltungen und größere Menschenansammlungen weiträumig.
 * Versuchen Sie nicht, Straßenblockaden eigenmächtig zu durchbrechen.
-* Planen Sie Ihren Aufenthalt entsprechend der aktuellen Lage.
-* Nehmen Sie zusätzlich Essen, Trinken, warme Kleidung und notwendige Medikamente mit.
+* Nehmen Sie zusätzlich Essen, Trinken, warme Kleidung und notwendige Medikamente mit, um bei längeren Reiseverzögerungen ausreichend versorgt zu sein.
 
 ### Kriminalität
 
@@ -53,18 +53,25 @@ Bei Investitionen beispielsweise in Grundstücke, Immobilien o. Ä. ist wie bei 
 
 ## Natur und Klima
 
+### Waldbrände
+
+Die bolivianische Regierung hat wegen monatelanger Waldbrände den Katastrophenzustand ausgerufen.
+
+Zum Ende der Trockenzeit kommt es regelmäßig zu Bränden, deren Rauchentwicklung den (Flug-)Verkehr und bei sensiblen Personen die Gesundheit beeinträchtigen kann.
+
+### Regenzeit, Überschwemmungen und Erdrutschgefahr
+
 Das Klima reicht vom Hochgebirgsklima in den Anden über subtropisches Klima in Los Yungas bis zu tropischem Klima in Beni und der Trockenzone in Chaco.  
-In der Regenzeit, die normalerweise von November bis April dauert, kommt es insbesondere in gebirgigen Regionen regelmäßig zu Überflutungen und Erdrutschen. Straßen werden oft für mehrere Tage unpassierbar, Brücken sind häufig beschädigt. In den letzten Jahren forderten anhaltende Regenfälle mehrere Todesopfer.  
-Auch der große Salzsee von Uyuni birgt - nicht nur, aber insbesondere - in der Regenzeit erhebliche Gefahren, sich zu verfahren oder festzufahren.
+In der Regenzeit, die normalerweise von November bis April dauert, kommt es insbesondere in gebirgigen Regionen regelmäßig zu Überflutungen und Erdrutschen. Straßen werden oft für mehrere Tage unpassierbar, Brücken sind häufig beschädigt. In den letzten Jahren forderten anhaltende Regenfälle mehrere Todesopfer.  Auch der große Salzsee von Uyuni birgt - nicht nur, aber insbesondere - in der Regenzeit erhebliche Gefahren, sich zu verfahren oder festzufahren.
+
+### Erdbeben
 
 Die Auswirkungen von Erdbeben, die zumeist ihr Epizentrum in Chile oder Peru haben, sind gelegentlich in unterschiedlicher Intensität auch in den verschiedenen Landesteilen Boliviens zu spüren.
 
-Waldbrände kommen gelegentlich vor, besonders in den Monaten Juni bis September.
-
-* Informieren Sie sich genau über die aktuelle Lage und verfolgen Sie Wettervorhersagen ([Servicio Nacional de Meterología e Hidrología](https://senamhi.gob.bo/)).
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Informieren Sie sich genau über die aktuelle Lage und verfolgen Sie Wettervorhersagen ([Servicio Nacional de Meterología e Hidrología](https://senamhi.gob.bo/)).
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
-* Im Fall einer Sturmwarnung beachten Sie die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter") im Fall einer Sturmwarnung.
 
 ## Reiseinfos
 
@@ -89,8 +96,7 @@ Aufgrund der besonderen Gefährdungssituation wird auch von Überlandfahrten im 
 Bei der Anmietung eines Pkw für Überlandfahrten ist es – auch im Hinblick auf das Vorgehen bei Verkehrsunfällen – ratsam, einen Pkw mit Fahrer anzumieten*.*  
 Dies gilt insbesondere für Fahrten abseits der Hauptverkehrsstrecken, da sich in abgelegenen Gebieten ohne befestigte Straßen und mit nur unzulänglicher Beschilderung die Orientierung extrem schwierig gestalten kann. Auch handelsübliche Navigationssysteme und Landkarten bieten häufig keine ausreichende Sicherheit. Ohne ortskundigen Fahrer sind Gefahren (z.B. während der Regenzeit, auf dem „Salar de Uyuni“ u.a.) nur schwer einzuschätzen.
 
-Eine gesetzliche Regelung schreibt Tankstellenbetreibern vor, dass mit ausländischen Kennzeichen registrierte Fahrzeuge für Benzin höhere Preise zahlen müssen als mit bolivianischen Kennzeichen registrierte Fahrzeuge. In der Praxis bedeutet dies, dass viele Tankstellenbetreiber nicht wissen, wie sie diese Preise abrechnen sollen und sich daher zum Teil weigern, Kraftstoff an ausländische Fahrzeuginhaber zu verkaufen.  
-Generell wird Diesel nicht an Privatpersonen mit Dieselfahrzeugen unter 4 Liter Hubraum verkauft. Vor allem bei Überlandfahrten kommt es gelegentlich zu Engpässen bei der Versorgung mit Dieselkraftstoff.
+Eine gesetzliche Regelung schreibt Tankstellenbetreibern vor, dass mit ausländischen Kennzeichen registrierte Fahrzeuge für Benzin höhere Preise zahlen müssen als mit bolivianischen Kennzeichen registrierte Fahrzeuge. In der Praxis bedeutet dies, dass viele Tankstellenbetreiber nicht wissen, wie sie diese Preise abrechnen sollen und sich daher zum Teil weigern, Kraftstoff an ausländische Fahrzeuginhaber zu verkaufen. Generell wird Diesel nicht an Privatpersonen mit Dieselfahrzeugen unter vier Liter Hubraum verkauft. Vor allem bei Überlandfahrten, zunehmend aber auch in den Städten kommt es zu Engpässen bei der Versorgung mit Benzin und Dieselkraftstoff.  
 
 * Planen Sie Wartezeiten aufgrund von Blockaden oder Protesten ein und führen bei Überlandfahrten einen ausreichenden Wasservorrat und Proviant mit sich.
 * Vertrauen Sie insbesondere bei länger anhaltendem Regen bzw. in der Regenzeit auf ortskundige Fahrer, die mögliche Gefahren bzw. die Vorgehensweise bei einem Unfall besser einschätzen können. Autovermietungen bieten die Möglichkeit, Pkw mit ortskundigen Fahrern anzumieten.
@@ -104,7 +110,7 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 
 Wanderungen und Gebirgstouren sind im ganzen Land möglich, insbesondere in den Regionen um La Paz, nahe Rurrenabaque in den bolivianischen Anden, in Los Yungas und auf dem Inca-Trail.
 
-Verschiedene Reiseveranstalter bieten Touren in Bolivien an. Nicht alle Veranstalter sind offiziell akkreditiert und teilweise nicht einmal als Unternehmen angemeldet. Es wird dazu geraten, sich vor der Buchung zu informieren, ob der Anbieter offiziell registriert ist und ob angemessene Sicherheitsmaßnahmen ergriffen werden. Dies gilt vor allem für Abenteuertourismus. Zusätzlich kann überprüft werden, ob der Anbieter Mitglied der Vereinigung „Asociación Boliviana de Agencias de Viaje y Turismo“ ist und über in erster Hilfe geschultes Personal, einwandfrei funktionierendes Material sowie, bei Reisen in großer Höhe, über Sauerstoffflaschen verfügt. Insbesondere bei Reisezielen außerhalb der großen Städte (Uyuni, Madidi, Coroico und „Todesstraße“) sind keine oder kaum Rettungswagen vorhanden. In Uyuni wurde die Touristenpolizei als Anlaufstelle für Touristen, die Opfer von Verbrechen geworden sind, abgezogen. Eine eingehende Prüfung des Touranbieters und seiner Ausstattung vor Buchung wird dringend empfohlen.
+Verschiedene Reiseveranstalter bieten Touren in Bolivien an. Nicht alle Veranstalter sind offiziell akkreditiert und teilweise nicht einmal als Unternehmen angemeldet. Es wird dazu geraten, sich vor der Buchung zu informieren, ob der Anbieter offiziell registriert ist und ob angemessene Sicherheitsmaßnahmen ergriffen werden. Dies gilt vor allem für Abenteuertourismus. Zusätzlich kann überprüft werden, ob der Anbieter Mitglied der Vereinigung „Asociación Boliviana de Agencias de Viaje y Turismo“ ist und über in erster Hilfe geschultes Personal, einwandfrei funktionierendes Material sowie, bei Reisen in großer Höhe, über Sauerstoffflaschen verfügt. Insbesondere bei Reisezielen außerhalb der großen Städte (Uyuni, Madidi, Coroico und „Todesstraße“) sind keine oder kaum Rettungswagen vorhanden. In Uyuni wurde die Touristenpolizei als Anlaufstelle für Touristen, die Opfer von Verbrechen geworden sind, abgezogen. Eine eingehende Prüfung des Touranbieters und seiner Ausstattung vor Buchung wird dringend empfohlen, weitere Informationen bietet die [Webseite](https://www.turismo.produccion.gob.bo/) des bolivianischen Ministeriums für Tourismus. Dort kann auch überprüft werden, ob Touranbieter über die erforderliche gewerbliche Genehmigung verfügen.
 
 Bei Hochgebirgstouren kommt es aufgrund der extremen Höhenlage und der besonderen lokalen Bedingungen wie z.B. überwachsenem Geröll auch unter erfahrenen Bergsteigern zu teilweise schweren Unfällen. Es gibt in Bolivien jedoch keine Gebirgsrettung, Rettungsflüge sind vielerorts nicht möglich. Vor Aufbruch sollten Sie beim Veranstalter bzw. lokalen Führern Informationen über die konkreten Rettungsmöglichkeiten im Notfall einholen, im Zweifel mit Nachdruck. Restriktionen und Empfehlungen der nationalen Parkverwaltung (SENAP) zu den einzelnen Gebieten sollten unbedingt beachtet werden.
 
@@ -138,7 +144,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Boliviens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Boliviens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 #### *Einreise*
 
@@ -185,6 +191,12 @@ Um Probleme bei der Wiederausreise zu vermeiden, wird alleinreisenden Minderjäh
 
 Bei Aufenthalten über 90 Tagen müssen alleinreisende Minderjährige zusätzlich zur o.g. Vollmacht bei der Wiederausreise eine Genehmigung des örtlichen bolivianischen Jugendgerichts vorlegen. Die Beantragung dieser Genehmigung erfolgt durch den Minderjährigen, gemeinsam mit zwei Zeugen, unter Beibringung der Geburtsurkunde im Original mit Apostille.
 
+### Doppelstaater
+
+Deutsch-bolivianische Doppelstaater müssen mit einem bolivianischen Reisepass ein- und ausreisen.
+
+Ehemalige bolivianische Staatsangehörige, die die bolivianische Staatsangehörigkeit durch Einbürgerung verloren haben, erwerben die bolivianische Staatsangehörigkeit automatisch wieder, wenn sie bolivianisches Staatsgebiet betreten.
+
 ### Einfuhrbestimmungen
 
 Die Ein- und Ausfuhr von Devisen (in bar) bis 10.000 USD ist ohne Genehmigung möglich, höhere Beträge (bis 20.000 USD) müssen bei Ankunft deklariert werden. Für Beträge zwischen 20.000 und 500.000 USD oder dem entsprechenden Gegenwert in einer anderen Währung ist die vorherige Genehmigung der bolivianischen Zentralbank erforderlich. Weitere Informationen hierzu erteilt die [Banco Central de Bolivia](https://www.bcb.gob.bo/). 
@@ -203,16 +215,6 @@ Für die Einfuhr von Heimtieren müssen ein tierärztliches Gesundheitszeugnis s
 
 ## Gesundheit
 
-### Aktuelles
-
-#### *Oropouche-Fieber*
-
-Oropouche-Fieber ist eine durch das gleichnamige Virus ausgelöste Infektionskrankheit, die ähnlich wie Dengue-Fieber mit plötzlichen Fieberanstieg, starken Kopfschmerzen, Übelkeit und Erbrechen, Gelenk- und Gliederschmerzen und selten einer Hirnhautentzündung verläuft. Die Erkrankung wird vorwiegend nachts über Stechgnitzen sowie Stechmücken übertragen.
-
-Seit März 2024 treten im zu Brasilien und Peru angrenzenden Tiefland der Departments La Paz und Pando vermehrt Fälle auf. Von einer höheren Dunkelziffer muss ausgegangen werden. Eine Therapie oder Impfung existiert nicht.
-
-* Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere abends und nachts konsequent vor Mückenstichen. Mückenschutzmittel sollten aus Deutschland mitgebracht werden.
-
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind zwar keine Pflichtimpfungen vorgeschrieben, bei Einreise aus einem Gelbfiebergebiet ist aber ab dem vollendeten 12. Lebensmonateine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachzuweisen. Alle Gebiete in Bolivien unterhalb von 2.300 m und damit u.a. der gesamte bolivianische Amazonas sind Gelbfieberübertragungsgebiet.  
@@ -223,14 +225,11 @@ Daher wird grundsätzlich allen Reisenden dringend eine Gelbfieberimpfung empfoh
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
-### Zika-Virus-Infektion
+### Chikungunya-Fieber
 
-Gemäß der Weltgesundheitsorganisation (WHO) wird Bolivien mit einer möglichen Übertragbarkeit von Zika-Viren klassifiziert, d.h. Kategorie 1 bzw. 2 der aktuellen [WHO-Einteilung](http://www.who.int/health-topics/zika-virus-disease#tab=tab_1), auch wenn u.U. aktuell keine neuen Erkrankungsfälle dokumentiert werden.  
-Das Übertragungsrisiko kann dabei sowohl regional als auch saisonal erheblich variieren.
+Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen. Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu lang anhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe auch [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
 
-Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Viren kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen.
-
-* Beachten Sie für Ihre Reise die Empfehlungen, siehe [Zika-Virus-Infektion.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen")
+* Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere tagsüber konsequent vor Mückenstichen. Mückenschutzmittel sollten aus Deutschland mitgebracht werden.
 
 ### Dengue-Fieber
 
@@ -239,11 +238,13 @@ Dengue-Viren werden in weiten Teilen des Landes durch tagaktive *Aedes*-Mücken 
 * Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere tagsüber konsequent vor Mückenstichen. Mückenschutzmittel sollten aus Deutschland mitgebracht werden.
 * Lassen Sie sich bezüglich einer Impfung von Tropen- und/oder Reisemedizinern beraten.
 
-### Chikungunya-Fieber
+### Oropouche-Fieber
 
-Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen. Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu lang anhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe auch [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
+Oropouche-Fieber ist eine durch das gleichnamige Virus ausgelöste Infektionskrankheit, die ähnlich wie Dengue-Fieber mit plötzlichen Fieberanstieg, starken Kopfschmerzen, Übelkeit und Erbrechen, Gelenk- und Gliederschmerzen und selten einer Hirnhautentzündung verläuft. Die Erkrankung wird vorwiegend nachts über Stechgnitzen sowie Stechmücken übertragen.
 
-* Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere tagsüber konsequent vor Mückenstichen. Mückenschutzmittel sollten aus Deutschland mitgebracht werden.
+In einigen Regionen des Landes, insbesondere an der Grenze zu Peru und Bolivien, treten immer wieder Fälle auf., teilweise in Ausbrüchen. Eine Therapie oder Impfung existiert nicht.
+
+Schützen Sie sich zur Vermeidung von Oropouche-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere abends und nachts konsequent vor Mückenstichen. Mückenschutzmittel sollten aus Deutschland mitgebracht werden.
 
 ### Malaria
 
@@ -264,6 +265,15 @@ Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophy
 * Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
 * Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria). Mückenschutzmittel sollten aus Deutschland mitgebracht werden.
 * Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
+
+### Zika-Virus-Infektion
+
+Gemäß der Weltgesundheitsorganisation (WHO) wird Bolivien mit einer möglichen Übertragbarkeit von Zika-Viren klassifiziert, d.h. Kategorie 1 bzw. 2 der aktuellen [WHO-Einteilung](http://www.who.int/health-topics/zika-virus-disease#tab=tab_1), auch wenn u.U. aktuell keine neuen Erkrankungsfälle dokumentiert werden.  
+Das Übertragungsrisiko kann dabei sowohl regional als auch saisonal erheblich variieren.
+
+Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Viren kann in der Schwangerschaft zu Fehlbildungen beim Kind führen sowie neurologische Komplikationen beim Erwachsenen hervorrufen.
+
+* Beachten Sie für Ihre Reise die Empfehlungen, siehe [Zika-Virus-Infektion.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen")
 
 ### HIV/AIDS
 
@@ -313,7 +323,7 @@ Bei den letzten aktuellen Ausbrüchen in Südamerika erfolgte die Übertragung d
 In der akuten Erkrankungsphase treten grippeähnliche Symptome und bei Übertragung durch den infizierten Kot in bis zu 50% eine Schwellung des Augenlides auf. Jahre nach der Infektion kann es zu gravierenden Organveränderungen mit Todesfällen kommen.
 
 * Verzichten Sie auf den Genuss von nicht-industriell verarbeiteten Frucht- und Zuckerohrsäften, z.B. in Bolivien auch von Açaí-, Coco- oder Majo-Saft.
-* Schützen Sie sich durch eine [Expositionsprophylaxe,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere durch korrekt angebrachte Bettnetze vor nächtlichen Raubwanzenbissen in einfachen Unterkünften auf dem Land.
+* Schützen Sie sich durch eine [Expositionsprophylaxe](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")[,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten") insbesondere durch korrekt angebrachte Bettnetze vor nächtlichen Raubwanzenbissen in einfachen Unterkünften auf dem Land.
 
 ### Höhenkrankheit (Soroche)
 
