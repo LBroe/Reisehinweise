@@ -8,11 +8,9 @@
 
 In der Ukraine finden Kampfhandlungen, Raketen- und Luftangriffe statt.
 
-**Rund um den Tag der ukrainischen Unabhängigkeit am 24. August 2024 kann es zu verstärkten Raketen- und Luftangriffen auf die Ballungszentren, insbesondere die Hauptstadt Kyjiw, kommen.**
-
 Der Luftraum ist geschlossen. Ein- und Ausreisen ist nur auf dem Landweg möglich. In Kyjiw und anderen Orten werden bei Bedarf – auch kurzfristig – Ausgangssperren verhängt.
 
-Die deutsche Botschaft hat den Dienstbetrieb in Kyjiw in eingeschränkter Form wiederaufgenommen. Derzeit wahrgenommene konsularische Aufgaben können der [Rubrik Visa und Konsularservice](https://ukraine.diplo.de/ua-de/service) der deutschen Vertretungen in der Ukraine entnommen werden. . Das Generalkonsulat in Donezk (mit Sitz in Dnipro) ist weiterhin geschlossen.
+Die deutsche Botschaft hat den Dienstbetrieb in Kyjiw in eingeschränkter Form wiederaufgenommen. Derzeit wahrgenommene konsularische Aufgaben können der [Rubrik Visa und Konsularservice](https://ukraine.diplo.de/ua-de/service) der deutschen Vertretungen in der Ukraine entnommen werden. Das Generalkonsulat in Donezk (mit Sitz in Dnipro) ist weiterhin geschlossen.
 
 Männlichen ukrainischen Staatsbürgern im Alter von 18 bis 60 Jahren ist seit der Generalmobilmachung die Ausreise aus der Ukraine verboten. Weitere Staatsangehörigkeiten der Betreffenden werden von den ukrainischen Behörden in diesem Zusammenhang nicht berücksichtigt.
 
@@ -291,9 +289,7 @@ Die medizinische Versorgung entspricht nicht immer westeuropäischem Standard. A
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch einen Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

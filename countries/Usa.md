@@ -2,20 +2,6 @@
 
 ## Aktuelles
 
-### *Hurrikan „Milton“*
-
-Der Hurrikan „Milton“ wird am späten Mittwochabend des 9. Oktober 2024 auf den US-Bundesstaat Florida treffen. Es wird erwartet, dass das Zentrum des Sturms im Raum Tampa-Sarasota auf Land trifft und in nordöstliche Richtung nahe Orlando über die Halbinsel zieht.
-
-* Sollten Sie in diesen Tagen eine Reise nach Florida geplant haben, sehen Sie bitte davon ab.
-
-Im gesamten Bundesstaat Florida muss mit schweren Zerstörungen durch starken Wind, Starkregen, Sturmfluten, Überschwemmungen, und Tornados gerechnet werden. Auch kann es zu länger anhaltenden Stromausfällen, sowie Straßensperrungen und Ausfällen im Flug- und Bahnverkehr kommen.
-
-* Leisten Sie den Anweisungen der lokalen Behörden unbedingt Folge.
-* Machen Sie sich mit den aktuell geltenden Empfehlungen zur Vorsorge und den Warn- und Evakuierungsverfahren der Behörden an Ihrem Wohnort vertraut.
-* Verfolgen Sie regelmäßig Wetterberichte, achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/), beachten Sie die Webseite [FloridaDisaster.org](https://www.floridadisaster.org/updates/) und verfolgen Sie die [aktuellen Posts des Florida Division of Emergency Managements.](https://twitter.com/FLSERT)
-* Erkundigen Sie sich über aktuelle Beeinträchtigungen bei der [FEMA](https://www.fema.gov/) (Federal Emergency Management Agency) oder nutzen Sie die [FEMA-App](https://www.fema.gov/mobile-app), die neben aktuellen Alarmmeldungen auch nächstgelegene Notunterkünfte anzeigt.
-* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
-
 ### *Busch- und Waldbrände*
 
 Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
