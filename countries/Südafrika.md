@@ -11,7 +11,7 @@ Die südafrikanische Nationalparkverwaltung unternimmt jegliche Anstrengung, die
 
 ### *Kapstadt und Garden Route*
 
-Die Tourismusbehörden der Provinz Westkap ([Kontakt Provinz Westkap](https://www.westerncape.gov.za/site-page/economic-sector-support-tourism-safety-safety-tips)) sowie der Stadtverwaltung Kapstadt ([Kontakt Kapstadt)](https://www.capetown.travel/travelwise/emergency-contacts/) bieten internationalen Reisenden Unterstützung an, geben Sicherheitstipps und teilen Notfallnummern mit. Reisenden wird empfohlen, die Notfallnummern nach Ankunft einspeichern und stets griffbereit haben.
+Die Tourismusbehörden der Provinz Westkap ([Kontakt Provinz Westkap](https://www.westerncape.gov.za/site-page/economic-sector-support-tourism-safety-safety-tips)) sowie der Stadtverwaltung Kapstadt ([Kontakt Kapstadt)](https://www.capetown.travel/travelwise/emergency-contacts/) bieten internationalen Reisenden Unterstützung an, geben Sicherheitstipps und teilen Notfallnummern mit. Reisenden wird empfohlen, die Notfallnummern nach Ankunft einzuspeichern und stets griffbereit zu haben.
 
 Wanderungen in der Region sollten niemals alleine, sondern ausschließlich in Gruppen durchgeführt werden. Auf eine angemessene Wanderausrüstung ist zu achten. Besonders auf den beliebten Wanderwegen rund um den Tafelberg (Devil’s Peak, Lion’s Head und Signal Hill) kam es bereits zu Raubüberfällen auf Touristen.
 
