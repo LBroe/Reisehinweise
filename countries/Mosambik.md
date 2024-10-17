@@ -36,7 +36,7 @@ Die innenpolitische Lage in Mosambik ist überwiegend stabil. Der langjährige B
 
 Im Anschluss an die Kommunalwahlen im Oktober 2023 kam es landesweit zu Demonstrationen, teil auch zu Zusammenstößen mit Sicherheitskräften.
 
-Für den 9. Oktober 2024 sind Präsidentschafts-, Parlaments- und Gouverneurswahlen angesetzt. Im zeitlichen Umfeld kann es zu Demonstrationen kommen.
+Am 9. Oktober 2024 fanden Präsidentschafts-, Parlaments- und Gouverneurswahlen statt. Aktuell und vor allem mit der Bekanntgabe der Wahlergebnisse, kann es jederzeit zu (auch unangekündigten) Demonstrationen kommen.
 
 * Informieren Sie sich engmaschig über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
@@ -111,12 +111,11 @@ Darüber hinaus sind telegrafische Bargeldüberweisungen nach Mosambik möglich.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Die Zollbestimmungen für Deutschland können Sie auf der [Webseite des deutschen Zolls](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)  und per [App "Zoll und Reise"](https://www.zoll.de/DE/Privatpersonen/Reisen/Abgabenrecher-Zoll-und-Reise/abgabenrecher-zoll-und-reise_node.html "App Zoll und Reise") finden oder dort telefonisch erfragen.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Die Zollbestimmungen für Deutschland können Sie auf der [Webseite des deutschen Zolls](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)  und per [App "Zoll und Reise"](https://www.zoll.de/DE/Privatpersonen/Reisen/Abgabenrecher-Zoll-und-Reise/abgabenrecher-zoll-und-reise_node.html "App Zoll und Reise") finden oder dort telefonisch erfragen.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -255,9 +254,7 @@ Die medizinische Versorgung im Lande ist mit der in Europa nicht zu vergleichen 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-#### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
