@@ -91,7 +91,7 @@ Während des Fastenmonats Ramadan ist außerhalb westlicher Hotels mit Einschrä
 
 ### LGBTIQ
 
-Homosexualität bzw. homosexuelle Handlungen stehen unter Strafe.
+Homosexuelle Handlungen stehen unter Strafe.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -113,12 +113,11 @@ Landeswährung ist der algerische Dinar (DZD). Kreditkarten werden außerhalb de
 
 Ein-/Ausreisen von/nach Marokko sind derzeit nicht möglich.
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland") Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Algeriens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Algeriens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### **Reisedokumente**
 
@@ -177,6 +176,16 @@ Für die Einfuhr von Hunden und Katzen wird eine allgemeine Gesundheitsbescheini
 
 ## **Gesundheit**
 
+### Aktuelles
+
+#### *Malaria-Ausbruch*
+
+Ende September 2024 berichtete das algerische Gesundheitsministerium über stark erhöhte Malaria-Fallzahlen in den südlich gelegenen Verwaltungsbezirken von Tamanrasset (Grenzregion zu Niger), Bordj Badji Mokhtar (Grenzregion zu Mali) und Guezzam (Grenzregion zu Niger und Mali), u.a. zurückzuführen auf starke Regenfälle im September in der Region mit daraus resultierendem stagnierendem Wasser, was die Vermehrung von Moskitos beschleunigte. Zwei Städte an der Grenze zu Mali, Tinzaouatine und Timiaouine, sind am stärksten betroffen. Bei Aufenthalt in diesen Regionen ist auf konsequenten Mückenschutz und das Tragen langer Kleidung zu achten.
+
+Algerien wurde 2019 von der WHO offiziell als malariafrei zertifiziert, nachdem keine autochthonen Übertragungen innerhalb von drei Jahren im Land nachgewiesen wurden.
+
+* Achten Sie bei Aufenthalt in diesen Regionen auf konsequenten Mückenschutz und das Tragen langer Kleidung.
+
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet oder Aufenthalt von mehr als 12 Stunden im Transit eines Gelbfiebergebiets müssen alle Personen ab einem Alter von ≥ neun Monaten eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachweisen. Algerien selbst ist kein Gelbfieberinfektionsgebiet.
@@ -213,7 +222,7 @@ Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel 
 
 ### **Schistosomiasis (Bilharziose)**
 
-Die Bilharziose wird in zwei isolierten Regionen (im Norden – Wadi Hamiz; im Süden – Tassili-Gebiet) beim Baden, Waten oder anderen Freizeitaktivitäten im oder am Süßwasser durch das Eindringen der Wurmlarven durch die intakte Haut übertragen, siehe [Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)").
+Die Bilharziose wird in zwei isolierten Regionen (im Norden – Wadi Hamiz; im Süden – Tassili-Gebiet) beim Baden, Waten oder anderen Freizeitaktivitäten im oder am Süßwasser durch das Eindringen der Wurmlarven durch die intakte Haut übertragen, siehe [Schistosomiasis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")
 
 * Sehen Sie im Norden vom Baden in Süßwassergewässern konsequent ab.
 
@@ -227,7 +236,7 @@ Es kommt immer wieder zu Ausbrüchen von Brucellose in Algerien. Diese bakteriel
 
 Es bestehen Gefahren durch Schlangen und Skorpione.
 
-* Beachten Sie bei Schlangenbissen die Hinweise [Erste Hilfe bei Schlangenbissen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schlangenbisse/2519592 "Schlangenbisse")[.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schlangenbisse/2519592 "Schlangenbisse")
+* Beachten Sie bei Schlangenbissen die Hinweise [Erste Hilfe bei Schlangenbissen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schlangenbisse/2519592 "Schlangenbisse")
 
 ### Medizinische Versorgung
 
