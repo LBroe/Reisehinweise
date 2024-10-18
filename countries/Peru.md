@@ -4,22 +4,14 @@
 
 ### *Aktuelle Sicherheitslage*
 
-Im Zuge der verschlechterten Sicherheitslage in Ecuador (siehe auch Reise- und Sicherheitshinweise [Ecuador](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232#content_4)) hat Peru für die fünf an Ecuador grenzenden Regionen im Norden des Landes (**Tumbes, Piura, Cajamarca, Amazonas und Loreto**) den Notstand ausgerufen und die Präsenz des Militärs und der Polizeibehörden verstärkt. Die Landgrenzen zu Ecuador bleiben für den Personenverkehr geöffnet.
+Derzeit kann es aufgrund verschiedener Streiks lokaler und nationaler Transportgewerkschaften landesweit zu Einschränkungen im Personenverkehr kommen. Diese Streiks können kurzfristig angekündigt, aber auch kurzfristig wieder abgesagt werden. Insbesondere im Großraum Lima ist auch mit Protestaktionen zu rechnen. Touristengebiete sind hiervon in der Regel nicht betroffen.
 
-Aufgrund einer Anordnung des ecuadorianischen Innenministeriums, wonach alle nicht in Ecuador lebenden Ausländer bei Einreise auf dem **Landweg** ein aktuelles [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) vorlegen müssen, kann es zu Verzögerungen bei oder Verweigerungen der Einreise von Peru nach Ecuador kommen. Weitere Informationen (auch über evtl. Ausnahmen) bieten die Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)
-
-Aufgrund von gewaltsamen Zusammenstößen zwischen Polizeikräften und der Bevölkerung in der Provinz Quispicanchi bittet die zuständige Regionalverwaltung (Gercetur) Tourveranstalter aktuell keine Touristen über die Zugangsstraßen zum Regenbogen-Berg Vinicunca zu schicken.
-
-In verschiedenen Regionen des Landes gilt ebenfalls weiterhin der Notstand, siehe *Sicherheit – Innenpolitische Lage*.
-
-Während des Notstands sind einige von der Verfassung geschützten Rechte der Bevölkerung eingeschränkt, so u.a. das Recht auf Versammlungsfreiheit und Bewegungsfreiheit, aber auch das Recht auf Unverletzbarkeit des Wohnraums. Zum anderen wird dem Militär die Möglichkeit eröffnet, die Polizei bei ihren Aufgaben zu unterstützen.
-
-Im Amazonasgebiet Loreto besteht ein Konflikt um die Erdölförderung, der teilweise zur Blockade des Schiffsverkehrs auf dem Ucavali (Canal Puinahua) führt. 
+In verschiedenen Regionen des Landes gilt weiterhin der Notstand, siehe *Sicherheit – Innenpolitische Lage,* währenddessen einige von der Verfassung geschützten Rechte der Bevölkerung eingeschränkt sind, so u.a. das Recht auf Versammlungsfreiheit und Bewegungsfreiheit, aber auch das Recht auf Unverletzbarkeit des Wohnraums. Zudem wird dem Militär die Möglichkeit eröffnet, die Polizei bei ihren Aufgaben zu unterstützen, siehe *Sicherheit – Innenpolitische Lage.*
 
 * Informieren Sie sich bei der peruanischen Regierung über die Straßensituation bezüglich Blockaden und anderer Unterbrechungen. Planen Sie hinreichend Zeit ein und machen Sie ggf. alternative Reisepläne.
 * Verfolgen Sie die aktuelle Sicherheitslage in den peruanischen Medien, so z.B. über den Kanal der [peruanischen Polizei](https://twitter.com/policiaperu) und bleiben Sie wachsam.
 * Folgen Sie den Anweisungen der peruanischen Behörden.
-* Halten Sie sich von Menschenansammlungen fern.
+* Halten Sie sich von großen Menschenansammlungen und Demonstrationen fern.
 * Fragen Sie ggf. in Ihrem Hotel nach, wie die Situation vor Ort aktuell ist, und gehen Sie keine unnötigen Risiken ein.
 * Bitte denken Sie auch daran, sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin "Krisenvorsorgeliste") einzutragen.
 * Versuchen Sie nicht, Straßenblockaden zu überwinden. Dies kann zu aggressiven Reaktionen der Demonstranten führen.
@@ -33,11 +25,23 @@ Im Amazonasgebiet Loreto besteht ein Konflikt um die Erdölförderung, der teilw
 
 ### Innenpolitische Lage
 
-Siehe auch Abschnitt *Aktuelles – Aktuelle Sicherheitslage.*
+Siehe *Aktuelles*
+
+In Peru kann es immer wieder zu anlassbezogenen Protestaktionen und Demonstrationen verschiedener Interessensgruppen kommen.
+
+#### *Situation an den Grenzen zu Ecuador, Kolumbien und Brasilien*
+
+Im Zuge der verschlechterten Sicherheitslage in Ecuador (siehe auch Reise- und Sicherheitshinweise [Ecuador](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)) hat Peru für die fünf an Ecuador grenzenden Regionen im Norden des Landes (**Tumbes, Piura, Cajamarca, Amazonas und Loreto**) den Notstand ausgerufen und die Präsenz des Militärs und der Polizeibehörden verstärkt.
+
+Die Landgrenzen zu Ecuador bleiben für den Personenverkehr geöffnet.
+
+Aufgrund einer Anordnung des ecuadorianischen Innenministeriums, wonach alle nicht in Ecuador lebenden Ausländer bei Einreise auf dem Landweg ein aktuelles [polizeiliches Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) vorlegen müssen, kann es zu Verzögerungen bei oder Verweigerungen der Einreise von Peru nach Ecuador kommen. Weitere Informationen (auch über evtl. Ausnahmen) bieten die Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)
+
+Im Amazonasgebiet Loreto besteht ein Konflikt um die Erdölförderung, der teilweise zur Blockade des Schiffsverkehrs auf dem Ucayali (Canal Puinahua) führt.
 
 Im Kampf gegen den Drogenhandel wurde in einigen Provinzen der Notstand ausgerufen. Betroffen sind Provinzen des sogenannten VRAEM, also das Gebiet der Flüsse Ene, Apurímac und Mantaro und Grenzgebiete zu Kolumbien und Brasilien. Polizei und Streitkräfte verfügen über weitreichende Sonderrechte; es kommt dort dennoch weiterhin zu Überfällen bewaffneter Gruppen auf Angehörige und Einrichtungen der Sicherheitskräfte. Mit Einschränkungen im Reiseverkehr ist dort zu rechnen.
 
-* Meiden Sie grundsätzlich Demonstrationen sowie die Elendsviertel in Großstädten.
+* Meiden Sie grundsätzlich Demonstrationen sowie die Armenviertel in Großstädten.
 * Versuchen Sie nicht, Straßenblockaden zu passieren, sondern weichen Sie aus oder warten Sie die Normalisierung der Lage ab.
 * Informieren Sie sich über die lokalen Medien.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -91,9 +95,7 @@ Insbesondere in der Regenzeit von Dezember bis März können starke Regenfälle 
 
 ## Reiseinfos
 
-### **Ausreisen über den Landweg von Peru nach Ecuador**
-
-Vor dem Hintergrund der aktuellen Sicherheitskrise im Nachbarland Ecuador muss beim Grenzübertritt von Peru nach Ecuador auf dem Landweg ab sofort ein aktuelles [apostilliertes Führungszeugnis](https://www.bundesjustizamt.de/DE/Themen/ZentraleRegister/Fuehrungszeugnis/Fuehrungszeugnis_node.html) aus dem Staat, in dem Reisende in den letzten fünf Jahren ihren gewöhnlichen Aufenthalt hatten, vorgelegt werden. Weitere Informationen (auch über evtl. Ausnahmen) bieten die Reise- und Sicherheitshinweisen für [Ecuador.](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232)
+Siehe *Sicherheit – Innenpolitische Lage* (*Situation an den Grenzen zu Ecuador, Kolumbien und Brasilien)*
 
 ### Infrastruktur/Verkehr
 
@@ -105,7 +107,7 @@ Bei Überlandbussen kommt es häufig zu Unfällen mit einer großen Anzahl Toter
 
 * Informieren Sie sich daher fortlaufend über die aktuellen und zu erwartenden Witterungsbedingungen.
 
-Die Nutzung innerperuanischer Flüge und die Mitnahme in Überlandbussen ist nur gewährleistet, wenn ein Pass (bei Busreisen reicht zumeist eine Passkopie) vorgelegt werden kann. Eine Diebstahlsanzeige ist **nicht** ausreichend.
+Die Nutzung innerperuanischer Flüge und die Mitnahme in Überlandbussen ist nur gewährleistet, wenn ein Pass (bei Busreisen reicht zumeist eine Passkopie) vorgelegt werden kann. Eine Diebstahlsanzeige ist nicht ausreichend.
 
 * Bei Passverlust wenden Sie sich bitte an die Botschaft oder an das Büro des für den Amtsbezirk zuständigen Honorarkonsuls.
 * Achten Sie auf einen ausreichenden Reisekrankenversicherungsschutz, der im Notfall auch einen Rettungsflug nach Deutschland abdeckt; siehe auch Abschnitt Gesundheit. Notfallmedizinische Dienstleistungen entsprechen, vor allem außerhalb Limas, nicht dem europäischen Niveau.
@@ -161,7 +163,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Perus sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Perus sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -180,11 +182,11 @@ Sollte der Pass nicht die erforderliche Gültigkeitsdauer enthalten, erfolgt ein
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für touristische Aufenthalte von bis zu 90 Tagen pro Halbjahr kein Visum.
+Deutsche Staatsangehörige benötigen für touristische Aufenthalte bis zu 90 Tagen pro Halbjahr kein Visum.
 
 ### Einreisekontrolle
 
-Bei der Einreise über einen der internationalen Flughäfen und Seehäfen (Kreuzfahrtterminals) werden die Einreise- und Aufenthaltsdaten elektronisch von der peruanischen Grenzbehörde erfasst. Die Einreise und die bewilligte Aufenthaltsdauer wird nicht im Reisepass vermerkt, sondern in der Regel nur mündlich mitgeteilt.
+Bei der Einreise über einen der internationalen Flughäfen und Seehäfen (Kreuzfahrtterminals) werden die Einreise- und Aufenthaltsdaten elektronisch von der peruanischen Grenzbehörde erfasst. Die Einreise und die bewilligte Aufenthaltsdauer werden nicht im Reisepass vermerkt; sie werden in der Regel nur mündlich mitgeteilt.
 
 Bei Überschreitung der Aufenthaltsdauer muss bei der Ausreise eine Geldstrafe in Höhe von derzeit 5 PEN pro Tag der Überschreitung bezahlt werden, bevor das Land verlassen werden kann.
 
@@ -198,13 +200,13 @@ Bei einer nicht registrierten Einreise auf dem Land- oder Wasserweg gehen die pe
 
 * Achten Sie unbedingt darauf, dass das Grenzpersonal Ihre Einreise und die bewilligte Aufenthaltsdauer korrekt vermerkt.
 * Falls das Grenzpersonal Ihnen die bewilligte Aufenthaltsdauer nicht von sich aus mitteilt, fragen Sie nach, um eine Überschreitung zu vermeiden. Diese zieht eine Strafe nach sich.
-* Bei Einreise **auf dem Land- oder Wasserweg** kümmern Sie sich bitte aktiv darum, einen Einreisestempel zu erhalten. Ohne diesen ist eine Ausreise aus Peru nicht möglich.
+* Bei Einreise auf dem Land- oder Wasserweg kümmern Sie sich bitte aktiv darum, einen Einreisestempel zu erhalten. Ohne diesen ist eine Ausreise aus Peru nicht möglich.
 * Reisen Sie möglichst tagsüber ein und suchen Sie notfalls bei nicht erfolgter Registrierung umgehend und spätestens im nächstgrößeren Ort die Einwanderungsbehörde auf.
 
 ### Verlängerung des Aufenthalts
 
 Eine Verlängerung der 90-tägigen Aufenthaltsdauer ist nicht möglich.  
-Detaillierte Informationen sind in spanischer und englischer Sprache bei der [„Superintendencia Nacional de Migraciones“](https://www.migraciones.gob.pe/) oder bei den peruanischen Auslandsvertretungen in Deutschland bzw. im Wohnsitzland erhältlich.
+Detaillierte Informationen sind in spanischer und englischer Sprache bei der [„Superintendencia Nacional de Migraciones“](https://www.gob.pe/migraciones) oder bei den peruanischen Auslandsvertretungen in Deutschland bzw. im Wohnsitzland erhältlich.
 
 Sollte ein Daueraufenthalt in Peru angestrebt werden, muss das entsprechende notwendige Einreisevisum bei der für den Wohnort zuständigen peruanischen Auslandsvertretung beantragt werden. Für die dann in Peru zu beantragende Aufenthaltsgenehmigung wird ein aktuelles deutsches Führungszeugnis mit Apostille und Übersetzung benötigt. Dies sollte bei Einreise mitgeführt werden.
 
