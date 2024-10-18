@@ -16,6 +16,10 @@ Bereits jetzt kommt es zu Auswirkungen auf Flugverbindungen von und nach Iran, d
 
 Längere Schließungen des iranischen Luftraums, der Flughäfen und der Landgrenzen sowie weitere Streichungen von Flugverbindungen können nicht ausgeschlossen werden.
 
+Seit dem 14. Oktober 2024 sind EU-Sanktionen gegen die iranischen Fluglinien Iran Air, Mahan Air und Saha Airlines in Kraft. Bestehende Flugverbindungen in die EU wurden unmittelbar nach Veröffentlichung der Entscheidung eingestellt.
+
+Ergänzender Hinweis: Personen und Entitäten, die durch die EU sanktionsgelistet sind, dürfen von Staatsangehörigen eines EU-Mitgliedstaates weder unmittelbar noch mittelbar Gelder, z.B. im Rahmen der Zahlung eines Flugtickets, oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zugutekommen. Verstöße gegen das Bereitstellungsverbot sind in Deutschland gemäß § 18 AWG strafbar.
+
 * Bitte halten Sie sich über die aktuellen Nachrichtenlage in den internationalen und lokalen Medien informiert.
 
 Nach einem israelischen Luftangriff im Südlibanon wurde am 28. September 2024 der Tod des Hisbollah-Führers Hassan Nasrallah bestätigt.
