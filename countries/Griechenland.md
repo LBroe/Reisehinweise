@@ -1,23 +1,5 @@
 # Griechenland: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-#### *Waldbrände*
-
-Die Waldbrandgefahr in Teilen Griechenlands ist weiterhin hoch. Der am 29. September 2024 ausgebrochene Großbrand in der Region Korinthia auf der Halbinsel Peloponnes ist bisher noch nicht gelöscht.  
-
-Siehe auch *Natur und Klima – Busch- und Waldbrände.*
-
-* Aktivieren Sie bitte auf Ihrem Mobiltelefon die Option „Notfallbenachrichtigungen (Cell Broadcast Alerts).“ Diese werden von den zuständigen griechischen Stellen regional per SMS bzw. als Push-Mitteilung in griechischer und englischer Sprache versandt. Hierüber werden Sie auch über Evakuierungsmaßnahmen informiert.
-* Bitte meiden Sie die betroffene Region.
-* Eine Übersichtskarte der aktuellen Waldbrände bietet [folgende Webseite.](https://www.foties.gr/)
-* Achten Sie darauf, nach Möglichkeit jederzeit mobil erreichbar zu sein.
-* Stellen Sie sicher, dass Ihr Telefon stets einsatzbereit ist, ggf. mittels einer Powerbank.
-* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. So können Sie sofort geortet werden, sodass Rettungsmaßnahmen eingeleitet werden können. Über die Telefonzentrale des Notrufs 112 können Sie Ihr Anliegen in englischer oder griechischer Sprache vortragen. Die Telefonzentrale kann mit allen relevanten Stellen Kontakt aufnehmen und die notwendigen Maßnahmen unverzüglich einleiten.
-* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden und Sicherheitskräfte. Dies gilt auch für Anweisungen mit Blick auf Rettung bzw. Zurücklassen von Gepäck o.ä..
-* Sollten Sie aktuell von Evakuierungsmaßnahmen betroffen sein, wenden Sie sich bitte für Fragen der Unterbringung, der Verpflegung, des Transports und ggf. des Verbleibs Ihres Gepäcks an Ihren Reiseveranstalter.
-* Informieren Sie sich über die Medien, Ihr Hotel und Ihren Reiseleiter/-veranstalter über von Naturkatastrophen betroffene Gebiete und meiden Sie diese. Buchen Sie ggf. mithilfe Ihres Reiseveranstalters eine geplante Reise um.
-
 ## Sicherheit
 
 ### Terrorismus
@@ -49,9 +31,9 @@ Autoaufbrüche und Trickdiebstähle gegenüber Autotouristen kommen vor.
 
 ## Natur und Klima
 
-Siehe *Aktuelles*  
-
 #### *Busch- und Waldbrände*
+
+Die Waldbrandgefahr in Teilen Griechenlands ist weiterhin hoch.  
 
 Vor allem in den Sommermonaten kommt es in Griechenland aufgrund der herrschenden klimatischen Bedingungen zu zahlreichen Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden. Die Feuer können sich abhängig von wechselnden Windrichtungen schnell ausbreiten oder wieder neu entfachen. Dabei kann es jederzeit zu Straßensperren und weiteren Einschränkungen kommen. Es kann nicht ausgeschlossen werden, dass sich aufgrund der herrschenden Wetterbedingungen neue Brandherde entwickeln.
 
@@ -253,7 +235,7 @@ Das Krim-Kongo-Fieber ist eine Viruserkrankung, die i.d.R. von Zecken auf den Me
 
 In Griechenland besteht für alle Personen, die in Deutschland gesetzlich versichert sind, ein Anspruch auf dringend erforderliche Behandlung bei Ärzten, Zahnärzten und in Krankenhäusern, die vom ausländischen gesetzlichen Krankenversicherungsträger zugelassen sind. Als Nachweis ist die europäische Krankenversicherungskarte (EHIC) bzw. eine Ersatzbescheinigung vorzulegen. Beide Dokumente erhalten Sie von Ihrer Krankenkasse.
 
-Die gesundheitliche Versorgung in Griechenland ist auf dem Festland im allgemeinen gut, kann auf den Inseln jedoch unzureichend sein. Auf einigen Inseln besteht ein Mangel an Rettungswagen und auf anderen muss mit einer längeren Wartezeit bis zum Eintreffen eines Rettungswagens gerechnet werden.
+Die gesundheitliche Versorgung in Griechenland ist auf dem Festland im allgemeinen gut, kann auf den Inseln jedoch mangelhaft sein. Viele Krankenhäuser klagen dort über Mangel an ärztlichem und Pflegepersonal. Auch die Ausstattung der Rettungsfahrzeuge entspricht nicht immer deutschen Standards. Die Zeit bis zum Eintreffen eines Rettungsfahrzeuges ist, besonders auf Inseln, deutlich länger als auf dem Festland oder in Deutschland. Das ist insbesondere bei zeitkritischen Notfällen wie Herzstillstand oder Unfällen mit starken Blutungen relevant.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie bei Reisen in ländliche Gebiete Griechenlands oder bei besonderem Bedarf an speziellen Medikamenten eine individuelle Reiseapotheke mit.

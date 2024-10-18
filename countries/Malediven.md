@@ -89,8 +89,7 @@ Auch Pauschalreisenden wird empfohlen, eine gültige Kreditkarte mit ausreichend
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
@@ -98,7 +97,7 @@ Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusä
 
 #### *Einreise*
 
-Die elektronische Einreiseerklärung muss innerhalb von 96 Stunden vor Abflug auf der [Webseite der maledivischen Grenzbehörden](https://imuga.immigration.gov.mv) ausgefüllt und abgeschickt werden.
+Die elektronische Einreiseerklärung muss innerhalb von 96 Stunden vor Abflug auf der [Webseite der maledivischen Grenzbehörden](https://imuga.immigration.gov.mv/traveller) ausgefüllt und abgeschickt werden.
 
 ### Reisedokumente
 

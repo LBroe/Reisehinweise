@@ -66,6 +66,8 @@ Vor allem in den Sommermonaten kommt es in Italien aufgrund der herrschenden kli
 In den mittleren und südlichen Regionen Italiens, insbesondere auf Sizilien, herrscht aufgrund der aktuellen Wetterlage sowie ausbleibender Regenfälle bereits seit einigen Wochen erheblicher Wassermangel. Die italienischen Behörden haben deshalb Dürre-Warnungen für betroffene Regionen Italiens ausgegeben und auf der [Webseite von ISPRA](https://www.isprambiente.gov.it/pre_meteo/idro/SeverIdrica.html) veröffentlicht.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Aktuelle Wetterwarnungen bietet [MeteoAlarm.](https://www.meteoalarm.org/en/live/region/IT)
+* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. Sie können dann sofort geortet werden, sodass entsprechende Rettungsmaßnahmen eingeleitet werden können.​​​​​​​
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 * Informieren Sie sich zu aktuellen Erdbeben und vulkanischer Aktivität beim [Dipartimento della Protezione Civile.](http://www.protezionecivile.gov.it/en)
 * Informieren Sie sich im Winter für die Alpen über die Lawinengefahr beim [Nationalen Dienst für Schnee- und Lawinenvorhersage](https://www.sian.it/infoMeteo/jsp/mwablx815T.jsp) bzw. für Triol, Südtirol und Trentino im [Euregio-Lawinen.report](http://www.europaregion.info/lawinenreport) und beachten Sie Absperrungen. Weitere Informationen bietet z.B. auch der [Automobile Club d'Italia ACI.](http://www.aci.it/)
