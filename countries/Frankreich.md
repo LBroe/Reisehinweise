@@ -106,12 +106,12 @@ Von einigen französischen Überseegebieten wie insbesondere Mayotte wird von st
 
 ## Natur und Klima
 
-#### *Klima, Überschwemmungen, Herbststürme, Lawinengefahr*
+#### *Klima, Überschwemmungen, Herbststürme und Lawinengefahr*
 
-Das Klima reicht von atlantischem Meeresklima über kontinental im Zentrum und Osten und mediterran an der Mittelmeerküste bis zu alpin in der Bergen.  
+Das Klima reicht von atlantischem Meeresklima über kontinental im Zentrum und Osten und mediterran an der Mittelmeerküste bis zu alpin in den Bergen.  
 In den Überseegebieten herrscht tropisches bzw. subtropisches Klima.
 
-Vermehrt kommt es insbesondere im Sommer und Frühherbst zu Sturzfluten, die in der Vergangenheit Todesopfer forderten.  
+Vermehrt kommt es insbesondere im Sommer und Frühherbst zu Sturzfluten, die Todesopfer fordern können.  
 Auf dem Mittelmeer kann es insbesondere von August bis November zu vereinzelten schweren Herbststürmen kommen.
 
 In den Wintermonaten kann in den französischen Alpen Lawinengefahr bestehen.
@@ -122,14 +122,15 @@ Insbesondere in Südfrankreich und auf Korsika kommt es vor allem in den Sommerm
 
 #### *Tropenstürme in den Überseegebieten*
 
-In der Karibik ist von Juni bis Ende November Wirbelsturmsaison (Martinique, Guadeloupe, Saint-Martin und Saint-Barthélemy), im Indischen Ozean von Januar bis April (La Réunion und Mayotte), im Südpazifik von November bis April (Französisch Polynesien und Neu-Kaledonien). In dieser Zeit muss mit Tropenstürmen gerechnet werden.
+In der Karibik ist von Juni bis Ende November Wirbelsturmsaison (Martinique, Guadeloupe, Saint-Martin und Saint-Barthélemy), im Indischen Ozean von Januar bis April (La Réunion und Mayotte), im Südpazifik von November bis April (Französisch-Polynesien und Neukaledonien). In dieser Zeit muss mit Tropenstürmen gerechnet werden.
 
 #### *Erdbeben und Vulkane*
 
-Neu-Kaledonien, Wallis-et-Futuna, La Réunion und Mayotte sowie die karibischen Überseegebiete liegen in zum Teil seismisch sehr aktiven Zonen, weshalb es zu auch schwereren Erdbeben und erheblicher vulkanischer Aktivität kommen kann.
+Neukaledonien, Wallis-et-Futuna, La Réunion und Mayotte sowie die karibischen Überseegebiete liegen in zum Teil seismisch sehr aktiven Zonen, weshalb es zu auch schwereren Erdbeben und erheblicher vulkanischer Aktivität kommen kann.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Informieren Sie sich fortlaufend über die Witterungslage. Aktuelle Hinweise erhalten Sie über die Medien, z.B. auf [Météo France,](http://www.meteofrance.com/previsions-meteo-montagne/bulletin-avalanches) und über Verlautbarungen der Präfekturen und Gemeinden, in denen Sie sich aufhalten.
+* Informieren Sie sich fortlaufend über die Witterungslage. Aktuelle Hinweise erhalten Sie über die Medien, z.B. auf [Météo France,](http://www.meteofrance.com/previsions-meteo-montagne/bulletin-avalanches) und über Verlautbarungen der Präfekturen und Gemeinden, in denen Sie sich aufhalten. Aktuelle Wetterwarnungen bietet [MeteoAlarm.](https://www.meteoalarm.org/en/live/region/FR)
+* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. Sie können dann sofort geortet werden, sodass entsprechende Rettungsmaßnahmen eingeleitet werden können.​​​​​​​
 * Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf der Website [Bison Futé.](http://www.bison-fute.gouv.fr)
 * Im Fall einer Sturmwarnung beachten Sie insbesondere die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 * Machen Sie sich bei Reisen in die Überseegebiete mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
