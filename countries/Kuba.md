@@ -1,5 +1,17 @@
 # Kuba: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Am 17.10.2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.
+
+Seit dem 18.10.2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens.
+
+·         Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
+
+·         Folgen Sie stets den Anweisungen der lokalen Behörden.
+
+·         Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Kuba aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -19,7 +31,7 @@ Kuba ist ein sozialistischer Einparteienstaat. Meinungs- und Pressefreiheit sind
 
 ### Kriminalität
 
-Reisende können Opfer von Eigentumsdelikten, Körperverletzungen, in seltenen Fällen auch von Gewaltverbrechen werden. Alleinreisende Frauen können in Einzelfällen Opfer von Sexualstraftaten werden. Es ist vereinzelt von exhibitionistischen Handlungen sowie von versuchten Vergewaltigungen berichtet worden.  
+Reisende können Opfer von Eigentumsdelikten, Körperverletzungen, in seltenen Fällen auch von Gewaltverbrechen werden. Alleinreisende Frauen können in Einzelfällen Opfer von Sexualstraftaten werden. Es ist vereinzelt von exhibitionistischen Handlungen sowie von versuchten Vergewaltigungen berichtet worden.
 
 Es kommt vermehrt zu Diebstählen von Taschen und anderen persönlichen Gegenständen an den Stränden (z.B. an den Playas del Este in der Nähe von Havanna sowie an anderen Stränden in der Nähe von Touristenorten, wie Trinidad oder Cienfuegos), aber auch an belebten Orten wie Havannas Innenstadt sowie nachts in unbeleuchteten Gegenden. Am Flughafen Havanna kann es zu Diebstählen, auch aus aufgegebenem Gepäck kommen.
 
