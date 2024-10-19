@@ -2,9 +2,9 @@
 
 ## Aktuelles
 
-Am 17.10.2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.
+Am 17. Oktober 2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.
 
-Seit dem 18.10.2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens.
+Seit dem 18. Oktober 2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens.
 
 ·         Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
 
