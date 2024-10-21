@@ -6,11 +6,9 @@ Am 17. Oktober 2024 hat die kubanische Regierung die Bevölkerung über eine wei
 
 Seit dem 18. Oktober 2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens.
 
-·         Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
-
-·         Folgen Sie stets den Anweisungen der lokalen Behörden.
-
-·         Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Kuba aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
+* Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
+* Folgen Sie stets den Anweisungen der lokalen Behörden.
+* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Kuba aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
 
 ## Sicherheit
 
