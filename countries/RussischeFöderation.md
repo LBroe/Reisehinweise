@@ -55,7 +55,11 @@ Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sow
 
 ## Sicherheit
 
-**Von Reisen in die Russische Föderation wird dringend abgeraten. Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete (Belgorod, Kursk, Brjansk, Woronesch, Rostow, Krasnodar) wird gewarnt.**In der Russischen Föderation besteht auch für deutsche Staatsangehörige und deutsch-russische Doppelstaater die Gefahr willkürlicher Festnahmen,**siehe *Aktuelles.*** 
+**Von Reisen in die Russische Föderation wird dringend abgeraten.**
+
+**Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete (Belgorod, Kursk, Brjansk, Woronesch, Rostow, Krasnodar) wird gewarnt.**
+
+**In der Russischen Föderation besteht auch für deutsche Staatsangehörige und deutsch-russische Doppelstaater die Gefahr willkürlicher Festnahmen,**siehe *Aktuelles.*** 
 
 ### Drohnen
 
@@ -230,6 +234,8 @@ Die Nutzung von VPN-Netzwerken wird kontrolliert und zunehmend behindert, die ei
 Seit 2022 gilt in der Russischen Föderation außerdem ein neues Mediengesetz (sog. Fake News Gesetz), das zu willkürlicher Verhängung hoher Haftstrafen für öffentliche Äußerungen (z.B. Websitebeiträge, Videokonferenzen) führen kann. Das schränkt die Arbeit ausländischer Journalisten und Medienschaffenden weiter ein. Sowohl private als auch geschäftliche kritische Äußerungen zu aktuellen politischen Entwicklungen in allen sozialen Medien können mit unberechenbaren persönlichen Risiken verbunden sein. Es wird zu äußerster Zurückhaltung geraten.
 
 Das Unternehmen Meta und seine Produkte Facebook und Instagram (jedoch nicht WhatsApp) sind mit Gerichtsurteil vom 21. März 2022 in der Russischen Föderation als extremistische Organisationen eingestuft worden. Nach aktuellem Stand ist es natürlichen und juristischen Personen weiterhin erlaubt, Benutzerkonten zu haben und die Dienste zu nutzen, jedoch dürfen die Posts nicht gegen die Gesetze verstoßen. Eine Verlinkung von Artikeln sollte nicht erfolgen. Die Nutzung der Logos sollte vermieden werden.
+
+Die Listung als „extremistische“ oder auch als „unerwünschte“ Organisation in der Russischen Föderation betrifft auch Organisationen mit Sitz in Deutschland. Dies geht jeweils mit strafbewehrten Tätigkeits-, Unterstützungs- und Kontaktverboten einher und kann daher zu willkürlichen Festnahmen auf dem Gebiet der Russischen Föderation und gegebenenfalls hohen Haftstrafen führen.
 
 In der Moskauer Innenstadt ist es zu polizeilichen Kontrollen gekommen, in deren Verlauf Mobiltelefone nach Messenger-Diensten und Social Media durchsucht wurden.
 

@@ -63,6 +63,8 @@ In Mexiko, in Zentralamerika, der Karibik und den südlichen Bundesstaaten der U
 
 ### Infrastruktur/Verkehr
 
+Siehe *Aktuelles*
+
 Auf innerkubanischen Flügen kommt es immer wieder zu zum Teil großen Verspätungen (teilweise über mehrere Tage) oder auch Streichungen von Flügen.
 
 In der Provinz Pinar del Rio (zu der der beliebte Ort Viñales gehört) wurde bis auf Weiteres der öffentliche Nahverkehr eingestellt. Privater Transport ist, je nach Verfügbarkeit, weiterhin möglich.
@@ -127,7 +129,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Kubas sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Kubas sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
