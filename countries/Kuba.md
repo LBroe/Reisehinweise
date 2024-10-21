@@ -4,10 +4,11 @@
 
 Am 17. Oktober 2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.
 
-Seit dem 18. Oktober 2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens.
+Seit dem 18. Oktober 2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens. Durchgehende Stromversorgung gibt es aktuell nur in Gebäuden mit Generatoren, soweit diese über Treibstoff verfügen. Rettungsdienste funktionieren grundsätzlich weiterhin, allerdings muss mit erheblichen Einschränkungen in der medizinischen Versorgung gerechnet werden. Viele öffentliche Einrichtungen sind geschlossen oder ohne Klimatisierung. Straßen und Wege bleiben nachts unbeleuchtet, öffentliche Verkehrsmittel fahren nicht oder nur eingeschränkt. Es kommt zu Internet- und Mobilfunkausfällen, die Lebensmittelkühlung kann unter Umständen nicht durchgehend sichergestellt werden, teilweise besteht keine Versorgung mit Warmwasser.
 
 * Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
 * Folgen Sie stets den Anweisungen der lokalen Behörden.
+* Bewegen Sie sich insbesondere nach Einbruch der Dunkelheit vorsichtig.
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Kuba aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
 
 ## Sicherheit
