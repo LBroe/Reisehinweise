@@ -99,7 +99,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Paraguays](https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen Paraguays](https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -151,12 +151,6 @@ Bargeld darf bis zu einer Summe von 10.000 USD eingeführt werden.
 Informationen über die Einfuhr von Tieren nach Paraguay erteilt die zuständige [SENACSA](http://www.senacsa.gov.py/).
 
 ## Gesundheit
-
-### Aktuelles
-
-#### *Luftqualität*
-
-Aufgrund der andauernden Waldbrände im Norden Paraguays und in den Nachbarländern Bolivien und Brasilien ist die aktuelle Luftqualität in den meisten Teilen des Landes und auch in der Hauptstadt Asunción sehr schlecht und mit Rauchpartikeln belastet. Das paraguayische Gesundheitsministerium empfiehlt die Vermeidung von Aufenthalten an der Luft und das Schließen von Fenstern und Türen. 
 
 ### Impfschutz
 

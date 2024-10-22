@@ -180,10 +180,10 @@ Die Ausfuhr von nach dem Washingtoner Artenschutzabkommen (CITES) geschützten P
 
 ### Impfschutz
 
-| Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Nur bei Einreise aus einem Gelbfiebergebiet ist ab dem Alter von neun Monaten eine Gelbfieberimpfung nachzuweisen. |
+| Pflichtimpfungen: | Nach Anweisungen des Ministeriums für öffentliche Gesundheit des Tschad ist für Einreisende ab dem Alter von neun Monaten der Nachweis einer Gelbfieberimpfung verpflichtend. Bei Nicht-Vorliegen können Einreisende einer obligatorischen Impfung durch die an den Grenzübergängen eingerichteten Stellen des Internationalen Impfzentrums unterzogen werden. |
 | --- | --- |
 | Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Gelbfieber, Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist i.d.R. nicht notwendig. |
-| Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
+| Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender der STIKO](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
 
 ### 
 
@@ -232,10 +232,19 @@ Im Tschad besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen](
 * Beachten Sie lokale Warnungen.
 * Lassen Sie sich bzgl. einer Meningokokken ACWY- Impfung ärztlich beraten.
 
-[HIV-Infektionen,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") [Mpox](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
+[HIV-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hiv/2628942 "HIV-Infektionen") und bestimmte Lebererkrankungen ([Virushepatitis B, C und D)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") können durch sexuelle Kontakte übertragen werden. Die Übertragung ist prinzipiell auch durch Drogenkonsum mit unsauberen Spritzen oder Kanülen, Tätowierungen und Bluttransfusionen möglich.
 
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
+
+Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
+
+Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, Atemtröpfchen sowie kontaminierten Gegenständen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
+
+* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
+* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor einer Reise bzgl. einer Mpox-Impfung beraten lassen.
+* Stellen Sie sich bei typischen Symptomen ärztlich vor.
 
 ### Durch Tierkontakt übertragene Erkrankungen
 
@@ -245,7 +254,7 @@ Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherh
 * Begeben Sie sich umgehend in ärztliche Betreuung, wenn Sie von einem Tier gebissen worden sind.
 * Vermeiden Sie Verzehr von Fleischgerichten unklaren Ursprungs.
 * Gegengifte bei Schlangenbissen sind nicht oder nur sehr begrenzt im Land erhältlich. Beachten Sie unsere Hinweise zu [Schlangenbissen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schlangenbisse/2519592 "Schlangenbisse")
-* Lassen Sie sich bzgl. einer Tollwutimpfung beraten. Beachten Sie, dass Tollwutimpfstoffe und Immunglobuline nicht oder nur sehr begrenzt im Land erhältlich ist.
+* Lassen Sie sich gegen Tollwut impfen. Beachten Sie, dass Tollwutimpfstoffe und Immunglobuline nicht oder nur sehr begrenzt im Land erhältlich ist.
 
 ### Weitere Gesundheitsgefahren
 
