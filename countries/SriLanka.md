@@ -1,5 +1,13 @@
 # Sri Lanka: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Es liegen Hinweise zu möglichen Anschlägen auf touristische Ziele in Arugam Bay vor. Daher wird dringend geraten, derzeit von Reisen nach Arugam Bay abzusehen bzw. das Gebiet möglichst bald zu verlassen.
+
+* Seien Sie insbesondere an belebten Orten und bei unvorhergesehenen Ereignissen sowie beim Besuch von Einrichtungen mit internationalem Publikumsverkehr und bekannten Treffpunkten von Ausländern besonders aufmerksam.
+* Verfolgen Sie die lokalen und internationalen Medien.
+* Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
+
 ## Sicherheit
 
 ### Terrorismus
