@@ -6,6 +6,19 @@
 
 **Von nicht erforderlichen Reisen in den Distrikt Pemba in der Provinz Cabo Delgado wird abgeraten.** 
 
+### *Auseinandersetzungen*
+
+Der langjährige Bürgerkrieg mit teilweise gewalttätigen Feindseligkeiten zwischen Vertretern der Parteien FRELIMO und RENAMO wurde mit dem Waffenstillstandsvertrag 2016 und dem Friedensvertrag von 2019 beendet.
+
+Im Anschluss an die Kommunalwahlen im Oktober 2023 kam es landesweit zu Demonstrationen, teils auch zu Zusammenstößen mit Sicherheitskräften.
+
+Am 9. Oktober 2024 fanden Präsidentschafts-, Parlaments- und Gouverneurswahlen statt. Am 18. Oktober 2024 wurden zwei Mitglieder der Opposition ermordet. Aktuell und vor allem mit der Bekanntgabe der Wahlergebnisse, kann es jederzeit zu (auch unangekündigten) Demonstrationen kommen.
+
+* Informieren Sie sich engmaschig über die lokalen Medien.
+* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.
+* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+
 #### *Terroristische Angriffe*
 
 In der Provinz Cabo Delgado, sowie im äußersten Norden der Provinz Nampula, kommt es immer wieder zu islamistisch-extremistisch motivierten Angriffen, auf Sicherheitskräfte, Zivilbevölkerung, Dörfer und Verbindungsstraßen. Seit Jahresbeginn mehren sich Berichte über Angriffe, tausende Menschen sind auf der Flucht.
@@ -32,16 +45,7 @@ In den Provinzen Cabo Delgado und dem Norden der Provinz Nampula werden wiederho
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage in Mosambik ist überwiegend stabil. Der langjährige Bürgerkrieg mit teilweise gewalttätigen Feindseligkeiten zwischen Vertretern der Parteien FRELIMO und RENAMO wurde mit dem Waffenstillstandsvertrag und dem Friedensvertrag von 2019 beendet.
-
-Im Anschluss an die Kommunalwahlen im Oktober 2023 kam es landesweit zu Demonstrationen, teil auch zu Zusammenstößen mit Sicherheitskräften.
-
-Am 9. Oktober 2024 fanden Präsidentschafts-, Parlaments- und Gouverneurswahlen statt. Aktuell und vor allem mit der Bekanntgabe der Wahlergebnisse, kann es jederzeit zu (auch unangekündigten) Demonstrationen kommen.
-
-* Informieren Sie sich engmaschig über die lokalen Medien.
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+Siehe *Aktuelles*
 
 ### Kriminalität
 
@@ -111,7 +115,7 @@ Darüber hinaus sind telegrafische Bargeldüberweisungen nach Mosambik möglich.
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Die Zollbestimmungen für Deutschland können Sie auf der [Webseite des deutschen Zolls](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)  und per [App "Zoll und Reise"](https://www.zoll.de/DE/Privatpersonen/Reisen/Abgabenrecher-Zoll-und-Reise/abgabenrecher-zoll-und-reise_node.html "App Zoll und Reise") finden oder dort telefonisch erfragen.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
