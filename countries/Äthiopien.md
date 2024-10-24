@@ -225,7 +225,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Äthiopiens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Äthiopiens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
 
 Reisende, die aktuell mit COVID-19 infiziert sind, dürfen nicht nach Äthiopien einreisen.
 
@@ -296,7 +296,7 @@ Es existieren keine besonderen Vorschriften für allein reisende Minderjährige 
 
 #### *Bargeld*
 
-Für die Ein- und Ausfuhr von Bargeld sind die Regelungen der [Direktive FXD/81/22 der Äthiopischen Nationalbank](https://nbe.gov.et/files/fxd-81-2022-limits-on-birr-and-foreign-currency-holding-in-the-territory-of-ethiopia/) maßgeblich. Die wichtigsten Regelungen werden wie folgt zusammengefasst, siehe *Weiterführende Informationen zur Ein- und Ausfuhr von Bargeld*:
+Für die Ein- und Ausfuhr von Bargeld sind die Regelungen der Direktive FXD/81/22 der [Äthiopischen Nationalbank](https://nbe.gov.et/) maßgeblich. Die wichtigsten Regelungen werden wie folgt zusammengefasst, siehe *Weiterführende Informationen zur Ein- und Ausfuhr von Bargeld*:
 
 #### *Ein- und Ausfuhr von Landeswährung*
 

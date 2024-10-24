@@ -2,14 +2,15 @@
 
 ## Aktuelles
 
-Am 17. Oktober 2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.
+Am 17. Oktober 2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.  Es wird empfohlen, Reisen nach Kuba umsichtig vorzubereiten und die Notwendigkeit der Reise sorgsam zu prüfen.
 
-Seit dem 18. Oktober 2024 kommt es zu landesweiten, langanhaltenden Stromausfällen und damit verbundenen Einschränkungen des öffentlichen Lebens. Durchgehende Stromversorgung gibt es aktuell nur in Gebäuden mit Generatoren, soweit diese über Treibstoff verfügen. Rettungsdienste funktionieren grundsätzlich weiterhin; allerdings muss mit erheblichen Einschränkungen in der medizinischen Versorgung gerechnet werden. Viele öffentliche Einrichtungen sind geschlossen oder ohne Klimatisierung. Straßen und Wege bleiben nachts unbeleuchtet, öffentliche Verkehrsmittel fahren nicht oder nur eingeschränkt. Es kommt zu Internet- und Mobilfunkausfällen. Die Lebensmittelkühlung kann unter Umständen nicht durchgehend sichergestellt werden; teilweise besteht keine Versorgung mit Warmwasser.
+Nach einem dreitägigen vollständigen Ausfall der Stromversorgung ist diese seit 22. Oktober 2024 teilweise wiederhergestellt. Dennoch kommt es, auch in Touristenzentren wie Varadero immer wieder zu langanhaltenden Stromausfällen, Problemen bei der Wasserversorgung und landesweit zu Einschränkungen des öffentlichen Lebens. Durchgehende Stromversorgung gibt es nur in Gebäuden mit Generatoren, soweit diese über Treibstoff verfügen. Rettungsdienste funktionieren grundsätzlich weiterhin; allerdings muss mit zusätzlichen Einschränkungen in der medizinischen Versorgung gerechnet werden. Viele öffentliche Einrichtungen sind geschlossen oder ohne Klimatisierung. Straßen und Wege bleiben nachts unbeleuchtet, öffentliche Verkehrsmittel fahren nicht oder nur eingeschränkt. Es kommt zu Internet- und Mobilfunkausfällen. Die Lebensmittelkühlung kann unter Umständen nicht durchgehend sichergestellt werden; teilweise besteht keine Versorgung mit Warmwasser. Derzeit sind auch das Kartenzahlungssystem und die Geldversorgung über Automaten teilweise gestört. Nur wenige Banken sind geöffnet; es ist dort mit sehr langen Wartezeiten zu rechnen. Auch das Tankstellennetz funktioniert nur mit Einschränkungen.
 
 * Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
 * Folgen Sie stets den Anweisungen der lokalen Behörden.
-* Bewegen Sie sich insbesondere nach Einbruch der Dunkelheit vorsichtig.
-* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Kuba aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
+* Bewegen Sie sich, insbesondere nach Einbruch der Dunkelheit, vorsichtig.
+* Wenn Sie nach Kuba reisen, nehmen Sie Powerbanks, Taschenlampen, Kerzen o.ä. mit, um ggf. längere Stromausfälle überstehen zu können.
+* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Kuba aufhalten oder dorthin reisen bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf.
 
 ## Sicherheit
 
@@ -109,6 +110,8 @@ Der Besitz geringer Mengen an Drogen kann mit drastischen Strafen geahndet werde
 * Beachten Sie genau die lokalen Gesetze, insbesondere hinsichtlich Drogen und wirtschaftlicher und/oder politischer Betätigung.
 
 ### Geld/Kreditkarten
+
+Siehe *Aktuelles*
 
 Es kann immer wieder zu Einschränkungen bei der Bargeldversorgung an Geldautomaten kommen, da diese entweder gerade nicht in Betrieb sind oder keine Verbindung zum internationalen Zahlungsverkehrsnetz haben.
 
