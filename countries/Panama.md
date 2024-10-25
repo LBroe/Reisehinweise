@@ -59,7 +59,7 @@ Panama liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben kommen kann
 Unvorhersehbare Regenfälle können zu starken Flutwellen führen und Badende in Flüssen und Bächen gefährden.
 
 * Verfolgen Sie in der Hurrikan-Saison regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter") im Fall einer Sturmwarnung.
 * Vermeiden Sie das Schwimmen in Flüssen.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
@@ -102,7 +102,7 @@ Der Konsum alkoholischer Getränke in der Öffentlichkeit ist verboten und kann 
 
 Rauchen ist in weiten Teilen des öffentlichen Raums verboten und im Allgemeinen innerhalb der panamaischen Gesellschaft verpönt. Ein Verstoß gegen das Rauchverbot kann mit Geldstrafen geahndet werden.
 
-In der Provinz Colón und dem Distrikt San Miguelito wurde am Ende August/Anfang September im Rahmen der Bekämpfung der organisierten Kriminalität eine Ausgangssperre für Minderjährige verhängt, die nicht durch Erziehungsberechtigte begleitet werden. In Colón gilt diese sonntags bis donnerstags von 20 Uhr bis 5 Uhr und freitags und samstags von 21 Uhr bis 6 Uhr am Folgetag; in San Miguelito sonntags bis donnerstags von 21 Uhr bis 5 Uhr und freitags und samstags von 22 Uhr bis 6 Uhr.  
+In der Provinz Colón und dem Distrikt San Miguelito besteht weiterhin eine Ausgangssperre für Minderjährige ohne Begleitung durch Erziehungsberechtigte, die im Rahmen der Bekämpfung der organisierten Kriminalität verhängt wurde. In Colón gilt diese sonntags bis donnerstags von 20 Uhr bis 5 Uhr und freitags und samstags von 21 Uhr bis 6 Uhr am Folgetag; in San Miguelito sonntags bis donnerstags von 21 Uhr bis 5 Uhr und freitags und samstags von 22 Uhr bis 6 Uhr.  
 Einzelne Ausnahmen zur Ausgangssperre sind in den jeweiligen Dekreten geregelt.
 
 ### Geld/Kreditkarten
@@ -115,7 +115,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Panamas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Panamas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -134,19 +134,21 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise und einen Aufenthalt von bis zu 90 Tagen kein Visum. In Einzelfällen können die panamaischen Grenzbehörden den erlaubten Aufenthaltszeitraum auf bis zu 15 Tage begrenzen.
+Deutsche Staatsangehörige benötigen für die Einreise und einen Aufenthalt bis zu 90 Tagen kein Visum. In Einzelfällen können die panamaischen Grenzbehörden den erlaubten Aufenthaltszeitraum auf bis zu 15 Tage begrenzen.
 
 Es muss entweder ein Rückflugticket nach Deutschland oder ein gültiges Weiterreiseticket (Land-/Luftweg) vorgelegt werden. Daneben muss nachgewiesen werden, dass auch die gesetzlichen Einreisebestimmungen für das Land der Weiterreise erfüllt werden. Ausreichende finanzielle Mittel für den Aufenthalt müssen glaubhaft gemacht werden. Dies bedeutet entweder 1.000 USD in bar oder die Verfügbarkeit der entsprechenden Summe auf dem Kreditkartenkonto (per Kreditkartenkontoauszug nachweisbar).
 
 #### *Einreise auf dem Seeweg*
 
-Für die Ein- und Ausreise aus Panama auf Schiffen jeglicher Art (Segelschiffe, Yachten, Katamarane etc.) gelten Sonderbestimmungen: Bei Einreise wird eine Einreisegebühr erhoben.
+Bei Einreise mit einem Kreuzfahrtschiff wird die Einreisekontrolle durch die Migrationsbehörden am Kreuzfahrtterminal durchgeführt; es gelten die im Abschnitt *Einreise und Zoll - Visum* angegebenen Regelungen.
 
-Touristen erhalten bei Einreise per Schiff lediglich ein Visum für 72 Stunden. Wer länger als 72 Stunden in Panama bleiben möchten, sollte sich unmittelbar bei der zuständigen Migrationsbehörde am Anlandungshafen informieren, wie ein reguläres Touristenvisum erlangt werden kann. Ein Aufenthalt in Panama über die erlaubte Visumsdauer wird als Zuwiderhandlung gegen das Aufenthaltsgesetz mit empfindlichen Geldbußen sowie ggf. Ausweisung aus dem Land geahndet.
+Bei sonstiger Einreise nach Panama auf dem Seeweg müssen innerhalb von 72 Stunden nach Ankunft in panamaischen Gewässern die Einreiseformalitäten für die Besatzung bei den Migrationsbehörden sowie die Anmeldung des Schiffes bei der Hafenbehörde erledigt werden.
 
-Bei der Einreise auf dem Seeweg über das Territorium Guna Yala (San Blas Inseln) ist unbedingt auf die ordnungsmäße Stempelung des Passes durch die Einwanderungsbehörde (Migración) zu achten. Reisende können sonst als Illegal-Eingereiste behandelt werden.  
-Sollte bei Ankunft mit einem Schiff kein Beamter der Migrationsbehörde vor Ort sein, obliegt es dem Reisenden, nach dem Büro der Migrationsbehörde zu fragen und sich unverzüglich einen Einreisestempel geben zu lassen, auch bei Einreise mit einem privaten Schiff/zu sehr früher und später Stunde.  
-Ist der Reisende erst einmal im Land (z.B. in Panama-Stadt) kann diese Formalität nicht mehr nachgeholt werden und der Reisende gilt ausnahmslos als illegal.
+An einigen Häfen gibt es Zweigstellen der Migrationsbehörde, die nur Einreiseerlaubnisse für 72 Stunden erteilen können. Wer länger als 72 Stunden in Panama bleiben möchten, sollte sich bei den Formalitäten nach der übergeordneten Migrationsbehörde erkundigen und dort binnen 72 Stunden vorstellig werden, um eine bis zu 90 Tagen gültige Einreiseerlaubnis zu erlangen.
+
+Insbesondere bei Einreise auf dem Seeweg in das Territorium Guna Yala (San-Blas-Inseln) ist auf die ordnungsmäße Stempelung des Passes durch die Migrationsbehörde zu achten. Sollte bei Ankunft mit einem Schiff kein Beamter der Migrationsbehörde vor Ort sein, obliegt es den Reisenden, sich nach dem Büro der Migrationsbehörde zu erkundigen und sich innerhalb der o.g. Frist, jedoch zwingend vor Weiterreise auf dem Landweg einen Einreisestempel einzuholen.
+
+Aufenthalte über die erlaubte Dauer hinaus oder ohne Stempelung des Passes werden als Zuwiderhandlung gegen das Aufenthaltsgesetz mit empfindlichen Geldbußen sowie ggf. Ausweisung aus dem Land geahndet.
 
 #### *Einreise aus Costa Rica*
 
@@ -162,7 +164,7 @@ Bei Ein- und Ausreise über die USA sind die [Einreisebestimmungen für die USA]
 
 Für länger dauernde Aufenthalte (Praktika, Freiwilligeneinsätze, Arbeitsaufnahme etc.) sollte rechtzeitig Kontakt mit der Botschaft Panamas in Berlin aufgenommen werden. Informationen bietet die [Migrationsbehörde von Panama](http://www.migracion.gob.pa/).
 
-Es wird darauf hingewiesen, dass deutsche Staatsangehörige, die sich länger als den bei Einreise erlaubten Zeitraum im Land aufhalten wollen, unbedingt einen entsprechenden Aufenthaltstitel (Residencia) beantragen müssen. Die panamaische Migrationsbehörde kontrolliert verschärft die Einhaltung der Aufenthaltsvorschriften. Ausländern, die in Panama leben ohne im Besitz eines gültigen Aufenthaltstitels zu sein, kann bei Ausreise aus dem Land die Wiedereinreise nach Panama verweigert werden, auch wenn sie über genügend Barmittel verfügen.
+Es wird darauf hingewiesen, dass deutsche Staatsangehörige, die sich länger als den bei Einreise erlaubten Zeitraum im Land aufhalten wollen, unbedingt einen entsprechenden Aufenthaltstitel (Residencia) beantragen müssen. Dabei gilt Anwaltszwang. Die panamaische Migrationsbehörde kontrolliert verschärft die Einhaltung der Aufenthaltsvorschriften. Ausländern, die in Panama leben ohne im Besitz eines gültigen Aufenthaltstitels zu sein, kann bei Ausreise aus dem Land die Wiedereinreise nach Panama verweigert werden, auch wenn sie über genügend Barmittel verfügen.
 
 ### Ausweispflicht
 
