@@ -1,30 +1,8 @@
 # Komoren: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-### Cholera-Ausbruch
-
-Am 2. Februar 2024 hat das Gesundheitsministerium der Komoren einen Cholera-Ausbruch deklariert. Dieser steht im Zusammenhang mit der Ankunft eines Schiffes mit Infizierten aus Tansania. Im Verlauf kam es auch zur Übertragung im Land. 
-
-Beim Auftreten von Symptomen wird empfohlen sich an folgende -gebührenfreie- Nummer zu wenden: 1717. 
-
-Zusätzlich wurden auf jeder Insel die folgenden Referenzkrankenhäuser und -ärzte benannt: 
-
-Ngazidja-Krankenhaus: SAMBAKOUNI. Vor der Notaufnahme des Krankenhauses el Maarouf wurden provisorische Einrichtungen (Zelte) errichtet, um Verdachtsfälle aufzunehmen. 
-
-Mweli-Krankenhaus: Krankenhauszentrum in FOMBONI. 
-
-Ndzuani-Krankenhaus: Krankenhaus in HOMBO und Krankenhaus in BAMBAO.
-
-Vor dem Hintergrund des Cholera-Ausbruchs wurde der Verkehr sämtlicher Passagierschiffe suspendiert, bei Handelsschiffen wurde eine 15-tägige Quarantäne eingeführt. Alle Flüge aus Mayotte wurden eingestellt und Handwasch- sowie Desinfektionsvorrichtungen an Flughäfen und Häfen aufgestellt.
-
-Cholera ist eine bakterielle Darmerkrankung, die bei mangelnder Trinkwasser-, Lebensmittel- und Handhygiene auftritt. Das Risiko an Cholera zu erkranken, wird für Touristen als sehr gering eingeschätzt. Für die meisten Reisenden ist eine Choleraimpfung daher nicht notwendig.
-
-* Bitte beachten Sie unsere Hinweise zu [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480#content_5).
-
 ## Sicherheit
 
-Am 14. Januar 2024 fanden die Präsidentschaftswahlen statt. Das offizielle Ergebnis wurde am 16. Januar 2024 verkündet, welches mit 62,97% der Stimmen Azali Assoumani erneut zum Präsidenten ausrief. Die Opposition erhebt Vorwürfe der massiven Wahlmanipulation, die damit verbundenen Demonstrationen und Versammlungen eskalieren seither. Es gab infolgedessen einen Toten und zahlreiche Verletzte.  
+Im Januar 2024 fanden Präsidentschaftswahlen statt. Das offizielle Ergebnis wurde am 16. Januar 2024 verkündet, welches mit 62,97% der Stimmen Azali Assoumani erneut zum Präsidenten ausrief. Die Opposition erhebt Vorwürfe der massiven Wahlmanipulation, die damit verbundenen Demonstrationen und Versammlungen eskalieren seither. Es gab infolgedessen einen Toten und zahlreiche Verletzte.  
 Zurzeit muss von weiteren Demonstrationen, verbunden mit gewalttätiger Auflösung der Lage, ausgegangen werden.  
 Seit dem 17. Januar 2024 ist eine nächtliche Ausgangssperre in Kraft (in der Hauptstadt Moroni von 19 bis 6 Uhr, im Rest des Landes von 22 bis 6 Uhr).
 
@@ -98,7 +76,7 @@ Die Komoren sind ein stark muslimisch geprägtes Land. Von Reisenden wird erwart
 
 * In der Stadt sollten weder Shorts, ausgeschnittene Kleider noch Miniröcke getragen werden.
 * Konsumieren Sie keinen Alkohol in der Öffentlichkeit.
-* Frauen sollten an öffentlichen Stränden, insbesondere während des Ramadan, auf das Baden verzichten.
+* Frauen sollten an öffentlichen Stränden, insbesondere während des Ramadans, auf das Baden verzichten.
 
 ### LGBTIQ
 
@@ -107,8 +85,6 @@ Das komorische Gesetz verbietet sexuelle Handlungen zwischen Personen des gleich
 * Beachten Sie die allgemeinen [Reisehinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
 ### Rechtliche Besonderheiten
-
-Siehe *Aktuelles*
 
 Die komorischen Behörden haben eine Sittenbrigade eingerichtet. Diese führt nachts ab 23 Uhr in der Umgebung von Diskotheken, Nachtbars und Verkaufsstellen für Fleischspieße Identitätskontrollen durch. Bei Besuch dieser Orte muss ein Ausweis mitgeführt werden.
 
@@ -131,12 +107,11 @@ Landeswährung ist der Komoren-Franc (KMF). Der Umtausch von Euro in Landeswähr
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen der Komoren sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen der Komoren sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -170,8 +145,6 @@ Es sind keine besonderen Bestimmungen für die Einreise von Minderjährigen beka
 Gegenstände des täglichen Bedarfs können eingeführt werden. Die Einfuhr von Alkohol, Waffen, Drogen aller Art und pornographischem Materials ist strikt verboten.
 
 ## Gesundheit
-
-Siehe *Aktuelles*
 
 ### Impfschutz
 
@@ -208,9 +181,9 @@ Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophy
 * Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
 * Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
 
-Es besteht ganzjährig ein hohes  Malariarisiko im ganzen Lande inklusive der Städte, siehe [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
+Es besteht ganzjährig ein hohes Malariarisiko im ganzen Land inklusive der Städte, wobei es auch immer wieder zu größeren Ausbrüchen kommt, siehe auch [Ständiger Ausschuss Reisemedizin (StAR) der DTG.](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)")
 
-Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
+Daher wird neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) empfohlen. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
 
 * Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
 * Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
@@ -248,9 +221,7 @@ Die medizinische Versorgung ist mit Europa nicht zu vergleichen und ist örtlich
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
