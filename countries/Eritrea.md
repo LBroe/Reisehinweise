@@ -50,7 +50,7 @@ Bei der Nutzung von sogenannten „Line-Taxis“ (Sammeltaxis) in Asmara kam es 
 
 ### Piraterie
 
-Bei der Schifffahrt östlich von Eritrea insbesondere Richtung Süden entlang der somalischen Küste besteht die Gefahr von Piratenüberfällen.
+Bei der Schifffahrt östlich von Eritrea, insbesondere Richtung Süden entlang der somalischen Küste, besteht die Gefahr von Piratenüberfällen.
 
 * Als Schiffsführer in den gefährdeten Gewässern sollten Sie besonders vorsichtig sein und unbedingt eine Registrierung beim [Maritime Security Centre](https://www.mschoa.org/) vornehmen.
 * Beachten Sie die [Reisewarnung für Somalia](https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit/203132 "Somalia: Reisewarnung") und den Golf von Aden.
@@ -80,7 +80,7 @@ Abseits von Straßen und insbesondere in den Grenzgebieten zu Äthiopien und Dsc
 
 Eine touristische Infrastruktur ist außer in einigen Städten praktisch nicht vorhanden.
 
-Bei der Stromversorgung kommt es auch in urbanen Zentren täglich zu mehrstündigen Ausfällen, in der Versorgung von Trinkwasser zu Versorgungsengpässen und Abschaltungen. Roaming und mobiles Internet sind nicht möglich. Touristen können SIM-Karten kaufen, aber nur für Telefonie nutzen. Einige Hotels und Internet-Cafés bieten WLAN an, aber in schlechter Qualität; Soziale Medien sind gesperrt.
+Bei der Stromversorgung kommt es auch in urbanen Zentren täglich zu mehrstündigen Ausfällen, in der Versorgung von Trinkwasser zu Versorgungsengpässen und Abschaltungen. Roaming und mobiles Internet sind nicht möglich. Touristen können SIM-Karten kaufen, aber nur für Telefonie nutzen. Einige Hotels und Internet-Cafés bieten WLAN an, aber in schlechter Qualität; soziale Medien sind gesperrt.
 
 ### Führerschein
 
@@ -104,8 +104,8 @@ Drogenbesitz und -konsum (jeder Art) kann zu mehrjährigen Haftstrafen führen.
 
 In Eritrea existieren Sondergerichte sowie die Todesstrafe, z.B. für Landesverrat oder Spionage.
 
-Das Fotografieren militärischer Objekte und Personen ist strengstens verboten, wobei der Begriff des ‘militärischen Objekts’ unklar ist, die Definition ist oft nicht nachvollziehbar. Besondere Zurückhaltung ist daher ratsam.  
-Regierungskritische Meinungsäußerungen können zur Festnahme führen.
+Das Fotografieren militärischer Objekte und Personen ist strengstens verboten, wobei der Begriff des „militärischen Objekts“ unklar ist; die Definition ist oft nicht nachvollziehbar. Besondere Zurückhaltung ist daher ratsam.  
+Regierungskritische Meinungsäußerungen können zur Verhaftung führen.
 
 ### Geld/Kreditkarten
 
@@ -148,7 +148,7 @@ Touristenvisa werden durch die eritreischen Auslandsvertretungen zunächst für 
 
 Für Touristenvisa und Geschäftsvisa kann die zuständige Behörde im Einzelfall eine Überschreitung der eigentlich zulässigen Höchstgültigkeitsdauer zulassen.
 
-Reist ein deutscher Staatsangehöriger aus einem Land ein, in dem sich eine eritreische Vertretung befindet, muss das Visum vor Einreise dort beantragt werden. Nur, wenn die eritreische Vertretung schriftlich bescheinigt, dass das Visum trotz Antragstellung nicht rechtzeitig erteilt werden konnte und diese Bescheinigung an der Grenze vorgelegt wird, kann ein Visum an der Grenze ausgestellt werden.
+Reist ein deutscher Staatsangehöriger aus einem Land ein, in dem sich eine eritreische Vertretung befindet, muss das Visum vor Einreise dort beantragt werden. Nur bei schriftlicher Bescheinigung durch die eritreische Vertretung, dass das Visum trotz rechtzeitiger Antragstellung nicht fristgemäß erteilt werden konnte und diese Bescheinigung am Flughafen vorgelegt wird, kann das Visum ausnahmsweise am Flughafen ausgestellt werden.
 
 Sollte ein deutscher Staatsangehöriger aus einem Land einreisen, in dem sich keine eritreische Vertretung befindet, sollte sich der Reisende an die nächstgelegene eritreische Vertretung oder die [Botschaft des Staates Eritrea in Berlin](http://www.botschaft-eritrea.de) wenden, um die konkreten Einreisemodalitäten in Erfahrung zu bringen.
 
@@ -156,7 +156,7 @@ Sollte ein deutscher Staatsangehöriger aus einem Land einreisen, in dem sich ke
 
 Außerhalb Eritreas lebende Personen mit eritreischer und deutscher Staatsangehörigkeit benötigen für die Einreise mit einem deutschen Reisepass ein Visum. Wer mit einem eritreischen Personalausweis (ID) einreist, benötigt ein Ausreisevisum, um das Land wieder verlassen zu können. Reisende mit deutscher und eritreischer Staatsangehörigkeit werden von den eritreischen Behörden bei Reisen in Eritrea ausschließlich als eritreische Staatsangehörige behandelt. Ein konsularischer Schutz durch die Botschaft Asmara ist für diese Personen grundsätzlich nicht möglich. Dies gilt auch für Fragen der Wehrpflicht, der grundsätzlich alle Männer und Frauen ab dem 18. Lebensjahr unterliegen.
 
-* Erkundigen Sie sich vor Reiseantritt bei der für Sie zuständigen eritreischen Auslandsvertretung über die Modalitäten der Ein- und Ausreise..
+* Erkundigen Sie sich vor Reiseantritt bei der für Sie zuständigen eritreischen Auslandsvertretung über die Modalitäten der Ein- und Ausreise.
 
 ### Minderjährige
 
@@ -170,7 +170,7 @@ Verstöße gegen diese Devisenvorschriften können nach dem Gesetz (Legal Notice
 
 Die Mitnahme von eritreischen Reisedokumenten (Pässe, ID-Karten etc.) für Dritte ist verboten und kann Strafen nach sich ziehen.
 
-Die Ausfuhr der Landeswährung Nakfa (ERN) unterliegt einer strengen Kontrolle und ist oberhalb der Summe von 1.000 ERN verboten. Reisende, die bei Ausreise über den Luftweg eritreische Währung über dieser Menge mit sich führen, müssen mit vorübergehendem Passentzug, der Konfiszierung des Geldes und sogar einer Stornierung des Flugtickets rechnen. Es besteht die Möglichkeit einer Festnahme und eines Strafverfahrens.
+Die Ausfuhr der Landeswährung Nakfa (ERN) unterliegt einer strengen Kontrolle und ist oberhalb der Summe von 1.000 ERN verboten. Reisende, die bei Ausreise über den Luftweg eritreische Währung über dieser Menge mitsichführen, müssen mit vorübergehendem Passentzug, der Konfiszierung des Geldes und sogar einer Stornierung des Flugtickets rechnen. Es besteht die Möglichkeit einer Festnahme und eines Strafverfahrens.
 
 Bei der Ein- und Ausreise wird das mitgeführte Gepäck durchleuchtet und bei Auffälligkeiten markiert. Das markierte Gepäck muss geöffnet werden.
 
@@ -206,7 +206,7 @@ Die medizinische Versorgung in Eritrea ist nicht mit der Versorgung in Deutschla
 * Ganzjährig hohes Risiko: im ganzen Land in Höhenlagen unterhalb von 2200 Hm
 * Malariafrei: Asmara (Stadt), Höhenlagen oberhalb von 2200 Hm
 
-Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjährig landesweit auftreten können: [Chikungunyafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber"), [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber"), [Leishmaniasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") und [Lymphatische Filariosen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen").
+Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjährig landesweit auftreten können: [Chikungunyafieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber") [Denguefieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") [Leishmaniasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") und [Lymphatische Filariosen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen")
 
 * Schützen Sie sich tagsüber, in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten").
 * Es gibt eine Impfung gegen Denguefieber. Lassen Sie sich bzgl. Ihres persönlichen Risikos beraten.
@@ -245,7 +245,7 @@ Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherh
 
 ### Weitere Gesundheitsgefahren
 
-[Schistosomiasis (auch: Bilharziose)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosoma übertragen werden.
+[Schistosomiasis (auch: Bilharziose)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)") ist eine Wurmerkrankung, die auch bei geringem Kontakt mit Süßwasser übertragen werden kann. Auch in fließenden Gewässern kann Schistosomiasis übertragen werden.
 
 * Sehen Sie vom Baden und Schwimmen in Binnengewässern ab.
 
@@ -263,9 +263,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
