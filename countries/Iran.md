@@ -10,15 +10,15 @@
 
 Die Lage in der gesamten Region bleibt volatil und sehr angespannt.
 
-Am 1. Oktober 2024 haben die iranischen Streitkräfte einen Raketenangriff auf Israel durchgeführt. Mit einer Gegenantwort der israelischen Streitkräfte ist zu rechnen. Auch Angriffe auf iranisches Territorium sind dabei nicht auszuschließen. Iran befindet sich nach Aussagen des Informationsministeriums im Kriegszustand.
+Am 26.10.2024 hat Israel als Reaktion auf die iranischen Raketenangriffe gegen Israel vom 1. Oktober 2024 Luftangriffe auf mehrere Ziele in Iran durchgeführt. Eine abermalige iranische Reaktion sowie weitere israelische Gegenangriffe auf iranisches Territorium können nicht ausgeschlossen werden. Iran befindet sich nach Aussagen des Informationsministeriums im Kriegszustand.
 
-Bereits jetzt kommt es zu Auswirkungen auf Flugverbindungen von und nach Iran, der zivile Luftverkehr war zwischenzeitlich ganz ausgesetzt.
+Es kommt weiterhin zu Auswirkungen auf Flugverbindungen von und nach Iran. Der zivile Luftverkehr war zwischenzeitlich ganz ausgesetzt.  
 
 Längere Schließungen des iranischen Luftraums, der Flughäfen und der Landgrenzen sowie weitere Streichungen von Flugverbindungen können nicht ausgeschlossen werden.
 
 Seit dem 14. Oktober 2024 sind EU-Sanktionen gegen die iranischen Fluglinien Iran Air, Mahan Air und Saha Airlines in Kraft. Bestehende Flugverbindungen in die EU wurden unmittelbar nach Veröffentlichung der Entscheidung eingestellt.
 
-Ergänzender Hinweis: Personen und Entitäten, die durch die EU sanktionsgelistet sind, dürfen von Staatsangehörigen eines EU-Mitgliedstaates weder unmittelbar noch mittelbar Gelder, z.B. im Rahmen der Zahlung eines Flugtickets, oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zugutekommen. Verstöße gegen das Bereitstellungsverbot sind in Deutschland gemäß § 18 AWG strafbar.
+Ergänzender Hinweis: Personen und Entitäten, die durch die EU sanktionsgelistet sind, dürfen von Staatsangehörigen eines EU-Mitgliedstaates weder unmittelbar noch mittelbar Gelder, z. B. im Rahmen der Zahlung eines Flugtickets, oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zugutekommen. Verstöße gegen das Bereitstellungsverbot sind in Deutschland gemäß § 18 AWG strafbar.
 
 * Bitte halten Sie sich über die aktuellen Nachrichtenlage in den internationalen und lokalen Medien informiert.
 
@@ -31,7 +31,7 @@ Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentr
 * Erkundigen Sie sich vor einer Ausreise auf dem Landweg, ob die jeweiligen Grenzübergangsstellen geöffnet sind.
 * Falls Sie auf dem Landweg ausreisen möchten, beachten Sie bitte unsere ausführlichen Informationen unter „Sicherheit – Terrorismus“ und wägen Sie Ihr individuelles Risiko sehr genau ab.
 * Befolgen Sie unbedingt die Anweisung der lokalen Sicherheitskräfte, verfolgen Sie die Medien aufmerksam.
-* Registrieren Sie sich in der Krisenvorsorgeliste des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Sollten Sie Iran inzwischen verlassen haben, so vermerken Sie dies bitte dort ebenfalls.
+* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Sollten Sie Iran inzwischen verlassen haben, so vermerken Sie dies bitte dort ebenfalls.
 * Achten Sie vorsorglich auf eine ausreichende Vorratshaltung (Wasser, Lebensmittel, Medikamente, Treibstoff).
 
 ### *Willkürliche Festnahmen und Strafverfolgung*
@@ -40,7 +40,7 @@ Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentr
 
 Verhaftungen und Verurteilungen können jederzeit aufgrund konstruierter Vorwände wie beispielsweise Spionagevorwürfen erfolgen. Sie können als politisches Druckmittel dienen und setzen so unschuldige Betroffene einer langen Haft unter harten Bedingungen aus. Irankritische Äußerungen, auch vor der Reise und beispielsweise in sozialen Medien, können von iranischer Seite überwacht werden und ein Grund für Strafverfolgung sein. Individualreisende können Spionagevorwürfen ausgesetzt sein, beispielsweise wegen Fotografie. Iranische Behörden verweigern deutsch-iranischen Doppelstaatern ihr Recht auf konsularische Betreuung und machen eine solche Betreuung durch die Deutsche Botschaft Teheran unmöglich. Die Haftbedingungen sind sehr hart; die Versorgung mit medizinisch notwendigen Medikamenten oder medizinisch notwendiger ärztlicher Behandlung ist nicht immer gegeben.
 
-Bei Reisen besteht die Gefahr, dass Gepäck ausführlich durchsucht und gegebenenfalls beschlagnahmt wird. Elektronische Kommunikationsmittel wie Mobiltelefone, Notebooks, Tablets können eingehenden Untersuchungen unterzogen und die ausgelesenen Daten als Vorwand für strafrechtliche Vorwürfe genutzt werden. Besonders gefährdet sind Individualreisende, zum Beispiel mit einem Motorrad, Fahrrad oder Reisemobil/Camper, denn die Daten in elektronischen Karten und Navigationssysteme oder eingegebene Routen, insbesondere zur Planung von Offroad-Fahrten, können von den iranischen Sicherheitsbehörden als Hinweis auf Ausspähungs- und Spionageversuche gewertet werden. Sperrgebiete sind meistens nicht deutlich markiert. Auch auffälliges Verhalten oder der Gebrauch technischer Geräte wie auffällige Kameras, GPS-Geräte und Drohnen kann zu Kontrollen und schnell zum Spionagevorwurf führen. Die Nutzung von Drohnen ist grundsätzlich verboten. (s.u. *Sicherheit – „Fotografieren und Filmen“*).
+Bei Reisen besteht die Gefahr, dass Gepäck ausführlich durchsucht und gegebenenfalls beschlagnahmt wird. Elektronische Kommunikationsmittel wie Mobiltelefone, Notebooks, Tablets können eingehenden Untersuchungen unterzogen und die ausgelesenen Daten als Vorwand für strafrechtliche Vorwürfe genutzt werden. Besonders gefährdet sind Individualreisende, zum Beispiel mit einem Motorrad, Fahrrad oder Reisemobil/Camper, denn die Daten in elektronischen Karten und Navigationssysteme oder eingegebene Routen, insbesondere zur Planung von Offroad-Fahrten, können von den iranischen Sicherheitsbehörden als Hinweis auf Ausspähungs- und Spionageversuche gewertet werden. Sperrgebiete sind meistens nicht deutlich markiert. Auch auffälliges Verhalten oder der Gebrauch technischer Geräte wie auffällige Kameras, GPS-Geräte und Drohnen kann zu Kontrollen und schnell zum Spionagevorwurf führen. Die Nutzung von Drohnen ist grundsätzlich verboten. (s. u. *Sicherheit – „Fotografieren und Filmen“*).
 
 Selbst Personen, die in der Vergangenheit ohne Probleme ein- und ausreisen konnten, können willkürlich aufgrund zeitlich weit zurückliegender oder neuer Tatvorwürfe festgenommen werden. Lange Haftstrafen unter harten Bedingungen sind möglich; bei schwerwiegenderen Vorwürfen auch die Verhängung von Körperstrafen oder der Todesstrafe.
 
