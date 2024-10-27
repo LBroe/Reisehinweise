@@ -14,11 +14,11 @@ Dies ist ein gemeinsamer Reisehinweis für Israel und die Palästinensischen Geb
 
 ### Sicherheitslage
 
-Am 1. Oktober 2024 wurde das gesamte Staatsgebiet Israels von Iran aus mit ballistischen Raketen angegriffen. Es ist damit zu rechnen, dass es infolgedessen zu weiteren kriegerischen Auseinandersetzungen kommen wird.
+Am 1. Oktober 2024 wurde das gesamte Staatsgebiet Israels von Iran aus mit ballistischen Raketen angegriffen.  Infolgedessen kam es am 26. Oktober 2024 zu einer militärischen Gegenreaktion seitens Israel gegen die Islamische Republik Iran. Die gesamtregionale Sicherheitslage ist somit weiterhin angespannt.
 
 Zudem kommt es täglich zu Raketenangriffen seitens der Hisbollah aus Libanon auf israelisches Territorium. Die Angriffe treffen im Schwerpunkt den nördlichen Teil Israels. Es werden aber auch Ziele unterhalb der Linie Haifa-Nazareth angegriffen. Zudem kann nicht ausgeschlossen werden, dass die Hisbollah ihre Angriffe auch auf ganz Israel ausweitet.
 
-Am 1. Oktober 2024 kam außerdem es zu einem Attentat im südlichen Stadtteil von Tel Aviv, Jaffa. Die beiden Attentäter schossen an einer Tramhaltestelle auf Zivilisten. Dabei wurden sieben Personen getötet. Zahlreiche weitere wurden verletzt.
+Außerdem besteht weiterhin ein hohes Risiko einzelner terroristischer Anschläge: Am 27. Oktober 2024 wurden bei einem Rammanschlag in Ramat HaSharon, einem Vorort von Tel Aviv in unmittelbarer Nähe zu einer Militärbasis, mehrere Personen verletzt. Am 1. Oktober 2024 kam es außerdem zu einem Attentat im südlichen Stadtteil von Tel Aviv, Jaffa. Die beiden Attentäter schossen an einer Tramhaltestelle auf Zivilisten. Dabei wurden sieben Personen getötet. Zahlreiche weitere wurden verletzt.
 
 Die Militäroperation im Gazastreifen, die infolge des Angriffes der Terrororganisation Hamas auf Israel am 7. Oktober 2023 begann, dauert weiterhin an. Mit Beschuss durch Raketen aus Gaza ist weiterhin zu rechnen. Zudem wird der Süden Israels immer wieder aus jemenitischem Gebiet beschossen. Die Lage bleibt somit hoch volatil. Ortschaften im Umfeld des Gazastreifens sowie entlang der Grenze zum Libanon wurden durch die israelische Armee evakuiert.
 
