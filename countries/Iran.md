@@ -10,7 +10,7 @@
 
 Die Lage in der gesamten Region bleibt volatil und sehr angespannt.
 
-Am 26.10.2024 hat Israel als Reaktion auf die iranischen Raketenangriffe gegen Israel vom 1. Oktober 2024 Luftangriffe auf mehrere Ziele in Iran durchgeführt. Eine abermalige iranische Reaktion sowie weitere israelische Gegenangriffe auf iranisches Territorium können nicht ausgeschlossen werden. Iran befindet sich nach Aussagen des Informationsministeriums im Kriegszustand.
+Am 26. Oktober 2024 hat Israel als Reaktion auf die iranischen Raketenangriffe gegen Israel vom 1. Oktober 2024 Luftangriffe auf mehrere Ziele in Iran durchgeführt. Eine abermalige iranische Reaktion sowie weitere israelische Gegenangriffe auf iranisches Territorium können nicht ausgeschlossen werden. Iran befindet sich nach Aussagen des Informationsministeriums im Kriegszustand.
 
 Es kommt weiterhin zu Auswirkungen auf Flugverbindungen von und nach Iran. Der zivile Luftverkehr war zwischenzeitlich ganz ausgesetzt.  
 
