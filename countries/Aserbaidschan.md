@@ -1,5 +1,21 @@
 # Aserbaidschan: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+### *Weltklimakonferenz COP29 (11. bis 24. November 2024 in Baku)*
+
+Aserbaidschan ist vom 11. November bis 22. November 2024 Gastgeberland der 29. Weltklimakonferenz *(„29th Conference of the Parties of the United Nations Framework Convention on Climate Change UNFCCC“ - COP29)* auf dem Gelände des Baku Stadiums in Baku. Aufgrund der Großveranstaltung mit hochrangigen internationalen Teilnehmern sowie des hohen Besucheraufkommens sind im gesamten Stadtgebiet Verzögerungen und Beeinträchtigungen im Straßen- und öffentlichen Personennahverkehr nicht auszuschließen.
+
+Bitte beachten Sie neben der Teilreisewarnung für bestimmte Landesteile für Ihren Aufenthalt in Aserbaidschan während der COP29 besonders die Abschnitte ***„Sicherheit – Innenpolitische Lage“, „Reiseinfos – Infrastruktur/Verkehr“ und „Reiseinfos – Rechtliche Besonderheiten“.***
+
+Sofern Sie an der COP29 persönlich teilnehmen möchten, informieren Sie sich bitte auf den Webseiten des Gastgeberlandes Aserbaidschan <https://www.cop29.az> und der UNFCCC <https://unfccc.int> und beachten Sie außerdem folgende Hinweise:
+
+* Für den Zugang zum offiziellen Bereich (sog. *„Blue Zone“*) wird eine Registrierung durch UNFCCC benötigt. Nach Abschluss der Registrierung ist für die „*Blue Zone“* das spezielle COP29-Visum (sog. „*COP 29 Special Visa“)* kostenfrei [online zu beantragen](https://www.cop28.com/en/blue-zone-visit). Deutsche Inhaber von Diplomatenpässen sind von der Visumspflicht auch während der COP29 befreit. Die sonst übliche Frist zur Registrierung (siehe „Einreise und Zoll“) wird für Personen mit „*COP 29 Special Visa“* auf 30 Tage verlängert.
+* Neben dem offiziellen Bereich befindet sich die sog. „*Green Zone“* als Plattform für Zivilgesellschaft und Wirtschaft. Der Zugang zur „*Green Zone“* ist nur nach vorheriger Anmeldung mit elektronischen Tickets möglich. Details sollen zu einem späteren Zeitpunkt auf der [Gastgeberwebseite](https://www.cop28.com/en/green-zone-visit) veröffentlicht werden.
+* Die Webseiten des [Gastgeberlandes Aserbaidschan](https://www.cop29.az) und der [UNFCCC](https://unfccc.int) werden voraussichtlich zu einem späteren Zeitpunkt auch Richtlinien, die bei Klimaprotesten und -demonstrationen zu beachten sind, enthalten. Für die Abhaltung von Protestmaßnahmen ist die Einrichtung eines speziell dafür vorgesehenen Bereichs innerhalb der „*Blue Zone*“ des COP29-Geländes vorgesehen. Dort können Proteste im Rahmen der UNFCCC-Regularien erfolgen. Proteste außerhalb dieser Bereiche unterliegen ausschließlich der Rechtsordnung Aserbaidschans.
+* Respektvollem Verhalten wird in Aserbaidschan stets besondere Bedeutung beigemessen.
+* Aufgrund des hohen Verkehrsaufkommens wird auf die Einhaltung der Straßenverkehrsordnung großen Wert gelegt, wobei es zu signifikanten Änderungen der sonst üblichen Verkehrsführung in der Stadt kommen kann; auch Fußgänger sollten darauf achten, Straßen nur auf dazu ausgewiesenen Wegen (Zebrastreifen, Überführungen bzw. Tunnels) zu passieren.
+
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in die Region Karabach** **und das gesamte Grenzgebiet zu Armenien** (im Süden beginnend mit dem Fluss Araz/Dreiländereck Aserbaidschan/Iran/Armenien bis hin zum Dreiländereck Aserbaidschan/Georgien/Armenien im Norden) **wird gewarnt.**
@@ -44,6 +60,8 @@ Das Klima ist sehr vielfältig und reicht vom ewigen Eis im Hochgebirge über ge
 
 ## Reiseinfos
 
+Siehe *Aktuelles*
+
 ### Infrastruktur/Verkehr
 
 Im Inlandsflugverkehr wie auch im Zug- und Busverkehr gibt es regelmäßig Verspätungen. Fährverbindungen nach Iran, Kasachstan, Turkmenistan und in die Russische Föderation gibt es nur unregelmäßig. Empfehlenswert sind stets internationale Direktflüge.
@@ -78,6 +96,8 @@ Landeswährung ist der neue aserbaidschanische Manat (AZN). Die Geldversorgung i
 
 ## Einreise und Zoll
 
+Siehe *Aktuelles*
+
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
@@ -103,11 +123,15 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass**: Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+Siehe *Aktuelles*  
+
 Reisedokumente müssen drei Monate über die geplante Ausreise bzw. die Gültigkeit des Visums hinaus gültig sein und sollten unbeschädigt sein. Fehlende oder zerrissene Seiten im Pass führen zur Einreiseverweigerung.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen ein Visum, das vor Antritt der Reise bei der [aserbaidschanischen Botschaft in Berlin](https://berlin.mfa.gov.az/de/content/32/konsular-und-visaangelegenheiten) bzw. einer anderen aserbaidschanischen Auslandsvertretung beantragt werden muss.
+Siehe *Aktuelles*
+
+Deutsche Staatsangehörige benötigen ein Visum, das vor Antritt der Reise bei der [aserbaidschanischen Botschaft in Berlin](https://berlin.mfa.gov.az/de/category/visa) bzw. einer anderen aserbaidschanischen Auslandsvertretung beantragt werden muss.
 
 Außerdem können Visa für einen Aufenthalt von bis zu 30 Tagen über das aserbaidschanische [Visa Portal](http://www.evisa.gov.az/) online beantragt werden. Die Anträge werden in der Regel innerhalb weniger Tage entschieden. Insbesondere vor aserbaidschanischen Feiertagen kann es jedoch zu erheblichen Verzögerungen bei der Bearbeitung kommen. 
 
@@ -229,9 +253,7 @@ Die medizinische Versorgung ist außerhalb der Stadt Baku oft unzureichend. Die 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

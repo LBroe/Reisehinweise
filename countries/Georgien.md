@@ -6,12 +6,13 @@
 
 ### *Demonstrationen und Proteste*
 
-Bei den Massenprotesten im Frühjahr 2024 kam es teilweise zu gewaltsamen Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften. Proteste in Tiflis und anderen größeren Städten in Georgien sind weiterhin möglich, insbesondere im Vorfeld und im Anschluss an die Parlamentswahlen am 26. Oktober 2024. Vor allem in der näheren Umgebung des Parlaments in Tiflis können Demonstrationen mit hohen Teilnehmerzahlen nicht ausgeschlossen werden. Es wird zu besonderer Vorsicht geraten.
+Am 26. Oktober 2024 fanden in Georgien Parlamentswahlen statt. Derzeit finden in Tiflis bereits Massenproteste mit teilweise gewaltsamen Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften statt. Für die folgenden Tage und Wochen können weitere Proteste mit gewaltsamen Auseinandersetzungen, insbesondere in der Hauptstadt aber auch in anderen größeren Städten nicht ausgeschlossen werden. Dies gilt vor allem für die nähere Umgebung des Parlaments in Tiflis. Es wird zu besonderer Vorsicht geraten.
 
 * Informieren Sie sich tagesaktuell über die lokalen, internationalen und sozialen Medien über die aktuelle Lage.
 * Beschränken Sie Fahrten in der Nähe des Parlaments auf das absolut Notwendigste. Berücksichtigen Sie dies bitte bereits bei der Wahl Ihrer Unterkunft.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen.
 * Folgen Sie den Anweisungen der Sicherheitskräfte.
+* Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind.
 
 ## Sicherheit
 
@@ -22,6 +23,8 @@ Bei den Massenprotesten im Frühjahr 2024 kam es teilweise zu gewaltsamen Ausein
 * Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
 ### Innenpolitische Lage
+
+Siehe *Aktuelles*  
 
 #### *Südossetien und Abchasien*
 
@@ -116,7 +119,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-​​​​​​​Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens bis zum Zeitpunkt der Ausreise gültig sein.
+Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens bis zum Zeitpunkt der Ausreise gültig sein.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
