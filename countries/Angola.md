@@ -12,26 +12,26 @@ Die innenpolitische Lage in Angola ist überwiegend stabil.
 
 Die meisten Landminen aus der Zeit des Bürgerkriegs wurden inzwischen beseitigt. In einigen Landesteilen außerhalb der großen Städte besteht jedoch weiterhin eine Gefahr durch Minen. Bei der Fahrt abseits von Straßen ist daher Vorsicht geboten. Über Risiken an spezifischen Reiserouten sollten Erkundigungen eingeholt werden. [HALO Trust](http://www.halotrust.org/) verfügt über Übersichten der erfassten Minen.
 
-In der Provinz Cabinda gibt es noch kleinere sezessionistische Bewegungen. Die Sicherheitslage hat sich verbessert, bleibt jedoch aufgrund spontaner Demonstrationen sowie der wirtschaftlichen und sozialen Lage angespannt.
+In der Provinz Cabinda (Exklave in der Demokratischen Republik Kongo) gibt es noch kleinere sezessionistische Bewegungen. Die Sicherheitslage hat sich verbessert, bleibt jedoch aufgrund spontaner Demonstrationen sowie der prekären wirtschaftlichen und sozialen Lage angespannt.
 
-In den Provinzen Lunda Norte und Lunda Sul ist die Lage in den Diamantengebieten weiterhin unsicher. 2021 kam es zu gewaltsamen Zusammenstößen zwischen Demonstranten und Polizeikräften.
+In den Provinzen Lunda Norte und Lunda Sul ist die Lage in den Diamantengebieten weiterhin unsicher. 2021 und 2024 kam es zu gewaltsamen Zusammenstößen zwischen Demonstranten und Polizeikräften.
 
-* Verzichten Sie möglichst auf Reisen nach Cabinda und in die Diamantengebiete der Provinzen Lunda Norte und Lunda Sul.
+* Meiden Sie möglichst Reisen in die Provinzen Cabinda, Lunda Norte und Lunda Sul und beachten Sie die [Reise- und Sicherheitshinweise für die Demokratische Republik Kongo.](https://diplo.de/-/203202)
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
 
-Die Kriminalitätsrate ist hoch. Gewöhnlich ist ein Anstieg der Kriminalität in den Monaten November bis Januar zu verzeichnen, insbesondere bei Raubüberfällen und Diebstählen. Bewaffnete Überfälle und Diebstähle kommen vor allem in Luanda, aber auch im Rest des Landes vor. Diese finden zu jeder Tages- und Nachtzeit, auch in belebten Umgebungen wie in und um Einkaufszentren, Gastronomiebetrieben und Hotels, statt. Vor allem in Luanda werden Überfälle auf Fahrzeuge verübt, die im stehenden Verkehr keine Fluchtmöglichkeit haben. Die Überfälle werden teilweise durch Ablenkungsmanöver eingeleitet, wie das Vortäuschen bzw. gezielte Provokation eines Unfalls oder mit Wasserflaschen, die zwischen Reifen und Karosserie gesteckt werden. Diese Überfälle erfolgen unabhängig von der Tageszeit überwiegend durch bewaffnete Täter auf Motorrollern. Ausländer sind bevorzugtes Ziel von Diebstählen und Raubüberfällen. Dabei haben es die Täter nicht nur auf Bargeld, sondern auch auf Kreditkarten und Mobiltelefone abgesehen.
+Die Kriminalitätsrate ist hoch. Gewöhnlich ist ein Anstieg der Kriminalität in den Monaten November bis Januar zu verzeichnen, insbesondere bei Raubüberfällen und Diebstählen. Bewaffnete Überfälle und Diebstähle kommen vor allem in Luanda, aber auch im Rest des Landes vor. Diese finden zu jeder Tages- und Nachtzeit, auch in belebten Umgebungen wie in und um Einkaufszentren, Gastronomiebetrieben und Hotels, statt. Vor allem in Luanda werden Überfälle auf Fahrzeuge verübt, die im stehenden Verkehr keine Fluchtmöglichkeit haben. Die Überfälle werden teilweise durch Ablenkungsmanöver eingeleitet, wie das Vortäuschen bzw. die gezielte Provokation eines Unfalls oder mit Wasserflaschen, die zwischen Reifen und Karosserie gesteckt werden. Diese Überfälle erfolgen unabhängig von der Tageszeit überwiegend durch bewaffnete Täter auf Motorrollern. Ausländer sind bevorzugtes Ziel von Diebstählen und Raubüberfällen. Dabei haben es die Täter nicht nur auf Bargeld, sondern auch auf Kreditkarten und Mobiltelefone abgesehen.
 
-* Verzichten Sie bei einem Überfall auf jede Gegenwehr, die Täter könnten bewaffnet sein.
-* Vermeiden Sie Spaziergänge vor allem nach Einbruch der Dunkelheit möglichst, auch auf der Promenade Marginal.
+* Verzichten Sie bei einem Überfall auf jede Gegenwehr; die Täter könnten bewaffnet sein.
+* Vermeiden Sie Spaziergänge vor allem nach Einbruch der Dunkelheit, auch auf der Promenade Marginal.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit und verzichten Sie möglichst auf die Mitnahme Ihrer Kreditkarte.
 * Vermeiden Sie es Schmuck und Uhren offen zu tragen.
 * Wählen Sie keine Geldautomaten auf offener Straße, sondern in Einkaufszentren, Supermärkten oder Banken und lassen Sie sich nie von Fremden beobachten oder helfen.
-* Seien Sie in größeren Menschenmengen wie an Flughäfen, an Bahnhöfen und auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Vermeiden Sie die Teilnahme an Demonstrationen.
 * Seien Sie beim Telefonieren mit dem Mobiltelefon in der Öffentlichkeit besonders umsichtig.
 * Achten Sie während des Autofahrens besonders auf herannahende Motorroller.
@@ -53,9 +53,9 @@ In Angola beginnt die Regenzeit im Norden im September, im Süden gegen Ende No
 
 ### Infrastruktur/Verkehr
 
-Es gibt Inlandsflüge und Busverbindungen sowie einige wenige Eisenbahnverbindungen im Land. Inlandsflüge und Eisenbahnfahrten sind angesichts unregelmäßiger Wartung mit Risiken verbunden. Die Anzahl der Omnibusse ist relativ gering. Sie verkehren unregelmäßig, sind oft stark überfüllt und die Fahrtrouten sind für Besucher nur schwer nachvollziehbar. Reguläre Taxis sind nur eingeschränkt verfügbar und in der Regel teuer. Eine Alternative hierzu bildet die Nutzung einer Taxi-App, z.B. von Yango, Heetch oder T‘Leva. „Informelle“ Taxis und Kleinbusse, sog. "Candongueiros", sind bei fehlenden Orts- und Sprachkenntnissen nicht geeignet.
+Es gibt Inlandsflüge und Busverbindungen sowie einige wenige Eisenbahnverbindungen im Land. Inlandsflüge und Eisenbahnfahrten sind angesichts unregelmäßiger Wartung mit Risiken verbunden. Die Anzahl der Omnibusse ist relativ gering. Sie verkehren unregelmäßig, sind oft stark überfüllt und die Fahrtrouten sind für Besucher nur schwer nachvollziehbar. Reguläre Taxis sind nur eingeschränkt verfügbar und in der Regel teuer. Eine Alternative hierzu bildet die Nutzung einer Taxi-App, z.B. von UGO, Yango, Heetch oder T‘Leva. „Informelle“ Taxis und Kleinbusse, sog. "Candongueiros", sind bei fehlenden Orts- und Sprachkenntnissen nicht geeignet.
 
-Das Straßennetz wird weiter ausgebaut. Die Mehrzahl der Provinzhauptstädte ist inzwischen auf asphaltierten Fernstraßen erreichbar. In der Regenzeit werden viele Straßen insbesondere in den östlichen, nördlichen und südlichen Landesteilen unpassierbar. Überlandfahrten bringen wegen des schlechten Zustandes der Fahrzeuge und Straßen (Schlaglöcher) sowie der zuweilen unvorsichtigen oder durch Alkohol beeinträchtigten Fahrweise anderer Verkehrsteilnehmer und hohen Verkehrsaufkommens ein erhöhtes Unfallrisiko mit sich. Die medizinische und Kfz-technische Versorgung außerhalb Luandas ist stark eingeschränkt, außerhalb der Städte besteht teilweise keine Mobilfunkverbindung.
+Das Straßennetz wird weiter ausgebaut. Die Mehrzahl der Provinzhauptstädte ist inzwischen auf asphaltierten Fernstraßen erreichbar. In der Regenzeit werden viele Straßen insbesondere in den östlichen, nördlichen und südlichen Landesteilen unpassierbar. Überlandfahrten bringen wegen des schlechten Zustandes der Fahrzeuge und Straßen (Schlaglöcher) sowie der zuweilen unvorsichtigen oder durch Alkohol beeinträchtigten Fahrweise anderer Verkehrsteilnehmer und hohen Verkehrsaufkommens ein erhöhtes Unfallrisiko mit sich. Die medizinische und kfztechnische Versorgung außerhalb Luandas ist stark eingeschränkt, außerhalb der Städte besteht teilweise keine Mobilfunkverbindung.
 
 Fahrzeugkontrollen durch die Polizei werden oft dazu genutzt, wegen angeblicher Regelübertretungen Bußgelder zu verhängen.
 
@@ -65,21 +65,15 @@ Fahrzeugkontrollen durch die Polizei werden oft dazu genutzt, wegen angeblicher 
 * Vermeiden Sie Überlandfahrten nach Einbruch der Dunkelheit.
 * Parken Sie nur auf gut beleuchteten Parkplätzen.
 * Halten Sie Fenster und Türen während des Fahrens verschlossen und verriegelt.
-* Achten und bestehen Sie ggf. auf die korrekte Ausstellung eines Strafzettels ("Multa").
+* Bestehen Sie auf der korrekten Ausstellung eines Strafzettels ("Multa").
 
 ### Führerschein
 
-Der internationale Führerschein ist erforderlich und wird nur in Verbindung mit dem deutschen Führerschein anerkannt. Für den deutschen Führerschein sollte eine Übersetzung in portugiesischer Sprache mitgeführt werden.
-
-### Weiterreise in Nachbarländer/Grenzübergänge
-
-Die Botschaften und Konsulate sowohl Angolas als auch der Demokratischen Republik Kongo in der Republik Kongo (Kongo-Brazzaville) stellen Visa nur an Staatsangehörige oder Personen mit Wohnsitz in der Republik Kongo aus.
-
-* Beantragen Sie vor Reiseantritt bei der zuständigen Vertretung der Republik Angola ein Visum, wenn die Einreise aus der Republik Kongo oder der Demokratischen Republik Kongo nach Angola beabsichtigt ist.
+Der internationale Führerschein ist erforderlich und wird nur in Verbindung mit dem deutschen Führerschein anerkannt. Für den deutschen Führerschein sollte eine Übersetzung in portugiesischer Sprache mitgeführt werden.  
 
 ### LGBTIQ
 
-Die Neufassung des angolanischen Strafgesetzbuches enthält keine strafrechtlichen Bestimmungen zu gleichgeschlechtlichen Handlungen. Die angolanische Verfassung enthält ein allgemeines Diskriminierungsverbot, stellt sexuelle Orientierung und sexuelle Identität jedoch nicht als gesondertes Merkmal hervor. Ausländer müssen nicht mit Anfeindungen rechnen, sollten jedoch beachten, dass das Zeigen von Zuneigung in der Öffentlichkeit unter gleichgeschlechtlichen Paaren nicht üblich ist.
+Die Neufassung des angolanischen Strafgesetzbuches enthält keine strafrechtlichen Bestimmungen zu gleichgeschlechtlichen Handlungen. Die angolanische Verfassung enthält ein allgemeines Diskriminierungsverbot; das Strafgesetzbuch nennt sexuelle Orientierung als ein Beispiel verbotener Diskriminierung.  Ausländer müssen nicht mit Anfeindungen rechnen, sollten jedoch beachten, dass das Zeigen von Zuneigung in der Öffentlichkeit unter gleichgeschlechtlichen Paaren nicht üblich ist.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -100,7 +94,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Angolas](http://www.vacina.gov.ao/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Angolas](http://www.vacina.gov.ao/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -117,7 +111,7 @@ Reisedokumente müssen noch mindestens sechs Monate über den Tag der Ausreise h
 
 ### Visum
 
-Deutsche Staatsangehörige können seit Oktober 2023 zu touristischen Zwecken und Privatbesuchen ohne Visum in die Republik Angola einreisen und sich dort 30 Tage visumfrei aufhalten. Es wird bei der Einreise lediglich die Vorlage eines gültigen Reisepasses verlangt.
+Deutsche Staatsangehörige können seit Oktober 2023 zu touristischen Zwecken und Privatbesuchen ohne Visum in die Republik Angola einreisen und sich dort 30 Tage visumsfrei aufhalten. Es wird bei der Einreise lediglich die Vorlage eines gültigen Reisepasses verlangt.
 
 Andere Reisezwecke:
 
@@ -125,9 +119,19 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Angola ein Visum, d
 
 Geschäftsvisa können auch elektronisch über das [SME Portal](http://www.sme.gov.ao/solicitarvisto/) beantragt werden. Nach Absendung des Antrags soll der Antragsteller innerhalb von 72 Stunden eine Vorabgenehmigung („pre-autorização“) erhalten.
 
-Diese Vorabgenehmigung muss dann bei der Einreise gemeinsam mit den bei der [auf der Webseite](http://www.botschaftangola.de/) aufgelisteten Antragsunterlagen vorgelegt werden. Es sollte genügend Bargeld für die Entrichtung der Visagebühr mitgeführt werden. Die Bearbeitung von Online-Anträgen erfolgt in der Regel innerhalb einer Woche, verläuft jedoch nicht immer zuverlässig.
+Diese Vorabgenehmigung muss dann bei der Einreise gemeinsam mit den [auf der Webseite](http://www.botschaftangola.de/) aufgelisteten Antragsunterlagen vorgelegt werden. Es sollte genügend Bargeld für die Entrichtung der Visumsgebühr mitgeführt werden. Die Bearbeitung von Online-Anträgen erfolgt in der Regel innerhalb einer Woche, verläuft jedoch nicht immer zuverlässig.
 
-Visa werden zwar grundsätzlich mit einer Gültigkeitsdauer von 60 Tagen ausgestellt, die zulässige Aufenthaltsdauer bei Einreise ist jedoch auf 30 Tage beschränkt. Visa können nach Einreise in Angola bei den zuständigen angolanischen Behörden („SME“) maximal zwei Mal um jeweils 30 Tage verlängert werden.
+Visa werden zwar grundsätzlich mit einer Gültigkeitsdauer von 60 Tagen ausgestellt, die zulässige Aufenthaltsdauer bei Einreise ist jedoch auf 30 Tage beschränkt. Visa können nach Einreise in Angola bei den zuständigen angolanischen Behörden („SME“) maximal zweimal um jeweils 30 Tage verlängert werden.
+
+#### *Einreise auf dem Landweg/Visum*
+
+Die in der Republik Kongo (Kongo-Brazzaville) ansässigen Botschaften und Konsulate sowohl Angolas als auch der Demokratischen Republik Kongo stellen Visa nur an eigene Staatsangehörige oder Personen mit Wohnsitz in der Republik Kongo aus – nicht an durchreisende Ausländer.
+
+Für touristische Zwecke und Besuchszwecke in Angola (inklusive der Provinz Cabinda) benötigen deutsche Staatsangehörige aktuell kein Visum, siehe *Einreise und Zoll – Visum*.
+
+* Beachten Sie die [Reise- und Sicherheitshinweise für die Demokratische Republik Kongo.](https://diplo.de/-/203202)
+* Bitte beachten Sie, dass Sie bei Einreise über den Landweg Einreisegenehmigungen für einen Aufenthalt von 15 oder 30 Tagen erhalten können. Diese Einreisegenehmigung kann nicht verlängert werden.
+* Beantragen Sie vor Reiseantritt ein Visum bei der zuständigen Vertretung der Republik Angola, wenn Sie zu anderen als den genannten visumsfreien Zwecken aus der Republik Kongo oder der Demokratischen Republik Kongo nach Angola einreisen und sich länger als 30 Tage in Angola aufhalten möchten.
 
 ### Minderjährige
 
@@ -137,8 +141,8 @@ Alleinreisende Personen unter 18 Jahren sollten eine amtlich beglaubigte Einvers
 
 ### Einfuhrbestimmungen
 
-Für nicht in Angola ansässige Personen liegt die Höchstgrenze für die anmeldefreie Einfuhr von Devisen bei dem Gegenwert von 5.000 USD für Volljährige und 1.500 USD für Minderjährige.  
-Darüber hinaus gehende Beträge sind bei der Ein- und Ausreise zu deklarieren.  
+Für nicht in Angola ansässige Personen liegt die Höchstgrenze für die anmeldefreie Einfuhr von Devisen beim Gegenwert von 5.000 USD für Volljährige und 1.500 USD für Minderjährige.  
+Darüber hinausgehende Beträge sind bei der Ein- und Ausreise zu deklarieren.  
 Zur Ausfuhr von höheren als den genannten Beträgen wird die Genehmigung der Nationalbank benötigt.  
 Die Ein- und Ausfuhr von AOA ist für alle Reisenden max. bis 50.000 AOA erlaubt.
 
