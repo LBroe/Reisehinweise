@@ -76,7 +76,7 @@ Im ganzen Land gibt es Polizei- und Armeekontrollen, weshalb stets der Reisepass
 
 ### Führerschein
 
-Der internationale Führerschein ist erforderlich und in Verbindung mit dem nationalen deutschen Führerschein gültig.
+Der internationale Führerschein ist erforderlich und in Verbindung mit dem nationalen deutschen Führerschein gültig. Bei einem längeren Aufenthalt und beim Kauf eines Kfz ist ein aserbaidschanischer Führerschein erforderlich.
 
 ### LGBTIQ
 
@@ -90,9 +90,19 @@ Militärische Anlagen dürfen nicht fotografiert werden.
 
 Die Inanspruchnahme von Prostitutionsdienstleistungen gilt in Aserbaidschan als Ordnungswidrigkeit und kann mit einer Ermahnung bzw. Bußgeld geahndet werden.
 
+#### *Wehrpflicht*
+
+Jeder aserbaidschanische Mann ist gesetzlich zur Ableistung des aserbaidschanischen Wehrdienstes verpflichtet. Dies gilt auch für deutsch-aserbaidschanische Doppelstaater; sie gelten in Aserbaidschan ausschließlich als Aserbaidschaner. Dabei spielt es keine Rolle, ob der Doppelstaater sich jemals zuvor in Aserbaidschan aufgehalten hat oder ausschließlich in Deutschland aufgewachsen ist und vor seiner Besuchsreise wenig Bezug zu Aserbaidschan hatte. Doppelstaater sollten vor Einreise nach Aserbaidschan ihre Wehrdienstangelegenheiten geklärt haben, da es sonst möglicherweise bei der Ausreise aus Aserbaidschan zu Problemen kommen kann. Die Klärung von Wehrdienstangelegenheiten kann mehrere Tage bis Wochen in Anspruch nehmen. Eine Hilfestellung durch die Deutsche Botschaft Baku ist nur sehr begrenzt möglich. Auch deutsche Männer aserbaidschanischer Herkunft, die ein Einbürgerungsverfahren in Deutschland durchgeführt haben und über eine Bescheinigung der aserbaidschanischen Botschaft in Berlin bezüglich Entlassung aus der aserbaidschanischen Staatsbürgerschaft verfügen, sollten diese Bescheinigung als Nachweis bei einer Reise nach Aserbaidschan mit sich führen. In solchen Fällen kann es gelegentlich aufgrund noch nicht erfolgter aserbaidschanischer Registerberichtigungen zu Ausreiseproblemen kommen, bis die Wehrdienstfragen geklärt sind. Betroffene müssen sich an die Konsularabteilung des aserbaidschanischen Außenministeriums wenden. Die Deutsche Botschaft Baku hat auf die Bearbeitungsdauer der aserbaidschanischen Behörden keinen Einfluss.
+
+#### *Möglicher Verlust der aserbaidschanischen Staatsangehörigkeit bei laufendem Einbürgerungsantrag in Deutschland*
+
+Aserbaidschanischen Staatsangehörigen kann bei Einreise nach Aserbaidschan Staatenlosigkeit drohen, wenn sie zuvor einen Einbürgerungsantrag in Deutschland und einen Antrag auf Entlassung aus der aserbaidschanischen Staatsangehörigkeit gestellt haben. In der Vergangenheit hatten aserbaidschanische Staatsangehörige wiederholt Ausreiseprobleme, aufgrund von Passungültigkeit der aserbaidschanischen Reisepässe, obwohl das Einbürgerungsverfahren in Deutschland noch nicht abgeschlossen war. Eine Einbürgerung kann jedoch erst nach erfolgter Wiedereinreise nach Deutschland stattfinden, die in diesem Fall nur mit einem Visumsantrag und einem Antrag auf Ausstellung eines Reiseausweises für Ausländer möglich ist. Die Bearbeitungszeit beträgt dabei mehrere Wochen. Alternativ kann bei den zuständigen aserbaidschanischen Behörden eine kurzzeitige Aktivierung der Reisepässe erwirkt werden. Betroffene wenden sich dazu an die aserbaidschanischen Staatsangehörigkeitsbehörden bei den ASAN-Service-Centern oder an die Konsularabteilung des aserbaidschanischen Außenministeriums.
+
 ### Geld/Kreditkarten
 
-Landeswährung ist der neue aserbaidschanische Manat (AZN). Die Geldversorgung ist sowohl in Baku als auch in kleineren Städten und auf dem Land am Geldautomaten mit Kredit- bzw. Debitkarte (Girocard) möglich. Zu beachten ist, dass manche Geldautomaten nicht alle Kredit-/Debitkarten akzeptieren und die Abhebesumme auf geringe Beträge beschränkt sein kann.
+Landeswährung ist der neue aserbaidschanische Manat (AZN). Die Geldversorgung ist sowohl in Baku als auch in kleineren Städten am Geldautomaten mit Kredit- bzw. Debitkarte (Girocard) möglich. Zu beachten ist, dass manche Geldautomaten nicht alle Kredit-/Debitkarten akzeptieren und die Abhebesumme auf geringe Beträge beschränkt sein kann. Außerhalb von Städten ist die Bargeldversorgung über Geldautomaten nicht flächendeckend möglich.
+
+* Treten Sie Reisen außerhalb von Städten nur mit ausreichend Bargeldreserven an.
 
 ## Einreise und Zoll
 
@@ -149,7 +159,7 @@ Sofern Pässe Visa und/oder Einreisestempel der sogenannten „Republik Arzakh�
 
 ### **Registrierung**
 
-Deutsche und andere ausländische Staatsangehörige müssen sich bei einer geplanten Aufenthaltsdauer von mehr als 15 Tagen direkt nach Ankunft beim staatlichen Migrationsservice registrieren. Im Falle einer Hotelunterkunft wird diese Verpflichtung vom Hotel erfüllt. Weitere Informationen unde Hinweise zur Registrierung sind beim [Staatlichen Migrationsdienstes](https://www.migration.gov.az/en/oyq) zu finden. Auskünfte dazu erteilen auch die örtlichen ASAN-Service Center.
+Deutsche und andere ausländische Staatsangehörige müssen sich bei einer geplanten Aufenthaltsdauer von mehr als 15 Tagen direkt nach Ankunft beim staatlichen Migrationsservice registrieren. Im Falle einer Hotelunterkunft wird diese Verpflichtung vom Hotel erfüllt. Weitere Informationen unde Hinweise zur Registrierung sind beim [Staatlichen Migrationsdienstes](https://www.migration.gov.az/en/oyq) zu finden. Auskünfte dazu erteilen auch die örtlichen ASAN-Service-Center.
 
 ### Längerfristiger Aufenthalt
 
@@ -157,13 +167,7 @@ Für längere Aufenthalte muss eine Aufenthaltserlaubnis beim aserbaidschanische
 
 ### Minderjährige
 
-Es gibt keine besonderen Vorschriften hinsichtlich der Einreise eines allein reisenden Minderjährigen bzw. bei Reise mit nur einem sorgeberechtigten Elternteil.
-
-### Ausreisesperre für ehemalige aserbaidschanische Staatsangehörige wegen Militärdienstpflichten
-
-In letzter Zeit wurden vermehrt Deutsche mit früherer aserbaidschanischer Staatsangehörigkeit aufgrund noch erfasster Militärdienstpflichten an der Ausreise gehindert. In der Regel betraf dies männliche Staatsangehörige im Alter zwischen 18 und 35 Jahren. Ungeklärte Militärdienstverpflichtungen in Aserbaidschan können zu Ausreisesperren und damit verbundenen Verlängerungen des Aufenthaltes in Aserbaidschan führen. Die deutsche Botschaft in Baku hat keine Möglichkeit, das Verfahren der aserbaidschanischen Behörden zur Klärung von Ausreisesperren zu beschleunigen.
-
-* Wenden Sie sich bitte vor einer geplanten Reise nach Aserbaidschan an die Botschaft der Republik Aserbaidschan zur verbindlichen und abschließenden Klärung Ihrer bestehenden Militärdienstpflicht. Dies gilt auch, wenn Ihnen bereits ein Visum für Aserbaidschan erteilt worden ist.
+Es gibt keine besonderen Vorschriften hinsichtlich der Einreise eines allein reisenden Minderjährigen bzw. bei Reise mit nur einem sorgeberechtigten Elternteil.  
 
 ### Einreise mit eigenem Fahrzeug
 
