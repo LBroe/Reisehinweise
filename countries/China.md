@@ -47,7 +47,7 @@ Besonders bei Reisen in mehrheitlich von ethnischen Minderheiten bewohnten und a
 ### Kriminalität
 
 Die Kriminalitätsrate ist insgesamt gering und Gewaltakte sind sehr selten.  
-Kleinkriminalität wie Taschendiebstahl und Raub z.B. von Smartphones sowie insbesondere verschiedenste Formen von Trickbetrügereien, Scams und überhöhte Kreditkartenabrechnungen und Preise für Dienstleistungen kommen jedoch vor
+Kleinkriminalität wie Taschendiebstahl und Raub z.B. von Smartphones sowie insbesondere verschiedenste Formen von Trickbetrügereien, Scams und überhöhte Kreditkartenabrechnungen und Preise für Dienstleistungen kommen jedoch vor.
 
 Überfälle auf Ausländer werden selten bekannt, sind aber auch an gut bewachten Plätzen nicht auszuschließen. Seit Herbst 2023 wurden aus unterschiedlichen Städten Messerangriffe auf Ausländer bekannt, bei denen es auch immer Verletzte gab.  
 Betrugsversuche erfolgen auch über das Telefon, wobei sich Anrufer teilweise als Polizei ausgeben.
@@ -112,7 +112,7 @@ Die Einfuhr oder der Besitz schon geringer Mengen Drogen jeder Art, auch sog. De
 Gegen Ausländer kann u.a. dann eine Ausreisesperre verhängt und der Reisepass von der Polizei einbehalten werden, wenn gegen sie eine Strafanzeige vorliegt oder eine Vernehmung als Zeuge in Frage kommt. Dies gilt auch in einem laufenden Zivilprozess. In der letzten Zeit werden länger andauernde Ausreisesperren auch bei zivilen Geschäftsstreitigkeiten verhängt, eine persönliche Anwesenheit bei einem Gerichtsprozess sollte daher kritisch geprüft werden.  
 Sofern Handelsgesellschaften oder andere Organisationen an einem Verfahren beteiligt sind, kann auch gegen deren gesetzlichen Vertreter oder gegen eine andere Person, die aus chinesischer Sicht für die Gesellschaft verantwortlich ist, eine Ausreisesperre verhängt werden. Die deutschen Auslandsvertretungen bietet weitere Informationen über die [Rechtsverfolgung in zivil- und handelsrechtlichen Streitigkeiten in China.](https://china.diplo.de/cn-de/service/-/2646760)
 
-Polizeidienststellen können bei über 200 (teilweise weit interpretierbaren) Tatbeständen nicht nur Bußgelder bis zu 5.000 RMB (ca. 600 EUR), sondern auch bis zu 15 Tage Arrest ohne richterliches Urteil anordnen. Zu den Tatbeständen gehören u.a. die Störung der öffentlichen Ordnung, sittenwidriges Verhalten, Prostitution (strafbar sind sowohl Prostituierte wie auch Freier), Drogenkonsum (auch der Konsum außerhalb Chinas kann verfolgt werden, wenn dieser z. B. noch anhand einer Haarprobe nachgewiesen wird), illegaler Aufenthalt usw. Das Gesetz wird auch gegen Ausländer angewandt**.** Auch Verstöße gegen sehr weit auslegbare Gesetzgebung zu nationaler Sicherheit und Spionage werden streng verfolgt.
+Polizeidienststellen können bei über 200 (teilweise weit interpretierbaren) Tatbeständen nicht nur Bußgelder bis zu 5.000 RMB (ca. 600 EUR), sondern auch bis zu 15 Tage Arrest ohne richterliches Urteil anordnen. Zu den Tatbeständen gehören u.a. die Störung der öffentlichen Ordnung, sittenwidriges Verhalten, Prostitution (strafbar sind sowohl Prostituierte wie auch Freier), Drogenkonsum (auch der Konsum außerhalb Chinas kann verfolgt werden, wenn dieser z. B. noch anhand einer Haarprobe nachgewiesen wird), illegaler Aufenthalt usw. Das Gesetz wird auch gegen Ausländer angewandt. Auch Verstöße gegen sehr weit auslegbare Gesetzgebung zu nationaler Sicherheit und Spionage werden streng verfolgt.
 
 Fotografieren ist - von Ausnahmen wie z.B. militärischen Objekten abgesehen - nicht beschränkt. Bei Aufnahmen von Personen sollte erst um Erlaubnis gefragt werden. In Zweifelsfällen sollte man sich an die Reisebegleitung wenden. Videokameras und Smartphones sind ohne besondere Genehmigung erlaubt, sollten jedoch in der Zollerklärung angegeben werden.  
 Mobiltelefonverträge können vor Ort nur gegen Ausweis und Gesichtsscan abgeschlossen werden; von einer Auswertung vieler Nutzerdaten ist auszugehen.
@@ -135,7 +135,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich unbedingt auf der Webseite der [chinesischen Botschaft in Berlin](http://de.china-embassy.gov.cn/det/) und zusätzlich bei weiteren offiziellen Stellen wie dem [Außenministerium der VR China](http://www.fmprc.gov.cn/). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich unbedingt auf der Webseite der [chinesischen Botschaft in Berlin](http://de.china-embassy.gov.cn/det/) und zusätzlich bei weiteren offiziellen Stellen wie dem [Außenministerium der VR China](http://www.fmprc.gov.cn/). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
