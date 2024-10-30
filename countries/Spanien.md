@@ -1,5 +1,17 @@
 # Spanien: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen ist die autonome Gemeinschaft Valencia, in der es mehrere Todesopfer gab; weitere Menschen werden aktuell vermisst.
+
+Auch Teile Andalusiens und Kastilien-La Manchas sowie Teruel/Aragonien sind betroffen. Vielerorts sind Flüsse über die Ufer getreten. Bestimmte Katastrophengebiete können durch die Rettungsdienste aktuell nicht erreicht werden.
+
+Der Flug- und Zugverkehr ist in den betroffenen Gebieten zum Teil ausgesetzt und manche Straßen sind nicht befahrbar.
+
+* Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit von nicht notwendigen, touristischen Reisen in die autonome Gemeinschaft Valencia ab.**
+* Falls Sie sich aktuell in den betroffenen Gebieten aufhalten, befolgen Sie bitte die Verhaltenshinweise der örtlichen Behörden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen lokaler Behörden.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -28,6 +40,8 @@ Entlang der spanischen Autobahnen (insbesondere auf der A7 zwischen der französ
 * Seien Sie bei ungewöhnlichen Anrufen, E-Mails, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch, teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
+
+Siehe *Aktuelles*
 
 #### *Busch- und Waldbrände*
 
@@ -65,6 +79,8 @@ Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht a
 * Überzeugen Sie sich als Fahrer eines Kraftfahrzeugs stets davon, dass Ihre Mitfahrer gültige Grenzübertrittspapiere mit sich führen.
 
 ### Infrastruktur/Verkehr
+
+Siehe *Aktuelles*
 
 Es gibt ein Inlandsflugnetz, Fährverkehr zu den Inseln, Eisenbahnen mit gut ausgebauten Hochgeschwindigkeitsverbindungen und Busverbindungen. Mit Behinderungen im öffentlichen Nah- und Fernverkehr (auf dem Luft-, See- und Landweg) muss im Falle von Streiks gerechnet werden.
 
