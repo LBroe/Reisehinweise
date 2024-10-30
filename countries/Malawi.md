@@ -91,7 +91,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Malawis sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Malawis sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -132,7 +132,7 @@ Führen Sie auch einen EU-Heimtierausweis mit. Er dient u. a. als Nachweis, dass
 
 ### Impfschutz
 
-| Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet ist für alle Personen ab dem Alter von zwölf Monaten eine Gelbfieberimpfung nachzuweisen.Laut WHO-Vorgaben muss bei Ausreise die letzte [Poliomyelitis-Impfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") maximal ein Jahr zurückliegen. Nach derzeitigem Kenntnisstand erfolgt keine Kontrolle der Impfung bei Ausreise. |
+| Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei vorherigem Transit oder Aufenthalt in einem Gelbfiebergebiet innerhalb von sechs Tagen vor Einreise nach Malawi ist für alle Personen ab dem Alter von 12 Monaten eine Gelbfieberimpfung nachzuweisen. Personen ab 65 Jahren, die über ein Gelbfiebergebiet einreisen, sich dort maximal 12 Stunden im Transitbereich aufhalten und den Bereich nicht verlassen, müssen keine Gelbfieberimpfung vorlegen. |
 | --- | --- |
 | Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Hepatitis B, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist i.d.R. nicht notwendig. |
 | Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. |
@@ -167,7 +167,7 @@ Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können 
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise")
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
-* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Bei Aufenthalten über 4 Wochen muss laut WHO-Vorgaben eine Impfung 4 Wochen bis 12 Monate vor Ausreise aus dem betroffenen Land erfolgen. Bei einem Aufenthalt unter 4 Wochen ist eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis"). Die Nachweispflicht entsprechend der WHO-Vorgaben wird aktuell nicht umgesetzt.
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Es wird eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als zehn Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis"). Die Nachweispflicht entsprechend der WHO-Vorgaben wird aktuell nicht umgesetzt.
 * Lassen sich hinsichtlich einer Cholera-Impfung beraten, falls Sie längerfristig in Choleraepidemiegebieten z.B. als medizinisches Personal oder Katastrophenhelfer tätig sind.
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
@@ -204,7 +204,7 @@ Intensive Sonneneinstrahlung kann zu kurz- und langfristigen Haut- und Augensch�
 
 * Informieren Sie sich z.B. über die App [SunSmart](https://www.who.int/news/item/21-06-2022-sunsmart-global-uv-app-helps-protect-you-from-the-dangers-of-the-sun-and-promotes-public-health "App SunSmart") über notwendige Sonnenschutzmaßnahmen.
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
