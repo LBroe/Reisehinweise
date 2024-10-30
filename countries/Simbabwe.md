@@ -84,9 +84,9 @@ Das Fotografieren und Filmen von Militäranlagen und -fahrzeugen, Soldaten, Poli
 
 ### Geld/Kreditkarten
 
-Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landeswährung, den Zimbabwe Dollar (ZWL), ersetzt.
+Die bisher gängige Währung in Simbabwe, der USD, wurde durch eine neue Landeswährung, den Zimbabwe Dollar (ZIG = Zimbabwe Gold), ersetzt.
 
-Die Bezahlung mit USD ist in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZWL existieren bislang nur in begrenztem Umfang. Die Modalitäten des Zahlungsverkehrs unterliegen immer wieder kurzfristigen Änderungen.
+Die Bezahlung mit USD ist in den meisten Geschäften, Hotels und Restaurants möglich. Ebenso bevorzugen viele Unternehmen die Bezahlung mit USD. Generell herrscht Bargeldknappheit. Banknoten und Münzen der neuen Landeswährung ZIG existieren bislang nur in begrenztem Umfang. Die Modalitäten des Zahlungsverkehrs unterliegen immer wieder kurzfristigen Änderungen.
 
 Die Bezahlung mit ausländischen Kreditkarten und das Abheben von Bargeld an Geldautomaten sind derzeit nicht landesweit sichergestellt. Kreditkarten werden nur selten akzeptiert; wenn überhaupt, dann zumeist VISA und Mastercard. Reisende sollten ihre Reise daher mit ausreichend Bargeld antreten. Es ist ratsam, größere Geldbeträge im Hotel im Safe zu deponieren, um das Diebstahlrisiko zu minimieren.
 
@@ -128,7 +128,7 @@ Deutsche Staatsangehörige benötigen für die Einreise ein Visum. Dieses kann n
 
 Einreisevisa mit einer Gültigkeit von 30 Tagen werden gegen eine Gebühr von 30 USD an den beiden internationalen Flughäfen Harare und Victoria Falls sowie an den Landesgrenzen ausgestellt.
 
-Einreisevisa können ebenfalls [online beantragt](https://evisa.gov.zw) und bezahlt werden.
+Einreisevisa können ebenfalls [online beantragt](https://evisa.gov.zw) und bezahlt werden. Es kann jedoch vorkommen, dass bei der Einreise auf dem Landweg aus Botswana kommend die Onlinevisa nicht anerkannt werden und Reisende zur nochmaligen Zahlung in bar aufgefordert werden.
 
 Weitere Informationen erteilt die simbabwische Einwanderungsbehörde [per E-Mail](mailto:evisazim@gmail.com) evisazim@gmail.com oder telefonisch 00263-716801141/772257364/712321210/772225625).
 
@@ -152,7 +152,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 Die Freigrenze für die [zollfreie Einfuhr von Waren und Gütern](https://www.zimra.co.zw/news/22-taxmans-corner/2196-importation-and-exportation-of-currency-by-travellers-2) bei der Einreise wurde auf 2.000 USD reduziert.
 
-Die Einfuhr von Bargeld ist weiterhin in unbeschränkter Höhe möglich. Allerdings sollte die eingeführte Menge bei der Einreise unbedingt beim simbabwischen Zoll deklariert werden, damit der Restbetrag bei Ausreise wieder mitgeführt werden kann. Nach Angaben des simbabwischen Zolls beträgt die Höchstgrenze 10.000 USD. Weitere Informationen bietet der [simbabwische Zoll](https://www.zimra.co.zw/)  ([Importation and Exportation of Currency by Travellers](https://www.zimra.co.zw/news/22-taxmans-corner/2196-importation-and-exportation-of-currency-by-travellers-2)).
+Die Einfuhr von Bargeld ist weiterhin in unbeschränkter Höhe möglich. Allerdings sollte die eingeführte Menge bei der Einreise unbedingt beim simbabwischen Zoll deklariert werden, damit der Restbetrag bei Ausreise wieder mitgeführt werden kann. Nach Angaben des simbabwischen Zolls beträgt die Höchstgrenze 2.000 USD. Weitere Informationen bietet der [simbabwische Zoll](https://www.zimra.co.zw/)  ([Importation and Exportation of Currency by Travellers](https://www.zimra.co.zw/news/22-taxmans-corner/2196-importation-and-exportation-of-currency-by-travellers-2)).
 
 Bei Ausfuhr einer größeren Menge an Kunsthandwerk und Shona-Skulpturen, die zum Verkauf bestimmt sind, muss eine Genehmigung der Zollbehörde vorgelegt werden. Die Vorschriften können sich ständig ändern, daher empfiehlt es sich, direkt beim Zoll in Harare nachzufragen.
 
