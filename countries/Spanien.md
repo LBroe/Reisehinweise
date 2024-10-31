@@ -2,15 +2,15 @@
 
 ## Aktuelles
 
-Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen ist die autonome Gemeinschaft Valencia, in der es mehrere Todesopfer gab; weitere Menschen werden aktuell vermisst.
+Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen ist die Provinz Valencia, in der es bereits weit über 100 Todesopfer gab; weitere Menschen werden aktuell vermisst.
 
-Auch Teile Andalusiens und Kastilien-La Manchas sowie Teruel/Aragonien sind betroffen. Vielerorts sind Flüsse über die Ufer getreten. Bestimmte Katastrophengebiete können durch die Rettungsdienste aktuell nicht erreicht werden.
+Auch Teile Andalusiens und Kastilien-La Manchas sowie Teruel/Aragonien sind betroffen. Vielerorts sind Flüsse über die Ufer getreten. Bestimmte Katastrophengebiete können durch die Rettungsdienste nur eingeschränkt erreicht werden.
 
-Der Flug- und Zugverkehr ist in den betroffenen Gebieten zum Teil ausgesetzt und manche Straßen sind nicht befahrbar.
+Der Zugverkehr ist in den betroffenen Gebieten zum Teil ausgesetzt und manche Straßen sind nicht befahrbar.
 
-* Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit von nicht notwendigen, touristischen Reisen in die autonome Gemeinschaft Valencia ab.**
+* Für die an die Provinz Valencia angrenzende Provinz Castellón wurde eine Hochwasserwarnung ausgesprochen. Stärkere Regenfälle sind auch in Teilen Extremaduras, Andalusiens und Kataloniens mit der Gegend um Tarragona zu erwarten. Auch auf den Balearen wurde die Bevölkerung zu größter Vorsicht aufgerufen. Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit** **von nicht notwendigen, touristischen Reisen in die Provinzen Valencia und Castellón ab**.
 * Falls Sie sich aktuell in den betroffenen Gebieten aufhalten, befolgen Sie bitte die Verhaltenshinweise der örtlichen Behörden.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen lokaler Behörden.
+* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Sicherheit
 
