@@ -19,14 +19,14 @@ Grundlage jeder Reise, die in Gebiete mit Reisewarnung durchgeführt wird, sollt
 
 * Verfolgen Sie die lokalen und sozialen Medien.
 * Meiden Sie derzeit zentrale Infrastruktur. US-Einrichtungen sind besonders gefährdet.
-* Meiden Sie Demonstrationen, sofern Sie sich trotz der bestehenden Teilreisewarnung in Irak aufhalten.
+* Meiden Sie Demonstrationen.
 * Folgen Sie den Anweisungen von Sicherheitskräften.
 
 #### *Hauptstadt Bagdad*
 
 Trotz einer Verbesserung der Sicherheitslage in der Hauptstadt Bagdad besteht weiterhin die Gefahr schwerer Anschläge, insbesondere auf irakische Sicherheitsinstitutionen und deren Angehörige, auf Ministerien, Hotels, öffentliche Plätze und religiöse Einrichtungen. Es besteht zudem ein hohes Risiko an Entführungen mit terroristischem oder kriminellem Hintergrund. Die Sicherheitslage ist weiterhin volatil.
 
-Einzelne Abschnitte der Hauptstadt Bagdad werden von irakischen Sicherheitskräften in besonderem Maße gesichert, dazu zählt u.a. der internationale Flughafen. Anschläge können aber auch dort nicht ausgeschlossen werden. In der Vergangenheit waren die sog. Internationale Zone und unmittelbar angrenzende Bereiche immer wieder Ziel von Mörser- und Raketenbeschuss; diese Gefahr besteht fort.
+Einzelne Abschnitte der Bagdads werden von irakischen Sicherheitskräften in besonderem Maße gesichert, dazu zählt u.a. der internationale Flughafen. Anschläge können aber auch dort nicht ausgeschlossen werden. In der Vergangenheit waren die sog. Internationale Zone und unmittelbar angrenzende Bereiche immer wieder Ziel von Mörser- und Raketenbeschuss; diese Gefahr besteht fort.
 
 Im Stadtgebiet, insbesondere um den Tahrir-Platz und die drei Tigris-Brücken Jumhuriya, Sinak und al-Ahrar kann es zu Protesten und gewalttätigen Zusammenstößen zwischen Demonstranten und Sicherheitskräften kommen. Die Proteste schränken den Bewegungsspielraum in der Stadt in Teilen ein. Weitere Gewaltausbrüche im Zusammenhang mit den Demonstrationen können nicht ausgeschlossen werden.
 
@@ -44,7 +44,7 @@ Aufgrund der hoch volatilen Lage in Nahost ist die weitere Entwicklung der Siche
 
 ### Innenpolitische Lage
 
-Siehe *Aktuelles*  
+Siehe *Aktuelles*
 
 In Bagdad sowie allen südlichen Provinzen, aber auch vereinzelt in der RKI finden regelmäßig Proteste gegen die Regierung statt, bei denen es immer wieder zu Gewalt zwischen Demonstranten und Sicherheitskräften bzw. z.T. bewaffneten Gruppen kommt.
 
@@ -62,7 +62,7 @@ Es besteht ein hohes Maß an krimineller Gewalt und ein hohes Risiko für Entfü
 Es besteht landesweit die Gefahr von Überfällen und Fahrzeugdiebstählen, insbesondere nachts.
 
 * Reisen Sie nur mit einem tragfähigen, professionellen Sicherheitskonzept.
-* Meiden Sie Bewegungen nach Einbruch der Dunkelheit.
+* Meiden Sie Ortswechsel nach Einbruch der Dunkelheit.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie stets nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit. Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 
@@ -166,9 +166,7 @@ Vor Einreise in die RKI ist über das Online-Portal der Regionalregierung zwinge
 
 Für einen Aufenthalt von bis zu 60 Tagen in Irak kann ein Visum bei Einreise (Land-, Luft und Seeweg) ausgestellt werden.
 
-Die Gebühren sind in USD zu zahlen. Verbindliche Auskunft zum Verfahren der Visumsausstellung bei Ankunft und zur Höhe der Gebühren erteilt die zuständige irakische Auslandsvertretung.
-
-Visa für Aufenthalte über 60 Tage müssen vor der Einreise bei einer irakischen Auslandsvertretung beantragt werden.
+Die Gebühren sind in USD zu zahlen. Die Gebührenzahlung ist meist mit Kreditkarte, mitunter jedoch nur bar möglich. Es wird empfohlen beide Zahlungsmittel bereitzuhalten.Verbindliche Auskunft zum Verfahren der Visumsausstellung bei Ankunft und zur Höhe der Gebühren erteilt die zuständige irakische Auslandsvertretung.
 
 Bei illegalem Grenzübertritt zwischen Irak und den Nachbarstaaten ist mit Haft- und Geldstrafen zu rechnen.
 
