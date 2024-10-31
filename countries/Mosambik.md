@@ -6,18 +6,26 @@
 
 **Von nicht erforderlichen Reisen in den Distrikt Pemba in der Provinz Cabo Delgado wird abgeraten.** 
 
-### *Auseinandersetzungen*
+### *Demonstrationen, Proteste und Streiks*
 
 Der langjährige Bürgerkrieg mit teilweise gewalttätigen Feindseligkeiten zwischen Vertretern der Parteien FRELIMO und RENAMO wurde mit dem Waffenstillstandsvertrag 2016 und dem Friedensvertrag von 2019 beendet.
 
 Im Anschluss an die Kommunalwahlen im Oktober 2023 kam es landesweit zu Demonstrationen, teils auch zu Zusammenstößen mit Sicherheitskräften.
 
-Am 9. Oktober 2024 fanden Präsidentschafts-, Parlaments- und Gouverneurswahlen statt. Am 18. Oktober 2024 wurden zwei Mitglieder der Opposition ermordet. Aktuell und vor allem mit der Bekanntgabe der Wahlergebnisse, kann es jederzeit zu (auch unangekündigten) Demonstrationen kommen.
+Am 9. Oktober 2024 fanden Präsidentschafts-, Parlaments- und Gouverneurswahlen statt. Am 18. Oktober 2024 wurden zwei Mitglieder der Opposition ermordet. Seit Bekanntgabe der Wahlergebnisse kommt es immer wieder zu (auch unangekündigten) Demonstrationen. Vom 31. Oktober bis 7. November 2024 wurden ein landesweiter Streik, insbesondere in der Hauptstadt Maputo, sowie Protestaktionen angekündigt.
 
-* Informieren Sie sich engmaschig über die lokalen Medien.
+Gewalttätige Auseinandersetzungen und Vandalismus können nicht ausgeschlossen werden.
+
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
-* Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.
+* Meiden Sie in Ortschaften weiträumig Parteizentralen und Büros der Wahlbehörde.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+
+Durch anhaltende Streiks kann es zu Versorgungsengpässen kommen. Auch Tankstellen können betroffen sein. Es wird daher geraten, Vorräte aufzustocken und stets mit vollem Tank zu fahren.
+
+Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen. **Von nicht notwendigen Überlandfahrten wird daher vom 31. Oktober bis 7. November 2024 abgeraten.**
+
+* Informieren Sie sich regelmäßig und in kurzen Abständen über die lokalen Medien.
+* Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.
 
 #### *Terroristische Angriffe*
 
@@ -61,9 +69,9 @@ Es sind auch Fälle bekannt, in denen ausländische Staatsangehörige bei Identi
 * Halten Sie im Auto die Fenster immer geschlossen und verriegeln Sie die Türen von innen.
 * Lassen Sie keine Handtaschen, Mobiltelefone und andere Wertsachen sichtbar im Auto liegen.
 * Geben Sie bei einem eventuellen Überfall Wertgegenstände ohne Gegenwehr heraus.
-* Bei Gesprächen mit der Polizei bewahren Sie stets Ruhe, zeigen Sie Ihre Ausweispapiere im Original ohne Diskussion vor und bestehen auf Aufnahme eines ordentlichen Protokolls.
+* Bei Gesprächen mit der Polizei bewahren Sie stets Ruhe, zeigen Sie Ihre Ausweispapiere im Original ohne Diskussion vor und bestehen Sie auf Aufnahme eines ordentlichen Protokolls.
 * Bezahlen Sie Bußgelder nur im Polizeirevier gegen offizielle Quittung („recibo“).
-* Bei offensichtlichem Fehlverhalten der Polizei, notieren Sie sich den Namen des Polizisten und melden den Vorfall im Anschluss direkt bei der nächstgelegenen Polizeistation und der deutschen Botschaft in Maputo.
+* Bei offensichtlichem Fehlverhalten der Polizei notieren Sie sich den Namen des Polizisten und melden den Vorfall im Anschluss direkt bei der nächstgelegenen Polizeistation und der deutschen Botschaft in Maputo.
 * Offensichtliche Korruptionsfälle durch die Polizei können Sie entweder beim Zentralbüro zur Korruptionsbekämpfung („Gabinete Central de Combate á Corrupção“) unter den Telefonnummern 823404, 843404 oder 863404000, oder dem Büro der staatlichen Ombudsperson („Provedor da Justiça“) unter 863065739, 821200077 oder [per E-Mail](mailto:gpj@provedor-justica.org.mz) unter [gpj@provedor-justica.org.mz](mailto:gpj@provedor-justica.org.mz) melden.
 
 ## Natur und Klima
@@ -150,9 +158,9 @@ Für die Einreise nach Mosambik zu Besuchs,- Tourismus- und Geschäftszwecken mi
 
 Das bisherige Verfahren über eine [elektronische Plattform](https://evisa.gov.mz/) (in englischer Sprache) ist derzeit ausgesetzt.
 
-#### *Visabeantragung bei den mosambikanischen Auslandsvertretungen*
+#### *Visumsbeantragung bei den mosambikanischen Auslandsvertretungen*
 
-Residenz-, Studenten- und Transitvisamüssen weiterhin  über die mosambikanischen Auslandsvertretungen beantragt werden; entsprechende Informationen erteilt die [Botschaft von Mosambik in Berlin](http://www.embassy-of-mozambique.de/index.php/2015-10-08-06-52-19/visas).
+Studenten- und Transitvisa und solche zur Begründung eines längeren Aufenthalts müssen weiterhin über die mosambikanischen Auslandsvertretungen beantragt werden; entsprechende Informationen erteilt die [Botschaft von Mosambik in Berlin](http://www.embassy-of-mozambique.de/index.php/2015-10-08-06-52-19/visas).
 
 Bei den Ein- und Ausreiseformalitäten muss der Pass persönlich vorgelegt werden. Die Beauftragung von Dritten, sogenannten „Runners“, für die Abwicklung der Ein- und Ausreise ist verboten.  
 Bei Überschreitung der im Visum gestatteten Aufenthaltsdauer (Overstay) drohen hohe Geldstrafen.

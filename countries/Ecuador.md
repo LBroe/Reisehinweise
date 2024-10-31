@@ -2,16 +2,19 @@
 
 ## Aktuelles
 
-Die ecuadorianische Regierung hat vermehrte Stromabschaltungen und Ausgangssperren, in der Regel zwischen 22 und 6 Uhr morgens, angekündigt. Ausgangssperren sollen in den Provinzen Guayas, Los Rios, Manabí, Orellana, Santa Elena, El Oro und im Kanton Ponce Enriquez gelten.
+Aktuell und voraussichtlich noch für die nächsten Monate kommt es zu geplanten und angekündigten Stromabschaltungen durch die ecuadorianische Regierung. Diese gehen einher mit Ausgangssperren zwischen 22 und 6 Uhr morgens in den Provinzen Guayas, Los Rios, Manabí, Orellana, Santa Elena, El Oro und im Kanton Ponce Enriquez.
 
-* Aktuelle Informationen erteilt die Regierung kurzfristig.
+Aufgrund der Stromabschaltungen kann es auch zu Beeinträchtigungen des Mobilfunknetzes kommen.
+
+Aktuelle Informationen erteilt die Regierung kurzfristig.
+
 * Bitte informieren Sie sich daher in der lokalen Presse und über die sozialen Medien und halten Sie sich an die Vorgaben der lokalen Behörden.
 
 ## Sicherheit
 
 **Von nicht notwendigen Reisen in das unmittelbare Grenzgebiet zu Kolumbien wird**, mit Ausnahme des Grenzübergangs Tulcán, **abgeraten.**
 
-**Von nicht notwendigen Reisen nach Esmeraldas (Stadt), Guayaquil südlich der Avenida Portete de Tarquí sowie Durán, wird weiterhin abgeraten.** 
+**Von nicht notwendigen Reisen nach Esmeraldas (Stadt), Guayaquil südlich der Avenida Portete de Tarquí sowie Durán wird weiterhin abgeraten.** 
 
 ### Terrorismus
 
@@ -21,9 +24,9 @@ Die ecuadorianische Regierung hat vermehrte Stromabschaltungen und Ausgangssperr
 
 Im ganzen Land kommt es immer wieder zu Demonstrationen - meist aus politischen und/oder wirtschaftlichen Gründen. Demonstranten blockieren routinemäßig lokale Straßen und Hauptautobahnen, oft ohne vorherige Ankündigung. Demonstrationen können mehrere Tage oder Wochen andauern. Straßenblockaden können den Zugang zu öffentlichen Verkehrsmitteln, Gesundheitsdiensten und Flughäfen erheblich einschränken und den Reiseverkehr sowohl innerhalb als auch zwischen Städten beeinträchtigen. Verkehrsbehinderungen durch Demonstrationen, Straßenblockaden oder Streiks zwingen Reisende, sich lokal über alternative Reisemöglichkeiten zu erkundigen und gegebenenfalls die Normalisierung der Lage abzuwarten. Informationen über aktuell geltende Ausnahmezustände erteilt die ecuadorianische Regierung.
 
-* Bitte informieren Sie sich bei den [ecuadorianischen Behörden](https://www.ecu911.gob.ec/consulta-de-vias/) und in den lokalen Medien über die aktuelle Lage. Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Informieren Sie sich bei den [ecuadorianischen Behörden](https://www.ecu911.gob.ec/consulta-de-vias/) und in den lokalen Medien über die aktuelle Lage. Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Verzichten Sie möglichst auf Abend- und Nachtfahrten. Beschränken Sie Fahrten auf das Notwendigste und führen Sie diese mit Vorsicht durch.
-* Halten Sie Ihre Kommunikationsmittel bereit.
+* Halten Sie Ihre Kommunikationsmittel einsatzbereit.
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin).
 * Folgen Sie unbedingt den Anweisungen lokaler Behörden und Sicherheitskräfte.
 * Meiden Sie v.a. das unmittelbare Grenzgebiet zu Kolumbien.
@@ -34,7 +37,7 @@ Die Kriminalitätsrate und Gewaltbereitschaft sind hoch. Gewalttätige Auseinand
 
 **Besondere Vorsicht ist in folgenden Gebieten geboten:** 
 
-(Bei der Beschreibung von Gefahrenzonen handelt es sich um ungefähre Angaben; Risiken lassen sich nicht auf exakt umrissene Gebiete einschränken)
+(Bei der Beschreibung von Gefahrenzonen handelt es sich um ungefähre Angaben; Risiken lassen sich nicht auf exakt umrissene Gebiete einschränken.)
 
 * Guayaquil, v.a. südlich der Avenida Portete de Tarquí sowie Durán,
 * Provinz El Oro, v.a. in den Städten Huaquillas und Arenillas,
@@ -55,8 +58,8 @@ Die Polizei ist in Notfällen auf Spanisch rund um die Uhr unter der Telefonnumm
 * Nutzen Sie bei Dunkelheit auch für kürzere Strecken ein registriertes Taxi von Tür zu Tür oder Uber.
 * Achten Sie stets auf Ihr Gepäck und tragen Sie Uhren, Kameras und Mobiltelefone nicht auffällig auf der Straße.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Seien Sie in größeren Menschenmengen wie an Flughäfen, an Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie Getränke nie unbeaufsichtigt und nehmen Sie keine von Unbekannten an.
 * Leisten Sie im Fall eines Überfalls keinesfalls Widerstand.
 * Achten Sie bei der Auswahl von örtlichen Reiseunternehmen auf geeignete Sicherheitsvorkehrungen und bei Wanderungen auf lokale Hinweise.
@@ -75,7 +78,7 @@ Nach Erdbeben entlang der pazifischen Küsten besteht insbesondere in Esmeraldas
 #### *Überschwemmungen*
 
 Es herrscht feuchtheißes Tropenklima im Küstengebiet und östlichen Tiefland, im Andenhochland gemäßigtes Klima mit starken Temperaturschwankungen.  
-In den Wintermonaten, insbesondere von Januar bis April kommt es aufgrund von Regenfällen häufig zu Überschwemmungen und Erdrutschen in der Küstenregion und im Hochgebirge. In der Folge kann es zu starken Beschädigungen der Verkehrswege kommen, die die Reisesicherheit beeinträchtigen.
+In den Wintermonaten, insbesondere von Januar bis April, kommt es aufgrund von Regenfällen häufig zu Überschwemmungen und Erdrutschen in der Küstenregion und im Hochgebirge. In der Folge kann es zu starken Beschädigungen der Verkehrswege kommen, die die Reisesicherheit beeinträchtigen.
 
 #### *Busch- und Waldbrände*
 
@@ -96,6 +99,8 @@ Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru ode
 * Sollte kein aktuelles polizeiliches Führungszeugnis vorliegen, kann seitens der ecuadorianischen Behörden direkt bei der Einreise Abfrage der ecuadorianischen Einreisedatenbank (SIMIEC) geprüft werden, ob Einreisehindernisse nach Ecuador bestehen. Es wird keine Gewähr übernommen, dass Abfragen jederzeit und an jedem Grenzübergang möglich sind.
 
 ### Infrastruktur/Verkehr
+
+Siehe *Aktuelles*
 
 Es gibt ein Inlandsflugnetz und zahlreiche Busverbindungen, von denen teurere Unternehmen zuverlässiger sind und höhere Sicherheitsstandards bieten. Busse sind sehr häufig in schwere Unfälle verwickelt.
 
@@ -166,7 +171,7 @@ Vom ersten Tag der ersten Einreise an wird das Jahr für den Aufenthaltszeitrau
 
 Anschließend kann ein spezielles Touristen-Visum mit einer Gültigkeit von bis zu einem Jahr beantragt werden (Art. 56 Ley de Movilidad Humana, keine Arbeitsaufnahme). Ein derartiges Visum kann nur alle fünf Jahre beantragt werden.
 
-Für die Erteilung eines längerfristigen Visums ist die Vorlage einer Reisekrankenversicherung mit Gültigkeit für Ecuador für die gesamte Verweildauer per Gesetz vorgeschrieben. Das Gleiche gilt für bereits ansässige Ausländer (also auch deutsche Residenten) bei Verlängerung von Visa und/oder Aufenthaltskarte, in diesem Fall ist ein Nachweis über gesetzliche oder private Krankenversicherung vorzulegen.
+Für die Erteilung eines längerfristigen Visums ist die Vorlage einer Reisekrankenversicherung mit Gültigkeit für Ecuador für die gesamte Verweildauer per Gesetz vorgeschrieben. Das Gleiche gilt für bereits ansässige Ausländer (also auch dort wohnhafte Deutsche) bei Verlängerung von Visa und/oder Aufenthaltskarte, in diesem Fall ist ein Nachweis über gesetzliche oder private Krankenversicherung vorzulegen.
 
 Informationen zu Visabestimmungen für längerfristige Aufenthalte in Ecuador sollten rechtzeitig vor Reisebeginn bei der zuständigen [ecuadorianischen Auslandsvertretung in Deutschland](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/vertretungenecuador/223224 "Vertretungen Ecuadors in Deutschland") eingeholt werden.
 
@@ -198,7 +203,7 @@ Die Ein- und Ausfuhr von Bargeld ist unbegrenzt möglich, ab einem Wert von 10.0
 
 ### Heimtiere
 
-Für die Einfuhr von Heimtieren ist mindestens eine gültige Tollwutimpfung und Titerbestimmung erforderlich. Da sich Vorschriften hierzu mehrfach geändert haben, sollten Sie mit der örtlich zuständigen [ecuadorianischen Auslandsvertretung in Deutschland](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/vertretungenecuador/223224 "Vertretungen Ecuadors in Deutschland") Kontakt aufnehmen.
+Für die Einfuhr von Heimtieren sind mindestens eine gültige Tollwutimpfung und Titerbestimmung erforderlich. Da sich Vorschriften hierzu mehrfach geändert haben, sollten Sie mit der örtlich zuständigen [ecuadorianischen Auslandsvertretung in Deutschland](https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/vertretungenecuador/223224 "Vertretungen Ecuadors in Deutschland") Kontakt aufnehmen.
 
 ## Gesundheit
 
