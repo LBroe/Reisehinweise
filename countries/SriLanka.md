@@ -2,11 +2,10 @@
 
 ## Aktuelles
 
-Es liegen Hinweise zu möglichen Anschlägen auf touristische Ziele in und um Arugam Bay vor. Die lokalen Sicherheitsbehörden führen als Vorsichtsmaßnahme vermehrte Sicherheitskontrollen durch, und zwar nicht nur in und um Arugam Bay, sondern auch in anderen Landesteilen (vor allem in touristischen Regionen). Dabei kann es teilweise auch zu Straßen- und Ausgangssperren kommen.
+Es gab im Oktober Hinweise zu möglichen Anschlägen auf touristische Ziele in und um Arugam Bay vor, die weiterhin sehr ernst zu nehmen sind. Die lokalen Sicherheitsbehörden führen seitdem als Vorsichtsmaßnahme vermehrte Sicherheitskontrollen, vor allem in touristischen Regionen, durch. Dabei kann es teilweise auch zu Straßen- und Ausgangssperren kommen.
 
-* Sehen Sie derzeit von Reisen nach Arugam Bay ab bzw. verlassen Sie das Gebiet so bald wie möglich.
 * Verhalten Sie sich grundsätzlich sicherheitsbewusst und vorsichtig.
-* Seien Sie insbesondere an belebten Orten und bei unvorhergesehenen Ereignissen sowie beim Besuch von Einrichtungen mit internationalem Publikumsverkehr und bekannten Treffpunkten von Ausländern besonders vorsichtig.
+* Seien Sie insbesondere an touristischen Zielen und belebten Orten, bei unvorhergesehenen Ereignissen sowie beim Besuch von Einrichtungen mit internationalem Publikumsverkehr oder religiöser Stätten und bekannten Treffpunkten von Ausländern besonders vorsichtig.
 * Leisten Sie den Anweisungen der Sicherheitskräfte Folge. Verfolgen Sie die lokalen und internationalen Medien.
 * Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
