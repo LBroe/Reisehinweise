@@ -10,7 +10,7 @@ Der Zugverkehr ist in den betroffenen Gebieten zum Teil ausgesetzt und manche St
 
 * Für die an die Provinz Valencia angrenzende Provinz Castellón wurde eine Hochwasserwarnung ausgesprochen. Stärkere Regenfälle sind auch in Teilen Extremaduras, Andalusiens und Kataloniens mit der Gegend um Tarragona zu erwarten. Auch auf den Balearen wurde die Bevölkerung zu größter Vorsicht aufgerufen. Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit** **von nicht notwendigen, touristischen Reisen in die Provinzen Valencia und Castellón ab**.
 * Falls Sie sich aktuell in den betroffenen Gebieten aufhalten, befolgen Sie bitte die Verhaltenshinweise der örtlichen Behörden.
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
+* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Sicherheit
 
