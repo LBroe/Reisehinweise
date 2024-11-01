@@ -19,7 +19,10 @@ Auf malischem Staatsgebiet besteht in den grenznahen Gebieten zu Senegal, insbes
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage ist derzeit stabil.
+Anlässlich der am 17. November 2024 anstehenden Parlamentswahlen kann es zu Menschenansammlungen und ggf. auch Einschränkungen der Bewegungsfreiheit/Straßensperren kommen.
+
+* Nutzen Sie alle verfügbaren Informationsquellen und meiden Sie größere Menschenansammlungen.
+* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
 
@@ -29,8 +32,8 @@ Es besteht neben Internetbetrügereien (Scams) eine erhöhte Gefahr von Entführ
 
 * Unternehmen Sie keine nächtlichen (Strand-)Spaziergänge.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Seien Sie in größeren Menschenmengen wie auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
+* Seien Sie in größeren Menschenmengen wie Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -47,11 +50,15 @@ Die Brücke über den Fluss Gambia bei Farafenni/Mansa Konko ist mautpflichtig; 
 
 Auch bei Reisen mit der Fähre von Dakar zur Insel Gorée erfolgen beim Betreten des Hafens in Dakar Kontrollen der Ausweispapiere durch die Sicherheitskräfte.
 
-* Der Zustand der Hauptstraßen ist meist recht gut, viele andere Straßen sind in schlechtem Zustand. Insbesondere in der Regenzeit von Juni bis September sind Straßen ohne Allradantrieb oft kaum passierbar. Überflutungen und Erdrutsche sind dann möglich. Überprüfen Sie daher die Wetterlage vor Antritt einer Reise.
+* Nehmen Sie bei Benutzung der Fähre von Dakar zur Insel Gorée und bei Benutzung der Brücke über den Fluss Gambia Ihren Reisepass mit.
+
+Der Zustand der Hauptstraßen ist meist recht gut, viele andere Straßen sind in schlechtem Zustand. Insbesondere in der Regenzeit von Juni bis September sind Straßen ohne Allradantrieb oft kaum passierbar. Überflutungen und Erdrutsche sind dann möglich. 
+
+* Überprüfen Sie die Wetterlage vor Antritt einer Reise.
 
 Zahlreiche Fahrzeuge des Stadt- und Überlandverkehrs sind nicht in verkehrssicherem Zustand.
 
-Das Fahrverhalten der Verkehrsteilnehmer unterscheiden sich teils deutlich von dem in Deutschland und ist schwer vorhersehbar. Es muss mit Fußgängern und Tieren auf Straßen und nicht immer verkehrstauglichen Fahrzeugen gerechnet werden, insbesondere in Dakar gibt es zudem ein hohes Verkehrsaufkommen. Verzichten Sie auf Überlandfahrten nach Einbruch der Dunkelheit.
+Das Fahrverhalten der Verkehrsteilnehmer unterscheidet sich teils deutlich von dem in Deutschland und ist schwer vorhersehbar. Es muss mit Fußgängern und Tieren auf Straßen und nicht immer verkehrstauglichen Fahrzeugen gerechnet werden, insbesondere in Dakar gibt es zudem ein hohes Verkehrsaufkommen. Verzichten Sie auf Überlandfahrten nach Einbruch der Dunkelheit.
 
 Die Entminung in den Wäldern im Grenzgebiet zu Gambia und Guinea-Bissau ist noch nicht abgeschlossen.
 
@@ -88,7 +95,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Senegals](http://www.sante.gouv.sn/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Senegals](http://www.sante.gouv.sn/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
 
 ### Reisedokumente
 
@@ -108,7 +115,7 @@ Reisedokumente müssen sechs Monate über die Reise hinaus gültig sein.
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt von bis zu drei Monaten kein Visum.  
 Ein Rückflugticket, sowie Nachweise zur Unterkunft sind bei der Einreise regelmäßig vorzulegen. Nähere Auskünfte erteilt die [senegalesische Botschaft in Berlin](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/senegal-node/vertretungensenegal/208180?openAccordionId=item-208202-0-panel).
 
-Für einen längerfristigen Aufenthalt ist eine Aufenthaltserlaubnis erforderlich, die auch vor Ort beantragt werden kann. Wer im Voraus einen längeren Aufenthalt plant, sollte für die Aufenthaltsgenehmigung ein Führungszeugnis und eine Geburtsurkunde mitbringen, die jeweils erst vor kurzem ausgestellt wurden.
+Für einen längerfristigen Aufenthalt ist eine Aufenthaltserlaubnis erforderlich, die auch vor Ort beantragt werden kann. Wer im Voraus einen längeren Aufenthalt plant, sollte für die Aufenthaltsgenehmigung ein Führungszeugnis und eine Geburtsurkunde mitbringen, die jeweils erst kurz zuvor ausgestellt wurden.
 
 ### Erfassung biometrischer Daten
 
