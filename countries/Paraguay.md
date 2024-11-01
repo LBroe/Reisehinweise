@@ -26,8 +26,8 @@ Es kann zudem vereinzelt zu Protesten und Demonstrationen kommen, die auch zu ge
 Die Kriminalitätsrate und Gewaltbereitschaft sind hoch. Auch in den bei Deutschen beliebten Siedlungsgebieten werden Überfälle verübt. Täter sind häufig bewaffnet und machen teilweise schon aus geringfügigem Anlass von der Waffe Gebrauch.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf und speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Verzichten Sie auf das Tragen auffälliger Kleidung und Schmuck sowie wertvoller Uhren.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Verzichten Sie auf das Tragen von Schmuck und auffälliger Kleidung sowie wertvoller Uhren.
 * Seien Sie in größeren Menschenmengen wie am Flughafen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Vermeiden Sie Spaziergänge ohne Begleitung nach Einbruch der Dunkelheit sowie nächtliche Überlandfahrten.
 * Achten Sie auf konsequente Umsetzung von Sicherungsmaßnahmen (Fenstergitter, feste Türen, Alarmanlagen etc.).
@@ -78,12 +78,13 @@ Die Durchsetzung von Rechtsansprüchen vor paraguayischen Gerichten ist häufig 
 * Kaufen Sie nichts, was Sie nicht zuvor besichtigt haben.
 * Prüfen Sie die Eigentumsverhältnisse vor dem Kauf ausreichend und lassen Sie sich den aktuellen Grundstückstitel vorlegen.
 * Schalten Sie in Grundstücksangelegenheiten einen Rechtsanwalt oder Notar ein.
+* Vertrauen Sie nicht ausschließlich auf Darstellungen in YouTube-Videos.
 
 ### Rechtliche Besonderheiten
 
 In den letzten Jahren wurde Paraguay verstärkt von Drogenkurieren als Transitland genutzt. Die paraguayische Anti-Drogenbehörde SENAD verzeichnet seit Längerem international anerkannte Fahndungserfolge; in den Gefängnissen von Asunción sitzen auch Europäer wegen Drogenschmuggels ein.
 
-Im Fall einer Festnahme sollte in jeden Fall um sofortige Unterrichtung der deutschen Botschaft in Asunción gebeten werden.
+Im Fall einer Festnahme sollte in jedem Fall um sofortige Unterrichtung der deutschen Botschaft in Asunción gebeten werden.
 
 Strafverfahren in Paraguay sind langwierig und entsprechen oft nicht deutschen Standards. Mit langer Untersuchungshaft und harten Haftbedingungen muss gerechnet werden. Im Falle einer Verurteilung ist die Haftstrafe grundsätzlich in Paraguay zu verbüßen.
 
@@ -138,7 +139,7 @@ Um Verzögerungen bei der Ausreise zu vermeiden, sollte die Strafe nicht erst am
 
 ### Einreise aus und Weiterreise nach Brasilien, Bolivien, Peru und Venezuela
 
-Für die Einreise aus Brasilien, Bolivien, Peru und Venezuela, auch für Reisende, die länger als 24 Stunden im Transit dort verbracht haben wie auch für die Ausreise dorthin, ist die Vorlage eines internationalen Gelbfieberausweises für alle Reisenden älter als ein Jahr bei der Passkontrolle erforderlich.
+Für die Einreise aus Brasilien, Bolivien, Peru und Venezuela, auch für Reisende, die länger als 24 Stunden im Transit dort verbracht haben, wie auch für die Ausreise dorthin ist die Vorlage eines internationalen Gelbfieberausweises für alle über ein Jahr alten Reisenden bei der Passkontrolle erforderlich.
 
 Die Gelbfieberimpfung und der internationale Gelbfieberausweis sind nach Auskunft des paraguayischen Gesundheitsministeriums u.a. bei den staatlichen Regionalkrankenhäusern und der „Décimo Octavo Región Sanitaria“ in Asunción (Avda. Brasil e/Manuel Domínguez y Fulgencio R. Moreno, Tel. 021-204 758) erhältlich.
 

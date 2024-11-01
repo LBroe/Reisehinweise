@@ -367,7 +367,7 @@ Besonderes Augenmerk sollte auf den Gültigkeitszeitraum der Zolleinfuhrbeschein
 
 Weitere Informationen zur Einreise bietet die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).
 
-* Beachten Sie bitte die geänderten und mit Wirkung vom 16. September 2024 geltenden Vorschriften zur (Wieder-)Einfuhr von Heimtieren in die [EU,](https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm) siehe auch [Zoll](https://www.zoll.de/DE/Privatpersonen/Reisen/Reisen-nach-Deutschland-aus-einem-nicht-eu-Staat/Einschraenkungen/Tiere-und-Pflanzen/Schutz-Tierseuchen/Regelungen-Heimtiere/regelungen-heimtiere.html) und [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/haus-und-zootiere_node.html)
+* Beachten Sie bitte die geänderten und seit dem 16. September 2024 geltenden Vorschriften zur (Wieder-)Einfuhr von Heimtieren in die [EU,](https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm) siehe auch [Zoll](https://www.zoll.de/DE/Privatpersonen/Reisen/Reisen-nach-Deutschland-aus-einem-nicht-eu-Staat/Einschraenkungen/Tiere-und-Pflanzen/Schutz-Tierseuchen/Regelungen-Heimtiere/regelungen-heimtiere.html) und [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/haus-und-zootiere_node.html)
 * Informieren Sie sich auch bei den [Deutschen Vertretungen in Russland.](https://germania.diplo.de/ru-de/service/11-InformationenfuerTouristen/haustiere/1281854)
 
 ## Gesundheit

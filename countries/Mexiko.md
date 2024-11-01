@@ -4,10 +4,10 @@
 
 **Von Reisen in folgende Regionen wird dringend abgeraten:**
 
-* **Bundesstaat Colima,** mit Ausnahme von Manzanillo, bei Anreise per Schiff oder Flugzeug
+* **Bundesstaat Colima,** mit Ausnahme von Manzanillo bei Anreise per Schiff oder Flugzeug
 * **Bundesstaat Guerrero,**  mit Ausnahme von Ixtapa-Zihuatanejo bei Anreise per Flugzeug und der Stadt Taxco, sofern An- und Abreise bei Tag erfolgt.
 * **im Bundesstaat Michoacán die Gebiete westlich der Landeshauptstadt Morelia**
-* **Bundesstaat** **Sinaloa,** mit Ausnahme von Mazatlán, dort Zona Dorada und historisches Zentrum, sowie Los Mochis/ Bahnstrecke des „El Chepe“, bei direkter An- und Abreise per Flugzeug
+* **Bundesstaat** **Sinaloa,** mit Ausnahme von Los Mochis/Bahnstrecke des „El Chepe“, bei direkter An- und Abreise per Flugzeug
 * **Bundesstaat Tamaulipas,**  nördlich von Ciudad Victoria
 * **Bundesstaat Zacatecas**
 * **Grenzregion zu den USA** für über das erforderliche Minimum für Ein- und Ausreise hinausgehende Aufenthalte.
@@ -22,7 +22,7 @@
 
 * bei Reisen im restlichen Gebiet des **Bundesstaats Jalisco,**
 * bei Reisen in den **Bundesstaat** **Veracruz**
-* bei Reisen in die östlichen Landesteile des **Bundesstaats Michoacán** sowie der Landeshauptstadt Morelia
+* bei Reisen in die östlichen Landesteile des **Bundesstaats Michoacán** sowie die Landeshauptstadt Morelia
 * bei Besuchen in nicht touristischen Bezirken von **Mexiko-Stadt**
 * bei Reisen in den **Bundesstaat Chiapas**. Dort kommt es – neben anderen Vorfällen –häufiger auch zu Straßenblockaden, von denen auch Hauptstrecken betroffen sein können. Bitte informieren Sie sich vor Antritt der Fahrt über die tagesaktuelle Situation auf der von Ihnen geplanten Route.
 
@@ -31,8 +31,6 @@
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
-
-Im Juni 2024 fanden in Mexiko Präsidentschafts- und Parlamentswahlen sowie weitere Wahlen in mehreren Bundesstaaten statt. Claudia Sheinbaum wurde mit großer Mehrheit zur Staatspräsidentin gewählt. Planmäßig werden das neue Parlament am 1. September 2024 und die neue Präsidentin am 1. Oktober 2024 ihre Arbeit aufnehmen. Demonstrationen können nicht ausgeschlossen werden.
 
 Die größte Gefahr für die innere Sicherheit des Landes geht vom organisierten Verbrechen aus.
 
@@ -72,7 +70,7 @@ Geldautomaten können manipuliert sein, um Daten zu kopieren, auch Kreditkartenm
 * Leisten Sie bei Überfällen und versuchtem Autoraub keinesfalls Gegenwehr, auch nicht verbal.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in der U-Bahn, im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Vermeiden Sie Aufenthalte in verlassenen Gegenden und Stadtvierteln, aber auch an einsamen Stränden.
 * Frauen sollten insbesondere nachts und in einsamen Gebieten nicht allein unterwegs sein. Melden Sie (auch versuchte) sexuelle Übergriffe umgehend bei der nächstgelegenen Dienststelle des „Ministerio Público“ (Staatsanwaltschaft).
 * Gelegentlich kommt es zum gezielten Einsatz von K.-o.-Tropfen und anderer Betäubungsmittel zur Vorbereitung einer Vergewaltigung oder eines Raubes. Nehmen Sie daher keine Getränke und Speisen von Unbekannten an. Lassen Sie Ihre Getränke und Speisen in Restaurants nicht unbeaufsichtigt.
@@ -81,7 +79,7 @@ Geldautomaten können manipuliert sein, um Daten zu kopieren, auch Kreditkartenm
 * Seien Sie an Geldautomaten vorsichtig, nutzen Sie Automaten vorzugsweise tagsüber und innerhalb gesicherter Gebäude (Malls) und achten Sie auf mögliche Manipulationen. Lassen Sie Ihre Kreditkarte beim Bezahlen nicht aus den Augen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Kontaktaufnahmen und Hilfsersuchen angeblicher Bekannter skeptisch, insbesondere bei angeblichen Entführungen von Angehörigen. Bewahren Sie Ruhe, teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei (sogenannte „virtuelle Entführung“).
 * Wenn Sie am Telefon bedroht werden, legen Sie sofort auf.
-* Seien Sie misstrauisch, wenn Ihnen vermeintlich verlockende Investitionsmöglichkeiten in Mexiko angetragen werden und halten Sie im Zweifelsfall Rücksprache mit einem [Anwalt](https://mexiko.diplo.de/mx-de/service/-/2651842) und mexikanischen Behörden, z.B. der [mexikanischen Verbraucherschutzbehörde](https://www.gob.mx/profeco) (Procuraduría Federal del Consumidor, „PROFECO“).
+* Seien Sie misstrauisch, wenn Ihnen vermeintlich verlockende Investitionsmöglichkeiten in Mexiko angetragen werden, und halten Sie im Zweifelsfall Rücksprache mit einem [Anwalt](https://mexiko.diplo.de/mx-de/service/-/2651842) und mexikanischen Behörden, z.B. der [mexikanischen Verbraucherschutzbehörde](https://www.gob.mx/profeco) (Procuraduría Federal del Consumidor, „PROFECO“).
 * Der Deutschen Botschaft Mexiko-Stadt liegen Berichte vor, wonach uniformierte Sicherheitskräfte, auch Polizisten, hohe Bußgelder verlangen oder mit Festnahme drohen. Bleiben Sie bei unklarer Rechtslage kritisch und nehmen Sie im Zweifel Kontakt zum mexikanischen Notruf 911 (auch Englisch) bzw. dem [Bereitschaftsdienst](https://mexiko.diplo.de/mx-de/service/-/1050806) der Botschaft auf. Leisten Sie keine Zahlungen, wenn Sie die vorgeworfene Tat nicht begangen haben, das geforderte Bußgeld unangemessen hoch erscheint oder wenn Ihnen keine Quittung/kein Protokoll ausgestellt werden kann. Notieren Sie sich die Personalien, Dienstnummern bzw. Kfz.-Kennzeichen der kontrollierenden Sicherheitskräfte.
 
 ## Natur und Klima
@@ -104,7 +102,7 @@ Starke Strömungen und hoher Wellengang können auch gute Schwimmer in Gefahr br
 
 * Rechnen Sie bei Naturereignissen kurzfristig mit Einschränkungen, auch im Flugverkehr.
 * Verfolgen Sie regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen des [National Hurricane Center](https://www.nhc.noaa.gov/).
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland").
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") im Fall einer Sturmwarnung.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen mexikanischer Behörden. Tagesaktuelle Verhaltenshinweise und Warnstufen für Vulkane bietet der [mexikanische Zivilschutz](https://www.gob.mx/cenapred).
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Tsunamis und Vulkanausbrüchen vertraut, siehe Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 * Beachten Sie die Badeverbote und erkundigen Sie sich nach örtlichen Gefahren.
@@ -224,7 +222,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen sich in gutem Zustand befinden und im Zeitpunkt der Einreise noch mindestens für sechs Monate gültig sein.  
+Reisedokumente müssen sich in gutem Zustand befinden und zum Zeitpunkt der Einreise noch mindestens für sechs Monate gültig sein.  
 Beschädigte Reisedokumente (z.B. ausgefranster Außeneinband, gelockerte Bindung der Seiten) können zur Einreiseverweigerung führen.
 
 Ein deutscher Reisepass, der bei einer Passbehörde gestohlen gemeldet, aber später wiedergefunden wurde, sollte nicht mehr benutzt werden, da die Ausschreibung in der internationalen Sachfahndung nicht rückgängig gemacht werden kann. Dies kann bei der Weiterreise zu Schwierigkeiten führen.
@@ -239,7 +237,7 @@ Nähere, detaillierte Auskünfte hierzu erteilen die [mexikanischen Auslandsvert
 
 Alle Reisenden, die auf dem Luftweg einreisen, benötigen keine Touristenkarte (Forma Migratoria Múltiple FMM) mehr.
 
-Deutsche, volljährige **Touristen** mit biometrischen Pässen, die noch mindestens sechs Monate gültig sind, können bei Einreise über die Flughäfen Cancún und Mexiko-Stadt die automatisierte Grenzkontrolle (E-Gates) nutzen. Sie erhalten automatisch ein Einreiseticket mit Einreisetag und der erlaubten Aufenthaltsdauer.
+Deutsche volljährige Touristen mit biometrischen Pässen, die noch mindestens sechs Monate gültig sind, können bei Einreise über die Flughäfen Cancún und Mexiko-Stadt die automatisierte Grenzkontrolle (E-Gates) nutzen. Sie erhalten automatisch ein Einreiseticket mit Einreisetag und der erlaubten Aufenthaltsdauer.
 
 Alle anderen Reisenden (Minderjährige, Personen ohne biometrischen Pass, andere Aufenthaltszwecke) müssen persönlich beim Grenzbeamten vorsprechen, der Einreisedatum und gewährte Aufenthaltsdauer in den Pass stempelt.
 
@@ -273,9 +271,9 @@ Bei Personenkontrollen wird nicht nur der Ausweis verlangt, sondern auch die mex
 
 ### Minderjährige
 
-Minderjährige, die allein oder nur in Begleitung eines Elternteils reisen, sollten eine Erlaubnis der nicht mitreisenden Elternteile, Passkopien der Eltern sowie die Geburtsurkunde des Minderjährigen mitführen.
+Minderjährige, die allein oder nur in Begleitung eines Elternteils reisen, sollten eine Erlaubnis der nicht mitreisenden Elternteile, Passkopien der Eltern sowie die eigene Geburtsurkunde mitsichführen.
 
-Allein reisende Minderjährige mit Wohnsitz in Mexiko und mexikanische Staatsangehörige (auch Doppelstaater), die nicht von einem Inhaber der elterlichen Sorge begleitet werden, benötigen für die Ausreise aus Mexiko eine notarielle Einverständniserklärung der Inhaber der elterlichen Sorge. Dies gilt nicht für Minderjährige, die sich mit Touristenstatus in Mexiko aufhalten.
+Alleinreisende Minderjährige mit Wohnsitz in Mexiko und mexikanische Staatsangehörige (auch Doppelstaater), die nicht von einem Inhaber der elterlichen Sorge begleitet werden, benötigen für die Ausreise aus Mexiko eine notarielle Einverständniserklärung der Inhaber der elterlichen Sorge. Dies gilt nicht für Minderjährige, die sich mit Touristenstatus in Mexiko aufhalten.
 
 * Nähere, detaillierte Auskünfte hierzu erteilen die mexikanischen Auslandsvertretungen und das [Instituto Nacional de Migración](https://www.gob.mx/inm).
 * Beachten Sie zudem die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige").
@@ -288,7 +286,7 @@ Die Import- und Exportvorschriften für Waren nach/aus Mexiko sind streng. Reise
 
 Bei der Einreise mitgeführte Beträge über 10.000 USD müssen deklariert werden. Die Ausfuhr der Landeswährung ist bis zu einem Wert von 10.000 USD, die von Fremdwährung auf den bei Einreise deklarierten Betrag erlaubt.
 
-Verboten ist die Ausfuhr von Gold (außer Goldschmuck), Antiquitäten, Archäologischen Fundstücken, Kakteen, Korallen und anderen geschützten Tieren.
+Verboten ist die Ausfuhr von Gold (außer Goldschmuck), Antiquitäten, archäologischen Fundstücken, Kakteen, Korallen und anderen geschützten Tieren.
 
 Bei der Ausreise finden Kontrollen im Rahmen der Bekämpfung des Drogenhandels statt.
 

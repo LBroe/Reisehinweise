@@ -56,7 +56,7 @@ Fahranfänger dürfen in Litauen auf Schnellstraßen oder Autobahnen nicht schne
 
 Für die Nutzung des litauischen Fernstraßennetzes müssen kommerzielle Fahrzeuge eine Vignette erwerben, siehe [Litauische Straßenverwaltung](http://www.keliumokestis.lt/web/guest) (KNMM). Für alle Fahrzeugtypen (auch Pkw) wird bei Einfahrt in den Nationalpark Kurische Nehrung eine Maut als Umweltschutzabgabe erhoben. Informationen zur Höhe der zu entrichtenden Gebühr bietet [Visit Neringa](http://visitneringa.com/en).
 
-Viele Grenzübergänge sind für die Einreise von Privatpersonen aus Belarus und Russland geschlossen, z.B. auf der kurischen Nehrung. Die Ausreise (mit dem Kfz) nach Belarus ist ab dem 1. März 2024 nur noch über die Grenzübergänge Medininkai–Kamenny Log und Šalčininkai–Benekainys möglich. Die übrigen Grenzübergänge - Raigardas–Privalka, Lavoriškės–Kotlovka, Šumskas-Losha, Tverečius-Vidzy - sind geschlossen. Für den gewerblichen Gütertransport gelten gesonderte Regelungen.
+Viele Grenzübergänge sind für die Einreise von Privatpersonen aus Belarus und Russland geschlossen, z.B. auf der kurischen Nehrung. Die Ausreise (mit dem Kfz) nach Belarus ist seit März 2024 nur noch über die Grenzübergänge Medininkai–Kamenny Log und Šalčininkai–Benekainys möglich. Die übrigen Grenzübergänge - Raigardas–Privalka, Lavoriškės–Kotlovka, Šumskas-Losha, Tverečius-Vidzy - sind geschlossen. Für den gewerblichen Gütertransport gelten gesonderte Regelungen.
 
 Der einheitliche europäische Unfallbericht kann als Vordruck im Schadenfall hilfreich sein.
 
@@ -72,7 +72,7 @@ Bei der litauisch-belarussischen Grenze handelt es sich um eine Schengen-Außeng
 
 ### LGBTIQ
 
-In Litauen besteht kein strafrechtliches Verbot für einvernehmliche homosexuelle Handlungen zwischen erwachsenen Personen. Es bestehen für alle Menschen unabhängig von ihrem Geschlecht und ihrer sexuellen Orientierung die gleichen Freiheitsrechte. Allerdings gibt es ein Gesetz über den Schutz von Minderjährigen vor schädlichen Auswirkungen öffentlicher Informationen. Danach gelten solche öffentlichen Informationen als schädlich, die ein anderes Konzept der Eheschließung und der Familiengründung als der Ehe zwischen Mann und Frau aufzeigen.
+Homosexuelle Handlungen stellen in Litauen keinen Straftatbestand dar. Allerdings gibt es ein Gesetz über den Schutz von Minderjährigen vor schädlichen Auswirkungen öffentlicher Informationen. Danach gelten solche öffentlichen Informationen als schädlich, die ein anderes Konzept der Eheschließung und der Familiengründung als der Ehe zwischen Mann und Frau aufzeigen.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
 
@@ -80,7 +80,7 @@ In Litauen besteht kein strafrechtliches Verbot für einvernehmliche homosexuell
 
 Handel, Besitz und Konsum von Drogen werden in Litauen strafrechtlich mit vergleichsweise hohen Strafen geahndet.
 
-Die Ausübung, Inanspruchnahme und Förderung von Prostitution ist in Litauen unter Strafe gestellt. Sollten Minderjährige an diesen Straftaten beteiligt sein, wirkt sich dies erheblich auf das Strafmaß aus. Mit polizeilichen Aktionen und Kontrollen in einschlägigen Regionen und Bewirtungsbetrieben muss jederzeit gerechnet werden.
+Die Ausübung, Inanspruchnahme und Förderung von Prostitution sind in Litauen unter Strafe gestellt. Sollten Minderjährige an diesen Straftaten beteiligt sein, wirkt sich dies erheblich auf das Strafmaß aus. Mit polizeilichen Aktionen und Kontrollen in einschlägigen Regionen und Bewirtungsbetrieben muss jederzeit gerechnet werden.
 
 Sexuelle Nötigung ist ebenfalls strafbar.
 
@@ -98,7 +98,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen, wie der [litauischen Regierung](https://koronastop.lrv.lt/en/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen, wie der [litauischen Regierung](https://koronastop.lrv.lt/en/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -142,6 +142,10 @@ Es wird darauf hingewiesen, dass gemäß Art. 1za der EU-Verordnung 765/2006 di
 
 Für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) in Ländern der Europäischen Union mit Ausnahme von Irland, Malta und Finnland, wo abweichende Bestimmungen gelten, ist ein EU-Heimtierausweis erforderlich. Er dient u. a. als Nachweis, dass das Tier gegen Tollwut geimpft ist.  
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
+
+Bei Einreise aus Belarus und der Russischen Föderation sind besondere Erfordernisse zu beachten, z.B. hinsichtlich eines Titertests (zur Titrierung von Tollwutantikörpern).
+
+* Bitte informieren Sie sich dazu in den [Reise- und Sicherheitshinweisen Russische Föderation.](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit/201536#content_4)
 
 ## Gesundheit
 
