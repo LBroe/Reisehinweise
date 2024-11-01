@@ -4,35 +4,29 @@ Einschließlich **Französische Überseegebiete**
 
 ## Aktuelles
 
+**Von nicht unbedingt notwendigen Reisen nach Martinique und Neukaledonien wird derzeit abgeraten.**  
+
 ### *Martinique*
 
 **Von nicht unbedingt notwendigen Reisen nach Martinique wird derzeit abgeraten.**
 
 Im französischen Überseegebiet Martinique ist die Lage vor dem Hintergrund von Demonstrationen wegen hoher Lebenshaltungskosten weiterhin angespannt.
 
-Der Flugbetrieb auf dem internationalen Flughafen in Fort-de-France war zwischenzeitlich eingestellt, wurde nun jedoch wieder aufgenommen.
-
-Es bestehen weiterhin eine Ausgangssperre und ein Versammlungsverbot.
+Es besteht weiterhin eine nächtliche Ausgangssperre für die Gemeinden Fort-de-France, Case-Pilote, Lamentin, Saint-Joseph und Schoelcher.
 
 * Bitte informieren Sie sich bei der [Präfektur von Martinique](https://www.martinique.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
 * Befolgen Sie Anweisungen der lokalen Sicherheitskräfte.
 
-### *Grenzkontrollen*
+### *Guadeloupe*
 
-Im Nachgang der Olympischen und Paralympischen Spiele führt Frankreich noch bis Ende Oktober 2024 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig. 
+Im französischen Überseegebiet Guadeloupe ist die Lage vor dem Hintergrund sozialer Spannungen ausgelöst durch Streiks in der Energiebranche, die zu Stromausfällen auf der gesamten Insel führten, angespannt.
 
-Am 16. September 2024 hat Deutschland bis einschließlich 15. März 2025 Binnengrenzkontrollen an den Grenzen zu Frankreich, Luxemburg, Belgien, den Niederlanden und Dänemark eingeführt.
+* Bitte informieren Sie sich bei der [Präfektur von Guadeloupe](https://www.guadeloupe.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
+* Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
+* Befolgen Sie Anweisungen der lokalen Sicherheitskräfte.
 
-Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
-
-Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
-
-* Führen Sie stets ein gültiges Reisedokument mit.
-* Überzeugen Sie sich als Fahrer eines Kraftfahrzeugs stets davon, dass Ihre Mitfahrer gültige Grenzübertrittspapiere mit sich führen.
-* Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf den Webseiten [Bison Futé](http://www.bison-fute.gouv.fr) und der französischen Bahngesellschaft [SNCF.](https://www.sncf-connect.com/app/de-de/trafficInfo)
-
-### *Auseinandersetzungen in Neukaledonien*
+### *Neukaledonien*
 
 **Von nicht unbedingt notwendigen Reisen nach Neukaledonien wird derzeit abgeraten.**
 
@@ -52,11 +46,23 @@ Im Überseedépartement Mayotte kann es weiterhin aufgrund innenpolitischer Span
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
 * Befolgen Sie Anweisungen der lokalen Sicherheits- und Ordnungskräfte.
 
+### *Grenzkontrollen*
+
+Frankreich führt bis 30. April 2025 an seinen Landesgrenzen zu Deutschland, Belgien, Luxemburg, der Schweiz, Italien und Spanien sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden durch. Diese erfolgen stichprobenartig.
+
+Am 16. September 2024 hat Deutschland bis einschließlich 15. März 2025 Binnengrenzkontrollen an den Grenzen zu Frankreich, Luxemburg, Belgien, den Niederlanden und Dänemark eingeführt.
+
+Die grenzpolizeilichen Maßnahmen werden situationsabhängig räumlich und zeitlich flexibel vorgenommen.
+
+Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
+
+* Führen Sie stets ein gültiges Reisedokument mit.
+* Überzeugen Sie sich als Fahrer eines Kraftfahrzeugs stets davon, dass Ihre Mitfahrer gültige Grenzübertrittspapiere mit sich führen.
+* Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf den Webseiten [Bison Futé](http://www.bison-fute.gouv.fr) und der französischen Bahngesellschaft [SNCF.](https://www.sncf-connect.com/app/de-de/trafficInfo)
+
 ## Sicherheit
 
-**Von nicht unbedingt notwendigen Reisen nach Martinique wird derzeit abgeraten.**
-
-**Von nicht unbedingt notwendigen Reisen nach Neukaledonien wird derzeit abgeraten.**
+**Von nicht unbedingt notwendigen Reisen nach Martinique und Neukaledonien wird derzeit abgeraten.**
 
 ### Terrorismus
 
@@ -69,7 +75,7 @@ Die Bevölkerung ist aufgerufen, an öffentlichen Orten insbesondere bei Sportv
 Jüdische Einrichtungen werden verstärkt gesichert und überwacht. Militär patrouilliert auf öffentlichen Plätzen. Auf Bahnhöfen, Flughäfen, in Zügen und U-Bahnen gibt es auch sonst verstärkte Gepäck- und Personenkontrollen. Auch an Eingängen zu Museen oder Einkaufszentren kann es zu Handtaschenkontrollen kommen. In vielen Bahnhöfen gibt es keine Möglichkeit der Gepäckaufbewahrung mehr.
 
 * Seien Sie insbesondere an belebten Orten und ungewöhnlichen Ereignissen aufmerksam.
-* Informieren Sie sich über Medienangebote, insbesondere Social-Media-Accounts (Facebook & X (ex-Twitter) der französischen Regierungs- und Sicherheitsstellen.
+* Informieren Sie sich über Medienangebote, insbesondere Social-Media-Accounts (Facebook & X) der französischen Regierungs- und Sicherheitsstellen.
 * Kennzeichnen Sie Ihr Reisegepäck auch bei Bahnreisen mit Namen und Anschrift.
 * Beachten Sie auch den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
@@ -130,7 +136,7 @@ Neukaledonien, Wallis-et-Futuna, La Réunion und Mayotte sowie die karibischen �
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 * Informieren Sie sich fortlaufend über die Witterungslage. Aktuelle Hinweise erhalten Sie über die Medien, z.B. auf [Météo France,](http://www.meteofrance.com/previsions-meteo-montagne/bulletin-avalanches) und über Bekanntmachungen der Präfekturen und Gemeinden, in denen Sie sich aufhalten. Aktuelle Wetterwarnungen bietet [MeteoAlarm.](https://www.meteoalarm.org/en/live/region/FR)
-* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. Sie können dann sofort geortet werden, sodass entsprechende Rettungsmaßnahmen eingeleitet werden können.​​​​​​​
+* Wählen Sie die europäische Notfallnummer 112, wenn Sie sich in einer Notlage befinden. Sie können dann sofort geortet werden, sodass entsprechende Rettungsmaßnahmen eingeleitet werden können.
 * Beachten Sie Anzeigen auf den Autobahnen, Absperrungen und Warnhinweise. Informationen zum Verkehr finden Sie auch auf der Website [Bison Futé.](http://www.bison-fute.gouv.fr)
 * Im Fall einer Sturmwarnung beachten Sie insbesondere die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 * Machen Sie sich bei Reisen in die Überseegebiete mit Verhaltenshinweisen bei Erdbeben, Vulkanen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
@@ -160,7 +166,7 @@ Siehe *Aktuelles*
 
 Seit Februar 2024 gelten bei den Zugverbindungen des TGV INOUI der französischen Bahngesellschaft SNCF [Gepäckbeschränkungen hinsichtlich Größe und Umfang.](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/tgv-inoui/vos-bagages-et-consignes/) Weitere Informationen bietet die Bahngesellschaft [SNCF.](https://www.sncf-connect.com/de-ch/hilfe/transport-gepack)
 
-Nach Ablauf der Übergangsfrist am 15. September 2024 sind bei Verstößen gegen die Gepäckvorschriften Bußgelder zu zahlen.
+Seit dem 15. September 2024 sind bei Verstößen gegen die Gepäckvorschriften Bußgelder zu zahlen.
 
 Neben einem Inlandsflugnetz gibt es ein gut ausgebautes Eisenbahnnetz mit Hochgeschwindigkeitszügen und Busverbindungen sowie gut funktionierenden öffentlichen Nahverkehr in den Städten. Mit Behinderungen im öffentlichen Nah- und Fernverkehr (auf dem Luft- und Landweg) muss im Falle von Streiks gerechnet werden. Aktuelle Informationen bietet [RATP.](https://www.ratp.fr/en)  
 Fast alle Autobahnen in Frankreich sind mautpflichtig.  
@@ -184,7 +190,7 @@ Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
-Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
+Es gibt keine Hinweise auf besondere Schwierigkeiten; die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
 
@@ -208,7 +214,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich beim französischen [Außenministerium](https://www.diplomatie.gouv.fr/de/neuigkeiten/coronavirus-covid-19-informationen-empfehlungen-gesundheitsmassnahmen) sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/vertretungenfrankreich/209532) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich beim französischen [Außenministerium](https://www.diplomatie.gouv.fr/de/neuigkeiten/coronavirus-covid-19-informationen-empfehlungen-gesundheitsmassnahmen) sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/vertretungenfrankreich/209532) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
