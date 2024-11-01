@@ -4,7 +4,7 @@
 
 ### *Marburg-Virus-Ausbruch*
 
-Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über einen Marburg-Virus-Ausbruch, der sich insbesondere auf die Hauptstadt Kigali konzentriert. Dabei ist v.a. medizinisches Personal betroffen. Durch umfassende Maßnahmen durch die zuständigen Behörden konnte der Ausbruch eingedämmt werden; aktuell wird nicht mehr über das Auftreten neuer Fälle berichtet. 
+Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über einen Marburg-Virus-Ausbruch, der sich insbesondere auf die Hauptstadt Kigali konzentriert. Dabei ist v.a. medizinisches Personal betroffen. Durch umfassende Maßnahmen durch die zuständigen Behörden konnte der Ausbruch weitgehend eingedämmt werden. 
 
 Das Marburg-Virus kann durch Flughunde und Fledermäuse (beides Reservoirs) und andere infizierte Wildtiere, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen. Weitere Informationen zum [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") und zum Vorgehen bei Verdacht auf eine Infektion oder bei Kontakt zu einer am [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") erkrankten Personen auf den [Seiten des RKI,](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Marburgvirus.html) ebenso weitere [Empfehlungen des RKI](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Poster-Reisende.pdf?__blob=publicationFile) für aus den Risikogebieten nach Deutschland Einreisende.
 
