@@ -4,7 +4,7 @@
 
 ### Terrorismus
 
-Katar war bislang nicht Ziel terroristischer Anschläge, dennoch kann die Möglichkeit eines Anschlags nicht ausgeschlossen werden.
+Katar war bislang nicht Ziel terroristischer Anschläge; dennoch kann die Möglichkeit eines Anschlags nicht ausgeschlossen werden.
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen besonders aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
@@ -22,7 +22,7 @@ Die innenpolitische Lage ist stabil. Im Konflikt zwischen Katar und den umliegen
 
 Die Kriminalitätsrate ist niedrig. Dennoch sind vereinzelt Taschendiebstähle, z.B. in großen Einkaufszentren oder bei Großveranstaltungen, nicht auszuschließen. Insbesondere Frauen sollten in Taxis den örtlichen Gepflogenheiten entsprechend die hinteren Sitze benutzen.
 
-* Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf.
+* Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in der U-Bahn und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -59,7 +59,7 @@ Telefonieren während der Fahrt, Alkohol am Steuer und auch beleidigende Gesten 
 
 ### Führerschein
 
-Bei Einreise mit einem Besuchs- oder Touristenvisum darf mit einem gültigen deutschen Führerschein für eine Dauer von bis zu sieben Tagen ab Einreise gefahren werden.
+Bei Einreise mit einem Besuchs- oder Touristenvisum darf mit einem gültigen deutschen Führerschein bis zu sieben Tage ab Einreise gefahren werden.
 
 Bei längeren Zeiträumen muss eine katarische für drei Monate gültige, vorläufige Fahrerlaubnis beantragt werden. Diese vorläufige Fahrerlaubnis kann verlängert werden.
 
@@ -103,11 +103,11 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Katars sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Katars sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
 
 ### *Obligatorische Krankenversicherung*
 
-Seit Februar 2023 ist bei der Einreise nach Katar für Aufenthalte von mehr als 30 Tagen der Abschluss einer vom [katarischen Gesundheitsministerium](https://www.moph.gov.qa/english/derpartments/policyaffairs/hfid/Pages/Health-Insurance-Scheme.aspx) akkreditierten Krankenversicherung obligatorisch. Unter bestimmten Voraussetzungen werden auch andere internationale Reisekrankenversicherungen akzeptiert. Informationen bietet [**Visit Qatar.**](https://visitqatar.com/intl-en/practical-info/health-insurance)
+Seit Februar 2023 ist bei der Einreise nach Katar für Aufenthalte von mehr als 30 Tagen der Abschluss einer vom [katarischen Gesundheitsministerium](https://www.moph.gov.qa/english/derpartments/policyaffairs/hfid/Pages/Health-Insurance-Scheme.aspx) akkreditierten Krankenversicherung obligatorisch. Unter bestimmten Voraussetzungen werden auch andere internationale Reisekrankenversicherungen akzeptiert. Weitere Informationen bietet [Visit Qatar.](https://visitqatar.com/intl-en/practical-info/health-insurance)
 
 ### Reisedokumente
 
