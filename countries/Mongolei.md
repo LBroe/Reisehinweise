@@ -8,7 +8,7 @@
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage ist trotz häufiger Regierungswechsel stabil. Vereinzelte Demonstrationen, können nicht ausgeschlossen werden.
+Die innenpolitische Lage ist stabil. Vereinzelte Demonstrationen, können nicht ausgeschlossen werden.
 
 * Meiden Sie Demonstrationen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -19,11 +19,13 @@ Kleinkriminalität wie Taschendiebstahl und Handtaschenraub kommen in der Haupts
 
 Auch außerhalb der Städte gibt es vereinzelt Gewalt-, Raub- und Diebstahlsdelikte gegenüber Touristen. In einigen Fällen haben zugestiegene Komplizen bei Taxifahrten gemeinsam mit dem Fahrer Fahrgäste beraubt.
 
+Sowohl in der Hauptstadt als auch auf dem Land kommt es vereinzelt zu Sexualdelikten, wovon auch ausländische Staatsangehörige betroffen sein können.
+
 * Seien Sie insbesondere bei Dunkelheit in der Stadt besonders vorsichtig.
 * Meiden Sie ärmere Stadtviertel (Ger-Viertel).
 * Nehmen Sie bei Taxifahrten stets auf der Rückbank Platz und lassen Sie das Zusteigen weiterer Fahrgäste nicht zu.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, an Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie Getränke nie unbeaufsichtigt und prüfen Sie Preise vor Bestellungen, sofern eindeutige Preisangaben fehlen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
@@ -43,19 +45,19 @@ Es kommt zu extremer Kälte im Winter und extremer Hitze im Sommer. Wetterbeding
 ### Infrastruktur/Verkehr
 
 Bei Inlandsflügen werden internationale Sicherheitsstandards nicht immer eingehalten.  
-Die transmongolische Eisenbahn verbindet Ulan Bator mit Russland und China, jedoch besteht die Verbindung nur noch bis zu den Landesgrenzen. Ab den Landesgrenzen gibt es zahlreiche Busverbindungen.
+Die transmongolische Eisenbahn verbindet Ulan Bator mit Russland und China, jedoch besteht die Verbindung nur bis zu den Landesgrenzen. Ab den Landesgrenzen gibt es zahlreiche Busverbindungen.
 
 Angesichts der nicht überall ausreichenden Straßeninfrastruktur und der allgemein wenig defensiven Fahrweise besteht bei Überlandtouren erhöhte Unfallgefahr, insbesondere abseits befestigter Straßen.
 
-Die Promillegrenze beträgt 0,0. Kontrollen sind häufig und Zuwiderhandlungen werden streng bestraft.
+Die Promillegrenze beträgt 0,0. Kontrollen erfolgen häufig; Zuwiderhandlungen werden streng bestraft.
 
-Bei Überlandfahrten kann es gelegentlich zu Versorgungsschwierigkeiten mit Treibstoff, v. a. Diesel, kommen. Dies sollte bei der Reiseplanung berücksichtigt werden (Mitführen von Ersatzkanistern). Euro-Diesel ist für Kfz mit Euro-5-Norm nur ausnahmsweise erhältlich.
+Bei Überlandfahrten kann es gelegentlich zu Versorgungsschwierigkeiten mit Treibstoff, v. a. Diesel, kommen. Dies sollte bei der Reiseplanung berücksichtigt werden (Mitführen von Ersatzkanistern)..
 
 Das Netz der medizinischen Notfallversorgung ist auf dem Land besonders dünn, weshalb auch leichtere Verletzungen infolge eines Unfalls zu großen Komplikationen führen können.
 
 Bei der Benutzung von Privattaxis werden häufig stark überhöhte Fahrpreise berechnet; bei Nichtzahlung kann es zu äußerst unangenehmen Situationen mit dem Fahrer kommen. Das Angebot regulärer Taxiunternehmen, die z. T. auch in englischer Sprache kontaktiert werden können, nimmt zu.
 
-Bei Reitausflügen ist die Verletzungsgefahr besonders groß, wenn kein Helm getragen wird und Sattelzeug nicht mit Sicherheitssteigbügeln verwendet wird. Kanu- und Kajakfahrten auf mongolischen Flüssen bergen ohne Begleitung von Ortskundigen erhebliche Gefahren.
+Bei Reitausflügen ist die Verletzungsgefahr besonders groß, wenn kein Helm getragen wird und Sattelzeug ohne Sicherheitssteigbügel verwendet wird. Kanu- und Kajakfahrten auf mongolischen Flüssen bergen ohne Begleitung von Ortskundigen erhebliche Gefahren.
 
 Aufgrund von Seuchenausbrüchen (z. B. Maul- und Klauenseuche) können einzelne Gebiete der Mongolei zeitweise für Touristen gesperrt sein.
 
@@ -67,13 +69,13 @@ Aufgrund von Seuchenausbrüchen (z. B. Maul- und Klauenseuche) können einzelne 
 
 ### Führerschein
 
-Ein deutscher Führerschein wird mit einer Übersetzung für Aufenthalte bis zu einem Jahr anerkannt. Die Übersetzung kann entweder der internationale Führerschein oder eine von einem amtlichen Übersetzer angefertigte Übersetzung sein.
+Ein deutscher Führerschein wird mit einer Übersetzung ins Mongolische (angefertigt durch einen amtlichen Übersetzer) anerkannt. Die Mongolei ist Vertragsstaat des Übereinkommens vom 8.November 1968 über den Straßenverkehr; somit ist das Führen eines Fahrzeugs auch mit einem internationalen Führerschein in Verbindung mit dem nationalen Führerschein möglich.
 
 ### LGBTIQ
 
-Die Mongolei ist eines der wenigen asiatischen Länder, in denen die Diskriminierung von LGBTIQ-Menschen verboten ist. Homosexualität sowie jede andere Ausprägung sexueller Identität sind in der Mongolei legal. Besonderen Verfassungsschutz genießen LGTBIQ-Menschen in der Mongolei über die Grundrechte hinaus nicht, werden durch die geltenden Gesetze - mit Ausnahme des Familienrechts - jedoch auch nicht diskriminiert.
+Die Mongolei ist eines der wenigen asiatischen Länder, in denen die Diskriminierung von LGBTIQ verboten ist. Homosexuelle Handlungen sowie jede andere Ausprägung sexueller Identität sind in der Mongolei legal. Besonderen Verfassungsschutz genießen LGTBIQ-Menschen in der Mongolei über die Grundrechte hinaus nicht, werden durch die geltenden Gesetze - mit Ausnahme des Familienrechts - jedoch auch nicht diskriminiert.
 
-Eine offene gesellschaftliche Ausgrenzung ist nicht erkennbar. Gewaltsame Übergriffe auf LGBTIQ-Menschen seitens der Bevölkerung existieren, jedoch werden staatliche Akteure sowie die Öffentlichkeit nach und nach für die Situation der LGBTIQ-Personen sensibilisiert.  Auf diese Weise wird - vorwiegend in Ulan Bator - ein Umfeld geschaffen, in dem LGBTIQ-Personen nicht in steter Angst vor Entdeckung oder Diffamierung ihrer sexuellen Identität und Lebensweise leben müssen. Eine entsprechende Szene existiert unter den Einheimischen, hält sich in der Öffentlichkeit aber eher bedeckt und vor allem in ländlichen Gebieten ist der Fortschritt, was die Situation der LGBTIQ-Menschen betrifft, deutlich langsamer.
+Eine offene gesellschaftliche Ausgrenzung ist nicht erkennbar. Gewaltsame Übergriffe auf LGBTIQ seitens der Bevölkerung existieren, jedoch werden staatliche Akteure sowie die Öffentlichkeit nach und nach für die Situation der LGBTIQ sensibilisiert. Auf diese Weise wird - vorwiegend in Ulan Bator - ein Umfeld geschaffen, in dem LGBTIQ nicht in steter Angst vor Entdeckung oder Diffamierung ihrer sexuellen Identität und Lebensweise leben müssen. Eine entsprechende Szene existiert unter den Einheimischen, hält sich in der Öffentlichkeit aber eher bedeckt und vor allem in ländlichen Gebieten ist der Fortschritt, was die Situation der LGBTIQ betrifft, deutlich langsamer.
 
 In der mongolischen Gesellschaft sind die klassischen Rollenbilder der femininen Frau und des maskulinen Mannes stark verankert. Eine Ehe wird nach dem mongolischen Familiengesetz ausschließlich als die Verbindung von Mann und Frau definiert. Damit einhergehend ist die fehlende Anerkennung im Ausland geschlossener gleichgeschlechtlicher Ehen oder anderer rechtlich bindender Zusammenschlüsse.
 
@@ -86,9 +88,9 @@ Fotografierverbot besteht in der Nähe militärischer und Sicherheitseinrichtung
 ### Geld/Kreditkarten
 
 Landeswährung ist der Tugrik (MNT). USD oder EUR können in allen Banken und Wechselstuben getauscht werden. 500- und 200-EUR-Scheine können wegen sich häufender Betrugsfälle abgelehnt werden. Bei beschädigten Scheinen ist unter Umständen der Wechselkurs schlechter.  
-Laut Gesetz müssen alle Zahlungen in mongolischen Tugrik erfolgen. Auf dem Land kann Geld nur in den Aimag-Zentren getauscht werden, vor längeren Reisen sollte daher ausreichend einheimische Währung in Ulan Bator eingetauscht werden.
+Laut Gesetz müssen alle Zahlungen in mongolischen MNT erfolgen. Auf dem Land kann Geld nur in den Aimag-Zentren getauscht werden, vor längeren Reisen sollte daher ausreichend einheimische Währung in Ulan Bator eingetauscht werden.
 
-In Ulan Bator findet man mehr und mehr Geldautomaten, an denen mit Kredit- oder Bankkarten (Plus-System) Bargeld abgehoben werden kann. Ebenso kann in größeren Banken mit Kreditkarten Geld abgehoben werden. An einigen Banken ist die Abhebung mit einer Debitkarte möglich (z.B. Khaan Bank). Auf dem Land ist eine derartige Geldversorgung nur selten möglich.
+In Ulan Bator gibt es mehr und mehr Geldautomaten, an denen mit Kredit- oder Bankkarten (Plus-System) Bargeld abgehoben werden kann. Ebenso kann in größeren Banken mit Kreditkarten Geld abgehoben werden. An einigen Banken ist die Abhebung mit einer Debitkarte möglich (z.B. Khaan-Bank). Auf dem Land ist eine derartige Geldversorgung nur selten möglich.
 
 Alle großen Hotels, Restaurants und Geschäfte, in denen Ausländer häufig verkehren, akzeptieren gängige Kreditkarten.
 
@@ -139,27 +141,36 @@ Die genannten Grenzübergänge sind nicht rund um die Uhr geöffnet. Es können 
 
 Bei der Benutzung anderer als der oben genannten Grenzübergänge kann es zu Einreiseverweigerungen oder verlängerten Wartezeiten kommen, weil Grenzbeamte mit der Abfertigung internationaler Dokumente nicht vertraut sind.
 
+* Bitte beachten Sie die [Reise- und Sicherheitshinweise](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit/201536#content_0) zur Russischen Föderation und die **Teilreisewarnung.**
+
 ### Registrierung
 
-Bei einem Aufenthalt von mehr als 30 Tagen müssen Besucher sich in den ersten sieben Tagen bei der Ausländerbehörde (Immigration) anmelden und sich vor der Ausreise wieder abmelden, um ein Ausreisevisum zu erhalten.
+Bei einem Aufenthalt von mehr als 30 Tagen müssen Reisende sich in den ersten sieben Tagen bei der Ausländerbehörde (Immigration) anmelden und sich vor Ausreise wieder abmelden, um ein Ausreisevisum zu erhalten.
 
 ### Minderjährige
 
-Es sind keine besonderen Bestimmungen für die Einreise von Minderjährigen bekannt.
+Personen unter 16 Jahren kann an der Grenze die Einreise verweigert werden, wenn sie nicht in Begleitung einer sorgeberechtigten Person sind. Wenn Minderjährige ohne Begleitung ihrer Sorgeberechtigten reisen, sollte im Vorhinein eine entsprechende notariell beglaubigte Vollmacht an die begleitende Person (im Original und in mongolischer Sprache mitzuführen) erteilt werden.
 
-* Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige").
+#### *Minderjährige Doppelstaater*
 
-### Aus- und Weiterreise in die VR China
+Die Ausreise Minderjähriger (insbesondere mit deutsch-mongolischer Staatsangehörigkeit) sollte von beiden Elternteilen schriftlich mittels einer notariell beglaubigten Vollmacht (im Original und in mongolischer Sprache mitzuführen) erlaubt worden sein. Die Ausreise minderjähriger Doppelstaater kann verweigert werden, wenn eine entsprechende Vollmacht fehlt, Zweifel am Reiseziel oder der Verdacht auf Kindesentführung (in Begleitung nur eines Erziehungsberechtigten) bestehen.
 
-Für die Aus- und Weiterreise in die Volksrepublik China ist ein Visum erforderlich, das zwingend vor der Reise bei der zuständigen chinesischen Auslandsvertretung eingeholt werden muss.
+* Bitte beachten Sie, dass auch bei gemeinsamem Sorgerecht ein Elternteil eine Ausreisesperre für die gemeinsamen Kinder vor Gericht erwirken kann (travel ban).
+* Bitte beachten Sie in diesem Zusammenhang auch die Hinweise der Deutschen Botschaft Ulan Bator zum Thema „[Grenzüberschreitende Kindesentziehung](https://ulan-bator.diplo.de/mn-de/service/-/2242358)“.
+
+### Aus- und Weiterreise in die Volksrepublik China
+
+Für die Aus- und Weiterreise in die Volksrepublik China kann ein Visum erforderlich sein, das zwingend vor der Reise bei der zuständigen chinesischen Auslandsvertretung eingeholt werden muss (Ausnahmen gelten nur für Aufenthalte bis zu 15 Tagen für geschäftliche und touristische Besuchsreisen und zum Transit). Weitere Fragen (z.B. zur Einreise per Kfz) , beantwortet die zuständige [chinesische Auslandsvertretung](https://www.auswaertiges-amt.de/de/service/laender/china-node/vertretungenchina/200474) (Botschaft/Generalkonsulat).
 
 Hierbei ist zu beachten, dass nach geltendem chinesischen Einreiserecht der Visumsantrag im Land der Staatsangehörigkeit oder des gewöhnlichen Aufenthalts (der im Visumsverfahren nachgewiesen werden muss) eingereicht werden muss. Dies bedeutet, dass Reisende in der Mongolei durch die chinesische Botschaft in Ulan Bator kein Visum für China erhalten können.
 
-Zu weiteren Ausnahmen (visumsfreie Einreise nach China für die Dauer von 15 Tagen) erkundigen Sie sich bitte bei der zuständigen chinesischen Auslandsvertretung (Botschaft/Generalkonsulat).
+### Aus- und Weiterreise in die Russische Föderation
+
+* Bitte beachten Sie die [Reise- und Sicherheitshinweise](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit/201536#content_0) zur Russischen Föderation und die **Teilreisewarnung.**
 
 ### Einfuhrbestimmungen
 
-Fremdwährungen dürfen unbegrenzt eingeführt, müssen aber deklariert werden. Die Ausfuhr ist bis zum Betrag des deklarierten Betrags möglich.
+Fremdwährungen dürfen unbegrenzt eingeführt, müssen aber deklariert werden. Die Ausfuhr ist bis zur Höhe des deklarierten Betrags möglich.
 
 Die Ein- und Ausfuhr der Landeswährung MNT ist verboten.
 
@@ -167,7 +178,7 @@ Bei der Ausreise wird das Gepäck durch den mongolischen Zoll sehr häufig und s
 
 #### *Einreise mit dem Kfz*
 
-Eine Einreise mit dem eigenen Kfz ist möglich. Das Fahrzeug wird bei Einreise in den Pass eingetragen. Sollte die Wiederausreise ohne das Kfz geplant sein, das Fahrzeug also im Land verbleiben oder per Container ausgeführt werden, empfiehlt es sich, das erforderliche Verfahren vorab mit dem mongolischen Hauptzollamt abzuklären. Siehe auch *Reiseinfos – Infrastruktur/Verkehr und Führerschein.*
+Eine Einreise mit dem eigenen Kfz ist möglich. Das Fahrzeug wird bei Einreise in den Pass eingetragen. Sollte die Wiederausreise ohne das Kfz geplant sein, das Fahrzeug also im Land verbleiben oder per Container ausgeführt werden, empfiehlt es sich, das erforderliche Verfahren vorab mit dem mongolischen Hauptzollamt abzuklären, siehe auch *Reiseinfos – Infrastruktur/Verkehr und Führerschein.*
 
 ### Heimtiere
 

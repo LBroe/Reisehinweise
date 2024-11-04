@@ -4,19 +4,17 @@
 
 **Vor Reisen nach Somalia sowie in die Gewässer vor Somalia wird gewarnt.**
 
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")  
+[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
 
 ### Terrorismus
 
-In Somalia werden immer wieder zahlreiche schwere Anschläge mit vielen Toten und Verletzten verübt. Ziel dieser Angriffe sind Sicherheitskräfte, Regierungseinrichtungen und deren unmittelbare Umgebung. Auch, der abgesicherte Flughafenbereich, in dem sich u.a. verschiedene Botschaften und VN-Einrichtungen befinden war in der Vergangenheit betroffen. Er wird regelmäßig mit Mörsern beschossen.
+In Somalia werden regelmäßig schwere Anschläge mit vielen Toten und Verletzten verübt. Ziel dieser Angriffe sind Sicherheitskräfte, Regierungseinrichtungen und deren unmittelbare Umgebung. Auch der abgesicherte Flughafenbereich des Flughafens Mogadischu, die sog. Green Zone, in dem sich u.a. verschiedene Botschaften und VN-Einrichtungen befinden, war hiervon in der Vergangenheit betroffen. Er wird wiederkehrend mit Mörsern beschossen.
 
-Zuletzt kam es zu einem Angriff auf das SYL-Hotel in Mogadischu (unmittelbare Nähe zum Regierungssitz „Villa Somalia“) am 14. März 2024 mit acht Todesopfern und mindestens 27 Verletzten.
+Zudem gibt es bewaffnete Auseinandersetzungen zwischen somalischen Sicherheitskräften/Milizen, unterstützt durch Truppen der Afrikanischen Union, und al-Shabaab-Kämpfern. Mit weiteren tödlichen Anschlägen, auch als Reaktion auf das militärische Vorgehen der Regierung gegen al-Shabaab, muss jederzeit gerechnet werden.
 
-Zudem gibt es bewaffnete Auseinandersetzungen zwischen somalischen Sicherheitskräften/Milizen unterstützt durch Truppen der Afrikanischen Union mit mutmaßlichen al-Shabaab-Kämpfern. Mit weiteren tödlichen Anschlägen auch als Reaktion auf das militärische Vorgehen der Regierung gegen al-Shabaab muss gerechnet werden.
+Die Gefahr, Opfer von Attentaten, Überfällen, Entführungen und anderen terroristisch motivierten Gewaltverbrechen zu werden, ist allgegenwärtig. Terroristisch motivierte Entführungen, auch in den Gewässern vor Somalia, kommen immer wieder vor. Milizen und andere Sicherheitskräfte, die nicht der somalischen Bundesregierung unterstehen, folgen oft nicht vorhersehbaren Loyalitäten und können für ausländische Reisende in der Regel keine Sicherheit garantieren.
 
-Terroristisch motivierte Entführungen, auch in den Gewässern vor Somalia, kommen immer wieder vor, insbesondere ausländische Fachkräfte und Reisende laufen Gefahr, Opfer von Attentaten, Überfällen, Entführungen und anderen terroristisch motivierten Gewaltverbrechen zu werden. Milizen und andere Sicherheitskräfte, die nicht der somalischen Bundesregierung unterstehen, folgen oft nicht vorhersehbaren Loyalitäten und können für ausländische Reisende in der Regel keine Sicherheit garantieren.
-
-Illegale Checkpoints werden durch Militär, Milizen und Terroristen an allen Überlandstraßen immer wieder errichtet.
+Illegale Checkpoints werden durch Militär, Milizen und Terroristen häufig an Überlandstraßen errichtet.
 
 * Wenn Sie trotz Reisewarnung für beruflich unvermeidbare Aufenthalte nach Somalia reisen müssen, seien Sie sich der erheblichen Gefährdung bewusst und vergewissern Sie sich eines sorgfältig und professionell ausgearbeiteten Sicherheitskonzepts.
 * Treffen Sie mit Ihren Angehörigen umfassende Vorkehrungen für den Fall, dass Sie z.B. wegen eines Anschlags, einer Entführung oder eines Unfalls nicht wie geplant aus Somalia zurückkehren können. Sie sollten beispielsweise Vollmachten für private und berufliche Erledigungen hinterlassen, ein Testament verfassen und Sorgerechtsfragen klären, falls Sie Kinder haben.
@@ -61,7 +59,7 @@ Die Sicherheitskräfte in „Somaliland“ können außerhalb der Region Sool un
 
 Es besteht landesweit ein erhebliches Risiko von Entführungen, in geringem Maße auch in „Somaliland“. Mehrere westliche Ausländer wurden in der Vergangenheit entführt.
 
-Gewaltakte durch bewaffnete Gruppen und Banden und Armutskriminalität sind im gesamten Land weit verbreitet. Bewaffnete Überfälle, Autodiebstahl („Carjacking“), sexueller Missbrauch und auch Morde kommen häufig vor.
+Gewaltakte durch bewaffnete Gruppen und Banden sowie Armutskriminalität sind im gesamten Land weit verbreitet. Bewaffnete Überfälle, Autodiebstahl („Carjacking“), sexueller Missbrauch und auch Morde kommen häufig vor.
 
 * Wenn Sie trotz Reisewarnung nach Somalia für beruflich unvermeidbare Aufenthalte reisen müssen, seien Sie sich der erheblichen Gefährdung bewusst und vergewissern Sie sich eines sorgfältig und professionell ausgearbeiteten Sicherheitskonzepts.
 
@@ -74,7 +72,8 @@ Die von der *Europäischen Union* durchgeführte Marineoperation ATALANTA ist in
 Auch die Registrierung beim [Maritime Security Centre](https://www.mschoa.org/) und die Anwesenheit von Kriegsschiffen bietet keine Garantie dafür, dass Schiffe nicht von Piraten angegriffen, beschossen oder gekapert werden.
 
 * Sollte Ihre Reise trotz Reisewarnung unbedingt erforderlich sein, informieren Sie sich zur aktuellen Piraterielage beim [IMB Piracy Reporting Centre](http://www.icc-ccs.org/).
-* Seien Sie als Schiffsführer in den gefährdeten Gewässern besonders vorsichtig nehmen Sie unbedingt eine Registrierung beim [Maritime Security Centre](https://www.mschoa.org/) vor.
+* Seien Sie als Schiffsführer in den gefährdeten Gewässern besonders vorsichtig.  
+Nehmen Sie unbedingt eine Registrierung beim [Maritime Security Centre](https://www.mschoa.org/) vor.
 
 ## Natur und Klima
 
@@ -130,7 +129,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei offiziellen Stellen Somalias sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei offiziellen Stellen Somalias sowie der für Deutschland [zuständigen Vertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -145,7 +144,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente sollten zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
-Bei Verlust des deutschen Reisepasses ist die Deutsche Botschaft Nairobi zuständig. Aufgrund der Distanz kann kein Dokument kurzfristig ausgestellt werden.
+Bei Verlust des deutschen Reisepasses ist die Deutsche Botschaft Nairobi zuständig. Aufgrund der Distanz kann kein Dokument kurzfristig ausgestellt werden. Der Ersatzpass muss persönlich in Nairobi beantragt werden.
 
 ### Visum
 
@@ -244,9 +243,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
