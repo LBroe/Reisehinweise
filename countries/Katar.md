@@ -136,12 +136,7 @@ Deutsche Staatsangehörige mit regulärem Reisepass können entweder ein „Visu
 
 Mit einem regulären Reisepass kann ein Visum-Waiver mit einer Gültigkeit von 180 Tagen bei Einreise beantragt werden. Dieses berechtigt zur mehrfachen Einreise und einen Aufenthalt von maximal 90 Tagen im Gültigkeitszeitraum.  
 Der Visum-Waiver wird bei Vorlage geeigneter Nachweise für den Grund der Reise, die Unterkunft sowie den geplanten Rück- oder Weiterflug gebührenfrei erteilt.  
-Diese Regelung gilt für touristische und Besuchsreisen sowie für Geschäftsreisen und für alle Grenzstellen und den Flughafen Doha, aber nicht für Inhaber vorläufiger Reisepässe (siehe unten).
-
-#### *Visum bei Einreise („on arrival“) für Katar und Oman*
-
-Deutsche Staatsangehörige können mit einem regulären Reisepass gegen eine Gebühr von 100 QAR bei Einreise am Flughafen Doha auch ein gemeinsames Visum – bezeichnet als „Tourist Joint Visa for Qatar and Oman“ – für touristische Reisen in Katar und Oman beantragen.  
-Das Visum berechtigt zu mehrfacher Ein- und Ausreise und zu je 30 Tagen Aufenthalt in Katar und Oman.
+Diese Regelung gilt für touristische und Besuchsreisen sowie für Geschäftsreisen und für alle Grenzstellen und den Flughafen Doha, aber nicht für Inhaber vorläufiger Reisepässe (siehe unten).  
 
 #### *Visum vor Einreise*
 

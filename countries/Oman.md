@@ -168,11 +168,7 @@ Weitere Informationen erteilt die [Botschaft des Oman in Berlin](https://www.aus
 #### *Transit*
 
 Für den Transit am internationalen Flughafen Maskat ist kein Visum erforderlich, wenn ein durchgebuchtes Ticket für den Weiterflug vorliegt und der internationale Transitbereich nicht verlassen wird.  
-Transit-Flugreisende, die den internationalen Flughafen Maskat verlassen möchten, benötigen ein Visum zur einmaligen Einreise.
-
-### Einreise aus und Weiterreise nach Katar
-
-Zwischen Oman und Katar besteht eine Regierungsvereinbarung über die Erteilung gemeinsamer Visa. Deutsche Flugreisende, die auf direktem Weg von Doha/Katar nach Maskat reisen, benötigen für Oman kein Visum, sofern sie in Besitz eines in Katar erteilten gebührenpflichtigen Sondervisums sind, das eine Besuchserlaubnis für Oman beinhaltet und mindestens einen Monat gültig ist.
+Transit-Flugreisende, die den internationalen Flughafen Maskat verlassen möchten, benötigen ein Visum zur einmaligen Einreise.  
 
 ### Einreise aus den und Weiterreise in die Vereinigten Arabischen Emirate
 
