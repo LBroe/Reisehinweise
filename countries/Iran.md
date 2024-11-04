@@ -20,13 +20,13 @@ Seit dem 14. Oktober 2024 sind EU-Sanktionen gegen die iranischen Fluglinien Ira
 
 Ergänzender Hinweis: Personen und Entitäten, die durch die EU sanktionsgelistet sind, dürfen von Staatsangehörigen eines EU-Mitgliedstaates weder unmittelbar noch mittelbar Gelder, z. B. im Rahmen der Zahlung eines Flugtickets, oder wirtschaftliche Ressourcen zur Verfügung gestellt werden oder zugutekommen. Verstöße gegen das Bereitstellungsverbot sind in Deutschland gemäß § 18 AWG strafbar.
 
-* Bitte halten Sie sich über die aktuellen Nachrichtenlage in den internationalen und lokalen Medien informiert.
+* Bitte halten Sie sich über die aktuelle Nachrichtenlage in den internationalen und lokalen Medien informiert.
 
-Nach einem israelischen Luftangriff im Südlibanon wurde am 28. September 2024 der Tod des Hisbollah-Führers Hassan Nasrallah bestätigt.
+Nach einem israelischen Luftangriff im Südlibanon wurde am 28. September 2024 der Tod des mit Iran verbündeten Hisbollah-Führers Hassan Nasrallah bestätigt.
 
 Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentrums Hamburg e.V. sowie dessen bundesweiter Teilorganisationen bekannt gegeben. Eine Verschärfung der Sicherheitslage für deutsche Staatsangehörige und Doppelstaater ist in der Folge insbesondere hinsichtlich willkürlicher Festnahmen nicht ausgeschlossen.
 
-* **Beachten Sie die geltende Reisewarnung und Ausreiseaufforderung: Reisen Sie nicht nach Iran, sondern reisen Sie, wenn möglich, mit kommerziellen Fluglinien oder auf dem Landweg aus.**
+* **Beachten Sie die geltende Reisewarnung und Ausreiseaufforderung: Reisen Sie nicht nach Iran, sondern, wenn möglich, mit kommerziellen Fluglinien oder auf dem Landweg aus.**
 * Erkundigen Sie sich bei Ihrer Fluglinie, ob Ihr gebuchter Flug wie geplant stattfindet.
 * Erkundigen Sie sich vor einer Ausreise auf dem Landweg, ob die jeweiligen Grenzübergangsstellen geöffnet sind.
 * Falls Sie auf dem Landweg ausreisen möchten, beachten Sie bitte unsere ausführlichen Informationen unter „Sicherheit – Terrorismus“ und wägen Sie Ihr individuelles Risiko sehr genau ab.
@@ -36,7 +36,11 @@ Am 24. Juli 2024 hat das Bundesinnenministerium das Verbot des Islamischen Zentr
 
 ### *Willkürliche Festnahmen und Strafverfolgung*
 
-**Für deutsche Staatsangehörige besteht die konkrete Gefahr, willkürlich festgenommen, verhört und zu langen Haftstrafen verurteilt zu werden. Vor allem Doppelstaater, die neben der deutschen auch die iranische Staatsangehörigkeit besitzen, sind gefährdet. In jüngster Vergangenheit kam es zu einer Vielzahl willkürlicher Verhaftungen ausländischer Staatsangehöriger. Vor Reisen nach Iran wird daher gewarnt.**
+**Für deutsche Staatsangehörige besteht die konkrete Gefahr, willkürlich festgenommen, verhört und zu langen Haftstrafen verurteilt zu werden. Vor allem Doppelstaater, die neben der deutschen auch die iranische Staatsangehörigkeit besitzen, sind gefährdet. In jüngster Vergangenheit kam es zu einer Vielzahl willkürlicher Verhaftungen ausländischer Staatsangehöriger.**
+
+**Am 28. Oktober 2024 ordnete die Bundesregierung nach der Hinrichtung des deutsch-iranischen Staatsangehörigen Jamshid Sharmahd in Iran die Schließung der drei iranischen Generalkonsulate in Hamburg, München und Frankfurt an.**
+
+**Vor Reisen nach Iran wird daher gewarnt.**
 
 Verhaftungen und Verurteilungen können jederzeit aufgrund konstruierter Vorwände wie beispielsweise Spionagevorwürfen erfolgen. Sie können als politisches Druckmittel dienen und setzen so unschuldige Betroffene einer langen Haft unter harten Bedingungen aus. Irankritische Äußerungen, auch vor der Reise und beispielsweise in sozialen Medien, können von iranischer Seite überwacht werden und ein Grund für Strafverfolgung sein. Individualreisende können Spionagevorwürfen ausgesetzt sein, beispielsweise wegen Fotografie. Iranische Behörden verweigern deutsch-iranischen Doppelstaatern ihr Recht auf konsularische Betreuung und machen eine solche Betreuung durch die Deutsche Botschaft Teheran unmöglich. Die Haftbedingungen sind sehr hart; die Versorgung mit medizinisch notwendigen Medikamenten oder medizinisch notwendiger ärztlicher Behandlung ist nicht immer gegeben.
 
@@ -50,8 +54,8 @@ So können mit hohen Haftstrafen oder sogar der Todesstrafe geahndete Vergehen w
 * **Für Iran besteht eine Reisewarnung, unterlassen Sie Reisen nach Iran.**
 * **Unterlassen Sie insbesondere „Abenteuertourismus“ mit Fahrrad, Motorrad, Reisemobil/Camper, da hier eine besonders hohe Gefahr einer willkürlichen Verhaftung besteht.**
 * **Reisen Sie insbesondere nicht nach Iran, wenn Sie sich in der Vergangenheit kritisch gegenüber dem Land und dem politischen System geäußert haben.**  
-Seien Sie sich bewusst, dass nicht nur in Iran, sondern auch in Deutschland getätigte Meinungsäußerungen und Handlungen in Iran als kritisch wahrgenommen werden könnten und dort deshalb zu strafrechtlichen Konsequenzen führen können. Dies umfasst bereits die Teilnahme an regimekritischen Demonstrationen in Deutschland, das bloße Teilen oder Liken eines fremden, regierungskritischen Beitrags oder der Besitz regierungskritischer Videos oder Fotos auf dem Handy.
-* Löschen Sie Fotos und Dokumente mit politischem Bezug vor Ihrer Einreise.
+Seien Sie sich bewusst, dass nicht nur in Iran, sondern auch in Deutschland getätigte Meinungsäußerungen und Handlungen in Iran als kritisch wahrgenommen werden können und dort deshalb zu strafrechtlichen Konsequenzen führen können. Dies umfasst bereits die Teilnahme an regimekritischen Demonstrationen in Deutschland, das bloße Teilen oder Liken eines fremden, regierungskritischen Beitrags oder der Besitz regierungskritischer Videos oder Fotos auf dem Handy.
+* Löschen Sie Fotos und Dokumente mit politischem Bezug vor Ihrer Einreise. Beachten Sie, dass Telefongespräche von und zu iranischen Telefonnummern abgehört werden können.
 * Führen Sie für den Fall einer Verhaftung unbedingt benötigte Medikamente in für mehrere Tage ausreichender Menge am Körper mit.
 * Treffen Sie für den Fall einer längerdauernden Verhaftung Vorkehrungen zu familienrechtlichen Angelegenheiten (z. B. zum Sorgerecht für Ihre Kinder oder zur Betreuung von Angehörigen mit Pflegebedarf) und erteilen Sie ggf. Vollmachten zur stellvertretenden Erledigung Ihrer privaten und beruflichen Verpflichtungen.
 * Beachten Sie die Hinweise unter *Sicherheit -* *Innenpolitische Lage* und *Rechtliche Besonderheiten*.
@@ -59,7 +63,7 @@ Seien Sie sich bewusst, dass nicht nur in Iran, sondern auch in Deutschland get�
 
 ### *Doppelstaater*
 
-**Das Auswärtige Amt weist nachdrücklich auf die besonderen Risiken eines Iranaufenthalts für Doppelstaater hin:**
+**Das Auswärtige Amt weist nachdrücklich auf die besonderen Risiken eines Iranaufenthalts für Doppelstaater hin.**
 
 Ausländische Staatsangehörige, die aus Sicht der iranischen Behörden auch die iranische Staatsangehörigkeit besitzen, können nur mit ihrem iranischen Reisepass nach Iran einreisen. Iranische Behörden werten die Beantragung eines iranischen Reisepasses und die Einreise als Bekenntnis zur iranischen Staatsangehörigkeit und **nutzen sie als Vorwand, Deutschen ihr Recht auf konsularische Betreuung durch die deutsche Botschaft zu verweigern.** Siehe auch *Sicherheit – Innenpolitische Lage* und *Einreise und Zoll - Deutsch-iranische Doppelstaater*.
 
@@ -76,11 +80,11 @@ Doppelstaater mit auch iranischer Staatsangehörigkeit sind in besonderem Maße 
 
 ### Regionale Spannungen
 
-Die Sicherheitslage in der gesamten Region ist insbesondere seit dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 volatil und bleibt angespannt. Am 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Eine Israel zugeschriebene Reaktion nahe Isfahan fand am 19. April 2024 statt. Eine weitere Verschärfung der Sicherheitslage in der gesamten Region ist nicht ausgeschlossen.
+Die Sicherheitslage in der gesamten Region ist insbesondere seit dem Angriff der Terrororganisation Hamas auf Israel am 7. Oktober 2023 volatil und bleibt angespannt. Am 14. April 2024 haben iranische Luftangriffe auf Israel stattgefunden. Eine Israel zugeschriebene Reaktion nahe Isfahan fand am 19. April 2024 statt. Eine weitere Verschärfung der Sicherheitslage in der gesamten Region ist seither eingetreten.
 
 ### Terrorismus
 
-In Iran kommt es, vor allem in Grenzregionen, unregelmäßig zu Zwischenfällen mit terroristischem Hintergrund. Besonders betroffen sind die Provinzen Kurdistan und Sistan-Belutschistan, der Osten der Provinz Kerman sowie die Grenzgebiete zu Irak, Pakistan und Afghanistan.
+In Iran kommt es vor allem in Grenzregionen unregelmäßig zu Zwischenfällen mit terroristischem Hintergrund. Besonders betroffen sind die Provinzen Kurdistan und Sistan-Belutschistan, der Osten der Provinz Kerman sowie die Grenzgebiete zu Irak, Pakistan und Afghanistan.
 
 Der Anschlag auf eine Trauerfeier am Grabmal von General Kassem Soleimani in der Stadt Kerman (Südost-Iran) am 3. Januar 2024 forderte viele Todesopfer und mehrere hundert (Schwer-)Verletzte. Weitere Anschläge in anderen Provinzen oder in der Hauptstadt Teheran können derzeit nicht ausgeschlossen werden.
 
@@ -141,7 +145,7 @@ Juli                              Ashoora Trauerper
 
 Die Lage an der iranisch-afghanischen Grenze ist unübersichtlich. Insbesondere bei Personen, die die afghanische Staatsangehörigkeit oder sonstige Wurzeln in der Region haben, sind Festnahmen, Inhaftierungen und Abschiebungen nach Afghanistan möglich.
 
-Bereits vor den Protesten aufgrund des Todes von Mahsa Amini war die Sicherheitslage in der Grenzregion zu Pakistan, insbesondere in der Provinz Sistan-Belutschistan, äußerst angespannt. Gleiches gilt für die Sicherheitslage in den Grenzgebieten Irans zu Pakistan.
+Bereits vor den Protesten aufgrund des Todes von Mahsa Amini war die Sicherheitslage in der Grenzregion zu Pakistan, insbesondere in der Provinz Sistan-Belutschistan, äußerst angespannt. Gleiches gilt für die Sicherheitslage in den Grenzgebieten Irans zu Afghanistan.
 
 * Beachten Sie die Hinweise unter *Sicherheit* sowie die geltende [**Reisewarnung**](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/afghanistansicherheit/204692) für Afghanistan.
 * Beachten Sie die Hinweise unter *Sicherheit, Einreise und Zoll* sowie die [Teilreisewarnung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/pakistansicherheit/204974) für Pakistan.
@@ -176,7 +180,7 @@ In den Gebieten an der iranisch-irakischen Grenze (besonders in den westiranisch
 
 Die Kriminalitätsrate ist im internationalen Vergleich insgesamt niedrig, jedoch kommt es immer wieder zu Taschendiebstählen und Handtaschenraub, besonders durch vorbeifahrende Motorradfahrer. Auch Mobiltelefone werden im Vorbeifahren sowohl auf der Straße als auch aus Fahrzeugfenstern heraus entrissen.
 
-Es besteht aber für deutsche Staatsangehörige die konkrete Gefahr willkürlicher Festnahmen, Verhöre oder Verurteilungen zu langen Haftstrafen. Dies erstreckt sich auch auf Doppelstaater, die neben der deutschen auch die iranische Staatsangehörigkeit besitzen. **Vor Reisen nach Iran wird daher gewarnt.**
+Für deutsche Staatsangehörige besteht die konkrete Gefahr willkürlicher Festnahme, Verhöre oder Verurteilungen zu langen Haftstrafen. Dies erstreckt sich auch auf Doppelstaater, die neben der deutschen die iranische Staatsangehörigkeit besitzen. **Vor Reisen nach Iran wird daher gewarnt.**
 
 Es gibt Fälle, in denen angebliches Sicherheitspersonal Personenkontrollen durchführt. Wertsachen werden bei einer solchen „Kontrolle“ einbehalten und auf diese Weise entwendet.
 
@@ -206,6 +210,8 @@ Iran liegt in einer seismisch sehr aktiven Zone. Mit Erdbeben unterschiedlichen 
 
 ### Infrastruktur/Verkehr
 
+Siehe *Aktuelles*
+
 Internationale Flüge ab Teheran werden über den außerhalb der Stadt gelegenen Imam Khomeini Airport (IKA) abgewickelt. Der zentral gelegene Flughafen Mehrabad (THR) wird nur für nationale Flüge genutzt. Mehrere iranische Fluglinien wurden auf [die EU-Luftsicherheitsliste](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en) gesetzt, da sie internationalen Sicherheitsstandards nicht genügen.
 
 Die Zahl der Verkehrstoten, insbesondere bei Motorradfahrern (und ihren Mitfahrenden), ist in Iran seit Jahren gleichbleibend hoch. Das Verhalten vieler Verkehrsteilnehmer ist unberechenbar.
@@ -217,7 +223,7 @@ An iranischen Tankstellen ist meist nur Benzin und Super in minderer Qualität u
 * Beachten Sie bei Reisen auf dem Luftweg nach Iran bzw. innerhalb Irans die [EU-Luftsicherheitsliste.](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en)
 * Seien Sie im Straßenverkehr vorsichtig, insbesondere als Fußgänger.
 * Nutzen Sie keine Zweiräder, auch nicht als Mitfahrende.
-* Achten Sie beim Fahren auf Straßenerhebungen zur Verringerung der Geschwindigkeit („speed bumps“).
+* Achten Sie beim Fahren auf Straßenerhebungen zur Verringerung der Geschwindigkeit (Temposchwellen bzw. „speed bumps“).
 * Fahren Sie nicht mit Militärfahrzeugen (auch nicht mit ehemaligen, zu Wohnmobilen umgebauten Militär-Lkw oder ähnlichem) nach Iran.
 * Beachten Sie unbedingt Hinweisschilder zu militärischen Sperrgebieten, auch wenn bestimmte Straßen auf Karten unter Umständen als befahrbar ausgewiesen sind.
 * Verzichten Sie auf Wüstentouren.
@@ -320,7 +326,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Irans sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Irans sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -339,7 +345,7 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate g
 
 Deutsche Staatsangehörige benötigen für die Einreise ein Visum.
 
-Informationen zum Visum erteilen die iranischen Auslandsvertretungen in Deutschland wie die [iranische Botschaft in Berlin.](https://germany.mfa.gov.ir/de)
+Informationen zum Visum erteilt die [iranische Botschaft in Berlin.](https://germany.mfa.gov.ir/de)
 
 Das Visum wird nicht in den Pass geklebt, sondern als elektronisches Visum ausgestellt, das in Form eines Ausdrucks mitgeführt wird. Dadurch entfällt auch die Anbringung eines Einreisestempels im Reisepass.
 
@@ -367,13 +373,13 @@ Für die Dauer des Aufenthaltes in Iran ist eine iranische oder deutsche Unfall-
 
 Oftmals wird ein Krankenversicherungsnachweis gefordert, der eine COVID-19-Erkrankung einschließt.
 
-* Bitte informieren Sie sich bei den iranischen Auslandsvertretungen in Deutschland über die genauen Anforderungen an Ihre Auslandskrankenversicherung.
+* Bitte informieren Sie sich bei der iranischen Botschaft in Deutschland über die genauen Anforderungen an Ihre Auslandskrankenversicherung.
 
 #### *Grenzübergänge für die Ein- und Ausreise*
 
 Ausländische Staatsangehörige können generell über die internationalen Flughäfen des Landes gemäß den geltenden Voraussetzungen einreisen.
 
-Die Grenzübergänge nach Pakistan befinden sich in der Provinz Sistan-Beluschistan, wo Zusammenstöße zwischen Demonstranten und Sicherheitskräften sowie Bandenkriminalität (v.a. Drogenschmuggel), einhergehend mit Überfällen, Schusswaffengebrauch verzeichnet werden. Von einer Überfahrt per Schiff von iranischen Häfen am Persischen Golf in die VAE wird dringend abgeraten, da es sich um illegale Fähr- und Frachtverbindungen handeln kann.
+Die Grenzübergänge nach Pakistan befinden sich in der Provinz Sistan-Beluschistan, wo Zusammenstöße zwischen Demonstranten und Sicherheitskräften sowie Bandenkriminalität (v.a. Drogenschmuggel) einhergehend mit Überfällen und Schusswaffengebrauch verzeichnet werden. Von einer Überfahrt per Schiff von iranischen Häfen am Persischen Golf in die Vereinigten Arabischen Emirate wird dringend abgeraten, da es sich um illegale Fähr- und Frachtverbindungen handeln kann.
 
 Alle Einreise-, Zoll- und Devisenformulare sollten sorgfältig und genau ausgefüllt werden. Auf dem Landweg mit dem eigenen Kfz Einreisende benötigen für ihr Fahrzeug eine iranische Kfz-Versicherung.
 
@@ -401,13 +407,15 @@ Es sind keine besonderen Bestimmungen für die Einreise von Minderjährigen beka
 
 ### Deutsch-iranische Doppelstaater
 
+Siehe *Aktuelles – Willkürliche Festnahmen und Strafverfolgung*
+
 **Vor Reisen nach Iran wird gewarnt. Für deutsche Staatsangehörige besteht die konkrete Gefahr, willkürlich festgenommen, verhört und zu langen Haftstrafen verurteilt zu werden. Vor allem Doppelstaater, die neben der deutschen auch die iranische Staatsangehörigkeit besitzen, sind gefährdet.**
 
-Personen, die sowohl die deutsche als auch die iranische Staatsangehörigkeit besitzen (sog. Doppelstaater), werden von den iranischen Behörden ausschließlich als iranische Staatsangehörige behandelt, siehe *Aktuelles*. Dies führt dazu, dass eine konsularische Betreuung durch die Deutsche Botschaft Teheran in Notfällen nicht möglich ist.
+Personen, die sowohl die deutsche als auch die iranische Staatsangehörigkeit besitzen (sog. Doppelstaater), werden von den iranischen Behörden ausschließlich wie iranische Staatsangehörige behandelt. Dies führt dazu, dass eine konsularische Betreuung durch die Deutsche Botschaft Teheran in Notfällen nicht möglich ist.
 
-Die iranische Staatsangehörigkeit kann nicht abgelegt werden und Iran sieht Kinder iranischer Eltern automatisch als Iraner an. Eine iranische Staatsangehörigkeit kann auch ohne einen iranischen Reisepass oder iranische Geburtsdokumente vorliegen und auch Personen betreffen, die selbst keinen Kontakt mit Iran hatten. Merkmal für eine von iranischen Behörden vermutete iranische Staatsangehörigkeit sind zum Beispiel Name oder Geburtsort.
+Die iranische Staatsangehörigkeit kann nicht abgelegt werden, und Iran sieht Kinder iranischer Eltern automatisch als Iraner an. Eine iranische Staatsangehörigkeit kann auch ohne einen iranischen Reisepass oder iranische Geburtsdokumente vorliegen und auch Personen betreffen, die selbst keinen Kontakt mit Iran hatten. Merkmal für eine von iranischen Behörden vermutete iranische Staatsangehörigkeit sind zum Beispiel Name oder Geburtsort.
 
-Doppelstaater mit auch iranischer Staatsangehörigkeit sind in besonderem Maße Verhören und/oder Verhaftungen ohne nachvollziehbare Gründe ausgesetzt, einschließlich bei der Einreise nach Iran. Es mehren sich Fälle der Verhängung von Ausreisesperren, u.a. bei nichtgeleistetem Militärdienst) sowie Überprüfung von Handys, Kamera und PC. Auch eine strafrechtliche Verfolgung politischer Aktivitäten in Deutschland (z.B. Teilnahme an regimekritischen Demonstrationen in Deutschland, Verbreitung regimekritischer Beiträge über Social Media) bis hin zu Inhaftierung und Verurteilung in Iran kann nicht ausgeschlossen werden. 2023 wurden in westlichen Staaten lebende Personen iranischer Herkunft, die an regimekritischen Demonstrationen teilgenommen hatten, gezielt bei Aufenthalten in Iran verhaftet, strafrechtlich verfolgt und durch Folter zu Geständnissen gezwungen, um so Protestierende abzuschrecken.
+Doppelstaater mit auch iranischer Staatsangehörigkeit sind in besonderem Maße Verhören und/oder Verhaftungen ohne nachvollziehbare Gründe ausgesetzt, einschließlich bei der Einreise nach Iran. Es mehren sich Fälle der Verhängung von Ausreisesperren, u.a. bei nichtgeleistetem Militärdienst, sowie Überprüfung von Handys, Kamera und PC. Auch eine strafrechtliche Verfolgung politischer Aktivitäten in Deutschland (z.B. Teilnahme an regimekritischen Demonstrationen in Deutschland, Verbreitung regimekritischer Beiträge über Social Media) bis hin zu Inhaftierung und Verurteilung in Iran kann nicht ausgeschlossen werden. 2023 wurden in westlichen Staaten lebende Personen iranischer Herkunft, die an regimekritischen Demonstrationen teilgenommen hatten, gezielt bei Aufenthalten in Iran verhaftet, strafrechtlich verfolgt und durch Folter zu Geständnissen gezwungen, um so Protestierende abzuschrecken.
 
 Nach iranischem Recht ist das Zusammenleben von Mann und Frau in einer eheähnlichen Gemeinschaft ohne Eheschließung strafbar. Doppelstaater, deren Ehe in Iran nicht anerkannt ist, müssen bei Einreise eventuell mit strafrechtlichen Konsequenzen rechnen. Für miteingereiste Kinder sind in diesem Fall in Iran iranische Geburtsurkunden und Reisepässe zu beantragen, bevor eine Ausreise aus Iran möglich ist. Dies kann mit erheblichen Schwierigkeiten und zeitlichen Verzögerungen verbunden sein.
 
@@ -447,7 +455,7 @@ Der iranische Ehemann kann eine Ausreisesperre verhängen, solange nach iranisch
 Barmittel mit einem Wert bis 10.000 EUR dürfen ohne weitere Erklärung eingeführt und mit einem Wert bis 5.000 EUR ausgeführt werden. Höhere Beträge müssen angemeldet werden.
 
 * Führen Sie keinen Alkohol, Schweinefleisch und Publikationen, die das sehr strenge iranische Moralverständnis verletzen könnten, ein.
-* Sie dürfen einen bis zu sechs m² großen und höchstens 30 Jahre alten Teppich ausführen.
+* Sie dürfen einen bis zu sechs Quadratmeter großen und höchstens 30 Jahre alten Teppich ausführen.
 * Die Ausfuhr von Antiquitäten (Gegenstände, die älter als 30 Jahre sind) ist nur mit einer Genehmigung der Organisation für Kulturerbe zulässig. Suchen Sie dazu unter Vorlage eines Flugtickets als Nachweis der Ausreise die Organisation für Kulturerbe der Provinz Teheran nach vorheriger Terminvereinbarung auf (Tel. +98 21 667020614, Durchwahl 212, Imam Khomeini Str. 30 Tir Str., Iran-Bastan-Museum).
 
 #### *Einreise mit Kfz*
@@ -457,7 +465,7 @@ Bei der Einreise mit einem Dieselfahrzeug gab es vermehrt Probleme.
 
 ### Heimtiere
 
-Für die Einfuhr von Heimtieren wird eine amtstierärztliche Bescheinigung verlangt, die nicht älter als zehn Tage sein darf, dass das Tier gesund ist, innerhalb der letzten sechs Monate gegen Tollwut geimpft wurde, entwurmt ist und einen Chip besitzt. Empfehlenswert ist der EU-Heimtierausweis. Bei Einreise am Flughafen erfolgt neben einer Kontrolle in der Regel eine erneue amtstierärztliche Untersuchung.
+Für die Einfuhr von Heimtieren wird eine amtstierärztliche Bescheinigung verlangt, die nicht älter als zehn Tage sein darf und bestätigt, dass das Tier gesund ist, innerhalb der letzten sechs Monate gegen Tollwut geimpft wurde, entwurmt ist und einen Chip besitzt. Empfehlenswert ist der EU-Heimtierausweis. Bei Einreise am Flughafen erfolgt neben einer Kontrolle in der Regel eine erneue amtstierärztliche Untersuchung.
 
 * Erkundigen Sie sich bezüglich der Einfuhr von Heimtieren bitte auch direkt bei den iranischen Auslandsvertretungen.
 
@@ -545,7 +553,7 @@ Für die Hubschrauberrettung aus Bergnot gibt es in Iran keine zivilen Luftrettu
 
 In Teheran ist die Verkehrsbelastung hoch. Durch die zusätzlichen Abgase der Industrie kommt es in der durch Gebirge umgebenen Millionenmetropole insbesondere in den Wintermonaten zu erhöhter Smogbelastung. Atemprobleme und Kopfschmerzen sind keine Seltenheit.
 
-* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die Smartphone App [AirVisual](https://www.airvisual.com/app).
+* Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir](https://www.airvisual.com/app).
 
 ### Medizinische Versorgung
 
@@ -557,9 +565,7 @@ In Teheran ist die medizinische Versorgung in allen Fachdisziplinen meist auf ei
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z.B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")** 
 
 ## Länderinfos zu Ihrem Reiseland
 
