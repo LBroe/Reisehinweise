@@ -2,13 +2,13 @@
 
 ## Aktuelles
 
-Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen ist die Provinz Valencia, in der es bereits weit über 100 Todesopfer gab; weitere Menschen werden aktuell vermisst.
+Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen ist die Provinz Valencia, in der es bereits mehr als 200 Todesopfer gab; zahlreiche Menschen werden noch vermisst.
 
-Auch Teile Andalusiens und Kastilien-La Manchas sowie Teruel/Aragonien sind betroffen. Vielerorts sind Flüsse über die Ufer getreten. Bestimmte Katastrophengebiete können durch die Rettungsdienste nur eingeschränkt erreicht werden.
+Auch die an die Provinz Valencia angrenzende Provinz Castellón, Teile Andalusiens, Kataloniens und Kastilien-La Manchas sowie Teruel/Aragonien sind von den starken Regenfällen betroffen. Vielerorts sind Flüsse über die Ufer getreten. Bestimmte Katastrophengebiete können durch die Rettungsdienste nur eingeschränkt erreicht werden.
 
-Der Zugverkehr ist in den betroffenen Gebieten zum Teil ausgesetzt und manche Straßen sind nicht befahrbar.
+Der Zugverkehr ist in den betroffenen Gebieten zum Teil noch eingeschränkt und teilweise sind auch Straßen nicht befahrbar. Mancherorts wurden zudem Fahrverbote verhängt, um die Aufräum- und Bergungsarbeiten nicht zu behindern.
 
-* Für die an die Provinz Valencia angrenzende Provinz Castellón wurde eine Hochwasserwarnung ausgesprochen. Stärkere Regenfälle sind auch in Teilen Extremaduras, Andalusiens und Kataloniens mit der Gegend um Tarragona zu erwarten. Auch auf den Balearen wurde die Bevölkerung zu größter Vorsicht aufgerufen. Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit** **von nicht notwendigen, touristischen Reisen in die Provinzen Valencia und Castellón ab**.
+* Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit** **von nicht notwendigen, touristischen Reisen in die Provinz Valencia ab**.
 * Falls Sie sich aktuell in den betroffenen Gebieten aufhalten, befolgen Sie bitte die Verhaltenshinweise der örtlichen Behörden.
 * Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden.
 
@@ -71,10 +71,9 @@ Der im September 2021 auf der Insel La Palma ausgebrochene Vulkan gilt seit Dez
 
 ### Ein- und Ausreise über Frankreich
 
-In Zusammenhang mit den Olympischen und Paralympischen Spielen hat Frankreich zwischen dem 1. Mai und dem 31. Oktober 2024 an seinen Landesgrenzen sowie an allen Luft- und Seegrenzen vermehrte Kontrollen der Grenzpolizei und der Zollbehörden angekündigt. Nähere Informationen dazu finden Sie in den Reise- und Sicherheitshinweisen zu [Frankreich.](https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524)
-
 Verzögerungen und Wartezeiten im grenzüberschreitenden Verkehr können nicht ausgeschlossen werden. Reisende – auch Kinder – müssen in der Lage sein, sich durch gültige Reisepässe oder Personalausweise auszuweisen. Führerscheine oder Geburtsurkunden für Kinder genügen nicht.
 
+* Bitte beachten Sie in diesem Kontext die Reise- und Sicherheitshinweise zu [Frankreich.](https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524)
 * Führen Sie stets ein gültiges Reisedokument mit.
 * Überzeugen Sie sich als Fahrer eines Kraftfahrzeugs stets davon, dass Ihre Mitfahrer gültige Grenzübertrittspapiere mit sich führen.
 
