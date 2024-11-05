@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-Aufgrund der aktuellen Situation im Nahen Osten kann es in Tunesien verstärkt zu Demonstrationen kommen.
+Aufgrund der aktuellen Situation im Nahen Osten kann es in Tunesien wiederholt zu Demonstrationen kommen.
 
 * Vermeiden Sie Demonstrationen und Menschenansammlungen weiträumig.
 * Informieren Sie sich über die lokalen und sozialen Medien.
@@ -13,7 +13,7 @@ Aufgrund der aktuellen Situation im Nahen Osten kann es in Tunesien verstärkt z
 **Von Reisen**
 
 * in das Gebiet südlich bzw. südöstlich einer Linie, die von der Grenze zu Algerien über Tozeur/Nafta - Douz – Ksar Ghilane – Tataouine bis Zarzis führt,
-* **in das unmittelbare Grenzgebiet zu Algerien** und insbesondere **in die Gebirgsregionen nahe der algerischen Grenze im Bereich von El Aioun bis und einschließlich der Provinz Kasserine** und
+* **in das unmittelbare Grenzgebiet zu Algerien** und insbesondere **in die Gebirgsregionen nahe der algerischen Grenze im Bereich von El Aioun bis einschließlich der Provinz Kasserine** und
 * **individuellen, nicht organisierten Wüstentouren**
 
 **wird abgeraten**.
@@ -24,8 +24,9 @@ In Tunesien besteht weiterhin ein erhöhtes Risiko terroristischer Anschläge. I
 
 Die tunesischen Sicherheitskräfte verstärken ihre Präsenz saisonbedingt in den Touristengebieten. Das tunesische Innenministerium hat mobile Sicherheitsposten eingerichtet, die in den Sommermonaten an touristischen Anlaufpunkten, Stränden und öffentlichen Plätzen im Einsatz sind.
 
-In den Gebirgsregionen nahe der algerischen Grenze im Bereich von El Aioun bis Kasserine, besonders in den Bergen des Jebel Chaambi, Jebel Selloum und Jebel Mrhila in der Provinz Kasserine sind bewaffnete Auseinandersetzungen mit dort operierenden Terrorgruppen möglich. Gebiete sind dort teilweise vermint.  
-Die Sicherheitslage ist in der Stadt und in der Region um Ben Guerdane nahe der libyschen Grenze besonders angespannt.  
+In den Gebirgsregionen nahe der algerischen Grenze im Bereich von El Aioun bis Kasserine, besonders in den Bergen des Jebel Chaambi, Jebel Selloum und Jebel Mrhila in der Provinz Kasserine sind bewaffnete Auseinandersetzungen mit dort operierenden Terrorgruppen möglich. Gebiete sind dort teilweise vermint.
+
+Die Sicherheitslage ist in der Stadt Ben Guerdane und in der umliegenden Region nahe der libyschen Grenze besonders angespannt.  
 Mit verstärkter Militär- und Polizeipräsenz in diesen Regionen ist zu rechnen.
 
 Südlich bzw. südöstlich der Linie, die von der Grenze zu Algerien über Tozeur/Nafta - Douz – Ksar Ghilane – Tataouine bis Zarzis führt sowie abseits der Touristenzentren am Rande der Sahara und insbesondere in Grenzgebieten, besteht ein erhöhtes Entführungsrisiko.
@@ -33,7 +34,7 @@ Südlich bzw. südöstlich der Linie, die von der Grenze zu Algerien über Tozeu
 * Halten Sie sich über die Medien informiert und achten Sie auf Informationen der Reiseveranstalter.
 * Meiden Sie Menschenansammlungen auf öffentlichen Plätzen und vor touristischen Attraktionen und Moscheen bzw. seien Sie dort besonders aufmerksam.
 * Seien Sie bei Reisen in westliche Landesteile besonders vorsichtig und meiden Sie die Gebirgsregion nahe der algerischen Grenze im Bereich von El Aioun bis Kasserine.
-* Vermeiden Sie touristische und andere, nicht erforderlichen Reisen in das Gebiet südlich der touristisch erschlossenen Gebiete von Touzeur/Nafta, Douz, Ksar Ghilane, Tataouine und Zarzis.
+* Vermeiden Sie touristische und andere, nicht erforderliche Reisen in das Gebiet südlich der touristisch erschlossenen Gebiete von Touzeur/Nafta, Douz, Ksar Ghilane, Tataouine und Zarzis.
 * Seien Sie bei notwendigen Reisen in der Region um Ben Guerdane ganz besonders vorsichtig.
 * Unternehmen Sie Ausflüge und Offroad-Touren in die Wüstengebiete grundsätzlich nur organisiert in einer Gruppe und mit landeskundigen Reiseführern.
 * Beachten Sie auch den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
@@ -42,36 +43,37 @@ Südlich bzw. südöstlich der Linie, die von der Grenze zu Algerien über Tozeu
 
 Nach der 2021 erfolgten Suspendierung und späteren Auflösung des Parlaments durch Staatspräsident Saied wurde im Juli 2022 per Referendum eine neue Verfassung angenommen, die nahezu alle Macht in die Hände des Staatspräsidenten legt und die Kompetenzen des Parlaments stark einschränkt.
 
-Aufgrund der politischen Lage finden regelmäßig angemeldete Demonstrationen und Protestkundgebungen statt, insbesondere am Wochenende im Stadtzentrum von Tunis, das dann für den Autoverkehr weiträumig gesperrt wird. Zudem kommt es immer wieder zu spontanen, lokal begrenzten Demonstrationen in Tunis und anderen Landesteilen. Gewaltsame Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften können dabei nicht ausgeschlossen werden.
+Aufgrund der politischen Lage finden regelmäßig angemeldete Demonstrationen und Protestkundgebungen statt, insbesondere am Wochenende im Stadtzentrum von Tunis, das dann für den Autoverkehr weiträumig abgesperrt wird. Zudem kommt es immer wieder zu spontanen, lokal begrenzten Demonstrationen in Tunis und anderen Landesteilen. Gewaltsame Auseinandersetzungen zwischen Demonstranten und Sicherheitskräften können dabei nicht ausgeschlossen werden.
 
-Auch die Stimmung gegenüber Ausländern hat sich in jüngster Zeit verschlechtert. In Sfax gab es im Juli 2023 gewalttätige Auseinandersetzungen zwischen Anwohnern und Migranten.
+Das „Gesetzesdekret 54“ sieht Haftstrafen von bis zu zehn Jahren für die Verbreitung von „Falschinformationen und Gerüchten“ im Internet vor. Dies kann auch politische Einlassungen abdecken. Die tunesische Regierung hat am 27. Oktober 2024 eine verschärfte Kontrolle sozialer Netzwerke angekündigt, die sich gegen „unmoralische Inhalte“ besonders auf TikTok und Instagram richtet.
+
+Auch die Stimmung gegenüber Ausländern hat sich in jüngster Zeit verschlechtert. 
 
 * Informieren Sie sich über geplante Demonstrationen und Protestkundgebungen in den lokalen und sozialen Medien oder bei Ihrem Reiseveranstalter.
 * Meiden Sie angekündigte Demonstrationen und spontane, größere Menschenansammlungen weiträumig.
 * Folgen Sie unbedingt den Anweisungen der Sicherheitskräfte.
-* Führen Sie stets Ihre Ausweisdokumente mit sich, um jederzeit nachweisen zu können, dass Sie sich legal im Land aufhalten.
+* Führen Sie stets Ihre Ausweisdokumente (am besten in Kopie, siehe *Kriminalität*) mit sich, um jederzeit nachweisen zu können, dass Sie sich legal im Land aufhalten.
 
 Der Ausnahmezustand mit erweiterten Befugnissen für Sicherheitskräfte gilt landesweit fort. Mit vermehrten Polizeikontrollen ist landesweit weiterhin zu rechnen.
 
 Teile des südlichen Grenzgebietes zu Algerien sowie ein ca. 20 km breiter Streifen entlang der gesamten Grenze zu Libyen sind militärisches Sperrgebiet und daher nicht zugänglich**.** Diese Gebiete können nur nach Einholung einer Genehmigung des zuständigen Gouvernorats betreten werden.
 
-* Informieren Sie sich über die lokalen Medien oder Ihre Reiseveranstalter und verfolgen Sie aufmerksam die politische Lage.
+* Informieren Sie sich über die lokalen Medien oder Ihren Reiseveranstalter und verfolgen Sie aufmerksam die politische Lage.
 * Beachten Sie Sperrzonen sowie bei beabsichtigten Reisen in Nachbarländer sorgfältig die aktuelle Sicherheitslage und die [Reise- und Sicherheitshinweise Algerien](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/algerien-node/algeriensicherheit/219044) bzw. die [Reisewarnung für Libyen](https://www.auswaertiges-amt.de/de/service/laender/libyen-node/libyensicherheit/219624 "Libyen: Reisewarnung").
 
 ### Kriminalität
 
-Es kann u.a. zu Einbruchs- und Diebstahldelikten kommen, z.B. Entreißen von Handtaschen, Taschendiebstahl, Debit- und Kreditkartenkriminalität.
+Es kann u.a. zu Einbruchs- und Diebstahldelikten kommen, z.B. Taschendiebstahl und Kreditkartenkriminalität.
 
 In Hotels bieten häufig neben den offiziellen Vertragspartnern von Reiseveranstaltern auch private Agenturen Ausflüge und Aktivitäten an, die oft keine ausreichende rechtliche Absicherung bieten und keiner Qualitätskontrolle unterliegen.
 
-* Achten Sie insbesondere bei Besuchen in Altstädten und Bazaren („Souk“) sowie an Bahnhöfen und in Verkehrsmitteln auf Ihre Wertsachen.
-* Seien Sie besonders aufmerksam, wenn Sie alleine reisen.
+* Achten Sie insbesondere bei Besuchen in Altstädten und Basaren („Souk“) sowie an Bahnhöfen und in öffentlichen Verkehrsmitteln auf Ihre Wertsachen.
+* Seien Sie besonders aufmerksam, wenn Sie allein reisen.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
-* Nehmen Sie vom Reisedokument nur eine Kopie mit.
 * Seien Sie wachsam, wenn Sie nach dem Weg fragen und Geldautomaten benutzen. „False Guides“ und aggressives Betteln sind weitverbreitet.
 * Vergewissern Sie sich bei Ausflügen ggf. des technischen Zustands von Fahrzeugen und des Versicherungsschutzes.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten oder Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -93,7 +95,7 @@ Tunesien liegt in einer seismisch leicht aktiven Zone, sodass es zu Erdbeben und
 
 Tunesien verfügt in den größeren Städten und bei Überlandverbindungen über eine gute Verkehrsinfrastruktur mit Inlandsflügen, teilweise Bahnverbindungen und vor allem Überlandbussen.
 
-Reisen auf dem Landweg, insbesondere im Landesinneren, sollten aus Sicherheitsgründen so geplant werden, dass das Ziel vor Einbruch der Dunkelheit erreicht werden kann.
+Reisen auf dem Landweg, insbesondere im Landesinneren, sollten aus Sicherheitsgründen so geplant werden, dass das Ziel vor Einbruch der Dunkelheit erreicht wird.
 
 Im Straßenverkehr besteht eine erhöhte Unfallgefahr. Autofahrer wie Fußgänger können sich nicht auf gegenseitige Rücksichtnahme sowie auf die Beachtung von Verkehrsregeln verlassen. Selbst Ampeln werden nicht immer beachtet. Auch auf Autobahnen ist mit Fußgängern und Tieren zu rechnen.
 
@@ -105,17 +107,17 @@ Die Promillegrenze beträgt 0,3. Für Fahranfänger und Fahrer in der Tourismusb
 
 ### Führerschein
 
-Der deutsche Führerschein ist bei touristischen Aufenthalten ausreichend. 
+Der deutsche Führerschein wird bei touristischen Aufenthalten anerkannt.
 
 ### Besondere Verhaltenshinweise/Ramadan
 
 Die Mehrheit der Bevölkerung ist muslimisch. Auch wenn viele Tunesierinnen berufstätig sind, bleibt das Rollenverständnis insbesondere in ländlichen Gebieten von traditionellen Mustern bestimmt. Frauen sollten sich außerhalb der Touristenzentren daher zurückhaltend verhalten und gesundes Misstrauen zeigen.
 
-Alkohol kann in bestimmten Geschäften gekauft werden. Er wird in Städten auch in einigen Hotels und Restaurants serviert. Allerdings ist es nicht erlaubt, Alkohol auf der Straße und an anderen Orten als in einem zugelassenen Restaurant oder einer Bar zu trinken.
+Alkohol kann in bestimmten Geschäften gekauft werden. Er wird in Städten auch in einigen Hotels und Restaurants serviert. Allerdings ist es nicht erlaubt, Alkohol auf der Straße oder an anderen Orten als in einem zugelassenen Restaurant oder in einer Bar zu trinken.
 
-Während des Fastenmonats Ramadan ist außerhalb der Touristenzentren mit Einschränkungen im Alltag wie z.B. tagsüber Schließung von Restaurants, reduzierte Arbeitszeiten bei Behörden und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Fragen der Respektierung islamischer Traditionen zu rechnen.
+Während des Fastenmonats Ramadan ist außerhalb der Touristenzentren mit Einschränkungen im Alltag wie z.B. Schließung von Restaurants tagsüber, reduzierten Arbeitszeiten bei Behörden und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie der Beachtung islamischer Traditionen zu rechnen.
 
-* Vermeiden Sie das Essen, Trinken oder Rauchen in der Öffentlichkeit.
+* Vermeiden Sie während des Ramadans zwischen Sonnenauf- und -untergang das Essen, Trinken oder Rauchen in der Öffentlichkeit.
 
 ### LGBTIQ
 
@@ -126,20 +128,18 @@ Gleichgeschlechtliche Sexualbeziehungen sind verboten und können in Tunesien st
 
 ### Rechtliche Besonderheiten
 
-Der Besitz schon kleinster Mengen Rauschgifts bzw. der öffentliche Konsum von Marihuana/Haschisch wird in Tunesien mit mindestens einem Jahr Haft und Geldstrafe geahndet. Das Strafmaß für Drogendelikte kann sich auf bis zu 20 Jahre Freiheitsstrafe belaufen. Der Besitz von Waffen (Feuerwaffen, Hieb- und Stichwaffen) ist untersagt. Ehebruch und homosexuelle Handlungen sind in Tunesien strafbar, siehe auch *Reiseinfos -* *LGBTIQ.*
+Der Besitz schon kleinster Mengen Rauschgifts bzw. der öffentliche Konsum von Marihuana/Haschisch wird in Tunesien mit mindestens einem Jahr Haft und Geldstrafe geahndet. Das Strafmaß für Drogendelikte kann sich auf bis zu 20 Jahre Freiheitsstrafe belaufen. Der Besitz von Waffen (Feuerwaffen, Hieb- und Stichwaffen) und pornographischem Material ist untersagt.
 
-Das Fotografieren militärischer oder polizeilicher Anlagen, öffentlicher Gebäude oder sicherheitssensibler Bereiche und der Einsatz von Drohnen sind nicht erlaubt und können zu Inhaftierung wegen Terrorismusverdachts führen. Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden.
+Das Fotografieren militärischer oder polizeilicher Anlagen, öffentlicher Gebäude oder sicherheitssensibler Bereiche (z.B. auch der Wagenkolonne einer öffentlichen Person) und der Einsatz von Drohnen sind nicht erlaubt und können zu Inhaftierung wegen Terrorismusverdachts führen. Ferngläser o.ä. können konfisziert werden.
 
-Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden.
+Öffentliche Zuneigungsbekundungen, insbesondere zwischen unverheirateten Paaren, können je nach Art und Ausmaß wegen Unzucht oder Erregung öffentlichen Ärgernisses strafrechtlich verfolgt werden. Ehebruch und homosexuelle Handlungen sind in Tunesien strafbar und können eine Haftstrafe nach sich ziehen, siehe auch *Reiseinfos -* *LGBTIQ.*
 
-Prostitution ist mit äußerst wenigen Ausnahmen in Tunesien verboten. Wer entsprechende Dienstleistungen ohne Genehmigung anbietet, aber auch wer sie in Anspruch nimmt, kann zu einer mehrjährigen Freiheitsstrafe verurteilt werden.
-
-Gerichtsverfahren und damit verbundene Untersuchungshaftzeiten können lang andauern. Tunesische Haftbedingungen sind nicht mit deutschen vergleichbar. In dem Zusammenhang verhängte Ausreisesperren können zu monatelangen Zwangsaufenthalten in Tunesien führen - mit weitreichenden Konsequenzen für die berufliche, familiäre und gesundheitliche Lage der Betroffenen.
+Prostitution ist mit äußerst wenigen Ausnahmen in Tunesien verboten. Wer entsprechende Dienstleistungen ohne Genehmigung anbietet, aber auch wer sie in Anspruch nimmt, kann zu einer mehrjährigen Freiheitsstrafe verurteilt werden. Gerichtsverfahren und damit verbundene Untersuchungshaftzeiten können lang andauern. Tunesische Haftbedingungen sind nicht mit den deutschen vergleichbar. In diesem Zusammenhang verhängte Ausreisesperren können zu monatelangen Zwangsaufenthalten in Tunesien führen - mit weitreichenden Konsequenzen für die berufliche, familiäre und gesundheitliche Lage der Betroffenen.
 
 ### Geld/Kreditkarten
 
 Landeswährung ist der Tunesische Dinar (TND). Es ist eine Tausenderwährung, d.h. 1 TND entspricht 1.000 Millimes.  
-Geld kann bei jeder größeren Bank während der üblichen Geschäftsstunden von Montag bis Freitag umgetauscht werden. Weitere Umtauschmöglichkeiten bestehen in den größeren Hotels. Geldumtausch auf der Straße ist verboten. Geldabhebungen am Automaten sind mit gängigen internationalen Kreditkarten (Mastercard, Visa) und auch mit der Debitkarte (Girocard) möglich (nicht jedoch V-Pay).
+Geld kann bei jeder größeren Bank während der üblichen Geschäftszeiten montags bis freitags umgetauscht werden. Weitere Umtauschmöglichkeiten gibt es in größeren Hotels. Geldumtausch auf der Straße ist verboten. Geldabhebungen am Automaten sind mit gängigen internationalen Kreditkarten (Mastercard, VISA) und auch mit einer Debitkarte (Girocard) möglich (nicht jedoch V-Pay).
 
 ## Einreise und Zoll
 
@@ -147,14 +147,14 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich bei den offiziellen Stellen Tunesiens sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820)[.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich bei den offiziellen Stellen Tunesiens sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820)[.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
 Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten möglich:
 
 * **Reisepass:** Ja
-* **Vorläufiger Reisepass:** Ja
+* **Vorläufiger Reisepass:** Ja, mit Einschränkungen, siehe Anmerkungen
 * **Personalausweis:** Ja, mit Einschränkungen, siehe Anmerkungen
 * **Vorläufiger Personalausweis:** Nein
 * **Kinderreisepass:** Ja
@@ -163,23 +163,25 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
-Einreisen mit einem gültigen deutschen Personalausweis nach Tunesien sind nach Mitteilung der tunesischen Behörden nur noch bis 31. Dezember 2024 und ausschließlich unter folgenden Voraussetzungen möglich:
+Für Einreisen mit einem regulären Reisepass können nach Mitteilung der tunesischen Behörden Nachweise über ausreichende finanzielle Mittel zur Deckung der Reise- und Lebenshaltungskosten während des Aufenthaltes erfragt werden.
 
-* Die Pauschalreise muss durch eine ausgedruckte Buchungsbestätigung nachgewiesen werden.
-* Es müssen eine Hotelreservierung und ein Rückflugticket für einen Linien- oder Charterflug per Ausdruck nachgewiesen werden.
+Einreisen mit einem gültigen deutschen Personalausweis nach Tunesien sind nach Mitteilung der tunesischen Behörden nur noch bis 31. Dezember 2024 und ausschließlich unter der Voraussetzung möglich, dass die Pauschalreise durch eine Buchungsbestätigung, eine Hotelreservierung und ein Rückflugticket für einen Linien- oder Charterflug nachgewiesen wird.
+
 * Falls Sie keinen gültigen Reisepass besitzen und Ihr geplanter Aufenthalt in Tunesien über den 31. Dezember 2024 hinausgeht, beantragen Sie bitte umgehend einen Reisepass, um keine Nachteile zu erfahren.
+
+Einreisen mit einem gültigen deutschen vorläufigen Reisepass nach Tunesien sind nach Mitteilung der tunesischen Behörden nur möglich, wenn ein Hin- und Rückflugticket und eine ausreichende Geldsumme für die Dauer des Aufenthalts nachgewiesen werden.
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise zu touristischen und geschäftlichen Zwecken und einem Aufenthalt bis zu vier Monaten kein Visum.
+Deutsche Staatsangehörige benötigen für die Einreise zu touristischen, privaten oder geschäftlichen Zwecken und einem Aufenthalt bis zu vier Monaten kein Visum.
 
-Der von den tunesischen Grenzbehörden an manchen Flughäfen ausgegebene Einreisenachweis "Carte de visiteur non-résident" muss aufgehoben und bei Wiederausreise vorgelegt werden. Bei Überschreiten des viermonatigen Aufenthalts wird eine Strafgebühr von 20 TND pro Fünf-Tages-Periode erhoben, die bei Ausreise (mittels Wertmarken) beglichen werden muss; sonst wird die Ausreise nicht gestattet.
+Der von den tunesischen Grenzbehörden an manchen Flughäfen ausgegebene Einreisenachweis "Carte de visiteur non-résident" muss aufbewahrt und bei Wiederausreise vorgelegt werden. Bei Überschreiten des viermonatigen Aufenthalts wird eine Strafgebühr von 20 TND pro Fünf-Tages-Periode erhoben, die bei Ausreise (mittels Wertmarken) beglichen werden muss; ansonsten wird die Ausreise nicht gestattet.
 
 Bei Einreise auf dem Seeweg – z.B. von Individualreisenden – kann es aufgrund mangelnder einschlägiger Vorschriften von tunesischer Seite zu Schwierigkeiten (beispielsweise zur Verweigerung der Einreise ohne Hotelbuchung und Rückfahrticket) kommen.
 
 ### Hinweis für Doppelstaater
 
-Von Reisenden, die neben der deutschen auch die tunesische Staatsangehörigkeit besitzen, verlangen die tunesischen Behörden, dass sie sich mit einem tunesischen Reisepass ausweisen können (Achtung: Die Rückgabe des tunesischen Passes an eine tunesische Auslandsvertretung aus Anlass der Einbürgerung in den deutschen Staatsverband führt nicht zum Verlust der tunesischen Staatsangehörigkeit). Deutsch-tunesische Doppelstaater werden entsprechend der internationalen Praxis in Tunesien ausschließlich als Tunesier behandelt und unterliegen uneingeschränkt den tunesischen Gesetzen.
+Von Reisenden, die neben der deutschen die tunesische Staatsangehörigkeit besitzen, verlangen die tunesischen Behörden, dass sie sich mit einem tunesischen Reisepass ausweisen können (Achtung: Die Rückgabe des tunesischen Passes an eine tunesische Auslandsvertretung aus Anlass der Einbürgerung in den deutschen Staatsverband führt nicht zum Verlust der tunesischen Staatsangehörigkeit). Deutsch-tunesische Doppelstaater werden entsprechend der internationalen Praxis in Tunesien ausschließlich als Tunesier behandelt und unterliegen uneingeschränkt den tunesischen Gesetzen.
 
 ### Minderjährige
 
@@ -188,23 +190,23 @@ Minderjährige, die nicht vom tunesischen Elternteil begleitet werden, bedürfen
 ### Einfuhrbestimmungen
 
 In Tunesien gelten sehr strenge Devisenbestimmungen. TND dürfen weder ein- noch ausgeführt werden.  
-Die Ein- und Ausfuhr von Devisen, Gold o.Ä. ist ohne Begrenzung möglich, ab einem Gegenwert von 10.000 TND (ca. 2.900 EUR) muss jedoch eine Einfuhr- bzw. Ausfuhrdeklaration beim Zoll erfolgen. Eine Nichtbeachtung der Einfuhrbestimmungen kann die Beschlagnahme und ggf. strafrechtliche Konsequenzen nach sich ziehen. Verbindliche Informationen stellt der [tunesische Zoll](https://www.douane.gov.tn/devises-et-change/) auf Französisch zur Verfügung.
+Die Ein- und Ausfuhr von Devisen, Gold o.Ä. ist ohne Begrenzung möglich, ab einem Gegenwert von 10.000 TND (ca. 3.000 EUR) muss jedoch eine Einfuhr- bzw. Ausfuhrdeklaration beim Zoll erfolgen. Eine Nichtbeachtung der Einfuhrbestimmungen kann die Beschlagnahme und ggf. strafrechtliche Konsequenzen nach sich ziehen. Verbindliche Informationen stellt der [tunesische Zoll](https://www.douane.gov.tn/devises-et-change/) auf Französisch zur Verfügung.
 
-Reisende ohne permanenten Aufenthalt in Tunesien, die die Absicht haben, eine Restsumme der Devisen im Wert von 5.000 TND (ca. 1.450 EUR) oder mehr wieder auszuführen, müssen bereits bei der Einfuhr den Wert der mitgeführten Devisen deklarieren. Die Einfuhrerklärung muss sorgfältig aufbewahrt werden, da sonst die Gefahr besteht, dass bei der Wiederausreise diese Mittel beschlagnahmt werden und eine Geldstrafe verhängt wird. Bei der Ausreise müssen Devisen mündlich angegeben werden. Devisengeschäfte sind nach tunesischem Recht nicht zulässig.
+Reisende ohne permanenten Aufenthalt in Tunesien, die die Absicht haben, eine Restsumme der Devisen im Wert von 5.000 TND (ca. 1.500 EUR) oder mehr wieder auszuführen, müssen bereits bei der Einfuhr den Wert der mitgeführten Devisen deklarieren. Die Einfuhrerklärung muss sorgfältig aufbewahrt werden, da sonst die Gefahr besteht, dass bei der Wiederausreise diese Mittel beschlagnahmt werden und eine Geldstrafe verhängt wird. Bei der Ausreise müssen Devisen mündlich angegeben werden. Devisengeschäfte sind nach tunesischem Recht nicht zulässig.
 
-Beim Erwerb teurerer Souvenirs wie Teppiche, aber auch bei tierischen und pflanzlichen Produkten, sollten Reisende besonders vorsichtig sein. Solche Käufe sollten nur bei vertrauensvollen oder vom Tourismusbüro ([Office National du Tourisme Tunisien](http://www.tourisme.gov.tn)) bzw. bei von Reiseleitern empfohlenen Geschäften und Händlern getätigt werden. Zusätzlich sollte man sich stets der Zollbestimmungen vergewissern.
+Beim Erwerb teurerer Souvenirs wie Teppichen, aber auch bei tierischen und pflanzlichen Produkten, sollten Reisende besonders vorsichtig sein. Solche Käufe sollten nur bei vertrauensvollen oder vom Tourismusbüro ([Office National du Tourisme Tunisien](http://www.tourisme.gov.tn)) bzw. bei von Reiseleitern empfohlenen Geschäften und Händlern getätigt werden. Zusätzlich sollte man sich stets der Zollbestimmungen vergewissern.
 
 #### *Einfuhr eines Fahrzeugs*
 
-Bei der Einreise mit einem Kfz wird eine Verkehrserlaubnis für das Fahrzeug von drei Monaten erteilt. Die Fahrzeugdaten werden in den Reisepass des Halters eingetragen, da ein Verkauf des Fahrzeugs in Tunesien nicht ohne Zollentrichtung stattfinden darf. Bei der Ausreise mit dem Fahrzeug wird der Eintrag wieder gelöscht.
+Bei der Einreise mit einem Kfz wird dafür eine Verkehrserlaubnis von drei Monaten erteilt. Die Fahrzeugdaten werden in den Reisepass des Halters eingetragen, da ein Verkauf des Fahrzeugs in Tunesien nicht ohne Zollentrichtung stattfinden darf. Bei der Ausreise mit dem Fahrzeug wird der Eintrag wieder gelöscht.
 
 Vor der Einfuhr eines Kfz für mehr als drei Monate sollte unbedingt vorab Kontakt mit den zuständigen tunesischen Auslandsvertretungen in Deutschland aufgenommen werden.
 
-Um Schwierigkeiten bei den Grenzübergängen zu vermeiden, wird im Fall eines Gebrauchtwagenkaufs empfohlen, beim zuständigen Straßenverkehrsamt die aktuellen Angaben zum Halter in den Fahrzeugpapieren nachtragen zu lassen. Sollte das Fahrzeug nach einem Unfall total beschädigt sein, muss von der örtlichen Polizei- oder Zollbehörde eine entsprechende Bescheinigung ausgestellt und das Fahrzeug zolltechnisch abgewickelt/verzollt werden, damit das Land ohne das Fahrzeug verlassen werden kann. Bei einer evtl. notwendigen Verschrottung des Fahrzeugs ist mit hohen Zollgebühren zu rechnen.
+Um Schwierigkeiten bei den Grenzübergängen zu vermeiden, wird im Fall eines Gebrauchtwagenkaufs empfohlen, beim zuständigen Straßenverkehrsamt die aktuellen Angaben zum Halter in den Fahrzeugpapieren nachtragen zu lassen. Sollte das Fahrzeug bei einem Unfall Totalschaden erleiden, muss von der örtlichen Polizei- oder Zollbehörde eine entsprechende Bescheinigung ausgestellt und das Fahrzeug zolltechnisch abgewickelt/verzollt werden, damit das Land ohne das Fahrzeug wird verlassen können. Bei einer evtl. notwendigen Verschrottung des Fahrzeugs ist mit hohen Zollgebühren zu rechnen.
 
 Auch im Falle eines Fahrzeugdiebstahls sind grundsätzlich erhebliche Zollgebühren zu entrichten. Der Abschluss von Versicherungen, die die o.a. Risiken abdecken, wird dringend empfohlen.
 
-Der Verlust oder Diebstahl der Kfz-Papiere oder des Führerscheins ist umgehend bei der örtlich zuständigen tunesischen Polizeibehörde anzuzeigen. Für die Ausstellung und Übersendung von Zweitschriften durch die ausstellende Behörde in Deutschland ist mit einer Wartezeit von ca. zwei Monaten zu rechnen. Sollte das Kfz wegen falschen Parkens abgeschleppt worden sein, so kann es gegen Entrichtung einer Gebühr bei der "Fourrière" ausgelöst werden.
+Der Verlust oder Diebstahl der Kfz-Papiere oder des Führerscheins ist umgehend bei der örtlich zuständigen tunesischen Polizeibehörde anzuzeigen. Für die Ausstellung und Übersendung von Zweitschriften durch die ausstellende Behörde in Deutschland ist mit einer Wartezeit von ca. zwei Monaten zu rechnen. Sollte das Kfz wegen falschen Parkens abgeschleppt worden sein, kann es gegen Entrichtung einer Gebühr bei der "Fourrière" ausgelöst werden.
 
 ### Heimtiere
 
