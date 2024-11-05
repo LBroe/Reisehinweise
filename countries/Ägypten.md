@@ -1,21 +1,5 @@
 # Ägypten: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-**Vor Reisen in den Norden der Sinai-Halbinsel, das ägyptisch-israelische Grenzgebiet** (mit Ausnahme von Taba) **und entlegene Gebiete der Sahara wird gewarnt.  
-Von unbegleiteten, individuellen Ausflügen und Überlandfahrten im Süden der Sinai-Halbinsel wird abgeraten.**
-
-[Angriffe der Huthi-Miliz im Roten Meer](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/Laenderinformationen "Angriffe der Huthi-Miliz im Roten Meer")
-
-Am 8. Oktober 2023 hat ein Polizist an einer touristischen Stätte in Alexandria zwei israelische Touristen und einen ägyptischen Tourguide erschossen. Der Polizist wurde von den ägyptischen Sicherheitsbehörden festgenommen. Es handelt sich um einen Einzelfall.
-
-Am 27. Oktober 2023 kam es zum Einschlag durch Flugkörper (vermutlich fehlgeleitete Drohnen) in den Orten Taba und Nuweiba auf dem Sinai. Mehrere Menschen wurden verletzt.
-
-Die Sicherheitslage in Ägypten ist dennoch insgesamt weiterhin stabil und ruhig.
-
-* Meiden Sie Demonstrationen und größere Menschenansammlungen wie z.B. nach dem Freitagsgebet vor Moscheen.
-* Seien Sie wachsam und informieren Sie sich über die lokalen Medien oder Ihren Reiseveranstalter.
-
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in den Norden der Sinai-Halbinsel, das ägyptisch-israelische Grenzgebiet** (mit Ausnahme von Taba) **und entlegene Gebiete der Sahara wird gewarnt.  
@@ -25,7 +9,9 @@ Von unbegleiteten, individuellen Ausflügen und Überlandfahrten im Süden der S
 
 ### Terrorismus
 
-Es besteht landesweit weiterhin ein Risiko terroristischer Anschläge. Diese richteten sich in der Vergangenheit meist gegen ägyptische Sicherheitsbehörden, teilweise gegen koptische Einrichtungen und vereinzelt auch gegen ausländische Ziele und Staatsangehörige. 
+Die Sicherheitslage in Ägypten ist aktuell insgesamt stabil und ruhig.
+
+Es besteht jedoch landesweit weiterhin ein Risiko terroristischer Anschläge. Diese fanden in der Vergangenheit insbesondere in der Sinai-Region statt und richteten sich meist gegen ägyptische Sicherheitsbehörden, teilweise gegen koptische Einrichtungen und vereinzelt auch gegen ausländische Ziele und Staatsangehörige.
 
 Auch nach Aufhebung des Ausnahmezustandes 2021 haben die Sicherheitskräfte und das Militär im Zuge der Terrorismusbekämpfung erhebliche Eingriffsbefugnisse. Vor allem nachts ist mit verstärkten Kontrollen durch Sicherheitskräfte zu rechnen.
 
@@ -38,15 +24,12 @@ Auch nach Aufhebung des Ausnahmezustandes 2021 haben die Sicherheitskräfte und 
 
 **Vor Reisen in den Norden der Sinai-Halbinsel**, das Gouvernorat Nordsinai **und das ägyptisch-israelische Grenzgebiet -** mit Ausnahme des unmittelbaren Küstenabschnitts und des Grenzortes Taba **- wird gewarnt.**   
 In diesen Regionen finden militärische Operationen statt, da es in der Vergangenheit zu terroristischen Anschlägen kam.  
-Im Gouvernorat Nordsinai gilt der Ausnahmezustand, der mit nächtlichen Ausgangssperren einhergeht. Die Straße von Suez nach Taba ist für nichtmilitärische Fahrzeuge gesperrt.
-
-Vor Reisen in den angrenzenden [Gazastreifen](https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit/203674 "Palästinensische Gebiete: Reise- und Sicherheitshinweise") wird gewarnt; dies gilt insbesondere auch für Personen mit Familienangehörigen im Gazastreifen. Die Überlandfahrt nach Rafah ist besonders gefährlich.
+Im Gouvernorat Nordsinai gilt der Ausnahmezustand, der mit nächtlichen Ausgangssperren einhergeht. Die Straße von Suez nach Taba ist für nichtmilitärische Fahrzeuge gesperrt.  
 
 Im **Süden der Sinai-Halbinsel**, das Gouvernorat Südsinai mit den Küstenorten Sharm el-Sheikh, Dahab, Nuweiba und Taba am Roten Meer, **wird von unbegleiteten, individuellen Ausflügen und Überlandfahrten abgeraten**.
 
 * Beachten Sie die Hinweise von Hotels und Reiseveranstaltern.
-* Unternehmen Sie Tauch- und Schnorcheltouren, Bergwanderungen sowie Ausflüge in die Wüste nur in hierfür lizenzierter ortsansässiger Begleitung.
-* Buchen Sie Ausflüge nur mit hierfür lizenzierter ortsansässiger Begleitung.
+* Buchen und unternehmen Sie Tauch- und Schnorcheltouren, Bergwanderungen sowie Ausflüge in die Wüste nur in hierfür lizenzierter ortsansässiger Begleitung.
 
 #### *Übrige Landesteile*
 
@@ -62,9 +45,11 @@ Ausflugsziele, die sich in den entlegenen westlichen und südlichen Wüstengebie
 
 ### Innenpolitische Lage
 
-Schwerwiegende terroristische Anschläge auf ägyptische Sicherheitskräfte und zivile Ziele können nicht ausgeschlossen werden.  
-Demonstrationen können weiterhin vor allem in Kairo und anderen Städten nicht ausgeschlossen werden.  
-Im Zuge der Terrorismusbekämpfung haben Sicherheitskräfte und Militär erhebliche Eingriffsbefugnisse. Vor allem nachts und bei Demonstrationen ist mit verstärkten Kontrollen durch Sicherheitskräfte zu rechnen.
+In Folge der regionalen Konflikte ist die innenpolitische Lage in Ägypten angespannt, aber stabil. Gelegentlich kommt es zu Demonstrationen, u.a. auch mit Festnahmen. Diese können vor allem in Kairo und anderen Städten nicht ausgeschlossen werden.
+
+Im Oktober 2023 wurden bei einem Einzelfall zwei israelische Touristen erschossen. Im selben Monat kam es auf dem Sinai zu einem Einschlag durch Flugkörper (vermutlich fehlgeleitete Drohnen), bei dem mehrere Menschen verletzt wurden. Schwerwiegende terroristische Anschläge auf ägyptische Sicherheitskräfte und zivile Ziele können nicht ausgeschlossen werden. 
+
+Im Zuge der Terrorismusbekämpfung haben Sicherheitskräfte und Militär erhebliche Eingriffsbefugnisse. Vor allem nachts und bei Demonstrationen ist mit verstärkten Kontrollen durch die Sicherheitskräfte zu rechnen.
 
 Kritische Äußerungen über Ägypten und politische Kommentare, auch in den sozialen Medien, können unter anderem als strafbare Beleidigung und Diffamierung Ägyptens oder des Staatspräsidenten bzw. als strafbares „Verbreiten falscher Nachrichten“ angesehen werden und eine Strafverfolgung nach sich ziehen. Bei Kontrollen ist eine Durchsuchung nach solchen Kommentaren möglich. Zuletzt kam es im öffentlichen Raum insbesondere in Kairo verstärkt zu Personenkontrollen auch durch Polizisten in Zivil und zur Durchsuchung u.a. von Mobiltelefonen. Weigerungen, den (zivil-)polizeilichen Aufforderungen Folge zu leisten, können zumindest kurzfristige Freiheitsbeschränkungen bzw. Festnahmen zur Folge haben.
 
@@ -87,10 +72,10 @@ Minenfelder sind häufig unzureichend gekennzeichnet, insbesondere auf dem Sinai
 Die Kriminalitätsrate ist in Ägypten vergleichsweise niedrig. Kleinkriminalität wie Taschendiebstähle als auch vereinzelte Übergriffe speziell auf Frauen kommen vor. In den Urlaubsgebieten wie z.B. Hurghada sind teilweise betrügerische bzw. erpresserische Verhaltensweisen bei Taxifahrern zu beobachten.
 
 * Lassen Sie die übliche Vorsicht walten und seien Sie besonders vorsichtig, wenn Sie allein reisen, auch z.B. als letzter Fahrgast in Sammeltaxis.
-* Vermeiden Sie insbesondere als allein reisende Frau Spaziergänge in Großstädten und außerhalb von Touristenzonen bei Dunkelheit.
+* Vermeiden Sie insbesondere als alleinreisende Frau Spaziergänge in Großstädten und außerhalb von Touristenzonen bei Dunkelheit.
 * Nutzen Sie nur Taxis mit eingeschaltetem Taxameter, zahlen Sie nach Aussteigen durch das Fenster. Informieren Sie sich vor Fahrtantritt, z. B. in Ihrem Hotel über das Fahrtziel und den ungefähren Fahrtpreis.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -100,7 +85,7 @@ Die Kriminalitätsrate ist in Ägypten vergleichsweise niedrig. Kleinkriminalit�
 
 Das Klima reicht von mediterran an der Mittelmeerküste und im Nildelta bis wüstenhaft in Kairo, Mittel- und Oberägypten.
 
-In seltenen Fällen kann es zu tödlichen Vorfällen mit Haien kommen. Zuletzt wurde im Juni 2023 in Hurghada eine Person in Strandnähe durch einen Hai getötet; im Sommer 2022 kam es zu zwei ähnlichen Vorfällen.
+In seltenen Fällen kann es zu tödlichen Vorfällen mit Haien kommen. 
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden. Erkundigen Sie sich bei Ihrem Hotel oder Reiseveranstalter zu Gefahren durch Wildtiere und verfolgen Sie die Nachrichten.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
@@ -113,22 +98,22 @@ Es gibt ein Inlandsflugnetz, eingeschränkten Eisenbahnverkehr und ein auf Haupt
 
 Das ägyptische Schienennetz ist teilweise veraltet. Es kommt immer wieder zu schweren Unfällen mit Toten. Mit kurzfristigen Zugausfällen ist insbesondere auf Nebenstrecken zu rechnen. Für Ausländer gelten gesonderte Tarife sowie ggf. weitere Einschränkungen.
 
-Die Sicherheitsstandards auf den Fährschiffen, wie sie etwa zur Passage über das Rote Meer eingesetzt werden, entsprechen nicht immer internationalen Standards.
+Die Sicherheitsstandards auf Fährschiffen, wie sie etwa zur Passage über das Rote Meer eingesetzt werden, entsprechen nicht immer internationalen Standards.
 
 Unfälle mit Touristen- und Tauchbooten bzw. -schiffen sind in letzter Zeit vermehrt vorgekommen.
 
 Es gibt vielerorts lokal anmietbare Sammelbusse und Sondertaxis. Die Fahrweise von Fahrzeuglenkern ist oft äußerst riskant, das Unfallrisiko sehr hoch.
 
-Unfälle, aufgrund des schlechten Zustands von Fahrzeugen, Geräten und Ausstattungen wie z.B. Heißluftballons, Tauchausrüstungen und Quads, passieren verhältnismäßig oft.
+Aufgrund des schlechten Zustands von Fahrzeugen, Geräten und Ausstattungen wie z.B. Heißluftballons, Tauchausrüstungen und Quads, passieren Unfälle verhältnismäßig oft.
 
-Die meisten touristisch interessanten Straßenverbindungen sind geteert, für Wüstenpisten ist ein Geländefahrzeug mit Allradantrieb (und entsprechendem Zubehör wie Sandblechen, Sandschaufel, Extrabenzin-/Dieselkanister etc.) notwendig. **Für den Bereich des Sinai (Zufahrt zum Suez-Tunnel) existieren derzeit Zufahrtsbeschränkungen für Geländefahrzeuge.**
+Die meisten, touristisch interessanten Straßenverbindungen sind geteert, für Wüstenpisten ist ein Geländefahrzeug mit Allradantrieb (und entsprechendem Zubehör wie Sandblechen, Sandschaufel, Extrabenzin-/Dieselkanister etc.) notwendig. Für den Bereich des Sinai (Zufahrt zum Suez-Tunnel) existieren derzeit Zufahrtsbeschränkungen für Geländefahrzeuge.
 
 Für die Einreise mit eigenem Fahrzeug ist ein „Carnet de Passage“ und eine lokale Personenhaftpflichtversicherung erforderlich. Zudem wird häufig eine Kaution verlangt, die nicht immer vollständig zurückerstattet wird. Da ägyptische Fahrzeuge oft nur minimale Versicherungen für Personenschäden haben, sollte unbedingt eine zusätzliche Kaskoversicherung abgeschlossen werden.  
 Übliche verkehrsrechtliche Grundsätze und Vorschriften finden wenig Beachtung. Technischer Zustand und insbesondere die Beleuchtung von Fahrzeugen sind oft mangelhaft.  
 Es gilt die 0,0-Promillegrenze.  
 Bei Individualreisen mit eigenem Fahrzeug – von denen aufgrund der o.g. Hinweise derzeit ohnehin weitgehend abgeraten wird – ist zu beachten, dass die Versorgung mit Treibstoff (insbesondere Diesel) nicht in allen Gebieten Ägyptens uneingeschränkt sichergestellt ist.
 
-* Beachten Sie die bestehende **Teilreisewarnung**.
+* Beachten Sie die bestehende **Teilreisewarnung.**
 * Verhalten Sie sich im Straßenverkehr auch als Fußgänger besonders vorsichtig.
 * Überzeugen Sie sich bei Anmietung von Ausstattung und Fahrzeugen des technischen Zustands und der Wartung.
 * Vermeiden Sie Nachtfahrten.
@@ -167,7 +152,7 @@ Nicht offiziell genehmigte Demonstrationen und Proteste sind verboten, die Teiln
 
 ### Geld/Kreditkarten
 
-Landeswährung ist das ägyptische Pfund (EGP). Die Bezahlung mit Kreditkarten ist in den von Touristen frequentierten Hotels und Lokalen üblicherweise möglich. Das Abheben von Bargeld an Geldautomaten ist meist mit Kreditkarte, mit den regulären Debitkarten (Girocard) nur bei Banken, möglich.
+Landeswährung ist das ägyptische Pfund (EGP). Die Bezahlung mit Kreditkarten ist in den von Touristen frequentierten Hotels und Lokalen üblicherweise möglich. Das Abheben von Bargeld an Geldautomaten ist meist mit Kreditkarte, mit Debitkarten (Girocard) nur bei Banken, möglich.
 
 ## Einreise und Zoll
 
@@ -183,9 +168,9 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 * **Reisepass:** Ja
 * **Vorläufiger Reisepass:** Ja
-* **Personalausweis:** Ja, aber siehe Anmerkungen
+* **Personalausweis:** Ja, aber siehe Anmerkungen zur Mindestrestgültigkeit
 * **Vorläufiger Personalausweis:** Nein
-* **Kinderreisepass:** Ja\*, nicht mit manuell geänderter Gültigkeit
+* **Kinderreisepass:** Ja\*, nicht jedoch mit manuell geänderter Gültigkeit
 
 **Anmerkungen:** 
 
@@ -202,13 +187,13 @@ Deutsche Staatsangehörige benötigen für die Einreise ein Visum.
 Das Visum kann vor der Einreise bei einer ägyptischen Auslandsvertretung oder bei Einreise („on arrival“) beantragt werden.
 
 * Beachten Sie, dass es sich bei  „Visa on arrival“ grundsätzlich um Tourismusvisa handelt.
-* Klären Sie ggf. bei der für Sie zuständigen [ägyptischen Auslandsvertretung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/aegypten-node/vertretungenaegypten/212612) vorab, welche Visumkategorie Sie für Ihren Reisezweck benötigen.
+* Klären Sie ggf. bei der für Sie zuständigen [ägyptischen Auslandsvertretung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/aegypten-node/vertretungenaegypten/212612) vorab, welche Visumskategorie Sie für Ihren Reisezweck benötigen.
 
 #### *Visum vor der Einreise*
 
-Gegen eine Gebühr von 25 EUR zuzüglich einer Bearbeitungsgebühr von 3 EUR (für ein einfaches Touristen-Visum) erteilen die ägyptische Botschaft in Berlin und die Generalkonsulate in Frankfurt und Hamburg auf Antrag Visa. Weitere Informationen bietet die [Botschaft der Arabischen Republik Ägypten in Berlin.](https://egyptian-embassy.de/index.php/konsulat/visa-auswahl-formular)
+Gegen eine Gebühr von 25 EUR zuzüglich einer Bearbeitungsgebühr von 3 EUR (für ein einfaches Touristenvisum) erteilen die ägyptische Botschaft in Berlin und die Generalkonsulate in Frankfurt und Hamburg auf Antrag Visa. Weitere Informationen bietet die [Botschaft der Arabischen Republik Ägypten in Berlin.](https://egyptian-embassy.de/index.php/konsulat/visa-auswahl-formular)
 
-#### *Visa bei Einreise (on arrival)*
+#### *Visum bei Einreise (on arrival)*
 
 Die Gebühr beträgt für eine einfache Einreise 25 USD (bzw. entsprechender Gegenwert in EUR), für mehrfache Einreisen 60 USD, und ist an offiziellen Bankschaltern vor Erreichen der Passschalter zu entrichten. Abweichungen der Gebühren vor Ort sind möglich.
 
@@ -218,7 +203,7 @@ Gesetzliche Regelungen in Ägypten erlauben Charterflüge mit dem Ausland nur al
 
 ### Hinweise für Doppelstaater
 
-Reisende, auch minderjährige Kinder, die neben der deutschen zugleich auch die ägyptische Staatsangehörigkeit besitzen, z.B. durch Abstammung von einem ägyptischen Elternteil, werden entsprechend der allgemeinen internationalen Praxis in Ägypten ausschließlich als Ägypter behandelt. Personen mit einer solchen doppelten Staatsangehörigkeit unterliegen uneingeschränkt den ägyptischen Gesetzen, sobald sie sich in Ägypten aufhalten (u.a. Wehrpflicht, familienrechtliche Bestimmungen).
+Reisende, auch minderjährige Kinder, die neben der deutschen auch die ägyptische Staatsangehörigkeit besitzen, z.B. durch Abstammung von einem ägyptischen Elternteil, werden entsprechend der allgemeinen internationalen Praxis in Ägypten ausschließlich als Ägypter behandelt. Personen mit einer solchen doppelten Staatsangehörigkeit unterliegen uneingeschränkt den ägyptischen Gesetzen, sobald sie sich in Ägypten aufhalten (u.a. Wehrpflicht, familienrechtliche Bestimmungen).
 
 ### Einreise aus Israel
 
@@ -228,19 +213,19 @@ Möchte man hingegen weitere Teile Ägyptens bereisen, ist das Visum zuvor in De
 
 ### Minderjährige
 
-Nach ägyptischem Recht dürfen minderjährige Kinder (unter 21 Jahren), die (auch) die ägyptische Staatsangehörigkeit besitzen, ohne Zustimmung des (ägyptischen) Vaters nicht ausreisen. Konsularische Hilfe durch die deutsche Botschaft in Kairo ist für diesen Personenkreis in der Regel nicht möglich.
+Nach ägyptischem Recht dürfen Minderjährige (unter 21 Jahren), die (auch) die ägyptische Staatsangehörigkeit besitzen, ohne Zustimmung des (ägyptischen) Vaters nicht ausreisen. Konsularische Hilfe durch die deutsche Botschaft in Kairo ist für diesen Personenkreis in der Regel nicht möglich.
 
 ### Einfuhrbestimmungen
 
 Fremdwährungen sind ab einem Gegenwert von 10.000 USD bei Einreise zu deklarieren. Die Wiederausfuhr von Beträgen über diesem Wert ist nur bei erfolgter Deklarierung bei Einreise erlaubt.
 
-Die Einfuhr von ägyptischer Währung nach Ägypten ist nur in begrenztem Umfang gestattet. Über die aktuellen Einfuhrgrenzen unterrichtet die [ägyptische Tourismusbehörde.](http://egypt.travel/en/before-visit#!)
+Die Einfuhr ägyptischer Währung nach Ägypten ist nur in begrenztem Umfang gestattet. Über die aktuellen Einfuhrgrenzen unterrichtet die [ägyptische Tourismusbehörde.](http://egypt.travel/en/before-visit#!)
 
 Die Nichtbeachtung der geltenden Vorschriften zur Ein- und Ausfuhr von Bargeld kann zu strafrechtlicher Verfolgung inklusive Festnahme sowie Beschlagnahmung des Bargeldes führen.
 
-In Ägypten besteht wie in vielen anderen Ländern ein striktes Ausfuhrverbot u.a. für alle antiken Gegenstände sowie für eine Vielzahl von unter Natur- und Artenschutz stehenden Pflanzen und Tieren (z.B. Korallen, Muscheln, versteinertes Holz), auch wenn diese scheinbar legal käuflich erworben wurden. Auch die Wiederausfuhr von ägyptischen Altertümern, die von nach Ägypten einreisenden Ausländern mitgebracht werden, ist nicht gestattet, selbst wenn diese Gegenstände im Herkunftsland auf legalem Wege erworben wurden und dafür ein Nachweis erbracht werden kann.
+In Ägypten besteht wie in vielen anderen Ländern ein striktes Ausfuhrverbot u.a. für alle antiken Gegenstände sowie für eine Vielzahl von unter Natur- und Artenschutz stehenden Pflanzen und Tieren (z.B. Korallen, Muscheln, versteinertes Holz), auch wenn diese scheinbar legal käuflich erworben wurden. Auch die Wiederausfuhr ägyptischer Altertümer, die von nach Ägypten einreisenden Ausländern mitgebracht werden, ist nicht gestattet, selbst wenn diese Gegenstände im Herkunftsland auf legalem Wege erworben wurden und dafür ein Nachweis erbracht werden kann.
 
-Die Einfuhr von Drohnen ohne eine vorher einzuholende Genehmigung der ägyptischen Zivilluftfahrtbehörde ist untersagt. Bei Feststellung im Rahmen der Einreisekontrollen durch den Zoll werden die Drohnen beschlagnahmt und es kann zu Verhaftungen und Strafverfolgung kommen, siehe auch Besondere strafrechtliche Vorschriften.
+Die Einfuhr von Drohnen ohne eine vorher einzuholende Genehmigung der ägyptischen Zivilluftfahrtbehörde ist untersagt. Bei Feststellung im Rahmen der Einreisekontrollen durch den Zoll werden Drohnen beschlagnahmt, und es kann zu Verhaftungen und Strafverfolgung kommen, siehe auch Reiseinfos - *Rechtliche Besonderheiten*.
 
 Auch bei der Einfuhr von Tauch- und Schnorchelrobotern, Walkie-Talkies und bestimmten GPS-fähigen Geräten (ausgenommen persönlich genutzte Smartphones) kann es bei der Einreise, ohne die entsprechenden Genehmigungen, zu Problemen bis hin zur Beschlagnahmung der betreffenden Geräte und strafrechtlicher Verfolgung kommen.
 
@@ -277,7 +262,7 @@ Dengue-Viren werden an der Küste zum Roten Meer (überwiegend Hurghada, vereinz
 
 Die Prävalenz von HIV im Land ist mit weniger als 0,1 % gering. Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) und Bluttransfusionen besteht grundsätzlich ein hohes Risiko.
 
-* Verwenden Sie stets Kondome.
+* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 
 ### Durchfallerkrankungen (u.a. EHEC-Erkrankung)
 
