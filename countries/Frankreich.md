@@ -10,9 +10,7 @@ Einschließlich **Französische Überseegebiete**
 
 **Von nicht unbedingt notwendigen Reisen nach Martinique wird derzeit abgeraten.**
 
-Im französischen Überseegebiet Martinique ist die Lage vor dem Hintergrund von Demonstrationen wegen hoher Lebenshaltungskosten weiterhin angespannt.
-
-Es besteht weiterhin eine nächtliche Ausgangssperre für die Gemeinden Fort-de-France, Case-Pilote, Lamentin, Saint-Joseph und Schoelcher.
+Im französischen Überseegebiet Martinique ist die Lage vor dem Hintergrund von Demonstrationen wegen hoher Lebenshaltungskosten weiterhin angespannt.  
 
 * Bitte informieren Sie sich bei der [Präfektur von Martinique](https://www.martinique.gouv.fr/) bzw. über die Medien über die aktuelle Lage und planen Sie Ihren Aufenthalt entsprechend.
 * Verhalten Sie sich umsichtig und meiden Sie Demonstrationen.
