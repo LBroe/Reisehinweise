@@ -144,7 +144,7 @@ Taschendiebstähle und das Entwenden von Gepäck vor dem Addis Abeba Bole Intern
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Vermeiden Sie Konfrontationen, die zu Gewaltanwendung gegen Sie führen könnten.
 * Führen Sie stets mehrere Kopien des Reisepasses mit, wenn Sie Wohnraum oder Mietwagen vor Ort anmieten möchten (siehe auch *Reiseinfos* *Führerschein*).
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Überlegen Sie, während des Aufenthalts in Äthiopien statt eines hochwertigen Smartphones ein günstiges, ggf. gebrauchtes Gerät mitzuführen.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, im Bus besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Legen Sie bei der Durchleuchtung Ihres Gepäcks am Flughafen Wertgegenstände wie Armbanduhren oder Mobiltelefone nicht einfach in den Behälter, sondern in ein verschließbares Gepäckstück.
@@ -338,7 +338,7 @@ Aus Äthiopien dürfen ohne Genehmigung des Nationalmuseums keine Gegenstände a
 
 Bei der Ausfuhr von Steinen, Pflanzen, Gewürzen oder Pflanzenteilen und Tierprodukten (Leder, Federn etc.) kann es zu Problemen kommen.
 
-Für die Ausfuhr von Tee und Kaffee im Reisegepäck beträgt die Höchstmenge pro Person 2 kg; darüber hinausgehende Mengen können beschlagnahmt werden. Einkauf im Duty-free-Bereich des Flughafens auch größerer Mengen möglich. Weitere Informationen erteilt die äthiopische [Kaffee- und Teebehörde](https://www.facebook.com/EthioCTA/about) [E-Mail](mailto:ectacomm@gmail.com): ectacomm@gmail.com
+Für die Ausfuhr von Tee und Kaffee im Reisegepäck beträgt die Höchstmenge pro Person 2 kg; darüberhinausgehende Mengen können beschlagnahmt werden. Einkauf im Duty-free-Bereich des Flughafens auch größerer Mengen möglich. Weitere Informationen erteilt die äthiopische [Kaffee- und Teebehörde](https://www.facebook.com/EthioCTA/about) [E-Mail](mailto:ectacomm@gmail.com): ectacomm@gmail.com
 
 #### *Vorübergehende Einfuhr von Kraftfahrzeugen*
 
@@ -351,6 +351,10 @@ Für Informationen hinsichtlich der Zoll- und sonstigen Formalitäten sollten Si
 Bei der Einfuhr von Katzen und Hunden ist eine Tollwutimpfung erforderlich, die älter als 30 Tage, aber nicht älter als ein Jahr sein muss. Andere Tiere benötigen ein aktuelles amtstierärztliches Zeugnis, um die Einfuhrerlaubnis zu erhalten. Weitere Informationen sollten Sie bei der [äthiopischen Botschaft in Berlin](http://aethiopien-botschaft.de/home2/) erfragen.
 
 ## Gesundheit
+
+### Aktuelles
+
+2024 wurden im Vergleich zu den Vorjahren deutlich mehr Malariafälle gemeldet, mit einem zusätzlich signifikanten Anstieg der Fallzahlen seit September. Dabei sind insbesondere die Regionen Oromia, Amhara und der Süden des Landes besonders stark betroffen. Äthiopien ist ganzjährig Hochrisikogebiet für Malaria in Regionen ≤ 2.500 Höhenmetern. Reisende sollten daher konsequent auf Mückenschutz achten und eine Malariaprophylaxe einnehmen, siehe *Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen.*
 
 ### Impfschutz
 
@@ -369,7 +373,7 @@ Die medizinische Versorgung in Äthiopien ist nicht mit der Versorgung in Deutsc
 
 ### Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen
 
-[Gelbfieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") und [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") sind schwerwiegende Erkrankungen, die durch Mücken übertragen werden. Der Anteil der gefährlichen Malaria tropica (*P. falciparum*) und Mischinfektionen beträgt 66%, 18% entfallen auf Malaria tertiana (*Plasmodium vivax*). Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Athiopien_Kenia.pdf) zur Verfügung. Das Malariarisiko ist saisonal und regional unterschiedlich:
+[Gelbfieber](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") und [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") sind schwerwiegende Erkrankungen, die durch Mücken übertragen werden. Der Anteil der gefährlichen Malaria tropica (*P. falciparum*) und Mischinfektionen beträgt 76%, 22% entfallen auf Malaria tertiana (*Plasmodium vivax*), 2% auf andere. Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Athiopien_Kenia.pdf) zur Verfügung. Das Malariarisiko ist regional unterschiedlich:
 
 * Ganzjährig hohes Risiko: unterhalb von 2.500 Hm im ganzen Land inklusive der Stadt Lalibela
 * Ganzjährig geringes Risiko: Addis Abeba, Höhenlagen oberhalb 2.500 Hm
@@ -378,7 +382,7 @@ Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjähr
 
 * Schützen Sie sich tagsüber, in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten").
 * Es gibt eine Impfung gegen Gelbfieber und Denguefieber. Lassen Sie sich bzgl. Ihres persönlichen Risikos beraten.
-* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
+* Zur Verhinderung einer Malaria wird in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Malariaprophylaxe empfohlen. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### Erkrankungen im Zusammenhang mit mangelnder Hygiene
 
@@ -386,7 +390,7 @@ Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können 
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise").
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
-* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Bei Aufenthalten über 4 Wochen sollte laut WHO-Vorgaben eine Impfung 4 Wochen bis 12 Monate vor Ausreise aus dem betroffenen Land erfolgen. Bei einem Aufenthalt unter 4 Wochen ist eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis").
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Bei Aufenthalten ≥ 4 Wochen sollte laut WHO-Vorgaben eine Impfung 4 Wochen bis 12 Monate vor Ausreise aus dem betroffenen Land erfolgen. Bei einem Aufenthalt < 4 Wochen ist eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis").
 * Lassen sich hinsichtlich einer Cholera-Impfung beraten, falls Sie längerfristig in Choleraepidemiegebieten z.B. als medizinisches Personal oder in der Katastrophenhilfe tätig sind.
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
