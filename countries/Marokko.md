@@ -201,8 +201,6 @@ Mpox, eine durch das Mpox-Virus verursachte Erkrankung, breitet sich seit 2022 g
 
 ### Impfschutz
 
-Für die Einreise aus Ländern mit aktuellem Poliomyelitis-Ausbruch, siehe auch [Poliomyelitis,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") wird ein internationaler Impfnachweis über eine Polioimpfung eingefordert, die 12 Monate bis vier Wochen vor Ausreise aus dem Land mit Poliomyelitis-Ausbruch durchgeführt wurde.
-
 Für die direkte Einreise aus Deutschland sind keine Impfungen vorgeschrieben.
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden.
@@ -212,23 +210,7 @@ Für die direkte Einreise aus Deutschland sind keine Impfungen vorgeschrieben.
 
 ### Malaria
 
-Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche *Malaria tropica* bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe auch [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria").
-
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
-
-Aus Casablanca wurden zuletzt im Jahr 2010 drei lokal erworbene Infektionen mit *Plasmodium falciparum* (Malaria tropica) gemeldet. Vor dem Auftreten dieser Fälle galt Marokko laut WHO als malariafrei und ist es seitdem auch wieder.  
-Es gibt derzeit kein relevantes Risiko für Reisende, so dass eine Expositionsprophylaxe (s.u.) ausreichend ist.
-
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
-
-* Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
-* Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
-
-Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
-
-* Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
-* Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
+Aus Casablanca wurden zuletzt im Jahr 2010 drei lokal erworbene Infektionen mit *Plasmodium falciparum* (Malaria tropica) gemeldet. Vor dem Auftreten dieser Fälle galt Marokko laut WHO als malariafrei und ist es seitdem auch wieder.
 
 ### HIV/AIDS
 
@@ -248,11 +230,13 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe a
 * Waschen Sie sich so oft wie möglich mit Seife die Hände, stets jedoch vor der Essenszubereitung und vor dem Essen.
 * Wenn möglich, desinfizieren Sie Ihre Hände mit Flüssigdesinfektionsmittel.
 
-### Cholera
+### Tollwut
 
-Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel übertragen und kann daher gut durch entsprechende Lebensmittel- und Trinkwasserhygiene vermieden werden. Nur ein kleiner Teil der an Cholera infizierten Menschen erkrankt und von diesen wiederum die Mehrzahl mit einem vergleichsweise milden Verlauf. Die Indikation für eine Choleraimpfung ist nur sehr selten gegeben, in der Regel nur bei besonderen Expositionen wie z.B. der Arbeit im Krankenhaus mit Cholerapatienten, siehe [Cholera.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera")
+Eine Ansteckung mit [Tollwut](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tollwut/2562878 "Tollwut") erfolgt vorrangig über Hunde und spielt aufgrund der Nähe dieser Tiere zu Menschen eine besondere Rolle.
 
-* Lassen Sie sich hinsichtlich Ihres Risikoprofils ggf. durch einen Tropen- oder Reisemediziner beraten.
+* Meiden Sie grundsätzlich den Kontakt zu Tieren.
+* Lassen Sie sich vor Reisebeginn bzgl. einer Tollwutimpfung beraten.
+* Sollten Sie von einem Hund gebissen werden, begeben Sie sich umgehend in ärztliche Betreuung. Tollwut-Impfstoff und Immunglobuline sind im Land verfügbar.
 
 ### Weitere Infektionskrankheiten
 
