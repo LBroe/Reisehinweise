@@ -8,21 +8,20 @@
 
 ### *Demonstrationen, Proteste und Streiks*
 
-Der langjährige Bürgerkrieg mit teilweise gewalttätigen Feindseligkeiten zwischen Vertretern der Parteien FRELIMO und RENAMO wurde mit dem Waffenstillstandsvertrag 2016 und dem Friedensvertrag von 2019 beendet.
+Seit Bekanntgabe der Wahlergebnisse der Präsidentschafts-, Parlaments- und Gouverneurswahlen vom 9. Oktober 2024 kommt es immer wieder zu (auch unangekündigten) Demonstrationen und zu Zusammenstößen mit Sicherheitskräften, auch mit Todesfolge.
 
-Im Anschluss an die Kommunalwahlen im Oktober 2023 kam es landesweit zu Demonstrationen, teils auch zu Zusammenstößen mit Sicherheitskräften.
+Für den 7. November 2024 ist eine Großdemonstration in Maputo angekündigt. Es wird empfohlen, den Großraum Maputo zu meiden bzw. in Maputo an diesem Tag möglichst seinen Aufenthaltsort nicht zu verlassen.
 
-Am 9. Oktober 2024 fanden Präsidentschafts-, Parlaments- und Gouverneurswahlen statt. Am 18. Oktober 2024 wurden zwei Mitglieder der Opposition ermordet. Seit Bekanntgabe der Wahlergebnisse kommt es immer wieder zu (auch unangekündigten) Demonstrationen. Vom 31. Oktober bis 7. November 2024 wurden ein landesweiter Streik, insbesondere in der Hauptstadt Maputo, sowie Protestaktionen angekündigt.
-
-Gewalttätige Auseinandersetzungen und Vandalismus können nicht ausgeschlossen werden.
-
-* Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
+* Meiden Sie Demonstrationen, größere Menschenansammlungen und Protestmärsche weiträumig.
 * Meiden Sie in Ortschaften weiträumig Parteizentralen und Büros der Wahlbehörde.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+* Überprüfen Sie, sofern möglich, die Verlässlichkeit und die Quelle Ihrer Informationen, da aktuell viel Desinformation im Umlauf ist.
+
+Gewalttätige Auseinandersetzungen und Vandalismus können auch für die folgenden Tage nicht ausgeschlossen werden. Mehrfach wurde als Folge von Protestaktionen bereits der Grenzübergang Ressano Garcia/Lebombo zwischen Mosambik und Südafrika geschlossen.
 
 Durch anhaltende Streiks kann es zu Versorgungsengpässen kommen. Auch Tankstellen können betroffen sein. Es wird daher geraten, Vorräte aufzustocken und stets mit vollem Tank zu fahren.
 
-Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen. **Von nicht notwendigen Überlandfahrten wird daher vom 31. Oktober bis 7. November 2024 abgeraten.**
+Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen. **Von nicht notwendigen Überlandfahrten wird daher bis 7. November 2024 abgeraten.**
 
 * Informieren Sie sich regelmäßig und in kurzen Abständen über die lokalen Medien.
 * Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.

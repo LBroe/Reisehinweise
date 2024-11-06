@@ -6,8 +6,7 @@
 
 ### Terrorismus
 
-Trotz erheblicher Sicherheitsmaßnahmen besteht das Risiko terroristischer Angriffe.  
-2018 wurden zwei Touristinnen auf einer Wandertour in der Nähe des Mont Toubkal im Atlasgebirge Opfer eines Gewaltverbrechens mit terroristischem Hintergrund.
+Trotz erheblicher Sicherheitsmaßnahmen besteht das Risiko terroristischer Angriffe.
 
 * Vermeiden Sie, alleine und abseits von Straßen zu reisen.
 * Unternehmen Sie Trekking-Touren in den Bergregionen und Offroad-Touren in den Wüstengebieten (Zagora/Merzouga) grundsätzlich nur in einer Gruppe und mit registrierten landeskundigen Reiseführern.
@@ -90,7 +89,7 @@ Im Straßenverkehr ist große Vorsicht geboten. Autofahrer, Radfahrer und Fußg�
 
 ### Führerschein
 
-Der nationale deutsche Führerschein ist für einen Aufenthalt bis zu einem Jahr ausreichend. Bei längerem Aufenthalt muss ein marokkanischer Führerschein beantragt werden.
+Der nationale deutsche Führerschein wird für einen Aufenthalt bis zu einem Jahr anerkannt. Bei längerem Aufenthalt muss ein marokkanischer Führerschein beantragt werden.
 
 ### Besondere Verhaltenshinweise/Ramadan
 
@@ -100,11 +99,11 @@ Außereheliche Beziehungen sind gesetzlich strafbar. Es ist nicht ungewöhnlich,
 
 Alkohol kann in bestimmten Geschäften gekauft werden. Er wird in Städten auch in einigen Hotels und Restaurants serviert. Allerdings ist es nicht erlaubt, Alkohol auf der Straße und an anderen Orten als in einem zugelassenen Restaurant oder einer Bar zu trinken. Ein Verstoß kann zur Verhaftung führen.
 
-Während des Fastenmonats Ramadan ist außerhalb der Touristenzentren mit Einschränkungen im Alltag (z.B. tagsüber Schließung von Restaurants, reduzierte Arbeitszeiten bei Behörden) und mit erhöhter Sensibilität in Fragen des Respekts islamischer Traditionen zu rechnen. Es wird empfohlen, in der Öffentlichkeit nicht zu essen, zu trinken oder zu rauchen. In Restaurants, die tagsüber Speisen anbieten, ist dies selbstverständlich möglich.
+Während des Fastenmonats Ramadan ist außerhalb der Touristenzentren mit Einschränkungen im Alltag (z.B. tagsüber Schließung von Restaurants, reduzierte Arbeitszeiten bei Behörden) und mit erhöhter Sensibilität in Fragen des Respekts islamischer Traditionen zu rechnen. Es wird empfohlen, vom Sonnenauf- bis -untergang in der Öffentlichkeit nicht zu essen, zu trinken oder zu rauchen. In Restaurants, die tagsüber Speisen anbieten, ist dies selbstverständlich möglich.
 
 ### Streunende Hunde
 
-Es gibt vereinzelt Berichte über Angriffe streunender Hunde auf Menschen, die teilweise sogar tödlich enden können. In jüngster Zeit gab es mehrere Todesfälle aufgrund von Tollwuterkrankungen nach Hundebissen.
+Es gibt vereinzelt Berichte über Angriffe streunender Hunde auf Menschen, die teilweise sogar tödlich enden können. Es sind mehrere Todesfälle aufgrund von Tollwuterkrankungen nach Hundebissen bekannt.
 
 * Halten Sie stets Abstand zu einzelnen und v.a. Gruppen streunender Hunde und nähern Sie sich ihnen in keinem Fall.
 
@@ -133,7 +132,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Marokkos sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Aktuelle Informationen bietet auch die Nationale Flughafenbehörde [ONDA](https://www.onda.ma/fr/Je-suis-Passager/Guide-du-voyageur/Coronavirus-d%C3%A9couvrez-nos-mesures) (Office National des Aéroports). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Marokkos sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -147,7 +146,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 **Anmerkungen/Mindestrestgültigkeit:** 
 
-Reisedokumente müssen nach einer Auskunft des marokkanischen Außenministeriums vom 18. Juni 2024 zum Zeitpunkt der Einreise noch sechs Monate gültig sein. Einzelfallentscheidungen sind möglich, begründen aber keinen Anspruch auf Einreise mit einem Reisedokument kürzerem Ablaufdatums. Die Ausreise mit einem abgelaufenen Reisepass ist nicht möglich.
+Reisedokumente müssen nach einer Auskunft des marokkanischen Außenministeriums vom Juni 2024 zum Zeitpunkt der Einreise noch sechs Monate gültig sein. Einzelfallentscheidungen sind möglich, begründen aber keinen Anspruch auf Einreise mit einem Reisedokument kürzerem Ablaufdatums. Die Ausreise mit einem abgelaufenen Reisepass ist nicht möglich.
 
 Die Einreise mit einem deutschen Personalausweis ist **nicht** möglich. Reisende, die nur über einen Personalausweis verfügen (auch im Rahmen von Touristengruppen oder Charterflügen), können nicht nach Marokko einreisen und müssen den nächstmöglichen Flug zurücknehmen. Die Ausstellung eines Passersatzpapiers durch die Deutsche Botschaft Rabat ist in diesen Fällen nicht möglich.
 
