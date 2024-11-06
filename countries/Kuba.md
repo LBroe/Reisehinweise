@@ -2,9 +2,11 @@
 
 ## Aktuelles
 
-Am 17. Oktober 2024 hat die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert.  Es wird empfohlen, Reisen nach Kuba umsichtig vorzubereiten und die Notwendigkeit der Reise sorgsam zu prüfen.
+Schon am 17. Oktober 2024 hatte die kubanische Regierung die Bevölkerung über eine weitere Verschlechterung der Energiesituation im Land informiert. Es wird empfohlen, Reisen nach Kuba umsichtig vorzubereiten und die Notwendigkeit der Reise sorgsam zu prüfen.
 
-Nach einem dreitägigen vollständigen Ausfall der Stromversorgung ist diese seit 22. Oktober 2024 teilweise wiederhergestellt. Dennoch kommt es, auch in Touristenzentren wie Varadero immer wieder zu langanhaltenden Stromausfällen, Problemen bei der Wasserversorgung und landesweit zu Einschränkungen des öffentlichen Lebens. Durchgehende Stromversorgung gibt es nur in Gebäuden mit Generatoren, soweit diese über Treibstoff verfügen. Rettungsdienste funktionieren grundsätzlich weiterhin; allerdings muss mit zusätzlichen Einschränkungen in der medizinischen Versorgung gerechnet werden. Viele öffentliche Einrichtungen sind geschlossen oder ohne Klimatisierung. Straßen und Wege bleiben nachts unbeleuchtet, öffentliche Verkehrsmittel fahren nicht oder nur eingeschränkt. Es kommt zu Internet- und Mobilfunkausfällen. Die Lebensmittelkühlung kann unter Umständen nicht durchgehend sichergestellt werden; teilweise besteht keine Versorgung mit Warmwasser. Derzeit sind auch das Kartenzahlungssystem und die Geldversorgung über Automaten teilweise gestört. Nur wenige Banken sind geöffnet; es ist dort mit sehr langen Wartezeiten zu rechnen. Auch das Tankstellennetz funktioniert nur mit Einschränkungen.
+Die Stromversorgung in der Hauptstadt Havanna und in den touristischen Zentren (z. B. Varadero) ist seitdem größtenteils wiederhergestellt. Dennoch kann es dort auch weiterhin zu längeren Stromabschaltungen kommen.
+
+In anderen Teilen Kubas ist die Energiesituation z.T. noch angespannter. Bei Stromausfällen ergeben sich häufig zusätzliche Probleme bei der Wasserversorgung und es kommt zu Einschränkungen des öffentlichen Lebens. Durchgehende Stromversorgung gibt es nur in Gebäuden mit Generatoren, soweit diese über Treibstoff verfügen. Rettungsdienste funktionieren grundsätzlich weiterhin; allerdings muss mit zusätzlichen Einschränkungen in der medizinischen Versorgung gerechnet werden. Viele öffentliche Einrichtungen sind geschlossen oder ohne Klimatisierung. Straßen und Wege bleiben nachts unbeleuchtet, öffentliche Verkehrsmittel fahren nicht oder nur eingeschränkt. Es kommt zu Internet- und Mobilfunkausfällen. Die Lebensmittelkühlung kann unter Umständen nicht durchgehend sichergestellt werden; teilweise besteht keine Versorgung mit Warmwasser. Zeitweise sind auch das Kartenzahlungssystem und die Geldversorgung über Automatengestört. Nur wenige Banken sind geöffnet; es ist dort mit sehr langen Wartezeiten zu rechnen. Auch das Tankstellennetz funktioniert nur mit Einschränkungen.
 
 * Informieren Sie sich über die lokalen und internationalen Medien und die sozialen Medien über die Lage.
 * Folgen Sie stets den Anweisungen der lokalen Behörden.
@@ -54,10 +56,10 @@ Ausländische Personen müssen jederzeit in der Lage sein, sich auszuweisen (Pas
 
 Kuba liegt in einer seismisch aktiven Zone, sodass es zu Erdbeben kommen kann.
 
-In Mexiko, in Zentralamerika, der Karibik und den südlichen Bundesstaaten der USA ist von Mai bis November Hurrikan-Saison. Reisende müssen in dieser Zeit mit Tropenstürmen, die Hurrikan-Stärke erreichen können, intensiven Regenfällen, Überschwemmungen und Einschränkungen der Infrastruktur rechnen.
+In Mexiko, in Zentralamerika, der Karibik und den südlichen Bundesstaaten der USA ist von Mai bis November Hurrikansaison. Reisende müssen in dieser Zeit mit Tropenstürmen, die Hurrikanstärke erreichen können, intensiven Regenfällen, Überschwemmungen und Einschränkungen der Infrastruktur rechnen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Verfolgen Sie, insbesondere in der Hurrikan-Saison, regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen, z.B. über das [Instituto Meteorología de Cuba](http://www.insmet.cu/) oder das [National Hurricane Center.](https://www.nhc.noaa.gov/)
+* Verfolgen Sie, insbesondere in der Hurrikansaison, regelmäßig Wetterberichte und achten Sie auf Sturmwarnungen, z.B. über das [Instituto Meteorología de Cuba](http://www.insmet.cu/) oder das [National Hurricane Center.](https://www.nhc.noaa.gov/)
 * Beachten Sie die [Hinweise zu „Wirbelstürmen im Ausland"](https://studio.auswaertiges-amt.de/blueprint/servlet/page/de/ReiseUndSicherheit/-/200794) im Fall einer Sturmwarnung.
 * Machen Sie sich mit Verhaltenshinweisen bei Erdbeben und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums.](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis")
 
