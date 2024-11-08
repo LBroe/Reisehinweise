@@ -2,16 +2,6 @@
 
 ## Aktuelles
 
-### *Marburg-Virus-Ausbruch*
-
-Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über einen Marburg-Virus-Ausbruch, der sich insbesondere auf die Hauptstadt Kigali konzentriert. Dabei ist v.a. medizinisches Personal betroffen. Durch umfassende Maßnahmen durch die zuständigen Behörden konnte der Ausbruch weitgehend eingedämmt werden. 
-
-Das Marburg-Virus kann durch Flughunde und Fledermäuse (beides Reservoirs) und andere infizierte Wildtiere, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen. Weitere Informationen zum [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") und zum Vorgehen bei Verdacht auf eine Infektion oder bei Kontakt zu einer am [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") erkrankten Personen auf den [Seiten des RKI,](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Marburgvirus.html) ebenso weitere [Empfehlungen des RKI](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Poster-Reisende.pdf?__blob=publicationFile) für aus den Risikogebieten nach Deutschland Einreisende.
-
-Aufgrund des Marburg-Virus-Ausbruch werden in Geschäften und bei Veranstaltungen z.T. Temperaturmessungen durchgeführt, Handwaschstationen und Desinfektionsmittel zählen vor Einlass zu den Hygienestandards.
-
-Vor Ausreise wird an den Grenzen ebenfalls eine Temperaturmessung durchgeführt. Ergänzend sind Reisende aufgefordert, einen Fragebogen zu möglichen Symptomen des Marburg-Virus auszufüllen.
-
 ### *Sicherheitslage im Grenzgebiet*
 
 Die Sicherheitslage im Osten der Demokratischen Republik Kongo an der Grenze zu Ruanda ist weiterhin schlecht. Es kommt immer wieder zu Kämpfen zwischen der kongolesischen Armee und bewaffneten Gruppen, wie z.B. M23, im Grenzgebiet zu Ruanda.
@@ -170,7 +160,15 @@ Für Reisen mit bestimmten Heimtieren (z.B. Hunde, Katzen) sind eine Herkunftsbe
 
 ### Aktuelles
 
-Siehe *Aktuelles* (Marburg-Virus-Ausbruch)
+#### *Marburg-Virus-Ausbruch*
+
+Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über einen [Marburg-Virus-](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus")Ausbruch in der Hauptstadt. Durch umfassende Maßnahmen durch die zuständigen Behörden konnte der Ausbruch weitgehend eingedämmt werden, es kommt nur noch vereinzelt zu Fällen. 
+
+Das Marburg-Virus kann durch Flughunde und Fledermäuse (beides Reservoirs) und andere infizierte Wildtiere, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen. Weitere Informationen zum [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") und zum Vorgehen bei Verdacht auf eine Infektion oder bei Kontakt zu einer an [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") erkrankten Personen finden Sie auf den [Seiten des RKI,](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Marburgvirus.html) ebenso weitere [Empfehlungen des RKI](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Poster-Reisende.pdf?__blob=publicationFile) für aus den Risikogebieten nach Deutschland Einreisende.
+
+Aufgrund des Marburg-Virus-Ausbruch werden in Geschäften und bei Veranstaltungen z.T. Temperaturmessungen durchgeführt, Handwaschstationen und Desinfektionsmittel zählen vor Einlass zu den Hygienestandards.
+
+Vor Ausreise wird an den Grenzen ebenfalls eine Temperaturmessung durchgeführt. Ergänzend sind Reisende aufgefordert, einen Fragebogen zu möglichen Symptomen des Marburg-Virus auszufüllen.
 
 #### *Mpox*
 
