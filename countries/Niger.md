@@ -8,8 +8,6 @@
 
 ### *Sicherheitslage in Niamey*
 
-Im Zusammenhang mit den Feierlichkeiten zum Jahrestag des Militärputsches vom 26. Juli 2023 besteht für die ca. einwöchigen Feierlichkeiten eine erhöhte Gefahr terroristischer Anschläge. Nach der landesweiten Zunahme terroristischer Angriffe kann nicht ausgeschlossen werden, dass Terroristen das für die Machthabenden symbolträchtige Datum zum Anlass nehmen, Anschläge auch im Stadtgebiet der Hautstadt Niamey zu verüben.
-
 * **Beachten Sie die geltende Reisewarnung und Ausreiseempfehlung für Niger.**
 * Registrieren Sie sich in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts, wenn Sie sich aktuell in Niger aufhalten bzw. prüfen Sie, ob Ihre dort hinterlegten Daten aktuell sind. Ergänzen Sie diese bei Bedarf. Sollten Sie bereits ausgereist sein oder halten sich urlaubshalber außerhalb des Niger auf, aktualisieren Sie bitte Ihre Daten entsprechend in der Krisenvorsorgeliste (Elefand).
 * Seien Sie vor allem in der Hauptstadt Niamey besonders vorsichtig; bleiben Sie nach Möglichkeit an einem sicheren Standort und vermeiden Sie unnötige Bewegungen im Stadtgebiet.
@@ -59,11 +57,7 @@ Darüber hinaus dürfen Ausländer im ganzen Land außerhalb der Städte nur mit
 
 ### Innenpolitische Lage
 
-Am 28. Juli 2023 hat sich der bisherige Kommandeur der Präsidialgarde, Brigadegeneral Tchiani, zum Staatsoberhaupt der Republik Niger und den 2021 demokratisch gewählten Präsidenten Bazoum für abgesetzt erklärt.
-
-Bis zum Eintritt der aktuellen Lage (siehe auch *Aktuelles – Sicherheitslage in Niamey*) hatte Niger seit 2011 eine vergleichsweise demokratische Entwicklung genommen. Nach Parlaments- und Präsidentschaftswahlen 2020 bzw. 2021 fand der erste verfassungsmäßige Regierungswechsel in der Geschichte des Landes statt. Ein in diesem Zusammenhang unternommener Putschversuch scheiterte bereits im Ansatz; die beteiligten Offiziere wurden 2022 verurteilt.
-
-Niger war und ist gleichwohl von Fragilität geprägt: die Sicherheitskräfte sind überdehnt, die öffentliche Verwaltung ist in der Fläche des Landes nicht ausreichend präsent, der Bevölkerung fehlt es vielfach an wirtschaftlichen Perspektiven. Aufgrund der Klimakrise knapper werdende natürliche Ressourcen führen immer wieder zu Verteilungskonflikten. Auch organisierte Kriminalität, grenzüberschreitender Terrorismus und irreguläre Migration gehen mit starken gesellschaftspolitischen Herausforderungen einher.
+Niger ist von Fragilität geprägt: das Land hat seit Juli 2023 eine militärisch geführte Regierung, die Sicherheitskräfte sind überdehnt, die öffentliche Verwaltung ist in der Fläche des Landes nicht ausreichend präsent, der Bevölkerung fehlt es vielfach an wirtschaftlichen Perspektiven. Aufgrund der Klimakrise knapper werdende natürliche Ressourcen führen immer wieder zu Verteilungskonflikten. Auch organisierte Kriminalität, grenzüberschreitender Terrorismus und irreguläre Migration gehen mit starken gesellschaftspolitischen Herausforderungen einher.
 
 In den nördlichen Landesteilen (im Aïr- und in Teilen des Djado-Gebirges) stellen früher verlegte, noch nicht in allen Gebieten geräumte Landminen eine zusätzliche besondere Gefahr dar. Die betroffenen Zonen sind ortskundigen Führern und dem Militär bekannt und müssen weiträumig umfahren werden.
 
@@ -100,12 +94,11 @@ Siehe *Aktuelles*
 
 Siehe *Aktuelles*
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich bei den offiziellen Stellen Nigers sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich bei den offiziellen Stellen Nigers sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -195,9 +188,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Beachten Sie Warnungen lokaler Behörden.
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
