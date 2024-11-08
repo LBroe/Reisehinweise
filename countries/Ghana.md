@@ -12,11 +12,11 @@
 
 ### *Kriminalität*
 
-In den Provinzen Northern Region, North-East, Savannah Region, Upper West und Upper East wird die Sicherheitslage durch gewalttätige Auseinandersetzungen zwischen lokalen Bevölkerungsgruppen untereinander und mit den eingesetzten Sicherheitskräften beeinträchtigt. Im Januar 2024 ereigneten sich fünf Vorfälle, bei denen insgesamt zwölf Menschen durch Schüsse getötet und weitere Menschen verletzt wurden. Die Angriffe erfolgen auch zur Tageszeit und an zentralen und belebten Orten. Nach Angaben der Polizei soll im selben Zeitraum außerdem ein Anschlag mittels einer Panzerfaust auf eine innerstädtische Tankstelle in Bawku verhindert worden sein.
+In den Provinzen Northern Region, North-East, Savannah Region, Upper West und Upper East wird die Sicherheitslage durch gewalttätige Auseinandersetzungen zwischen lokalen Bevölkerungsgruppen untereinander und mit den eingesetzten Sicherheitskräften beeinträchtigt. Dabei kommt es immer wieder zu Schießereien mit Toten und Verletzten. In einigen Regionen können in diesem Zusammenhang auch kurzfristig Ausganssperren verhängt und Behörden geschlossen werden.
 
 ### *Demonstrationen*
 
-Angesichts der erheblich verschlechterten wirtschaftlichen Lage kann es landesweit vermehrt zu Demonstrationen kommen, insbesondere in den größeren Städten Accra, Kumasi, Tamale und Takoradi. In der Vergangenheit sind diese friedlich verlaufen. Aufgrund der stark gewachsenen Unzufriedenheit der Bevölkerung können gewalttätige Auseinandersetzungen jedoch nicht ausgeschlossen werden.
+Angesichts der erheblich verschlechterten wirtschaftlichen Lage und im Zusammenhang mit den im Dezember 2024 anstehenden Parlaments- und Präsidentschaftswahlen, kann es landesweit vermehrt zu Demonstrationen kommen, insbesondere in den größeren Städten Accra, Kumasi, Tamale und Takoradi. In der Vergangenheit sind diese friedlich verlaufen. Aufgrund der stark gewachsenen Unzufriedenheit der Bevölkerung können gewalttätige Auseinandersetzungen jedoch nicht ausgeschlossen werden.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Informieren Sie sich über die lokalen Medien.
@@ -85,7 +85,7 @@ Auch Kreditkartenbetrug und Trickbetrügereien mit angeblichen Preisnachlässen 
 * Leisten Sie bei einem Überfall keinen Widerstand.
 * Gehen Sie nicht alleine nach Einbruch der Dunkelheit spazieren und vermeiden Sie einsame Strände.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Liebesbekundungen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch und reisen deshalb nicht selbst nach Ghana.
-* Informieren Sie sich über Scamming bei der [deutschen Botschaft in Accra.](https://accra.diplo.de/gh-de/service/internetbetrug/1343030 "Warnung vor Internetbetrug")
+* Informieren Sie sich über Betrugsversuche (Scamming) bei der [deutschen Botschaft in Accra.](https://accra.diplo.de/gh-de/service/internetbetrug/1343030 "Warnung vor Internetbetrug")
 
 ## Natur und Klima
 
@@ -167,7 +167,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Ghanas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Ghanas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://diplo.de/-/2309820).
 
 ### Reisedokumente
 

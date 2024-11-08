@@ -163,7 +163,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
-Für Einreisen mit einem regulären Reisepass können nach Mitteilung der tunesischen Behörden Nachweise über ausreichende finanzielle Mittel zur Deckung der Reise- und Lebenshaltungskosten während des Aufenthaltes erfragt werden.
+Bei Einreise ohne Buchungsbestätigung einer Pauschalreise mit regulärem Reisepass können tunesische Grenzbeamte Nachweise über ausreichende finanzielle Mittel zur Deckung der Reise- und Lebenshaltungskosten während des Aufenthaltes der Reisenden erfragen.
 
 Einreisen mit einem gültigen deutschen Personalausweis nach Tunesien sind nach Mitteilung der tunesischen Behörden nur noch bis 31. Dezember 2024 und ausschließlich unter der Voraussetzung möglich, dass die Pauschalreise durch eine Buchungsbestätigung, eine Hotelreservierung und ein Rückflugticket für einen Linien- oder Charterflug nachgewiesen wird.
 
