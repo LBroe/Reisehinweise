@@ -4,7 +4,7 @@
 
 ### Aktuelles
 
-Aufgrund des Konflikts in Israel und den Palästinensischen Gebieten kann es auch in Bahrain zu Protestkundgebungen und Ausschreitungen kommen.
+Aufgrund des Konflikts im Nahen Osten kann es auch in Bahrain zu Protestkundgebungen und Ausschreitungen kommen. Insbesondere freitags nach dem Mittagsgebet im Umfeld von schiitischen Moscheen finden diese Demonstrationen statt, die von einem starken Polizeiaufgebot begleitet werden und bei denen es in der jüngsten Vergangenheit auch zum Einsatz von Tränengas kam.
 
 * Bleiben Sie wachsam.
 * Verfolgen Sie die aktuellen Nachrichten in den lokalen Medien,
@@ -12,14 +12,16 @@ Aufgrund des Konflikts in Israel und den Palästinensischen Gebieten kann es auc
 
 ### Terrorismus
 
-Durch umfassende Sicherheitsvorkehrungen und eine allgemeine Beruhigung der innenpolitischen Lage hat es in Bahrain seit Ende 2017 keine terroristischen Anschläge mehr gegeben. Dennoch können Gefährdungen durch terroristische Aktivitäten, beispielsweise im Zusammenhang mit dem Krieg in Israel und den Palästinensischen Gebieten sowie Risiken über die bestehende Landverbindung nach Saudi-Arabien nicht ausgeschlossen werden, siehe [Reise- und Sicherheitshinweise Saudi-Arabien](https://www.auswaertiges-amt.de/de/service/laender/saudiarabien-node/saudiarabiensicherheit/202298 "Saudi-Arabien: Reise- und Sicherheitshinweise").
+Durch umfassende Sicherheitsvorkehrungen und eine allgemeine Beruhigung der innenpolitischen Lage hat es in Bahrain keine terroristischen Anschläge mehr gegeben. Dennoch können Gefährdungen durch terroristische Aktivitäten sowie Risiken über die bestehende Verkehrsverbindung nach Saudi-Arabien nicht ausgeschlossen werden, siehe [Reise- und Sicherheitshinweise Saudi-Arabien](https://www.auswaertiges-amt.de/de/service/laender/saudiarabien-node/saudiarabiensicherheit/202298 "Saudi-Arabien: Reise- und Sicherheitshinweise").
 
 * Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
 
-Die innenpolitische Lage in Bahrain ist stabil. Es kann, insbesondere nach dem Freitagsgebet im Umfeld von Moscheen, zu Protesten und Demonstrationen kommen, die meistens friedlich verlaufen. Vereinzelte gewaltsame Auseinandersetzungen und damit verbundene Verkehrsbehinderungen können jedoch nicht ausgeschlossen werden.
+Siehe *auch Aktuelles*
+
+Die innenpolitische Lage in Bahrain ist stabil. Vereinzelte gewaltsame Auseinandersetzungen bei Protesten und Demonstrationen im Umfeld von Moscheen und damit verbundene Verkehrsbehinderungen können nicht ausgeschlossen werden.
 
 Landesweit kann es immer wieder zur Einrichtung von Sicherheitscheckpoints durch Sicherheitskräfte – teilweise auch nur temporär in den Abendstunden – kommen.
 
@@ -36,7 +38,8 @@ Alleinreisende Frauen können leicht Opfer von Belästigungen und Übergriffen w
 
 * Seien Sie insbesondere nachts als alleinreisende Frau besonders vorsichtig.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* GebenSie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit. Seien Sie in größeren Menschenmengen wie an Flughäfen und auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
+* GebenSie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Seien Sie in größeren Menschenmengen wie an Flughäfen und auf Märkten besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfsersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -82,7 +85,7 @@ Prostitution ist strafbar.
 
 ### Ramadan
 
-Während des Fastenmonats Ramadan ist mit Einschränkungen im Alltag (z.B. tagsüber Schließung von Restaurants außerhalb der Hotels, reduzierte Arbeitszeiten bei Behörden) und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Bezug auf die Einhaltung islamischer Traditionen zu rechnen. Auch wenn die Fastenregeln nur für Muslime gelten, sollten auch Nichtmuslime darauf achten, keine religiösen Gefühle zu verletzen. Das Essen in der Öffentlichkeit ist verboten. Alkoholausschank ist auch in Hotels stark begrenzt.
+Während des Fastenmonats Ramadan ist mit Einschränkungen im Alltag (z.B. tagsüber Schließung von Restaurants außerhalb der Hotels, reduzierte Arbeitszeiten bei Behörden) und mit erhöhter Sensibilität in religiösen Angelegenheiten sowie in Bezug auf die Einhaltung islamischer Traditionen zu rechnen. Auch wenn die Fastenregeln nur für Muslime gelten, sollten auch Nichtmuslime darauf achten, keine religiösen Gefühle zu verletzen. Das Essen in der Öffentlichkeit ist vom Sonnenauf- bis -untergang verboten. Alkoholausschank ist auch in Hotels stark begrenzt.
 
 ### Geld/Kreditkarten
 
@@ -109,7 +112,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:**   
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens drei Monate gültig sein.
 
-Doppelstaater, die neben der deutschen auch die bahrainische Staatsangehörigkeit besitzen, müssen bei der Ein- und Ausreise auch einen gültigen bahrainischen Reisepass vorweisen. Ansonsten wird regelmäßig die Ein- und Ausreise behindert, s. auch *Doppelstaater.*
+Doppelstaater, die neben der deutschen auch die bahrainische Staatsangehörigkeit besitzen, müssen bei der Ein- und Ausreise auch einen gültigen bahrainischen Reisepass vorweisen. Ansonsten wird regelmäßig die Ein- und Ausreise behindert, siehe auch *Doppelstaater.*
 
 ### Visum
 
@@ -137,7 +140,7 @@ Journalisten wird dringend davon abgeraten, mit einem nicht dem Aufenthaltszweck
 
 #### *Verlängerung des Aufenthalts/"residency"*
 
-Weitere Informationen zum Thema Aufenthaltstitel/„residency“ in Bahrain bietet das [zuständige Behördenportal.](https://services.bahrain.bh/wps/portal/rpinq_en)
+Weitere Informationen zum Thema Aufenthaltstitel („residency“) in Bahrain bietet das [zuständige Behördenportal.](https://services.bahrain.bh/wps/portal/rpinq_en)
 
 #### *Ausreiseverweigerung/“Travel Ban“*
 

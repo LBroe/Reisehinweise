@@ -4,7 +4,7 @@
 
 **Von nicht notwendigen Reisen nach Bangladesch wird derzeit abgeraten.**
 
-Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli ist am 5. August 2024 Premierministerin Hasina zurückgetreten und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am 8. August 2024 vereidigt.  
+Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli trat Premierministerin Hasina im August 2024 zurück und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am im August 2024 vereidigt.  
 
 Der Flughafen Dhaka ist zwar geöffnet, die Sicherheitsmaßnahmen wurden jedoch erhöht.
 
@@ -62,7 +62,7 @@ In Cox’s Bazar und insbesondere in der Gegend um Teknaf kam es in der Vergange
 
 * Verzichten Sie auch in von Ausländern bevorzugten Wohngegenden auf Spaziergänge und die Nutzung von Rikschas und dreirädrigen motorisierten Taxis (CNG) nach Einbruch der Dunkelheit.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie in größeren Menschenmengen wie insbesondere in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie im gesamten Grenzgebiet zu Myanmar, auch in Cox’s Bazar und insbesondere in und um Teknaf besonders vorsichtig und meiden Sie dort Menschenansammlungen.
 * Halten Sie im Stadtverkehr Fenster und Türen von Fahrzeugen verschlossen und verriegelt.
