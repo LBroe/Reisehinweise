@@ -4,8 +4,6 @@
 
 ### *Sicherheitslage*
 
-Am 15./16. Oktober 2024 findet in Islamabad das Treffen der Regierungschefs der Shanghai Cooperation Organization (SCO) statt. Bis zum 17. Oktober 2024 befinden sich daher Militäreinheiten in Islamabad Capital Territory und Rawalpindi im Einsatz. Drei Feiertage (14.-16. Oktober 2024) wurden ausschließlich für diese beiden Städte ausgerufen.
-
 In Pakistan kann es jederzeit zu nicht genehmigten politischen Kundgebungen (wie am 4./5. Oktober 2024), gewaltsamen Auseinandersetzungen und terroristischen Anschlägen in Islamabad und anderen Städten Pakistans kommen, in deren Fokus auch ausländische Staatsangehörige stehen können. Auch mit Großdemonstrationen, unangekündigten Demonstrationen und Ausschreitungen zwischen Sicherheitskräften und Demonstrierenden muss gerechnet werden.
 
 Allgemein ist aufgrund der angespannten innenpolitischen Lage mit landesweiten Demonstrationen, Straßenblockaden, erheblicher Präsenz der Sicherheitskräfte, Abschaltungen des Mobilfunknetzes und eventuell gewaltsamen Ausschreitungen zu rechnen, insbesondere in den Großstädten Islamabad, Lahore und Karachi.
