@@ -151,13 +151,6 @@ Die Ausfuhr von Funden aus den antiken Grabungsstätten und von geschützten Pfl
 
 ## Gesundheit
 
-### Aktuelles
-
-In der Provinz West Equatoria wurden seit Dezember 2023 Fälle von viralem, hämorrhagischen Fieber nachgewiesen, die nach derzeitigem Kenntnisstand auf einen Gelbfieberausbruch zurückzuführen sind.
-
-* Eine Gelbfieberimpfung ist für alle Reisende ab dem Alter von neun Monaten bei Einreise vorgeschrieben. Lassen Sie sich diesbezüglich vor der Reise ärztlich beraten.
-* Achten Sie den ganzen Tag über auf einen adäquaten Schutz vor Mückenstichen, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
-
 ### Impfschutz
 
 Eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") wird bei Einreise von allen Reisenden ab dem Alter von neun Monaten verlangt und ist medizinisch auch sinnvoll.
@@ -283,9 +276,7 @@ Die medizinische Versorgung im Lande, auch in Dschuba ist mit der in Europa nich
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

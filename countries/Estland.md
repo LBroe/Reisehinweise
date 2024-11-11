@@ -2,23 +2,43 @@
 
 ## Aktuelles
 
-### *Einreise aus der Russischen Föderation nach Estland*
+### *Grenzüberquerung zwischen Estland und der Russischen Föderation*
 
-Estland führt mit Wirkung vom 8. August 2024 an allen Grenzübergängen zu Russland eine vollständige Zollkontrolle ein. Die vollständige Kontrolle des Grenzverkehrs wird ausnahmslose Personen-, Fahrzeug-, Waren- und Gepäckkontrollen umfassen. Es ist mit erhöhten Abfertigungszeiten zu rechnen. Weiterführende Informationen sind bei der [zuständigen Zollbehörde](https://emta.ee/en/news/etcb-will-commence-seamless-transition-full-customs-control-starting-8-august) erhältlich.
+Estland hat mit Wirkung vom 8. August 2024 an allen Grenzübergängen zu Russland eine vollständige Zollkontrolle des Grenzverkehrs eingeführt. Sie umfasst Personen-, Fahrzeug-, Waren- und Gepäckkontrollen. Es ist mit erhöhten Abfertigungszeiten zu rechnen. Weiterführende Informationen sind bei der [zuständigen Zollbehörde](https://emta.ee/en/news/etcb-will-commence-seamless-transition-full-customs-control-starting-8-august) erhältlich.
 
 Grenzübertritte am Grenzübergang Narva-Ivangorod sind bis auf Weiteres nur zwischen 7 und 22 Uhr möglich.
 
 Fahrzeuge können den Grenzübergang Narva-Ivangorod aufgrund von Bauarbeiten auf der russischen Seite nicht überqueren. Ein Grenzübertritt ist hier nur zu Fuß möglich. Die Bauarbeiten sollen voraussichtlich Ende 2025 abgeschlossen sein.
 
-Die Grenzübergänge Koidula und Luhamaa sind derzeit auch für Fahrzeuge geöffnet. Weitere Informationen erhalten Sie auf der Website der [estnischen Grenzschutzbehörde](https://www.politsei.ee/en).
+Die Grenzübergänge Koidula und Luhamaa sind derzeit auch für Fahrzeuge geöffnet. Weitere Informationen erhalten Sie auf der Website der [estnischen Grenzschutzbehörde.](https://www.politsei.ee/en)
 
 Die [estnischen Behörden](http://www.politsei.ee/en/) behalten sich vor, Grenzübergänge in die Russische Föderation kurzfristig zu schließen und raten daher derzeit von Reisen von Estland in die Russische Föderation ab. Eine Rückreise über estnische Grenzübergänge aus der Russischen Föderation in die Europäische Union ist im Falle einer Schließung nicht mehr möglich.
 
 Die Einreise mit in der Russischen Föderation zugelassenen Pkws nach Estland ist aufgrund Art. 3i der EU-Verordnung 833/2014 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der zuständigen Zollbehörde erhältlich.
 
 * Beachten Sie die Reise- und Sicherheitshinweise der [Russischen Föderation](https://diplo.de/-/201536) und [Belarus.](https://diplo.de/-/201904)
-* Bitte informieren Sie sich über den aktuellen Stand der Regelungen auf der offiziellen [Regierungsseite](http://www.kriis.ee) Estlands bzw. bei der estnischen [Grenzschutzpolizei](http://www.politsei.ee/en/).
+* Bitte informieren Sie sich über den aktuellen Stand der Regelungen auf der offiziellen [Regierungsseite](http://www.kriis.ee) Estlands bzw. bei der estnischen [Grenzschutzpolizei.](http://www.politsei.ee/en/)
 * Tragen Sie sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts ein.
+
+### *Ausfuhr von Barmitteln*
+
+Die derzeit gültigen EU-Sanktionen umfassen ein Ausfuhrverbot für Barmittel auf alle amtlichen Währungen der EU-Mitgliedstaaten aus den EU-Mitgliedstaaten in die Russische Föderation. Ausnahmen bestehen für den Eigenbedarf (siehe EU-Verordnung 2022/345 vom 1. März 2022). Dieser ist auf den persönlichen Gebrauch des Reisenden und mitreisender enger Familienangehöriger begrenzt (keine Mitnahme für Dritte). Der Eigenbedarf und seine Höhe sind an der EU-Außengrenze plausibel nachzuweisen und werden durch die Grenzbehörden teils sehr restriktiv ausgelegt. Die Ausfuhr anderer Währungen wie z.B. USD ist nicht sanktioniert. Größere Mengen an Bargeld sollten vor dem Grenzübertritt entsprechend umgetauscht werden. Die Anmeldepflicht für Barmittel ab einer Höhe von 10.000 EUR gilt unabhängig von der Währung. Grenzübertritte am Grenzübergang Narva-Ivangorod sind bis auf Weiteres nur zwischen 7 und 22 Uhr möglich. Fahrzeuge können den Grenzübergang Narva-Ivangorod aufgrund von Bauarbeiten auf der russischen Seite nicht überqueren. Ein Grenzübertritt ist hier nur zu Fuß möglich. Die Bauarbeiten sollen voraussichtlich Ende 2025 abgeschlossen sein.
+
+Die Grenzübergänge Koidula und Luhamaa sind derzeit auch für Fahrzeuge geöffnet. Weitere Informationen erhalten Sie auf der Website der [estnischen Grenzschutzbehörde.](https://www.politsei.ee/en/as-of-1-february-vehicles-cannot-cross-the-border-in-narva)
+
+Die [estnischen Behörden](https://www.politsei.ee/en/) behalten sich vor, Grenzübergänge zur Russische Föderation kurzfristig zu schließen, und raten daher derzeit von Reisen aus Estland in die Russische Föderation ab. Eine Rückreise über estnische Grenzübergänge aus der Russischen Föderation in die Europäische Union ist im Falle einer Schließung nicht mehr möglich.
+
+Die Einreise mit in der Russischen Föderation zugelassenen Pkws nach Estland ist aufgrund Art. 3i der EU-Verordnung 833/2014 grundsätzlich untersagt. Weitergehende Informationen (auch zu möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der zuständigen Zollbehörde erhältlich.
+
+* Beachten Sie die Reise- und Sicherheitshinweise der [Russischen Föderation](https://diplo.de/-/201536) und von [Belarus.](https://www.auswaertiges-amt.de/de/service/laender/estland-node/estlandsicherheit/200754)
+* Bitte informieren Sie sich über den aktuellen Stand der Regelungen auf der offiziellen [Regierungsseite](http://www.kriis.ee) Estlands bzw. der [Grenzschutzpolizei.](https://www.politsei.ee/en/)
+* Tragen Sie sich in die [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) ein.
+
+### *Einreise mit Heimtieren*
+
+Bei Einreise aus Belarus und der Russischen Föderation in die EU sind seit September 2024 besondere Erfordernisse zu beachten.
+
+* Bitte beachten Sie die entsprechenden Hinweise unter *Einreise und Zoll – Heimtiere.*
 
 ### *Einreise aus Belarus nach Estland*
 
@@ -41,7 +61,7 @@ In Bars und anderen Lokalitäten kann es vereinzelt zu Kreditkartenbetrug, über
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher und möglichst getrennt voneinander auf und fertigen Sie (elektronische) Kopien. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
 * Lassen Sie Gepäck, Ihre Kreditkarte und auch Getränke in Bars nie unbeaufsichtigt.
 * Benutzen Sie mit dem Fahrzeug möglichst nur bewachte Parkplätze und lassen Sie keine Wertsachen oder Gepäckstücke im Auto zurück.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, auf Märkten und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -106,7 +126,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Estlands sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Estlands sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -146,7 +166,7 @@ Siehe *Aktuelles*
 
 Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz keiner Warenkontrollen schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus.
 
-Estland ist Mitgliedstaat des Washingtoner Artenschutzabkommens. Die Einfuhr von bestimmten Wildtier- und Wildpflanzenarten sowie von daraus gewonnenen Produkten ist daher verboten und strafbar.
+Estland ist Mitgliedstaat des Washingtoner Artenschutzabkommens. Die Einfuhr bestimmter Wildtier- und Wildpflanzenarten sowie daraus gewonnener Produkte ist daher verboten und strafbar.
 
 Alle Arten von Waffen unterliegen der Anzeigepflicht bei der Einreise. Die Vorlage der entsprechenden Waffentragegenehmigungen ist erforderlich.
 
@@ -155,9 +175,13 @@ Alle Arten von Waffen unterliegen der Anzeigepflicht bei der Einreise. Die Vorla
 Für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) in Länder der Europäischen Union mit Ausnahme von Irland, Malta und Finnland, wo abweichende Bestimmungen gelten, ist ein EU-Heimtierausweis erforderlich. Er dient u. a. als Nachweis, dass das Tier gegen Tollwut geimpft ist.  
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
 
+Bei Einreise aus Belarus und der Russischen Föderation sind besondere Erfordernisse zu beachten, z.B. hinsichtlich eines Titertests (zur Titrierung von Tollwutantikörpern).
+
+* Bitte informieren Sie sich dazu in den Reise- und Sicherheitshinweisen [Russische Föderation](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit/201536#content_4) sowie in den [Reise- und Sicherheitshinweisen Belarus.](https://www.auswaertiges-amt.de/de/service/laender/belarus-node/belarussicherheit/201904)
+
 Unter drei Monate alte Heimtiere (Hunde, Katzen, Frettchen) müssen ebenfalls einen Mikrochip tragen und einen EU-Heimtierausweis besitzen. Sofern sie nicht gegen Tollwut geimpft sind, müssen sie klinisch gesund sein. Als Nachweis hierfür verlangen die estnischen Behörden eine formlose Bescheinigung des zuständigen Tierarztes, dass das Muttertier gegen Tollwut geimpft war (sofern das Jungtier noch von ihr abhängt) bzw. das Jungtier seit der Geburt keinen Kontakt zu infizierten Wildtieren gehabt hat.
 
-Detaillierte Informationen bietet das [estnische Veterinäramt](https://pta.agri.ee/en/animals/pets) und das [estnische Agrarministerium.](http://www.agri.ee/)
+Detaillierte Informationen bieten das [estnische Veterinäramt](https://pta.agri.ee/en/animals/pets) und das [estnische Agrarministerium.](http://www.agri.ee/)
 
 ## Gesundheit
 

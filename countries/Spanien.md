@@ -2,14 +2,12 @@
 
 ## Aktuelles
 
-Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen ist die Provinz Valencia, in der es bereits mehr als 200 Todesopfer gab; zahlreiche Menschen werden noch vermisst.
+Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen sind Gebiete in der Provinz Valencia, in denen es mehr als 200 Todesopfer gab; zahlreiche Menschen werden noch vermisst.
 
-Auch die an die Provinz Valencia angrenzende Provinz Castellón, Teile Andalusiens, Kataloniens und Kastilien-La Manchas sowie Teruel/Aragonien sind von den starken Regenfällen betroffen. Vielerorts sind Flüsse über die Ufer getreten. Bestimmte Katastrophengebiete können durch die Rettungsdienste nur eingeschränkt erreicht werden.
+Die Aufräum- und Bergungsarbeiten sind in den betroffenen Gebieten noch nicht abgeschlossen.
 
-Der Zugverkehr ist in den betroffenen Gebieten zum Teil noch eingeschränkt und teilweise sind auch Straßen nicht befahrbar. Mancherorts wurden zudem Fahrverbote verhängt, um die Aufräum- und Bergungsarbeiten nicht zu behindern.
+Der Zugverkehr ist zum Teil noch eingeschränkt und teilweise sind auch Straßen nicht befahrbar. Über Einschränkungen im Straßennetz informieren die [spanische Straßenverkehrsbehörde](https://infocar.dgt.es/etraffic/) und die [Regierung der autonomen Gemeinschaft Valencia](https://www.112cv.gva.es/es/inicio).
 
-* Informieren Sie sich über die lokalen und internationalen Medien und Wetterdienste und **sehen Sie derzeit** **von nicht notwendigen, touristischen Reisen in die Provinz Valencia ab**.
-* Falls Sie sich aktuell in den betroffenen Gebieten aufhalten, befolgen Sie bitte die Verhaltenshinweise der örtlichen Behörden.
 * Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Sicherheit

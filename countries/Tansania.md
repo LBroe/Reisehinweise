@@ -2,9 +2,9 @@
 
 ## Aktuelles
 
-##### Verpflichtende Versicherung bei der Einreise nach Sansibar mit Wirkung vom 1. Oktober 2024
+##### Verpflichtende Versicherung bei der Einreise nach Sansibar seit dem 1. Oktober 2024
 
-Mit Wirkung vom 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
+Seit dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
 Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September 2024 erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
 
@@ -146,7 +146,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Tansanias sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Tansanias sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 #### *Einreise*
 
@@ -171,11 +171,11 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Tansania ein Visum.
 
 Neben der vorherigen Einholung des Visums vor der Einreise kann zum Zweck touristischer Reisen ein sog. „Visa on Arrival“ bei Einreise beantragt werden. Die Ausstellung ist jedoch nicht garantiert und zudem muss mit Wartezeit gerechnet werden. Die Kosten betragen zurzeit 50 USD pro Visum (auch minderjährige Kinder), zahlbar bei Einreise per Kreditkarte oder bar in passenden USD-Noten (50/100 USD), siehe auch *Reiseinfos - Geld/Kreditkarten.*
 
-##### **Verpflichtende Versicherung bei Einreise nach Sansibar mit Wirkung vom 1. Oktober 2024**
+##### **Verpflichtende Versicherung bei Einreise nach Sansibar seit dem 1. Oktober 2024**
 
-Mit Wirkung vom 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
+Seit dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
-Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
+Diese Versicherung kann nur bei der ZIC abgeschlossen werden. Andere internationale Reiseversicherungspolicen werden nicht akzeptiert. Die Policen können seit dem 1. September 2024 erworben werden. Die Kosten belaufen sich nach derzeitigem Stand auf 44 USD pro Person. Weitere Informationen bietet die Webseite von [Visit Zanzibar](https://visitzanzibar.go.tz/).
 
 Die Einreise kann verweigert werden, wenn nicht die richtige Versicherung nachgewiesen wird.
 
@@ -207,13 +207,6 @@ Empfindliche Haft- und Geldstrafen können verhängt werden.
 Für die Ein- und Ausfuhr von Heimtieren wird eine besondere Erlaubnis des Ministry of Agriculture, Livestock and Fisheries, Veterinary Complex benötigt. Hierfür wird ein max. zehn Tage vor der Reise ausgestelltes Gesundheitsattest eines Tierarztes, das vom Gesundheitsamt zu beglaubigen ist, sowie eine Impfbescheinigung darüber, dass das Tier mindestens 21 Tage vor Einreise gegen Tollwut geimpft wurde, benötigt. Informationen und Formulare für die Beantragung der Erlaubnis bietet die [Botschaft von Tansania in Berlin](https://de.tzembassy.go.tz/index.php/services/Importing-Pets-Dogs).
 
 ## Gesundheit
-
-### Aktuelles
-
-Seit Oktober 2023 treten vermehrt Malaria-Fälle auf Sansibar auf. Eine Karte der Risikogebiete stellt die [DTG](https://www.dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Malaria.pdf "Empfehlungen zur Malariavorbeugung der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG)") zur Verfügung.  
-
-* Schützen Sie sich den ganzen Tag über konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
-* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### Impfschutz
 
