@@ -1,5 +1,13 @@
 # Malediven: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Mit Wirkung vom 15. November 2024 hat die [maledivische Regierung](https://www.customs.gov.mv/) ein Importverbot jedweder Art von E-Zigaretten und Tabak inklusive -zubehör in die Malediven erlassen, siehe auch *Reiseinfos – Rechtliche Besonderheiten und Einreise- und Zoll – Einfuhrbestimmungen.*
+
+Tabakprodukte, inklusive Zigaretten, Zigarren und Zubehör wie E-Zigaretten, Shishas und aromatisierter Zigaretten dürfen schon seit dem 1. November 2024 nicht mehr zollfrei eingeführt werden. Ausnahme: Reisende mit Touristenvisum ab 18 Jahren dürfen bis zu 200 Zigaretten oder 25 Zigarren bzw. 250 g Tabak einführen.
+
+Ebenfalls verboten ist der Import von Götterabbildungen wie z.B. Buddha-Statuen. Die vorgenannten Waren können jedoch bei der Einreise gegen Quittung am Flughafen an einem Sonderschalter deponiert und bei Ausreise wieder abgeholt werden.
+
 ## Sicherheit
 
 ### Terrorismus
@@ -75,9 +83,13 @@ Homosexuelle Handlungen sind in den Malediven strafbar. Bei Nichtbeachtung droht
 
 ### Rechtliche Besonderheiten
 
+Siehe *Aktuelles*
+
 In den Malediven ist jeglicher Drogenbesitz strikt verboten. Verstöße können selbst bei geringen Mengen schwere Strafen zur Folge haben. Auch Touristen wurden bereits zu lebenslanger Haft verurteilt.
 
-In den Malediven ist der Islam (sunnitischer Richtung) Staatsreligion, die Rechtsordnung orientiert sich an der Scharia. Jegliches Verhalten, das als christliche Missionstätigkeit ausgelegt werden kann, ist untersagt.
+Mit Wirkung vom 15. Dezember 2024 werden der Besitz, Gebrauch, der freie Verkauf, die Herstellung und Werbung für E-Zigaretten in den Malediven verboten sein. Bereits ab dem 15. November 2024 hat die [maledivische Regierung](https://www.customs.gov.mv/) ein Importverbot jedweder Art von E-Zigaretten in die Malediven erlassen.
+
+In den Malediven ist der Islam (sunnitischer Richtung) Staatsreligion; die Rechtsordnung orientiert sich an der Scharia. Jegliches Verhalten, das als christliche Missionstätigkeit ausgelegt werden kann, ist untersagt.
 
 Außerhalb der touristisch erschlossenen Resorts, in sogenannten „Artificial Beach Areas“, z.B. in Malé oder in der Nähe von einfachen Gästehäusern, wurden Hinweisschilder angebracht, dass das Tragen unangemessener (“improper”) Badekleidung (z.B. Bikini) dort nicht gestattet ist.
 
@@ -93,7 +105,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen der Malediven](https://www.immigration.gov.mv/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den [offiziellen Stellen der Malediven](https://www.immigration.gov.mv/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 #### *Einreise*
 
@@ -137,11 +149,19 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 
 ### Einfuhrbestimmungen
 
-Medikamente unterliegen einer strikten Einfuhrkontrolle. Die maledivische Regierung ist bestrebt, den Handel mit illegal eingeführten Medikamenten zu bekämpfen. Bei der Einfuhr von verschreibungspflichtigen Medikamenten zum persönlichen Gebrauch ist daher eine Bescheinigung des behandelnden Arztes mitzuführen, aus der der Name des Patienten, der Name des Medikaments bzw. der Medikamente und die therapeutische Tagesdosierung hervorgeht. Diese Bescheinigung muss in englischer Sprache abgefasst oder mit einer englischen Übersetzung versehen sein. Die Einfuhr nicht verschreibungspflichtiger Medikamente unterliegt keinen Beschränkungen. Allerdings wird auch hier empfohlen, eine ärztliche Bescheinigung mitzuführen, sofern es sich nicht um allgemein bekannte Medikamente, z.B. gegen Magenprobleme oder Kopfschmerzen handelt.
+Siehe *Aktuelles*
 
-Alkohol darf nicht eingeführt werden, auch nicht in den anderswo üblichen zollfreien Mengen. Ebenfalls verboten ist der Import von Götterabbildungen wie z.B.  Buddha-Statuen. Derartige Waren können jedoch bei der Einreise gegen Quittung am Flughafen an einem Sonderschalter deponiert und bei Ausreise wieder abgeholt werden.
+Mit Wirkung vom 15. November 2024 hat die [maledivische Regierung](https://www.customs.gov.mv/) ein Importverbot jedweder Art von E-Zigaretten und Tabak inklusive -zubehör in die Malediven erlassen, siehe auch *Reiseinfos – Rechtliche Besonderheiten.*
+
+Tabakprodukte, inklusive Zigaretten, Zigarren und Zubehör wie E-Zigaretten, Shishas und aromatisierter Zigaretten dürfen schon seit dem 1. November 2024 nicht mehr zollfrei eingeführt werden. Ausnahme: Reisende mit Touristenvisum ab 18 Jahren dürfen bis zu 200 Zigaretten oder 25 Zigarren bzw. 250 g Tabak einführen.
+
+Ebenfalls verboten ist der Import von Götterabbildungen wie z.B. Buddha-Statuen. Die vorgenannten Waren können jedoch bei der Einreise gegen Quittung am Flughafen an einem Sonderschalter deponiert und bei Ausreise wieder abgeholt werden.
+
+Alkohol darf nicht eingeführt werden, auch nicht in den anderswo üblichen zollfreien Mengen.
 
 Zeitschriften, die spärlich bekleidete Personen zeigen, dürfen nicht eingeführt werden.
+
+Medikamente unterliegen einer strikten Einfuhrkontrolle. Die maledivische Regierung ist bestrebt, den Handel mit illegal eingeführten Medikamenten zu bekämpfen. Bei der Einfuhr von verschreibungspflichtigen Medikamenten zum persönlichen Gebrauch ist daher eine Bescheinigung des behandelnden Arztes mitzuführen, aus der der Name des Patienten, der Name des Medikaments bzw. der Medikamente und die therapeutische Tagesdosierung hervorgeht. Diese Bescheinigung muss in englischer Sprache abgefasst oder mit einer englischen Übersetzung versehen sein. Die Einfuhr nicht verschreibungspflichtiger Medikamente unterliegt keinen Beschränkungen. Allerdings wird auch hier empfohlen, eine ärztliche Bescheinigung mitzuführen, sofern es sich nicht um allgemein bekannte Medikamente, z.B. gegen Magenprobleme oder Kopfschmerzen handelt.
 
 ## Gesundheit
 
