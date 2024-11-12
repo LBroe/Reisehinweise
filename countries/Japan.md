@@ -126,7 +126,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Japans wie dem [japanischen Außenministerium](https://www.mofa.go.jp/ca/fna/page4e_001053.html) und dem [japanischen Gesundheitsministerium](https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Japans wie dem [japanischen Außenministerium](https://www.mofa.go.jp/ca/fna/page4e_001053.html) und dem [japanischen Gesundheitsministerium](https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 Die Anmeldung über [Visit Japan Web](https://www.vjw.digital.go.jp) (vor dem Check-in) ist nicht mehr notwendig, kann aber den Einreiseprozess beschleunigen. Fluggesellschaften haben ggf. abweichende Beförderungsbedingungen.
 
@@ -202,12 +202,6 @@ Zur heißen Sommerzeit können die Fluggesellschaften sich gegen eine Mitnahme v
 * Beachten Sie auch die Regelungen zur Mitnahme von Haustieren bei den einzelnen Fluggesellschaften.
 
 ## Gesundheit
-
-### Aktuelles
-
-Seit Frühjahr 2024 wird ein Anstieg der Fälle invasiver Streptokokken-Infektionen in Japan verzeichnet, insbesondere von Fällen des toxischen Schocksyndroms (TSS), das durch Gruppe-A-Streptokokken (GAS) verursacht wird. Infektionen mit GAS führen in der Regel zu milden Krankheitsverläufen mit Halsschmerzen, Kopfschmerzen und Fieber sowie einem leichten roten Ausschlag (Scharlach). In seltenen Fällen können GAS-Bakterien auch invasive Infektionen mit schweren Verläufen (z.B. TSS) hervorrufen. Das Risiko für Reisende wird als gering eingeschätzt.
-
-* Beachten Sie allgemeine Hygieneregeln und halten Sie sich an generelle Hinweise zur Vermeidung von Atemwegserkrankungen (Abstand zu erkrankten Personen und insbesondere Kindern halten, regelmäßiges Händewaschen, ärztliche Vorstellung je nach medizinischer Notwendigkeit, insbesondere bei ausbleibender Besserung).
 
 ### Impfschutz
 
