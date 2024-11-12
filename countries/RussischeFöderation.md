@@ -12,7 +12,7 @@
 
 Teile Russlands und die Stadt Moskau sind vermehrt Ziel von Drohnenangriffen.
 
-Die Stadt Moskau und vor allem das südliche Umland, aber auch andere Orte in Russland waren in jüngster Zeit Ziel von Drohnenangriffen. Diese haben bisher begrenzte Sachschäden verursacht. Das Abwehrsystem um Moskau wurde deutlich ausgebaut. Möglich bleiben auch Angriffe auf das öffentliche Verkehrsnetz, insbesondere den Zugverkehr. In Verwaltungsgebieten entlang der russisch-ukrainischen Grenze (insb. in der Oblast Kursk) finden derzeit Kampfhandlungen statt. Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete wird gewarnt.
+Die Stadt Moskau und vor allem das südliche Umland, aber auch andere Orte in Russland waren in den letzten Wochen und Monaten Ziel von Drohnenangriffen. Diese haben bisher begrenzte Sachschäden verursacht. Das Abwehrsystem um Moskau wurde deutlich ausgebaut. Möglich bleiben auch Angriffe auf das öffentliche Verkehrsnetz, insbesondere den Zugverkehr. In Verwaltungsgebieten entlang der russisch-ukrainischen Grenze (insb. in der Oblast Kursk) finden derzeit Kampfhandlungen statt. Vor Reisen in die an die Ukraine grenzenden Verwaltungsgebiete wird gewarnt.
 
 In den im Oktober 2022 von Russland völkerrechtswidrig annektierten ukrainischen Gebieten Luhansk, Donezk, Cherson und Saporischschja gilt das Kriegsrecht. Für diese, wie für die übrigen Gebiete in der Ukraine gilt eine [Reisewarnung, *siehe Ukraine*.](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/ukraine-node/ukrainesicherheit/201946)
 
@@ -51,7 +51,19 @@ Der direkte Flugverkehr zwischen der Russischen Föderation und der EU sowie wei
 
 ### Geldversorgung
 
-Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sowie Geldüberweisungen in die Russische Föderation sind grundsätzlich nicht durchführbar. Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierten Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert. EUR-Banknoten dürfen nur für den Eigenbedarf mitgenommen werden. Der Eigenbedarf ist auf den persönlichen Gebrauch des Reisenden und mitreisender enger Familienangehöriger begrenzt (keine Mitnahme für Dritte, rein nicht-kommerzieller Gebrauch). Der Eigenbedarf und seine Höhe sind im Zweifel an der EU-Außengrenze plausibel nachzuweisen (z.B. anhand von Hotelbuchungen). Auf der Route Litauen – Kaliningrad hat Litauen die Ausfuhr nach Russland auf 60 EUR pro Person beschränkt. In Russland ist die Ausfuhr von Devisen im Wert von über 10.000 USD strafbar.
+Die Nutzung deutscher Kreditkarten, das Abheben von Bargeld an Bankautomaten sowie Geldüberweisungen in die Russische Föderation oder andere Möglichkeiten der Geldbeschaffung sind praktisch unmöglich.
+
+Es ist daher dringend erforderlich, bereits bei Einreise den benötigten Bedarf in bar mit sich zu führen und vor Ort in Rubel (RUB) zu tauschen. Dabei ist auch eine ausreichende Reserve z. B. für medizinische Notfälle, einzuplanen.
+
+Bezüglich der Einfuhr von Euro (EUR) in die Russische Föderation ist zu beachten:
+
+Nach der EU-Verordnung EU833/2014 ist die Mitnahme von Bargeld in der amtlichen Währung eines EU-Mitgliedstaates in die Russische Föderation und gemäß Art. 1za der EU-Verordnung 765/2006 nach Belarus verboten.
+
+Ausgenommen sind nur Beträge, die für den persönlichen Gebrauch Reisender und deren mitreisender unmittelbarer Familienangehöriger benötigt werden. Die Höhe des Betrages ist nicht genau festgelegt, wird aber eng ausgelegt und im Einzelfall von den Zollbehörden entschieden. Erfahrungsgemäß wird maximal ein Betrag im unteren bis höchstens mittleren dreistelligen Bereich gestattet.
+
+Bei einem durch das Zollamt am Ort der Ausreise festgestellten Versuch der Ausfuhr von EUR müssen Reisende grundsätzlich neben der Beschlagnahmung des Geldes auch mit der Einleitung eines Strafverfahrens wegen des Verdachts eines Verstoßes gegen das Außenwirtschaftsgesetz (§ 18 AWG) rechnen.
+
+Die Ausfuhr von Bargeld in anderen Währungen (z.B. USD oder CHF) unterliegt hingegen nicht den Sanktionsbestimmungen und ist im Rahmen der allgemeinen Regelungen grundsätzlich möglich.
 
 ## Sicherheit
 
@@ -244,12 +256,10 @@ Gleiches gilt für Gebiete im Nordkaukasus, Grenzzonen zu Belarus und die litaui
 
 ### Geld/Kreditkarten
 
-Landeswährung ist der Russische Rubel (RUB). Die Nutzung von Kreditkarten ist in Russland sehr weit verbreitet, die Nutzung deutscher Kreditkarten jedoch seit Ende Februar 2022 nicht mehr möglich, siehe *Aktuelles*. Der Geldwechsel auf der Straße ist verboten.
-
-Es sind vereinzelt noch Überweisungen durch Anbieter von Auslandsüberweisungen auf Konten einer der wenigen nicht-sanktionierter Banken in Russland möglich, was jedoch die Eröffnung eines entsprechenden Kontos erfordert.
+Landeswährung ist der Russische Rubel (RUB). Die Nutzung von Kreditkarten ist in Russland sehr weit verbreitet, die Nutzung deutscher Kreditkarten jedoch seit Ende Februar 2022 nicht mehr möglich, siehe *Aktuelles*. Der Geldwechsel auf der Straße ist verboten.  
 
 * Nehmen Sie unbedingt in ausreichendem Umfang Bargeld mit und kalkulieren Sie auch eine Reserve für den Notfall ein.
-* Nehmen Sie Bargeld möglichst in kleiner Stückelung (USD oder EUR) mit und tauschen Sie nach und nach kleinere Beträge (Wechselkursschwankungen).
+* Bitte beachten Sie dabei unbedingt die Hinweise unter *Aktuelles -* *„**Geldversorgung**“**.*
 * Tauschen Sie Geld nur in zugelassenen Banken, Hotels oder Wechselstuben.
 
 ## Einreise und Zoll
@@ -258,7 +268,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen der [Russischen Föderation](https://стопкоронавирус.рф/) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen der Russischen Föderation sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -342,11 +352,14 @@ Deutsch-russische Doppelstaater können nur mit einem gültigen russischen Ausla
 
 ### Migrationskarte und Anmeldung nach Einreise
 
+Bei der Einreisekontrolle erhalten Reisende vom Grenzdienst eine Migrationskarte mit Einreisestempel ausgehändigt, die bei der Ausreise wieder abgeben werden muss. Der Verlust der Migrationskarte sollte unbedingt vermieden werden.
+
 Ab einem Aufenthalt von sieben Tagen besteht eine Anmeldepflicht für Ausländer.  
 Hotels und vergleichbare Einrichtungen übernehmen die Anmeldungen bereits am ersten Tag nach der Anreise. In anderen Fällen muss der Gastgeber, z.B. der russische Partner des deutschen Reisebüros, die Ankunft des ausländischen Gasts innerhalb von sieben Werktagen bei der zuständigen Migrationsbehörde ([UWM/ Главное управление по вопросам миграции МВД РФ](https://гувм.мвд.рф/)) anzeigen. Der ausländische Gast darf seine Ankunft nur im Ausnahmefall auch persönlich im zuständigen Büro der Migrationsstelle (UWM) melden.
 
 Für Verletzungen der An- und Abmeldepflicht ist grundsätzlich der Einlader/Gastgeber verantwortlich und muss Geldstrafen übernehmen. Auch für Reisende drohen allerdings Konsequenzen wie eine Ausweisung und eine Einreisesperre von bis zu fünf Jahren.
 
+* Vermeiden Sie unbedingt den Verlust der Migrationskarte.
 * Vergewissern Sie sich unverzüglich nach Ankunft bei dem im Visum angegebenen Einlader/Gastgeber über die Verfahrensweise der An- und Abmeldung.
 * Fotokopieren Sie den Reisepass samt Visum, die Migrationskarte und den abtrennbaren Teil des Anmeldeformulars. Bewahren Sie diese sicher auf, um im Verlustfall die Anmeldung nachweisen zu können.
 * Melden Sie sich im Fall einer mehrtägigen Reise bzw. einem Ausflug vom eigentlich geplanten und auch im Visum genannten Aufenthaltsort bei den Migrationsbehörden ab.
