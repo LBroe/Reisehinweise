@@ -2,7 +2,13 @@
 
 ## Aktuelles
 
-Aufgrund heftiger Unwetter ist es im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen sind Gebiete in der Provinz Valencia, in denen es mehr als 200 Todesopfer gab; zahlreiche Menschen werden noch vermisst.
+Für Teile Andalusiens und den Süden der Provinz Kataloniens, insbesondere die Gegend um und südlich von Tarragona, wurde von den spanischen Behörden für den 13. November 2024 eine Unwetterwarnung herausgegeben.
+
+* Bitte beachten Sie die Hinweise der örtlichen Behörden, z.B. auf der [Webseite der staatlichen Agentur für Meteorologie AEMET.](https://www.aemet.es/es/eltiempo/prediccion/avisos)
+
+Stärkere Regenfälle gemäß AEMET sind auch in der autonomen Gemeinschaft Valencias zu erwarten. In den betroffenen Gebieten kann es zu Überschwemmungen kommen.
+
+Aufgrund heftiger Unwetter ist es bereits Ende Oktober im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen sind Gebiete in der Provinz Valencia, in denen es mehr als 200 Todesopfer gab; zahlreiche Menschen werden noch vermisst.
 
 Die Aufräum- und Bergungsarbeiten sind in den betroffenen Gebieten noch nicht abgeschlossen.
 
@@ -104,11 +110,11 @@ Vom 1. November bis 31. März ist der Zutritt zur „Napoleonroute“ des Jakobs
 
 ### Führerschein
 
-Der deutsche Führerschein ist ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
-Es gibt keine Hinweise auf besondere Schwierigkeiten, die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
+Es gibt keine Hinweise auf besondere Schwierigkeiten; die Akzeptanz ist insbesondere in Großstädten gut ausgeprägt.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -131,7 +137,7 @@ Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise können sich ändern. Bitte informieren Sie sich bei einer [offiziellen Stelle Spaniens](https://www.sanidad.gob.es/en/areas/alertasEmergenciasSanitarias/alertasActuales/nCov/spth.htm) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich bei einer [offiziellen Stelle Spaniens](https://www.sanidad.gob.es/en/areas/alertasEmergenciasSanitarias/alertasActuales/nCov/spth.htm) sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
