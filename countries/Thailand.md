@@ -1,10 +1,21 @@
 # Thailand: Reise- und Sicherheitshinweise
 
+## Aktuelles
+
+Es gab in den letzten Tagen Hinweise zu möglichen terroristischen Anschlägen auf den monatlich stattfindenden ,,Mondscheinpartys" (Full Moon Party) auf der nördlich von Koh Samui gelegenen Insel (Koh) Pha Ngan. Auch andere Musikfestivals oder Veranstaltungen mit hoher ausländischer Beteiligung in anderen Landesteilen könnten Ziel von Anschlägen sein. Die lokalen Sicherheitsbehörden führen seitdem vermehrte Sicherheitskontrollen als Vorsichtsmaßnahme durch.
+
+* Meiden Sie bis auf Weiteres die monatlich stattfindenden ,,Mondscheinpartys" (Full Moon Party) auf Koh Pha Ngan, sowie andere Musikfestivals oder Veranstaltungen mit hoher ausländischer Beteiligung im Land.
+* Verhalten Sie sich bei Reisen in Thailand besonders sicherheitsbewusst und vorsichtig.
+* Leisten Sie den Anweisungen der Sicherheitskräfte Folge. Verfolgen Sie die lokalen und internationalen Medien.
+* Beachten Sie den [weltweiten Sicherheitshinweis](https://studio.auswaertiges-amt.de/blueprint/servlet/page/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970).
+
 ## Sicherheit
 
-**Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**  
+**Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**
 
 ### Terrorismus
+
+Siehe *Aktuelles*
 
 Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand können Anschläge selbst in Urlaubsgebieten nicht ausgeschlossen werden. 
 
@@ -27,6 +38,8 @@ Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung, dem König und
 
 ### Kriminalität
 
+Siehe *Aktuelles*
+
 Thailand verzeichnet zunehmende Kriminalität. Neben Diebstahl und Betrugsfällen kommen auch Gewaltverbrechen wie Vergewaltigung und Raubüberfälle, auch mittels mit Betäubungsmitteln versetzter Getränke in Bars und Clubs, teilweise mit Todesfolge, vor. Das betrifft insbesondere die Tourismushochburgen Phuket, Koh Samui, Koh Tao und Pattaya. Auf den monatlich stattfindenden "Mondscheinpartys" (Full Moon Party) auf der nördlich von Koh Samui gelegenen Insel (Koh) Pha Ngan ist es bereits mehrfach zu tödlichen Zwischenfällen, wie der Vergewaltigung von unter Drogen oder Alkohol stehenden Touristinnen, gekommen.
 
 Frauen wird empfohlen, ihrer persönlichen Sicherheit besondere Aufmerksamkeit zu schenken, sich angemessen zu kleiden und einsame Gegenden sowie unbeleuchtete Straßen nach Einbruch der Dunkelheit zu meiden.
@@ -45,7 +58,7 @@ In entlegenen Gebieten und in den Grenzgebieten zu Kambodscha und Myanmar kann e
 * Nehmen Sie in Fällen möglicher Erpressung durch/unter Beteiligung korrupter Polizisten unverzüglich Kontakt mit der [deutschen Botschaft in Bangkok](https://bangkok.diplo.de/th-de) auf.
 * Geben Sie Ihren Reisepass bei Anmietung von Fahrzeugen nicht als Pfand.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf und speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen, in Bussen und an Stränden aufmerksam und achten Sie auf Ihre Wertsachen.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
@@ -264,13 +277,6 @@ Informationen zu Beschränkungen und Antragsformulare zur Medikamenteneinfuhr in
 Für die Einreise mit Heimtieren sind ein Formular des Thai Department of Livestock Development und ein amtstierärztliches Zeugnis erforderlich, das maximal 10 Tage vor der Einreise ausgestellt sein muss. Hunde und Katzen müssen geimpft sein. Weitere Informationen erteilt das [Suvarnabhumi Airport Cargo Clearance Customs Office](https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_F01_160913_01&ini_menu=menu_individual_submenu_02&lang=en&left_menu=menu_individual_submenu_02_160421_02). Praktische Hinweise zu dem Thema finden sich auf den Webseiten der thailändischen Botschaften in [Den Haag](https://hague.thaiembassy.org/th/publicservice/bringing-pets-to-thailand) und [Helsinki](https://helsinki.thaiembassy.org/en/publicservice/26932-bringing-pets-to-thailand).
 
 ## Gesundheit
-
-### Aktuelles
-
-Im Jahr 2023 wurden im gesamten Land deutlich mehr [Zika-Virus-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866 "Zikavirus-Infektionen") als in den Vorjahren dokumentiert. Als Folge wurde bei mehreren Neugeborenen eine Mikrozephalie nachgewiesen. Hierbei handelt es sich um einen relativ kleinen Kopfumfang mit häufig einhergehender geistiger Behinderung.
-
-* Schützen Sie sich den ganzen Tag über konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
-* Insbesondere Schwangere und ihre Partner sowie Paare, die absehbar eine Schwangerschaft planen, sollten die [Hinweise zur Prävention von Zika-Virus-Infektionen](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/zikavirus-infektionen/2562866#content_5) beachten.
 
 #### Impfschutz
 
