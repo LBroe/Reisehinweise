@@ -19,15 +19,18 @@ Die Sicherheitslage im gesamten Land ist stabil.
 
 ### Kriminalität
 
-In Almaty und der Hauptstadt Astana (ehemals Nur-Sultan) muss mit der üblichen Großstadtkriminalität wie Taschendiebstahl, Raub, Trickbetrügerei und angeblichen Polizeikontrollen gerechnet werden.
+In Almaty und der Hauptstadt Astana muss mit der üblichen Großstadtkriminalität wie Taschendiebstahl, Raub, Trickbetrügerei und angebliche Polizeikontrollen gerechnet werden.
 
-Darüber hinaus wird Internetbetrug wie „Love Scamming“ oder „Romance Scamming“ auch mit (gefälschten) kasachischen Identitäten in den sozialen Netzwerken und in Online-Partnerbörsen betrieben. Bei dieser häufigen Form des Internet- oder Vorauszahlungsbetruges gaukeln „Liebesbetrüger“ ihren potentiellen Opfern eine Liebesbeziehung vor und versuchen ihnen unter Vorwänden (z.B. zur Visumerteilung) Geld aus der Tasche zu ziehen.  
+Es wurde in Einzelfällen von Polizeikontrollen (auch außerhalb der Großstädte) mit unberechtigten Zahlungsaufforderungen berichtet.
+
+Darüber hinaus wird Internetbetrug wie „Love Scamming“ oder „Romance Scamming“ auch mit (gefälschten) kasachischen Identitäten in den sozialen Netzwerken und in Online-Partnerbörsen betrieben. Bei dieser häufigen Form des Internet- oder Vorauszahlungsbetruges gaukeln „Liebesbetrüger“ ihren potentiellen Opfern eine Liebesbeziehung vor und versuchen ihnen unter Vorwänden (z.B. zur Visumserteilung) Geld aus der Tasche zu ziehen.
 
 * Seien Sie nachts besonders vorsichtig und nicht ohne Begleitung unterwegs.
 * Seien Sie beim Besuch von Orten mit großer Menschenansammlung besonders vorsichtig.
 * Nutzen Sie keine inoffiziellen Taxis.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
+* Weisen Sie möglicherweise unberechtigte Zahlungsaufforderungen zurück.
 * Seien Sie insbesondere vor Liebesbetrug („Love Scamming“/“Romance Scamming“) auf der Hut. Werden Sie insbesondere hellhörig, wenn Ihre Bekanntschaft Geld von Ihnen verlangt, bevor Sie sich überhaupt real getroffen haben.
 * Informieren Sie sich über einschlägige Webseiten, wie z.B. bei der [Verbraucherzentrale.](https://www.verbraucherzentrale.de/wissen/digitale-welt/love-scamming-so-schuetzen-sie-sich-vor-liebesbetrug-93503)
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufe, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
@@ -47,9 +50,9 @@ Es kommen extreme Wetterlagen vor, insbesondere im Winter, wenn Temperaturen unt
 
 Kasachstan verfügt über ein Inlandsflugnetz, Eisenbahnen und Busverbindungen. Die Straßen außerhalb der großen Städte sind wenig erschlossen und schwierig befahrbar. Überlandreisen können aufgrund des teilweise schlechten Zustands der Straßen schwierig sein.
 
-Die Tankstellendichte ist in der Regel gut. Diesel und Benzin mit 80 bis 92 Oktan ist an fast allen Tankstellen verfügbar, in größeren Städten regelmäßig auch Benzin bis zu 98 Oktan.
+Die Tankstellendichte ist in der Regel gut. Diesel und Benzin mit 80 bis 92 Oktan sind an fast allen Tankstellen verfügbar, in größeren Städten regelmäßig auch Benzin bis zu 98 Oktan.
 
-Im Winter sinkt die Temperatur insbesondere in Nord- und Ostkasachstan häufig auf unter -25° Celsius. Dieselkraftstoff gefriert bei diesen Temperaturen. Auch Hauptstrecken können dann aufgrund der extremen Kälte, Wind und Schnee gesperrt sein.
+Im Winter sinkt die Temperatur insbesondere in Nord- und Ostkasachstan häufig auf unter -25° C. Dieselkraftstoff gefriert bei diesen Temperaturen. Auch Hauptstrecken können dann aufgrund von extremer Kälte, Wind und Schnee gesperrt sein.
 
 * Nehmen Sie insbesondere bei Reisen in entlegene Gebiete genügend Trinkwasser mit.
 * Meiden Sie Überlandfahrten nach Einbruch der Dunkelheit, besonders im Süden Kasachstans.
@@ -68,17 +71,19 @@ Homosexuelle Handlungen sind in Kasachstan kein Straftatbestand. Für Personen 
 
 #### *Aufenthaltsrecht*
 
-Bei Verletzung des Aufenthaltsrechts muss in jedem Fall mit strafrechtlichen Konsequenzen wie Haft- oder Geldstrafe gerechnet werden. Dabei ist der Grund der verspäteten Ausreise grundsätzlich unerheblich (z.B. auch bei Ausfall/Verspätung des Flugs). Ein entsprechendes strafrechtliches Verfahren kann mehrere Wochen in Anspruch nehmen. In dieser Zeit dürfen Betroffene das Land nicht verlassen.
+Bei Verletzung des Aufenthaltsrechts muss in jedem Fall mit strafrechtlichen Konsequenzen wie Haft- oder Geldstrafe gerechnet werden. Dabei ist der Grund einer verspäteten Ausreise grundsätzlich unerheblich (z.B. auch bei Ausfall/Verspätung des Flugs). Ein entsprechendes strafrechtliches Verfahren kann mehrere Wochen in Anspruch nehmen. In dieser Zeit dürfen Betroffene das Land nicht verlassen.
 
 * Planen Sie bei Ihren Reise- und Flugdaten großzügig Zeit ein.
 
 #### *Drogenbesitz*
 
-Schon der Besitz von geringen Rauschgiftmengen führt zu hohen Freiheitsstrafen. Auch eine Methadontherapie unterliegt strengen Regeln und erfordert die Zustimmung der Behörden.  
+Schon der Besitz geringer Rauschgiftmengen führt zu hohen Freiheitsstrafen. Auch eine Methadontherapie unterliegt strengen Regeln und erfordert die Zustimmung der Behörden.  
 
 #### *Fotografieren und soziale Medien*
 
 Militärische Gebäude und Anlagen, zivile Flughäfen und Sicherheitskräfte (Polizisten, Soldaten) dürfen nicht fotografiert werden. Vorsicht ist auch beim Fotografieren von Regierungsgebäuden, Bahnhöfen u.Ä. geboten.
+
+Insbesondere für das durch Russland gepachtete Gelände des Weltraumbahnhofs Baikonur gelten strenge Zutritts- und Fotografierverbote; Russland übt auf dem Gelände eigene Hoheitsrechte aus. Von einem Betreten des Weltraumbahnhofs Baikonur wird abgeraten.
 
 Für die Veröffentlichung von Bildern in sozialen Netzwerken gelten weitere Einschränkungen. Bilder von Privatpersonen dürfen nur mit deren Zustimmung veröffentlicht werden. Die Veröffentlichung von Bildern, die als Offenlegung von Staats-, Geschäfts-, Bank- oder medizinischen Geheimnissen gewertet werden können, sowie die Veröffentlichung von Pornografie oder Drogenpropaganda (z.B. auch in Form von Graffiti), sind strafbar.
 
@@ -86,11 +91,11 @@ Für die Veröffentlichung von Bildern in sozialen Netzwerken gelten weitere Ein
 
 Eigentümer von UAVs in Kasachstan sind verpflichtet, diese zu registrieren. Die Registrierung und Nutzung von UAVs unterliegt dem Gesetz über die Nutzung des Luftraums und der Luftfahrt.
 
-* Informieren Sie sich vor Einfuhr oder Nutzung einer Drohne unbedingt vorab bei den zuständigen kasachischen Behörden.
+* Informieren Sie sich unbedingt vor Einfuhr und Nutzung einer Drohne bei den zuständigen kasachischen Behörden.
 
 #### *Missionarstätigkeit/Religion*
 
-Unerlaubte Missionarstätigkeit (Propagieren des eigenen Glaubens, auch: Anbieten zum Verkauf oder Verschenken von religiöser Literatur) kann – ungeachtet der Konfession – mit Geldstrafen geahndet werden.
+Unerlaubte Missionarstätigkeit (Propagieren des eigenen Glaubens, auch: Anbieten zum Verkauf oder Verschenken religiöser Literatur) kann – ungeachtet der Konfession – mit Geldstrafen geahndet werden.
 
 ### Geld/Kreditkarten
 
@@ -102,7 +107,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Kasachstans sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Kasachstans sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -119,23 +124,23 @@ Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate g�
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für einen Aufenthalt von bis zu 30 Tagen kein Visum. Weitere Informationen zur visumfreien Einreise sind bei der [Botschaft der Republik Kasachstan in Berlin](https://www.gov.kz/memleket/entities/mfa-berlin?lang=en) erhältlich.
+Deutsche Staatsangehörige benötigen für einen Aufenthalt bis zu 30 Tagen kein Visum. Weitere Informationen zur visumsfreien Einreise sind bei der [Botschaft der Republik Kasachstan in Berlin](https://www.gov.kz/memleket/entities/mfa-berlin?lang=en) erhältlich.
 
 Für einen Aufenthalt von mehr als 30 Tagen benötigen deutsche Staatsangehörige nach wie vor ein Visum. Das Visum muss rechtzeitig bei einer kasachischen Auslandsvertretung beantragt werden. Die Bearbeitung des Antrags kann mehrere Wochen dauern. Weitere Hinweise zum Verfahren und zu den notwendigen Unterlagen erteilt die [Botschaft der Republik Kasachstan in Berlin.](https://www.gov.kz/memleket/entities/mfa-berlin?lang=en) Nach Erhalt des Visums wird empfohlen, es auf Richtigkeit zu kontrollieren.
 
 ### Benachrichtigung der Migrationspolizei
 
-Die Einreise nach Kasachstan von allen ausländischen Staatsangehörigen muss bei der Migrationspolizei bzw. dem Migrationsdienst angezeigt werden. Zuständig für die Anzeige ist die einladende Partei (Privatperson, Firma, Hotel, Krankenhaus etc.) Die Benachrichtigung muss innerhalb von drei Arbeitstagen nach Einreise erfolgen und ist auch dann erforderlich, wenn Ausländer visumfrei eingereist sind. Die Dauer des Aufenthalts ist dabei unerheblich. Hinweise zum Verfahren bei den kasachischen Behörden finden sich auf dem [Visa-Migrationsportal.](https://www.vmp.gov.kz/en/services) Die Anzeige über das Portal ist nur dann möglich, wenn die einladende Partei eine elektronische Signatur besitzt.
+Die Einreise aller ausländischen Staatsangehörigen nach Kasachstan muss bei der Migrationspolizei bzw. dem Migrationsdienst angezeigt werden. Zuständig für die Anzeige ist die einladende Partei (Privatperson, Firma, Hotel, Krankenhaus etc.) Die Benachrichtigung muss innerhalb von drei Arbeitstagen nach Einreise erfolgen und ist auch dann erforderlich, wenn Ausländer visumsfrei eingereist sind. Die Dauer des Aufenthalts ist dabei unerheblich. Hinweise zum Verfahren bei den kasachischen Behörden finden sich auf dem [Visa-Migrationsportal.](https://www.vmp.gov.kz/en/services) Die Anzeige über das Portal ist nur dann möglich, wenn die einladende Partei eine elektronische Signatur besitzt.
 
 * Lassen Sie sich zu Ihrer eigenen Sicherheit den Nachweis über die erfolgte Anzeige in ausgedruckter Form vorlegen und führen ihn bis zu Ihrer Ausreise mit.
 
-Versäumt der Einlader es, die Migrationspolizei bzw. den Migrationsdienst über die Einreise zu benachrichtigen, drohen hohe Geldstrafen.
+Versäumt der Einladende es, die Migrationspolizei bzw. den Migrationsdienst über die Einreise zu benachrichtigen, drohen hohe Geldstrafen.
 
 Wird der erlaubte Aufenthaltszeitraum ohne Erlaubnis der kasachischen Behörden überzogen, drohen hohe Geld- und ggfs. auch Haftstrafen sowie ein mehrwöchiges gerichtliches Verfahren, währenddessen das Land nicht verlassen werden darf. Der Grund für die verspätete Ausreise (z.B. auch bei Ausfall/Verspätung eines Flugs) ist dabei unerheblich.
 
 ### Einreise über die Russische Föderation
 
-Falls Sie auf dem Landweg (Auto, Zug) über die Russische Föderation einreisen oder bei Einreise mit dem Flugzeug die internationale Transitzone des Flughafens verlassen müssen, ist ein russisches Transitvisum erforderlich. Bei Einreise über die Russische Föderation mit dem Zug kann aufgrund des Verlaufs der Bahnstrecke die mehrfache Ein- und Ausreise aus Russland bzw. nach Kasachstan erforderlich sein. In einem solchen Fall ist ein Visum erforderlich, das die mehrfache Ein- und Ausreise erlaubt (Multivisa).
+Reisende, die auf dem Landweg über die Russische Föderation einreisen oder bei Einreise mit dem Flugzeug die internationale Transitzone des russischen Flughafens verlassen müssen, benötigen ein russisches Transitvisum. Bei Einreise über die Russische Föderation mit dem Zug kann aufgrund des Verlaufs der Bahnstrecke die mehrfache Ein- und Ausreise aus Russland bzw. nach Kasachstan erforderlich sein. In einem solchen Fall ist ein Visum erforderlich, das die mehrfache Ein- und Ausreise erlaubt (Multivisa).
 
 ### Ehemalige kasachische Staatsangehörige
 
@@ -145,7 +150,7 @@ Kasachstan akzeptiert grundsätzlich keine doppelte Staatsangehörigkeit. (Ehema
 
 Alleinreisende Minderjährige sollten eine notariell beglaubigte Erklärung der Eltern mit Übersetzung ins Russische oder Kasachische mit sich führen, wonach sie ohne Begleitung (oder in Begleitung einer bestimmten Person) reisen dürfen.
 
-Gemäß kasachischem Sorgerecht haben beide Eltern gemeinsames Sorgerecht für ein Kind, auch, wenn sie nicht miteinander verheiratet sind.
+Gemäß kasachischem Sorgerecht haben beide Eltern gemeinsames Sorgerecht für ein Kind, auch wenn sie nicht miteinander verheiratet sind.
 
 ### Einfuhrbestimmungen
 
@@ -155,9 +160,15 @@ Bei Einfuhr bestimmter Gegenstände (z.B. Einfuhr von mehr als nur einem technis
 
 Für bestimmte Waren existieren Einfuhrbeschränkungen und -verbote.
 
+#### *Medikamente*
+
+Reisende, die aus medizinischen Gründen auf die Mitnahme einer großen Menge Medikamente (oder Medikamente, die als Betäubungsmittel gelten) angewiesen sind, sollten sich vor Einreise bei den [kasachischen Auslandsvertretungen](https://www.auswaertiges-amt.de/de/service/laender/kasachstan-node/vertretungenkasachstan/206350) oder den kasachischen Zollbehörden über die aktuell geltenden Einfuhrbestimmungen informieren.
+
+Reisende, die über eine ärztliche Bescheinigung über ihre gesundheitliche Situation und die Erforderlichkeit von Medikamenten verfügen, sollten diese in russischer und/oder kasachischer Übersetzung mit sich führen.
+
 ### Heimtiere
 
-Informationen über die Einfuhr von Heimtieren nach Kasachstan können vorab bei den kasachischen Auslandsvertretungen bzw. beim kasachischen Zoll erfragt werden. Nur dort können rechtsverbindliche Auskünfte gegeben werden.
+Informationen über die Einfuhr von Haustieren nach Kasachstan können vorab bei den kasachischen Auslandsvertretungen bzw. beim kasachischen Zoll erfragt werden. Nur dort können rechtsverbindliche Auskünfte gegeben werden.
 
 Ein aktuelles internationales Gesundheitszertifikat und eine amtsärztliche Bestätigung mit russischer Übersetzung, dass das Tier gesund ist und nicht unter einer ansteckenden Krankheit leidet, müssen mindestens bei der Einreise vorgelegt werden.
 

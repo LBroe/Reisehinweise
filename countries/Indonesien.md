@@ -4,19 +4,27 @@
 
 **Von nicht unbedingt erforderlichen Reisen in fünf der sechs Provinzen des indonesischen Teils der Insel Neuguinea (Papua, Papua Barat, Papua Pegunungan, Papua Tengah und Papua Selatan) wird abgeraten.**
 
-### *Mpox*
+### *Vulkanische Aktivität und Beeinträchtigungen des Flugverkehrs*
 
-Seit dem 29. August 2024 müssen Einreisende aus dem Ausland aufgrund der Ausbreitung des Mpox-Erregers auf der [Webseite des indonesischen Gesundheitsministeriums](https://sshp.kemkes.go.id/) einen Gesundheitsfragebogen ausfüllen und damit einen QR-Code generieren, der beim Check-in und bei der Einreise vorzuzeigen ist.
+Aufgrund des Ausbruchs des Vulkans Lewotobi Laki-Laki im Osten der Insel Flores kommt es zu Beeinträchtigungen des innerindonesischen Flugverkehrs. Aktuell sind die Flughäfen in Labuan Bajo, Ende und Maumere auf Flores sowie die Flughäfen der Provinz West-Nusa Tenggara geschlossen. Auch an anderen Flughäfen kommt es zu zahlreichen Annullierungen.
 
-### *Vulkanische Aktivität*
+Internationale Flüge von und nach Bali/Denpasar bzw. Australien können ebenfalls betroffen sein.
 
-Einige Vulkane in verschiedenen Landesteilen Indonesiens haben in jüngster Vergangenheit erhöhte Aktivität gezeigt. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen weiträumig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Mit Beeinträchtigungen im Flugverkehr bis zur Schließung von Flughäfen muss bei erhöhter vulkanischer Aktivität gerechnet werden. Siehe auch *Natur und Klima.*
+Es kann jederzeit zu kurzfristigen Änderungen und Annullierungen kommen. Es wird empfohlen, sich rechtzeitig vor Reiseantritt bei der jeweiligen Fluggesellschaft zu erkundigen.
+
+In einem Umkreis von 7 km um den Krater des Vulkans Lewotobi Laki-Laki wurde von den lokalen Behörden eine Sperrzone eingerichtet.
+
+Einige Vulkane in verschiedenen Landesteilen Indonesiens haben in jüngster Vergangenheit erhöhte Aktivität gezeigt. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen weiträumig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Siehe auch *Natur und Klima.*
 
 * Halten Sie sich nicht in den ausgewiesenen Sperrzonen auf.
-* Bitte informieren Sie sich vor Reiseantritt über kurzfristige Schließungen, Flugausfälle und Verspätungen.
+* Bitte informieren Sie sich vor Reiseantritt über kurzfristige Schließungen, Flugausfälle und Verspätungen bei Ihrer jeweiligen Fluggesellschaft.
 * Bitte informieren Sie sich über die Verhaltenshinweise bei Vulkanausbrüchen des [International Volcanic Health Hazard Network IVHHN.](https://www.ivhhn.org/)
 * Machen Sie sich bei einem Aufenthalt in erdbeben- oder tsunamigefährdeten Gebieten und vor einer Wanderung oder Besteigung eines Vulkans mit den Gefahren und Verhaltenshinweisen vertraut. Entsprechende Merkblätter hält das [Deutsche GeoForschungsZentrum](https://www.gfz-potsdam.de/medien-und-kommunikation/infothek/#gfz-collapse-c63028) bereit.
 * Beachten Sie unbedingt die entsprechenden [Hinweise der indonesischen Regierung.](https://magma.vsi.esdm.go.id/)
+
+### *Mpox*
+
+Seit dem 29. August 2024 müssen Einreisende aus dem Ausland aufgrund der Ausbreitung des Mpox-Erregers auf der [Webseite des indonesischen Gesundheitsministeriums](https://sshp.kemkes.go.id/) einen Gesundheitsfragebogen ausfüllen und damit einen QR-Code generieren, der beim Check-in und bei der Einreise vorzuzeigen ist.
 
 ## Sicherheit
 
@@ -71,7 +79,7 @@ Die Polizei ist häufig nicht bereit, Anzeigen entgegenzunehmen. 
 * Achten Sie auf Ihre Umgebung, insbesondere bei Fahrten mit Mietfahrzeugen, halten Sie möglichst nur an sicher erscheinenden Orten an und Fenster und Türen bei der Fahrt geschlossen.
 * Seien Sie in größeren Menschenmengen wie an Flughäfen, Bahnhöfen und in öffentlichen Verkehrsmitteln besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Lassen Sie Getränke nie unbeaufsichtigt und beim Bezahlvorgang Ihre Kreditkarte nicht aus den Augen.
-* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Messenger-Nachrichten, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich von der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
+* Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Messenger-Nachrichten, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
 
@@ -174,14 +182,14 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Indonesiens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Indonesiens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
 Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten möglich:
 
 * **Reisepass:** Ja
-* **Vorläufiger Reisepass:** Ja, nur mit einem vor der Einreise in Deutschland durch die zuständige indonesische Auslandsvertretung erteilten Visum (siehe *Visa on Arrival*); Die elektronische Beantragung des Visa on Arrival über die entsprechende Webseite ist nicht möglich! Mindestrestgültigkeit sechs Monate bei Einreise.
+* **Vorläufiger Reisepass:** Ja, nur mit einem vor der Einreise in Deutschland durch die zuständige indonesische Auslandsvertretung erteilten Visum (siehe *Visum bei Einreise*); Die elektronische Beantragung des Visums bei Einreise über die entsprechende Webseite ist nicht möglich! Mindestrestgültigkeit sechs Monate bei Einreise.
 * **Personalausweis:** Nein
 * **Vorläufiger Personalausweis:** Nein
 * **Kinderreisepass:** Ja, mit Einschränkung: nur, wenn nicht verlängert/aktualisiert, siehe Hinweis *Visum bei Einreise* sowie *Anmerkungen/Mindestrestgültigkeit.*
@@ -194,7 +202,7 @@ Reisedokumente müssen zum Zeitpunkt der Ein- und Ausreise noch mindestens sechs
 
 Kinderreisepässe dürfen nicht verlängert bzw. mit aktuellerem Bild versehen worden sein. Die indonesischen Grenzbehörden haben in mehreren solchen Fällen bereits die Einreise verweigert bzw. wurde durch Fluggesellschaften die Mitnahme nach Indonesien abgelehnt.
 
-Die Website zur Beantragung des elektronischen Visa on Arrival unterscheidet nicht nach Passart. Ein Antrag mit einem vorläufigen Reisepass kann dazu führen, dass die Fluggesellschaft die Beförderung oder die indonesischen Behörden die Einreise verweigern.
+Die Website zur Beantragung des elektronischen Visums bei Einreise unterscheidet nicht nach Passart. Ein Antrag mit einem vorläufigen Reisepass kann dazu führen, dass die Fluggesellschaft die Beförderung oder die indonesischen Behörden die Einreise verweigern.
 
 Pässe, die einmal als verloren oder gestohlen gemeldet wurden, können nicht zur Einreise benutzt werden. Die indonesischen Grenzbehörden verweigerten in solchen Fällen bereits mehrfach deutschen Staatsangehörigen die Einreise.
 
@@ -204,7 +212,7 @@ Eine Einflussnahme der Botschaft Jakarta auf die indonesischen Behörden, im Fal
 
 Siehe *Aktuelles (Tourismusgebühr)*
 
-Deutsche Staatsangehörige können mit ihrem gültigen Reisepass je nach Zweck, Reiseroute und Dauer des Aufenthaltes in Indonesien entweder bei Einreise ein „Visa on Arrival“ erhalten oder vor Einreise nach Indonesien bei der zuständigen Auslandsvertretung der Republik Indonesien ein Visum beantragen.
+Deutsche Staatsangehörige können mit ihrem gültigen Reisepass je nach Zweck, Reiseroute und Dauer des Aufenthaltes in Indonesien entweder bei Einreise ein Visum bei Einreise erhalten oder vor Einreise nach Indonesien bei der zuständigen Auslandsvertretung der Republik Indonesien ein Visum beantragen.
 
 Geschäftsreisende sollten beachten, dass Tätigkeiten, die über bloße Geschäftsgespräche hinausgehen, arbeitserlaubnispflichtig sein können. Wird eine möglicherweise erforderliche Arbeitserlaubnis nicht vor der Einreise eingeholt, ist bei der Einreise mit sofortigen Sanktionsmaßnahmen zu rechnen.
 
@@ -220,15 +228,15 @@ Visa für deutsche Staatsangehörige können bei der Einreise beantragt werden. 
 * Rückflug- oder Weiterflugticket in ein anderes Land
 * Visumgebühren i.H.v. 500.000 IDR
 
-Das Visum (Visa on Arrival) ist bis zu 30 Tage gültig. Eine einmalige Verlängerung dieses Visums um weitere 30 Tage ist möglich. Zuständig ist jede Ausländerbehörde (Imigrasi) in Indonesien.
+Das Visum (Visum bei Einreise) ist bis zu 30 Tage gültig. Eine einmalige Verlängerung dieses Visums um weitere 30 Tage ist möglich. Zuständig ist jede Ausländerbehörde (Imigrasi) in Indonesien.
 
-Ein [elektronisches Visa on Arrival](https://evisa.imigrasi.go.id/) kann bereits vor Einreise beantragt und bargeldlos bezahlt werden. Eine einmalige elektronische Verlängerung ist möglich.
+Ein [elektronisches Visum bei Einreise](https://evisa.imigrasi.go.id/) kann bereits vor Einreise beantragt und bargeldlos bezahlt werden. Eine einmalige elektronische Verlängerung ist möglich.
 
-Die Website zur Beantragung des elektronischen Visa on arrival unterscheidet nicht nach Passart. Ein Antrag mit einem vorläufigen Reisepass kann dazu führen, dass die Fluggesellschaft die Beförderung oder die indonesischen Behörden die Einreise verweigern.
+Die Website zur Beantragung des elektronischen Visums bei Einreise unterscheidet nicht nach Passart. Ein Antrag mit einem vorläufigen Reisepass kann dazu führen, dass die Fluggesellschaft die Beförderung oder die indonesischen Behörden die Einreise verweigern.
 
 #### *Visum vor der Einreise*
 
-Ein vor der Einreise erteiltes Visum (kein elektronisches Visa on Arrival) ist in folgenden Fällen zwingend erforderlich:
+Ein vor der Einreise erteiltes Visum (kein elektronisches Visum bei Einreise) ist in folgenden Fällen zwingend erforderlich:
 
 * für die Einreise mit einem vorläufigen Reisepass (mindestens sechs Monate gültig).
 * für längerfristige Aufenthalte,
@@ -266,7 +274,7 @@ Informationen bezüglich des Imports von Heimtieren nach Indonesien stellen die 
 
 ## Gesundheit
 
-Siehe Abschnitt *Aktuelles - Mpox*  
+Siehe Abschnitt *Aktuelles - Mpox*
 
 ### *Aktuelles*
 
