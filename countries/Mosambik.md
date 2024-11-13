@@ -10,7 +10,7 @@
 
 Seit Bekanntgabe der Wahlergebnisse der Präsidentschafts-, Parlaments- und Gouverneurswahlen vom 9. Oktober 2024 kommt es immer wieder zu (auch unangekündigten) Demonstrationen und zu Zusammenstößen mit Sicherheitskräften, auch mit Todesfolge.
 
-Für den 7. November 2024 ist eine Großdemonstration in Maputo angekündigt. Es wird empfohlen, den Großraum Maputo zu meiden bzw. in Maputo an diesem Tag möglichst seinen Aufenthaltsort nicht zu verlassen.
+Für die Zeit vom 13. bis 15. November 2024 sind für das ganze Land weitere Aktionen angekündigt, die auch die Grenzübergänge betreffen können.
 
 * Meiden Sie Demonstrationen, größere Menschenansammlungen und Protestmärsche weiträumig.
 * Meiden Sie in Ortschaften weiträumig Parteizentralen und Büros der Wahlbehörde.
@@ -21,7 +21,7 @@ Gewalttätige Auseinandersetzungen und Vandalismus können auch für die folgend
 
 Durch anhaltende Streiks kann es zu Versorgungsengpässen kommen. Auch Tankstellen können betroffen sein. Es wird daher geraten, Vorräte aufzustocken und stets mit vollem Tank zu fahren.
 
-Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen. **Von nicht notwendigen Überlandfahrten wird daher bis 7. November 2024 abgeraten.**
+Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen. **Von nicht notwendigen Überlandfahrten wird daher bis vom 13.-15. November 2024 abgeraten.**
 
 * Informieren Sie sich regelmäßig und in kurzen Abständen über die lokalen Medien.
 * Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.
