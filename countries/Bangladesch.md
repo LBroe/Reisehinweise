@@ -4,7 +4,7 @@
 
 **Von nicht notwendigen Reisen nach Bangladesch wird derzeit abgeraten.**
 
-Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli trat Premierministerin Hasina im August 2024 zurück und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am im August 2024 vereidigt.  
+Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli trat Premierministerin Hasina im August 2024 zurück und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde im August 2024 vereidigt.  
 
 Der Flughafen Dhaka ist zwar geöffnet, die Sicherheitsmaßnahmen wurden jedoch erhöht.
 
