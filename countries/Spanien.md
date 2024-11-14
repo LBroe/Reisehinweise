@@ -2,18 +2,14 @@
 
 ## Aktuelles
 
-Für Teile Andalusiens und den Süden der Provinz Kataloniens, insbesondere die Gegend um und südlich von Tarragona, wurde von den spanischen Behörden für den 13. November 2024 eine Unwetterwarnung herausgegeben.
-
-* Bitte beachten Sie die Hinweise der örtlichen Behörden, z.B. auf der [Webseite der staatlichen Agentur für Meteorologie AEMET.](https://www.aemet.es/es/eltiempo/prediccion/avisos)
-
-Stärkere Regenfälle gemäß AEMET sind auch in der autonomen Gemeinschaft Valencias zu erwarten. In den betroffenen Gebieten kann es zu Überschwemmungen kommen.
-
-Aufgrund heftiger Unwetter ist es bereits Ende Oktober im Osten und Südosten des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen sind Gebiete in der Provinz Valencia, in denen es mehr als 200 Todesopfer gab; zahlreiche Menschen werden noch vermisst.
+Aufgrund heftiger Unwetter ist es bereits im Osten und Süden des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen sind Gebiete in der Provinz Valencia, in denen es mehr als 200 Todesopfer gab.
 
 Die Aufräum- und Bergungsarbeiten sind in den betroffenen Gebieten noch nicht abgeschlossen.
 
 Der Zugverkehr ist zum Teil noch eingeschränkt und teilweise sind auch Straßen nicht befahrbar. Über Einschränkungen im Straßennetz informieren die [spanische Straßenverkehrsbehörde](https://infocar.dgt.es/etraffic/) und die [Regierung der autonomen Gemeinschaft Valencia](https://www.112cv.gva.es/es/inicio).
 
+* Bitte beachten Sie die Hinweise der örtlichen Behörden, z.B. auf der [Webseite der staatlichen Agentur für Meteorologie AEMET.](https://www.aemet.es/es/eltiempo/prediccion/avisos)
+* Aktuelle Wetterwarnungen bietet auch [MeteoAlarm.](https://www.meteoalarm.org/en/live/region/IT)
 * Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Sicherheit
@@ -132,8 +128,7 @@ Zahlungsmittel ist der EUR. Das Abheben von Bargeld an Geldautomaten und die Bez
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 

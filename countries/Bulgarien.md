@@ -24,7 +24,7 @@ Vor dem Hintergrund hoher Flüchtlingszahlen könnte die Mitnahme von Anhaltern 
 * Seien Sie in größeren Menschenmengen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Schließen Sie Fahrzeuge immer ab und lassen Sie keine offen sichtbaren Gegenstände oder Wertsachen und Dokumente im Fahrzeug liegen.
 * Nehmen Sie keine Anhalter mit.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## Natur und Klima
@@ -37,15 +37,15 @@ Im Schwarzen Meer entstehen auch in Strandnähe immer wieder gefährliche Unterw
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden und Rettungsschwimmer.
 * Achten Sie auch in flachen Gewässern darauf, ob das Baden an der Stelle tatsächlich erlaubt ist.
-* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben, Vulkanausbrüchen und Tsunamis vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
+* Machen Sie sich mit Verhaltenshinweisen bei Erdbeben vertraut. Diese bieten die Merkblätter des [Deutschen GeoForschungsZentrums](https://www.gfz-potsdam.de/presse/infothek "Geoforschungszentrum Potsdam: Merkblätter zu Erdbeben und Tsunamis").
 
 ## Reiseinfos
 
 ### Grenzkontrollen
 
-Bulgarien liegt auf der wichtigsten Transitroute für den Straßenverkehr von Deutschland über Serbien oder Rumänien in die Türkei. In der Ferienzeit entstehen durch den Urlaubsverkehr - insbesondere an Wochenenden - an den Grenzübergängen häufig Verkehrsstaus mit mehrstündigen Wartezeiten. Es wird deshalb empfohlen, Reisen in dieser Zeit am Wochenende zu meiden und auf Wochentage auszuweichen.
+Bulgarien liegt auf der wichtigsten Transitroute für den Straßenverkehr von Deutschland über Serbien oder Rumänien in die Türkei. In der Ferienzeit entstehen durch den Urlaubsverkehr - insbesondere an Wochenenden - an den Grenzübergängen häufig Verkehrsstaus mit mehrstündigen Wartezeiten. Es wird deshalb empfohlen, Reisen in dieser Zeit am Wochenende zu vermeiden und auf Wochentage auszuweichen.
 
-Die Grenzen von Bulgarien zu Serbien, zur Türkei und zur Republik Nordmazedonien sind EU-Außengrenzen. Bulgarien ist seit dem 31. März 2024 Teil des Schengenraums. An den Landesgrenzen finden jedoch weiterhin Grenzkontrollen statt; es muss daher bei allen Grenzübertritten über Land mit Ausweis- und Zollkontrollen gerechnet werden. Grenzkontrollen an Flughäfen und Seehäfen für Reisen innerhalb des Schengenraums finden seit dem 31. März 2024 nicht mehr statt.
+Die Grenzen von Bulgarien zu Serbien, zur Türkei und zur Republik Nordmazedonien sind EU-Außengrenzen. Bulgarien ist seit März 2024 Teil des Schengenraums. An den Landesgrenzen finden jedoch weiterhin Grenzkontrollen statt; es muss daher bei allen Grenzübertritten über Land mit Ausweis- und Zollkontrollen gerechnet werden. Grenzkontrollen an Flughäfen und Seehäfen für Reisen innerhalb des Schengenraums finden seit März 2024 nicht mehr statt.
 
 Aufgrund von umfangreichen Bauarbeiten auf bulgarischer Seite kommt es in Abhängigkeit von der allgemeinen Verkehrssituation immer wieder zu zusätzlicher Staubildung am Grenzübergang Kalotina/Gradinje (Serbien), wodurch längere Wartezeiten einzukalkulieren sind.
 
@@ -71,11 +71,11 @@ Der Zustand vieler Straßen (hauptsächlich innerorts, aber auch Landstraßen) i
 
 Es besteht ganzjährig die Pflicht, auch tagsüber mit Abblendlicht zu fahren.
 
-Die Höchstgeschwindigkeit für normale Pkw (Kategorie B, keine Kleinbusse zur Personenbeförderung) beträgt, sofern keine anderen Regelungen örtlich getroffen wurden, innerorts 50 km/h, außerorts 90 km/h, auf Schnellstraßen 120 km/h und auf Autobahnen 140 km/h. Die höchstzulässige Blutalkoholkonzentration für Fahrzeugführer liegt bei 0,5 Promille. Bei Verstößen gegen die Straßenverkehrsordnung ist mit Geld- und Haftstrafen und - insbesondere bei Alkoholverstößen und Geschwindigkeitsübertretungen, Führerscheinentzug sowie ggf. Einzug der Kennzeichen zu rechnen.
+Die Höchstgeschwindigkeit für normale Pkw (Kategorie B, keine Kleinbusse zur Personenbeförderung) beträgt, sofern keine anderen Regelungen örtlich getroffen wurden, innerorts 50 km/h, außerorts 90 km/h, auf Schnellstraßen 120 km/h und auf Autobahnen 140 km/h. Die höchstzulässige Blutalkoholkonzentration für Fahrzeugführer liegt bei 0,5 Promille. Bei Verstößen gegen die Straßenverkehrsordnung ist mit Geld- und Haftstrafen und - insbesondere bei Alkoholverstößen und Geschwindigkeitsübertretungen -Führerscheinentzug sowie ggf. Einzug der Kennzeichen zu rechnen.
 
 Bei Fahrern mit einer festgestellten Blutalkoholkonzentration von über 1,2 Promille kann bis zum Abschluss des Gerichtsverfahrens das Fahrzeug beschlagnahmt werden. Sofern der Fahrer nicht Halter des Fahrzeugs ist, hat er eine Kaution in Höhe des Gegenwerts des betreffenden Fahrzeugs zu hinterlegen.
 
-Polizeiliche Kontrollen an den Landstraßen und Autobahnen sind häufig. Verkehrspolizisten sind verpflichtet, reflektierende Schutzwesten und einen Dienstausweis mit Lichtbild, Name und Einheit zu tragen. Geldstrafen wegen Verstößen gegen die Straßenverkehrsordnung sind nie direkt an die kontrollierenden Verkehrspolizisten, sondern nur unbar per Bankeinzahlung zu zahlen.
+Polizeiliche Kontrollen an den Landstraßen und Autobahnen sind häufig. Verkehrspolizisten sind verpflichtet, reflektierende Schutzwesten und einen Dienstausweis mit Lichtbild, Name und Einheit zu tragen. Geldstrafen wegen Verstößen gegen die Straßenverkehrsordnung sind nie direkt an die kontrollierenden Verkehrspolizisten, sondern nur per Bankeinzahlung zu zahlen.
 
 Auch im Rahmen der Grenzkontrolle wird eine Überprüfung der Fahrzeugführerin/des Fahrzeugführers auf unbezahlte Bußgelder vorgenommen. Werden unbezahlte Bußgelder, bei denen die Widerspruchsfristen abgelaufen und die nicht verjährt sind, festgestellt, wird der Vorgang vor Ort an die örtlich zuständige Nationalpolizei übergeben. Die Fahrerin/der Fahrer hat die Möglichkeit, direkt am Grenzübergang das Bußgeld zu bezahlen. Andernfalls ist damit zu rechnen, dass Führerschein und ggf. das Kfz eingezogen werden, was weitere Kosten nach sich zieht.
 
@@ -92,7 +92,7 @@ Wer ohne gültige Vignette fährt, muss eine Strafe in Höhe von 300 BGN zahlen,
 
 ### Führerschein
 
-Der deutsche Führerschein ist gültig und ausreichend.
+Der deutsche Führerschein wird anerkannt.
 
 ### LGBTIQ
 
@@ -123,7 +123,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -145,7 +145,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 
 ### Registrierung
 
-Bei Aufenthalten von mehr als 90 Tagen ist es erforderlich, dass man sich bei der zuständigen Ausländerbehörde am Aufenthaltsort anmeldet und die Ausstellung einer „Bescheinigung für EU-Bürger“ über das Aufenthaltsrecht beantragt.
+Bei Aufenthalten von mehr als 90 Tagen ist es erforderlich, sich bei der zuständigen Ausländerbehörde am Aufenthaltsort anzumelden und die Ausstellung einer „Bescheinigung für EU-Bürger“ über das Aufenthaltsrecht zu beantragen.
 
 ### Minderjährige
 
@@ -157,27 +157,17 @@ Weitere Einzelheiten erfragen Sie bitte bei der [bulgarischen Botschaft in Berli
 
 ### Einfuhrbestimmungen
 
-Die Ein- und Ausfuhr von Summen ab 10.000 EUR ist gegenüber den bulgarischen Zollbehörden schriftlich zu deklarieren. Entsprechende Formulare sind u.a. auch auf Deutsch, Englisch und Französisch beim Zoll erhältlich. Mit Bargeld sind auch Wertpapiere gemeint.
-
 Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz keiner Warenkontrollen schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus.
 
-Erfolgt die Einreise nicht direkt aus einem anderen EU-Staat, muss unter Umständen nachgewiesen werden, dass die Waren innerhalb der EU erworben wurden. Bei großen Mengen von Alkohol, Kaffee und ähnlichen hoch besteuerten Waren muss eventuell glaubhaft gemacht werden, dass sie für persönliche, nicht kommerzielle Zwecke bestimmt sind.
+Die Ein- und Ausfuhr von Summen ab 10.000 EUR in und aus Nicht-EU-Staaten ist gegenüber den bulgarischen Zollbehörden schriftlich zu deklarieren. Entsprechende Formulare sind u.a. auch auf Deutsch, Englisch und Französisch beim Zoll erhältlich. Mit Bargeld sind auch Wertpapiere gemeint. Die Ein- und Ausfuhr von Summen ab 10.000 EUR in und aus EU-Staaten muss nur auf Befragen der Zollbehörden deklariert werden. Weitere Informationen zur zollfreien Wareneinfuhr bietet der [bulgarische Zoll](https://customs.bg/wps/portal/agency-en/home/info-citizens/info-citizens) unter „Excise goods in the personal luggage of passengers.“
 
-Bei Nichtbeachtung der Deklarationspflichten wird der gesamte im- oder exportierte Betrag entschädigungslos zugunsten des bulgarischen Staates eingezogen. Außerdem können Bußgelder verhängt werden.
-
-Ausländer dürfen ferner Edelmetalle, -steine und -erzeugnisse ein- und ausführen, ohne sie zu deklarieren:
-
-* bis zu 37 g Gold und Platin (in rohem oder bearbeitetem Zustand und Münzen),
-* 60 g Gold- oder Platinschmuck
-* 300 g Silber (in rohem oder bearbeitetem Zustand, Münzen und Schmuck)
-
-Bei größeren Mengen ist eine schriftliche Zollerklärung abzugeben. Bei Nichtbeachtung der Deklarationspflicht gilt auch hier, dass die gesamte mitgeführte Ware entschädigungslos eingezogen wird und Bußgelder verhängt werden können.
+Bei Nichtbeachtung der Deklarationspflichten wird der gesamte im- oder exportierte Betrag entschädigungslos zu Gunsten des bulgarischen Staates eingezogen. Außerdem können Bußgelder verhängt werden.
 
 Bei Münzen mit archäologischem, historischem oder numismatischem Wert und Gegenständen unter Denkmalschutz ist eine Ausfuhrbescheinigung des Kulturministeriums vorzulegen.
 
 ### Heimtiere
 
-Für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) in Länder der Europäischen Union mit Ausnahme von Irland, Malta und Finnland, wo abweichende Bestimmungen gelten, ist ein EU-Heimtierausweis erforderlich. Er dient u. a. als Nachweis, dass das Tier gegen Tollwut geimpft ist.  
+Für Reisen mit bestimmten Haustieren (Hunde, Katzen, Frettchen) in Länder der Europäischen Union mit Ausnahme von Irland, Malta und Finnland, wo abweichende Bestimmungen gelten, ist ein EU-Heimtierausweis erforderlich. Er dient u. a. als Nachweis, dass das Tier gegen Tollwut geimpft ist.  
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
 
 ## Gesundheit
@@ -236,7 +226,7 @@ Die medizinische Versorgung ist nicht mit der in Deutschland vergleichbar. Zwar 
 
 Ausländische Patienten haben in der Regel die Kosten für eine ärztliche Behandlung vor Ort in bar zu bezahlen. Es wird darauf hingewiesen, dass die Kosten für die medizinische Behandlung von Ausländern relativ hoch sein können. Es sollte auf jeden Fall auf Ausstellung einer formellen Rechnung/Quittung bestanden werden.
 
-Am Goldstrand kann vermehrt festgestellt werden, dass Privatärzte, die ihre Praxen z.T. in Hotels haben, sehr hohe Gebühren auch für einfachere Behandlungen verlangen. Vereinzelt wird von deutschen Ärzten auch über aufwändige und teure Fehldiagnosen und unnötige Behandlungen berichtet. Bei Nichtbezahlung wird mit Verhinderung der Ausreise und Passeinzug gedroht. In Einzelfällen werden Touristen durch Service-Personal des Arztes oder z.T. auch durch einzelne Hotelmitarbeiter bedrängt, die Rechnung zu begleichen und bei Ankunft in Deutschland sogar weiter mit Telefonanrufen belästigt. Erfragen Sie die Behandlungskosten nach Möglichkeit im Voraus und wenden Sie sich in diesen Fällen bitte sofort an Ihren Reiseveranstalter und die Polizei.
+Am Goldstrand kann vermehrt festgestellt werden, dass Privatärzte, die ihre Praxen z.T. in Hotels haben, sehr hohe Gebühren auch für einfachere Behandlungen verlangen. Vereinzelt wird von deutschen Ärzten auch über aufwändige und teure Fehldiagnosen und unnötige Behandlungen berichtet. Bei Nichtbezahlung wird mit Verhinderung der Ausreise und Passeinzug gedroht. In Einzelfällen werden Touristen durch Servicepersonal des Arztes oder z.T. auch durch einzelne Hotelmitarbeiter bedrängt, die Rechnung zu begleichen und bei Ankunft in Deutschland sogar weiter mit Telefonanrufen belästigt. Erfragen Sie die Behandlungskosten nach Möglichkeit im Voraus und wenden Sie sich in diesen Fällen bitte sofort an Ihren Reiseveranstalter und die Polizei.
 
 In Deutschland gesetzlich Versicherte können medizinische Notfallbehandlungen in staatlichen Krankenhäusern und bei Ärzten, die mit der bulgarischen Nationalen Krankenversicherung vertraglich verbunden sind, direkt über die Versicherung abrechnen, eine Barzahlung ist dann nicht erforderlich. Voraussetzung hierfür ist die Vorlage der Europäischen Krankenversicherungskarte (European Health Insurance Card - EHIC), erhältlich bei Ihrer Krankenversicherung in Deutschland. Siehe hierzu auch die Informationen der [bulgarischen staatlichen Krankenversicherung NHIF](http://www.en.nhif.bg).
 
