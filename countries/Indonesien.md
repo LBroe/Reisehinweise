@@ -6,13 +6,11 @@
 
 ### *Vulkanische Aktivität und Beeinträchtigungen des Flugverkehrs*
 
-Aufgrund des Ausbruchs des Vulkans Lewotobi Laki-Laki im Osten der Insel Flores kommt es zu Beeinträchtigungen des innerindonesischen Flugverkehrs. Aktuell sind die Flughäfen in Labuan Bajo, Ende und Maumere auf Flores sowie die Flughäfen der Provinz West-Nusa Tenggara geschlossen. Auch an anderen Flughäfen kommt es zu zahlreichen Annullierungen.
+Aufgrund des Ausbruchs des Vulkans Lewotobi Laki-Laki im Osten der Insel Flores kommt es zu Beeinträchtigungen des innerindonesischen Flugverkehrs. Aktuell sind einige nationale Flughäfen komplett geschlossen; an geöffneten Flughäfen kommt es zu zahlreichen Annullierungen.
 
 Internationale Flüge von und nach Bali/Denpasar bzw. Australien können ebenfalls betroffen sein.
 
-Es kann jederzeit zu kurzfristigen Änderungen und Annullierungen kommen. Es wird empfohlen, sich rechtzeitig vor Reiseantritt bei der jeweiligen Fluggesellschaft zu erkundigen.
-
-In einem Umkreis von 7 km um den Krater des Vulkans Lewotobi Laki-Laki wurde von den lokalen Behörden eine Sperrzone eingerichtet.
+Es kann jederzeit zu kurzfristigen Änderungen und Annullierungen kommen. Es wird empfohlen, sich rechtzeitig vor Reiseantritt bei der jeweiligen Fluggesellschaft zu erkundigen. Hilfreich sind auch gängige Flugtrackingsysteme, die online Auskunft über Flüge geben. In einem Umkreis von 7 km um den Krater des Vulkans Lewotobi Laki-Laki wurde von den lokalen Behörden eine Sperrzone eingerichtet.
 
 Einige Vulkane in verschiedenen Landesteilen Indonesiens haben in jüngster Vergangenheit erhöhte Aktivität gezeigt. Die [Übersichtsseite der indonesischen Regierung](https://magma.vsi.esdm.go.id/) bietet Informationen zu den Gefährdungsstufen und aktuellen Aktivitäten der insgesamt 127 Vulkane. Es wird grundsätzlich empfohlen, die jeweiligen Gefahrenzonen weiträumig zu meiden und sich vorab nach den aktuellen Gefährdungsstufen zu erkundigen. Siehe auch *Natur und Klima.*
 
