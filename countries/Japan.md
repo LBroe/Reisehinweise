@@ -52,8 +52,6 @@ Von den 110 als aktiv geltenden Vulkanen werden derzeit 47 permanent überwacht.
 
 #### *Tropen- und Schneestürme*
 
-Der Taifun Shanshan hat Westjapan erreicht und wird bis zum 1. September von dort aus seinen Weg über die Hauptinseln Japans fortsetzen. Da mit extremen Sturmböen und heftigem Regenfall gerechnet wird, und der genaue Verlauf des Taifuns unvorhersehbar bleibt, ist erhöhte Aufmerksamkeit auf die Wetternachrichten anzuraten. Es sind Einschränkungen im Luft-, Land- und Seeverkehr zu erwarten. Informieren Sie sich bei Ihrem jeweiligen Reiseunternehmen und befolgen Sie ggf. die Anweisungen japanischer Behörden.
-
 In Hokkaido herrscht gemäßigtes Klima, in Honshu, Shikoku, Kyushu gemäßigtes bis subtropisches Klima mit milden Wintern und feucht-heißen Sommern, und in Okinawa im Süden ist das Klima subtropisch mit warm-feuchten Wintern und feucht-heißen Sommern.
 
 Süd- und Westjapan werden im Spätsommer häufig von Taifunen heimgesucht. Starke Winde, Überschwemmungen und Erdrutsche können in der Folge zu erheblichen Schäden und Behinderungen im Reiseverkehr führen.

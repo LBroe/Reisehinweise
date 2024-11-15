@@ -117,12 +117,11 @@ Kreditkarten (vorzugsweise Visa oder Mastercard) werden selten akzeptiert und k�
 
 ## Einreise und Zoll
 
-Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland") Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
-Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
+Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland") Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes. Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Dschibutis sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Dschibutis sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -141,7 +140,7 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate g
 
 Deutsche Staatsangehörige benötigen für die Einreise in die Republik Dschibuti ein Visum, das vor Reiseantritt bei der [dschibutischen Botschaft in Berlin](http://www.dschibuti-botschaft.de/) beantragt werden kann. Zudem kann ein Visum bei Einreise beantragt werden.
 
-Darüber hinaus kann ein [e-Visum](https://www.evisa.gouv.dj/) beantragt werden. Bei Problemen können die zuständigen dschibutischen Behörden unter [support@evisa.dj](mailto:support@evisa.dj) kontaktiert werden.
+Darüber hinaus kann ein [E-Visum](https://www.evisa.gouv.dj/) beantragt werden. Bei Problemen können die zuständigen dschibutischen Behörden unter [support@evisa.dj](mailto:support@evisa.dj) kontaktiert werden.
 
 ### Minderjährige
 
@@ -172,7 +171,7 @@ Die medizinische Versorgung in Dschibuti ist nicht mit der Versorgung in Deutsch
 
 ### Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen
 
-[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Es besteht ein ganzjährig hohes Infektionsrisiko im ganzen Land, inkl. Dschibuti-Stadt. Der Anteil an der gefährlichen Malaria tropica (*P. falciparum*) beträgt 75%; 25% entfallen auf die Malaria tertiana (*Plasmodium vivax)*. Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika.pdf) zur Verfügung.
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Es besteht ein ganzjährig hohes Infektionsrisiko im ganzen Land, inkl. Dschibuti-Stadt. Der Anteil an der gefährlichen Malaria tropica (*P. falciparum*) beträgt 76%; 24% entfallen auf die Malaria tertiana (*Plasmodium vivax)*. Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika.pdf) zur Verfügung.
 
 Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die ganzjährig landesweit auftreten können: [Chikungunyafieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber") [Denguefieber,](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber") [Leishmaniasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/leishmaniasis/2562904 "Leishmaniasis") und [lymphatische Filariosen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/lymphatische-filariosen/2628714 "Lymphatische Filariosen")
 
@@ -186,7 +185,6 @@ Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können 
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise")
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
-* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Es wird eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
 * Lassen sich hinsichtlich einer Cholera-Impfung beraten, falls Sie längerfristig in Choleraepidemiegebieten z.B. als medizinisches Personal oder in der Katastrophenhilfe tätig sind.
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
@@ -229,9 +227,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

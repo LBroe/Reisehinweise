@@ -2,7 +2,13 @@
 
 ## Aktuelles
 
-##### Verpflichtende Versicherung bei der Einreise nach Sansibar seit dem 1. Oktober 2024
+### *Mögliche Änderung des Visumsverfahrens und der Einreisebestimmungen Tansanias zum 30. Januar 2025*
+
+Eine Änderung der Visumsbeantragung und der Bestimmungen zur Einreise nach Tansania kann derzeit mit Wirkung vom 30. Januar 2025 nicht ausgeschlossen werden.
+
+Die Einreise wäre dann nur noch mit einem zuvor -elektronisch- beantragten und erhaltenen sog. [E-Visum](https://visa.immigration.go.tz/) möglich. Bereits jetzt empfehlen tansanische Behörden Visa [elektronisch zu beantragen.](https://visa.immigration.go.tz/) Das bisherige Visum bei Einreise („on arrival“) könnte dann nicht mehr möglich sein. Die Deutsche Botschaft Daressalam und das Auswärtige Amt können derzeit keine weiteren Informationen zum geänderten Visumsverfahren geben. Weitere Hinweise erteilen das zuständige tansanische [Immigration Department](https://www.immigration.go.tz) sowie die [Tansanische Botschaft Berlin](https://de.tzembassy.go.tz/).
+
+### *Verpflichtende Versicherung bei der Einreise nach Sansibar seit dem 1. Oktober 2024*
 
 Seit dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
@@ -167,11 +173,11 @@ Reisedokumente müssen noch mindestens sechs Monate über die Reise hinaus gült
 
 ### Visum
 
-Deutsche Staatsangehörige benötigen für die Einreise nach Tansania ein Visum. Es sollte vor der Einreise als [E-Visum](https://visa.immigration.go.tz) beantragt und bezahlt werden. Die Bearbeitungszeit beträgt mindestens zehn Arbeitstage. Die Deutsche Botschaft Daressalam kann zum Stand der Bearbeitung keine Auskunft erteilen. Diese und ggf. weitere Informationen zum Verfahren erteilen das zuständige tansanische [Immigration Department](http://www.immigration.go.tz/index.php/immigration-services/visa-information) sowie die [Botschaft von Tansania in Berlin](https://de.tzembassy.go.tz/).
+Deutsche Staatsangehörige benötigen für die Einreise nach Tansania ein Visum. Es wird empfohlen, dieses vor der Einreise als [E-Visum](https://visa.immigration.go.tz) zu beantragen und zu bezahlen. Die Bearbeitungszeit beträgt mindestens zehn Arbeitstage. Die Deutsche Botschaft Daressalam kann zum Stand der Bearbeitung keine Auskunft erteilen. Weitere Informationen zum Verfahren erteilen das zuständige tansanische [Immigration Department](https://www.immigration.go.tz) sowie die [Tansanische Botschaft Berlin](https://de.tzembassy.go.tz/).
 
-Neben der vorherigen Einholung des Visums vor der Einreise kann zum Zweck touristischer Reisen ein sog. „Visa on Arrival“ bei Einreise beantragt werden. Die Ausstellung ist jedoch nicht garantiert und zudem muss mit Wartezeit gerechnet werden. Die Kosten betragen zurzeit 50 USD pro Visum (auch minderjährige Kinder), zahlbar bei Einreise per Kreditkarte oder bar in passenden USD-Noten (50/100 USD), siehe auch *Reiseinfos - Geld/Kreditkarten.*
+Die bisherige Möglichkeit, zum Zweck touristischer Reisen ein sog. Visum bei Einreise „on Arrival“ nach Ankunft am Flughafen zu beantragen, besteht derzeit noch. Sie könnte jedoch mit Wirkung vom 30. Januar 2025 abgeschafft werden. Die Kosten des Visums bei Einreise betragen zurzeit 50 USD pro Visum (auch minderjährige Kinder), zahlbar bei Einreise per Kreditkarte oder bar in passenden USD-Noten (50/100), siehe auch *Reiseinfos Geld/Kreditkarten.*
 
-##### **Verpflichtende Versicherung bei Einreise nach Sansibar seit dem 1. Oktober 2024**
+#### **Verpflichtende Versicherung bei Einreise nach Sansibar seit dem 1. Oktober 2024**
 
 Seit dem 1. Oktober 2024 müssen alle Besucher Sansibars (ausgenommen Einwohner mit tansanischem Aufenthaltstitel) eine obligatorische Einreiseversicherung der Zanzibar Insurance Corporation (ZIC) für die Dauer ihres Aufenthalts (bis zu 92 Tage) abschließen.
 
@@ -330,7 +336,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und hä
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
