@@ -7,7 +7,7 @@ Es gab in den letzten Tagen Hinweise zu möglichen terroristischen Anschlägen a
 * Meiden Sie bis auf Weiteres die monatlich stattfindenden ,,Mondscheinpartys" (Full Moon Party) auf Koh Pha Ngan, sowie andere Musikfestivals oder Veranstaltungen mit hoher ausländischer Beteiligung im Land.
 * Verhalten Sie sich bei Reisen in Thailand besonders sicherheitsbewusst und vorsichtig.
 * Leisten Sie den Anweisungen der Sicherheitskräfte Folge. Verfolgen Sie die lokalen und internationalen Medien.
-* Beachten Sie den [weltweiten Sicherheitshinweis](https://studio.auswaertiges-amt.de/blueprint/servlet/page/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970).
+* Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
 
 ## Sicherheit
 
