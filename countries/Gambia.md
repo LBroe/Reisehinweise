@@ -153,8 +153,8 @@ Heimtiere müssen mindestens 30 Tage und maximal 12 Monate vor Einreise gegen To
 
 | Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet ist für alle Personen ab dem Alter von neun Monaten eine Gelbfieberimpfung nachzuweisen. |
 | --- | --- |
-| Reiseimpfungen: | Es ist eine  Impfung gegen Hepatitis A empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist in der Regel nicht notwendig. |
-| Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
+| Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist in der Regel nicht notwendig. |
+| Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender der STIKO](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
 
 ### Medizinische Versorgung
 
@@ -176,10 +176,11 @@ Darüber hinaus gibt es folgende mückenübertragene Erkrankungen, die landeswei
 
 ### Erkrankungen im Zusammenhang mit mangelnder Hygiene
 
-Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")), [Shigellose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/shigellose/2628936 "Shigellose") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") treten auch bei Reisenden auf.
+Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis")), [Shigellose](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/shigellose/2628936 "Shigellose") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") treten auch bei Reisenden auf. In Gambia wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") (cVDPV2) nachgewiesen.
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise")
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Bei Aufenthalten über 4 Wochen sollte laut WHO-Vorgaben eine Impfung 4 Wochen bis 12 Monate vor Ausreise aus dem betroffenen Land erfolgen. Bei einem Aufenthalt unter 4 Wochen ist eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
 * Lassen sich hinsichtlich einer Cholera-Impfung beraten, falls Sie längerfristig in Choleraepidemiegebieten z.B. als medizinisches Personal oder in der Katastrophenhilfe tätig sind.
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
@@ -224,9 +225,7 @@ Reisen ans Meer können mit besonderen Gefahren verbunden sein. Durch Tierkot ve
 * Meiden Sie Strände, die auch von Tieren genutzt werden.
 * Machen Sie sich vor einem Tauchurlaub mit den grundlegenden Gefahren des Sporttauchens vertraut und lassen Sie sich vor Reiseantritt tauchmedizinisch beraten und untersuchen. Beachten Sie unsere [Informationen zum Tauchen.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/tauchen/2519618 "Informationen zum Tauchen")
 
-##### **Bitte beachten Sie neben dem generellen Haftungsausschluss:**
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss den medizinischen Haftungsausschluss.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**  
 
 ## Länderinfos zu Ihrem Reiseland
 
