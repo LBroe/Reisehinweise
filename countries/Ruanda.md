@@ -162,7 +162,7 @@ Für Reisen mit bestimmten Heimtieren (z.B. Hunde, Katzen) sind eine Herkunftsbe
 
 #### *Marburg-Virus-Ausbruch*
 
-Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über einen [Marburg-Virus-](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus")Ausbruch in der Hauptstadt. Durch umfassende Maßnahmen durch die zuständigen Behörden konnte der Ausbruch weitgehend eingedämmt werden, es kommt nur noch vereinzelt zu Fällen. 
+Am 27. September 2024 berichtete das Gesundheitsministerium von Ruanda erstmals über einen [Marburg-Virus-](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus")Ausbruch in der Hauptstadt. Durch umfassende Maßnahmen durch die zuständigen Behörden konnte der Ausbruch eingedämmt werden. 
 
 Das Marburg-Virus kann durch Flughunde und Fledermäuse (beides Reservoirs) und andere infizierte Wildtiere, aber auch von Mensch zu Mensch übertragen werden und zu einem hämorrhagischen Fieber (MHF) führen. Weitere Informationen zum [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") und zum Vorgehen bei Verdacht auf eine Infektion oder bei Kontakt zu einer an [Marburg-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/marburg-virus/2628990 "Marburg-Virus") erkrankten Personen finden Sie auf den [Seiten des RKI,](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Marburgvirus.html) ebenso weitere [Empfehlungen des RKI](https://www.rki.de/DE/Content/InfAZ/M/Marburgvirus/Poster-Reisende.pdf?__blob=publicationFile) für aus den Risikogebieten nach Deutschland Einreisende.
 
@@ -192,22 +192,16 @@ Für die Einreise nach Ruanda aus Europa sind keine Pflichtimpfungen vorgeschrie
 
 ### Malaria
 
-Es besteht ganzjährig ein hohes Risiko im ganzen Land inklusive der Städte. Der Anteil an Malaria tropica (*P. falciparum)* beträgt über 99%. Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html) zur Verfügung.
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Es besteht ein ganzjährig hohes Infektionsrisiko im ganzen Land inklusive der Städte. Der Anteil an der fast ausschließlich vorkommenden Malaria tropica (*P. falciparum*) beträgt über 99%. Eine [Karte der Malaria-Risikogebiete](https://dtg.org/images/Startseite-Download-Box/Weltkarte_2024.pdf) stellt die [DTG](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html) zur Verfügung.  
 
-Die Übertragung erfolgt durch den Stich blutsaugender und nachtaktiver Anopheles-Mücken*.* Unbehandelt verläuft, insbesondere die gefährliche Malaria tropica, bei Nichtimmunen häufig tödlich. Die Erkrankung kann auch noch Wochen bis Monate nach dem Aufenthalt ausbrechen, siehe auch [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria").
+* Schützen Sie sich tagsüber, in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
 
-* Stellen Sie sich bei Auftreten von Fieber in dieser Zeit schnell in einer geeigneten medizinischen Institution vor mit dem Hinweis auf den Aufenthalt in einem Malariagebiet.
+> Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
-Je nach Reiseprofil ist neben der immer notwendigen Expositionsprophylaxe eine Chemoprophylaxe (Tabletteneinnahme) notwendig. Für die Malariaprophylaxe sind verschiedene verschreibungspflichtige Medikamente (z.B. Atovaquon/Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
+Darüber hinaus gibt es folgende mückenübertragene Erkrankung, die ganzjährig landesweit auftreten kann: [Denguefieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
-* Besprechen Sie die Auswahl und persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten unbedingt vor der Einnahme mit einem Tropen- bzw. Reisemediziner.
-* Wir empfehlen die Mitnahme eines ausreichenden Vorrats.
-
-Aufgrund der mückengebundenen Infektionsrisiken wird allen Reisenden eine [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") empfohlen:
-
-* Tragen Sie körperbedeckende helle Kleidung (lange Hosen, lange Hemden).
-* Tragen Sie wiederholt Insektenschutzmittel auf alle unbedeckten Körperstellen in den frühen Abendstunden und nachts bei Aufenthalt im Freien.
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
+* Schützen Sie sich tagsüber, in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
+* Lassen Sie sich zur Impfung gegen Dengue-Fieber bzgl. Ihres persönlichen Risikos beraten.
 
 ### Sexuell übertragene Erkrankungen
 
@@ -255,19 +249,19 @@ Die Meningokokken-Erkrankung wird im gesamten Land hauptsächlich in der Trocken
 
 ### Schistosomiasis (Bilharziose)
 
-Die Gefahr der Übertragung von Schistosomiasis besteht beim Baden in Süßwassergewässern im gesamten Land (auch Kivu-See), s. [Schistosomiasis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")
+Die Gefahr der Übertragung von Schistosomiasis besteht beim Baden in Süßwassergewässern im gesamten Land (auch Kivu-See), siehe [Schistosomiasis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")
 
 * Unterlassen Sie grundsätzlich das Baden im offenen Süßwasser.
 
 ### Medizinische Versorgung
 
-Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist vielfach technisch, apparativ und/ oder hygienisch problematisch. Auch in Kigali sind schwere Krankheiten/Unfallfolgen nicht immer ausreichend behandelbar. Für ärztliche Leistungen und Krankenhausbehandlung in Ruanda ist für Ausländer grundsätzlich Vorauskasse zu leisten.
+Die medizinische Versorgung in Ruanda ist mit Europa nicht zu vergleichen und ist vielfach technisch, apparativ und/ oder hygienisch problematisch. Auch in Kigali sind schwere Krankheiten/Unfallfolgen nicht immer ausreichend behandelbar. Für ärztliche Leistungen und Krankenhausbehandlung in Ruanda ist für Ausländer grundsätzlich Vorauskasse zu leisten.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG").
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
