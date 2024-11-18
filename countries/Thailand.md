@@ -1,27 +1,16 @@
 # Thailand: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Es gab in den letzten Tagen Hinweise zu möglichen terroristischen Anschlägen auf den monatlich stattfindenden ,,Mondscheinpartys" (Full Moon Party) auf der nördlich von Koh Samui gelegenen Insel (Koh) Pha Ngan. Auch andere Musikfestivals oder Veranstaltungen mit hoher ausländischer Beteiligung in anderen Landesteilen könnten Ziel von Anschlägen sein. Die lokalen Sicherheitsbehörden führen seitdem vermehrte Sicherheitskontrollen als Vorsichtsmaßnahme durch.
-
-* Meiden Sie bis auf Weiteres die monatlich stattfindenden ,,Mondscheinpartys" (Full Moon Party) auf Koh Pha Ngan, sowie andere Musikfestivals oder Veranstaltungen mit hoher ausländischer Beteiligung im Land.
-* Verhalten Sie sich bei Reisen in Thailand besonders sicherheitsbewusst und vorsichtig.
-* Leisten Sie den Anweisungen der Sicherheitskräfte Folge. Verfolgen Sie die lokalen und internationalen Medien.
-* Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
-
 ## Sicherheit
 
 **Von Reisen in die Provinzen Narathiwat, Yala und Pattani sowie Teile von Songkhla** im Süden Thailands **wird dringend abgeraten.**
 
 ### Terrorismus
 
-Siehe *Aktuelles*
-
 Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand können Anschläge selbst in Urlaubsgebieten nicht ausgeschlossen werden. 
 
 In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kommt es regelmäßig zu Auseinandersetzungen zwischen Separatistengruppen und Sicherheitskräften sowie zu terroristischen Anschlägen, auch auf von Ausländern frequentierte Ziele. Dort gelten Notstandsgesetze. In einzelnen Distrikten, insbesondere an der Grenze zu Malaysia, kann es auch kurzfristig zur Verhängung nächtlicher Ausgangssperren kommen.
 
-* Seien Sie insbesondere an belebten Orten und bei besonderen Anlässen aufmerksam.
+* Seien Sie an von Touristen frequentierten und belebten Orten und bei besonderen Anlässen, wie ,,Mondscheinpartys", besonders aufmerksam.
 * Folgen Sie stets den Anweisungen von Sicherheitskräften, bei unvermeidbaren Aufenthalten in den Südprovinzen auch im Fall nächtlicher Ausgangssperren.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
