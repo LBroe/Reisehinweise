@@ -28,7 +28,7 @@ Im gesamten Golf von Guinea besteht die Gefahr von Piraterie.
 * Nehmen Sie möglichst nur mit ortskundiger Begleitung ein Taxi und teilen Sie dieses nicht mit anderen Personen.
 * Mieten Sie Fahrzeuge nur mit Fahrer an.
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
-* Bevorzugen Sie bargeldlose Zahlungen und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen mit.
+* Geben Sie bargeldlosen Zahlungen den Vorzug und nehmen Sie nur das für den Tag benötigte Bargeld und keine unnötigen Wertsachen oder auffälligen Schmuck mit.
 * Seien Sie in größeren Menschenmengen besonders aufmerksam und achten Sie auf Ihre Wertsachen.
 * Leisten Sie bei einem Überfall keinen Widerstand.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Geben Sie keine persönlichen Daten weiter, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
@@ -41,7 +41,7 @@ In den Regenzeiten können Straßen und Brücken unpassierbar werden.
 Starke Stürme können vereinzelt auftreten.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
-* Im Fall einer Sturmwarnung beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
+* Beachten Sie die [Hinweise zu Wirbelstürmen im Ausland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/200794 "Hinweise zu Wirbelstürmen im Ausland") im Fall einer Sturmwarnung bzw. die Hinweise des [Bundesamts für Bevölkerungsschutz und Katastrophenhilfe.](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Unwetter/unwetter_node.html "Unwetter")
 
 ## Reiseinfos
 
@@ -93,7 +93,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Äquatorialguineas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Äquatorialguineas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -132,7 +132,7 @@ Zu den Gegenständen, deren Einfuhr generell verboten ist, gehören neben pornog
 
 ### Heimtiere
 
-Informationen für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) erhalten Sie bei der [Botschaft Äquatorialguineas](http://www.botschaft-aequatorialguinea.de/).
+Informationen für Reisen mit bestimmten Haustieren (Hunde, Katzen, Frettchen) erhalten Sie bei der [Botschaft Äquatorialguineas](http://www.botschaft-aequatorialguinea.de/).
 
 ## Gesundheit
 
@@ -141,7 +141,7 @@ Informationen für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) e
 Bei Einreise aus einem Gelbfiebergebiet müssen alle Personen ab einem Alter von neun Monaten eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachweisen, gelegentlich gibt es auch Kontrollen bei Einreise aus Deutschland. Eine Gelbfieberimpfung ist darüber hinaus auch medizinisch indiziert. Abweichend von den WHO-Bestimmungen wird ggf. noch der Nachweis einer Auffrischimpfung nach zehn Jahren verlangt. Abweichend von offiziellen Regelungen kann der Nachweis einer Choleraimpfung verlangt werden, besonders bei Einreise über Land oder aus einem Endemiegebiet.
 
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
-* Als Reiseimpfungen werden Impfungen gegen Hepatitis A und Polio, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Typhus, Tollwut und Meningokokken-Krankheit (ACWY) empfohlen.
+* Als Reiseimpfungen werden Impfungen gegen Hepatitis A und Poliomyelitis, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Typhus, Tollwut und Meningokokken-Krankheit (ACWY) empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reise-Impfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/9f78874fa053f8a9cb15c505a5b03ef1/reise-impfempfehlungen-aa-data.pdf "Reise-Impfempfehlungen des Auswärtigen Amts").
 * Aktuelle, detaillierte Reiseimpfempfehlungen für Fachkreise bietet die [DTG.](https://dtg.org/images/Startseite-Download-Box/2024_DTG_Empfehlungen_Reiseimpfungen.pdf "Hinweise und Empfehlungen der DTG zu Reiseimpfungen")
 
@@ -161,21 +161,10 @@ Für alle hämorrhagischen Fieber (außer Gelbfieber) stellt der ungeschützte K
 
 ### Malaria
 
-Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche *Malaria tropica* bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria").
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Es besteht ein ganzjährig hohes Infektionsrisiko im ganzen Land. Der Anteil an der gefährlichen Malaria tropica, verursacht durch *Plasmodium falciparum*, beträgt über 99%. Eine [Karte der Malaria-Risikogebiete](https://dtg.org/images/Startseite-Download-Box/Weltkarte_2024.pdf) stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Afrika.pdf) zur Verfügung.
 
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
-
-Es besteht ganzjährig und im gesamten Land ein hohes Risiko für die fast ausschließlich vorkommende Malaria tropica (*P. falciparum*). Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html) zur Verfügung.  
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
-
-* Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
-* Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, in den Abendstunden und nachts (Malaria).
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz und führen eines mit sich. Viele Hotels sind nicht standardmäßig damit ausgerüstet.
-
-Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
-
-* Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
-* Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
+> * Schützen Sie sich in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
+> * Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme (Chemoprophylaxe) sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### HIV/AIDS
 
@@ -207,6 +196,12 @@ Tuberkulose und insbesondere auch medikamentenresistente Formen sind in Äquator
 
 * Halten Sie sich möglichst von sichtbar kranken hustenden Personen fern.
 
+### Poliomyelitis (Kinderlähmung)
+
+In Äquatorialguinea wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") (cVDPV-2) nachgewiesen. Die Übertragung erfolgt durch fäkal verunreinigtes Trinkwasser oder Nahrungsmittel.
+
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Bei Aufenthalten über 4 Wochen sollte laut WHO-Vorgaben eine Impfung 4 Wochen bis 12 Monate vor Ausreise aus dem betroffenen Land erfolgen. Bei einem Aufenthalt unter 4 Wochen ist eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
+
 ### **Schistosomiasis (Bilharziose)**
 
 Die Bilharziose wird beim Baden, Waten oder anderen Freizeitaktivitäten im oder am Süßwasser durch das Eindringen der Wurmlarven durch die intakte Haut übertragen, siehe [Schistosomiasis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)").
@@ -223,7 +218,7 @@ In den beiden größeren Städten Malabo und Bata gibt es Apotheken, die im Rege
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
