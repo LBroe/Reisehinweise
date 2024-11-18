@@ -66,7 +66,7 @@ Auf allen Autobahnabschnitten in Serbien findet eine automatische Geschwindigkei
 Insbesondere Unfälle mit Personenschäden und Todesfolge werden mit mehrjährigem Freiheitsentzug geahndet. Die verhängte Strafe wird in der Regel nicht zur Bewährung ausgesetzt.
 
 Sofern der Fahrer des Kfz nicht identisch mit dem in den Kfz-Dokumenten eingetragenen Halter ist, ist eine Vollmacht mit öffentlich beglaubigter Unterschrift des Halters in serbischer oder ersatzweise englischer Sprache mitzuführen, die auch die Personalien und die Reisepassnummer der bevollmächtigten Person enthält.  
-Als Nachweis für eine gültige Kfz-Haftpflichtversicherung reicht das deutsche Autokennzeichen. Dennoch wird die Mitnahme der Grünen Versicherungskarte empfohlen.
+Als Nachweis für eine gültige Kfz-Haftpflichtversicherung reicht das deutsche Autokennzeichen. Dennoch wird die Mitnahme der sog. "Grünen Versicherungskarte" empfohlen.
 
 Bei jedem Unfall muss in Serbien die Polizei gerufen werden, die ein Schadensprotokoll anfertigt, das für Versicherungszwecke und ggf. Zollverfahren bei der Ausreise unerlässlich ist. In vielen Fällen ist die Entscheidung eines Verkehrsrichters erforderlich. Es kann daher auch bei vermeintlichen Bagatellunfällen zu mehrstündigen Wartezeiten kommen.
 
@@ -108,7 +108,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Serbiens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Serbiens sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende").
 
 ### Reisedokumente
 
@@ -162,18 +162,29 @@ Ausländer müssen in Serbien innerhalb von 24 Stunden am Ort ihres Aufenthaltes
 
 ### Hinweise für deutsch-serbische Doppelstaater
 
-Personen, die neben der deutschen auch die serbische Staatsangehörigkeit besitzen, werden von den serbischen Behörden ausschließlich als eigene Staatsangehörige betrachtet und sind verpflichtet, bei der Ein- und Ausreise serbische Reisedokumente zu benutzen.  
-Die allgemeine Wehrpflicht wurde ausgesetzt, die Ableistung des Wehrdienstes erfolgt nach dem Freiwilligkeitsprinzip. Alle männlichen serbischen Staatsangehörigen, die keinen Wehrdienst leisten, müssen sich in eine Liste („Wehrpflichtevidenz“) eintragen lassen und gelten als Reservisten. Serbische Staatsangehörige, die im Ausland wohnen, müssen sich in der Wehrpflichtevidenz der zuständigen serbischen Auslandsvertretung eintragen lassen. Weitere Informationen erteilen die zuständigen [Konsularvertretungen der Republik Serbien in Deutschland](http://www.konzulati-rs.de/de/index_de.html).
+Personen, die neben der deutschen auch die serbische Staatsangehörigkeit besitzen, werden von den serbischen Behörden ausschließlich als eigene Staatsangehörige betrachtet und sind verpflichtet, bei der Ein- und Ausreise serbische Reisedokumente zu benutzen.
+
+* Bitte informieren Sie sich diesbezüglich, falls Sie beabsichtigen, die serbische Staatsangehörigkeit zu erwerben.
+
+Die allgemeine Wehrpflicht wurde ausgesetzt, die Ableistung des Wehrdienstes erfolgt nach dem Freiwilligkeitsprinzip. Alle männlichen serbischen Staatsangehörigen, die keinen Wehrdienst leisten, müssen sich in eine Liste („Wehrpflichtevidenz“) eintragen lassen und gelten als Reservisten. Serbische Staatsangehörige, die im Ausland wohnen, müssen sich in der Wehrpflichtevidenz der zuständigen serbischen Auslandsvertretung eintragen lassen. Weitere Informationen erteilen die zuständigen [Konsularvertretungen der Republik Serbien in Deutschland](http://www.konzulati-rs.de/de/index_de.html). 
+
+Die serbische Regierung plant die Wiedereinführung der Wehrpflicht, weitere Details sind jedoch noch nicht bekannt.
 
 ### Einfuhrbestimmungen
 
 RSD dürfen bis zu einem Gegenwert von 10.000 EUR ein- und ausgeführt werden. Eine größere Summe darf nur eingeführt werden, wenn sie bei einer ausländischen Bank gekauft und dies durch Belege nachgewiesen werden kann.
 
-Devisen dürfen unbegrenzt eingeführt und bis zu einem Betrag von 10.000 EUR wieder ausgeführt werden. Bei Einfuhr von Devisen sind Beträge von über 10.000 EUR unbedingt beim Zoll anzumelden; der darüber ausgestellte Beleg ist bis zur Ausreise aufzubewahren. Verstöße gegen die Anmeldepflicht werden bei der Ausreise mit Devisenbeschlagnahmung geahndet und können mehrmonatige Haftstrafen nach sich ziehen.
+Devisen dürfen unbegrenzt eingeführt und bis zu einem Betrag von 10.000 EUR wieder ausgeführt werden. Bei Einfuhr von Devisen sind Beträge von über 10.000 EUR unbedingt beim Zoll anzumelden; der darüber ausgestellte Beleg ist bis zur Ausreise aufzubewahren. Verstöße gegen die Anmeldepflicht werden mit Devisenbeschlagnahmung geahndet und können mehrmonatige Haftstrafen nach sich ziehen.
 
 Falls zu gleicher Zeit Devisen, RSD und Reiseschecks ausgeführt werden, darf die Gesamtsumme nicht mehr als 10.000 EUR betragen. Beträge ab 10.000 EUR dürfen nur per Banküberweisung ausgeführt werden. Ein Verstoß gegen diese Bestimmung wird mit einer hohen Geldstrafe geahndet.
 
 Reisegepäck und Waren des persönlichen Bedarfs (Kleidung, persönliche Hygieneartikel, technische Geräte) können nach Serbien vorübergehend zollfrei eingeführt werden. Arzneimittel sind zudem begrenzt auf den für die Aufenthaltsdauer erforderlichen persönlichen Bedarf. Zur Vermeidung von Problemen bei der Wiederausfuhr wird empfohlen, höherwertige Gegenstände bei der Einreise anzumelden und die Zollbehörden um Fertigung einer beglaubigten Einfuhrliste zu bitten.
+
+Die serbischen Einfuhrbestimmungen sind auch zu beachten, wenn lediglich eine Durchreise durch Serbien geplant ist.
+
+Informieren Sie sich vorab insbesondere bei Gegenständen, die nicht dem persönlichen Bedarf zuzurechnen sind, direkt bei der [serbischen Zollverwaltung.](https://www.carina.rs/en.html)
+
+Soll die Durchreise in einem Pkw mit sog. Zollkennzeichen erfolgen, müssen die Zollpapiere durch eine Spedition erstellt werden. Die Begleitung durch Speditionspersonal im Pkw selbst während des Transits stellt eine gängige Praxis dar.
 
 Die Ein- und Durchfuhr von Benzin und Dieselkraftstoff in Kanistern ist in Serbien nicht zulässig.
 
@@ -195,7 +206,7 @@ Weitere Informationen bietet [die serbische Zollverwaltung](https://www.carina.r
 
 ### Heimtiere
 
-Für die Einfuhr von Heimtieren ist der EU-Heimtierausweis erforderlich, aus dem die Kennzeichnung des Tieres durch Mikrochip oder deutlich lesbare Tätowierung hervorgehen muss. Für zum ersten Mal gekennzeichnete Tiere ist ein Mikrochip Pflicht.  
+Für die Einfuhr von Haustieren ist der EU-Heimtierausweis erforderlich, aus dem die Kennzeichnung des Tieres durch Mikrochip oder deutlich lesbare Tätowierung hervorgehen muss. Für zum ersten Mal gekennzeichnete Tiere ist ein Mikrochip Pflicht.  
 Im EU-Heimtierausweis muss eine gültige Tollwutimpfung eingetragen sein, deren Erstimpfung mindestens 21 Tage vor der Einreise erfolgt sein muss.  
 Weitere Informationen bietet die [serbische Zollverwaltung](https://www.carina.rs/en.html).
 
@@ -250,7 +261,7 @@ Intensive Sonneneinstrahlung kann insbesondere in den Sommermonaten zu kurz- und
 
 * Informieren Sie sich z.B. über die App [SunSmart](https://www.who.int/news/item/21-06-2022-sunsmart-global-uv-app-helps-protect-you-from-the-dangers-of-the-sun-and-promotes-public-health "App SunSmart") über notwendige Sonnenschutzmaßnahmen.
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 

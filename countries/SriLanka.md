@@ -1,14 +1,5 @@
 # Sri Lanka: Reise- und Sicherheitshinweise
 
-## Aktuelles
-
-Es gab im Oktober Hinweise zu möglichen Anschlägen auf touristische Ziele in und um Arugam Bay vor, die weiterhin sehr ernst zu nehmen sind. Die lokalen Sicherheitsbehörden führen seitdem als Vorsichtsmaßnahme vermehrte Sicherheitskontrollen, vor allem in touristischen Regionen, durch. Dabei kann es teilweise auch zu Straßen- und Ausgangssperren kommen.
-
-* Verhalten Sie sich grundsätzlich sicherheitsbewusst und vorsichtig.
-* Seien Sie insbesondere an touristischen Zielen und belebten Orten, bei unvorhergesehenen Ereignissen sowie beim Besuch von Einrichtungen mit internationalem Publikumsverkehr oder religiöser Stätten und bekannten Treffpunkten von Ausländern besonders vorsichtig.
-* Leisten Sie den Anweisungen der Sicherheitskräfte Folge. Verfolgen Sie die lokalen und internationalen Medien.
-* Beachten Sie den [weltweiten Sicherheitshinweis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis")
-
 ## Sicherheit
 
 ### Terrorismus
@@ -17,20 +8,19 @@ Die Sicherheitsvorkehrungen in Sri Lanka wurden seit den Protesten 2022 deutlich
 
 Ausgangssperren können je nach Lage weiterhin ad hoc verhängt werden. Auch Blockaden sozialer Medien sind möglich. Am Flughafen gelten weiterhin verstärkte Sicherheitsvorkehrungen.
 
-* Reisen Sie trotz der wieder hergestellten öffentlichen Ordnung mit erhöhter Vorsicht.
-* Verfolgen Sie die lokalen Medien, halten Sie engen Kontakt zu Reiseveranstaltern und Fluggesellschaften.
-* Treffen Sie mindestens drei Stunden vor Ihrem Abflug am Flughafen ein.
-* Befolgen Sie stets die Anweisungen der Sicherheitskräfte.
+* Verhalten Sie sich grundsätzlich sicherheitsbewusst und vorsichtig.
+* Seien Sie insbesondere an touristischen Zielen und belebten Orten, bei unvorhergesehenen Ereignissen sowie beim Besuch von Einrichtungen mit internationalem Publikumsverkehr oder religiöser Stätten und bekannten Treffpunkten von Ausländern besonders vorsichtig.
+* Leisten Sie den Anweisungen der Sicherheitskräfte Folge.
+* Verfolgen Sie die lokalen und internationalen Medien, halten Sie engen Kontakt zu Reiseveranstaltern und Fluggesellschaften.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
 ### Innenpolitische Lage
-
-Für den 14. November 2024 wurde die Neuwahl des aufgelösten Parlaments angekündigt. Im Umfeld von Wahlkampfveranstaltungen empfiehlt sich besondere Aufmerksamkeit.
 
 Spontane lokale Proteste können im ganzen Land auftreten, sind allerdings aufgrund der deutlich verbesserten Versorgungslage, siehe *Reiseinfos – Versorgungslage*, zurückgegangen. Gewaltsame Ausschreitungen während dieser Proteste können nicht ausgeschlossen werden.
 
 * Informieren Sie sich über die lokalen Medien.
 * Meiden Sie Demonstrationen, politische Kundgebungen und größere Menschenansammlungen.
+* Reisen Sie trotz der wiederhergestellten öffentlichen Ordnung mit erhöhter Vorsicht.
 * Befolgen Sie Anweisungen der Sicherheitskräfte.
 
 ### Kriminalität
@@ -124,13 +114,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Sri Lankas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
-
-#### *Einreise*
-
-Nach einem positiven COVID-19-Test soll eine siebentägige Isolation in einem privaten Krankenhaus, einem Hotel oder der Wohnung auf eigenen Kosten erfolgen.
-
-Weitergehende Informationen zu den vorgenannten Einreisebestimmungen bietet das sri-lankische [Gesundheitsministerium.](https://www.health.gov.lk/)
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Sri Lankas sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")  
 
 ### Reisedokumente
 
@@ -281,7 +265,7 @@ Importbeschränkungen und Lieferengpässe konnten nach der Wirtschaftskrise noch
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
