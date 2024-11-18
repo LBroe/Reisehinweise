@@ -2,13 +2,11 @@
 
 ## Aktuelles
 
-**Von nicht notwendigen Reisen nach Bangladesch wird derzeit abgeraten.**
+Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli trat Premierministerin Hasina im August 2024 zurück und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am im August 2024 vereidigt.  
 
-Nach landesweiten gewaltsamen Zusammenstößen im Zusammenhang mit Studentenprotesten seit Mitte Juli trat Premierministerin Hasina im August 2024 zurück und hat Bangladesch verlassen. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde im August 2024 vereidigt.  
+Der Flughafen Dhaka ist geöffnet; die Sicherheitsmaßnahmen wurden erhöht.
 
-Der Flughafen Dhaka ist zwar geöffnet, die Sicherheitsmaßnahmen wurden jedoch erhöht.
-
-Nach wie vor kommt es im ganzen Land zu punktuellen Demonstrationen und gewalttätigen Auseinandersetzungen.
+Nach wie vor kommt es im ganzen Land zu punktuellen Demonstrationen.
 
 * Meiden Sie Demonstrationen und größere Menschenansammlungen weiträumig.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
@@ -16,8 +14,6 @@ Nach wie vor kommt es im ganzen Land zu punktuellen Demonstrationen und gewaltt�
 * Registrieren Sie sich, wenn möglich, in der [Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) des Auswärtigen Amts bzw. prüfen Sie, ob Ihre dort hinterlegten Daten noch aktuell sind und schalten Sie die Funktion der Notfall-Benachrichtigung per SMS frei.
 
 ## Sicherheit
-
-**Von nicht notwendigen Reisen nach Bangladesch wird derzeit abgeraten.**
 
 ### Terrorismus
 
@@ -35,9 +31,9 @@ Die Gefahr terroristischer Anschläge, auch gegen Ausländer bzw. an Orten, die 
 
 Siehe *Aktuelles*
 
-Nachdem Studentenproteste landesweit eskalierten und sich immer mehr Bevölkerungsgruppen den Protesten anschlossen, trat Premierministerin Hasina am 5. August 2024 zurück und hat das Land verlassen. Danach kam es zu Plünderungen, zum Niederbrennen von Polizeistationen, Fabriken, Hindutempeln und anderen religiösen Einrichtungen von Minderheiten. Das Militär und die Polizei haben die Situation inzwischen weitgehend unter Kontrolle. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am Abend des 8. August 2024 vereidigt. Die Lage in Dhaka ist weitestgehend stabil, im Rest des Landes noch etwas volatiler.
+Nachdem Studentenproteste landesweit eskalierten und sich immer mehr Bevölkerungsgruppen den Protesten anschlossen, trat Premierministerin Hasina am 5. August 2024 zurück und verließ das Land. Danach kam es zu Plünderungen, zum Niederbrennen von Polizeistationen, Fabriken, Hindutempeln und anderen religiösen Einrichtungen von Minderheiten. Das Militär und die Polizei haben die Situation inzwischen weitgehend unter Kontrolle. Eine Übergangsregierung unter Leitung von Prof. Muhammad Yunus wurde am Abend des 8. August 2024 vereidigt. Die Lage in Dhaka und im Rest des Landes ist weitestgehend stabil; die allgemeine Kriminalität hat jedoch offenbar zugenommen.
 
-Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar verschlechtert sich weiter. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
+Die Sicherheitslage in den Aufnahmelagern für Geflüchtete der Rohingya-Gemeinschaft aus Myanmar ist schlecht. Inzwischen kommt es auch am Tage vermehrt zu teils tödlichen Übergriffen.
 
 Durch die intensiven Auseinandersetzungen zwischen dem Militär und den Aufständischen in Myanmar kommt es immer wieder auch zu Auswirkungen auf der bangladeschischen Seite der Grenze. Das Grenzgebiet zu Myanmar sollte, wenn möglich, grundsätzlich weiträumig gemieden werden.
 
@@ -131,7 +127,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich offiziellen Stellen Bangladeschs, wie der [zivilen Luftfahrtbehörde](http://caab.gov.bd/covid19f.html), sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich offiziellen Stellen Bangladeschs sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -305,7 +301,7 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
