@@ -158,7 +158,7 @@ Die Einfuhr jeder Art pornographischen Materials ist verboten. Die Einfuhr von A
 
 | Pflichtimpfungen: | Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet oder Aufenthalt von mehr als 12 Stunden im Transit eines Gelbfiebergebiets ist ab dem Alter von 12 Monaten eine Gelbfieberimpfung nachzuweisen. |
 | --- | --- |
-| Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist in der Regel nicht notwendig. |
+| Reiseimpfungen: | Es ist eine Impfung gegen Hepatitis A empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Denguefieber, Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist in der Regel nicht notwendig. |
 | Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html "Impfkalender RKI") auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
 
 ### Medizinische Versorgung
