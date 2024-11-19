@@ -44,8 +44,6 @@ Aufgrund der hoch volatilen Lage in Nahost ist die weitere Entwicklung der Siche
 
 ### Innenpolitische Lage
 
-Siehe *Aktuelles*
-
 In Bagdad sowie allen südlichen Provinzen, aber auch vereinzelt in der RKI finden regelmäßig Proteste gegen die Regierung statt, bei denen es immer wieder zu Gewalt zwischen Demonstranten und Sicherheitskräften bzw. z.T. bewaffneten Gruppen kommt.
 
 Im Grenzgebiet zu Syrien besteht die Gefahr, Opfer anhaltender Auseinandersetzungen zu werden. Außerdem besteht in diesem Gebiet die Gefahr der Inhaftierung, wenn ein illegaler Grenzübertritt und/oder eine Verbindung zu Terrorismus vermutet werden.
@@ -77,8 +75,6 @@ Es herrscht in weiten Teilen des Landes Wüstenklima mit sehr heißen Sommern un
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Reiseinfos
-
-Siehe *Aktuelles*
 
 ### Infrastruktur/Verkehr
 
