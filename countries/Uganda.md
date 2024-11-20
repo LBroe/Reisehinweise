@@ -1,7 +1,5 @@
 # Uganda: Reise- und Sicherheitshinweise
 
-> 
-
 ## Sicherheit
 
 **Von nicht notwendigen Reisen in den Semliki-Nationalpark wird derzeit dringend abgeraten.** 
@@ -74,11 +72,9 @@ Entlang der Grenze zu Kenia in der Region Karamoja sowie beim Besuch des Kidepo-
 ## Natur und Klima
 
 Uganda liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann.  
-
 Mit den Virunga-Vulkanen im Ostafrikanischen Grabenbruch liegen acht Vulkane im Grenzgebiet zwischen Ruanda, Uganda und der Demokratischen Republik Kongo.
 
 Im Hochland Ugandas herrscht tropisches Klima.  
-
 In den Regenzeiten, üblicherweise von März bis Mai sowie von September bis November, kommt es regelmäßig zu Überschwemmungen und Erdrutschen und in der Folge zu erheblichen Verkehrsbehinderungen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -89,7 +85,6 @@ In den Regenzeiten, üblicherweise von März bis Mai sowie von September bis Nov
 ### Infrastruktur/Verkehr
 
 Es gibt ein Inlandsflugnetz und Busverbindungen.  
-
 Es herrscht Linksverkehr. Straßen sind teilweise in sehr schlechtem Zustand.
 
 Es besteht eine erhöhte Unfallgefahr aufgrund technischer Mängel an Kraftfahrzeugen, ungenügender Beleuchtung und Personen sowie Tieren auf den Straßen. Insbesondere nachts kommt es häufig zu schweren Unfällen oder Überfällen, auch auf Busse. Fähren auf dem Viktoria- und Albert-See verunglücken des Öfteren aufgrund von Überladung und/oder schlechten Sicherheitsstandards.
@@ -156,7 +151,6 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-
 Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 Pass oder Passkopie sollten Sie während des Aufenthalts stets mitführen.
@@ -168,7 +162,6 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Uganda ein Visum.
 Das Visum kann ausschließlich online über das [Uganda E-Immigration System](https://visas.immigration.go.ug/) beantragt werden.
 
 Dabei sind eingescannte Passkopien, Passbilder, Gelbfieberimpfungsnachweis und gegebenenfalls andere Nachweise hochzuladen.  
-
 Die Visumsgebühr hängt von der Art des Visums ab und wird im Antragsverfahren angezeigt. Ein Touristenvisum kostet derzeit 50 USD, die Gebühr muss vorab online bezahlt werden.  Nach Überprüfung des Antrags erhalten Reisende einen „approval letter“ per E-Mail.
 
 Das eigentliche Visum wird bei Vorlage von Pass, Originaldokumenten und „approval letter“ bei Einreise erteilt.
@@ -208,16 +201,14 @@ Bei der Einfuhr von Heimtieren ist ein maximal sechs Tage vor der Einreise ausge
 ### Aktuelles
 
 Seit Frühjahr 2024 breitet sich das Mpox-Virus der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler [Mpox-Ausbruch](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Nähere Informationen zu Mpox erhalten Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") Bei der Einreise ist ggf. vermehrt mit Mpox-Screeningmaßnahmen wie das Ausfüllen von Fragebögen oder Temperaturmessungen zu rechnen.  
-
 Seit Juli 2024 treten zunehmend Mpox-Fälle auf, welche alle als Klade Ib identifiziert wurden.  
-
 Aktuell gibt es keine allgemeine Reiseimpfempfehlung zum Schutz vor Mpox seitens des AA, der DTG oder der STIKO. Weitere Informationen zum aktuell in Deutschland verfügbaren Impfstoff gegen Mpox und zu bestehenden Indikationen finden Sie [hier.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus")
 
 ### Impfschutz
 
-| Pflichtimpfungen: | Eine Gelbfieberimpfung ist für alle Personen ab dem Alter von 12 Monaten zur Einreise vorgeschrieben und auch medizinisch sinnvoll. Die Botschaft von Uganda in Berlin verlangt für die Visumerteilung einen Gelbfieberimpfnachweis, in dem eine lebenslange Gültigkeit explizit bestätigt wird. |
+| Pflichtimpfungen: | Eine Gelbfieberimpfung ist für alle Personen ab dem Alter von 12 Monaten zur Einreise vorgeschrieben und auch medizinisch sinnvoll.Die Botschaft von Uganda in Berlin verlangt für die Visumerteilung einen Gelbfieberimpfnachweis, in dem eine lebenslange Gültigkeit explizit bestätigt wird. |
 | --- | --- |
-| Reiseimpfungen: | Es ist eine Impfung gegen Hepatitis A empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist i.d.R. nicht notwendig. |
+| Reiseimpfungen: | Es sind Impfungen gegen Hepatitis A und Poliomyelitis empfohlen. Nach individueller Indikation sind zusätzlich Impfungen gegen Hepatitis B, Meningokokken ACWY, Tollwut und Typhus angeraten. Eine Cholera-Impfung ist i.d.R. nicht notwendig. |
 | Standardimpfungen: | Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des RKI](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf aktuellem Stand befinden. Aufgrund wiederholter Ausbrüche sollte insbesondere ein adäquater Impfschutz für Masern sichergestellt werden. |
 
 ### Medizinische Versorgung
@@ -244,10 +235,11 @@ Die in Uganda vorkommende Erkrankung [Krim-Kongo-Fieber](https://www.auswaertige
 
 ### Erkrankungen im Zusammenhang mit mangelnder Hygiene
 
-Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") treten auch bei Reisenden auf.
+Insbesondere durch mangelnde Trinkwasser-, Lebensmittel und Handhygiene können Erkrankungen auftreten, die oft mit Durchfällen einhergehen. Häufig treten unbestimmte Reisedurchfälle auf. [Cholera](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera") hingegen betrifft Reisende so gut wie nie. Bestimmte Viruserkrankungen der Leber ([Virushepatitis A und E)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/virushepatitis/2562874 "Virushepatitis") und [Typhus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/typhus/2565670 "Typhus") treten auch bei Reisenden auf. In Uganda wurde [Poliomyelitis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492) (cVDPV-2) nachgewiesen.
 
 * Beachten Sie unsere grundlegenden [Hygienehinweise.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hygiene/2628944 "Hygienehinweise")
 * Lassen Sie sich hinsichtlich einer Hepatitis A- und Typhus-Impfung beraten.
+* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Bei Aufenthalten über 4 Wochen sollte laut WHO-Vorgaben eine Impfung 4 Wochen bis 12 Monate vor Ausreise aus dem betroffenen Land erfolgen. Bei einem Aufenthalt unter 4 Wochen ist eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492).
 * Lassen sich hinsichtlich einer Cholera-Impfung beraten, falls Sie längerfristig in Choleraepidemiegebieten z.B. als medizinisches Personal oder Katastrophenhelfer tätig sind.
 
 ### Mensch-zu-Mensch-übertragene Erkrankungen
@@ -263,16 +255,7 @@ In Uganda besteht ein Risiko für Erkrankungen wie [Meningokokken-Erkrankungen](
 * Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
 * Lassen Sie sich bzgl. einer Hepatitis B-Impfung ärztlich beraten.
 
-### Mpox
-
-Seit Frühjahr 2024 breitet sich das Mpox der Klade I länderübergreifend auf dem afrikanischen Kontinent weiter aus. Nachdem ein internationaler Mpox-Ausbruch der Klade II seit 2022 weite Teile der Welt betrifft, handelt es sich bei dem Virus der Klade I um einen virulenteren Stamm mit einer höheren Sterblichkeitsrate. Für Reisende wird das Risiko aktuell als gering eingeschätzt.
-
-Das [Mpox-Virus](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mpox/2532402 "Mpox-Virus") wird vorrangig durch engen Kontakt mit Erkrankten übertragen. Kontakt mit Wunden, Körperflüssigkeiten, kontaminierten Gegenständen sowie möglicherweise auch Atemtröpfchen kann ebenso zu einer Infektion führen. Bei sexuellem Kontakt besteht grundsätzlich ein hohes Mpox-Übertragungsrisiko.
-
-* Vermeiden Sie Hautkontakte und das Berühren von Wunden und Ausschlägen.
-* Verwenden Sie stets Kondome, insbesondere bei Gelegenheitsbekanntschaften.
-* Insbesondere Männer, die Sex mit Männern haben, sollten sich vor Reisebeginn bzgl. einer Mpox-Impfung beraten lassen.
-* Stellen Sie sich bei typischen Symptomen ärztlich vor.
+### 
 
 ### Durch Tierkontakt übertragene Erkrankungen
 
@@ -306,69 +289,3 @@ Insbesondere in großen Städten kann es durch Luftverschmutzung zu gesundheitli
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/uganda-node "Uganda")
-
-### Weltweiter Sicherheitshinweis
-
-Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
-
-Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
-
-Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
-
-Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
-
-Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
-
-Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
-
-Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
-
-* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
-* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
-* Verfolgen Sie die örtlichen und internationalen Medien.
-* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
-
-### Krisenvorsorgeliste
-
-Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
-[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
-
-### Haftungsausschluss
-
-Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
-
-Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
-
-Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
-
-Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
-
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
-
-### Denken Sie an Ihre Reisekrankenversicherung!
-
-Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
-
-Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
-
-Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
-
-### Reisemedizinische Hinweise
-
-[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
-
-### Vorsicht bei exotischen Souvenirs
-
-**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
-
-Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
-
-Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
-
-Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
-
-### FAQ
-
-Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

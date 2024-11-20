@@ -6,11 +6,11 @@
 
 ### Terrorismus
 
-Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand können Anschläge selbst in Urlaubsgebieten nicht ausgeschlossen werden. 
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht unverändert fort. Auch in Thailand ist die Gefahr gegeben, dass es selbst in Urlaubsgebieten zu Anschlägen kommt.
 
 In den Provinzen Narathiwat, Yala und Pattani sowie Teilen von Songkhla im Süden Thailands an der Grenze zu Malaysia kommt es regelmäßig zu Auseinandersetzungen zwischen Separatistengruppen und Sicherheitskräften sowie zu terroristischen Anschlägen, auch auf von Ausländern frequentierte Ziele. Dort gelten Notstandsgesetze. In einzelnen Distrikten, insbesondere an der Grenze zu Malaysia, kann es auch kurzfristig zur Verhängung nächtlicher Ausgangssperren kommen.
 
-* Seien Sie an von Touristen frequentierten und belebten Orten und bei besonderen Anlässen, wie ,,Mondscheinpartys", besonders aufmerksam.
+* Seien Sie an von Touristen frequentierten und belebten Orten und bei besonderen Anlässen und Großveranstaltungen, wie z. B. "Mondscheinpartys", besonders aufmerksam.
 * Folgen Sie stets den Anweisungen von Sicherheitskräften, bei unvermeidbaren Aufenthalten in den Südprovinzen auch im Fall nächtlicher Ausgangssperren.
 * Beachten Sie den [weltweiten Sicherheitshinweis](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/weltweiter-sicherheitshinweis/1796970 "Weltweiter Sicherheitshinweis").
 
@@ -31,7 +31,7 @@ Thailand verzeichnet zunehmende Kriminalität. Neben Diebstahl und Betrugsfälle
 
 Frauen wird empfohlen, ihrer persönlichen Sicherheit besondere Aufmerksamkeit zu schenken, sich angemessen zu kleiden und einsame Gegenden sowie unbeleuchtete Straßen nach Einbruch der Dunkelheit zu meiden.
 
-In vielen Touristenhochburgen ist die Zusammenarbeit von Banden mit korrupten Polizeibeamten keine Seltenheit. Dabei wird Touristen unterstellt, gemietete Gegenstände wie Jet Skis oder Motorroller beschädigt zurückgegeben oder Bagatelldelikte, wie z.B. einen Diebstahl von Uhrenimitaten, begangen zu haben, um Geld zu erpressen. Besonders auffällig geworden ist die Polizeistation am Patong Beach.
+In vielen Touristenhochburgen ist die Zusammenarbeit von Banden mit korrupten Polizeibeamten keine Seltenheit. Dabei wird Touristen unterstellt, gemietete Gegenstände wie Jet Skis oder Motorroller beschädigt zurückgegeben oder Bagatelldelikte, wie z. B. einen Diebstahl von Uhrenimitaten, begangen zu haben, um Geld zu erpressen. Besonders auffällig geworden ist die Polizeistation am Patong Beach.
 
 Die Gefahr von Betrugsversuchen unter Mitwirkung von Taxi- und Tuk-Tuk-Fahrern ist hoch. Touristen werden z.B. gezielt in Geschäfte geführt und unter Druck gesetzt, dort Fälschungen oder minderwertige Produkte zu kaufen.
 
