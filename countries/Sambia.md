@@ -1,5 +1,7 @@
 # Sambia: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 **Von nicht erforderlichen Reisen in die unmittelbaren Grenzgebiete zur Demokratischen Republik Kongo wird abgeraten**.**
@@ -43,6 +45,7 @@ Das Vertrauen der Bevölkerung in die Polizei hat stark abgenommen. Bei Verkehrs
 ## Natur und Klima
 
 Das Klima ist tropisch.  
+
 In der Regenzeit von Dezember bis April kommt es jedoch zu Erdrutschen und Überschwemmungen, die auch Straßen und Brücken unpassierbar machen und damit den Reiseverkehr und die Strom- und Wasserversorgung erheblich beeinträchtigen können. In der übrigen Zeit kommt es zunehmend zu Dürreperioden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -80,6 +83,7 @@ Homosexuelle Handlungen werden mit Haftstrafen und Zwangsarbeit von 15 Jahren bi
 Vergehen gegen die Einreise- und Aufenthaltsbestimmungen werden konsequent geahndet. Ausländische Staatsangehörige ohne gültiges Visum bzw. ohne gültige Aufenthaltserlaubnis haben mit hohen Geld- und/oder Haftstrafen und/oder mit Abschiebung zu rechnen.
 
 Das Fotografieren militärischer und sonstiger sicherheitsrelevanter Einrichtungen, auch wenn diese auf den ersten Blick nicht immer als solche erkennbar sind, sowie von Militär- und Polizeipersonal ist verboten und kann zu umgehender Inhaftierung führen.  
+
 Der Aufenthalt in unmittelbarer Nähe des Präsidentenpalasts (State House) ist untersagt. Vor dem Fotografieren von Gebäuden und Personen sollte um Erlaubnis gefragt werden.
 
 Die Einfuhr, der Besitz und der Konsum von Betäubungsmitteln, einschließlich sogenannter „weicher Drogen“, sind mit hohen Strafen, häufig auch langjährigem Freiheitsentzug, bedroht.
@@ -91,6 +95,7 @@ Prostitution und der Besitz pornographischer Materialien sowie homosexuelle Hand
 ### Geld/Kreditkarten
 
 Landeswährung ist der Kwacha (ZMW). Banken und Wechselstuben akzeptieren häufig nur USD zum Umtausch, der EUR hat sich noch nicht flächendeckend durchgesetzt. USD-Banknoten der Serien vor 1996 („kleine Köpfe“) werden im Regelfall nicht umgetauscht oder angenommen. Kleine Scheine werden häufig nur zu schlechteren Kursen umgetauscht.  
+
 Gängige Kreditkarten werden von größeren Unternehmen zunehmend, aber nicht durchgehend, angenommen. Es kommt häufig zu Übertragungsfehlern, sodass Kreditkartenzahlungen nicht selten an der Technik scheitern. Die Abhebung von Bargeld von meist begrenzten Beträgen an Geldautomaten ist vermehrt mit Kreditkarten, vereinzelt auch mit Debitkarten (Girocard) möglich.
 
 ## Einreise und Zoll
@@ -112,6 +117,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 ### Visum
@@ -129,9 +135,11 @@ Visa für längerfristige Aufenthalte und/oder Reisezwecke, die über einen rein
 Siehe auch „*Visum für längerfristige Aufenthalte“*.
 
 Nach der [Online-Beantragung](https://www.zambiaimmigration.gov.zm/for-visitors/) wird ein Visa Approval Letter ausgestellt, der bei Einreise ausgedruckt vorgelegt werden muss, wonach das Visum direkt am Flughafen in den Pass gestempelt oder geklebt wird.  
+
 Besonders interessant ist das sog. KAZA-Visum für 50 USD, das zur Einreise nach Simbabwe und mehrfache Wiedereinreise nach Sambia (z.B. bei Ausflügen nach Namibia und Botswana) berechtigt.
 
 Im Internet bieten auch private Firmen diesen Service an und verschleiern dabei häufig geschickt die von ihnen verlangten erheblichen Zusatzgebühren von bis zu 100 EUR pro Visum.  
+
 Es sind zudem vereinzelte Fälle bekannt geworden, in denen Fluggesellschaften bereits vor Abflug auf Vorlage eines Visums bestanden haben.
 
 * Achten Sie unbedingt darauf, E-Visa nur auf der offiziellen Seite der sambischen Einreisebehörde zu beantragen.
@@ -140,9 +148,13 @@ Es sind zudem vereinzelte Fälle bekannt geworden, in denen Fluggesellschaften b
 #### *Aufenthaltsdauer*
 
 Bei der auf einem vor der Einreise eingeholten Visum angegebenen Gültigkeitsdauer handelt es sich um die Nutzungsfrist des Visums. Das bedeutet, dass die (ggf. erste) Einreise innerhalb der angegebenen Frist, im Regelfall drei Monate, erfolgen muss.  
+
 Die Dauer des zulässigen Aufenthalts von im Regelfall 30 Tage wird erst bei Einreise durch die Einwanderungsbehörden festgelegt und durch Stempel im Reisepass dokumentiert.  
+
 Besucher (Reisezweck Tourismus oder Besuch) dürfen sich binnen zwölf Monaten max. 90 Tage in Sambia aufhalten; Geschäftsreisende max. 30 Tage innerhalb von zwölf Monaten.  
+
 Es sind Fälle bekannt geworden, in denen ausländischen Staatsangehörigen trotz Besitzes eines für diese Reise ausgestellten Visums einer sambischen Botschaft die Einreise mit der Begründung verweigert worden ist, die 90 Tage seien überschritten.  
+
 Eine Aufenthaltserlaubnis für längere Aufenthalte kann je nach Einzelfall von den örtlich zuständigen Büros der Einwanderungsbehörde erteilt werden.
 
 Vergehen gegen die Einreise- und Aufenthaltsbestimmungen werden von den sambischen Einwanderungsbehörden konsequent geahndet. Ausländische Staatsangehörige ohne gültiges Visum bzw. ohne gültige Aufenthaltserlaubnis haben mit hohen Geld- und/oder Haftstrafen und/oder mit Abschiebung zu rechnen.
@@ -172,6 +184,7 @@ Für die Einfuhr von Heimtieren ist eine Einfuhrerlaubnis des Department of Rese
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet oder Aufenthalt von mehr als zwölf Stunden im Transit eines Gelbfiebergebiets müssen alle Personen ab einem Alter von einem Jahr eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachweisen.  
+
 Nach einem Besuch des Landes wird von den Nachbarländern Namibia, Botswana und Zimbabwe kein Impfnachweis verlangt. Gleiches gilt für die Weiterreise nach Südafrika.
 
 Reisende unter vier Wochen Reisezeit sollten einen vollständigen Impfschutz gegen Poliomyelitis (Kinderlähmung) mit Auffrischimpfungen alle zehn Jahre haben. Einwohner und Langzeitreisenden über vier Wochen wird eine Auffrischimpfung vier Wochen bis zwölf Monate vor Ausreise empfohlen, siehe [Poliomyelitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
@@ -272,3 +285,69 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und ist
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/sambia-node "Sambia")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

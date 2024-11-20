@@ -1,5 +1,7 @@
 # Papua-Neuguinea: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 **Von nicht notwendigen Reisen in die Hochlandprovinzen von Papua-Neuguinea (**Southern und Western Highlands, Hela und Enga) und auf die Insel Bougainville wird abgeraten.**
@@ -11,7 +13,9 @@
 ### Innenpolitische Lage
 
 In der Hauptstadt Port Moresby ist es am 10. Januar 2024 zu gewaltsamen Auseinandersetzungen und Plünderungen gekommen. Es besteht das Risiko weiterer Ausschreitungen. Daneben kommt es vor allem in Lae, Mount Hagen sowie den Hochlandprovinzen immer wieder zu Unruhen und zu gewalttätigen Auseinandersetzungen zwischen rivalisierenden Clans.  
+
 In den Bergbauprovinzen Southern Highlands, Enga und Hela kommt es seit 2017 regelmäßig zu Auseinandersetzungen innerhalb der lokalen Bevölkerung, teils wurde der Ausnahmezustand verhängt. Im Februar 2024 fanden gewalttätige Stammeskämpfe in Enga statt. Bei Demonstrationen und Versammlungen größerer Menschengruppen besteht stets die Möglichkeit gewaltsamer Ausschreitungen.  
+
 In einer Notlage steht Hilfe durch Sicherheitskräfte oft nur eingeschränkt zur Verfügung.
 
 * Informieren Sie sich in den lokalen Medien.
@@ -30,6 +34,7 @@ Die Zahl der Berichte über gezielte Vergewaltigungen steigt; allein reisende Fr
 #### *Bougainville*
 
 Die Kriminalität in der autonomen Provinz Bougainville ist im Laufe der letzten Jahre zurückgegangen.  
+
 Im Rahmen von Streitigkeiten kommt es allerdings weiterhin zu Gewalttaten. Gefahren sind im zentralen Bergland von Bougainville und im Süden der Insel aufgrund der Abgelegenheit und des nach wie vor verbreiteten Waffenbesitzes hoch.
 
 * Prüfen Sie Ihre Reisepläne und verzichten Sie auf Reisen in die Hochlandprovinzen (Provinzen Southern und Western Highlands, Hela und Enga) und auf die Insel Bougainville. Dies gilt in erhöhtem Maße, wenn Sie nicht bereits Kontakte/Anbindung zu dort tätigen Organisationen oder Institutionen haben, deren etablierte Verbindungen zu örtlichen Gemeinschaften einen wichtigen Schutzfaktor darstellen können.
@@ -56,6 +61,7 @@ Die Vulkaninseln Manam und Kadovar sind seit mehreren Jahren aktiv. Auf der Inse
 #### *Tropische Wirbelstürme und Überschwemmungen*
 
 Das Klima ist tropisch.  
+
 Insbesondere zwischen November und Mai kommt es regelmäßig zu tropischen Taifunen, die ebenfalls große Schäden wie Überflutungen und Erdrutsche und infolgedessen Behinderungen im Reiseverkehr nach sich ziehen können.
 
 Von November bis März gibt es Nordwest-Monsun; von April bis Oktober Südost-Passat.
@@ -71,10 +77,13 @@ Von November bis März gibt es Nordwest-Monsun; von April bis Oktober Südost-Pa
 ### Zuständige Auslandsvertretung
 
 Es gibt keine deutsche Botschaft in Papua-Neuguinea.  
+
 Zuständig ist die [deutsche Botschaft in Canberra/Australien](https://australien.diplo.de/au-de/ueber-uns/botschaft). Für konsularischen Angelegenheiten ist das [deutsche Generalkonsulat in Sydney/Australien](https://australien.diplo.de/au-de/ueber-uns/generalkonsulat-sydn) zuständig.  
+
 In Notfällen kann auch der [deutsche Honorarkonsul in Port Moresby](https://australien.diplo.de/au-de/vertretungen/honorarkonsuln) um Unterstützung gebeten werden.
 
 Papua-Neuguinea verfügt über keine Auslandsvertretung in Deutschland. Die [papua-neuguineische Botschaft in Brüssel](https://www.auswaertiges-amt.de/de/vertretungenpapuaneuguinea/220692) ist auch für Deutschland zuständig. Die Erreichbarkeit ist der [Übersicht aller Vertretungen Papua-Neuguineas](http://www.papuanewguinea.travel/papua-new-guineas-overseas-missions-and-posts) zu entnehmen.  
+
 Anfragen können ferner an den [papua-neuguineischen Honorarkonsul in Berlin](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/papuaneuguinea-node/vertretungenpapuaneuguinea/220692) gerichtet werden.
 
 ### Infrastruktur/Verkehr
@@ -128,6 +137,7 @@ Landeswährung in Papua-Neuguinea ist der Kina (PGK). Kreditkarten werden vieler
 ## Einreise und Zoll
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
+
 Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
@@ -145,6 +155,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen sechs Monate nach Einreise gültig sein.
 
 ### Visum
@@ -154,6 +165,7 @@ Deutsche Staatsangehörige benötigen für die Einreise ein Visum. Dieses wird 
 #### *Einreise auf dem Seeweg*
 
 Für die Ein- und Ausreise über den Seeweg gelten gesonderte Vorschriften.  
+
 Einreisen über nicht offizielle Eingangshäfen werden verweigert bzw. mit Geldstrafen geahndet. Ggf. muss auch mit Inhaftierung und Abschiebung auf eigene Kosten gerechnet werden. Dies gilt z.B. für die Ein- und Ausreise von Ausländern von Bougainville auf die Salomonen und umgekehrt. Sie ist auf dem Seeweg nicht erlaubt.
 
 * Bitte erkundigen Sie sich vor der geplanten Reise bei den [zuständigen Behörden](https://covid19.info.gov.pg/) Papua-Neuguineas über diesbezügliche Ein- und Ausreisemöglichkeiten.
@@ -196,6 +208,7 @@ Die vorrangig durch tagaktive *Aedes*-Mücken übertragene Infektion mit Zika-Vi
 ### Dengue-Fieber
 
 Dengue-Fieber kommt in Papua-Neuguinea gehäuft vor.  
+
 Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen. Die Erkrankung geht in der Regel mit Fieber, Hautausschlag sowie ausgeprägten Gliederschmerzen einher. In seltenen Fällen treten insbesondere bei Kindern schwerwiegende Komplikationen inkl. möglicher Todesfolge auf. Insgesamt sind Komplikationen bei Reisenden jedoch selten. Eine Chemoprophylaxe und eine spezifische Therapie existieren nicht. Eine Impfung ist verfügbar, siehe [Dengue-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/denguefieber/2436520 "Denguefieber")
 
 * Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
@@ -235,6 +248,7 @@ Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) u
 ### Japanische Enzephalitis
 
 Japanische Enzephalitis (JE) tritt gelegentlich in der Western-, South-Highland, Gulf-Province und Milne Bay-Province auf.  
+
 Bei der JE handelt es sich um eine Entzündung des Gehirns, die von Viren verursacht wird. Diese werden von nachtaktiven Stechmücken übertragen. Vor allem Schweine und Wasservögel sind mit dem Virus infiziert, ohne dabei selber zu erkranken. Erkrankungen beim Menschen sind eher selten, verlaufen dann aber häufig schwer und hinterlassen oft bleibende Schäden oder enden tödlich. Es gibt keine wirksamen Medikamente gegen die JE-Viren, siehe[Japanische Enzephalitis.​​​​​​​](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/japanische-enzephalitis/2519622 "Japanische Enzephalitis")
 
 * Schützen Sie sich zur Vermeidung von Japanischer Enzephalitis im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen und lassen Sie sich impfen.
@@ -303,3 +317,69 @@ Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informa
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node "Papua-Neuguinea")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

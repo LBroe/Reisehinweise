@@ -1,5 +1,7 @@
 # Chile: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 **Aufgrund der aktuell unkontrollierbaren Waldbrände und Buschfeuer wird von Reisen in die von der** [**chilenischen Katastrophenschutzbehörde SENAPRED**](https://senapred.cl/informate/alertas) **rot markierten Regionen weiterhin dringend abgeraten.**
@@ -36,6 +38,7 @@ In der Umgebung von Temuco in der 9. Region (Araucanía) und in der 8. Region (B
 ### Kriminalität
 
 Kleinkriminalität wie Taschendiebstahl, Rucksack- und Handtaschenraub kommt insbesondere in Santiago-Zentrum, Valparaíso, Viña del Mar, Calama und San Pedro de Atacama vor; in letzter Zeit vermehrt auch unter Gewaltanwendung. Die Gefahr ist in Armenvierteln und bei Dunkelheit besonders hoch.  
+
 Der Einsatz von K.-o.-Tropfen und auch Tricks wie das Überschütten von potentiellen Opfern mit Flüssigkeiten sowie Reinigung zwecks Ablenkung und Raub finden des Öfteren Anwendung. Auch Betrugsversuche über das Telefon (Scams) und Kreditkartenbetrüge sind verbreitet.
 
 Einbrüche in Mietwagen, vor allem in der Umgebung des Flughafens von Santiago, sowie vorgetäuschte oder absichtlich herbeigeführte Schäden z.B. an Reifen und Überfälle auf wartende Fahrzeuge an Kreuzungen und Ampeln sind keine Seltenheit.
@@ -55,8 +58,11 @@ Einbrüche in Mietwagen, vor allem in der Umgebung des Flughafens von Santiago, 
 #### *Erdbeben, Vulkane, Tsunamis*
 
 Chile liegt in einer seismisch sehr aktiven Zone, in der immer mit unvorhersehbar einsetzender tektonischer und vulkanischer Aktivität gerechnet werden muss.  
+
 Schwerere Erdbeben haben mehrfach Todesopfer und Verletzte gefordert. Kleinere Beben sind an der Tagesordnung.  
+
 Aktivitäten zeigten zuletzt die Vulkane Villarrica (Region Aracaunía), Copahue (Region Biobio) und Nevados de Chillán (Region Ñuble), für die weiterhin Warnstufen gelten. Hierdurch sind auch Schmelzwasserabgänge möglich.  
+
 Tsunami-Warnungen mit weitreichenden Evakuierungen weg von Küsten können erforderlich werden.
 
 #### *Extremwetterlagen und Überschwemmungen*
@@ -79,6 +85,7 @@ Insbesondere in den Sommermonaten kann es vielerorts zu zum Teil verheerenden, w
 ### Infrastruktur/Verkehr
 
 Chile ist ein gut erschlossenes Reiseland. Mit Mietwagen, modernen Überlandbussen und per Flugzeug sind fast alle Teile des Landes erreichbar. Zugverbindungen gibt es von Santiago aus nur in Richtung Süden (bis Chillán). Zu Störungen kann es im Fall von Streiks kommen.  
+
 In den Städten gibt es Taxis und in Santiago eine U-Bahn.
 
 Auf den asphaltierten Überlandstraßen und Schotterpisten kommt es vor allem im Norden Chiles immer wieder zu teils schweren Auto- und Busunfällen. Grund sind in der Regel technische Defekte der Fahrzeuge, überhöhte Geschwindigkeit bzw. nicht angepasste Fahrweise und Übermüdung der Fahrer.
@@ -105,11 +112,13 @@ Für kurzfristige Besuchsaufenthalte von bis zu 90 Tagen ist der deutsche nation
 ### Wanderungen/Trekking-Touren
 
 Berg- und Vulkanbesteigungen und Trekking bergen erhebliche Gefahren; es kommt immer wieder zu Unglücken und Todesfällen. Die Vulkane Villarica und Osorno sind für ihre gefährlichen Spalten bekannt.  
+
 Örtliche Carabiñeros oder Nationalparkverwaltungen erfragen bei Eintritt in die jeweiligen Parks die ungefähre Route sowie die Dauer der Wanderung, um eventuelle Suchaktionen zu erleichtern.
 
 Der Lago Chungará an der chilenisch-bolivianischen Grenze liegt auf 4.500 m. Von der auf Meereshöhe liegenden Stadt Arica werden Tagesausflüge mit dem Bus dorthin angeboten. Der Höhenunterschied, verbunden mit den Anstrengungen der Fahrt, verursacht bei vielen Touristen, v.a. bei älteren Menschen, Höhenkrankheit, die bereits zu Todesfällen geführt hat.
 
 In den Bergen können sich zudem die Witterungsverhältnisse sehr rasch ändern.  
+
 In den trockenen Wüstengebieten in Nordchile wird es trotz der hohen Tagestemperaturen nachts empfindlich kalt (z. B. bei Ausflügen zum Hochplateau El Tatio bei San Pedro de Atacama).
 
 * Unternehmen Sie Wanderungen und Bergtouren nicht allein, sondern nur in Begleitung anerkannter örtlicher Führer.
@@ -142,6 +151,7 @@ Landeswährung ist der Chilenische Peso (CLP). Kreditkarten können grundsätzli
 ## Einreise und Zoll
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
+
 Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
@@ -159,6 +169,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja, auch wenn die offizielle Anerkennung aussteht
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 ### Visum
@@ -166,12 +177,15 @@ Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate g
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt von bis zu 90 Tagen kein Visum.
 
 Bei der Einreise wird eine kostenlose „Tarjeta Única Migratoria“ als Einreisebeleg ausgestellt, die zu einem Aufenthalt von maximal 90 Tagen berechtigt und das verpflichtende Ausreisedatum nennt. Diese muss bei Ausreise wieder abgegeben werden.  
+
 Bei Verlust oder Diebstahl ist vor Ausreise von der „Policía de Investigaciones (PDI)“ am Flughafen Santiago, Tel. +56 2 26901781, bei jeder PDI-Dienststelle in anderen Regionen oder über die Webseite der PDI [online](https://www.pdichile.cl/tr%C3%A1mites-online/duplicado-de-tarjeta-de-turismo) ein Ersatzbeleg zu beantragen.
 
 #### *Längerfristiger Aufenthalt*
 
 Chile wird voraussichtlich ein neues Migrationsgesetzes (Ley de Migración) einführen, das Regelungen an die europäischen Richtlinien angleichen wird. Schon heute müssen daher deutsche Staatsangehörige bei einem beabsichtigten Aufenthalt von mehr als 90 Tagen ein Visum vor der Einreise online über das [Departamento de Extranjería](http://www.extranjeria.gob.cl/) beantragen, in anschließendem Zusammenwirken mit den örtlich zuständigen chilenischen Auslandsvertretungen.  
+
 Der Aufenthalt kann nach Einreise nicht mehr wie früher verlängert werden. Ein Wechsel des Aufenthaltsstatus nach Einreise ist ebenfalls nicht mehr möglich.  
+
 Weitere Informationen erteilt das [Departamento de Extranjería in Santiago](http://www.extranjeria.gob.cl/) und dessen Filialen in anderen Regionen.
 
 ### Reisen auf die Osterinsel/Rapa Nui
@@ -185,6 +199,7 @@ Die von der chilenischen Regierung veröffentlichten Einreisebestimmungen finden
 Für Reisen mit minderjährigen Kindern gelten in Chile besonders strikte Vorschriften. Auch wenn diese grundsätzlich nur für in Chile lebende Kinder gelten, kommt es regelmäßig auch zu erheblichen Problemen für Reisende aus Deutschland, insbesondere, wenn die Kinder die doppelte Staatsangehörigkeit besitzen oder anderweitig eng mit Chile verbunden sind.
 
 Bei Ein- und Ausreisen ist für allein oder nur mit einem Elternteil reisende minderjährige Kinder eine von einem deutschen oder chilenischen Notar oder einer chilenischen Auslandsvertretung beglaubigte Reisegenehmigung des nicht mitreisenden Elternteils erforderlich. Zur Erteilung der Reisegenehmigung muss neben den gültigen Ausweisdokumenten von Eltern und Kind auch die Geburtsurkunde vorgelegt werden. Die Beglaubigung durch einen deutschen Notar muss zusätzlich mit der Apostille versehen werden.  
+
 Die von einer chilenischen Auslandsvertretung beglaubigte Reisegenehmigung muss nach Einreise und vor Ausreise aus Chile zusätzlich vom chilenischen Außenministerium überbeglaubigt werden. Nähere Informationen erteilt die [Botschaft der Republik Chile in Berlin](http://www.echile.de/index.php/de/service/notarielle-angelegenheiten/reiseerlaubnis).
 
 * Beachten Sie ggf. die Hinweise für eine [Einverständniserklärung für Minderjährige](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/11-kindohneeltern/606308 "Einverständniserklärung für Minderjährige").
@@ -206,7 +221,9 @@ Für Ausländer, die mit einem von einer chilenischen Auslandsvertretung ausgest
 ### Heimtiere
 
 Grundsätzlich ist für Reisen nach Chile mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) der EU-Heimtierausweis einschließlich des Impfnachweises des Tieres gegen Tollwut für die vorübergehende Einfuhr nach Chile geeignet und ausreichend.  
+
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html).  
+
 Weiterreichende Informationen erteilen der [chilenische Servicio Agrícola y Ganadero (SAG)](http://www.sag.gob.cl/) sowie die örtlich zuständigen chilenischen Auslandsvertretungen.
 
 ## Gesundheit
@@ -287,3 +304,69 @@ Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informa
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/chile-node "Chile")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

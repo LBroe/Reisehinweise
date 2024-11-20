@@ -1,5 +1,7 @@
 # Türkei: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 **Von Reisen in das Grenzgebiet der Türkei zu Syrien und Irak wird dringend abgeraten.**
@@ -72,6 +74,7 @@ Es kann weiterhin zu Protesten und Demonstrationen kommen, bei denen vereinzelte
 Die Türkei zeichnet sich bislang als ein Land mit vergleichsweise gering ausgeprägter Gewaltkriminalität aus.
 
 Wie auch in anderen Großstädten ist in Istanbul Vorsicht vor Taschendieben angezeigt. Dabei werden die Opfer vielfach von bettelnden Kindern abgelenkt.  
+
 Vor allem im Stadtteil Beyoğlu wurden vermehrt Betrugsfälle bekannt, in denen Touristen unter einem Vorwand in eine Bar eingeladen und anschließend gezwungen wurden, zur Begleichung der extrem überhöhten Rechnung eine größere Summe Bargeld von einem Geldautomaten abzuheben. Auch kommt es immer wieder zu Passdiebstählen.
 
 Ausländer, insbesondere allein oder in kleinen Gruppen reisende Frauen, sind vereinzelt von gewaltsamen, auch sexuellen Übergriffen betroffen. Auch Minderjährige, z.B. auf dem Weg zu den Toiletten in Lokalen, sind Ziel sexueller Übergriffe geworden.
@@ -92,7 +95,9 @@ Im Februar 2023 ereigneten sich in der Südosttürkei zwei schwere Erdbeben. Bes
 Ein großer Teil der Türkei liegt in einer seismisch sehr aktiven Zone, sodass es zu vielen kleineren, aber auch schwereren Erdbeben kommt. Ggf. ist mit Erdrutschen, erheblichen Verkehrsbeeinträchtigungen und lange andauernden Nachbeben zu rechnen.
 
 Das Klima ist an der Süd- und Westküste mediterran und im anatolischen Hochland kontinental.  
+
 Vor allem in den Sommermonaten kann es in der Türkei aufgrund der herrschenden klimatischen Bedingungen zu Busch- und Waldbränden kommen.  
+
 Starkregenfälle können Überflutungen und Erdrutsche verursachen. Mit einer Beeinträchtigung der Infrastruktur muss in diesen Fällen gerechnet werden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -109,6 +114,7 @@ Die Türkei verfügt über gute Straßenverbindungen, ein dichtes Inlandsflugnet
 Der türkische Straßenverkehr ist insbesondere in den Städten meist sehr lebhaft und dicht. Die Regeln der Straßenverkehrsordnung werden oft nicht eingehalten. Auseinandersetzungen im Straßenverkehr können bei vermeintlichen oder tatsächlichen Verkehrsverstößen aggressive Reaktionen anderer Autofahrer hervorrufen.
 
 Die Promillegrenze beträgt 0,5; bei Fahrten mit Anhängern 0,0.  
+
 Autofahrten nach Einbruch der Dunkelheit, auch auf größeren Verbindungsstraßen, sind auch im Hinblick auf die fehlende Beleuchtung mit erhöhten Gefahren verbunden.. Unbewachte Parkplätze oder Campingplätze stellen ein Risiko für Reisende dar.
 
 Bei angebotenen Jeep-Safaris entspricht der technische Zustand von Fahrzeugen nicht immer den üblichen Sicherheitsstandards.  Reiseveranstalter übernehmen häufig keine Gewähr. Ungeübte Fahrer sind mit derartigen Fahrzeugtypen und Fahren auf Offroad-Strecken oft überfordert.
@@ -116,6 +122,7 @@ Bei angebotenen Jeep-Safaris entspricht der technische Zustand von Fahrzeugen ni
 Bei einer Beteiligung an Verkehrsunfällen besteht unabhängig von der Schuld- oder Verursacherfrage ein hohes Risiko, dass türkische Gerichte eine Ausreisesperre bis zur endgültigen Klärung des Unfalls verhängen.
 
 Grundsätzlich bestimmt bei Taxifahrten das Taxameter den Preis. Bei längeren Fahrten ist Handeln durchaus üblich. Bei viel Gepäck wird z. T. ein Aufschlag verlangt. Besonders in Istanbul können Taxifahrten schnell und ungewollt zu kostspieligen Stadtrundfahrten werden. Die Hotels können im Zweifel eine sichere Informationsquelle für Preise sein.  
+
 In der Türkei gibt es nur an wenigen Orten eine behindertengerechte Infrastruktur. Dies gilt auch für öffentliche Einrichtungen. Der teilweise schlechte Zustand der Gehwege auch in Großstädten kann die Mobilität von gehbehinderten Menschen deutlich einschränken.
 
 Ausflüge werden oft mit Werksbesichtigung und Kaufgelegenheiten angeboten. Diese Werbeveranstaltungen dauern häufig sehr lange. Auch wenn kein Kaufzwang besteht, üben Mitarbeiter von Unternehmen und Reiseleiter oft entsprechenden Druck auf Touristen aus.
@@ -153,11 +160,15 @@ Homosexuelle Handlungen sind in der Türkei nicht strafbar. Die "Pride Parade" w
 ### Rechtliche Besonderheiten
 
 Seit 2017 wurden vermehrt deutsche Staatsangehörige willkürlich festgenommen und/oder mit einer Ausreisesperre belegt. Es ist davon auszugehen, dass die türkischen Strafverfolgungsbehörden umfangreiche Listen von Personen mit Wohnsitz in Deutschland besitzen, die auch ohne hinreichende Vorermittlungen als Grundlage für Strafverfolgungsmaßnahmen, z.T. mit vorläufigen Festnahmen und anschließender Untersuchungshaft oder Ausreisesperren, genutzt werden.  
+
 Türkische Strafverfolgungsbehörden berufen sich bei Festnahmen und Ausreisesperren auf die Mitgliedschaft in oder Unterstützung von bzw. Propaganda für Organisationen, die auch in Deutschland oder der EU als terroristische Vereinigung eingestuft sind (IS, PKK), aber auch auf Mitgliedschaft in der sogenannten „Gülen-Bewegung“, die nur in der Türkei unter der Bezeichnung „FETÖ“ als terroristische Vereinigung eingestuft ist. Auch geringfügige, den Betroffenen unter Umständen gar nicht bewusste oder lediglich von Dritten behauptete Berührungspunkte mit diesen Organisationen oder mit ihnen verbundenen Personen oder Unternehmen können für eine Festnahme ausreichen, auch wenn die Berührungspunkte bereits jahrelang zurückliegen. Für die Begründung des Tatverdachts der Mitgliedschaft in einer terroristischen Vereinigung kann bereits ausreichen, in einem deutschen Vereinsregister als Vorstandsmitglied eines Vereins mit Bezug zu kurdischen Anliegen eingetragen (gewesen) zu sein, ohne dass der Verein in irgendeinem Zusammenhang mit der PKK steht. Es sind auch Personen betroffen, die vor einigen Jahren Petitionen an die Bundesregierung zu kurdischen Anliegen unterzeichnet haben, wie unter anderem die Petition „Initiative für ein unabhängiges Kurdistan“ von 2014. Aussagen der türkischen Regierung vom 3. März 2019 zufolge droht auch Personen, die im Ausland u.a. an Versammlungen solcher Organisationen teilgenommen haben, bei ihrer Einreise in die Türkei eine Festnahme.
 
 Des Weiteren sind öffentliche Äußerungen gegen den türkischen Staat, Sympathiebekundungen zu von der Türkei als terroristisch eingestuften Organisationen und auch die Beleidigung oder Verunglimpfung staatlicher Institutionen und hochrangiger Persönlichkeiten verboten und werden mit Geldbußen oder Haftstrafen geahndet. Der Vorwurf lautet hier oftmals auf „Terrorpropaganda“ oder den im türkischen Strafrecht vorgesehenen Tatbestand der Präsidentenbeleidung. Unter diesen Straftatbestand können auch regierungskritische Äußerungen im Internet und in den Sozialen Medien fallen, sei es durch Teilen, Kommentieren oder Liken eines fremden Beitrags, siehe auch Hinweise unter *Aktuelles*. Auch Äußerungen, die nach deutschem Rechtsverständnis von der Meinungsfreiheit gedeckt sind, können in der Türkei zu strafrechtlicher Verfolgung und zudem z. B. bei Journalisten zu berufsbeschränkenden Maßnahmen wie der Verweigerung der Akkreditierung führen. Es kann insofern nicht ausgeschlossen werden, dass die türkische Regierung weitere Maßnahmen gegen Vertreter deutscher Medien sowie zivilgesellschaftlicher Einrichtungen ergreift.  
+
 Ausreisesperren führen oft zu monatelangen oder sogar über mehrere Jahre dauernden Zwangsaufenthalten in der Türkei mit weitreichenden, mitunter existenzbedrohenden Konsequenzen für die berufliche, familiäre und gesundheitliche Lage der Betroffenen.  
+
 Das Fotografieren militärischer Anlagen und Angehöriger der Sicherheitskräfte oder in militärischer Sicherheitszonen ist verboten.  
+
 In der Türkei werden Drogendelikte besonders hart bestraft, zehn bis 20 Jahre Gefängnis für die Einfuhr, sechs bis 12 Jahre für die Ausfuhr von Drogen.
 
 Auch die Ein-/Ausfuhr sowie der Gebrauch von Cannabis sind in der Türkei weiterhin verboten; dies gilt auch für Aufenthalte im Transitbereich türkischer Flughäfen.
@@ -176,6 +187,7 @@ Als allgemeiner Grundsatz gilt, dass in der Türkei unter Strafe steht, was auch
 ### Geld/Kreditkarten
 
 Landeswährung ist die Türkische Lira (TRY). Mit einer deutschen Debitkarte (Girocard) kann an vielen Geldautomaten problemlos Geld abgehoben werden; die türkischen Banken verlangen jedoch mittlerweile überwiegend eine Gebühr, die von den deutschen Banken nicht erstattet wird.  
+
 Auch Kreditkarten werden als Zahlungsmittel akzeptiert. Teilweise muss man dazu zusätzlich den Reisepass oder Personalausweis vorlegen. Unter Angabe der PIN kann man mit der Kreditkarte außerdem Geld bei Banken oder an entsprechend gekennzeichneten Automaten Bargeld abheben.
 
 ## Einreise und Zoll
@@ -199,9 +211,11 @@ Die **Einreise in die Türkei** ist für deutsche Staatsangehörige mit folgende
 Beachten Sie bei **Flughafentransit/Weiterreise in andere Zielländer**, dass das entsprechende Zielland u. U. eine andere Mindestrestgültigkeit (z. B. sechs Monate) des Reisedokuments verlangen kann.
 
 **Anmerkungen bei Einreise in die Türkei**   
+
 Die Einreise in die Türkei ist mit einem von der Bundespolizei für Notfälle ausgestellten Reiseausweis als Passersatz nicht möglich. 
 
 Die Türkei ist Vertragspartei des Europäischen Übereinkommens über die Regelung des Personenverkehrs zwischen den Mitgliedsstaaten des Europarates vom 13.12.1957.  
+
 Die Einreise kann auch mit Reisepass, vorläufigem Reisepass, Personalausweis oder Kinderreisepass erfolgen, wenn das Dokument seit höchstens einem Jahr abgelaufen ist, nicht jedoch mit einem abgelaufenen vorläufigen Personalausweis.
 
 Es kann jedoch bei der Ausreise aus der Türkei mit abgelaufenen Ausweisdokumenten, insbesondere an den Landgrenzen in Edirne und Ipsala und bei der Weiterreise zu Schwierigkeiten kommen, da nicht alle Transitländer abgelaufene Ausweisdokumente anerkennen.
@@ -221,6 +235,7 @@ Beachten Sie bei Transit/Weiterreise über einen türkischen Flughafen, dass das
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen in einem Zeitraum von 180 Tagen kein Visum.
 
 Die frühere Praxis, nach einer eintägigen Ausreise einen erneuten Aufenthalt von 90 Tagen zu begründen, ist nicht mehr möglich.  
+
 Die Befreiung von der Visumspflicht im oben gestellten Rahmen gewährt kein absolutes Einreiserecht, auch deutsche Staatsangehörige können von Einreisesperren betroffen sein.
 
 Von Deutschland ausgestellte Reisedokumente oder Reiseausweise für Ausländer werden von der Türkei anerkannt. Für die Einreise in die Türkei wird ausnahmslos ein Visum benötigt, das vorab bei einem türkischen Generalkonsulat einzuholen ist.
@@ -302,6 +317,7 @@ Weitergehende Informationen hierzu sowie ein Leitfaden zur vorübergehenden Einf
 ### Heimtiere
 
 Die Einfuhr von bis zu zwei Heimtieren (Hunde, Katzen, Frettchen) pro Reisenden ist grundsätzlich möglich. Jedes Tier muss durch eine deutlich erkennbare Tätowierung oder durch einen Microchip gekennzeichnet sein. Eine Veterinärbescheinigung mit Dokumentation der Tollwutimpfung, die mindestens 15 Tage vor Einreise, aber nicht mehr als 12 Monate alt sein darf, muss vorgelegt werden. Bei Hunden sind einige Rassen (Kampfhunde) verboten und sie müssen neben Tollwut auch gegen Parvovirose, Hepatitis und Leptospirose geimpft sein.  
+
 Das Mitführen des EU-Heimtierausweis ist hilfreich. Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
 
 Die Kontaktaufnahme mit einer türkischen Auslandsvertretung und/oder der Fluggesellschaft ist dringend zu empfehlen.
@@ -366,3 +382,69 @@ Es ist sehr wichtig, sich vor einer Auslandsbehandlung gründlich zu informieren
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node "Türkei")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

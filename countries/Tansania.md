@@ -1,5 +1,7 @@
 # Tansania: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 ### *Mögliche Änderung des Visumsverfahrens und der Einreisebestimmungen Tansanias zum 30. Januar 2025*
@@ -80,6 +82,7 @@ Es häufen sich zudem Fälle, bei denen Fußgängern Taschen oder Rucksäcke von
 ### Piraterie auf hoher See
 
 Vor den Küsten Somalias und seiner Nachbarstaaten sowie in den angrenzenden Gewässern besteht weiterhin ein Risiko von Piratenangriffen und Kaperungen. Nach wie vor sind auch Schiffe tief im Indischen Ozean (um die Seychellen und Madagaskar) sowie vor Kenia, Tansania, Mosambik, Jemen und Oman gefährdet, angegriffen und gekapert zu werden.  
+
 Trotz der internationalen Bemühungen zur Eindämmung der Piraterie bleibt die Zahl der Piratenangriffe hoch; ein wirksamer Schutz kann nicht garantiert werden.
 
 * Lassen Sie als Schiffsführer in den vorgenannten Gebieten höchste Vorsicht walten.
@@ -88,6 +91,7 @@ Trotz der internationalen Bemühungen zur Eindämmung der Piraterie bleibt die Z
 ## Natur und Klima
 
 Es herrscht wechselfeuchtes, tropisches Klima mit ausgeprägten Trocken- und Regenzeiten.  
+
 Insbesondere Küstenregionen sind von Juni bis Oktober von monsunartigen Regenfällen und Überflutungen betroffen, so dass Straßen unpassierbar werden können.
 
 Tansania liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann.
@@ -135,13 +139,17 @@ Prostitution wird mit sehr hohen Gefängnisstrafen belegt. Bei Beteiligung Minde
 Ebenso werden Drogenkonsum, Drogenbesitz und/oder Drogenhandel mit hohen Geld- bzw. Haftstrafen belegt.
 
 Seit Juni 2019 gilt ein allgemeines Verbot von Plastiktüten. Ein Katalog, der die Ein- und Ausfuhr, die Herstellung, den Verkauf, die Aufbewahrung und den Gebrauch von Plastiktüten unter Strafe stellt, wurde bisher nicht veröffentlicht.  
+
 Davon ausdrücklich ausgenommen sind kleine Plastiktaschen mit Zipp-Verschluss für Kosmetika und Flüssigkeiten im Handgepäck, in der Annahme, dass diese auch wieder ausgeführt werden.
 
 ### Geld/Kreditkarten
 
 Landeswährung ist der Tansania-Schilling (TZS). Kreditkarten als Zahlungsmittel werden meist in größeren Hotels akzeptiert, manchmal jedoch nur noch VISA.  
+
 Die Mitnahme von ausreichend Bargeld (EUR/USD) wird empfohlen. Bei Mitnahme von USD-Noten ist zu beachten, dass Banken und Wechselstuben meist nur USD-Noten mit Prägedatum ab dem Jahr 2006 annehmen.  
+
 Der Umtausch von EUR in Landeswährung bleibt auf die großen Städte und bestimmte Hotels beschränkt. Bargeldabhebungen mit deutschen Debitkarten (Girocard) sind an Geldautomaten kaum möglich. Empfehlenswert ist daher die Mitnahme (mehreren) gängiger Kreditkarten, die an den meisten Geldautomaten eingesetzt werden können. Insbesondere mit der weit verbreiteten VISA-Karte lässt sich bei verschiedenen Banken relativ zuverlässig Bargeld abheben. Geldautomaten unterliegen gelegentlich Störungen, daher wird eine Bargeldreserve empfohlen.  
+
 Auch kam es in der Vergangenheit des Öfteren zu unrechtmäßigen Bargeldabhebungen Dritter zu Lasten einer kurz vorher am Geldautomat benutzten Kreditkarte.
 
 * Kontrollieren Sie Ihre Kreditkartenabrechnungen umgehend, gründlich und melden Sie verdächtige Doppelabhebungen bzw. Abbuchungen dem jeweiligen Kreditinstitut.
@@ -169,6 +177,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen noch mindestens sechs Monate über die Reise hinaus gültig sein.
 
 ### Visum
@@ -196,6 +205,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt.
 ### Erfassung biometrischer Daten
 
 Am internationalen Flughafen in Daressalam werden bei der Aus- und/oder der Einreise an der Passkontrolle Fingerabdrücke genommen sowie digitale Passfotos gefertigt.  
+
 Nichtkooperation kann zu einer Verweigerung der Aus- oder Einreise führen.
 
 ### Einfuhrbestimmungen
@@ -217,7 +227,9 @@ Für die Ein- und Ausfuhr von Heimtieren wird eine besondere Erlaubnis des Minis
 ### Impfschutz
 
 Bei der direkten Einreise aus Deutschland auf das Festland Tansanias und nach Sansibar sind keine Pflichtimpfungen, insbesondere keine Gelbfieberimpfung erforderlich. Dies gilt auch, wenn im Transit über ein Gelbfieberendemiegebiet eingereist wird, solange bei dem Zwischenstopp der Flughafen nicht verlassen wird und der Aufenthalt weniger als 12 Stunden beträgt.    
+
 Bei einer Einreise aus einem Gelbfiebergebiet (z.B. Nachbarländer) wird der Nachweis einer gültigen [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") ab dem vollendeten ersten Lebensjahr verlangt.  
+
 Für längere Aufenthalte im Land und bei erhöhter Mückenexposition kann eine Gelbfieberimpfung auch aus medizinischen Gründen sinnvoll sein.
 
 * Beachten Sie auch die [Hinweise des sansibarischen Gesundheitsministeriums](https://www.auswaertiges-amt.de/blob/297834/ba39f4a0949b4621c8f93763491a9c8d/gelbfieber-sansibar-data.pdf) bzw. die [Stellungnahme der Botschaft Tansanias in Berlin](https://www.auswaertiges-amt.de/blob/1603168/4da3bf43c4063cbfa0527bdd16db4149/180220-gelbfieber-sansibar-bo-tansania-berlin-data.pdf), die ggf. ausgedruckt mitgeführt werden sollte.
@@ -280,6 +292,7 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [
 ### Cholera
 
 Regelmäßig kann es während der Regenzeit (Dezember bis März) zu lokal begrenzten Cholera-Ausbrüchen kommen. Es ist ausschließlich die einheimische Bevölkerung betroffen.  
+
 Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel übertragen und kann daher gut durch entsprechende Lebensmittel- und Trinkwasserhygiene vermieden werden. Nur ein kleiner Teil der an Cholera infizierten Menschen erkrankt und von diesen wiederum die Mehrzahl mit einem vergleichsweise milden Verlauf. Die Indikation für eine Choleraimpfung ist nur sehr selten gegeben, in der Regel nur bei besonderen Expositionen wie z.B. der Arbeit im Krankenhaus mit Cholerapatienten, siehe [Cholera.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/cholera/2433480 "Cholera")
 
 * Lassen Sie sich hinsichtlich Ihres Risikoprofils ggf. durch einen Tropen- oder Reisemediziner beraten.
@@ -343,3 +356,69 @@ Die medizinische Versorgung im Lande ist mit Europa nicht zu vergleichen und hä
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/tansania-node "Tansania")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

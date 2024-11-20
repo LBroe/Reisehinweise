@@ -2,6 +2,8 @@
 
 Einschließlich **Britische Überseegebiete**
 
+> 
+
 ## Aktuelles
 
 ### *Einreise/Brexit*
@@ -66,9 +68,13 @@ Einige Britische Überseegebiete, insbesondere St. Helena und Montserrat, liegen
 ### Zuständige Auslandsvertretungen für die Britischen Überseegebiete
 
 Die [Botschaft London](https://uk.diplo.de/uk-de) ist zwar die zuständige diplomatische Vertretung auch für die Überseegebiete des Vereinigten Königreichs, nimmt für diese aber keine konsularischen Aufgaben wahr.  
+
 Für **Anguilla, die Britischen Jungferninseln (British Virgin Islands) und Montserrat** ist die [deutsche Botschaft in Port-of-Spain/Trinidad und Tobago](https://port-of-spain.diplo.de/tt-de) konsularisch zuständig.  
+
 Für **Bermuda** ist das [Generalkonsulat in New York/USA](https://www.germany.info/us-de/botschaft-konsulate/new-york) konsularisch zuständig. In Hamilton, Bermuda, gibt es einen [deutschen Honorarkonsul](https://www.germany.info/us-de/service/hk-abc-newy/1216342?openAccordionId=item-206438-1-panel), an den sich Reisende vor Ort in Notfällen wenden können.  
+
 Für die **Kaimaninseln (Cayman Islands)** und **Turks- und Caicosinseln** ist die [deutsche Botschaft in Kingston/Jamaika](https://kingston.diplo.de/jm-de) konsularisch zuständig.  
+
 Für **St. Helena (St. Helena, Ascension und Tristan da Cunha)** ist das [deutsche Generalkonsulat in Kapstadt/Südafrika](https://southafrica.diplo.de/sa-de/sa-vertretungen/-kapstadt) konsularisch zuständig.
 
 ### Infrastruktur/Verkehr
@@ -78,12 +84,15 @@ Es gibt ein enges Inlandsflugnetz, Eisenbahn- und Busverbindungen sowie in Londo
 Informationen zum Autofahren in Großbritannien bietet [Find-Your-Great-Britain.](https://www.visitbritain.com/us/en/plan-your-trip/getting-around-britain/travelling-around-britain-car)
 
 Es herrscht Linksverkehr. Bei Fahrten mit dem eigenen Fahrzeug sollte sichergestellt werden, dass Scheinwerfer entsprechend eingestellt sind bzw. abgeklebt werden.  
+
 Die Promillegrenze beträgt 0,8; in Schottland 0,5.
 
 Vorfahrtsregelungen sind üblicherweise beschildert mit STOP oder GIVE WAY oder entsprechend markiert, wobei eine doppelte, weiße Querlinie STOP bedeutet, eine doppelte, unterbrochene Linie verlangt langsames Heranfahren.
 
 An wenigen Kreuzungen ohne Regelung mit Schildern haben die Hauptstraßen Vorrang, ggf. gilt die Verständigung unter Verkehrsteilnehmern zur Reihenfolge des Weiterfahrens.  
+
 Im Kreisverkehr hat der von rechts kommende Verkehr Vorfahrt, sofern nichts anderes markiert ist, es sollte so frühzeitig wie möglich in die richtige Spur eingefädelt werden. Blinkzeichen werden schon beim Einfahren entsprechend der gewünschten Fahrtrichtung gesetzt.  
+
 Gelbe Markierungen am Fahrbahnrand bedeuten ein Parkverbot, rote ein Halteverbot, eine durchgezogene rote Doppellinie ein absolutes Halte- und Parkverbot.
 
 #### *Umweltzonen - (Ultra) Low Emission Zone*
@@ -107,6 +116,7 @@ Darüber hinaus können Inhaber eines deutschen Führerscheins mit ständigem Wo
 ### LGBTIQ
 
 Homosexuelle Handlungen sind im Vereinigten Königreich nicht strafbar und werden von der Gesellschaft weitgehend akzeptiert.  
+
 Auch in den Britischen Überseegebieten sind homosexuelle Handlungen nicht strafbar. Allerdings sind die LGBTIQ-Rechte, der Schutz gegen Diskriminierung und die Akzeptanz in der Bevölkerung noch nicht vergleichbar mit denen im Vereinigten Königreichs (Landesteile England, Schottland, Wales).
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?")
@@ -120,6 +130,7 @@ Im Vereinigten Königreich ist das Mitführen folgender Waffen, die in Deutschla
 Die Einfuhr von Messern, die offensichtlich Angriffswaffen sind, ist grundsätzlich nicht erlaubt. Näheres kann unter Bestimmungen zum Mitführen von Messern und unter Bestimmungen und Beschränkungen zur Einfuhr von Schusswaffen, Messern, Schwertern und anderen Angriffswaffen eingesehen werden.
 
 Wird bei einer Überprüfung, auch bei der Sicherheitskontrolle vor der Ausreise an einem britischen Flughafen, der Besitz verbotener Waffen festgestellt, ist mit der sofortigen Festnahme zu rechnen. Eine Gerichtsverhandlung und die Verurteilung zu einer empfindlichen Geld- oder sogar Haftstrafe sind in der Regel die Folge.  
+
 Von den Verboten sind bestimmte Waffen und kleinere Personenkreise ausgenommen.
 
 * Wenn Sie mit einer Waffe oder mit Streumunition in das Vereinigte Königreich reisen möchten, sollten Sie sich unbedingt bei der britischen Botschaft oder bei einem der britischen Generalkonsulate in Deutschland erkundigen, selbst wenn Sie im Besitz eines deutschen Waffenscheins sind.
@@ -213,7 +224,9 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen mindestens sechs Monate über die Aufenthaltsdauer hinaus gültig sein.  
+
 Jedes Kind benötigt ein eigenes Ausweisdokument.
 
 Anforderungen einzelner Fluggesellschaften über mitzuführende Dokumente können in Einzelfällen von staatlichen Regelungen abweichen.
@@ -235,6 +248,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen bis zum Ende der Reise gültig sein.
 
 ##### Visum
@@ -258,6 +272,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen mindestens sechs Monate über die Aufenthaltsdauer hinaus gültig sein.
 
 Anforderungen einzelner Fluggesellschaften über mitzuführende Dokumente können in Einzelfällen von staatlichen Regelungen abweichen.
@@ -279,11 +294,13 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen mindestens sechs Monate über die Aufenthaltsdauer hinaus gültig sein.
 
 ##### **Visum**
 
 Für touristische Einreisen bei einer Aufenthaltsdauer bis zu 30 Tagen ist für deutsche Staatsangehörige kein Visum ist erforderlich.  
+
 Die Beamten der Einwanderungsbehörde überprüfen bei Bedarf bei Einreise den Nachweis von ausreichenden finanziellen Mitteln und Vorliegen eines Rück- oder Weiterflugtickets.
 
 Eine Verlängerung des Aufenthaltstitels nach Einreise vor Ort ist grundsätzlich möglich und kann direkt bei der zuständigen Einwanderungsbehörde beantragt werden.
@@ -301,6 +318,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen mindestens sechs Monate über die Aufenthaltsdauer hinaus gültig sein.
 
 Anforderungen einzelner Fluggesellschaften über mitzuführende Dokumente können in Einzelfällen von staatlichen Regelungen abweichen.
@@ -326,6 +344,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen im Zeitpunkt der Einreise gültig sein.
 
 ##### **Visum**
@@ -351,6 +370,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**  
+
 Reisedokumente müssen mindestens sechs Monate über die Aufenthaltsdauer hinaus gültig sein.
 
 ##### **Visum**
@@ -439,6 +459,7 @@ Dengue-Viren werden landesweit durch tagaktive *Aedes*-Mücken übertragen. Die 
 #### Chikungunya-Fieber
 
 Chikungunya-Viren werden von tagaktiven *Aedes*-Mücken übertragen.  
+
 Die Erkrankung ist gekennzeichnet durch hohes Fieber und unter Umständen länger anhaltenden Gelenk- und Muskelschmerzen. Die Beschwerden können oft nicht eindeutig von anderen durch Mücken übertragenen Erkrankungen unterschieden werden. Chikungunya-Fieber heilt nicht immer folgenlos aus, selten kommt es zu lang anhaltenden rheuma-ähnlichen Beschwerden. Es existiert weder eine Impfung bzw. Chemoprophylaxe noch eine spezifische Therapie, siehe [Chikungunya-Fieber.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/chikungunyafieber/2562870 "Chikungunyafieber")
 
 * Schützen Sie sich zur Vermeidung von Chikungunya-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
@@ -504,3 +525,69 @@ Die medizinische Versorgung in den britischen Überseegebieten ist nicht mit dem
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/grossbritannien-node "Großbritannien / Vereinigtes Königreich")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

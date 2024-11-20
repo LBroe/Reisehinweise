@@ -27,8 +27,6 @@ Die Meinungsfreiheit ist eingeschränkt. Kritik an der Regierung, dem König und
 
 ### Kriminalität
 
-Siehe *Aktuelles*
-
 Thailand verzeichnet zunehmende Kriminalität. Neben Diebstahl und Betrugsfällen kommen auch Gewaltverbrechen wie Vergewaltigung und Raubüberfälle, auch mittels mit Betäubungsmitteln versetzter Getränke in Bars und Clubs, teilweise mit Todesfolge, vor. Das betrifft insbesondere die Tourismushochburgen Phuket, Koh Samui, Koh Tao und Pattaya. Auf den monatlich stattfindenden "Mondscheinpartys" (Full Moon Party) auf der nördlich von Koh Samui gelegenen Insel (Koh) Pha Ngan ist es bereits mehrfach zu tödlichen Zwischenfällen, wie der Vergewaltigung von unter Drogen oder Alkohol stehenden Touristinnen, gekommen.
 
 Frauen wird empfohlen, ihrer persönlichen Sicherheit besondere Aufmerksamkeit zu schenken, sich angemessen zu kleiden und einsame Gegenden sowie unbeleuchtete Straßen nach Einbruch der Dunkelheit zu meiden.

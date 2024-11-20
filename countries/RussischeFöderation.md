@@ -1,5 +1,7 @@
 # Russische Föderation: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 **Von Reisen in die Russische Föderation wird dringend abgeraten.**
@@ -98,6 +100,7 @@ Im März 2024 kam es zu einem Terroranschlag auf das Veranstaltungs- und Einkauf
 #### *Nordkaukasus*
 
 Es besteht bei Reisen in den Föderalbezirk Nordkaukasus eine erhöhte Sicherheitsgefährdung durch mögliche Anschläge mit terroristischem Hintergrund, bewaffnete Auseinandersetzungen und Entführungen, v. a. in Inguschetien, Tschetschenien und Dagestan.  
+
 Zudem gilt für bestimmte Streckenabschnitte einiger Verkehrsstraßen im Nordkaukasus nur beschränkter Zutritt für Ausländer.
 
 Personen, die trotz der Risiken in die oben genannten Regionen reisen, können bei einem Notfall nur mit eingeschränkten Hilfsmöglichkeiten der deutschen Vertretungen in Russland rechnen.
@@ -150,6 +153,7 @@ Aktuell gibt es vermehrt Fälle von Internetbetrug, indem Personen aus Westeurop
 #### *Extreme Kälte und Überschwemmungen*
 
 Das Klima reicht von arktisch im Norden bis zu kontinental im Süden.  
+
 In weiten Teilen Russlands, insbesondere Sibirien, muss in den Wintermonaten mit extremer Kälte und im Frühjahr mit erheblichem Tauwetter und entsprechenden Überflutungen gerechnet werden.
 
 #### *Busch- und Waldbrände*
@@ -159,6 +163,7 @@ Im Sommer muss in Sibirien, aber auch in der Nähe der Hauptstadt Moskau mit tei
 #### *Erdbeben und Vulkanausbrüche*
 
 Teile der Russischen Föderation, insbesondere Tschetschenien, Kamtschatka und die Kurilen liegen in einer seismisch aktiven Zone, in der es zu Erdbeben und auch vulkanischer Aktivität kommen kann.  
+
 Der Shiveluch in Kamtschatka gehört zu den am häufigsten ausbrechenden Vulkanen weltweit und zeigte auch zuletzt verstärkte Aktivitäten. Es gilt eine hohe Gefahrenstufe.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -179,11 +184,15 @@ Es gibt ein dichtes Inlandsflugnetz, Eisenbahn- und Busverbindungen sowie in Gro
 Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch die Russische Föderation nicht mehr anerkannt. Bei Einreise in die Russische Föderation muss eine alternative Kfz-Versicherung abgeschlossen werden, da Autofahrer aus den o.g. Ländern ansonsten als nicht versichert gelten.
 
 Die Straßenverhältnisse sind außerhalb der großen Städte teilweise schlecht, gefährliche Schlaglöcher können in der Dunkelheit oftmals nicht rechtzeitig erkannt werden.  
+
 Auf Autobahnen und außerhalb geschlossener Ortschaften gilt eine uneingeschränkte Lichtpflicht, so dass auch tagsüber mit Abblendlicht gefahren werden muss.  
+
 Es gilt die 0,16 Promille-Grenze, also streng genommen ein Alkoholverbot beim Autofahren.  
+
 Im Kreisverkehr hat grundsätzlich der von rechts kommende Verkehr Vorrang, solange nichts anderes ausgeschildert ist.
 
 Im Fall eines nicht selbst verschuldeten Unfalls ist nicht immer mit einer vollständigen Schadenersatzleistung des Unfallgegners zu rechnen; Deckungssummen der russischen Haftpflichtversicherung sind relativ niedrig.  
+
 Bei einem Unfall können zudem hohe Kosten für den Rücktransport des Fahrzeuges nach Deutschland bzw. sehr hohe Gebühren für den Fall der Entsorgung in der Russischen Föderation entstehen. Auch werden bei Diebstahl eines vorübergehend eingeführten Fahrzeugs mit ausländischer Zulassung Einfuhrabgaben vom russischen Zoll erhoben.
 
 Bei Einreise mit dem Pkw oder mit dem Reisebus können an den Grenzübergangsstellen zur Russischen Föderation mehrstündige Wartezeiten entstehen. Die Einreise auf dem Landweg ist aktuell nur in besonderen Fällen möglich.
@@ -252,6 +261,7 @@ Die Listung als „extremistische“ oder auch als „unerwünschte“ Organisat
 In der Moskauer Innenstadt ist es zu polizeilichen Kontrollen gekommen, in deren Verlauf Mobiltelefone nach Messenger-Diensten und Social Media durchsucht wurden.
 
 Im Grenzgebiet Polen-Russland (Gebiet Kaliningrad/Königsberg) ist die „grüne Grenze“ an verschiedenen Stellen nur durch weit auseinanderliegende Grenzsteine markiert. Bei illegaler Überschreitung der Grenze von Polen aus nur für wenige Meter ist mit Festnahme und mehrjähriger Haftstrafe zu rechnen.  
+
 Gleiches gilt für Gebiete im Nordkaukasus, Grenzzonen zu Belarus und die litauisch-russische Grenze (Kurische Nehrung). Auf der ca. vier Kilometer langen Grenze gibt es nach wie vor keinen (durchgehenden) Zaun im Bereich der Dünen.
 
 ### Geld/Kreditkarten
@@ -291,6 +301,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 ### Visum
 
 Deutsche Staatsangehörige benötigen zur Ein- und Ausreise sowie im Transit ein Visum oder eine Aufenthaltserlaubnis.  
+
 Das Visum muss grundsätzlich vor der Einreise bei der zuständigen russischen Auslandsvertretung beantragt werden.
 
 Eine Visumserteilung durch russische Grenzstellen ist nicht möglich. Weitere Informationen bietet die [Botschaft der Russischen Föderation in Berlin](https://germany.mid.ru/de/).
@@ -304,6 +315,7 @@ Die Erteilung eines E-Visums durch die russischen Grenzstellen ist nicht mögli
 Die Ein- und Ausreise mit E-Visum ist nur an [bestimmten Grenzübergangsstellen](https://electronic-visa.kdmid.ru/index_en.html) möglich. Nähere Auskünfte zum Verfahren sowie weitere Informationen zu den Einreisebedingungen erteilt die zuständige [russische Auslandsvertretung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten/vertretungenrussischefoederation/201544?openAccordionId=item-201678-0-panel)
 
 Bereits kleinste Schreibfehler im elektronischen Visumantrag (Name, Geburtsdatum, Geburtsort, Passnummer – in deutschen Pässen gibt es nur die Null „0“ aber nicht den Buchstaben „O“, Gültigkeitsdaten des Passes) führen zur Zurückweisung bei der Einreise.  
+
 Es müssen auch alle (Vor-)Namen im Antrag aufgeführt werden, die im Reisepass genannt sind. Umlaute und andere Sonderzeichen im Namen sind wie in der maschinenlesbaren Zeile des Reisepasses anzugeben.
 
 Beförderungsunternehmen können die Existenz und Gültigkeit elektronischer Visa per [Validity Check](https://evisacheck.kdmid.ru/) prüfen.
@@ -338,6 +350,7 @@ Passagiere auf Fähr- und Kreuzfahrtschiffen können im Rahmen touristischer Gru
 Bei Überschreiten der Außengrenze wird eine eingehende Kontrolle durchgeführt, die die Überprüfung der Einreisevoraussetzungen, sowie gegebenenfalls der für den Aufenthalt und die Ausübung einer Erwerbstätigkeit erforderlichen Erlaubnisse umfasst.
 
 Reisende müssen unter Umständen mit mehrstündigen Befragungen und der Durchsuchung mitgeführter elektronischer Kommunikationsmittel rechnen.  
+
 Es werden keine elektronischen Bordkarten z.B. auf Mobiltelefonen, sondern nur als Papierausdruck akzeptiert. Ein Ausdruck ist am Check-In-Automat im Terminal möglich.
 
 Sind die Voraussetzungen nicht erfüllt oder wenn eine Einreisesperre besteht, wird die Einreise in die Russische Föderation verweigert. Einreisesperren können nach der russischen Migrationsgesetzgebung bereits dann verfügt werden, wenn innerhalb von drei Jahren zwei Ordnungswidrigkeiten, sog. „Administrative Strafen“, u.a. Verstöße gegen die russische Straßenverkehrsordnung, Rauchen außerhalb genehmigter Bereiche, begangen wurden, und zwar unabhängig davon, ob dafür fällige Geldbußen bereits entrichtet wurden.
@@ -355,6 +368,7 @@ Deutsch-russische Doppelstaater können nur mit einem gültigen russischen Ausla
 Bei der Einreisekontrolle erhalten Reisende vom Grenzdienst eine Migrationskarte mit Einreisestempel ausgehändigt, die bei der Ausreise wieder abgeben werden muss. Der Verlust der Migrationskarte sollte unbedingt vermieden werden.
 
 Ab einem Aufenthalt von sieben Tagen besteht eine Anmeldepflicht für Ausländer.  
+
 Hotels und vergleichbare Einrichtungen übernehmen die Anmeldungen bereits am ersten Tag nach der Anreise. In anderen Fällen muss der Gastgeber, z.B. der russische Partner des deutschen Reisebüros, die Ankunft des ausländischen Gasts innerhalb von sieben Werktagen bei der zuständigen Migrationsbehörde ([UWM/ Главное управление по вопросам миграции МВД РФ](https://гувм.мвд.рф/)) anzeigen. Der ausländische Gast darf seine Ankunft nur im Ausnahmefall auch persönlich im zuständigen Büro der Migrationsstelle (UWM) melden.
 
 Für Verletzungen der An- und Abmeldepflicht ist grundsätzlich der Einlader/Gastgeber verantwortlich und muss Geldstrafen übernehmen. Auch für Reisende drohen allerdings Konsequenzen wie eine Ausweisung und eine Einreisesperre von bis zu fünf Jahren.
@@ -370,6 +384,7 @@ Für Verletzungen der An- und Abmeldepflicht ist grundsätzlich der Einlader/Gas
 Regelungen können derzeit abweichen, *siehe Aktuelles.*
 
 Nach derzeit gültigen Devisenvorschriften müssen lediglich Beträge ab einer Höhe von 10.000 USD bei der Ein- und Ausreise deklariert werden. Die Ausfuhr von Währungen im Gegenwert von über 10.000 USD ist derzeit untersagt. Ggf. ist ein Zoll-Anmeldeformular auszufüllen, der rote Zollkorridor zu benutzen und dort eine Siegelung des Formulars durch den Zoll und für die Ausfuhr der Einfuhr- bzw. Herkunftsnachweis nötig.  
+
 Bei der Einfuhr von geringeren Beträgen kann jeweils der grüne Zollkorridor benutzt werden. Devisenschmuggel z.B. durch nicht deklarierte Ausfuhr von Devisen bleibt strafbar und kann neben der Konfiszierung des Devisenbetrages und einer Geldstrafe zu einer mehrmonatigen Untersuchungshaft führen.
 
 #### *Einreise mit dem Kfz*
@@ -450,3 +465,69 @@ Das Mitbringen von Medikamenten ist außer einer auch in Deutschland üblichen H
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node "Russische Föderation")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

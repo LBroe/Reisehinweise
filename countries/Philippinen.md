@@ -1,5 +1,7 @@
 # Philippinen: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 ### Vulkanausbruch
@@ -12,11 +14,15 @@ Am Abend des 3. Juni 2024 wurde am Vulkan Kanlaon auf der Insel Negros eine star
 ## Sicherheit - Teilreisewarnung
 
 **Vor Reisen in folgende Regionen oder Gebiete wird gewarnt:  
+
 - Zamboanga Peninsula (Region IX)  
+
 - Northern Mindanao (Region X)**, mit Ausnahme der Insel Camiguin  
 **- Davao-Region (Region XI)**, mit Ausnahme des Stadtgebietes von Davao City  
 **- Soccsksargen (Region XII)  
+
 - Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)  
+
 - Inseln des Sulu-Archipels**  
 
 **Von nicht erforderlichen Reisen in andere Regionen von Mindanao und in der Mindanao-See wird abgeraten,**mit Ausnahme der Insel Siargao.
@@ -26,6 +32,7 @@ Am Abend des 3. Juni 2024 wurde am Vulkan Kanlaon auf der Insel Negros eine star
 In mehreren Regionen des Landes besteht eine erhöhte Gefahr terroristischer Anschläge und von Entführungen, sowohl zu Land als auch zur See.
 
 In den o.g. Gebieten sind unterschiedliche Gruppen von islamistischen Terroristen und Rebellen aktiv und es kommt immer wieder zu Anschlägen sowie Kampfhandlungen mit der philippinischen Armee und Sicherheitskräften. Die Armee konnte die von IS-nahen Terroristen besetzte Stadt Marawi 2017 erst nach fünf Monaten schwerster Gefechte mit über 1.000 Todesopfern und hunderttausenden Vertriebenen zurückerobern. Am 3. Dezember 2023 kam es erneut zu einem Terrorangriff in der Stadt Marawi mit mehreren Todesopfern, zu dem sich der Islamische Staat (IS) bekannt hat.  
+
 In Westmindanao wurden bis heute vermehrt Bombenanschläge verübt, bei denen zahlreiche Menschen getötet und eine noch höhere Zahl von Personen verletzt wurden. Die Anschlagsziele lagen in Midsayap, Cotabato City, Isulan, General Santos City und Datu Saudi Ampatuan auf Mindanao; in Lamitan City auf Basilan sowie auf Jolo und Indanan in Sulu.
 
 Die in der Region operierende islamistische Terrorgruppe Abu Sayyaf ist für Entführungen und Ermordungen vor allem auf Mindanao und in der Sulu-See verantwortlich und zielt auf ausländische Entführungsopfer. 2016 wurde eine deutsche Geisel ermordet, 2017 ihr Reisegefährte und zuletzt 2019 ein niederländischer und 2020 ein indonesischer Staatsangehöriger. Auch ortskundige Ausländer sind gefährdet.
@@ -51,11 +58,13 @@ Die Kriminalitätsrate ist hoch. Es kommt zu Taschendiebstählen, Handtaschenrau
 Von schweren Gewaltverbrechen sind vor allem Einheimische bedroht, jedoch kommt es auch vereinzelt zu Überfällen auf Ausländer sowohl durch organisierte Banden als auch durch Einzeltäter. Hiervon ist auch der Autoverkehr, z.B. wartende Fahrzeuge an Ampeln, betroffen.
 
 Entführungen, insbesondere von Geschäftsleuten, und andere Erpressungsmethoden zwecks Erlangung von Löse- und Schutzgeldern, sind verbreitet. Vereinzelt platzieren auch Sicherheitsmitarbeiter verbotene Gegenstände in das Gepäck von Reisenden, um unter Androhung von Strafen und des Herbeiziehens von Polizei aufgrund angeblich begangener Ordnungswidrigkeiten Geld zu erpressen.  
+
 Vereinzelt werden Touristen gebeten, Gegenstände und Gepäckstücke zu transportieren, insbesondere auf inländischen, aber auch internationalen Flügen. Hierbei kann es sich um Drogen handeln, deren Fund bei Kontrollen meist schwerwiegende Folgen für Touristen hat (siehe *Reiseinfos -* *Rechtliche Besonderheiten*).
 
 In Vergnügungsvierteln kommt es zum Einsatz von Drogen bzw. K.-o.-Tropfen in Speisen und Getränken, um einen Raub zu begehen oder zu einer erhöhten Rechnung zu gelangen. Dies kann auch bei auf der Straße angehaltenen Taxis sowie Touristenführern vorkommen.
 
 Kreditkartenbetrug und Trickbetrügereien (Scams) beim Geldwechsel, aber auch per Telefon und E-Mail sind ebenfalls weit verbreitet.  
+
 Aus den Philippinen heraus werden häufig Internetbetrügereien begangen. Nicht selten werden zunächst im Internet persönliche Scheinbeziehungen angebahnt, um sich dann Geld zu leihen, welches nie zurückgezahlt wird.
 
 * Bewahren Sie Geld, Ausweise, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -73,11 +82,13 @@ Aus den Philippinen heraus werden häufig Internetbetrügereien begangen. Nicht 
 #### *Tropenstürme und Überschwemmungen*
 
 Es herrscht maritimes Tropenklima, vor allem im Südosten ganzjährig mit hoher Luftfeuchtigkeit.  
+
 Jährlich ziehen durchschnittlich 20 Taifune über das Gebiet der Philippinen, vor allem in der Regenzeit von Juni bis Dezember. Dabei kommt es örtlich zu heftigen, lebensbedrohlichen Stürmen und Starkregenfällen, die Überschwemmungen und Erdrutsche auslösen können. Zuletzt hat der Super-Taifun Egay/Doksuri im Juli 2023 die Philippinen heimgesucht, wo er mehrere Menschenleben gefordert und erhebliche Schäden angerichtet hat. Die Infrastruktur wird regelmäßig stark beschädigt und Straßen und Brücken können unpassierbar werden.
 
 #### *Erdbeben, Vulkane, Tsunamis*
 
 Die Philippinen liegen in einer seismisch sehr aktiven Zone, dem Feuerring, sodass es jederzeit zu Erd- und Seebeben, vulkanischen Aktivitäten sowie Tsunamis kommen kann.  
+
 Stärkere Erdbeben richten regelmäßig erhebliche Schäden an und fordern Todesopfer.
 
 Von zahlreichen Vulkanen sind 53 aktiv. Der höchste ist der knapp 3.000 m hohe Mount Apo; der aktivste Feuerberg ist der Mayon und als gefährlichster gilt der Pinatubo. Der Taal gilt als Supervulkan. Es gelten oft Gefahrenstufen und Sperrzonen. Die Vulkane Taal und Mayon zeigen derzeit erhöhte Aktivität.
@@ -95,7 +106,9 @@ Vulkan-Eruptionen und Ascheregen mit Auswirkungen auf den Flugverkehr sind jeder
 ### Infrastruktur/Verkehr
 
 Es gibt ein Inlandsflugnetz, zahlreiche Fährverbindungen, Überlandbusse, teilweise Schienenverkehr und Taxidienste.  
+
 Fähren sind häufig überladen, nicht immer mit ausreichend Rettungsbooten ausgestattet, oft unzureichend gewartet und relativ gering gesichert. Auch andere öffentliche Verkehrsmittel sind häufig überfüllt und schlecht gewartet.  
+
 Ungeachtet der im Beförderungsschein enthaltenen Gebühren fallen häufig gesonderte Flug- oder Seehafengebühren vor Ort an, die in der Regel in bar zu entrichten sind.
 
 Der Zustand der Straßen ist landesweit in der Regel schlecht. Es gibt sehr viel Verkehr in Ballungszentren. Fahrzeuge in oft keinem guten technischen Zustand und mangelnde Fahrdisziplin stellen erhöhte Unfallgefahren dar.
@@ -139,6 +152,7 @@ Landeswährung ist der philippinische Peso (PHP). Geldautomaten stehen landeswei
 ## Einreise und Zoll
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
+
 Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
@@ -160,6 +174,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente sollten noch sechs Monate über die vorgesehene Aufenthaltsdauer hinaus gültig sein.
 
 ### Visum
@@ -232,6 +247,7 @@ Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*
 * Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 
 In den Philippinen besteht regionsabhängig ganzjährig ein Malariarisiko. Auf der Insel Palawan liegt ein hohes Risiko, im Rest des Landes ein minimales Risiko vor. Als malariafrei gelten Manila und andere große Städte, siehe [DTG.](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html)  
+
 Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
 
 * Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
@@ -304,3 +320,69 @@ In Manila wie in den anderen größeren Metropolen des Landes ist die ambulante 
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/philippinen-node "Philippinen")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

@@ -1,5 +1,7 @@
 # Neuseeland: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 ### Terrorismus
@@ -38,6 +40,7 @@ In Neuseeland ist von November bis April Wirbelsturmsaison. In dieser Zeit kann 
 #### *Erdbeben und Vulkane*
 
 Neuseeland liegt in einer seismisch aktiven Zone, weshalb es zu Erdbeben und vulkanischen Aktivitäten kommen kann.  
+
 Der Ausbruch des Vulkans Whakaari auf der Insel White Island im Dezember 2019 forderte zahlreiche zum Teil schwer Verletzte und auch Todesopfer. Die Insel bleibt bis auf weiteres gesperrt.
 
 #### *Busch- und Waldbrände*
@@ -62,6 +65,7 @@ Starkregen und Schneeschmelzen können zu Überschwemmungen und Erdrutschen füh
 ### Infrastruktur/Verkehr
 
 Es herrscht Linksverkehr. Der Ausbau und Zustand der Straßen unterscheidet sich deutlich von den Verhältnissen in Mitteleuropa.  
+
 Mehrspurige Autobahnen und -straßen existieren nur auf wenigen, vergleichsweise kurzen Teilstrecken in den urbanen Großräumen Auckland (bis nach Hamilton), Wellington, Christchurch und Dunedin.
 
 Der überwiegende Teil der Staats- und Landstraßen in Neuseeland ist einspurig, kurvenreich und eng; vereinzelt gibt es starke Steigungen und Gefälle. Nebenstraßen sind oft nicht durchgehend asphaltiert.
@@ -83,7 +87,9 @@ Bei Wanderungen in der Wildnis drohen erhebliche Gefahren und Risiken, auch Anbi
 ### Führerschein
 
 Ausländische Führerscheine werden für einen Zeitraum von längstens einem Jahr ab Einreise anerkannt, müssen aber mit einer beglaubigten Übersetzung in englischer Sprache mitgeführt werden.  
+
 Ein internationaler Führerschein ist nicht zwingend notwendig, wird jedoch in Verbindung mit dem nationalen Führerschein als Übersetzung anerkannt.  
+
 Weitere Informationen, sowie Adressen anerkannter Übersetzungsmöglichkeiten, finden Sie bei der [neuseeländischen Verkehrsbehörde.](https://www.nzta.govt.nz/driver-licences/new-residents-and-visitors/)
 
 ### LGBTIQ
@@ -93,9 +99,11 @@ Weitere Informationen, sowie Adressen anerkannter Übersetzungsmöglichkeiten, f
 ### Rechtliche Besonderheiten
 
 Das Sammeln von Pflanzen und das Fangen von Tieren sowie die Ausfuhr von Pflanzen und Tieren ohne erforderliche Genehmigung stehen in Neuseeland unter Strafe; auch der Versuch ist strafbar.  
+
 Verstöße werden hart geahndet, auch bei Ersttätern sind Haftstrafen von mehreren Monaten die Regel, nicht selten in Kombination mit Geldstrafen in Höhe von mehreren Tausend NZD.
 
 Diese Bestimmungen gelten nicht nur für akut vom Aussterben bedrohte Arten, sondern auch für alle von der Naturschutzbehörde als gefährdet eingestuften Arten. Dazu zählen u. a. Geckos, Papageienvögel (Kaka, Parakeet) und Orchideen.  
+
 Der Besitz sowie die Ein- und Ausfuhr von Drogen werden mit empfindlichen Strafen geahndet.
 
 ### Geld/Kreditkarten
@@ -105,6 +113,7 @@ Landeswährung ist der Neuseeland-Dollar (NZD). Das Abheben von Bargeld an Gelda
 ## Einreise und Zoll
 
 Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurzfristig ändern, ohne dass das Auswärtige Amt hiervon vorher unterrichtet wird. Bitte erkundigen Sie sich daher vorab zusätzlich bei den [Vertretungen Ihres Ziellandes](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten "Vertretungen Ihres Reiselandes in Deutschland"). Nur dort erhalten Sie rechtsverbindliche Informationen und/oder über diese Hinweise hinausgehende Informationen zu den Einreise- und Zollbestimmungen Ihres Reiselandes.  
+
 Der deutsche Zoll informiert über die aktuell geltenden [Zollbestimmungen](http://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html) bei Einreise nach Deutschland.
 
 ### Mögliche Einreisebeschränkungen/COVID-19
@@ -122,6 +131,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen bei Einreise noch mindestens einen Monat über den vorgesehenen Aufenthaltszeitraum hinaus gültig sein.
 
 ### Visum
@@ -133,6 +143,7 @@ Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt von b
 Die elektronische Einreisegenehmigung [NZeTA](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta) ist online oder auf mobilen Geräten über die [NZeTA-App](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta) zu beantragen und auch für einen Aufenthalt im Transitbereich erforderlich.
 
 Die NZeTA-Beantragung ist gebührenpflichtig (23 NZD bei Online-Registrierung und 17 NZD bei Registrierung über eine mobile App).  
+
 Zusätzlich wird bei Registrierung auch eine [Tourismussteuer](https://www.immigration.govt.nz/new-zealand-visas/preparing-a-visa-application/your-journey-to-new-zealand/before-you-travel-to-new-zealand/paying-ivl) in Höhe von 35 NZD verlangt, die für eine nachhaltigere Tourismusindustrie in Infrastruktur- und Umweltschutzprojekte fließen soll.
 
 Die einmal erteilte NZeTA gilt für beliebig viele Einreisen für die Dauer von jeweils max. 90 Tagen innerhalb eines Zeitraums von zwei Jahren.
@@ -175,6 +186,7 @@ Einfuhrverbote bzw. -beschränkungen bestehen u.a. für Waffen, wie auch für b
 ### Heimtiere
 
 Die Einfuhr von Hunden und Hauskatzen ist grundsätzlich zulässig, erfordert jedoch die Beachtung zahlreicher, detaillierter Vorschriften und (mit Ausnahme von Einfuhren aus Australien) eine mindestens zehntägige Quarantäne.  
+
 Bei Einfuhr von Zierfischen sind weitere Vorschriften zu beachten. Die Einfuhr von anderen Haustieren ist mit Ausnahmen von Kaninchen und Meerschweinchen aus Australien (und nur aus Australien) und Chinchillas aus Großbritannien (und nur aus Großbritannien) verboten. Weitere Informationen erteilt das [Ministry for Primary Industries.](http://www.mpi.govt.nz/importing/live-animals/pets/)
 
 ## Gesundheit
@@ -213,3 +225,69 @@ Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informa
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/neuseeland-node "Neuseeland")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

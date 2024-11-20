@@ -1,5 +1,7 @@
 # Kolumbien: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 **Von Reisen in folgende Departamentos bzw. Gebiete wird** – mit Ausnahme von Fahrten auf Hauptstraßen zwischen Großstädten bei Tageslicht - **dringend abgeraten:**
@@ -42,6 +44,7 @@ Demonstrationen, Protestaktionen und Streiks können insbesondere in großen St�
 ### Minengefahr
 
 Illegale Gruppierungen (Guerilla und organisierte Kriminalität im Bereich Drogen) haben in weiten Landstrichen Landminen gelegt. Schon wenige Schritte neben geteerten Straßen und festen Schotterpisten besteht die Gefahr, auf eine Mine zu treten. Informationen zur Verteilung der verminten Gebiete finden sich z.B. unter [DescontaminaColombia.](http://www.accioncontraminas.gov.co/)  
+
 Im Grenzgebiet zu Venezuela muss auch auf befestigten Straßen mit Sprengfallen gerechnet werden, die Militärpatrouillen gelten, aber auch von zivilen Fahrzeugen ausgelöst werden und letale Wirkung entfalten können.
 
 * Verlassen Sie Straßen außerhalb von Ortschaften möglichst nicht.
@@ -49,12 +52,15 @@ Im Grenzgebiet zu Venezuela muss auch auf befestigten Straßen mit Sprengfallen 
 ### Kriminalität
 
 In den Großstädten (Bogotá, Medellín, Barranquilla, Cali, Cartagena, Santa Marta usw.) ist die Sicherheitslage mit der in anderen lateinamerikanischen Metropolen vergleichbar.  
+
 Die Kriminalitätsrate (insbesondere Straßendiebstähle und Wohnungseinbrüche) und die allgemeine Gewaltbereitschaft sind hoch. Dies gilt sowohl für landschaftlich reizvolle Gegenden/Wanderwege als auch für die Hauptstadt Bogotá und Touristenzentren.  
+
 Selbst tagsüber muss in belebten Straßen mit Raubüberfällen und Trickdiebstahl gerechnet werden. Mit Einbruch der Dämmerung besteht bei Überfällen eine erhöhte Gefahr für Gewaltanwendung. Ein Besuch von Vierteln, die als soziale Brennpunkte gelten, sollte auch tagsüber und in Großstädten, die ansonsten als einigermaßen sicher gelten, vermieden werden. In diesen Vierteln ist die Polizei wenig präsent und es bestehen oft wenig Hemmungen, Gewalt anzuwenden bis hin zu Tötungsdelikten.
 
 Bei Taxifahrten besteht die Gefahr, Opfer eines Raubüberfalls oder einer Kurzzeitentführung zu werden, bei der die Täter in der Regel Kreditkarten samt PIN abnötigen, um an Geldautomaten Bargeld vom Konto des Opfers abzuheben. Orts- und sprachunkundigen Fahrgästen widerfährt dies bisweilen sogar bei Benutzung der regulären gelben Taxis am Flughafen Bogotá. Über eine App gebuchte Fahrten, (z. B. bei Firmen wie Uber; CABIFY) gelten als sicherer, da der Fahrer bei der entsprechenden Firma registriert ist.
 
 Es kommt auch zum Einsatz von K.-o.-Tropfen und ähnlichen Mitteln in Getränken, Esswaren, Süßigkeiten und Zigaretten, insbesondere in Bogotá und in Überlandbussen. Einige Touristen berichteten von untergeschobenen Drogen bei Straßenkontrollen.  
+
 Reisende werden zudem gegen ihren Willen und in Unkenntnis als „Drogenschmuggler" missbraucht.
 
 * Meiden Sie bei Dunkelheit einsame Viertel und Straßen in größeren Städten und seien Sie abseits der Touristenzentren nicht alleine unterwegs.
@@ -77,7 +83,9 @@ Reisende werden zudem gegen ihren Willen und in Unkenntnis als „Drogenschmuggl
 Kolumbien liegt in einer seismisch aktiven Zone. Im Bereich der Kordilleren im Westteil Kolumbiens ist mit einer erhöhten Erdbebengefahr zu rechnen. Auch gibt es einige aktive Vulkane.
 
 Das Klima ist überwiegend tropisch oder subtropisch, in höheren Lagen wie in Bogotá auch gemäßigt.  
+
 Von April bis Mitte Juni und im Oktober und November ist in Kolumbien Regenzeit, in der es zu heftigen Regenfällen, häufig mit Überschwemmungen und Erdrutschen kommt.  
+
 An der Nordküste am karibischen Meer ist von Juni bis Dezember Wirbelsturmsaison.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -97,7 +105,9 @@ Seit Januar 2024 ist für die Einreise nach Ecuador auf dem Landweg von Peru ode
 ### Infrastruktur/Verkehr
 
 Die kolumbianischen Sicherheitsbehörden haben in den vergangenen Jahren erhebliche Anstrengungen unternommen, um die Sicherheit der Straßenverbindungen zwischen den wichtigsten Städten des Landes zu gewährleisten (insbesondere an den wichtigsten Feiertagen und an den Wochenenden werden die Hauptrouten gesichert). Die Hauptrouten zwischen den wichtigsten Städten des Landes können daher in der Regel befahren werden. Ausflüge in der Umgebung von Bogotá und (mit Einschränkungen) in den Umgebungen anderer Städte sind ebenfalls möglich.  
+
 Aufgrund des schlechten Straßenzustands und der gebirgigen Topographie besteht allerdings ein erhöhtes Unfallrisiko; mit langen Fahrtzeiten ist zu rechnen.  
+
 Zudem können jederzeit Behinderungen durch Erdrutsche oder Streiks entstehen, weshalb bei Fahrten mit eigenem oder Mietwagen gründlich geplant und vorab die aktuelle Lage geprüft werden sollte. In den Städten und auf Hauptverkehrsverbindungen sind die aktuellen Angaben von Internetservices wie Wayzz oder Google-Maps in der Regel korrekt.
 
 Außerhalb der großen Städte und insbesondere in den Naturparks gibt es keine flächendeckende Internet- und Mobilfunkverbindung.
@@ -116,6 +126,7 @@ Der deutsche Führerschein ist für touristische Aufenthalte zwar ausreichend, d
 Für den Besuch einiger Nationalparks ist der Nachweis einer [Gelbfieberimpfung](https://diplo.de/-/2562864) erforderlich.
 
 Die Impfung ist kostenlos am Flughafen El Dorado/Bogotá sowie in diversen Impfzentren möglich, wirksamer Impfschutz entsteht aber erst nach zehn Tagen. Daher wird das Impfdatum bei Eintritt in die betreffenden Parks genau kontrolliert.  
+
 Bei Hochgebirgstouren kommt es aufgrund der extremen Höhenlage von oft über 5.000 m und der besonderen lokalen Bedingungen wie z.B. überwachsenes Geröll auch unter erfahrenen Bergsteigern zu teilweise schweren Unfällen. Eine flächendeckende, zuverlässig erreichbare Bergwacht existiert nicht, Rettungsflüge sind vielerorts nicht möglich.
 
 * Holen Sie vor Aufbruch beim Veranstalter bzw. lokalen Führer Informationen über die konkreten Rettungsmöglichkeiten im Notfall ein, im Zweifel mit Nachdruck.
@@ -181,6 +192,7 @@ Bei der Einreise kann die Vorlage eines Rück- bzw. Weiterflugtickets verlangt w
 Reisende, die ihren aktuellen Pass jemals als verloren oder gestohlen gemeldet haben, sollten sich vor der Abreise vergewissern, dass die Meldung in der Interpol-Datei vollständig gelöscht ist. Andernfalls wird die Einreise in der Regel verweigert.
 
 Bei Einreise an den Flughäfen wird das gesamte Gepäck per Scanner kontrolliert. Bisweilen finden außerdem verdachtsunabhängige körperliche Durchsuchungen auf Drogen statt.  
+
 Bei Gepäckdurchsuchungen wegen Drogenverdachts sollte unbedingt versucht werden, einen unabhängigen Zeugen hinzuzuziehen.
 
 Deutsch-kolumbianische Doppelstaater müssen mit einem kolumbianischen Pass ein- und ausreisen**.**
@@ -190,6 +202,7 @@ Deutsch-kolumbianische Doppelstaater müssen mit einem kolumbianischen Pass ein-
 Deutsche Staatsangehörige benötigen für einen rein touristischen Aufenthalt in Kolumbien kein Visum. Die [Immigrationsbehörde „Migración Colombia“](http://www.migracioncolombia.gov.co/) legt an den Grenzübergangsstellen bzw. auf den internationalen Flughäfen per Stempel im Reisepass die Aufenthaltsdauer fest. Sie sollten daher bei der Einreisekontrolle durch Vorlage von Einladungsschreiben, Flugtickets o. ä. die Grenzbeamten bitten, eine Aufenthaltsdauer zu genehmigen, die den angestrebten Aufenthaltszeitraum abdeckt.
 
 Die zunächst maximale Aufenthaltsdauer beträgt 90 Tage, verlängerbar um weitere 90 Tage. Bei Einreise auf dem Landweg sollte unbedingt auf die Anbringung des Einreisestempels geachtet werden, da es andernfalls Probleme bei der Ausreise gibt.  
+
 Gerade an der Grenze von Ecuador nach Kolumbien lassen Überlandbusse sich gern „durchwinken“, ohne ihren Fahrgästen Zeit für die Einreiseformalitäten zu lassen.
 
 Wer über die genehmigte Aufenthaltsdauer hinaus im Land bleiben möchte, muss rechtzeitig vor Ablauf des bereits genehmigten Zeitraums bei der Migración Colombia eine (gebührenpflichtige) Verlängerung beantragen. Migración Colombia ist in allen größeren Städten des Landes vertreten. In der Regel wird eine einmalige Verlängerung um weitere 90 Tage gewährt, ein Anspruch darauf besteht jedoch nicht.
@@ -303,3 +316,69 @@ Das medizinische Versorgungsangebot ist in den größeren Städten in der Regel 
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/kolumbien-node "Kolumbien")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

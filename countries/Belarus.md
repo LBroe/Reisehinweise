@@ -1,5 +1,7 @@
 # Belarus: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 **Vor Reisen nach Belarus wird gewarnt.**
@@ -58,6 +60,7 @@ Die Kriminalitätsrate in Belarus ist niedrig. Es kommt in seltenen Fällen zu K
 ## Natur und Klima
 
 Das Klima ist gemäßigt-kontinental.  
+
 In den meist feuchten Wintern kann es zu erheblichen Schneefällen und entsprechenden Beeinträchtigungen kommen.
 
 Im Sommer gibt es teilweise Hitze- und Trockenperioden.
@@ -75,6 +78,7 @@ Der Europäische Rat hat Fluggesellschaften aufgefordert, den belarussischen Luf
 Die öffentlichen Verkehrsmittel wie Eisenbahn, Bus, Metro, Taxis und auch Sammeltaxis funktionieren gut und sind zuverlässig. Nicht vorbestellte Taxis fahren inoffiziell, verlangen oft erhöhte Preise und sind für die Fahrt nicht versichert. Angebote über Apps auf dem Mobiltelefon sind in größeren Städten verbreitet und eine günstige Fortbewegungsart.
 
 Auf den Landstraßen sind die Straßenverhältnisse teilweise schlecht. Bei Fahrten über Land ist mit einem erhöhten Unfallrisiko wegen Wildwechsel zu rechnen.  
+
 Es besteht Alkoholverbot am Steuer, *s. auch Rechtliche Besonderheiten.*
 
 Kfz-Versicherungen aus der EU, Großbritannien und der Schweiz werden seit dem 31. Mai 2023 durch Belarus nicht mehr anerkannt. Bei Einreise in die Republik Belarus muss eine alternative Kfz-Versicherung abgeschlossen werden, da Autofahrer aus den o.g. Ländern ansonsten als nicht Kfz-versichert gelten.
@@ -204,9 +208,13 @@ Die Registrierung kann gebührenfrei online über das Unified Portal of e-Servic
 Die persönliche Registrierung erfordert eine Vorsprache bei dem jeweils zuständigen OGIM (Отдел по гражданству и миграции – Amt für Staatsangehörigkeit und Migration); eine Registrierung bei der Behörde ist gebührenpflichtig.. Reisende, die aus der Russischen Föderation eingereist sind, können sich nicht online registrieren und müssen persönlich vorsprechen. Es werden in der Regel hierfür benötigt:
 
 -           Reisepass  
+
 -           Krankenversicherungspolice  
+
 -           Antrag der einladenden Organisation mit Stempel und Unterschrift (gilt nicht für Privatbesuche)  
+
 -           zwei bei der Behörde auszufüllende Formulare  
+
 -           Bankbescheinigung über die Einzahlung der zu entrichtenden Gebühren
 
 Die Krankenversicherung ist mit einer russisch- oder belarussischsprachigen Übersetzung vorzulegen, falls diese nicht in englischer Sprache ausgestellt ist. Die persönliche Registrierung kann üblicherweise innerhalb eines Tages erledigt werden. Sonntags und montags ist keine persönliche Registrierung möglich, da die zuständigen Behörden dann grundsätzlich landesweit geschlossen sind.
@@ -214,6 +222,7 @@ Die Krankenversicherung ist mit einer russisch- oder belarussischsprachigen Übe
 ### Krankenversicherungspflicht
 
 Bei Reisen nach Belarus besteht für Ausländer Krankenversicherungspflicht. Eine den belarussischen Vorgaben Bei Reisen nach Belarus besteht für Ausländer Krankenversicherungspflicht. Eine den belarussischen Vorgaben entsprechende Krankenversicherung ist grundsätzlich bereits bei Beantragung des Visums nachzuweisen. Informationen dazu bietet die [belarussische Botschaft in Berlin](http://germany.mfa.gov.by/de/konsularwesen/krankenversicherung/). Es wird empfohlen, eine russisch- oder belarussischsprachige Übersetzung bzw. eine englischsprachige Police mitzuführen. Bei Bedarf kann eine belarussische Pflichtkrankenversicherung grundsätzlich auch bei Einreise an den Grenzübergängen abgeschlossen werden.  
+
 Der Versicherungsbeitrag für eine belarussische Pflichtkrankenversicherung beläuft sich für einen Aufenthalt von ein bis zwei Tagen auf ca. 2,- Euro pro Aufenthaltstag und erhöht sich in der Folge nach einem Staffelungsschema.
 
 ### Doppelstaater
@@ -251,6 +260,7 @@ Die belarussischen Zollbehörden sehen selbst bei kleinsten Verstößen gegen di
 Siehe *Aktuelles*
 
 Ein außerhalb der Eurasischen Wirtschaftsunion (Armenien, Belarus, Kasachstan, Kirgisistan, Russische Föderation) zugelassenes Fahrzeug kann für die Dauer des Aufenthaltes, jedoch nicht länger als für ein Jahr nach Belarus und in die Wirtschaftsunion ohne Entrichtung von Zollgebühren und Steuern zeitweise eingeführt werden.  
+
 Vergehen werden streng geahndet und können mit einer Konfiszierung des Fahrzeuges und/ oder Strafzahlung enden.
 
 Für Fahrzeuge wird eine entsprechende Versicherung benötigt, die für Belarus gilt, beispielsweise mittels einer [Frontier Insurance Policy](http://germany.mfa.gov.by/docs/reminder_eng.pdf), die in der Regel auch an der Grenze erhältlich ist. Die Versicherung mittels grüner Versicherungskarte ist nicht mehr möglich. Vergehen werden mit einer Geldstrafe geahndet.
@@ -318,3 +328,69 @@ Die medizinische Versorgung entspricht oft nicht westeuropäischem Standard. Die
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/belarus-node "Belarus")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

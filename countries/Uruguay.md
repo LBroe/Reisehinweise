@@ -1,5 +1,7 @@
 # Uruguay: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 Die anhaltend schweren Regenfälle im Süden Brasiliens haben inzwischen Uruguay erreicht und sorgen, vor allem in den nördlichen Landesteilen, für schwere Überschwemmungen, Erdrutsche und Beeinträchtigungen der Infrastruktur. Weitere Unwetter in den nächsten Tagen können nicht ausgeschlossen werden.
@@ -34,6 +36,7 @@ Bewaffnete Raubüberfälle auf Restaurants in besseren Wohngegenden Montevideos 
 Siehe *Aktuelles*
 
 Es herrscht gemäßigt-warmes Klima.  
+
 Dürren, Überschwemmungen und auch starke Stürme können zu jeder Jahreszeit auftreten.
 
 Vor allem in den Sommermonaten von Dezember bis März kann es in Uruguay zu Busch- und Waldbränden kommen.
@@ -45,10 +48,15 @@ Vor allem in den Sommermonaten von Dezember bis März kann es in Uruguay zu Busc
 ### Infrastruktur/Verkehr
 
 Das Hauptverkehrsmittel ist der Autobus. Es gibt zahlreiche gute Busgesellschaften, die über moderne und klimatisierte Fahrzeuge verfügen.  
+
 Für den Straßenverkehr wird der Abschluss einer Unfallversicherung sowie einer Kaskoversicherung empfohlen. Bei einem Autounfall sollte die Polizei immer hinzugezogen werden. Allerdings ist sie bei Sachschäden nach uruguayischem Recht nicht zu einer Mitwirkung verpflichtet. Umsichtiges Fahren wird empfohlen und nächtliche Überlandfahrten sollten aus Sicherheitsgründen vermieden werden. Bei Unfällen mit Personenschäden ist auch bei fahrlässiger Verursachung mit Gefängnisstrafe und ggf. vorab mit Untersuchungshaft bis zum Beginn des Prozesses zu rechnen.  
+
 Es gilt absolutes Alkoholverbot (0,0 Promille). Die allgemeine, für den innerstädtischen Verkehr in Uruguay festgelegte, Höchstgeschwindigkeit beträgt 45 km/h.  
+
 Die Polizei führt Geschwindigkeits- und Alkoholkontrollen durch und verhängt bei Zuwiderhandlungen hohe Geldbußen, aktuell in Montevideo etwa 240 bzw. 450 EUR.  
+
 Auch die Nutzung von Mobiltelefonen während der Fahrt ist in Uruguay verboten.  
+
 Bei der Beförderung durch Taxis ist die Vorbestellung durch eine allgemeine Taxirufnummer ratsam; für eventuelle Reklamationen sollte die Kennnummer des Taxis vom Schild auf dem Dach des Fahrzeugs notiert werden, die mit dem Kfz-Kennzeichen übereinstimmen sollte. Insbesondere in Montevideo empfiehlt sich die Nutzung von Taxi-Apps, die den Namen, das Fahrzeug und die Fahrtstrecke aufzeichnen.
 
 ### Führerschein
@@ -68,6 +76,7 @@ Touristen sind der Konsum, der Besitz und der Handel mit Marihuana und allen an
 ### Geld/Kreditkarten
 
 Landeswährung ist der uruguayische Peso (UYU). Internationale Kreditkarten werden allgemein akzeptiert. Mit Kredit- sowie Debitkarten (u.a. mit Maestro) kann an vielen Geldautomaten Bargeld abgehoben werden.  
+
 USD und EUR sind als Zahlungsmittel anerkannt und können problemlos in den zahlreichen Wechselstuben (Casas de Cambio) zum aktuellen Kurs gegen die einheimische Währung UYU gewechselt werden.
 
 ## Einreise und Zoll
@@ -89,6 +98,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen zum Zeitpunkt der Einreise gültig sein. 
 
 Ein Passverlust muss bei der nächsten Polizeidienststelle angezeigt werden. Diese Anzeige wird zur Ausstellung des neuen deutschen Passes und zur Ausreise aus Uruguay benötigt.
@@ -102,6 +112,7 @@ Für eine weitere Verlängerung muss – je nach Aufenthaltszweck- eine vorüber
 ### Elektronische Einreisekontrolle
 
 Nach Einführung einer elektronischen Einreisekontrolle erhalten Ausländer bei ihrer Einreise nach Uruguay nicht mehr in allen Fällen einen Einreisestempel in ihren Reisepass. Erwachsene Reisende mit biometrischen Reisepässen haben die Möglichkeit der Nutzung automatischer Einreise-Gates. Durch die Nutzung dieser Gates werden Datum der Einreise und Passdaten im IT-System der uruguayischen Migrationsbehörde gespeichert. Probleme aufgrund des fehlenden Einreisestempels sind bei anschließender Ausreise aus Uruguay innerhalb des erlaubten Zeitraums nicht zu erwarten.  
+
 Der Erhalt eines Einreisestempels ist weiterhin möglich, wenn Reisende anstelle der automatischen Einreise-Gates die bisherigen mit Beamten der uruguayischen Migrationsbehörde besetzten Kabinen nutzen.
 
 ### Minderjährige
@@ -126,9 +137,13 @@ Nicht alle Medikamente dürfen nach Uruguay eingeführt werden.
 ### Einreise mit dem Kfz
 
 Für die Einreise mit einem Fahrzeug, das nicht im Mercosur zugelassen ist, ist eine Einfuhrerlaubnis der uruguayischen Zollbehörde erforderlich. Diese Erlaubnis wird üblicherweise direkt bei Einreise für einen Zeitraum von 365 Tagen ausgestellt, unabhängig von der Gültigkeit des Visums des Halters. Grundsätzlich ist das Fahrzeug bei der Ausreise des Fahrzeughalters mit auszuführen.  
+
 Falls das Fahrzeug zwischenzeitlich ausgeführt wird (z.B. durch Fahrt in Nachbarländer), muss eine Mindestaufenthaltstzeit außerhalb Uruguays beachtet werden. Über die Länge der Mindestzeit informiert die uruguayische Zollbehörde. Auf keinen Fall ist die Wiedereinreise mit dem Fahrzeug am gleichen Tag der Ausreise möglich, um eine Verlängerung der Einfuhrerlaubnis zu erhalten.  
+
 Muss der Fahrzeughalter aufgrund "höherer Gewalt" Uruguay verlassen und ist er nicht in der Lage sein Fahrzeug zeitgleich auszuführen, muss er dies der uruguayischen Zollbehörde anzeigen. Im Falle der Nichteinhaltung dieses Verfahrens drohen Bußgelder und/oder die Beschlagnahmung des Fahrzeugs durch die uruguayische Zollbehörde.  
+
 In jedem Fall sind durchgängig die Originale oder Kopien der das Fahrzeug betreffenden Unterlagen (Fahrzeugpapiere, Versicherungsnachweis, Führerschein des Fahrzeughalters, ggfs. Vollmachten) im Fahrzeug zu belassen.  
+
 Weitere Informationen erteilt die [uruguayische Zollbehörde](http://www.aduanas.gub.uy/innovaportal/v/4085/5/innova.front/contactenos.html).
 
 ### Heimtiere
@@ -209,3 +224,69 @@ Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informa
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/uruguay-node "Uruguay")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

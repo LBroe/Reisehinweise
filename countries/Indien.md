@@ -1,5 +1,7 @@
 # Indien: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 **Von Reisen nach Jammu und Kaschmir sowie nach Manipur wird derzeit dringend abgeraten.**
@@ -81,6 +83,7 @@ Die Bundesstaaten Bihar, Jharkand, Chhattisgarh, der äußerste Südwesten von O
 Kleinkriminalität wie Taschendiebstahl kommt vor. Das Risiko von Gewaltkriminalität ist insbesondere in den touristisch erschlossenen Gebieten Indiens eher gering.
 
 Touristen in New Delhi und anderen indischen Städten werden gelegentlich, und insbesondere im Stadtzentrum von New Delhi, von örtlichen Reiseveranstaltern mit aggressiven Verkaufsmethoden zum Kauf überteuerter Reisen gedrängt. Diese Büros geben sich regelmäßig als "staatlich anerkannt" aus, um besondere Qualität und Reputation vorzugeben.  
+
 Örtliche Taxifahrer arbeiten mitunter mit diesen Veranstaltern und unseriösen Hoteliers zusammen und fahren Touristen insbesondere direkt nach Ankunft am Flughafen in Delhi unter Ausreden, weshalb das beabsichtigte Ziel nicht erreichbar sei, gezielt dorthin. Touristen - besonders in Rajasthan und Goa – wurden wiederholt Opfer gut organisierter Trickbetrüger, u.a. über das Angebot lukrativer Juwelengeschäfte.
 
 Ausländer, insbesondere allein oder in kleinen Gruppen reisende Frauen, sind vereinzelt von gewaltsamen, auch sexuellen Übergriffen betroffen, auch in Touristenzentren. Dazu werden teilweise Drogen oder K.-o.-Tropfen über Getränke verabreicht.
@@ -116,8 +119,11 @@ Zyklone und Tropenstürme sind insbesondere in den Monaten September bis Dezembe
 ### Infrastruktur/Verkehr
 
 Es gibt ein funktionierendes inländisches Verkehrsnetz mit Flug-, Bus- und Eisenbahnverbindungen und innerhalb der Städte auch Metro und Rikschas, das allerdings nur teilweise den Basisstandard bietet.  
+
 In der Hauptmonsunzeit können Straßen zeitweise unpassierbar, Zugverbindungen unterbrochen oder einzelne Orte vorübergehend nicht mehr zugänglich sein.  
+
 Es herrscht Linksverkehr. Straßen sind oft in schlechtem Zustand. Technische Überwachungen der Fahrzeuge, wie in Mitteleuropa üblich, werden in Indien nicht durchgeführt, Verkehrsregeln nicht immer in gewohnter Weise beachtet. Schwere Verkehrsunfälle sind insbesondere bei Überlandfahrten häufig. Eine ausreichende medizinische Versorgung, gerade bei Notfällen oder Unfällen, kann in weiten Landesteilen nicht gewährleistet werden. Ein zuverlässig funktionierendes Rettungswesen ist auch in den Städten nicht überall existent.  
+
 Gehwege existieren häufig nicht oder bergen erhebliche Unfallgefahren wie unerwartete Stolperfallen oder nicht gesicherte oder gekennzeichnete Baugruben. Auch kleine Unfälle können zur Einmischung von Unbeteiligten und Auseinandersetzungen führen.
 
 * Lassen Sie im Straßenverkehr Vorsicht walten.
@@ -132,6 +138,7 @@ Der internationale Führerschein ist erforderlich und nur in Verbindung mit dem 
 ### Wanderungen und Trekking-Touren
 
 Nordindien ist ein beliebtes Reiseziel für Trekkingtouristen, die in große Höhen aufsteigen. Oft reicht die Zeit nicht für eine stufenweise Höhenanpassung. Verschiedene Formen von akuter Höhenkrankheit sind möglich, siehe [Merkblatt Höhenkrankheit.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/hoehenkrankheit/2519606 "Höhenkrankheit")  
+
 In Indien steht keine professionelle Infrastruktur für Nothilfe – insbesondere für Such- und Bergungsaktionen bei Unfällen im Hochgebirge – zur Verfügung. Hilfsmaßnahmen müssen bürokratisch und zeitintensiv über das Außenministerium und die militärischen Einrichtungen eingeleitet werden.
 
 * Unternehmen Sie Trekking-Touren möglichst mit vertrauenswürdigen Veranstaltern und nie allein.
@@ -205,6 +212,7 @@ Das Visum muss vor der Einreise bei einer [indischen Auslandsvertretung](https:/
 Es gibt keine Erteilung von Visa bei Einreise (on arrival).
 
 Das [E-Visum](https://indianvisaonline.gov.in/evisa/tvoa.html) muss bis spätestens vier Tage vor dem geplanten Einreisedatum beantragt werden, siehe *Aktuelles*. Die Dauer des berechtigten Aufenthalts variiert zwischen den verschiedenen Kategorien für E-Visa (z.B. Tourismus-, Geschäfts-, oder Konferenzvisa). Genauere Informationen bietet [Indianvisaonline](https://indianvisaonline.gov.in/visa/tvoa.html), worüber auch Anträge zu stellen sind. In Einzelfällen soll es bei der Online-Bezahlung der e-TV zu Schwierigkeiten gekommen sein. Ein Ausdruck der Electronic Travel Authorization (ETA) muss auf Verlangen vorgezeigt werden können.  
+
 Rund um die Uhr steht eine Hotline unter +91-11-2430 0666 oder [indiatvoa@gov.in](mailto:indiatvoa@gov.in) zur Verfügung.
 
 Reguläre Touristenvisa werden grundsätzlich mit einer Gültigkeitsdauer von 365 Tagen ab dem Tag des Ausstellungsdatums ausgestellt und berechtigen zu einem Aufenthalt von bis zu 90 Tagen je Besuch. In der Regel sind mehrfache Einreisen möglich (multiple entry visa).
@@ -218,11 +226,13 @@ Es erfolgen immer wieder Ausweisungen, weil Aktivitäten wie NRO-Arbeit (Nicht-R
 #### *Verlängerung/Überschreitung des Aufenthalts*
 
 Eine Verlängerung der Gültigkeit des Touristenvisums nach Einreise ist nur in begründeten Ausnahme-/Notfällen durch das zuständige örtliche Foreigners’ Regional Registration Office (FRRO) möglich.  
+
 Reisende, die nicht innerhalb der Gültigkeit des Visums ausreisen, müssen mit einer Haftstrafe und mehrjährigem Einreiseverbot rechnen.
 
 #### *Registrierung*
 
 Bei einer beabsichtigten Gesamtaufenthaltsdauer von mehr als sechs Monaten oder sofern eine solche Auflage im indischen Visum (z.B. Arbeitsvisum) aufgeführt ist, besteht - unabhängig von der beabsichtigten Dauer des einzelnen Aufenthalts - eine Registrierungspflicht beim örtlich zuständigen District Foreigners' Registration Office (FRO) bzw. beim Foreigners' Regional Registration Office (FRRO), die innerhalb von 14 Tagen nach Ankunft erfolgen muss.  
+
 Nichtregistrierung führt regelmäßig dazu, dass die Ausreise am indischen Flughafen verhindert und beim örtlich zuständigen FRRO eine gesonderte Ausreiseerlaubnis eingeholt werden muss, so dass eine Rückreise an den letzten Aufenthaltsort innerhalb Indiens und damit eine mehrtägige Ausreiseverzögerung unvermeidbar wird.
 
 * Registrieren Sie sich bei längeren Aufenthalten oder entsprechender Auflage innerhalb von 14 Tagen nach Einreise beim zuständigen FRRO.
@@ -273,6 +283,7 @@ Insbesondere Schwangeren und ihren Partnern sowie Paaren, die absehbar eine Schw
 ### Impfschutz
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben.  
+
 Bei Einreise aus einem Gelbfiebergebiet ist eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachzuweisen.
 
 Reisende mit Wohnsitz in Ländern mit [Poliomyelitis-Erkrankungen (Kinderlähmung)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis") müssen eine Impfung nach WHO-Standard nachweisen, die mindestens vier Wochen und maximal ein Jahr vor Ausreise durchgeführt wurde. Für Ausländer, z. B. deutsche Staatsbürger, die in Poliomyelitis-infizierten Ländern leben und nach Indien reisen, ist eine Impfung nicht erforderlich. Genauso ist der Impfnachweis nicht erforderlich für Ausländer, die in Indien leben und in Poliomyelitis-infizierte Länder reisen.
@@ -334,6 +345,7 @@ Durch sexuelle Kontakte, bei Drogengebrauch (unsaubere Spritzen oder Kanülen) u
 ### Durchfallerkrankungen
 
 Durchfallerkrankungen sind überall im Land ganzjährig häufig, siehe [Durchfallerkrankungen.](https://www.auswaertiges-amt.de/blob/200206/8c414cbefcaad8d79d86d85552dd5db7/durchfallmerkblatt-data.pdf "Merkblatt Durchfall (Diarrhoe)") Leitungswasser hat auch in Städten oft keine Trinkwasserqualität. Das Infektionsrisiko durch Salmonellen, Shigellen, Amöben, Lamblien und Wurmerkrankungen, Hepatitis A und E besteht landesweit. Viele Typhuskeime sind multiresistent, d.h. Antibiotika nur noch schlecht wirksam.  
+
 Durch eine entsprechende Lebensmittel- und Trinkwasserhygiene lassen sich die meisten Durchfallerkrankungen und auch Cholera (s.u.) jedoch vermeiden. Zum Schutz Ihrer Gesundheit beachten Sie daher folgende grundlegende Hinweise:
 
 * Trinken Sie ausschließlich Wasser sicheren Ursprungs, nie Leitungswasser. Durch den Kauf von Flaschenwasser mit Kohlensäure kann eine bereits zuvor geöffnete Flasche leichter identifiziert werden.
@@ -353,6 +365,7 @@ Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel 
 ### Japanische Enzephalitis
 
 Bei der Japanischen Enzephalitis (JE) handelt es sich um eine Entzündung des Gehirns, die von Viren verursacht wird. Diese werden von nachtaktiven Stechmücken übertragen. Vor allem Schweine und Wasservögel sind mit dem Virus infiziert, ohne dabei selber zu erkranken. Erkrankungen beim Menschen sind meist asymptomatisch, können aber in seltenen Fällen schwer verlaufen und dann bleibende Schäden hinterlassen oder tödlich enden. Es gibt keine wirksamen Medikamente gegen JE Viren.  
+
 Ein geringes Übertragungsrisiko für JE besteht landesweit, besonders auf dem Land. In den Bundesstaaten Uttar Pradesh und Bihar kommt es immer wieder zum gehäuften Auftreten von Enzephalitiden und Hirnhautentzündungen, deren Ursache nicht immer eindeutig geklärt werden kann und die verschiedenen Erregern zugeschrieben werden.
 
 * Schützen Sie sich zur Vermeidung von Japanischer Enzephalitis im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere nachts konsequent vor Mückenstichen und lassen sich hinsichtlich einer Impfung beraten.
@@ -398,6 +411,7 @@ Die Luftverschmutzung in den Städten hat in den letzten Jahren erheblich zugeno
 ### Medizinische Versorgung
 
 Die medizinische Versorgung, gerade bei Notfällen oder Unfällen, ist in weiten Landesteilen unzureichend und entspricht medizinisch, hygienisch, technisch und organisatorisch meist nicht europäischem Standard. Ein zuverlässig funktionierendes Rettungswesen ist auch in den Städten nicht überall existent.  Sprachbarrieren können gerade auf dem Land die Kommunikation erheblich erschweren.  
+
 In den großen Städten ist die medizinische Versorgung in allen Fachdisziplinen meist auf einem hohen und sehr hohen Niveau und damit auch deutlich teurer. Bei schweren Erkrankungen muss deshalb ggf. eine medizinische Evakuierung in eine der großen urbanen Kliniken erwogen werden. Dort ist es üblich, vor Behandlungsbeginn eine erhebliche Anzahlung zu leisten.
 
 Die Versorgung mit zuverlässigen Medikamenten und eine ununterbrochene Kühlkette sind nicht überall gesichert. Es muss damit gerechnet werden, dass insbesondere in kleinen Apotheken auch gefälschte Produkte statt richtiger Medikamente verkauft werden. Die Apotheken der großen Privatkliniken bieten ein breites Spektrum zuverlässiger Medikamente an. Landesweit treten zahlreiche Resistenzen gegenüber häufig eingesetzter Antibiotika auf.
@@ -416,3 +430,69 @@ Informationen zur medizinischen Versorgung vor Ort bieten die [Deutschen Vertret
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/indien-node "Indien")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

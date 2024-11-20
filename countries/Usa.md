@@ -1,10 +1,13 @@
 # USA/Vereinigte Staaten: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 ### *Busch- und Waldbrände*
 
 Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
+
 Auch in anderen Bundesstaaten besteht erhöhte Busch- und Waldbrandgefahr, vor allem im Süden und Südwesten der USA.
 
 * Achten Sie in Bezug auf Busch- und Waldbrände auf Meldungen in den Medien und Hinweise der lokalen Behörden.
@@ -31,6 +34,7 @@ Amerikanische Großstädte sind landesweit mit einem Anstieg der Gewaltkriminali
 ### Kriminalität
 
 Taschendiebstähle, Überfälle und Autoeinbrüche kommen in vielen Ballungszentren der USA vor. Die Gefahr ist aber je nach Ortschaft und innerhalb einer Großstadt je nach Viertel stark unterschiedlich. In ärmeren Vierteln steigen Risiken für Reisende insbesondere nach Einbruch der Dunkelheit, wie auch teilweise in Touristenorten und öffentlichen Verkehrsmitteln. Ladenüberfälle haben in einigen Städten in den letzten Monaten spürbar zugenommen.  
+
 In den USA ist es leicht, in den Besitz von Waffen zu gelangen, sodass es häufiger zum Schusswaffengebrauch und vereinzelt auch zu Amokläufen kommt. Die Zahl der Waffen- und Munitionskäufe nahmen in letzter Zeit beträchtlich zu.
 
 * Erkundigen Sie sich an Ihrem jeweiligen Aufenthaltsort über die lokalen Gegebenheiten und welche Gegenden gemieden werden sollten.
@@ -50,7 +54,9 @@ Die Klimazonen reichen von polar in Alaska über kühl bzw. warm gemäßigt bis 
 In bestimmten Regionen der USA kommt es öfters zu starken Wirbelstürmen. Zusätzlich zu kurzfristig auftretenden orkanartigen Winden stellen die Regenmengen und damit einhergehende Überflutungen eine große Gefahr dar.
 
 In der Karibik, den südlichen Bundesstaaten der USA sowie auf Hawaii ist von Mai bis November Hurrikan-Saison.  
+
 Auch Puerto Rico und die US-amerikanischen Jungferninseln werden immer wieder von Hurrikanen heimgesucht.  
+
 Die US-amerikanischen Außengebiete Guam und die Nördlichen Marianen im Pazifik sind öfters von Taifunen betroffen.
 
 Insbesondere im Mittleren Westen der USA besteht von März bis Juli eine erhöhte Tornadogefahr.
@@ -62,6 +68,7 @@ Insbesondere im Mittleren Westen der USA besteht von März bis Juli eine erhöht
 #### *Busch- und Waldbrände*
 
 Insbesondere in den Bundesstaaten Kalifornien, Oregon und Washington kommt es vor allem von Juni bis Dezember immer wieder zu Busch- und Waldbränden. Diese können oft nur schwer unter Kontrolle gebracht werden.  
+
 Auch in anderen Bundesstaaten besteht erhöhte Busch- und Waldbrandgefahr, vor allem im Süden und Südwesten der USA.
 
 * Achten Sie in Bezug auf Busch- und Waldbrände auf Meldungen in den Medien und Hinweise der lokalen Behörden.
@@ -78,6 +85,7 @@ In den Wintermonaten kann es insbesondere im Mittleren Westen und Norden der USA
 #### *Erdbeben, Vulkanausbrüche und Tsunamis*
 
 Teile der USA liegen in seismisch sehr aktiven Zonen, in denen eine erhöhte Erbeben- und teilweise auch Tsunamigefahr besteht, wie in Alaska, Kalifornien, Nevada, Oklahoma, Oregon, Washington, Amerikanisch-Samoa, Guam, Hawaii, Puerto Rico, die amerikanischen Jungferninseln und die Nördlichen Mariannen.  
+
 Zuletzt kam es 2022 an der Nordküste Kaliforniens zu einem Erdbeben der Stärke 6,4.
 
 Auch im Südwesten von Puerto Rico kam es zu mehreren Erdbeben bis zur Stärke 6,4. Es gab einige Todesopfer und Verletzte. Es kam zu teils erheblichen Schäden an Gebäuden und Infrastruktur.
@@ -118,8 +126,11 @@ Der Straßenverkehr kann in den Bundestaaten unterschiedlich geregelt sein.
 * Informieren Sie sich vor der Reise über die teilweise von den deutschen Vorschriften abweichenden Verkehrsregeln.
 
 Einige Beispiele: In vielen Bundesstaaten ist das Abbiegen an roten Ampeln nach rechts erlaubt, wenn zuvor der Wagen zum Stehen gebracht wurde und keine andere Person in Gefahr gebracht wird. Es kann jedoch im Einzelfall untersagt sein und ist dann entsprechend beschildert, z.B. „*No turn on red*“.  
+
 Wenn an Kreuzungen „*All way-*Stoppschilder“ stehen, müssen alle Fahrzeuge an der Haltelinie anhalten und anschließend in der Reihenfolge in die Kreuzung einfahren, in der sie angehalten haben.  
+
 Anders als in Deutschland ist das Rechts-Überholen in den USA in den meisten Bundesstaaten erlaubt.  
+
 An haltenden Schulbussen mit eingeschaltetem Warnblinklicht darf nicht vorbeigefahren werden, auch nicht aus der Gegenrichtung.
 
 * Halten Sie die Geschwindigkeitsbegrenzungen in den USA ein. Diese sind niedriger als in Deutschland. Bei Überschreiten der zulässigen Höchstgeschwindigkeit oder Trunkenheitsfahrten drohen hohe Bußgelder oder sogar Freiheitsstrafen.
@@ -157,6 +168,7 @@ In einigen US-Bundesstaaten ist ein internationaler Führerschein – in Verbind
 Touristische Reisen unmittelbar zwischen den USA und Kuba sind nach US-Recht verboten. Dies gilt auch für deutsche Reisende. Direkte Reisen von den USA nach Kuba sind nur erlaubt, wenn die Reise in eine der von den US-Behörden festgelegten Kategorien fällt: private Besuchsreisen, Reisen, die der Ausübung von wirtschaftlichen, wissenschaftlichen und religiösen Aktivitäten dienen, aber auch solche, die die Unterstützung des kubanischen Volkes bezwecken. Zur Kontrolle des von den Reisenden angegebenen Reisezwecks liegen bisher keine Erfahrungswerte vor. Änderungen können sich kurzfristig ergeben.
 
 **Achtung:** Reisende, die sich am oder nach dem 12. Januar 2021 in Kuba aufgehalten haben, können nicht mehr mit ESTA in die USA einreisen sondern müssen ein [Visum](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/usa-node/usavereinigtestaatensicherheit/201382#_Visum) beantragen. Dies gilt auch für Transitreisende und  
+
 Reisende mit Kurzaufenthalten in Kuba, deutsch-kubanische Doppelstaater und Personen, die einen Wohnsitz oder langfristigen Aufenthaltstitel in Kuba haben/hatten.
 
 * Bitte wenden Sie sich zu diesem Thema vor Ihrer Reise an die für Sie zuständige US-Vertretung.
@@ -184,6 +196,7 @@ Strafverfolgungsmaßnahmen und Strafrahmen der US-amerikanischen Rechtsordnungen
 #### *Alkoholkonsum*
 
 Nicht nur der Konsum von Alkohol in der Öffentlichkeit, sondern auch das sichtbare Tragen von Alkohol im öffentlichen Raum kann örtlich unter Strafe stehen.  
+
 Personen unter 21 Jahren darf Alkohol nicht zugänglich gemacht werden. Beim Einkauf von Alkohol wird fast immer ein Altersnachweis (Ausweis) verlangt.
 
 * Konsumieren Sie keinen Alkohol außerhalb Ihrer Unterkunft oder eines Restaurants.
@@ -252,8 +265,11 @@ Im Falle einer Überschreitung des erlaubten Aufenthaltszeitraums (sog. *Oversta
 ### Geld/Kreditkarten
 
 Landeswährung ist der US-Dollar (USD). Eine Kreditkarte ist nahezu unverzichtbar. Fast alle Kreditkarten werden in den USA akzeptiert. Mit Kreditkarte und PIN kann an Geldautomaten Bargeld abgehoben werden.  
+
 Debitkarten (Girocard) mit V-Pay-Logo können in den USA nicht gelesen und daher nicht verwendet werden.  
+
 Der Umtausch von EUR in USD ist nicht bei allen Banken möglich, sondern zumeist – gegen Gebühr – auf Wechselstuben beschränkt, die es nicht in allen Gebieten gibt.  
+
 Banküberweisungen von Deutschland in die USA können mehrere Tage in Anspruch nehmen und sind mit erheblichen Gebühren verbunden.
 
 ## Einreise und Zoll
@@ -275,6 +291,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja, aber nur mit Visum (ESTA nicht möglich)
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Das Reisedokument muss mindestens für die gesamte Aufenthaltsdauer, einschließlich Tag der Ausreise, gültig sein.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
@@ -290,6 +307,7 @@ Als Teilnehmer am US-Visa Waiver Programm können deutsche Staatsangehörige zu 
 #### *Elektronische Reisegenehmigung (ESTA)*
 
 Die ESTA-Beantragung ist gebührenpflichtig (21 USD).  
+
 Die einmal erteilte Reisegenehmigung gilt für beliebig viele Einreisen für die Dauer von jeweils max. 90 Tagen innerhalb eines Zeitraums von zwei Jahren. Die zuständigen US-Behörden empfehlen, den Antrag mindestens 72 Stunden vor Reiseantritt zu stellen. Umfassende Informationen zum ESTA-Verfahren können der [ESTA-Startseite](https://esta.cbp.dhs.gov/) bzw. den [ESTA-Informationen der US-Konsulate in Deutschland,](https://de.usembassy.gov/de/esta/) den Informationen zum [US State Department Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) sowie der [ESTA-FAQ](https://esta.cbp.dhs.gov/faq?focusedTopic=ESTA%20Fee%20Increashttps://esta.cbp.dhs.gov/faq?focusedTopic=ESTA%20Fee%20Increase) entnommen werden.
 
 #### *Einreise über Kanada oder Mexiko*
@@ -305,7 +323,9 @@ Für die Einreise nach Amerikanisch-Samoa gelten besondere Bestimmungen. Unter a
 #### *Zulässige Aufenthaltsdauer*
 
 Die tatsächlich erlaubte Aufenthaltsdauer wird bei der visafreien Einreise individuell von den US-Grenzbeamten festgelegt. Eine spätere Verlängerung der Aufenthaltsgenehmigung ist nicht möglich. Bei einer Einreise mit Visum kann jedes Büro der Einreisebehörde U.S. CIS eine Verlängerung des Aufenthalts genehmigen.  
+
 Der Tag, an dem die Ausreise spätestens erfolgen muss, wird bei der Einreise in den Pass eingestempelt (*admitted until* xx-xx-xx).  
+
 Das amerikanische Datumsformat ist nicht mit dem deutschen identisch. In den USA wird der Monat vor dem Tag genannt. Das Datum „03-10“ bedeutet zum Beispiel „10. März“ und nicht „3. Oktober“.
 
 #### *Visum vor der Einreise*
@@ -313,7 +333,9 @@ Das amerikanische Datumsformat ist nicht mit dem deutschen identisch. In den USA
 Bei Ablehnung des ESTA-Antrags sowie bei anderen als den o.a. Reisezwecken (etwa Arbeits- oder Au-Pair-Aufenthalte, Austauschprogramme, Sprach-/Forschungsaufenthalte, Eheschließung mit anschließender Niederlassung/Einwanderung in die USA etc.) ist grundsätzlich die Einholung eines Visums erforderlich.
 
 Grundsätzlich ausgeschlossen vom US-Visa Waiver Programm sind deutsche Staatsangehörige, die entweder zugleich über die Staatsangehörigkeit der Staaten Iran, Irak, Nordkorea, Syrien oder Sudan verfügen oder sich seit März 2011 privat oder geschäftlich in einem dieser Länder oder in Libyen, Jemen oder Somalia aufgehalten haben.  
+
 Diese Personen müssen unabhängig vom Zweck der Reise ein Visum für die USA beantragen.  
+
 Ausnahmen gelten nur für Regierungsbedienstete und Angehörige des Militärs.
 
 Voraufenthalte in Kuba seit dem 12. Januar 2021 oder eine doppelte Staatsangehörigkeit (kubanisch/deutsch) haben Auswirkungen auf die Teilnahme am US-Visa Waiver Programm, siehe *Reiseinfos – Reisen nach Kuba*.
@@ -356,12 +378,15 @@ Auch am Einreiseflughafen/-seehafen müssen Reisende mit verstärkten Kontrollen
 ### Einfuhrbestimmungen
 
 Die Ein- und Ausfuhr von Landes- und Fremdwährung ist unbeschränkt möglich. Beträge ab 10.000 USD sind jedoch deklarierungspflichtig.  
+
 Die Einfuhr von Fleischprodukten und Pflanzen ist verboten. Informationen zum Import von Lebensmitteln für den persönlichen Gebrauch bietet die [U.S. Customs & Border Protection CBP.](https://www.cbp.gov/)  
+
 Weitergehende Zollinformationen zur Einfuhr von Waren erhalten Sie bei der Botschaft der USA.
 
 ### Heimtiere
 
 Für die Einfuhr von Tieren in die USA existieren sowohl auf Bundesebene als auch auf Ebene der einzelnen Bundesstaaten Regelungen, die zu beachten sind.  
+
 Tiere, die nicht in die USA eingeführt werden dürfen, werden auf Kosten des Besitzers am Flughafen der Einreise/Eingangshafen verwahrt und in ihr Herkunftsland zurückversendet.
 
 Zum Teil haben Fluglinien darüber hinaus eigene Bedingungen für die Mitnahme von Tieren festgelegt, sodass auch Mindest- und Höchsttemperaturen, selbst im Transit, zum Tragen kommen können.
@@ -439,3 +464,69 @@ In den USA sind die ärztliche und apparative Versorgung sowie Hygiene und Medik
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/usa-node "USA")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

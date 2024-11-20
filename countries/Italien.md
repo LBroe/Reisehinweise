@@ -1,5 +1,7 @@
 # Italien: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 ### Terrorismus
@@ -12,6 +14,7 @@ Die italienischen Sicherheitsbehörden haben in allgemeiner Form auf die Gefahr 
 ### Kriminalität
 
 Kleinkriminalität wie Taschendiebstähle kommen vor allem in Touristenzentren und an Stränden vor.  
+
 Mit Trickbetrug werden Touristen durch Hinweise auf eine angebliche Reifenpanne oder abgefahrene Rück- bzw. Seitenspiegel sowie Anrempeln, auch z.B. mit Beschmutzen der Kleidung durch Eis, Pizza u.ä., abgelenkt und dann durch Komplizen beraubt. Grundsätzlich ist in allen größeren italienischen Städten an den jeweiligen zentralen touristischen Orten wie auch Bahnhöfen und belebten Metrostationen besondere Achtsamkeit geboten. Besonders gilt dies auf den Bahnstrecken vom Flughafen Rom-Fiumicino in die Innenstadt, in den Bahnhöfen selbst und in Bussen, hier insbesondere den Linien 40, 62 und 64, außerdem in Mailand vor allem auf dem Domplatz und in der Fußgängerzone, in Venedig an den Haltestellen und Fahrscheinschaltern für das Linienboot („Vaporetto“) und in Neapel auf den Buslinien R2, 152 und 202, die das Zentrum mit dem Bahnhof verbinden.  
 
 Autoeinbrüche kommen häufig vor. Es werden immer wieder Fahrzeuge und Wohnmobile mit komplettem Inhalt gestohlen. Besondere Vorsicht ist beim Abstellen von Autos in Strandnähe geboten, z.B. in Ostia und Fregene bei Rom. Gleiches gilt auch für unbedachte Parkhäuser und auf unbewachten Stellplätzen.
@@ -37,7 +40,9 @@ Italien liegt in einer seismisch sehr aktiven Zone, weshalb es häufiger zu zum 
 #### *Vulkanausbrüche*
 
 Mehrere Vulkane in Italien sind immer wieder aktiv.  
+
 Die phlegräischen Felder in Kampanien werden als Supervulkan eingestuft und zeigen immer wieder Veränderungen, die in der Vergangenheit auch zu Evakuierungsmaßnahmen führten. Der Vesuv in unmittelbarer Nähe bei Neapel brach zuletzt 1944 aus und steht unter Beobachtung.  
+
 Der Ätna auf Sizilien ist der aktivste Vulkan Europas und zeigt jüngst, wie auch der Vulkan Stromboli auf der gleichnamigen Insel, leichtere Eruptionen, die teilweise Unterbrechungen im Flugverkehr nach sich ziehen.
 
 * Meldungen zu aktuellen Naturereignissen finden Sie auf der [Webseite](https://www.protezionecivile.gov.it/en/) des italienischen Zivilschutzes (*Protezione Civile*).
@@ -53,6 +58,7 @@ Ganzjährig, insbesondere in den Sommermonaten, kommt es in Norditalien aufgrun
 In den Wintermonaten besteht in den Bergen Norditaliens häufig die Gefahr von Lawinen und Erdrutschen.
 
 Bei Tauwetter besteht insbesondere in Norditalien die Gefahr von Überschwemmungen.  
+
 Venedig ist zur Hochwasserzeit (Acqua alta) regelmäßig von Überschwemmungen betroffen, sodass einige Plätze und Gassen unpassierbar werden. Auch in Rom kann es nach Starkregen zu Überschwemmungen kommen.
 
 Im Mittelmeer kann es insbesondere von August bis November zu vereinzelten schweren Herbststürmen bis hin zu sogenannten "Medicanes" kommen. In der Folge sind Überschwemmungen und Erdrutsche sowie erhebliche Verkehrsbeeinträchtigungen möglich.
@@ -101,13 +107,17 @@ Der italienische Straßenverkehr ist sehr lebhaft und dicht. Die Regeln der Stra
 In vielen Städten gibt es Fahrverbote bzw. Fahrteinschränkungen und Tempolimits zur Reduzierung der Luftverschmutzung oder auch verkehrsberuhigte Zonen, sogenannten ZTL (zone a traffico limitato). Besonders gekennzeichnete Bus- und Taxispuren dürfen von privaten Pkw nicht genutzt werden.
 
 Die Promillegrenze beträgt 0,5; für Fahrer mit weniger als drei Jahren Fahrpraxis bzw. unter 21 Jahren gilt absolutes Alkoholverbot.  
+
 Auf Autobahnen und außerhalb geschlossener Ortschaften ist das Mitführen von Warnwesten in Signalfarben sowie auch tagsüber die Einschaltung des Abblendlichts gesetzlich vorgeschrieben.  
+
 In den Kreis einfahrende Fahrzeuge haben grundsätzlich Vorfahrt, wobei dies in der Praxis nicht immer beachtet wird. In Ermangelung von Hinweisschildern, die die Vorfahrt eindeutig regeln, gilt wie an Kreuzungen die Rechts-vor-links Regel.
 
 Farbliche Markierungen weisen Parkbeschränkungen aus, nur weiße Linien erlauben kostenloses Parken.  
+
 Auf vielen Straßen gilt im Winter die Pflicht, Winterreifen (M+S-Kennung) zu benutzen, jedoch gibt es keine einheitliche Regelung.
 
 Bei Wohnsitzverlegung nach Italien müssen Fahrzeuge innerhalb von 60 Tagen umgemeldet werden, sonst droht die Konfiszierung des Fahrzeugs.  
+
 Verstöße gegen die Straßenverkehrsordnung werden mit empfindlichen Strafen geahndet. Bußgelder fallen in der Regel deutlich höher aus als in Deutschland und werden auch - notfalls durch ein Inkassounternehmen - eingetrieben.
 
 Gerechtfertigte Bußgeldbescheide können vor Ort bezahlt werden, z.B. auf der Polizeidienststelle. Die Zustellung an den Inlandswohnort ist mit einem Gebührenaufschlag verbunden.
@@ -135,11 +145,13 @@ In Italien führen in jüngster Zeit verschiedenste Verstöße gegen die öffent
 Beihilfe zu illegaler Einreise ist in Italien mit Haftstrafen sowie Bußgeld belegt. Bei Mitnahme von Anhaltern wird daher zu besonderer Vorsicht geraten.
 
 Das italienische Waffenrecht ist streng und aufgrund zahlreicher Gesetze und anderweitiger Regelungen komplex. Grundsätzlich ist das Mitführen von Schusswaffen, Hieb- und Stichwaffen, Messern (auch kleine bzw. Taschenmesser), Schlagstöcken aller Art, Taser, Pfefferspray, usw. verboten bzw. nur mit behördlicher Erlaubnis (z. B. Europäischer Feuerwaffenpass) oder unter strengen Auflagen möglich. Auch Gegenstände, die keine Waffen sind, aber als solche verwendet werden können („armi improprie“, z. B. Schraubenzieher), können unter Umständen mit Auflagen versehen werden (z. B. adäquate/verschlossene Aufbewahrung). Verstöße können strafrechtlich geahndet werden.  
+
 Weitergehende Informationen können bei den [Carabinieri](http://www.carabinieri.it/) oder bei der [Polizia di Stato](http://www.poliziadistato.it/) angefordert werden.
 
 In Rom verhängt die Stadtverwaltung zum Schutz der Denkmäler teilweise drakonische Strafen, die z.B. schon für einen Griff ins Wasser des Trevi-Brunnens oder für Picknick auf der Spanischen Treppe ausgesprochen werden können. Nähere Informationen bietet [TurismoRoma.](http://www.turismoroma.it/news/tutela-fontane-di-interesse-storico-artistico-ordinanza-della-sindaca-divieti-bivacco-e-consumo?lang=de)
 
 Die Mitnahme von Sand an den Stränden ist in Italien untersagt.  
+
 Auf Sardinien ist jede Art von Veränderung der Sandstrände oder die Mitnahme von Sand, Kiesel oder Quarzgestein, auch nur in kleinster Menge, gesetzlich verboten. Bei Nichtbeachtung dieser gesetzlichen Norm werden Sanktionen in Höhe von 500 EUR bis 3.000 EUR verhängt.
 
 Strände und Dünen dürfen in der Regel nicht befahren werden. Insbesondere in Naturschutzgebieten ist erhöhte Aufmerksamkeit auf die örtlichen Verhaltensregeln zu richten. Verstöße können mit Freiheitsstrafen und erheblichen Geldbußen geahndet werden.
@@ -193,6 +205,7 @@ Bei der Ein- und Ausreise nach und von Italien muss eine Bargeldmenge, die den B
 ### Heimtiere
 
 Für Reisen mit bestimmten Heimtieren (Hunde, Katzen, Frettchen) in Länder der Europäischen Union mit Ausnahme von Irland, Malta und Finnland, wo abweichende Bestimmungen gelten, ist ein EU-Heimtierausweis erforderlich. Er dient u. a. als Nachweis, dass das Tier gegen Tollwut geimpft ist.  
+
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft.](https://www.bmel.de/DE/themen/tiere/haus-und-zootiere/heimtierausweis.html)
 
 ## Gesundheit
@@ -247,3 +260,69 @@ Es besteht in Italien für alle Personen, die in Deutschland gesetzlich versiche
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/italien-node "Italien")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

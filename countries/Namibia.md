@@ -8,14 +8,14 @@
 
 ### **Innenpolitische Lage**
 
-Die politische Lage in Namibia gilt als stabil.
+Die politische Lage in Namibia gilt als stabil. Allerdings finden am 27. November d.J. Präsidentschaftswahlen statt. In diesem Zusammenhang könnte es politische Kundgebungen geben.
 
 * Meiden Sie Demonstrationen.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
 
 ### **Kriminalität**
 
-Grundsätzlich ist Namibia ein sicheres Reiseland. Allerdings können Eigentumsdelikte in ganz Namibia vorkommen, insbesondere in Windhuk und in abgelegenen Gebieten. Auch bewaffnete Raubüberfälle werden vermehrt registriert, Touristenunterkünfte (auch Campingplätze) sind hiervon nicht ausgenommen.  
+Eigentumsdelikte können in ganz Namibia vorkommen, insbesondere in Windhuk und in abgelegenen Gebieten. Auch bewaffnete Raubüberfälle werden vermehrt registriert, Touristenunterkünfte (auch Campingplätze) sind hiervon nicht ausgenommen.  
 In Windhuk ereignen sich Raubüberfälle vor allem an Sonn- und Feiertagen, wenn die Straßen menschenleer sind, so z.B. auf Spaziergänger im Stadtrandgebiet wie Farm Windhuk, Avis Damm und Lovers Hill, aber auch mitten in der Innenstadt.  
 Nach Übernahme eines Mietwagens wurden Reisende vereinzelt bereits vom Flughafen gezielt bis zu ihrer Unterkunft verfolgt, durch Ablenkungen (z.B. Hinweis auf einen angeblichen technischen Defekt) zum Anhalten gebracht und ausgeraubt. Dabei wurden auch schon Fahrzeuge mit Regierungskennzeichen benutzt.  
 Ein erhöhtes Überfall- bzw. Diebstahlsrisiko besteht in Taxis, in denen sich außer dem Fahrer bereits andere Personen befinden.  
@@ -28,7 +28,7 @@ Touristen sind aufgrund der mitgeführten Kameraausstattung, etc. bevorzugte Opf
 * Lassen Sie Ihre Wertsachen auch in Ihrer bewachten Unterkunft bzw. auf bewachten Campingplätzen nicht offen liegen.
 * Nutzen Sie keine Taxis, in denen sich weitere Fahrgäste befinden und lassen Sie keine unbekannten Fahrgäste ins Taxi zusteigen.
 * Nehmen Sie Wertsachen stets im Handgepäck mit und lassen Sie sich nicht überreden, es im aufzugebenden Gepäck zu befördern.
-* Geben Sie bei Kartenzahlungen Ihre Kreditkarte nicht aus der Hand.
+* Lassen Sie bei Kartenzahlungen Ihre Kreditkarte nicht aus den Augen, geben Sie sie besser noch nicht der Hand.
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie keine Daten von sich mit, sondern vergewissern Sie sich ggf. persönlich der Glaubwürdigkeit oder wenden Sie sich an die Polizei.
 
 ## **Natur und Klima**
@@ -37,7 +37,7 @@ Besonders in den Frühlingsmonaten der südlichen Hemisphäre kann es aufgrund d
 
 Insbesondere Gebiete im Norden Namibias zwischen der Etosha-Pfanne und der angolanischen bzw. sambischen Grenze können in der Regenzeit von Januar bis April von Überschwemmungen betroffen sein. Straßen können dann nur eingeschränkt nutzbar sein.
 
-Trockenflussbetten im ganzen Land können sich in der Regenzeit unter Umständen in kürzester Zeit zu reißenden Flüssen entwickeln.
+Trockenflussbetten ("Reviere") im ganzen Land können sich in der Regenzeit unter Umständen in kürzester Zeit zu reißenden Flüssen entwickeln.
 
 * Erkundigen Sie sich vor Reisen z.B. beim namibischen Tourismusbüro oder landeskundigen Reiseveranstaltern.
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen.
@@ -47,22 +47,20 @@ Trockenflussbetten im ganzen Land können sich in der Regenzeit unter Umständen
 
 ### **Infrastruktur/Verkehr**
 
-Es gibt ein gut ausgebautes Inlandsflugnetz sowie Eisenbahnverbindungen zwischen Windhuk und Swakopmund. Das Straßennetz ist gut ausgebaut; außer den Hauptverkehrsstraßen handelt es sich hauptsächlich um Schotterpisten. In Namibia herrscht Linksverkehr.
-
-Übermüdung, ungewohnte Hitze, Höhenunterschiede und anstrengende Fahrten auf unbefestigten Straßen können gefährliche Erschöpfungszustände verursachen und das Unfallrisiko erhöhen.
+Es gibt ein gut ausgebautes Inlandsflugnetz sowie Eisenbahnverbindungen zwischen Windhuk und Swakopmund. Das Straßennetz ist gut ausgebaut; bis auf die Hauptverkehrsstraßen handelt es sich hauptsächlich um Schotterpisten. In Namibia herrscht Linksverkehr.
 
 Neben erhöhter Gefährdung durch kriminelle Übergriffe besteht das Risiko eines Verkehrsunfalls wegen unbeleuchtet abgestellter Fahrzeuge und Wildwechsel (Lebensgefahr).
 
-Es muss stets mit gefährlichen Überholmanövern des Gegenverkehrs auch in nicht einsehbaren Streckenabschnitten gerechnet werden. Taxis führen zur Aufnahme von Passagieren oft plötzliche und völlig unberechenbare Fahrmanöver durch.
+Es muss stets mit gefährlichen Überholmanövern auch in nicht einsehbaren Streckenabschnitten gerechnet werden. Taxis führen zur Aufnahme von Passagieren oft plötzliche und völlig unberechenbare Fahrmanöver durch.
 
-Lokale Mietwagenfirmen statten Mietwagen in der Regel mit einem „Tracker“ aus, der es erlaubt, die gefahrene Strecke und Geschwindigkeit des Fahrzeugs jederzeit nachprüfen zu können. Schon bei geringfügiger Geschwindigkeitsübertretung erlischt bei einigen Mietwagenfirmen bzw. Versicherungen jeglicher Versicherungsschutz.
+Lokale Mietwagenfirmen statten Mietwagen in der Regel mit einem GPS-Gerät („GPS-Tracker“) aus, das es erlaubt, die gefahrene Strecke und Geschwindigkeit des Fahrzeugs jederzeit nachprüfen zu können. Schon bei geringfügiger Geschwindigkeitsübertretung erlischt bei einigen Mietwagenfirmen bzw. Versicherungen jeglicher Versicherungsschutz.
 
 Versicherungen lokaler Mietwagenfirmen haben im Schadensfall die Beweislast des Öfteren umgekehrt und vom Versicherten den Nachweis verlangt, nicht fahrlässig gehandelt zu haben. Hier kann es zu weitreichenden Folgen und sogar zum Haftbefehl kommen.
 
 * Vermeiden Sie Überlandfahrten bei Dunkelheit.
 * Seien Sie bei Fahrten auf Schotterpisten besonders vorsichtig.
 * Fahren Sie direkt nach Ankunft am Flughafen keine weiten Strecken mit einem Mietwagen.
-* Leisten Sie bei Verkehrsdelikten keine Sofortzahlung von Bußgeldern, sondern bei der nächstgelegenen Polizeistation.
+* Leisten Sie bei Verkehrsdelikten keine Sofortzahlung von Bußgeldern, sondern steuern Sie dazu die nächstgelegene Polizeistation an.
 * Bei Anmietung von Fahrzeugen und Abschluss von Versicherungen prüfen Sie genau die vollständigen Vertragsbedingungen und hinterfragen Sie Unklarheiten.
 * Mieten Sie Fahrzeuge möglichst nur von einem Autovermieter, der Mitglied der namibischen Vereinigung der Autovermieter - CARAN – ist.
 * Kontrollieren Sie Bremsen und Reifenzustand vor Fahrtantritt auf ihre Zuverlässigkeit sowie das Vorhandensein von Werkzeug und Wagenheber.
@@ -76,17 +74,17 @@ Die Grenze zu Angola ist an verschiedenen Stellen gar nicht oder nur durch einen
 
 * Erkundigen Sie sich bei Einfahrt in einen Nationalpark ausdrücklich nach Aktivitäten der Anti Poaching Units (APU) und eventuell nach gesperrten Wegen.
 * Verhalten Sie sich im Fall eines Zusammentreffens mit Einheiten der APU, welche nicht immer in Uniformen auftreten, zurückhaltend.
-* Seien Sie im Grenzbereich vorsichtig und überschreiten Sie diese nicht.
+* Seien Sie im Grenzbereich vorsichtig und überschreiten Sie die Grenze nicht.
 
 ### **Führerschein**
 
-Es ist entweder der internationale Führerschein erforderlich, der stets in Verbindung mit dem nationalen deutschen Führerschein gültig ist, oder zumindest eine amtliche Übersetzung des deutschen Führerscheins in die englische Sprache mitzuführen.
+Es ist entweder der internationale Führerschein erforderlich, der nur in Verbindung mit dem nationalen deutschen Führerschein gültig ist, oder zumindest eine amtliche Übersetzung des deutschen Führerscheins in englischer Sprache mitzuführen.
 
 ### **LGBTIQ**
 
-Offen gelebte Homosexualität gilt in Namibia als unerwünschtes Verhalten. Während einvernehmliche gleichgeschlechtliche Handlungen zwischen Frauen straflos sind, sind sie zwischen Männern, jedoch ausschließlich in Form des Analverkehrs, durch das sog. Sodomie-Verbot unter Strafe gestellt. Gerichtsverfahren wegen Sodomie zwischen zwei männlichen erwachsenen Personen hat es allerdings seit 1990 nicht gegeben.
+Offen gelebte Homosexualität gilt in Namibia als unerwünschtes Verhalten. Einvernehmliche gleichgeschlechtliche Handlungen zwischen Frauen sind schon bisher straflos gewesen. Gleichgeschlechtliche Handlungen zwischen Männern waren jedoch ausschließlich in Form des Analverkehrs durch das sog. Sodomie-Verbot unter Strafe gestellt. Im Juni 2024 wurde das entsprechende Gesetz durch den High Court als verfassungswidrig und ungültig erklärt. Hierauf legte die namibische Regierung Berufung ein. Gerichtsverfahren wegen Sodomie zwischen zwei männlichen erwachsenen Personen hatte es allerdings seit 1990 nicht gegeben.
 
-Gleichgeschlechtliche Partnerschaften werden weder im Wege der eingetragenen Partnerschaft noch im Rahmen einer gleichgeschlechtlichen Ehe anerkannt.
+Gleichgeschlechtliche Partnerschaften werden höchstrichterlich als verfassungsgemäß anerkannt. Regierung und Parlament haben allerdings Gesetze auf den Weg gebracht, die dies verhindern sollen. Eine Unterzeichnung durch den Präsidenten steht noch aus.
 
 * Beachten Sie die [allgemeinen Hinweise für LGBTIQ](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2223322 "Gibt es besondere Hinweise für LGBTIQ?").
 
@@ -107,7 +105,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Namibias sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen Namibias sowie der für Deutschland [zuständigen Vertretung.](https://diplo.de/-/199678) Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -127,7 +125,7 @@ In der letzten Zeit kam es in Einzelfällen zu Problemen mit den Einreisebehörd
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
 
-* Achten Sie bei der Einreise auf die Übereinstimmung von erteilten Aufenthaltserlaubnissen mit dem Reisezeitraum, siehe auch *Visum*.
+* Achten Sie bei der Einreise auf die Übereinstimmung erteilter Aufenthaltserlaubnisse mit dem Reisezeitraum, siehe auch *Visum*.
 
 #### *Weiterreise nach Südafrika mit Kinderreisepässen*
 
@@ -141,7 +139,7 @@ Deutsche können für kurzfristige Aufenthalte von bis zu 90 Tagen im Jahr zu au
 
 Ein „Visitors‘ Entry Permit“ kann für einen Zeitraum bis zu max. 90 Tagen erteilt werden. In der Regel wird er auf eine Einreise beschränkt, sowie auf den Zeitraum des tatsächlich beabsichtigten Aufenthalts, der sich aus dem Rückflugdatum ergibt. Eine Überziehung der Aufenthaltsgenehmigung kann zur Verhängung drastischer (Haft-) Strafen führen. Falls sich während des Aufenthalts die Notwendigkeit zur Verlängerung ergibt - z. B. im Krankheitsfall - sollte unbedingt rechtzeitig eine Verlängerung des Visums beim Innenministerium (Ministry of Home Affairs and Immigration) beantragt werden. Hier wird eine Gebühr erhoben.
 
-In allen anderen Fällen - auch für Geschäftsreisen oder unbezahlte Tätigkeiten wie Praktika, Studienaufenthalte, Freiwilligendienste o. ä. ist ein Visum erforderlich, das frühzeitig vor Einreise beantragt werden muss. Journalisten benötigen für eine Tätigkeit in Namibia ein Arbeitsvisum, sowie unter Umständen eine beim namibischen „Ministry of Information and Communication Technology“ nach der Einreise einzuholende Akkreditierung.
+In allen anderen Fällen - auch für Geschäftsreisen oder unbezahlte Tätigkeiten wie Praktika, Studienaufenthalte, Freiwilligendienste o. ä. ist ein Visum erforderlich, das frühzeitig vor Einreise beantragt werden muss. Journalisten benötigen für eine Tätigkeit in Namibia ein Arbeitsvisum sowie unter Umständen eine beim namibischen „Ministry of Information and Communication Technology“ nach der Einreise einzuholende Akkreditierung.
 
 Ansprechpartner für diesbezügliche Fragen und Anträge ist die [Botschaft der Republik Namibia.](http://www.namibia-botschaft.de/)
 
@@ -155,12 +153,12 @@ Unter Verweis auf die Einreisebestimmungen benachbarter Länder ist es derzeit g
 
 Erforderlich ist eine internationale Geburtsurkunde bzw. gegebenenfalls eine beglaubigte englische Übersetzung.
 
-Unbegleitete minderjährige Kinder benötigen zur Ein- und Ausreise die Zustimmung beider Elternteile („Affidavit“ in englischer Sprache), dass das Kind alleine reisen darf. Die beglaubigten Kopien der Reisepässe beider Elternteile müssen dem Affidavit angeheftet werden.  
+Unbegleitete minderjährige Kinder benötigen zur Ein- und Ausreise die Zustimmung beider Elternteile (ein „Affidavit“ in englischer Sprache), dass das Kind alleine reisen darf. Die beglaubigten Kopien der Reisepässe beider Elternteile müssen dem Affidavit angeheftet werden.  
 Reist ein Minderjähriger nicht in Begleitung beider sorgeberechtigter Elternteile, muss außerdem nachgewiesen werden, dass der nicht anwesende Elternteil entweder mit der Reise einverstanden ist (eidesstattliche Versicherung "Affidavit", Passkopie und Kontaktdaten des nicht anwesenden Elternteils) bzw. dass die Einverständniserklärung nicht erforderlich ist (gerichtlicher Beschluss über alleiniges Sorgerecht oder Sterbeurkunde oder Negativbescheinigung des deutschen Jugendamts, wenn die minderjährige Person in Deutschland wohnhaft ist).
 
-Personen, die mit Minderjährigen reisen, welche nicht ihre eigenen Kinder sind, müssen neben der vollständigen Geburtsurkunde des Kindes eidesstattliche Versicherungen, Passkopien und die Kontaktdaten beider sorgeberechtigter Eltern bzw. des gesetzlichen Vertreters des Kindes vorlegen.
+Personen, die mit Minderjährigen reisen, welche nicht ihre eigenen Kinder sind, müssen neben der Geburtsurkunde des Kindes eidesstattliche Versicherungen, Passkopien und die Kontaktdaten beider sorgeberechtigter Eltern bzw. des gesetzlichen Vertreters des Kindes vorlegen.
 
-Alleinreisende Minderjährige müssen darüber hinaus bei Einreise ein Bestätigungsschreiben einschließlich Kontaktdaten und Wohnanschrift, eine Passkopie und gegebenenfalls eine Kopie der namibischen Aufenthaltserlaubnis derjenigen Person vorlegen, zu welcher der Minderjährige in Namibia reisen soll.
+Alleinreisende Minderjährige müssen darüber hinaus bei Einreise ein Bestätigungsschreiben einschließlich Kontaktdaten und Wohnanschrift, eine Passkopie und gegebenenfalls eine Kopie der namibischen Aufenthaltserlaubnis derjenigen Person vorlegen, zu der sie in Namibia reisen.
 
 Eidesstattliche Versicherungen bedürfen der Beglaubigung durch einen „Commissioner of oaths“ (in Namibia), einen Notar oder eine namibische Auslandsvertretung.
 
@@ -170,22 +168,15 @@ Es wird dringend empfohlen, englischsprachige Erklärungen, Urkunden bzw. Übers
 
 Die Einfuhr der Landeswährung ist bis zu einem Betrag von 50.000 USD möglich, muss ab einem Betrag von 5.000 NAD jedoch bei Einreise deklariert werden.  
 Die Ausfuhr ist für Touristen auf den Betrag begrenzt, der eingeführt wurde.  
-Für Reisen zwischen den Mitgliedern der Southern African Customs Union SACU (Botsuana, Eswatini, Lesotho, Namibia und Südafrika) gibt es keine Beschränkungen. 
+Für Reisen zwischen den Mitgliedsstaaten der Southern African Customs Union SACU (Botsuana, Eswatini, Lesotho, Namibia und Südafrika) gibt es keine Beschränkungen. 
 
-Jagdwaffen müssen bei der Einreise an einem speziell eingerichteten Schalter im Gepäckabholbereich des Flughafens vorgezeigt werden. Die Nummer der Waffen wird in ein dort ausliegendes Antragsformular eingetragen. Aufgrund des Antrags wird dann sofort eine zeitlich begrenzte Waffenlizenz für Namibia erteilt. Die Einfuhr von Faustfeuerwaffen ist nicht gestattet.
+Jagdwaffen müssen bei der Einreise an einem speziell eingerichteten Schalter im Gepäckabholbereich des Flughafens vorgezeigt werden. Die Nummer jeder Waffe wird in ein dort ausliegendes Antragsformular eingetragen. Aufgrund des Antrags wird dann sofort eine zeitlich begrenzte Waffenlizenz für Namibia erteilt. Die Einfuhr von Faustfeuerwaffen ist nicht gestattet.
 
 Ein gültiger Jagdschein des Heimatlandes ist nicht erforderlich: Ausländische Jäger dürfen nur zusammen mit einem namibischen, staatlich lizenzierten Jagdführer bzw. Berufsjäger jagen. Dieser beschafft für die Jäger die nötige Jagderlaubnis vom namibischen Ministerium für Umwelt und Tourismus. 
 
 Bei der Ausfuhr von Antiquitäten und Souvenirs sind die Bestimmungen des Washingtoner Artenschutzübereinkommens (CITES) zu beachten. Produkte aus in Annex I zu diesem Übereinkommen aufgeführten Tieren dürfen nicht aus Namibia ausgeführt werden. Dies gilt auch, wenn sie in Schmuck oder Kleidung eingearbeitet sind (z. B. Elefantenhaarschmuck). Eine Ausfuhr von Produkten aus Tieren, die in Annex II aufgeführt sind, kommt möglicherweise mit einer entsprechenden Genehmigung in Frage. Hierüber sollten sich Reisende vor dem Kauf durch Rückfrage bei den namibischen Behörden oder [beim deutschen Zoll](http://www.zoll.de/) vergewissern. Die Erteilung einer Ausfuhrgenehmigung aus Namibia beinhaltet nicht automatisch die Einfuhrgenehmigung nach Deutschland. Nähere Informationen bietet [CITES](http://www.cites.org/).
 
 ## **Gesundheit**
-
-### Aktuelles
-
-Im Februar 2024 wurde neben den u.g. Regionen auch für Oshakati, Oshikuku, Outapi und Opuwo ein erhöhtes Malariarisko bekannt gegeben.
-
-* Schützen Sie sich insbesondere in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen Sie entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
-* Lassen Sie sich bzgl. weiterer Schutzmaßnahmen individuell ärztlich beraten.
 
 ### Impfschutz
 
@@ -207,22 +198,17 @@ Dengue-Viren werden durch tagaktive *Aedes*-Mücken übertragen. In Namibia gibt
 
 ### Malaria
 
-Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*.* Unbehandelt verläuft insbesondere die gefährliche Malaria tropica bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria").
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Der Anteil an der fast ausschließlich vorkommenden Malaria tropica (*P. falciparum*) beträgt über 99%. Eine Karte der Malaria-Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudliches_Afrika.pdf)  zur Verfügung. Das Malariarisiko ist saisonal und regional unterschiedlich:
 
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
-
-Ein hohes Malariarisiko besteht ganzjährig im Norden und Nordosten des Landes (Sambesi/Caprivi-Streifen, Kavango-West, Kavango-Ost, Ohangwena). im Nordosten der Distrikte  Oshikoto,Otjozondjupa, Omaheke inkl. den Städten Grootfontein und Tsumeb besteht von Mai bis Oktober ein mittleres Risiko, von November bis April ein hohes Risiko. Ein mittleres Risiko besteht ganzjährig in den restlichen nördlichen Regionen einschl. Kunene, Omusati, Oshana sowie in den südlichen Anteilen von Oshikoto, Otjozondjupa, Omaheke und dem Etosha Nationalpark. Ein geringes Risiko besteht im Rest des Landes (Ausnahmen s.o./u.). Als malariafrei gelten Windhuk, die Küste, die Namib-Wüste und die Gebiete um und südlich von Mariental. Der Anteil an Malaria tropica (*P. falciparum*) beträgt über 99%. Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/images/Empfehlungen/Malariaempfehlungen/Sudliches_Afrika.pdf) zur Verfügung.
-
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
-
-* Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
-* Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
-
-Je nach Reiseprofil ist neben der notwendigen Expositionsprophylaxe zudem eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z. B. Atovaquon-Proguanil, Doxycyclin, Mefloquin) auf dem deutschen Markt erhältlich.
-
-* Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
-* Die Mitnahme eines ausreichenden Vorrats wird empfohlen.
+* Ganzjährig hohes Risiko: im Norden und Nordosten (Provinzen Sambesi/Caprivi-Streifen, Kavango-West, Kavango-Ost, Ohangwena)
+* Saisonal hohes Risiko von Oktober bis April: Teilgebiete des Nordostens des Landes (nordöstliche Teile der Distrikte Oshikoto, Otjozondjupa, Omaheke inkl. Städte Grootfontein und Tsumeb)
+* Saisonal mittleres Risiko von Mai bis September: Teilgebiete des Nordostens des Landes (nordöstliche Teile der Distrikte Oshikoto, Otjozondjupa, Omaheke inkl. Städte Grootfontein und Tsumeb)
+* Ganzjährig mittleres Risiko: restliche nördliche Regionen einschl. Kunene, Omusati, Oshana, Oshikoto (westlicher Teil), Otjozondjupa (südlicher Teil), Omaheke; Etosha Nationalpark
+* Ganzjährig geringes Risiko: Rest des Landes (Ausnahmen s.o./u.)
+* Malariafrei: Windhuk, Küste, Namib-Wüste, Gebiet um und südlich von Mariental
+* Schützen Sie sich in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe Schutz vor Insekten.
+* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
+* Bei Reisen in Gebiete mit mittlerem Malariarisiko, die mehr als 48 Stunden von der nächsten medizinischen Einrichtung mit Möglichkeit zur Malariadiagnostik und -therapie entfernt sind, ist die Mitnahme von entsprechenden Medikamenten zur notfallmäßigen Selbstbehandlung empfohlen. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### HIV/AIDS
 

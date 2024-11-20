@@ -1,5 +1,7 @@
 # Trinidad und Tobago: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 ### Terrorismus
@@ -25,6 +27,7 @@ In Trinidad gelten besonders folgende Stadtteile als sog. No-go-Zone unter dem E
 
 * die Innenstadt von Port-of-Spain östlich der Henry Street sowie ihre Vororte Beetham, Laventille, Morvant, Sea Lots und Belmont,
 * der Stadtteil Enterprise und die Umgebung von Movietown in Chaguanas sowie der  
+
 Stadtteil Carapo in Arima.
 
 Aber auch in anderen Gegenden, Einkaufszentren und Ausgehmeilen wie der Ariapita Avenue in Port-of-Spain haben in letzter Zeit Raubüberfälle und Einbruchdiebstähle unter Gewaltanwendung sowie Bandenauseinandersetzungen unter Einsatz von Schusswaffen zugenommen.  
@@ -62,6 +65,7 @@ Raubüberfälle auf ankernde oder sich in Küstennähe befindende Schiffe bzw. F
 ## Natur und Klima
 
 Es herrscht tropisches Klima.  
+
 Hurrikan „Beryl“ hat auf der Insel Tobago einige Schäden an der Infrastruktur verursacht. Es muss mit Einschränkungen im Straßenverkehr sowie punktuell mit Ausfall der Strom- und Wasserversorgung gerechnet werden. Fähr- und Flugverkehr operieren wieder weitgehend normal.
 
 Von Juni bis Ende November ist in der Karibik Wirbelsturmsaison. Trinidad und Tobago liegen zwar außerhalb der direkten Hurricane-Zone, trotzdem erreichen Ausläufer beide Inseln mit Stürmen und intensiven Regenfällen. Überflutete Straßen, Erdrutsche und umgestürzte Bäume führen dann ggf. zu erheblichen Verkehrsbehinderungen und können entlegene Landesteile für Tage unzugänglich machen.
@@ -84,6 +88,7 @@ Zwischen beiden Inseln verkehren regelmäßig Flüge (ca. 20 min Flugzeit) und F
 In Trinidad und Tobago herrscht Linksverkehr. Das Straßennetz ist relativ gut ausgebaut. Die meisten Straßen sind zweispurig, eng und zum Teil sehr kurvenreich. Aufgrund der vielen Schlaglöcher, herumstreunender Tiere, Fußgänger auf der Fahrbahn, häufiger Trunkenheit oder Drogenkonsum am Steuer sowie der unorthodoxen Fahrweise besteht im Straßenverkehr eine hohe Unfallgefahr. Insbesondere auf mehrspurigen Straßen, wie der Straße vom Flughafen nach Port-of-Spain, gefährden Fahrer mit halsbrecherischen Überholmanövern den Verkehr. Unfälle mit tödlichem Ausgang sind keine Seltenheit. Zugleich gibt es etliche Fahrer mit geringer Fahrpraxis, die in unübersichtlichen Verkehrssituationen zu unerwarteten Bremsmanövern neigen.
 
 Taxis (mit Einschränkungen) sowie Mietwagen stehen zur Verfügung. Am Flughafen gibt es eine geregelte Zuweisung registrierter Taxis mit vorab festgelegten Preisen, die einigermaßen sicher genutzt werden können. Sicherer ist die Bestellung eines Mietwagens mit Fahrer.  
+
 Bei Nutzung inoffizieller Sammeltaxis (sogenannter PH-Taxis) kommt es immer wieder zu Gewaltverbrechen bis hin zu Vergewaltigung und Tötung des letzten Fahrgasts.
 
 Die Nutzung der offiziellen Sammeltaxis (weiße Kleinbusse mit farbigem Seitenstreifen) ist tagsüber im Stadtgebiet möglich; außerhalb der Ballungszentren sowie nachts sind diese generell nicht sicher.
@@ -138,6 +143,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen sechs Monate über die Reise hinaus gültig sein.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
@@ -147,6 +153,7 @@ Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitz
 ### Visum
 
 Für die Einreise nach Trinidad und Tobago und Aufenthaltsdauer bis zu 90 Tagen benötigen deutsche Staatsangehörige kein Visum.  
+
 Flugreisende sollten im Besitz eines Weiter- oder Rückflugtickets sein. Die genaue Aufenthaltsadresse muss sowohl im Einreiseformular als auch gegenüber den Grenzbeamten angegeben werden.
 
 ### Minderjährige
@@ -164,6 +171,7 @@ Alleinreisende Minderjährige sollten eine amtlich beglaubigte Einverständniser
 Die Einfuhr von Pflanzen und frischen Lebensmitteln (Obst, Gemüse, Fleisch) ist nur mit besonderer Genehmigung erlaubt. Honig und Tarnkleidung dürfen nicht eingeführt werden.
 
 Die Einfuhr von Landes- und Fremdwährung ist unbeschränkt möglich, jedoch deklarationspflichtig.  
+
 Die Ausfuhr der Landeswährung ist auf 200 TTD beschränkt, von Fremdwährung auf den Betrag, der bei Einreise deklariert wurde.
 
 Gegenstände für den persönlichen Gebrauch und Waren können uneingeschränkt, Geschenke bis zu einem Wert von umgerechnet 50 US-Dollar eingeführt werden.
@@ -265,3 +273,69 @@ Die Kosten für eine medizinische Behandlung in privaten Arztpraxen bzw. Privatk
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node "Trinidad und Tobago")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

@@ -1,5 +1,7 @@
 # China: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 ### *Visumsfreie Einreise*
@@ -47,9 +49,11 @@ Besonders bei Reisen in mehrheitlich von ethnischen Minderheiten bewohnten und a
 ### Kriminalität
 
 Die Kriminalitätsrate ist insgesamt gering und Gewaltakte sind sehr selten.  
+
 Kleinkriminalität wie Taschendiebstahl und Raub z.B. von Smartphones sowie insbesondere verschiedenste Formen von Trickbetrügereien, Scams und überhöhte Kreditkartenabrechnungen und Preise für Dienstleistungen kommen jedoch vor.
 
 Überfälle auf Ausländer werden selten bekannt, sind aber auch an gut bewachten Plätzen nicht auszuschließen. Seit Herbst 2023 wurden aus unterschiedlichen Städten Messerangriffe auf Ausländer bekannt, bei denen es auch immer Verletzte gab.  
+
 Betrugsversuche erfolgen auch über das Telefon, wobei sich Anrufer teilweise als Polizei ausgeben.
 
 * Bewahren Sie Geld, Führerschein und andere wichtige Dokumente sicher auf; speichern Sie ggf. elektronische Kopien/Fotos. Dies erleichtert im Falle von Diebstahl oder Verlust die Ausstellung eines Ersatzdokuments.
@@ -68,7 +72,9 @@ Weite Teile Chinas liegen in einer seismisch aktiven Zone, sodass es zu Erdbeben
 #### *Starkregen und Tropenstürme*
 
 Das Klima ist im Norden kontinental, im Süden subtropisch.  
+
 Heftige Regenfälle, wie sie in der Regenzeit von Juni bis Oktober die Regel sind, verursachen in den Berglagen regelmäßig Erdrutsche mit Todesopfern.  
+
 Der Süden und Südosten Chinas wird von Juni bis Oktober regelmäßig von Taifunen getroffen, die Überschwemmungen und gefährliche Erdrutsche verursachen können. Ausläufer von Taifunen erreichen aber auch den Norden und Nordosten Chinas und können dort zu Überschwemmungen führen.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -84,13 +90,17 @@ Siehe *Aktuelles*
 ### Infrastruktur/Verkehr
 
 Es stehen ein gutes Inlandsflugnetz, teilweise sehr moderne Eisenbahnverbindungen (zum Teil mit Hochgeschwindigkeitszügen) sowie in großen Städten moderne U-Bahnen zur Verfügung. In allen größeren Städten gibt es zudem preisgünstige Taxis.  
+
 Die Mitnahme von Flüssigkeiten jeder Art im Handgepäck ist sowohl auf innerchinesischen als auch auf ausgehenden internationalen Flügen verboten. Ausgenommen sind kleine Mengen für kosmetische Zwecke (100 ml pro Sorte), die in einem wiederverschließbaren Kunststoffbehälter (durchsichtig) transportiert werden müssen. Sie werden vom Sicherheitspersonal geprüft. Batterien und Akkus (etwa für Fotoapparate) dürfen ausschließlich im Handgepäck transportiert werden. Steuerfreie Alkoholartikel, die in internationalen Flugzeugen oder Flughäfen gekauft wurden, müssen in einem versiegelten, transparenten Beutel transportiert werden. Zur Kontrolle sind die Kaufbelege bereitzuhalten. Die mengenmäßige Grenze ergibt sich aus den Zollvorschriften (max. 1.500 ml pro Person). Flüssige Arzneimittel dürfen nach Überprüfung mit an Bord genommen werden.  
+
 Die Mitnahme von Feuerzeugen und Streichhölzern ist sowohl auf innerchinesischen als auch auf ausgehenden internationalen Flügen verboten – dies gilt sowohl für das Handgepäck wie auch aufzugebendes Gepäck.  
+
 Ansonsten gelten die üblichen Beschränkungen hinsichtlich der Mitnahme von waffenähnlichen Gegenständen (Messer, Scheren etc.) im Handgepäck.
 
 Die Visitenkarte des Hotels erleichtert den Rücktransport mit dem Taxi, wenn Reisende nicht über chinesische Sprachkenntnisse verfügen.
 
 Der Straßenverkehr birgt sowohl in den Städten als auch außerhalb ein hohes Gefahrenpotenzial. Gründe dafür sind die steigende Anzahl der Verkehrsteilnehmer sowie eine oftmals unsichere oder sogar rücksichtslose Fahrweise.  
+
 Es gilt die Null-Promille-Grenze, d.h. Alkohol am Steuer ist strafbar und wird streng geahndet. Bei Verkehrsunfällen mit Beteiligung von Ausländern wird von diesen im Allgemeinen schuldunabhängig mindestens der Reisepass für unbestimmte Zeit einbehalten, womit ein Verlassen des Landes unmöglich wird.
 
 * Seien Sie im Straßenverkehr aufmerksam und vorsichtig und fahren Sie möglichst nur mit ortskundigen Fahrern.
@@ -110,14 +120,17 @@ Homosexuelle Handlungen sind in China keine Straftat mehr. Die rechtliche Stellu
 Die Einfuhr oder der Besitz schon geringer Mengen Drogen jeder Art, auch sog. Designerdrogen ebenso wie Khat, kann zu hohen Freiheitsstrafen oder sogar zur Todesstrafe führen (z.B. Besitz von bis zu 50 g Heroin oder 1 kg Opium: Freiheitsstrafe ab sieben Jahre, Todesstrafe bei Überschreiten dieser Grenze und allgemein bei Herstellung, Handel und Transport von Drogen, „wenn die Umstände schwerwiegend sind“). Auch gegen Ausländer verhängte Todesstrafen werden in China regelmäßig vollstreckt.
 
 Gegen Ausländer kann u.a. dann eine Ausreisesperre verhängt und der Reisepass von der Polizei einbehalten werden, wenn gegen sie eine Strafanzeige vorliegt oder eine Vernehmung als Zeuge in Frage kommt. Dies gilt auch in einem laufenden Zivilprozess. In der letzten Zeit werden länger andauernde Ausreisesperren auch bei zivilen Geschäftsstreitigkeiten verhängt, eine persönliche Anwesenheit bei einem Gerichtsprozess sollte daher kritisch geprüft werden.  
+
 Sofern Handelsgesellschaften oder andere Organisationen an einem Verfahren beteiligt sind, kann auch gegen deren gesetzlichen Vertreter oder gegen eine andere Person, die aus chinesischer Sicht für die Gesellschaft verantwortlich ist, eine Ausreisesperre verhängt werden. Die deutschen Auslandsvertretungen bietet weitere Informationen über die [Rechtsverfolgung in zivil- und handelsrechtlichen Streitigkeiten in China.](https://china.diplo.de/cn-de/service/-/2646760)
 
 Polizeidienststellen können bei über 200 (teilweise weit interpretierbaren) Tatbeständen nicht nur Bußgelder bis zu 5.000 RMB (ca. 600 EUR), sondern auch bis zu 15 Tage Arrest ohne richterliches Urteil anordnen. Zu den Tatbeständen gehören u.a. die Störung der öffentlichen Ordnung, sittenwidriges Verhalten, Prostitution (strafbar sind sowohl Prostituierte wie auch Freier), Drogenkonsum (auch der Konsum außerhalb Chinas kann verfolgt werden, wenn dieser z. B. noch anhand einer Haarprobe nachgewiesen wird), illegaler Aufenthalt usw. Das Gesetz wird auch gegen Ausländer angewandt. Auch Verstöße gegen sehr weit auslegbare Gesetzgebung zu nationaler Sicherheit und Spionage werden streng verfolgt.
 
 Fotografieren ist - von Ausnahmen wie z.B. militärischen Objekten abgesehen - nicht beschränkt. Bei Aufnahmen von Personen sollte erst um Erlaubnis gefragt werden. In Zweifelsfällen sollte man sich an die Reisebegleitung wenden. Videokameras und Smartphones sind ohne besondere Genehmigung erlaubt, sollten jedoch in der Zollerklärung angegeben werden.  
+
 Mobiltelefonverträge können vor Ort nur gegen Ausweis und Gesichtsscan abgeschlossen werden; von einer Auswertung vieler Nutzerdaten ist auszugehen.
 
 Die Nutzung von sog. VPN-Diensten zur Umgehung der staatlichen Internetzensur in China ist seit Inkrafttreten Cybersicherheitsgesetzes verboten. Eine dauerhafte Sperrung der kommerziellen, auch nicht-chinesischen VPN-Anbieter zur Umgehung der Zensur ist bisher nicht erfolgt. Ein konkretes Datum, zu dem eine solche Sperre in Kraft treten soll, ist bisher nicht kommuniziert worden.  
+
 Auch wenn bislang keine Fälle bekannt geworden sind, in denen Ausländer wegen der Nutzung von VPN-Diensten strafrechtlich verfolgt wurden, besteht dennoch potentiell jederzeit das Risiko einer Strafverfolgung auch mit vorläufiger Inhaftierung.
 
 * Führen Sie keine Gegenstände unbekannten Inhalts für Dritte mit sich.
@@ -150,6 +163,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 **Anmerkungen/Mindestrestgültigkeit:** 
 
 Bei Einreise mit Visum müssen Reisedokumente zum Zeitpunkt der Einreise in China noch mindestens sechs Monate gültig sein.  
+
 Bei der 15-tägigen visumsfreien Einreise müssen Reisedokumente mindestens für den Zeitraum des geplanten Aufenthalts gültig sein.
 
 Ausländer über 16 Jahre müssen sich zu jeder Zeit mit einem Reisepass mit gültigem chinesischen Visum (Ausnahme bei visumsfreier Einreise, siehe weiter unten) ausweisen können. Polizeiliche Kontrollen sind, insbesondere im Zuge erhöhter Sicherheitsmaßnahmen im Umfeld von Großereignissen oder Gedenktagen, jederzeit möglich.
@@ -181,12 +195,14 @@ Hier finden Sie [weitere Informationen](http://en.hnftp.gov.cn/tips/policy/20200
 #### *Erwerbstätigkeiten*
 
 Es gelten „Vorläufige Anwendungshinweise betreffend die kurzfristige Arbeitsaufnahme von Ausländern in China“. Diese Regelungen haben die Pflicht zur Einholung einer Arbeitserlaubnis bzw. eines Arbeitsvisums erheblich ausgeweitet.  
+
 Viele kurzfristige Tätigkeiten, die früher mit Geschäftsreisevisum (Typ M) ausgeübt werden konnten, sind jetzt nur noch mit Arbeitsvisum (Typ Z) nach Einholung einer Arbeitserlaubnis möglich.
 
 Hierunter fallen z.B. 
 
 * Forschungstätigkeiten, sportliche Trainingsaufenthalte, Teilnahme an Modeschauen/Modeling sowie Dreharbeiten/Filmaufnahmen – selbst wenn der Aufenthalt weniger als 90 Tage dauert - sowie
 * Montage- und Servicearbeiten an abgenommenen Anlagen, Baustellenaufsicht, Entsendung von Mitarbeitern zu Tochterunternehmen/Repräsentanzen sowie Freiwilligenarbeit oder unentgeltliche Tätigkeiten ab einer Aufenthaltsdauer von 90 Tagen.
+
 * Halten Sie Rücksprache mit dem Arbeitgeber/Ansprechpartner in China, um die korrekte Visumkategorie zu beantragen.
 * Beantragen Sie bei einer Reise mit einem Z-Visum innerhalb von 30 Tagen nach der Einreise eine Arbeitserlaubnis beim lokalen Public Security Bureau (Entry-Exit-Administration).
 * Beachten Sie, dass Sie einen Wechsel des Arbeitgebers oder Arbeitsorts beim für den Wohnort zuständigen Public Security Bureau (Entry-Exit-Administration) anzeigen müssen.
@@ -196,6 +212,7 @@ Hierunter fallen z.B. 
 Obwohl Hongkong und Macau Teil der VR China sind, genießen beide als sogenannte Sonderverwaltungsregionen in vielen Bereichen weitgehende Autonomie. So können deutsche Staatsangehörige visumsfrei nach Hongkong und Macau einreisen.
 
 Dabei ist zu beachten, dass Hongkong und Macau nach dem chinesischen Ein- und Ausreisegesetz als „Ausland“ gelten. Sofern die Einreise von Festlandchina aus erfolgt, bedeutet dies in Bezug auf das Visum eine Ausreise aus der VR China.  
+
 Eine Wiedereinreise nach Festlandchina ist daher nur möglich, wenn das chinesische Visum für zwei- bzw. mehrfache Einreisen ausgestellt ist.
 
 * Achten Sie bei geplanten Reisen bzw. Ausflügen nach Hongkong und Macau unbedingt bereits bei Beantragung des Visums für die VR China darauf, dass es zur mehrfachen Einreise berechtigt.
@@ -221,6 +238,7 @@ An allen für Ausländer geöffneten Grenzen führen die chinesischen Grenzkontr
 Alle Ausländer sind verpflichtet, sich nach jeder Einreise innerhalb von 24 Stunden bei dem für ihren Wohnort zuständigen Public Security Bureau (Entry-Exit-Administration) anzumelden. Bei Unterbringung in einem Hotel übernimmt das Hotel die Anmeldung. In Peking können Reisende sich über die Website des [Pekinger Public Security Bureaus](https://zwfw.gaj.beijing.gov.cn/zsdj/zsdj-q/) auch online registrieren. Die zugehörige App funktioniert gelegentlich nicht störungsfrei, z. B. beim Hochladen von Fotos.
 
 Ein Verstoß gegen diese Regelung wird von den chinesischen Behörden protokolliert und kann zu Befragungen, Geldstrafen und einer späteren Einreiseverweigerung oder Visumsversagung führen.  
+
 Ausländer, die in China leben, müssen stets einen Nachweis über ihre Meldebescheinigung mit sich führen.
 
 * Registrieren Sie sich innerhalb von 24 Stunden beim zuständigen Public Security Bureau, wenn Sie nicht in einem Hotel wohnen.
@@ -233,10 +251,13 @@ Derzeit dürfen sich Ausländer in China bis auf die Autonome Region Tibet ohne 
 ### Tibet
 
 Reisen nach Tibet sind grundsätzlich möglich, es kommt jedoch immer wieder zu zeitweisen Einschränkungen oder Reisesperren, die in der Regel nicht öffentlich bekannt gegeben werden.  
+
 Ausländer benötigen in jedem Fall eine Spezialgenehmigung namens Tibet Travel Permit bzw. Tibet Entry Permit vom tibetischen Fremdenverkehrsamt in Lhasa, um die Autonome Region Tibet touristisch zu bereisen.  
+
 Der Antrag dafür kann ausschließlich für eine Reisegruppe von mind. fünf Personen über ein vom tibetischen Fremdenverkehrsamt akkreditiertes Reisebüro gestellt werden
 
 Es sind eine (Scan-)Kopie des Passes und des chinesischen Visums sowie Angaben zur Berufstätigkeit erforderlich. Die Bearbeitungsdauer liegt nach Auskunft des tibetischen Fremdenverkehrsamts in der Regel bei fünf bis sieben Arbeitstagen. Das vom tibetischen Fremdenverkehrsamt akkreditierte Reisebüro muss für die gesamte Reiseroute Transport und Reiseführer stellen.  
+
 Bergsteiger, Journalisten, Geschäftsreisende und Familienbesucher unterliegen besonderen Bestimmungen, die im Einzelfall bei den zuständigen chinesischen Behörden zu erfragen sind.
 
 ### Minderjährige
@@ -248,6 +269,7 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt
 ### Einfuhrbestimmungen
 
 Die Einfuhr von Fremdwährung ist für Ausländer unbegrenzt möglich, muss aber ab einem Wert von 5.000 USD bei Einreise deklariert werden. Die Ausfuhr ist bei einem Wert von über 5.000 USD auf den bei Einreise deklarierten Betrag beschränkt.  
+
 Landeswährung darf bis zu 20.000 RMB ein- und ausgeführt werden.
 
 Es dürfen 400 Zigaretten und zwei Flaschen Spirituosen (je 750 ml) zollfrei eingeführt werden.
@@ -352,6 +374,7 @@ In den Ballungszentren Chinas sind hohe bis sehr hohe Luftverschmutzungen besond
 ### Medizinische Versorgung
 
 In China gibt es kein System niedergelassener Ärzte. Die Krankenversorgung konzentriert sich daher auf die Krankenhäuser. In den großen Städten finden sich sehr große Klinikzentren mit modernster Ausstattung, wohingegen auf dem Land die Versorgung noch sehr einfach sein kann. Die Hygiene mag nicht europäischen Vorstellungen entsprechen.  
+
 Das Hauptproblem der medizinischen Versorgung stellt für Ausländer die Sprachbarriere und die andere medizinische Kultur dar. Eine Verständigung ohne chinesische Sprachkenntnisse kann sich mangels Englisch sprechenden medizinischen Personals sehr schwierig gestalten.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
@@ -364,3 +387,69 @@ Das Hauptproblem der medizinischen Versorgung stellt für Ausländer die Sprachb
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/china-node "Länderinformationen China")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

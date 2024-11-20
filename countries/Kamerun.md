@@ -1,15 +1,20 @@
 # Kamerun: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 **Vor Reisen  
+
 - in die Region Extrême-Nord**,  
 **- in die Grenzgebiete zu Nigeria,**Tschad und zur Zentralafrikanischen Republik** (jeweils auf der gesamten Länge der Grenzen),  
 **- in die anglophonen** **Regionen North-West und South-West** und  
 **- **zur Halbinsel Bakassi und Umgebung**  
+
 wird** **gewarnt.**
 
 **Von Reisen  
+
 - in die Regionen Adamaoua und Nord**  
 **wird abgeraten.**
 
@@ -18,6 +23,7 @@ wird** **gewarnt.**
 In den anglophonen **Regionen North-West und South-West** dauern gewaltsame Auseinandersetzungen zwischen Sicherheitskräften und separatistischen Gruppierungen an, die Todesopfer und Verletzte fordern. Dies betrifft auch die Halbinsel Bakassi. Auf allen Straßen innerhalb dieser Regionen besteht erhöhte Gefahr durch Sprengsätze, Überfälle an Straßensperren und Entführungen.
 
 In der **Region Extrême Nord** kommt es zu Angriffen und Selbstmordanschlägen von islamistischen Terrorgruppen. Zudem besteht ein sehr hohes Entführungsrisiko. Dies betrifft auch die Hauptstadt der Region Maroua sowie die Grenzgebiete zu Nigeria und Tschad.  
+
 In den nigerianischen Bundesstaaten Borno und Adamawa auf der anderen Seite der Grenze gilt weiterhin eine [Teilreisewarnung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nigeria-node/nigeriasicherheit/205788) aufgrund der schlechten Sicherheitslage. Auch für den Bereich des Grenzgebiets auf der Seite des Tschad gilt eine [Teilreisewarnung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/tschad-node/tschadsicherheit/225774). **Das Grenzgebiet mit der Zentralafrikanischen Republik gilt wegen grenzüberschreitender Übergriffe** **bewaffneter Gruppen der dortigen Rebellen als unsicher.** Für die Zentralafrikanische Republik besteht eine [Reisewarnung](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit/226450).
 
 * Im gesamten Golf von Guinea kommt es zu Überfällen auf Küstenorte, Fischkutter, Öltanker oder Ölplattformen mit Geiselnahmen.
@@ -85,10 +91,13 @@ Während der Regenzeit von März bis November kann es zu starken Regenfällen un
 Kamerun verfügt im Vergleich zu anderen afrikanischen Ländern über ein großes Straßennetz, dessen Zustand jedoch mangelhaft ist. Zahlreiche Straßen auch innerhalb der Städte sind nicht asphaltiert. Überlandbusse sind oft in sehr schlechtem Zustand. Von ihrer Nutzung wird dringend abgeraten. Generell sollte jedes öffentliche Verkehrsmittel oder auch Mietwagen auf den technischen Zustand und die Fahrtauglichkeit des Fahrers geprüft werden.
 
 Die touristische Infrastruktur hat keinen hohen Standard. Für Reisen nach Ngaoundéré besteht eine unzuverlässige Eisenbahnverbindung. Von dort aus gelangen Reisende per Auto weiter in den Norden. Außerhalb der größeren Städte ersetzen sog. Mototaxis (Motorräder) die Autotaxis.  
+
 Übernachtungsmöglichkeiten außerhalb der Städte sind nur begrenzt vorhanden und haben einfachen Standard.  
+
 Wegen technischer Mängel an den Fahrzeugen und dem Verkehrsverhalten vieler Fahrer, insbesondere von Lastwagen, besteht ein vielfach höheres Unfallrisiko als in Europa.
 
 Bei Autofahrten ist mit lange andauernden Polizeikontrollen zu rechnen.  
+
 Wegen der allgemein sehr hohen Unfallgefahr im Straßenverkehr ist ein defensiver Fahrstil angezeigt, Sicherheitsgurte sollten unbedingt angelegt werden.
 
 * Seien Sie im Straßenverkehr besonders vorsichtig und fahren Sie defensiv.
@@ -111,6 +120,7 @@ Homosexualität ist nach Artikel 347 des Strafgesetzbuches mit Gefängnisstrafen
 Für offizielle Gebäude wie Ministerien, Präsidentenpaläste, Flughäfen, Häfen, Brücken, militärische Einrichtungen oder Polizeistationen und Telekommunikationsanlagen besteht ein Fotografierverbot, das streng durchgesetzt wird.
 
 Auch das Fotografieren offizieller Fahrzeugkolonnen, insbesondere des Staatspräsidenten, ist verboten. Sollte sich eine Fahrzeugkolonne des Staatspräsidenten nähern, müssen sich Fußgänger mit dem Rücken zur Straße stellen.  
+
 Es ist verboten, den Präsidenten und seine Familie zu beleidigen.
 
 Das Tragen von Uniformen oder Tarnkleidung (Camouflage) ist in Kamerun verboten; Mitglieder der Streitkräfte sind davon ausgenommen.
@@ -145,6 +155,7 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 Reisedokumente müssen im Zeitpunkt der Beantragung des Visums noch mindestens sechs Monate gültig sein und mindestens eine freie Seite haben.
 
 Bei Einreise mit dem Flugzeug muss ein Rück- oder Weiterflugticket vorgelegt werden können. Flughäfen mit internationalen Flugverbindungen von und nach Europa sind Duala und Jaunde (Nsimalen).  
+
 Die Grenz- und Zollkontrollen sind im Vergleich zu Europa zeitaufwändiger. Flugreisende müssen eine App aus dem jeweiligen App Store (Douâne Cmr bzw. Englisch Customs Cmr herunterladen und eine Zollerklärung ausfüllen. Dies wird zunehmend schon beim Einchecken am Flughafen verlangt.
 
 Die Anforderungen einzelner Fluggesellschaften an die von ihren Passagieren mitzuführenden Dokumente weichen zum Teil von den staatlichen Regelungen ab.
@@ -160,6 +171,7 @@ Eine Visumverlängerung im Land ist gesetzlich nicht vorgesehen. Es wird daher g
 ### Minderjährige
 
 Für Minderjährige sollte ein Original oder eine beglaubigte Kopie der Geburtsurkunde mitgeführt werden, aus der die Eltern des Kindes hervorgehen.  
+
 Bei Ein- und Ausreise mit nur einem Elternteil oder anderen Erwachsenen als den Eltern ist angeraten, eine beglaubigte Vollmacht des anderen Elternteils bzw. des/der Sorgeberechtigten vorzulegen. Sind die aus der Geburtsurkunde hervorgehenden Eltern nicht sorgeberechtigt, sollte außerdem der gerichtliche Sorgerechtsbeschluss oder ein sonstiger amtlicher Nachweis des Sorgerechts im Original oder beglaubigter Kopie mitgeführt werden. Alle Dokumente sollten in französischer, hilfsweise englischer, Sprache vorgelegt werden.
 
 Alleinreisende Minderjährige, die als „unbegleitete Minderjährige (UNMR)“ durch kommerzielle Fluggesellschaften befördert werden, sollten unbedingt bei Ankunft in Kamerun durch den/die Inhaber der elterlichen Sorge bzw. von denen bevollmächtigten Personen abgeholt werden.
@@ -167,6 +179,7 @@ Alleinreisende Minderjährige, die als „unbegleitete Minderjährige (UNMR)“ 
 ### Einfuhrbestimmungen
 
 Die Ein- und Ausfuhr von Devisen ist unbegrenzt möglich, jedoch deklarationspflichtig.  
+
 Die Einfuhr der Landeswährung ist bis zu einem Betrag von 20.000 XAF, die Ausfuhr bis zu einem Betrag von 25.000 XAF erlaubt und bei Reisen in ein zur Franc-Zone gehörendes Land unbeschränkt möglich.
 
 Gegenstände des täglichen Bedarfs dürfen eingeführt werden. Devisen ab einem Gegenwert von 1 Mio. XAF (ca. 1.524,50 EUR) müssen bei Einreise deklariert werden. Die Einfuhr von (Jagd-)Waffen ist über die kamerunische Botschaft in Berlin oder einen der beiden Honorarkonsuln in Essen oder Hanau zu beantragen.
@@ -305,3 +318,69 @@ In den größeren Städten gibt es ausreichend Apotheken, die im Regelfall alle 
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/kamerun-node "Kamerun")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

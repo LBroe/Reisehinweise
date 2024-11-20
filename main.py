@@ -60,8 +60,8 @@ def create_content(p):
 
     furtherInfoHead = soup.find(string="Weitere Hinweise für Ihre Reise").parent
     furtherInfo = furtherInfoHead.next_sibling
-    furtherInfoHead.decompose()
-    furtherInfo.decompose()
+    furtherInfoHead.extract()
+    furtherInfo.extract()
 
     md_body = to_markdown(str(soup))
 

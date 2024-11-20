@@ -1,5 +1,7 @@
 # Serbien: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 ### Terrorismus
@@ -33,6 +35,7 @@ Fahrzeugaufbrüche kommen vor. Betrüger geben sich häufiger als falsche „ge
 Serbien liegt in einer seismisch aktiven Zone, weshalb es zu meist leichteren Erdbeben kommen kann.
 
 Das Klima ist gemäßigt-kontinental mit heißen Sommern und kalten Wintern.  
+
 Vor allem in den Sommermonaten kommt es in Serbien aufgrund der herrschenden klimatischen Bedingungen immer wieder zu Busch- und Waldbränden. Mit einer Beeinträchtigung der Infrastruktur auch in Tourismusgebieten muss in diesen Fällen gerechnet werden.
 
 * Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen lokaler Behörden.
@@ -49,16 +52,21 @@ Die Kontrollen an den serbischen Grenzübergängen und bei den benachbarten Staa
 ### Infrastruktur/Verkehr
 
 Es existieren lokale sowie internationale Busverbindungen. Der Zugverkehr ist fast ausschließlich auf lokale Verbindungen innerhalb Serbiens beschränkt. Bis auf die Schnellbahn, die zwischen Belgrad und Novi Sad verkehrt, sind Züge langsam und häufig verspätet.  
+
 Die serbischen Landstraßen sind teilweise in mangelhaftem Zustand und schlecht beleuchtet. Auch auf Autobahnen fahren Fahrzeuge zuweilen ohne ausreichende Beleuchtung.  
+
 Abseits der Hauptstraßen in der Grenzregion zu Kosovo besteht weiterhin noch die Gefahr von Landminen.
 
 Auf allen Straßen Serbiens muss ganzjährig auch tagsüber mit Abblend- oder Tagfahrlicht gefahren werden.  
+
 Vom 1. November bis 1. April besteht bei winterlichen Straßenverhältnissen Winterreifenpflicht (mindestens Reifen mit M+S-Kennung).  
+
 Die Promillegrenze in Serbien beträgt 0,3; für Berufsfahrer und Fahranfänger 0,0. Wegen der Schuldzuweisung bei Unfällen wird jedoch dringend empfohlen, im Straßenverkehr ganz auf Alkohol zu verzichten.
 
 Verstöße gegen die Verkehrsordnung werden je nach Schwere des schuldhaften Verhaltens mit empfindlichen Strafen geahndet.
 
 Bei Reisen in oder durch Serbien sind auf Autobahnen und autobahnähnlich ausgebauten Straßen Mautgebühren zu zahlen. Ein Ausweichen auf Landstraßen zur Umgehung der Mautgebühr ist mit viel längeren Fahrzeiten und einem oft schlechten Straßenzustand (Schlaglöcher, fehlende Randmarkierungen) verbunden.  
+
 Die Maut kann in Serbien mit Bargeld oder Kreditkarte bezahlt werden. Für die Zahlung der Maut in EUR bzw. für den an den Grenzen möglichen Geldtausch sollten kleine Scheine und Münzen mitgeführt werden.
 
 Auf allen Autobahnabschnitten in Serbien findet eine automatische Geschwindigkeitsüberwachung statt, für die jeweils eine Mindestfahrtdauer entsprechend der zulässigen Höchstgeschwindigkeit gilt. Die Unterschreitung führt zu einem hohen Bußgeld (je nach Maß der Übertretung). Wer mit ausländischen Kennzeichen unterwegs ist, kann die Strafe im Regelfall sofort bei der an der Mautstation stehenden Polizei bezahlen. Bei sonstigen durch die Polizei festgestellten Ordnungswidrigkeiten oder Straftaten im Straßenverkehr muss der Fahrer in Begleitung der Polizei zum zuständigen Gericht. Die dort ggf. verhängte Geldstrafe ist bei einer Bank oder der Post einzuzahlen.
@@ -66,6 +74,7 @@ Auf allen Autobahnabschnitten in Serbien findet eine automatische Geschwindigkei
 Insbesondere Unfälle mit Personenschäden und Todesfolge werden mit mehrjährigem Freiheitsentzug geahndet. Die verhängte Strafe wird in der Regel nicht zur Bewährung ausgesetzt.
 
 Sofern der Fahrer des Kfz nicht identisch mit dem in den Kfz-Dokumenten eingetragenen Halter ist, ist eine Vollmacht mit öffentlich beglaubigter Unterschrift des Halters in serbischer oder ersatzweise englischer Sprache mitzuführen, die auch die Personalien und die Reisepassnummer der bevollmächtigten Person enthält.  
+
 Als Nachweis für eine gültige Kfz-Haftpflichtversicherung reicht das deutsche Autokennzeichen. Dennoch wird die Mitnahme der sog. "Grünen Versicherungskarte" empfohlen.
 
 Bei jedem Unfall muss in Serbien die Polizei gerufen werden, die ein Schadensprotokoll anfertigt, das für Versicherungszwecke und ggf. Zollverfahren bei der Ausreise unerlässlich ist. In vielen Fällen ist die Entscheidung eines Verkehrsrichters erforderlich. Es kann daher auch bei vermeintlichen Bagatellunfällen zu mehrstündigen Wartezeiten kommen.
@@ -100,6 +109,7 @@ Prostitution ist in Serbien eine Ordnungswidrigkeit. Im Falle von Prostitution w
 ### Geld/Kreditkarten
 
 Landeswährung in Serbien ist der Dinar (RSD). Der EUR ist in Serbien nicht als offizielles Zahlungsmittel zugelassen.  
+
 Kreditkarten ausländischer Banken können fast überall als Zahlungsmittel verwendet werden. An den meisten Bankautomaten ist eine Geldversorgung auch mit deutschen Debitkarten (Girocard) möglich, sofern diese das „Maestro“-Zeichen tragen. Debitkarten, die lediglich das „V-Pay“-Zeichen tragen, sind für Geldabhebungen in Serbien nicht geeignet. Bargeld kann zudem in Wechselstuben („Menjačnica“) getauscht werden.
 
 ## Einreise und Zoll
@@ -129,6 +139,7 @@ Von der Einreise mit einem einmal als verloren oder gestohlen gemeldeten Ausweis
 ### Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen innerhalb von 180 Tagen zu touristischen Zwecken kein Visum.  
+
 Auf diese Dauer werden von den serbischen Behörden auch Aufenthalte in Kosovo angerechnet.
 
 Inhaber deutscher Reisedokumente für Ausländer, Flüchtlinge und Staatenlose benötigen ein Visum für die Einreise in die Republik Serbien.
@@ -152,6 +163,7 @@ Minderjährige, die das 16. Lebensjahr vollendet haben, dürfen alleine nach Ser
 ### Einreise über Kosovo
 
 Die Einreise nach Serbien aus Kosovo ist nur möglich, wenn die Einreise nach Kosovo zuvor auf dem Landweg aus Serbien erfolgt ist und die Gesamtreisedauer drei Monate nicht übersteigt (siehe *Visum*). Selbst dann kann es zu Schwierigkeiten, bis hin zur Einreiseverweigerung, kommen. Hintergrund ist, dass Serbien Kosovo als Teil seines staatlichen Territoriums und nicht als Ausland betrachtet.  
+
 Kosovarische Einreisestempel werden von den serbischen Behörden zumeist ungültig gestempelt. Reisende, die keinen kosovarischen Einreisestempel im Reisepass wünschen, können dies der kosovarischen Grenzpolizei bei Einreise mitteilen. Die Reise nach Serbien ist mit dem deutschen Personalausweis möglich, siehe Abschnitt *Reisedokumente*.
 
 * Bitte beachten Sie die aktuellen Reise- und Sicherheitshinweise zu [Kosovo](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/kosovo-node/kosovosicherheit/207442).
@@ -207,7 +219,9 @@ Weitere Informationen bietet [die serbische Zollverwaltung](https://www.carina.r
 ### Heimtiere
 
 Für die Einfuhr von Haustieren ist der EU-Heimtierausweis erforderlich, aus dem die Kennzeichnung des Tieres durch Mikrochip oder deutlich lesbare Tätowierung hervorgehen muss. Für zum ersten Mal gekennzeichnete Tiere ist ein Mikrochip Pflicht.  
+
 Im EU-Heimtierausweis muss eine gültige Tollwutimpfung eingetragen sein, deren Erstimpfung mindestens 21 Tage vor der Einreise erfolgt sein muss.  
+
 Weitere Informationen bietet die [serbische Zollverwaltung](https://www.carina.rs/en.html).
 
 ## Gesundheit
@@ -268,3 +282,69 @@ Intensive Sonneneinstrahlung kann insbesondere in den Sommermonaten zu kurz- und
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/serbien-node "Serbien")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

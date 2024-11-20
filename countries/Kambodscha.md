@@ -1,5 +1,7 @@
 # Kambodscha: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 Seit dem 1. Juli 2024 ist das elektronische Einreiseverfahren für Kambodscha in Kraft. Einreisende müssen sich sieben Tage vor geplanter Einreise über die Webseite/[App „Cambodia e-arrival“](https://www.arrival.gov.kh) registrieren.
@@ -29,6 +31,7 @@ In einigen Landesteilen außerhalb der Ballungszentren, insbesondere in Grenznä
 ### Kriminalität
 
 In den touristischen Zentren, insbesondere in Phnom Penh, Sihanoukville und Kampot, kommt es gelegentlich zu tätlichen Angriffen und Raubüberfällen gegen Ausländer, vereinzelt auch unter Gebrauch von Messern und/oder Schusswaffen. In Phnom Penh sind hiervon vor allem die Touristen- und Wohnviertel für Ausländer betroffen, u.a. auch die Gegend um das Flussufer des Tonle Sap („Riverside“) und Boeng Keng Kang 1 (BKK1).  
+
 In Phnom Penh, Siem Reap und Sihanoukville wird zudem immer wieder von Diebstählen in Gasthäusern und Hotels berichtet.  
 
 Vereinzelt wurden Ausländerinnen Opfer sexueller Übergriffe, vor allem bei einsamen nächtlichen Strandspaziergängen im Badeort Sihanoukville.
@@ -36,7 +39,9 @@ Vereinzelt wurden Ausländerinnen Opfer sexueller Übergriffe, vor allem bei ein
 Bei Fahrten mit Motorradtaxis und Tuktuks, aber auch zu Fuß, ist nicht auszuschließen, dass Taschen oder Mobiltelefone von vorbeifahrenden Motorradfahrern weggerissen oder abgeschnitten werden (bag snatching), auch auf dem Weg vom und zum Flughafen. Verletzungen werden billigend in Kauf genommen.
 
 In Phnom Penh werden vermehrt ausländische Touristen unter verschiedenen Vorwänden angesprochen, z.B. mit Hinweisen auf eine Begegnung am Flughafen oder auf nahe Verwandte, die demnächst in Europa studieren oder arbeiten werden, und in Privathäuser eingeladen, um sie in fingierte Karten- bzw. Glücksspiele zu verwickeln und letztlich unter Drohungen zur Zahlung angeblicher Spielschulden zu veranlassen.  
+
 Es ist nicht ausgeschlossen, dass Speisen oder Getränke mit Drogen versetzt werden.  
+
 Im Übrigen sind vor allem in Phnom Penh und Siem Reap verschiedene Formen von Trickbetrügereien weit verbreitet.
 
 In letzter Zeit sind Reisende vereinzelt Opfer von Betrügereien geworden, bei denen Vermieter von Motorrädern und –rollern für vorgebliche Beschädigungen des Mietgegenstands Schadensersatz gefordert haben. Vermieter versuchen, den Pass einzubehalten und die Einwanderungsbehörden zu informieren, um die Ausreise von Reisenden zu verhindern.
@@ -62,6 +67,7 @@ Auch Online-Beziehungs- und Freundschaftsbetrügereien kommen vor. Betroffene wu
 ## Natur und Klima
 
 Es herrscht feuchtheißes Monsunklima.  
+
 In der Regenzeit von Mai bis November können monsunartige Regenfälle weitreichende Überschwemmungen und Erdrutsche insbesondere entlang des Mekong und in gebirgigen Regionen verursachen. Auch in Phnom Penh kommt es zu örtlich begrenzten Überflutungen von Straßen.
 
 * Verfolgen Sie Wetterberichte in den lokalen oder internationalen Medien.
@@ -163,6 +169,7 @@ Deutsche Staatsangehörige benötigen für die Einreise nach Kambodscha ein Visu
 #### *Visum vor Einreise*
 
 Die Beantragung eines Visums vor Einreise erfolgt bei einer kambodschanischen Auslandsvertretung, z.B. der [kambodschanischen Botschaft in Berlin](http://emb-cambodia.active-city.net/city_info/webaccessibility/index.cfm?item_id=868239).  
+
 Bei der auf einem vor der Einreise eingeholten Visum angegebenen Gültigkeitsdauer von drei Monaten handelt es sich um die Nutzungsfrist. Die Einreise muss innerhalb dieses Zeitraums erfolgen, die Dauer des zulässigen Aufenthalts beträgt 30 Tage ab dem Tag der Einreise. Sie wird vom Grenzbeamten bei Einreise festgelegt.
 
 #### *Online-Visum (E-Visa)*
@@ -172,6 +179,7 @@ Das Visum der Kategorie T (Tourismus) sowie der Kategorie E (Geschäftsreise) ka
 #### *Visum bei Einreise (Visa on arrival)*
 
 Die Einholung eines Visums bei Einreise (on arrival) ist für Visa der Kategorie T (Tourismus) und E (Geschäftsreise) gegen eine Gebühr an allen internationalen Grenzübergängen möglich. Das Visum wird grundsätzlich nur für eine einmalige Ein- bzw. Ausreise ausgestellt.  
+
 Bei Einreise ist ein Ein-/Ausreiseformular zu nutzen, das gleichzeitig als Antrag für ein Visum „on arrival“ dient.  
 
 #### *Verlängerung des Visums oder Verlust des deutschen Passes mit kambodschanischem Visum*
@@ -185,6 +193,7 @@ Sollte der deutsche Pass mit dem kambodschanischen Visum verloren gehen oder ges
 #### *Einreisekontrolle*
 
 Bei Einreise wird ein Einreisestempel im Pass angebracht, mit dem auch die Länge der zulässigen Aufenthaltsdauer vermerkt wird. Um Missverständnisse zu vermeiden, sollte bei der Einreise die Eintragung im Einreisestempel kontrolliert werden.  
+
 Die Ein-/Ausreisekarte wird durch den Grenzbeamten abgestempelt und im Pass festgemacht. Die Karte ist bei Ausreise vorzulegen.
 
 ### Arbeitsaufnahme/Freiwilligenprogramme
@@ -245,8 +254,11 @@ Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen*
 * Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 
 In Kambodscha besteht ganzjährig ein Malariarisiko, verstärkt während der Regenzeiten. Zunehmende Artemisinin-Resistenzen werden berichtet.  
+
 Ein mittleres Malariarisiko besteht in den meisten Landesteilen, am höchsten im Regenwald der Grenzgebiete zu Thailand und Laos, geringer in einem breiten Gürtel durch die Mitte des Landes von SO nach NW entlang des Mekong bis nördlich des Tonle Sap.  
+
 Ein geringes Risiko innerhalb dieses Gürtels in der Umgebung von Phnom Penh sowie unmittelbar um den Tonle Sap.  
+
 Phnom Penh und Angkor Wat gelten als malariafrei.
 
 Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
@@ -281,6 +293,7 @@ Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [
 ### Schistosomiasis (Bilharziose)
 
 Entlang des Mekong und seiner Seitenarme besteht bei Süßwasserkontakt ein Infektionsrisiko mit dem Pärchenegel Schistosoma, der das chronische Krankheitsbild der Bilharziose, eine Entzündung von Harnblase oder Darm, hervorrufen kann.  
+
 Die Bilharziose wird beim Baden, Waten oder anderen Freizeitaktivitäten im oder am Süßwasser durch das Eindringen der Wurmlarven durch die intakte Haut übertragen, siehe [Schistosomiasis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schistosomiasis/2562868 "Schistosomiasis (auch: Bilharziose)")
 
 * Sehen Sie vom Baden in Süßwassergewässern, entlang des Mekong und seiner Seitenarme, konsequent ab.
@@ -340,3 +353,69 @@ Besonders chronisch kranke und behandlungsbedürftige Menschen müssen sich des 
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/kambodscha-node "Kambodscha")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

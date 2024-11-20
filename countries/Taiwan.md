@@ -1,5 +1,7 @@
 # Taiwan*: Reise- und Sicherheitshinweise
 
+> 
+
 ## Sicherheit
 
 ### Terrorismus
@@ -93,11 +95,13 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen bei Einreise noch mindestens sechs Monate gültig sein.
 
 ### Visum
 
 Deutsche Staatsangehörige benötigen für die Einreise und den Aufenthalt bis zu 90 Tagen zu Besuchszwecken kein Visum, soweit bei der Einreise ein bestätigtes Rück- oder Weiterflugticket sowie ggf. ein Visum für das Zielland vorgelegt werden kann.  
+
 Dies gilt jedoch nur für Einreisen über die internationalen Flughäfen sowie die Seehäfen Keelung, Hualien, Taichung, Kinmen Shuitou Harbour, Mazu und Kaohsiung.
 
 Eine Verlängerung der Aufenthaltsdauer ist ausgeschlossen.
@@ -105,7 +109,9 @@ Eine Verlängerung der Aufenthaltsdauer ist ausgeschlossen.
 #### *Landing Visa*
 
 Bei Einreise mit einem vorläufigen Reisepass wird ein Visum benötigt, das für Kurzaufenthalte von maximal 30 Tagen gegen Gebühr als „Landing Visum“ bei Einreise über den Flughafen Taiwan Taoyuan International beim Visa Office (Bureau of Consular Affairs, bei der Passkontrolle) beantragt werden kann.  
+
 Bei der Einreise über die anderen internationalen Flughäfen (Taipei Songshan, Kaohsiung, Taichung) wird durch die Grenzpolizei zunächst eine sog. „Temporary Entry Permit“ ausgestellt, das bei der in der jeweiligen Stadt gelegenen Zweigstelle des [Bureau of Consular Affairs](https://visawebapp.boca.gov.tw/) nachträglich in ein „Landing Visa“ umgewandelt werden muss.  
+
 Bei einer Einreise über andere Flughäfen Taiwans oder über die internationalen Seehäfen ist die Beantragung eines „Landing Visums“ derzeit nicht möglich.
 
 Für Aufenthalte von mehr als 90 Tagen benötigen deutsche Staatsangehörige ein Visum, das vor der Einreise einzuholen ist. Es werden nur Anträge angenommen, die online beim [Consular Affairs Bureau](https://visawebapp.boca.gov.tw/) ausgefüllt werden und am Ende über einen Barcode verfügen.
@@ -133,6 +139,7 @@ Verboten ist die Einfuhr von gefälschten Münzen und Banknoten, pornographische
 Verboten ist auch die Einfuhr von Waren, die gegen urheberrechtliche Bestimmungen verstoßen.
 
 Die Einfuhr von landwirtschaftlichen Produkten (z.B. Obst) und Fleischprodukten (sowohl Frischfleisch als auch verarbeitete Produkte) wird mit Geldstrafen zwischen 80 und 400 EUR für landwirtschaftliche Produkte geahndet. Seit Ausbruch der Afrikanischen Schweinepest in China verschärft Taiwan seine Kontrollen bei der Einreise auf unerlaubte Fleischprodukte. Nachdem Deutschland einen Fall von Afrikanischer Schweinepest gemeldet hat, haben die taiwanischen Behörden angekündigt, dass bei Einreisenden aus Deutschland das Gepäck ausnahmslos auf das Mitführen von schweinefleischhaltigen Produkten geprüft wird. Die Strafen für die unerlaubte Einfuhr wurden empfindlich verschärft. Sie betragen bis zu etwa 28.000 EUR (1.000.000 TWD). Es ist damit zu rechnen, dass Kontrollen bei der Einreise aufgrund der Aktualität verschärft werden und bei Nichtbeachtung streng bestraft werden (Geldstrafe und/oder Einreiseverbot).  
+
 Weitere Informationen bietet die zuständige [Animal and Plant Health Inspection Agency](https://www.aphia.gov.tw/en/). Reisende sollten mitgeführte Produkte entweder vor der Zollkontrolle in die dafür vorgesehenen Mülltonnen werfen oder die Zollbeamten entsprechend informieren.
 
 Für verschreibungspflichtige Medikamente sollte ein ärztliches Rezept mit englischer Übersetzung mitgeführt werden. Verbindliche Auskünfte erteilt der [taiwanische Zoll](https://etaipei.customs.gov.tw/cp.aspx?n=07E6C230459CD820), bei dem auch [Vorabgenehmigungen zur Einfuhr](https://etaipei.customs.gov.tw/cp.aspx?n=07E6C230459CD820) beantragt werden können.
@@ -140,6 +147,7 @@ Für verschreibungspflichtige Medikamente sollte ein ärztliches Rezept mit engl
 ### Heimtiere
 
 Für die Einfuhr von Haustieren bestehen Quarantänebestimmungen. Die Einfuhr muss vor Einreise unter Vorlage eines tierärztlichen Gesundheitszeugnisses bei der zuständigen [Animal and Plant Health Inspection Agency](https://www.aphia.gov.tw/en/ws.php?id=14261) beantragt werden.  
+
 Einen Musterausweis sowie weitergehende Informationen bietet das [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/Tier/HausUndZootiere/Heimtiere/_Texte/Heimtierausweis.html)*.*
 
 ## Gesundheit
@@ -207,3 +215,69 @@ Die medizinische Versorgung in Taiwan entspricht europäischem Niveau und ist in
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/taiwan-node "Taiwan*")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

@@ -1,5 +1,7 @@
 # Pakistan: Reise- und Sicherheitshinweise
 
+> 
+
 ## Aktuelles
 
 ### *Sicherheitslage*
@@ -36,6 +38,7 @@ Die Anzahl terroristischer Anschläge mit Todesopfern in Pakistan steigt von erh
 Die Gefahr terroristischer Anschläge – insbesondere seitens der Pakistanischen Taliban, des sogenannten Islamischen Staates Provinz Khorasan, belutschischer Separatisten - meist durch Sprengstoffanschläge und Selbstmordattentate besteht landesweit und mit steigender Tendenz. Dies gilt auch für die Großstädte Islamabad, Lahore, Karachi, Multan und Rawalpindi, verstärkt zu Freitagsgebeten, an Feiertagen wie zu Beginn und Ende des Ramadans. Die Terroranschläge richten sich vor allem gegen Streitkräfte, Sicherheitsdienste, Polizei, Märkte, Einrichtungen der Infrastruktur, religiöse Stätten (Moscheen, Schreine, Kirchen) sowie gegen ethnische Minderheiten. Auch Demonstrationen können Ziel terroristischer Anschläge werden. In den meisten Fällen sind Todesopfer und Verletzte auch unter der Zivilbevölkerung zu beklagen.
 
 In Belutschistan und in Khyber Pakhtunkhwa (dort insbesondere in den sogenannten „merged districts“ (MDs)) besteht zudem ein erhöhtes Entführungsrisiko.  
+
 In Karachi kommt es zu religiös, ethnisch oder kriminell motivierten Anschlägen und zu Auseinandersetzungen terroristischer oder krimineller Gruppen mit Sicherheitskräften.
 
 * Holen Sie vor Reiseantritt ortskundigen Rat zur Sicherheitslage am Reiseziel ein und erkundigen Sie sich bei den pakistanischen Behörden oder einem Reisebüro, welche Gegenden für Touristen gesperrt sind.
@@ -65,6 +68,7 @@ Die Grenzgebiete zu Afghanistan, Iran und Indien sind nicht oder nur mit offizie
 **Für Afghanistan besteht eine [Reisewarnung](https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit/204692 "Afghanistan: Reise- und Sicherheitshinweise")**.
 
 **Vor Ein- und Ausreisen über die pakistanische Landesgrenze mit Iran wird** wegen der Entführungsgefahr im iranisch-pakistanischen Grenzgebiet und wegen der bestehenden Reisewarnung für die Provinz Belutschistan ausdrücklich **gewarnt**.  
+
 Die [deutschen Vertretungen in Pakistan](https://pakistan.diplo.de/pk-de) stellen keine Empfehlungsschreiben im Zusammenhang mit der Einholung von Visa für die vorgenannten Länder aus. Entsprechende Visa sollten vor Reiseantritt bei den Auslandsvertretungen dieser Länder in Deutschland beschafft werden.
 
 * Informieren Sie sich über die lokalen Medien.
@@ -75,6 +79,7 @@ Die [deutschen Vertretungen in Pakistan](https://pakistan.diplo.de/pk-de) stelle
 ### Kriminalität
 
 Kriminalität nimmt insgesamt zu, insbesondere in den Großstädten. Gewaltkriminalität (Raub, Mord) wird im gesamten Land beobachtet, insbesondere in Belutschistan und Khyber-Pakhtunkhwa sowie in den Großstädten, insbesondere Karachi. Kleinkriminalität wie insbesondere Taschendiebstähle und andere Straßenkriminalität kommen in den großen Städten auch in den von Ausländern bewohnten Bezirken und insbesondere in Karachi, vor. Fußgänger sind in der Dunkelheit leichte Opfer. Reisepässe, Kreditkarten und mobile Geräte sind oft begehrtes Diebesgut; Kreditkartenbetrug ist nicht unüblich. Als gefährlich gelten Abhebungen an Geldautomaten und das Anhalten an großen Kreuzungen bei Nacht; dabei kommt es nicht selten zu Raubüberfällen.  
+
 Ortsüblich ist, dass Kurzaufenthalte z.B. von Geschäftsreisenden, Künstlern oder SES-Experten in Karachi von ortskundigen, verlässlichen lokalen Partnern begleitet werden.
 
 Entführungen von Ausländern erfolgten zuletzt in Belutschistan sowie in Teilen Khyber Pakhtunkhwas.
@@ -91,6 +96,7 @@ Generell empfiehlt sich für Besucher eine enge Abstimmung ihrer Reisepläne mit
 ## Natur und Klima
 
 Im Süden herrscht tropisch-feuchtes Meeresklima, im Norden Kontinentalklima mit kühlen Wintern und heißen Sommern.  
+
 Während der Haupt-Monsunzeit (Juni bis September) lösen starke Regenfälle besonders in den gebirgigen Teilen des Landes und auch in Küstennähe immer wieder Überschwemmungen und Erdrutsche aus. Dadurch können Straßen zeitweise unpassierbar, Zugverbindungen unterbrochen oder einzelne Orte vorübergehend nicht mehr zugänglich sein.
 
 Pakistan liegt in einer seismisch aktiven Zone, sodass eine Erdbebengefahr besteht.
@@ -172,11 +178,13 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * **Kinderreisepass:** Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
+
 Reisedokumente müssen zum Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 ### Visum
 
 Deutsche Staatsangehörige benötigen grundsätzlich ein pakistanisches Einreisevisum, das möglichst vor Reiseantritt beantragt werden sollte. E-Visa befinden sich in der Erprobungsphase; „Visa on arrival“ sind derzeit nicht empfehlenswert.  
+
 Reisende, die kein Visum haben, werden an den Flughäfen/Grenzen zurückgewiesen.
 
 #### *Visum vor der Einreise*
@@ -341,6 +349,7 @@ Für die Hubschrauberrettung aus Bergnot gibt es in Pakistan nach Kenntnis der B
 ### Medizinische Versorgung
 
 Die medizinische Versorgung ist in weiten Landesteilen unzureichend und entspricht medizinisch, hygienisch, technisch und organisatorisch meist nicht europäischem Standard. Sprachbarrieren können gerade auf dem Land die Kommunikation erheblich erschweren. In Islamabad und Karachi ist die medizinische Versorgung in allen Fachdisziplinen meist auf einem hohen Niveau und damit auch teuer.  
+
 Die Versorgung mit zuverlässigen Medikamenten und eine ununterbrochene Kühlkette sind nicht überall gesichert. Es muss damit gerechnet werden, dass insbesondere in kleinen Apotheken auch gefälschte Produkte verkauft werden. Reisende sollten regelmäßig einzunehmende Medikamente in ausreichender Menge nach Pakistan mitbringen und sich für die Einreise die Notwendigkeit von ihrem Arzt auf Englisch bescheinigen lassen. Die Apotheken der großen Privatkliniken bieten ein breites Spektrum zuverlässiger Medikamente an.
 
 * Schließen Sie für die Dauer des Auslandsaufenthaltes eine Auslandsreise-Kranken- und Rückholversicherung ab.
@@ -354,3 +363,69 @@ Die Versorgung mit zuverlässigen Medikamenten und eine ununterbrochene Kühlket
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/pakistan-node "Pakistan")
+
+### Weltweiter Sicherheitshinweis
+
+Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
+
+Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
+
+Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
+
+Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
+
+Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
+
+Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
+
+Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
+
+* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
+* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
+* Verfolgen Sie die örtlichen und internationalen Medien.
+* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
+
+### Krisenvorsorgeliste
+
+Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
+[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
+
+### Haftungsausschluss
+
+Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
+
+Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
+
+Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
+
+Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
+
+##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
+
+Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
+
+### Denken Sie an Ihre Reisekrankenversicherung!
+
+Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
+
+Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
+
+Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
+
+### Reisemedizinische Hinweise
+
+[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
+
+### Vorsicht bei exotischen Souvenirs
+
+**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
+
+Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
+
+Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
+
+Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
+
+### FAQ
+
+Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")

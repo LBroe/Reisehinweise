@@ -19,10 +19,7 @@ Auf malischem Staatsgebiet besteht in den grenznahen Gebieten zu Senegal, insbes
 
 ### Innenpolitische Lage
 
-Anlässlich der am 17. November 2024 anstehenden Parlamentswahlen kann es zu Menschenansammlungen und Einschränkungen der Bewegungsfreiheit/Straßensperren kommen. Vom 16. bis 17. November 2024 einschließlich Mitternacht dürfen Kfz von Privatpersonen unter Strafandrohung nur innerhalb der eigenen Regionen zirkulieren. Fahrten zum/vom Flughafen waren in der Vergangenheit bei Vorlage eines Flugtickets möglich.
-
-* Nutzen Sie alle verfügbaren Informationsquellen und meiden Sie größere Menschenansammlungen.
-* Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
+Am 17. November 2024 fanden Parlamentswahlen statt. Nutzen Sie weiterhin alle verfügbaren Informationsquellen, meiden Sie grundsätzlich größere Menschenansammlungen und folgen Sie Anweisungen lokaler Sicherheitskräfte.
 
 ### Kriminalität
 
