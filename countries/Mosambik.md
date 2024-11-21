@@ -1,7 +1,5 @@
 # Mosambik: Reise- und Sicherheitshinweise
 
-> 
-
 ## Aktuelles
 
 **Vor Reisen in die Provinz Cabo Delgado, in alle Distrikte außer Pemba, wird gewarnt. In der Provinz Nampula wird vor Reisen in die Distrikte Memba und Erati gewarnt.**
@@ -10,22 +8,18 @@
 
 ### *Demonstrationen, Proteste und Streiks*
 
-Seit Bekanntgabe der Wahlergebnisse der Präsidentschafts-, Parlaments- und Gouverneurswahlen vom 9. Oktober 2024 kommt es immer wieder zu (auch unangekündigten) Demonstrationen und zu Zusammenstößen mit Sicherheitskräften, auch mit Todesfolge.
-
-Für die Zeit vom 13. bis 15. November 2024 sind für das ganze Land weitere Aktionen angekündigt, die auch die Grenzübergänge betreffen können.
+Seit Bekanntgabe der Wahlergebnisse der Präsidentschafts-, Parlaments- und Gouverneurswahlen vom 9. Oktober 2024 kommt es immer wieder zu (auch unangekündigten) Demonstrationen und zu Zusammenstößen mit Sicherheitskräften, auch mit Todesfolge. Mehrfach wurde als Folge von Protestaktionen bereits der Grenzübergang Ressano Garcia/Lebombo zwischen Mosambik und Südafrika geschlossen. Auf absehbare Zeit ist mit weiteren Aktionen zu rechnen. Größere Proteste werden meist vorher bekannt.
 
 * Meiden Sie Demonstrationen, größere Menschenansammlungen und Protestmärsche weiträumig.
+* Informieren Sie sich regelmäßig und in kurzen Abständen über die lokalen Medien.
+* Überprüfen Sie, sofern möglich, die Verlässlichkeit und die Quelle Ihrer Informationen, da aktuell viel Desinformation im Umlauf ist.
 * Meiden Sie in Ortschaften weiträumig Parteizentralen und Büros der Wahlbehörde.
 * Folgen Sie den Anweisungen lokaler Sicherheitskräfte.
-* Überprüfen Sie, sofern möglich, die Verlässlichkeit und die Quelle Ihrer Informationen, da aktuell viel Desinformation im Umlauf ist.
-
-Gewalttätige Auseinandersetzungen und Vandalismus können auch für die folgenden Tage nicht ausgeschlossen werden. Mehrfach wurde als Folge von Protestaktionen bereits der Grenzübergang Ressano Garcia/Lebombo zwischen Mosambik und Südafrika geschlossen.
 
 Durch anhaltende Streiks kann es zu Versorgungsengpässen kommen. Auch Tankstellen können betroffen sein. Es wird daher geraten, Vorräte aufzustocken und stets mit vollem Tank zu fahren.
 
-Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen. **Von nicht notwendigen Überlandfahrten wird daher bis vom 13.-15. November 2024 abgeraten.**
+Straßenblockaden und Protestmärsche können Überlandfahrten erschweren oder unmöglich werden lassen.
 
-* Informieren Sie sich regelmäßig und in kurzen Abständen über die lokalen Medien.
 * Seien Sie bei Fahrten im Landesinneren, insbesondere beim Durchfahren von Ortschaften, umsichtig.
 
 #### *Terroristische Angriffe*
@@ -59,11 +53,8 @@ Siehe *Aktuelles*
 ### Kriminalität
 
 Die Kriminalitätsrate ist erhöht, vor allem innerhalb der Städte. Der Anteil der Gewaltkriminalität ist in den letzten Jahren gestiegen.  
-
 Insbesondere in Maputo und Beira kann es zu Entführungen kommen, die auch Ausländer betreffen.  
-
 Es kommt immer wieder vor, dass mosambikanische Polizisten Touristen wegen angeblicher Verkehrsdelikte festhalten und zur Zahlung von „Bußgeldern“ auffordern. Grundsätzlich ist nur die Verkehrspolizei (dunkelblaue Hose, weißes Hemd, blaue oder weiße Kappe) zur Verhängung von Bußgeldern wegen Verkehrsdelikten berechtigt, die Schutzpolizei (graue Uniformen) darf Verkehrsteilnehmer für allgemeine Identitätskontrollen anhalten.  
-
 Es sind auch Fälle bekannt, in denen ausländische Staatsangehörige bei Identitätskontrollen von der Schutzpolizei bedroht und zur Zahlung von Bestechungsgeldern gedrängt wurden.
 
 * Machen Sie sich vor Ihrer Reise mit den mosambikanischen Verkehrsvorschriften vertraut. Hinweise hierzu geben u.a. Mietwagenfirmen.
@@ -83,7 +74,6 @@ Es sind auch Fälle bekannt, in denen ausländische Staatsangehörige bei Identi
 Mosambik liegt in einer seismisch leicht aktiven Zone, sodass es zu Erdbeben kommen kann.
 
 Das Klima ist subtropisch bis tropisch. In der Regenzeit, insbesondere von Januar bis April, kann es zu starken Regenfällen mit Überschwemmungen und in der Küstenregion zu verheerenden tropischen Zyklonen kommen.  
-
 Starke Regenfälle in den Nachbarländern verursachen saisonal hohe Flusspegelstände und Überschwemmungen in Mosambik. Hierdurch können Personen- und Sachschäden entstehen sowie Verkehrsverbindungen unterbrochen werden.
 
 Die Zyklone Idai und Kenneth haben 2019 in den Provinzen Sofala, Manica und Tete bzw. in der Provinz Cabo Delgado im Norden schwere Schäden verursacht. Die Wiederherstellung der Infrastruktur dauert an. Auch 2021 und 2022 kam es zu größeren Tropenstürmen vor allem im Zentrum und Norden des Landes.
@@ -98,7 +88,6 @@ Die Zyklone Idai und Kenneth haben 2019 in den Provinzen Sofala, Manica und Tete
 ### Infrastruktur/Verkehr
 
 In Mosambik gilt Linksverkehr. In großen Städten gibt es Taxis, ansonsten ist ein Mietwagen zu empfehlen. Nur sehr wenige Überlandstraßen sind in gutem Zustand. Fahrten über Land bergen aufgrund des teilweise extrem schlechten Straßenzustands und des Verhaltens anderer Verkehrsteilnehmer ein sehr hohes Unfallrisiko.  
-
 In der Regenzeit können Straßen aufgrund von Überschwemmungen unpassierbar sein, dies betrifft auch innerstädtische Gebiete.
 
 * Fahren Sie bei Fahrten über Land besonders aufmerksam.
@@ -146,7 +135,6 @@ Die Einreise ist für deutsche Staatsangehörige mit folgenden Dokumenten mögli
 * Kinderreisepass: Ja
 
 **Anmerkungen/Mindestrestgültigkeit:**   
-
 Reisedokumente müssen im Zeitpunkt der Einreise noch mindestens sechs Monate gültig sein.
 
 In Mosambik besteht Ausweispflicht. Die mosambikanische Polizei ist berechtigt, Ausweiskontrollen durchzuführen.
@@ -170,7 +158,6 @@ Das bisherige Verfahren über eine [elektronische Plattform](https://evisa.gov.m
 Studenten- und Transitvisa und solche zur Begründung eines längeren Aufenthalts müssen weiterhin über die mosambikanischen Auslandsvertretungen beantragt werden; entsprechende Informationen erteilt die [Botschaft von Mosambik in Berlin](http://www.embassy-of-mozambique.de/index.php/2015-10-08-06-52-19/visas).
 
 Bei den Ein- und Ausreiseformalitäten muss der Pass persönlich vorgelegt werden. Die Beauftragung von Dritten, sogenannten „Runners“, für die Abwicklung der Ein- und Ausreise ist verboten.  
-
 Bei Überschreitung der im Visum gestatteten Aufenthaltsdauer (Overstay) drohen hohe Geldstrafen.
 
 ### Minderjährige
@@ -184,7 +171,6 @@ Es sind keine besonderen Bestimmungen für die Einreise Minderjähriger bekannt.
 ### Einfuhrbestimmungen
 
 Fremdwährung darf nur bis zu einem Wert von 10.000 USD ein- und ausgeführt werden.  
-
 Aufgrund einer Exportbeschränkung ist die Ein- und Ausfuhr von Landeswährung auf Beträge von maximal 10.000 MZN beschränkt.
 
 Die Ein- und Ausfuhr von Diamanten, Waffen und Drogen aller Art ist strikt verboten. Wertvolle elektronische Geräte müssen bei der Einfuhr deklariert werden. Die Ausfuhr von antiken Geldmünzen ist untersagt.
@@ -197,9 +183,6 @@ Die Ausfuhr von Tieren und Pflanzen, die durch das Washingtoner Artenschutzüber
 
 Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben. Bei Einreise aus einem Gelbfiebergebiet oder Aufenthalt von mehr als 12 Stunden im Transit eines Gelbfiebergebiets müssen alle Personen ab einem Alter von 9 Monaten eine [Gelbfieberimpfung](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gelbfieber/2562864 "Gelbfieber") nachweisen. Transitreisen über Addis Abeba und Nairobi können unabhängig von der Dauer des dortigen Aufenthalts bei der Einreise nach Impfzertifikat gefragt werden. Mosambik selbst ist kein Gelbfieberinfektionsgebiet.
 
-Bei Ausreise aus Mosambik ist für Personen, die länger als vier Wochen im Land waren, eine Polio-Impfung von der WHO empfohlen, siehe [Poliomyelitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
-
-* Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis (Kinderlähmung) sicher, siehe [Poliomyelitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
 * Achten Sie darauf, dass sich bei Ihnen und Ihren Kindern die Standardimpfungen gemäß [Impfkalender des Robert-Koch-Instituts](https://www.rki.de/DE/Content/Infekt/Impfen/Impfkalender/Impfkalender_node.html) auf dem aktuellen Stand befinden.
 * Als Reiseimpfungen werden Impfungen gegen Hepatitis A, Polio und Typhus, bei Langzeitaufenthalt oder besonderer Exposition auch gegen Hepatitis B, Tollwut und Meningokokken-Krankheit (ACWY) empfohlen.
 * Beachten Sie die Anwendungshinweise und Hilfen für die Indikationsstellung in den [Reiseimpfempfehlungen](https://www.auswaertiges-amt.de/blob/2279420/fb5b0b933811f5a89eb825ce3c671962/reise-impfempfehlungen-aa-data.pdf).
@@ -213,22 +196,10 @@ Beide fieberhafte Infektionen treten bisher vereinzelt hauptsächlich im Küsten
 
 ### Malaria
 
-Malaria wird durch dämmerungs- und nachtaktive *Anopheles*-Mücken übertragen. Unbehandelt verläuft insbesondere die gefährliche Malaria tropica bei nicht-immunen Europäern häufig tödlich. Die Erkrankung kann noch Wochen bis Monate nach Aufenthalt im Risikogebiet ausbrechen, siehe [Malaria.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria")
+[Malaria](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/malaria/2533132 "Malaria") ist eine schwerwiegende Erkrankung, die durch Mücken übertragen wird. Es besteht ein ganzjährig hohes Infektionsrisiko im ganzen Land inklusive der Städte. Der Anteil an der fast ausschließlich vorkommenden Malaria tropica, verursacht durch *Plasmodium falciparum*, beträgt über 99%. Eine [Karte der Malariarisikogebiete](https://dtg.org/images/Startseite-Download-Box/Weltkarte_2024.pdf) stellt die [DTG](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html) zur Verfügung.
 
-* Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
-
-Es besteht ganzjährig im gesamten Land inkl. den Städten ein hohes Risiko für die fast ausschließlich vorkommende Malaria tropica (*P. falciparum*). Eine Karte der Risikogebiete stellt die [DTG](https://dtg.org/index.php/empfehlungen-und-leitlinien/empfehlungen/malaria/karten.html) zur Verfügung.
-
-Schützen Sie sich zur Vermeidung von Malaria im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") konsequent vor Insektenstichen. Speziell sollten Sie auf folgende Punkte achten:
-
-* Tragen Sie körperbedeckende, helle Kleidung (lange Hosen, lange Hemden).
-* Applizieren Sie wiederholt Insektenschutzmittel auf alle freien Körperstellen, tagsüber (Dengue) sowie in den Abendstunden und nachts (Malaria).
-* Schlafen Sie ggf. unter einem imprägnierten Moskitonetz.
-
-Je nach Reiseprofil ist neben der immer notwendigen Expositionsprophylaxe eine Chemoprophylaxe (Tabletteneinnahme) sinnvoll. Hierfür sind verschiedene verschreibungspflichtige Medikamente (z.B. Atovaquon/Proguanil, Doxycyclin, Mefloquin) erhältlich.
-
-* Besprechen Sie die Auswahl der Medikamente und deren persönliche Anpassung sowie Nebenwirkungen bzw. Unverträglichkeiten mit anderen Medikamenten vor der Einnahme mit einem Tropenmediziner oder Reisemediziner.
-* Nehmen Sie einen ausreichenden Vorrat mit.
+* Schützen Sie sich in der Dämmerung und nachts konsequent vor Mückenstichen. Benutzen Sie regelmäßig Mückenschutzmittel und tragen Sie entsprechende Kleidung. Verwenden Sie nachts Bettnetze, siehe [Schutz vor Insekten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658).
+* Zur Verhinderung einer Malaria ist in Gebieten mit hohem Malariarisiko zusätzlich zum Mückenschutz eine Tabletteneinnahme (Chemoprophylaxe) sinnvoll. Lassen Sie sich bzgl. der Auswahl entsprechender Medikamente ärztlich beraten.
 
 ### HIV/AIDS
 
@@ -254,12 +225,9 @@ Cholera wird über ungenügend aufbereitetes Trinkwasser oder rohe Lebensmittel 
 
 ### Poliomyelitis (Kinderlähmung)
 
-Mosambik gehört zu den wenigen Ländern weltweit, in denen noch Erkrankungen durch Polioviren gemeldet werden. Die Übertragung erfolgt durch fäkal verunreinigtes Trinkwasser oder Nahrungsmittel.
+Mosambik gehört zu den Ländern, die als vulnerabel für Poliomyelitis-Ausbrüche gelten. Die Übertragung erfolgt durch fäkal verunreinigtes Trinkwasser oder Nahrungsmittel.
 
-* Bei Reisen unter vier Wochen Reisezeit achten Sie auf einen kompletten Impfschutz gegen Poliomyelitis. Alle zehn Jahre sind Auffrischungsimpfungen notwendig.
-* Bei Reisen und Langzeitaufenthalten über vier Wochen im Land lassen Sie sich zusätzlich vier Wochen bis 12 Monate vor Wiederausreise mit einer Dosis gegen Poliomyelitis impfen.
-
-Die Impfung ist im Internationalen Impfzertifikat separat zu bescheinigen. Siehe [Poliomyelitis.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
+Stellen Sie einen vollständigen Impfschutz gegen Poliomyelitis sicher. Es wird eine Auffrischimpfung empfohlen, wenn die letzte Impfung vor mehr als 10 Jahren verabreicht wurde, siehe [Poliomyelitis-Impfung.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2517492 "Poliomyelitis")
 
 ### Schistosomiasis (Bilharziose)
 
@@ -275,76 +243,10 @@ Die medizinische Versorgung im Lande ist mit der in Europa nicht zu vergleichen 
 * Nehmen Sie eine individuelle Reiseapotheke mit und schützen Sie diese unterwegs gegen hohe Temperaturen.
 * Lassen Sie sich vor einer Reise durch reisemedizinische Beratungsstellen, Tropen- oder Reisemediziner persönlich beraten und Ihren Impfschutz anpassen. Entsprechende Ärzte finden Sie z. B. über die [DTG.](https://dtg.org/index.php/liste-tropenmedizinischer-institutionen/arztsuche.html "DTG")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+**[Bitte beachten Sie neben dem generellen auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:").**
 
 ## Länderinfos zu Ihrem Reiseland
 
 Hier finden Sie Adressen zuständiger diplomatischer Vertretungen und Informationen zur Politik und zu den bilateralen Beziehungen mit Deutschland.
 
 [Mehr](https://www.auswaertiges-amt.de/de/service/laender/mosambik-node "Mosambik")
-
-### Weltweiter Sicherheitshinweis
-
-Die weltweite Gefahr terroristischer Anschläge und Entführungen besteht fort.
-
-Insbesondere die Terrororganisationen „Al Qaida“ und „Islamischer Staat“ (IS) drohen mit Anschlägen gegen verschiedene Länder und deren Staatsangehörige. Durch den Konflikt im Nahen Osten in Folge der Terroranschläge gegen Israel vom 7. Oktober 2023 ergibt sich ein erhöhtes Mobilisierungspotenzial.
-
-Auch wenn konkrete Hinweise auf eine Gefährdung deutscher Interessen im Ausland derzeit nicht vorliegen, kann nicht ausgeschlossen werden, dass auch deutsche Staatsangehörige oder deutsche Einrichtungen im Ausland Ziel terroristischer Gewaltakte werden.
-
-Als mögliche Anschlagsziele kommen besonders Orte mit Symbolcharakter in Frage. Dazu gehören bekannte Sehenswürdigkeiten, Regierungs- und Verwaltungsgebäude, Verkehrsinfrastruktur (insbesondere Flugzeuge, Bahnen, Schiffe, Busse), Wirtschafts- und Tourismuszentren, Hotels, Märkte, religiöse Versammlungsstätten sowie generell größere Menschenansammlungen.
-
-Der Grad der terroristischen Bedrohung unterscheidet sich von Land zu Land. Eine Anschlagsgefahr besteht insbesondere in Ländern und Regionen, in denen bereits wiederholt Anschläge verübt wurden oder mangels effektiver Sicherheitsvorkehrungen vergleichsweise leicht verübt werden können, oder in denen Terroristen über Rückhalt in der lokalen Bevölkerung verfügen.
-
-Genauere Informationen über die Terrorgefahr finden sich in den länderspezifischen Reise- und Sicherheitshinweisen. Diese werden regelmäßig überprüft und bei Bedarf angepasst.
-
-Die Gefahr, Opfer eines Anschlages zu werden, ist im Vergleich zu anderen Risiken, die Reisen ins Ausland mit sich bringen, wie Unfällen, Erkrankungen oder gewöhnlicher Kriminalität, nach wie vor vergleichsweise gering. Dennoch sollten Reisende sich der Gefährdung bewusst sein.
-
-* Verhalten Sie sich sicherheitsbewusst und situationsgerecht.
-* Informieren Sie sich vor und während einer Reise sorgfältig über die Verhältnisse in Ihrem Reiseland.
-* Verfolgen Sie die örtlichen und internationalen Medien.
-* Melden Sie verdächtige Vorgänge (zum Beispiel unbeaufsichtigte Gepäckstücke in Flughäfen oder Bahnhöfen, verdächtiges Verhalten von Personen) den örtlichen Polizei- oder Sicherheitsbehörden.
-
-### Krisenvorsorgeliste
-
-Deutschen Staatsangehörigen wird empfohlen sich unabhängig vom Land und der Dauer des Auslandsaufenthalts in die Krisenvorsorgeliste „Elefand“ des Auswärtigen Amts einzutragen:  
-[Krisenvorsorgeliste](https://krisenvorsorgeliste.diplo.de/signin) 
-
-### Haftungsausschluss
-
-Reise- und Sicherheitshinweise beruhen auf den zum angegebenen Zeitpunkt verfügbaren und als vertrauenswürdig eingeschätzten Informationen des Auswärtigen Amts und werden fortlaufend aktualisiert. Hinweise auf besondere Rechtsvorschriften im Ausland betreffen immer nur wenige ausgewählte Fragen und stellen lediglich eine Hilfestellung seitens des Auswärtigen Amtes dar, sie können eine Information durch die zuständigen Stellen des jeweiligen Staates jedoch nicht ersetzen.
-
-Gesetzliche Vorschriften können sich zudem jederzeit ändern, ohne dass das Auswärtige Amt hiervon unterrichtet wird. Bitte beachten Sie, dass Gefahrenlagen oft unübersichtlich sind und sich rasch ändern können. Auch daher können mit größter Sorgfalt recherchierte Informationen unzutreffend oder unvollständig sein. Das Auswärtige Amt empfiehlt deswegen, dass Sie sich vor Reiseantritt etwa an Ihren Transportdienstleister sowie die jeweils zuständige diplomatische oder konsularische Vertretung des Ziellandes wenden.
-
-Bitte beachten Sie auch, dass die Entscheidung über den Antritt einer Reise letztlich immer in Ihrer alleinigen Verantwortung liegt. Eine generelle Gewähr für die Richtigkeit und Vollständigkeit sowie eine Haftung für eventuell eintretende Schäden wird nicht übernommen.
-
-Das Auswärtige Amt rät dringend, die in den Reise- und Sicherheitshinweisen enthaltenen Empfehlungen zu beachten sowie einen entsprechenden Versicherungsschutz, z.B. einen Auslands-Krankenversicherungsschutz mit Rückholversicherung, abzuschließen. In diesem Zusammenhang wird darauf hingewiesen, dass Ihnen Kosten für erforderlich werdende Hilfsmaßnahmen nach dem Konsulargesetz in Rechnung gestellt werden.
-
-##### Bitte beachten Sie neben dem generellen Haftungsausschluss:
-
-Eine Gewähr für die Richtigkeit und Vollständigkeit der medizinischen Informationen sowie eine Haftung für eventuell eintretende Schäden kann nicht übernommen werden. Alle Angaben sind abhängig von den individuellen Reiseverhältnissen zu sehen und ersetzen nicht die ärztliche Konsultation sowie eine eingehende medizinische Beratung. Sofern zutreffend, beziehen sich Angaben i.d.R. auf die direkte Einreise aus Deutschland in ein Reiseland und sind insbesondere auf längere Aufenthalte vor Ort zugeschnitten. Für kürzere Reisen und Einreisen aus Drittländern können Abweichungen gelten.
-
-### Denken Sie an Ihre Reisekrankenversicherung!
-
-Bitte klären Sie mit Ihrer Krankenkasse oder Krankenversicherung, ob für Ihre Auslandsreise ein adäquater Krankenversicherungsschutz besteht, der auch die Kosten für einen Rettungsflug nach Deutschland abdeckt.  
-
-Ohne ausreichenden Versicherungsschutz sind vor Ort notwendige Kosten (z.B. Behandlungs- bzw. Krankenhauskosten, Heimflug) grundsätzlich vom Betroffenen selbst zu tragen und können schnell alle Ihre Ersparnisse aufzehren.
-
-Es ist in vielen Ländern üblich, dass die von Ärzten bzw. Krankenhäusern in Rechnung gestellten Kosten noch vor der Entlassung zu begleichen oder gar vorzustrecken sind. Auch kann nicht ausgeschlossen werden, dass der Arzt/das Krankenhaus eine Ausreiseverweigerung für den Patienten erwirkt, wenn die Rechnung nicht beglichen wird.  
-
-### Reisemedizinische Hinweise
-
-[Informationen über häufige Infektions- und Tropenkrankheiten](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/mers/199318 "Infektions- und Tropenkrankheiten")
-
-### Vorsicht bei exotischen Souvenirs
-
-**Viele Reiseandenken unterliegen strengen Einfuhrregeln. Informieren Sie sich rechtzeitig!**
-
-Bitte informieren Sie sich bereits vor Antritt Ihrer Reise darüber, welche Reiseandenken aus Artenschutzgründen nicht eingeführt werden dürfen. Nicht wenige Touristen erleben bei ihrer Rückkehr eine böse Überraschung, wenn das Erinnerungsstück vom Zoll beschlagnahmt wird oder sogar Strafen folgen. Auch wenn ein exotisches Souvenir noch so sehr durch seine Besonderheit und Einzigartigkeit beeindruckt - viele Tier- und Pflanzenarten, aus denen derartige Souvenirs hergestellt werden, sind in ihrem Bestand gefährdet oder sogar vom Aussterben bedroht. Diese Souvenirs unterliegen strengen Einfuhrbestimmungen.
-
-Der Zoll und das Bundesamt für Naturschutz haben für Reisende das Online-Portal [Artenschutz im Urlaub](https://www.artenschutz-online.de/information/laenderauswahl.php) für Reisende eingeführt. Hierüber können Sie sich genau informieren, welche Souvenirs aus welchen Ländern nach Deutschland eingeführt werden dürfen.
-
-Bitte tragen Sie nicht zum illegalen und schädlichen Handel mit wild lebenden Tieren und Pflanzen bei. Naturschutzorganisationen sowie Umwelt- und Zollbehörden raten dazu, kein Risiko einzugehen und grundsätzlich auf Mitbringsel zu verzichten, die aus Tieren oder Pflanzen gefertigt wurden. Sie empfehlen stattdessen landestypische Textilien, Keramik, Metall- und Glasarbeiten oder Malereien zu erwerben. Grundsätzlich sollten Sie beim Kauf von Tier- und Pflanzenprodukten Vorsicht walten lassen, wenn Sie deren Herkunft nicht nachvollziehen können. So fügen Sie der Tier- und Pflanzenwelt Ihres Ferienlandes keinen Schaden zu.
-
-### FAQ
-
-Bitte beachten Sie auch unsere Fragen und Antworten zum Thema „Sicherheitshinweise“ [FAQ.](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/606106 "Sicherheitshinweise")
