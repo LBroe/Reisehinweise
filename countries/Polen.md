@@ -2,18 +2,6 @@
 
 ## Aktuelles
 
-Für den Süden und Westen Polens gelten weiterhin Hochwasserwarnungen und teilweise Hochwasseralarm. Weite Teile der Grenzregion zu Tschechien wurden für 30 Tage zum Katastrophengebiet erklärt.
-
-Es ist weiterhin mit Hochwasser, Überschwemmungen und Straßensperrungen zu rechnen.
-
-* Beachten Sie stets Verbote, Hinweisschilder und Warnungen sowie die Anweisungen der lokalen Sicherheitskräfte und Behörden.
-* Halten Sie sich fern von Bach- und Flussläufen, da diese auch bei normaler Witterung schnell anschwellen können.
-* Betreten Sie keine Deiche oder Uferbefestigungen, da diese instabil sein können.
-* Wählen Sie den Notruf 112, wenn Sie sich in einer Notlage befinden.
-* Bitte halten Sie sich über die lokalen Medien und über die Webseite des polnischen Wetterinstituts [www.imgw.pl](http://www.imgw.pl/) auf dem Laufenden.
-* Bitte leisten Sie den Anweisungen und Empfehlungen der Funkzellennachrichten der polnischen Behörden Folge, die an ausländische Nummern auch in englischer Sprache versandt werden.
-* Bitte seien Sie in Gebirgsregionen besonders vorsichtig, da es zu Hang- und Erdrutschen kommen kann.
-
 ### *Verbot der Einreise für Kfz mit Zulassung in der Russischen Föderation*
 
 Seit 2023 dürfen Kfz mit Zulassung in der Russischen Föderation grundsätzlich nicht mehr die Grenze nach Polen überqueren. Weitergehende Informationen (auch zu ggf. möglichen Ausnahmen sowie weiteren Einfuhrbeschränkungen, z. B. falls Gegenstände nicht offensichtlich zum persönlichen Gebrauch während der Reise bestimmt sind) sind bei der zuständigen Zollbehörde erhältlich.
@@ -21,8 +9,6 @@ Seit 2023 dürfen Kfz mit Zulassung in der Russischen Föderation grundsätzlich
 ### *Situation an der Grenze zur Ukraine*
 
 Die Grenzstellen zwischen Polen und der Ukraine sind in beide Richtungen offen. Seit dem 24. Februar 2022 sind sie kriegsbedingt durch einen Zustrom von Flüchtlingen aus der Ukraine in Richtung Polen stärker frequentiert. Zum Teil sind lange Staus möglich. Mit Einschränkungen bei der Ein-und Ausreise muss weiterhin gerechnet werden.
-
-Am Grenzübergang in Dorohusk sind voraussichtlich bis Mitte November 2024 erhebliche Behinderungen des Fahrzeugverkehrs und längere Wartezeiten beim Grenzübertritt aufgrund von Sanierungsarbeiten zu erwarten.
 
 Offizielle Informationen bieten die [polnischen Behörden](https://www.gov.pl/web/premier/bezpieczenstwo-polski-na-pierwszym-miejscu--stan-wyjatkowy-przy-granicy-z-bialorusia).
 
@@ -33,6 +19,10 @@ Offizielle Informationen bieten die [polnischen Behörden](https://www.gov.pl/we
 Aufgrund der Migrations- und Flüchtlingssituation sowie aktueller Grenzschließungen durch beide Seiten für zahlreiche Grenzübergänge kann es zu starken Einschränkungen bei der Ein- und Ausreise bis hin zur Verweigerung kommen. Die Lage und Möglichkeit der Nutzung zugelassener Grenzübergangsstellen ist nur bedingt einschätzbar. Für den Personenverkehr ist aktuell nur der Grenzübergang Terespol geöffnet, wobei Fußgänger nicht zugelassen sind. Der Warenverkehr über die Straße ist stark eingeschränkt worden und massiv beeinträchtigt. Es ist mit verstärkten Personen- und Fahrzeugkontrollen in diesem Bereich zu rechnen.
 
 Offizielle Informationen bieten die [polnischen Behörden](https://www.gov.pl/web/premier/bezpieczenstwo-polski-na-pierwszym-miejscu--stan-wyjatkowy-przy-granicy-z-bialorusia).
+
+Seit Juli 2024 gelten für die Einfuhr in Belarus zugelassener Pkw nach Polen neue Regeln. Zu den Bedingungen für den Grenzübertritt gehören die Anwesenheit der natürlichen Person, die Eigentümer des Fahrzeugs ist, und die Nichtverwendung des Fahrzeugs für kommerzielle oder andere Zwecke, die gegen die bestehenden Sanktionen verstoßen.
+
+Weitere Informationen bietet die [polnische Regierung.](https://www.gov.pl/web/kas/nowe-zasady-przywozu-samochodow-osobowych-zarejestrowanych-na-bialorusi)
 
 ### *Situation an der Grenze zu Kaliningrad*
 
@@ -46,9 +36,9 @@ An den Grenzübergangen Mamonowo/Grzechotki und Bagrationowsk/Bezledy kommt es v
 
 ### Kriminalität
 
-In größeren Städten, den touristischen Zentren und Ausflugszielen, sowie in öffentlichen Verkehrsmitteln kommt es zu Kleinkriminalität wie Taschendiebstählen.
+In größeren Städten, den touristischen Zentren und an Ausflugszielen, sowie in öffentlichen Verkehrsmitteln kommt es zu Kleinkriminalität wie Taschendiebstählen.
 
-In letzter Zeit haben Betrüger von Touristen finanzielle Hilfen erbeten, um nach einem angeblichen Diebstahl zumindest Fahrtkosten bestreiten zu können. In Bars und Clubs kommt es vereinzelt auch zum Einsatz von K.O.-Tropfen und Kreditkartenbetrug.
+In letzter Zeit haben Betrüger von Touristen finanzielle Hilfen erbeten, um nach einem angeblichen Diebstahl zumindest Fahrtkosten bestreiten zu können. In Bars und Clubs kommt es vereinzelt auch zum Einsatz von K.-o.-Tropfen und Kreditkartenbetrug.
 
 Um Fahrzeuge zu entwenden, werden auch Pannen oder Unfälle vorgetäuscht.  
 Für geparkte Lastkraftwagen wird auf das Risiko des Ladungsdiebstahls durch Aufschneiden der Abdeckplanen hingewiesen.
@@ -62,8 +52,6 @@ Für geparkte Lastkraftwagen wird auf das Risiko des Ladungsdiebstahls durch Auf
 * Seien Sie bei ungewohnten E-Mails, Telefonanrufen, Gewinnmitteilungen, Angeboten und Hilfeersuchen angeblicher Bekannter skeptisch. Teilen Sie im Zweifel keine Daten von sich mit.
 
 ## Natur und Klima
-
-Siehe *Aktuelles* 
 
 Es herrscht gemäßigtes Übergangsklima, teilweise mit kalten Wintern.
 
@@ -98,9 +86,11 @@ Für die meisten Autobahnen in Polen wurden die Mautgebühren für Pkws und Fahr
 
 Mautpflichtig bleiben aktuell folgende Strecken:
 
-- A4 Kraków - Katowice (Krakau - Kattowitz); 61 km
+- A2 Konin - Swiecko: 255 km (bis auf die Umfahrung Posen)
 
-Die Maut kann sowohl bar als auch mit Kredit- oder Bankkarte bezahlt werden.
+- A4 Kraków - Katowice (Krakau - Kattowitz); 61 km  
+
+Die Maut kann sowohl bar als auch mit Kredit- oder Debitkarte (Girocard) bezahlt werden.
 
 Fahrzeuge mit über 3,5 Tonnen zulässigem Gesamtgewicht müssen [Lkw-Fahrverbote in Polen](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-fahrverbot/482484)  und ggf. [Beschränkungen in Warschau](https://polen.diplo.de/pl-de/02-themen/02-3-wirtschaft/06-verkehr/lkw-warschau/484556) beachten, mit einem elektronischen Sendegerät (OBU) ausgestattet sein und anfallende Gebühren mittels [E-TOLL](https://etoll.gov.pl/de/) bezahlen.
 
@@ -142,7 +132,7 @@ Einreise- und Zollbestimmungen für deutsche Staatsangehörige können sich kurz
 
 ### Mögliche Einreisebeschränkungen/COVID-19
 
-Bestimmungen zur Einreise ändern sich häufig. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Polens](https://www.gov.pl/web/coronavirus) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
+Bestimmungen zur Einreise können sich auch kurzfristig ändern. Bitte informieren Sie sich zusätzlich bei den offiziellen Stellen [Polens](https://www.gov.pl/web/coronavirus) sowie der für Deutschland [zuständigen Vertretung](https://diplo.de/-/199678). Bitte beachten Sie die Hinweise unter [COVID-19.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/reisemedizinische-hinweise/Coronavirus/-/2309820 "COVID-19-Hinweise für Reisende")
 
 ### Reisedokumente
 
@@ -174,7 +164,7 @@ Siehe *Aktuelles*
 
 Die Ein- und Ausfuhr von Waren unterliegt den [Bestimmungen der Europäischen Union](https://europa.eu/youreurope/citizens/travel/carry/alcohol-tobacco-cash/index_de.htm). Der Grundsatz keiner Warenkontrollen schließt Stichprobenkontrollen im Rahmen der polizeilichen Überwachung der Grenzen und der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs nicht aus. Die Ein- und Ausfuhr von 10.000 EUR oder höher ist in der EU deklarationspflichtig.
 
-Die Ausfuhr von Gegenständen (z. B. Bücher, Kunstgegenstände, Schmuck, Möbel), aus der Zeit vor 1945 unterliegt besonderen Regelungen. Es wird deshalb empfohlen, vor dem Kauf eines solchen Gegenstandes, der audgeführt werden soll, die Ausfuhrmöglichkeit zu prüfen.
+Die Ausfuhr von Gegenständen (z. B. Bücher, Kunstgegenstände, Schmuck, Möbel), aus der Zeit vor 1945 unterliegt besonderen Regelungen. Es wird deshalb empfohlen, vor dem Kauf eines solchen zum Export bestimmten Gegenstandes die Ausfuhrberechtigung zu prüfen.
 
 Bei der Wiedereinreise nach Deutschland ist zu beachten, dass die Freimenge für Zigaretten auf 800 Stück pro Person begrenzt ist.
 
@@ -210,7 +200,7 @@ Das Versorgungsniveau in Polen ist zufriedenstellend, Verständigungsschwierigke
 
 ### Durch Mücken, Zecken und sonstige Gliederfüßer übertragene Erkrankungen
 
-Die in Polen vorkommende Erkrankung [Frühsommer-Meningoenzephalitis (FSME)](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/fsme/2562884 "FSME") wird durch Zecken übertragen. Infektionen treten zwischen Frühjahr und Herbst vor allem im Nordosten des Landes auf, es besteht jedoch im gesamten Land ein Risiko.
+Die in Polen vorkommende Erkrankung [Frühsommer-Meningoenzephalitis (FSME)](https://diplo.de/-/2562884) wird durch Zecken übertragen. Infektionen treten zwischen Frühjahr und Herbst vor allem im Nordosten des Landes auf, es besteht jedoch im gesamten Land ein Risiko.
 
 * Schützen Sie sich bei naturnahen Aufenthalten im Freien vor Zecken. Suchen Sie Ihren Körper nach dem Aufenthalt im Freien sorgfältig ab, siehe [Schutz vor Insekten.](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/schutz-vor-insekten/2564658 "Schutz vor Insekten")
 * Lassen Sie sich bei Reisen in FSME-Risikogebiete mit vermehrtem Aufenthalt im Freien hinsichtlich einer FSME-Impfung beraten.
@@ -235,7 +225,11 @@ In größeren Städten Polens wurden während der Wintermonate die EU-Grenzwerte
 
 * Informieren Sie sich über aktuelle Luftwerte z.B. über den [World Air Quality Index](https://waqi.info/de) sowie die App [IQAir.](https://www.iqair.com/de/ "IQAir")
 
-**[Bitte beachten Sie neben dem generellen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
+Intensive Sonneneinstrahlung kann in den Sommermonaten zu kurz- und langfristigen Haut- und Augenschäden führen.
+
+* Informieren Sie sich z.B. über die App [SunSmart](https://www.who.int/news/item/21-06-2022-sunsmart-global-uv-app-helps-protect-you-from-the-dangers-of-the-sun-and-promotes-public-health) über notwendige Sonnenschutzmaßnahmen.
+
+**[Bitte beachten Sie neben dem generellen Haftungsausschluss auch den medizinischen Haftungsausschluss](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/-/2519600 "Bitte beachten Sie neben dem generellen Haftungsausschluss:")**
 
 ## Länderinfos zu Ihrem Reiseland
 
