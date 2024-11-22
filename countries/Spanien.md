@@ -2,15 +2,9 @@
 
 ## Aktuelles
 
-Aufgrund heftiger Unwetter ist es bereits im Osten und Süden des Landes vielerorts zu Überschwemmungen gekommen. Besonders betroffen sind Gebiete in der Provinz Valencia, in denen es mehr als 200 Todesopfer gab.
-
-Die Aufräum- und Bergungsarbeiten sind in den betroffenen Gebieten noch nicht abgeschlossen.
+Nach den heftigen Unwettern im Osten und Süden des Landes dauern die Aufräumarbeiten in der Provinz Valencia weiter an.
 
 Der Zugverkehr ist zum Teil noch eingeschränkt und teilweise sind auch Straßen nicht befahrbar. Über Einschränkungen im Straßennetz informieren die [spanische Straßenverkehrsbehörde](https://infocar.dgt.es/etraffic/) und die [Regierung der autonomen Gemeinschaft Valencia](https://www.112cv.gva.es/es/inicio).
-
-* Bitte beachten Sie die Hinweise der örtlichen Behörden, z.B. auf der [Webseite der staatlichen Agentur für Meteorologie AEMET.](https://www.aemet.es/es/eltiempo/prediccion/avisos)
-* Aktuelle Wetterwarnungen bietet auch [MeteoAlarm.](https://www.meteoalarm.org/en/live/region/ES)
-* Beachten Sie stets Verbote, Hinweisschilder, Warnungen sowie die Anweisungen lokaler Behörden.
 
 ## Sicherheit
 
