@@ -4,9 +4,7 @@
 
 **Vor Reisen nach Südsudan wird gewarnt.**
 
-Am Abend des 21.11.2024 kam es an mehreren Orten in der Hauptstadt Dschuba zu heftigen Schusswechseln zwischen unterschiedlichen Abteilungen der Sicherheitskräfte. Weitere Schüsse wurden am Morgen des 22.11.2024 gemeldet. Die Situation in Dschuba ist angespannt und unübersichtlich. 
-
-* Deutschen Staatsangehörigen in Dschuba wird empfohlen, bis auf Weiteres an einem sicheren Ort zu bleiben.​​​​​​​
+Am Abend des 21.11.2024 kam es an mehreren Orten in der Hauptstadt Dschuba zu heftigen Schusswechseln zwischen unterschiedlichen Abteilungen der Sicherheitskräfte, die zu Toten und Verletzten führten.  Nach einer Einigung zwischen den Beteiligten hat sich die Situation vorerst entspannt. Jedoch können erneute Spannungen und bewaffnete Auseinandersetzungen in Dschuba und anderen Orten in Südsudan nicht ausgeschlossen werden. Das Auswärtige Amt weist nachdrücklich auf die bestehende Reisewarnung hin und rät dringend zu nochmals erhöhter Vorsicht. Bitte informieren Sie sich über aktuelle Entwicklungen kontinuierlich auch über die lokalen Medien (z. B. [www.eyeradio.org](http://www.eyeradio.org)  oder [www.radiotamazuj.org](http://www.radiotamazuj.org) ).
 
 ### Terrorismus
 
