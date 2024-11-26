@@ -2,7 +2,9 @@
 
 ## Aktuelles
 
-Ab dem 24. November hat die Opposition zu Großkundgebungen in Islamabad aufgerufen, die weiterhin anhalten. Aus diesem Grund ist mit Straßensperrungen im Großraum Islamabad / Rawalpindi sowie möglicherweise im nördlichen Punjab und mit erheblichen Einschränkungen der Telefon- und Internetverbindungen zu rechnen.  
+Ab dem 24. November hat die Opposition zu Großkundgebungen in Islamabad aufgerufen, die weiterhin anhalten. Aufgrund des aktuellen Demonstrationsgeschehens sind die Verkehrswege insbesondere in Islamabad, Lahore und dem nördlichen Punjab erheblich gestört, auch alle anderen Teile Pakistans können betroffen sein. Internet-Dienstleistungen, Social Media und teilweise auch Telefon sind stark beeinträchtigt bzw. abgestellt. Sicherheitsmaßnahmen sind insbesondere im Stadtzentrum von Islamabad verschärft, u.a. durch Armeeeinheiten.
+
+Beachten Sie die Hinweise unter der Rubrik Sicherheitslage.
 
 ## *Sicherheitslage*
 
