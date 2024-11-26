@@ -2,7 +2,7 @@
 
 ## Sicherheit
 
-**Von Reisen in die Demokratische Volksrepublik Korea wird dringend abgeraten...**
+**Von Reisen in die Demokratische Volksrepublik Korea wird dringend abgeraten.**
 
 ### Terrorismus
 
